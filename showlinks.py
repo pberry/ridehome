@@ -18,15 +18,16 @@ for post in rhfeed.entries:
 	soup = BeautifulSoup(post.summary, 'html.parser')
 	linksBlock = soup.find_all("p", string="Links:")
 	# check to see if we found anything
-	if linksBlock:
+	if len(linksBlock) > 0 and len(linksBlock[0].next_sibling.find_all('a')) > 0:
 		postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
 		print ("\n**" + postPubTime + "**")
 		for listItem in (linksBlock[0].next_sibling.find_all('li')):
 			linkCount += 1
-			if len(listItem.contents) == 2:
-				print ("* [" + listItem.a.string + "](" + listItem.a['href'] + ") " + listItem.contents[1].string.strip())
-			else:
-				print ("* [" + listItem.a.string + "](" + listItem.a['href'] + ")")
+			if listItem.a:
+				if len(listItem.contents) == 2:
+					print ("* [" + listItem.a.string + "](" + listItem.a['href'] + ") " + listItem.contents[1].string.strip())
+				else:
+					print ("* [" + listItem.a.string + "](" + listItem.a['href'] + ")")
 print ("Link count: ",linkCount)
 print ("Pod count: ",podCount)
 print ("Total pod time in seconds:",totalTime)
