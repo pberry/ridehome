@@ -1,3 +1,11 @@
+**Thursday, November 29**
+* [Amazon debuts a scale model autonomous car to teach developers machine learning ](https://techcrunch.com/2018/11/28/amazon-debuts-a-scale-model-autonomous-car-to-teach-developers-machine-learning/) (TechCrunch)
+* [New Parents Complain Amazon Baby-Registry Ads Are Deceptive](https://www.wsj.com/articles/new-parents-complain-amazon-ads-are-deceptive-1543417201) (WSJ)
+* [An Amazon revolt could be brewing as the tech giant exerts more control over brands](https://www.recode.net/2018/11/29/18023132/amazon-brand-policy-changes-marketplace-control-one-vendor) (Recode)
+* [Google Assistant gets visual lyrics and more in big holiday update](https://www.engadget.com/2018/11/29/google-assistant-visual-lyrics-big-update/) (Engadget)
+* [YouTube is rolling out its Instagram-like Stories feature to more creators](https://www.theverge.com/2018/11/29/18117670/youtube-stories-creators-subscribers-instagram-philip-defranco) (The Verge)
+* [Facebook Considered Charging for Access to User Data](https://www.wsj.com/articles/facebook-considered-charging-for-access-to-user-data-1543454648?tesla=y) (WSJ)
+* [WTF is happening to crypto?](https://techcrunch.com/2018/11/20/wtf-is-happening-to-crypto/) (TechCrunch)
 
 **Wednesday, November 28**
 * [8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation](https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown) (BuzzFeed)
