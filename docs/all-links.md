@@ -1,3 +1,11 @@
+**Friday, November 30**
+* [Marriott says 500 million Starwood guest records stolen in massive data breach ](https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/) (TechCrunch)
+* [SEC charges Floyd Mayweather, DJ Khaled for promoting ICOs without disclosing payments](https://www.cnbc.com/2018/11/29/sec-charges-floyd-mayweather-dj-khaled-for-promoting-icos-without-disclosing-payments.html) (CNBC)
+* [Apple Music is coming to the Amazon Echo](https://techcrunch.com/2018/11/30/apple-music-is-coming-to-the-amazon-echo/) (TechCrunch)
+* [Instagram now lets you share Stories to a Close Friends list](https://techcrunch.com/2018/11/30/how-instagram-close-friends-works/) (TechCrunch)
+* [Exclusive: Airbnb will start designing houses in 2019](https://www.fastcompany.com/90271599/exclusive-airbnb-will-start-designing-houses-in-2019) (Fast Company)
+* [Techmeme now publishing paid and free "Leaderboards" showing the most influential reporters around a specific news topic](https://news.techmeme.com/181129/topic-leaderboards) (Techmeme.com)
+
 **Thursday, November 29**
 * [Amazon debuts a scale model autonomous car to teach developers machine learning ](https://techcrunch.com/2018/11/28/amazon-debuts-a-scale-model-autonomous-car-to-teach-developers-machine-learning/) (TechCrunch)
 * [New Parents Complain Amazon Baby-Registry Ads Are Deceptive](https://www.wsj.com/articles/new-parents-complain-amazon-ads-are-deceptive-1543417201) (WSJ)
