@@ -1,5 +1,5 @@
 **Friday, November 30**
-* [Python Bytes](https://itunes.apple.com/us/podcast/python-bytes/id1173690032)Python Bytes
+* [Python Bytes](https://itunes.apple.com/us/podcast/python-bytes/id1173690032) (Python Bytes)
 * [Microsoft Is Worth as Much as Apple. How Did That Happen?](https://www.nytimes.com/2018/11/29/technology/microsoft-apple-worth-how.html) (NYTimes)
 * [How China’s Bytedance became the world’s most valuable startup](https://www.theverge.com/2018/11/30/18107732/bytedance-valuation-tiktok-china-startup) (The Verge)
 * [China’s Video Craze Drives Growth for ByteDance](https://www.theinformation.com/articles/chinas-video-craze-drives-growth-for-bytedance) (The Information)
