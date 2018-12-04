@@ -1,3 +1,13 @@
+**Monday, December 03**
+* [Tumblr will ban all adult content on December 17th](https://www.theverge.com/2018/12/3/18123752/tumblr-adult-content-porn-ban-date-explicit-changes-why-safe-mode) (TheVerge)
+* [Apple Will Wait Until at Least 2020 to Release a 5G iPhone](https://www.bloomberg.com/news/articles/2018-12-03/apple-is-said-to-miss-rapid-5g-takeoff-sitting-out-tech-shift) (Bloomberg)
+* [Kuo: ‘All-new design’ AirPods in 2020, wireless charging model in first quarter 2019](https://9to5mac.com/2018/12/02/kuo-all-new-design-airpods-in-2020-wireless-charging-model-in-first-quarter-2019/) (9to5Mac)
+* [Uber Exploring Deal to Buy Bird or Lime](https://www.theinformation.com/articles/uber-exploring-deal-to-buy-bird-or-lime) (The Information)
+* [Tencent Music Moves Forward With IPO After Delay](https://www.wsj.com/articles/tencent-music-moves-forward-with-ipo-after-delay-1543846991) (WSJ)
+* [Microsoft PowerPoint is getting real-time captions and subtitles for presentations](https://www.theverge.com/2018/12/3/18123475/microsoft-powerpoint-captions-subtitles-real-time-feature) (The Verge)
+* [The first self-driving car you use will most likely carry your groceries, not you](https://www.vox.com/the-goods/2018/11/30/18120000/self-driving-cars-autonomous-vehicles-groceries) (Vox)
+* [How to Reset All of Your Browsers Back to Square One](https://gizmodo.com/how-to-reset-all-of-your-browsers-back-to-square-one-1830765020) (Gizmodo)
+
 **Friday, November 30**
 * [Marriott says 500 million Starwood guest records stolen in massive data breach ](https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/) (TechCrunch)
 * [SEC charges Floyd Mayweather, DJ Khaled for promoting ICOs without disclosing payments](https://www.cnbc.com/2018/11/29/sec-charges-floyd-mayweather-dj-khaled-for-promoting-icos-without-disclosing-payments.html) (CNBC)
