@@ -1,3 +1,20 @@
+
+**Wednesday, December 05**
+* [Note by Damian Collins MP](https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Note-by-Chair-and-selected-documents-ordered-from-Six4Three.pdf) (UK Parliament)
+* [Qualcomm announces the Snapdragon 855 and its news under-display fingerprint sensor ](https://techcrunch.com/2018/12/04/qualcomm-announces-the-snapdragon-855-and-its-new-under-display-fingerprint-sensor/) (TechCrunch)
+* [Qualcomm announces first ultrasonic fingerprint reader: Headed to the Galaxy S10?](https://www.cnet.com/news/qualcomm-announces-first-ultrasonic-fingerprint-reader-headed-to-the-galaxy-s10/) (CNET)
+* [Fortnite’s Minecraft-like creative mode launches tomorrow](https://www.theverge.com/2018/12/5/18127222/fortnite-creative-mode-season-7-release-date) (The Verge)
+* [RIDING IN WAYMO ONE, THE GOOGLE SPINOFF’S FIRST SELF-DRIVING TAXI SERVICE](https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app) (The Verge)
+* [The story behind Netflix’s $100 million ‘Friends’ deal](https://www.recode.net/2018/12/4/18126596/friends-netflix-warnermedia-att-hulu-apple-deal) (Recode)
+
+**Tuesday, December 04**
+* [Quora Security Update](https://blog.quora.com/Quora-Security-Update) (The Quora Blog)
+* [Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10](https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10) (Windows Central)
+* [What is Windows Lite? It's Microsoft's Chrome OS Killer](https://www.petri.com/what-is-windows-core-os-its-microsofts-chromebook-os-killer) (Petri.com)
+* [NVIDIA's new AI turns videos of the real world into virtual landscapes](https://www.engadget.com/2018/12/03/nvidia-ai-video-to-video-synthesis/) (Engadget)
+* [MOTOROLA AND NOKIA’S NEW PHONES MAKE $350 LOOK LIKE $1,000](https://www.theverge.com/2018/12/3/18120022/motorola-one-nokia-71-phone-specs-price-review) (The Verge)
+* [Your 4K Netflix Streaming Is on a Collision Course With Your ISP's Data Caps](https://motherboard.vice.com/en_us/article/qvqzd5/your-4k-netflix-streaming-is-on-a-collision-course-with-your-isp-data-caps?utm_source=reddit.com) (Motherboard)
+
 **Monday, December 03**
 * [Tumblr will ban all adult content on December 17th](https://www.theverge.com/2018/12/3/18123752/tumblr-adult-content-porn-ban-date-explicit-changes-why-safe-mode) (TheVerge)
 * [Apple Will Wait Until at Least 2020 to Release a 5G iPhone](https://www.bloomberg.com/news/articles/2018-12-03/apple-is-said-to-miss-rapid-5g-takeoff-sitting-out-tech-shift) (Bloomberg)
