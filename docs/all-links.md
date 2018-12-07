@@ -1,3 +1,13 @@
+**Thursday, December 06**
+* [Canada arrests Huawei’s global chief financial officer in Vancouver](https://www.theglobeandmail.com/canada/article-canada-has-arrested-huaweis-global-chief-financial-officer-in/) (The Globe and Mail)
+* [Microsoft is rebuilding its Edge browser on Chrome and bringing it to the Mac](https://www.theverge.com/2018/12/6/18128648/microsoft-edge-chrome-chromium-browser-changes) (The Verge)
+* [Google is shutting down Allo](https://www.theverge.com/2018/12/5/18127540/google-kills-allo-end-date) (The Verge)
+* [Ride-hail firm Lyft races to leave Uber behind in IPO chase](https://www.reuters.com/article/us-lyft-ipo/ride-hailing-firm-lyft-inc-files-for-ipo-idUSKBN1O51AA?il=0) (Reuters)
+* [These Confidential Charts Show Why Facebook Bought WhatsApp](https://www.buzzfeednews.com/article/charliewarzel/why-facebook-bought-whatsapp) (Buzzfeed)
+* [Firefly Nets $21.5 Million Seed Round To Boost Ride-Hail Driver Revenues With On-Car Ads ](https://news.crunchbase.com/news/firefly-nets-21-5-million-seed-round-to-boost-ride-hail-driver-revenues-with-on-car-ads/) (Crunchbase News)
+* [Cuba to roll out mobile internet for the first time](https://www.cnbc.com/2018/12/05/cuba-to-roll-out-mobile-internet-for-the-first-time.html) (CNBC)
+* [Robot Accidentally Hospitalises 24 Amazon Workers After It Sprays Them With Bear Repellent](https://www.huffingtonpost.co.uk/entry/robot-accidentally-hospitalises-24-amazon-workers-after-it-sprays-them-with-bear-repellent_uk_5c09036fe4b069028dc6dbb3?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter&guce_referrer_us=aHR0cHM6Ly90LmNvL0dFdG8yRFZ0VWI&guce_referrer_cs=B0oLJlKk29Cdie2OlBI7Yg&guccounter=2) (Huffington Post)
+
 
 **Wednesday, December 05**
 * [Note by Damian Collins MP](https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Note-by-Chair-and-selected-documents-ordered-from-Six4Three.pdf) (UK Parliament)
