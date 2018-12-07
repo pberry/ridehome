@@ -1,3 +1,9 @@
+**Friday, December 07**
+* [MICROSOFT WANTS TO STOP AI'S 'RACE TO THE BOTTOM'](https://www.wired.com/story/microsoft-wants-stop-ai-facial-recognition-bottom/) (Wired)
+* [Scientists create AI that can crush the world's best AI (at board games, thankfully) ](https://www.cnet.com/news/scientists-create-an-ai-that-can-crush-the-worlds-best-ai-at-board-games-thankfully/) (CNET)
+* [Crypto Market Crash Leaving Bankrupt Startups in its Wake](https://www.bloomberg.com/news/articles/2018-12-06/crypto-market-crash-is-causing-startups-to-shutter-operations) (Bloomberg)
+* [Reddit’s Year in Review: 2018](https://redditblog.com/2018/12/04/reddit-year-in-review-2018/) (Upvoted)
+
 **Thursday, December 06**
 * [Canada arrests Huawei’s global chief financial officer in Vancouver](https://www.theglobeandmail.com/canada/article-canada-has-arrested-huaweis-global-chief-financial-officer-in/) (The Globe and Mail)
 * [Microsoft is rebuilding its Edge browser on Chrome and bringing it to the Mac](https://www.theverge.com/2018/12/6/18128648/microsoft-edge-chrome-chromium-browser-changes) (The Verge)
