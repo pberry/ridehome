@@ -1,3 +1,13 @@
+**Friday, December 07**
+* [The Comics Canon](https://itunes.apple.com/us/podcast/the-comics-canon/id1074541605) (Podcast)
+* [Land of the “Super Founders“— A Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45) (Ali Tamaseb)
+* [YOUTUBE CREATORS BLINDSIDED BY MAJOR NETWORK’S COLLAPSE](https://www.theverge.com/2018/12/5/18125657/defy-media-youtube-logan-paul-ryland-adams-anthony-padillo-smosh-network) (The Verge)
+* [A 7-year-old boy is making $22 million a year on YouTube reviewing toys](https://www.msn.com/en-us/news/other/a-7-year-old-boy-is-making-dollar22-million-a-year-on-youtube-reviewing-toys/ar-BBQqKBk) (MSN)
+* [Almost Every Electric Scooter in the World Comes From This Chinese Company ](https://www.bloomberg.com/news/features/2018-12-05/almost-every-electric-scooter-comes-from-this-chinese-company)(Bloomberg)
+* [Cryptopia In Crisis: Joe Lubin’s Ethereum Experiment Is A Mess. How Long Will He Prop It Up?](https://www.forbes.com/sites/jeffkauflin/2018/12/05/cryptopia-in-crisis-billionaire-joe-lubins-ethereum-experiment-is-a-mess-how-long-will-he-prop-it-up/#4ca87642f0a6) (Forbes)
+* [How Robotics Maker Rethink Crashed and Burned](https://www.theinformation.com/articles/how-robotics-maker-rethink-crashed-and-burned) (The Information)
+* [The new word processor wars: A fresh crop of productivity apps are trying to reinvent our workday](https://www.geekwire.com/2018/new-word-processor-wars-fresh-crop-productivity-apps-trying-reinvent-workday/) (GeekWire)
+
 **Friday, November 30**
 * [Python Bytes](https://itunes.apple.com/us/podcast/python-bytes/id1173690032) (Python Bytes)
 * [Microsoft Is Worth as Much as Apple. How Did That Happen?](https://www.nytimes.com/2018/11/29/technology/microsoft-apple-worth-how.html) (NYTimes)
