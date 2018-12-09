@@ -1,3 +1,5 @@
+{% include longreads-header.md %}
+
 **Friday, December 07**
 * [The Comics Canon](https://itunes.apple.com/us/podcast/the-comics-canon/id1074541605) (Podcast)
 * [Land of the “Super Founders“— A Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45) (Ali Tamaseb)
