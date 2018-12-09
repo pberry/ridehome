@@ -1,4 +1,4 @@
-{% include longreads-header.md %}
+{% include_relative _includes/longreads-header.md %}
 
 **Friday, December 07**
 * [The Comics Canon](https://itunes.apple.com/us/podcast/the-comics-canon/id1074541605) (Podcast)
