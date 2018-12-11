@@ -1,3 +1,12 @@
+**Monday, December 10**
+* [China bans many iPhone models in Qualcomm patent dispute](https://www.axios.com/china-injunction-iphone-patents-qualcomm-apple-9492f4c8-d031-45aa-af22-ca41d846144f.html) (Axios)
+* [Can the U.S. Stop China From Controlling the Next Internet Age?](https://www.nytimes.com/2018/12/07/opinion/huawei-meng-wanzhou-china-arrest.html) (NYTimes)
+* [Huawei CFO Arrested, Australia’s Awful Law](https://stratechery.com/2018/huawei-cfo-arrested-australias-awful-law/) (Stratechery)
+* [Apple acquired Platoon, a platform for musicians to create and distribute work ](https://techcrunch.com/2018/12/07/apple-platoon/) (TechCrunch)
+* [Investor Frenzy for Scooter Startups Cools](https://www.wsj.com/articles/scooter-startups-cool-fundraising-wheels-1544356923?ns=prod/accounts-wsj) (WSJ)
+* [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html) (NYTimes)
+* [Samsung’s A8s is its first phone with an Infinity-O hole-punch display](https://www.theverge.com/circuitbreaker/2018/12/10/18134119/samsung-a8s-infinity-o-display-features-specs-news) (The Verge)
+
 **Friday, December 07**
 * [MICROSOFT WANTS TO STOP AI'S 'RACE TO THE BOTTOM'](https://www.wired.com/story/microsoft-wants-stop-ai-facial-recognition-bottom/) (Wired)
 * [Scientists create AI that can crush the world's best AI (at board games, thankfully) ](https://www.cnet.com/news/scientists-create-an-ai-that-can-crush-the-worlds-best-ai-at-board-games-thankfully/) (CNET)
