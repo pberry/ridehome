@@ -1,3 +1,12 @@
+**Tuesday, December 11**
+* [Google moves up Google+ consumer shutdown to April 2019](https://venturebeat.com/2018/12/10/google-moves-up-google-consumer-shutdown-to-april-2019/) (VentureBeat)
+* [Uber customers and drivers are furious after a major outage causes all kinds of issues](https://www.businessinsider.com/uber-outage-leaves-customers-drivers-furious-2018-12?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29) (BusinessInsider)
+* [Social media outpaces print newspapers in the U.S. as a news source](http://www.pewresearch.org/fact-tank/2018/12/10/social-media-outpaces-print-newspapers-in-the-u-s-as-a-news-source/) (Pew Research Center)
+* [Fintech start-up Plaid raises $250 million at $2.7 billion valuation, adds Mary Meeker to board](https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html) (CNBC)
+* [Vroom nabs $146M from AutoNation, VCs for its used car site](https://techcrunch.com/2018/12/11/vroom-nabs-146m-from-autonation-vcs-for-its-online-used-car-marketplace/) (TechCrunch)
+* [Keurigs for Beer Make No Sense](https://gizmodo.com/keurigs-for-beer-make-no-sense-1831002373) (Gizmodo)
+* [Doom is 25 and co-creator John Romero is putting out a giant expansion for it ](https://techcrunch.com/2018/12/10/doom-is-25-and-co-creator-john-romero-is-putting-out-a-giant-expansion-for-it/) (TechCrunch)
+
 **Monday, December 10**
 * [China bans many iPhone models in Qualcomm patent dispute](https://www.axios.com/china-injunction-iphone-patents-qualcomm-apple-9492f4c8-d031-45aa-af22-ca41d846144f.html) (Axios)
 * [Can the U.S. Stop China From Controlling the Next Internet Age?](https://www.nytimes.com/2018/12/07/opinion/huawei-meng-wanzhou-china-arrest.html) (NYTimes)
