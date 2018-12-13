@@ -1,3 +1,16 @@
+**Wednesday, December 12**
+* [Intel unveils a new architecture for 2019: Sunny Cove](https://arstechnica.com/gadgets/2018/12/intel-unveils-a-new-architecture-for-2019-sunny-cove/) (Ars Technica)
+* [Intel is bringing teraflop integrated graphics to 10nm chips in 2019](https://www.engadget.com/2018/12/12/intel-teraflop-graphics-sunny-cove/) (Engadget)
+* [AN INTEL BREAKTHROUGH RETHINKS HOW CHIPS ARE MADE](https://www.wired.com/story/intel-foveros-chips-breakthrough/) (Wired)
+* [Marriott Data Breach Is Traced to Chinese Hackers as U.S. Readies Crackdown on Beijing](https://www.nytimes.com/2018/12/11/us/politics/trump-china-trade.html) (NYTimes)
+* [Apple Suppliers Are Considering Moving iPhone Output if Tariffs Hit 25% ](https://www.bloomberg.com/news/articles/2018-12-12/apple-is-said-to-mull-moving-iphone-output-if-tariffs-hit-25) (Bloomberg)
+* [U.S. investigators point to China in Marriott hack affecting 500 million guests](https://www.washingtonpost.com/technology/2018/12/12/us-investigators-point-china-marriott-hack-affecting-million-travelers/?utm_term=.4a60cd87248b) (The Washington Post)
+* [Indonesia e-commerce leader Tokopedia raises $1.1B from Alibaba and SoftBank's Vision Fund](https://techcrunch.com/2018/12/11/tokopedia-raises-1-1b/) (TechCrunch)
+* [At this new online banking platform, customers are the owners](https://www.fastcompany.com/90276403/at-this-new-online-bank-customers-are-the-owners) (Fast Company)
+* [Apple’s ‘Netflix for Magazines’ Getting a Chilly Reception](https://www.bloomberg.com/news/articles/2018-12-12/apple-s-netflix-for-magazines-is-said-to-rankle-publishers) (Bloomberg)
+* [Dell’s long game is in hybrid and private clouds](https://techcrunch.com/2018/12/11/dells-long-game-is-in-hybrid-and-private-clouds/) (TechCrunch)
+* [U.S. internet speeds rose nearly 40 percent this year](https://www.recode.net/2018/12/12/18134899/internet-broafband-faster-ookla) (ReCode)
+
 **Tuesday, December 11**
 * [Google moves up Google+ consumer shutdown to April 2019](https://venturebeat.com/2018/12/10/google-moves-up-google-consumer-shutdown-to-april-2019/) (VentureBeat)
 * [Uber customers and drivers are furious after a major outage causes all kinds of issues](https://www.businessinsider.com/uber-outage-leaves-customers-drivers-furious-2018-12?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29) (BusinessInsider)
