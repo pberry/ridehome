@@ -1,3 +1,15 @@
+**Thursday, December 13**
+* [Apple to invest $1 billion in new Austin campus](https://www.axios.com/apple-to-expand-in-austin-00c6c2a5-2e5d-4444-a5a7-4d117879cfe3.html) (Axios)
+* [Amazon Hires Lobbyists for N.Y. Site and Tries to Fend Off Ocasio-Cortez’s Supporters](https://www.nytimes.com/2018/12/11/nyregion/amazon-queens-lobbyists.html) (NYTimes)
+* [Amazon Went to City Hall. Things Got Loud, Quickly.](https://www.nytimes.com/2018/12/12/nyregion/amazon-city-council-hearing.html) (NYTimes)
+* [High-Tech Degrees and the Price of an Avocado: The Data New York Gave to Amazon ](https://www.nytimes.com/2018/12/12/technology/amazon-new-york-hq2-data.html) (NYTimes)
+* [After losing half its value, Nvidia faces reckoning](https://techcrunch.com/2018/12/12/nvidia-perfect-storm/) (TechCrunch)
+* [Robinhood launches no-fee checking/savings with Mastercard & the most ATMs ](https://techcrunch.com/2018/12/13/robinhood-free-checking-and-savings-accounts/) (TechCrunch)
+* [A look at the Apple Watch’s ECG, from someone who needs it](https://arstechnica.com/gadgets/2018/12/an-ecg-on-your-wrist-apples-new-heart-monitoring-software/) (Ars Technica)
+* [Apple now has dozens of doctors on staff, showing it's serious about health tech](https://www.cnbc.com/2018/12/12/apple-has-dozens-of-doctors-on-staff.html) (CNBC)
+* [POSTMATES' QUEST TO BUILD THE DELIVERY ROBOT OF THE FUTURE](https://www.wired.com/story/postmates-delivery-robot-serve/) (Wired)
+* [YouTube Rewind 2018 is officially the most disliked video on YouTube](https://www.theverge.com/2018/12/13/18137894/youtube-rewind-2018-dislike-shane-dawson-logan-paul-pewdiepie-mkbhd-philip-defranco) (The Verge)
+
 **Wednesday, December 12**
 * [Intel unveils a new architecture for 2019: Sunny Cove](https://arstechnica.com/gadgets/2018/12/intel-unveils-a-new-architecture-for-2019-sunny-cove/) (Ars Technica)
 * [Intel is bringing teraflop integrated graphics to 10nm chips in 2019](https://www.engadget.com/2018/12/12/intel-teraflop-graphics-sunny-cove/) (Engadget)
