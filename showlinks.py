@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import feedparser
+import markdown
 import re
 import time
 from bs4 import BeautifulSoup
