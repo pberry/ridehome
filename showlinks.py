@@ -13,14 +13,15 @@ linkCount = 0
 podCount = 0
 totalTime = 0
 for post in rhfeed.entries:
+	postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
+	print ("\n**" + postPubTime + "**")
 	totalTime += get_sec(post.itunes_duration)
 	podCount += 1
 	soup = BeautifulSoup(post.summary, 'html.parser')
 	linksBlock = soup.find_all("p", string="Links:")
 	# check to see if we found anything
+	# specifically at least one paragraph stating Links were coming and that the following ul contains a tags
 	if len(linksBlock) > 0 and len(linksBlock[0].next_sibling.find_all('a')) > 0:
-		postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
-		print ("\n**" + postPubTime + "**")
 		for listItem in (linksBlock[0].next_sibling.find_all('li')):
 			linkCount += 1
 			if listItem.a:
