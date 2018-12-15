@@ -1,3 +1,5 @@
+{% include_relative _includes/showlinks-header.md %}
+
 **Thursday, December 13**
 * [Apple to invest $1 billion in new Austin campus](https://www.axios.com/apple-to-expand-in-austin-00c6c2a5-2e5d-4444-a5a7-4d117879cfe3.html) (Axios)
 * [Amazon Hires Lobbyists for N.Y. Site and Tries to Fend Off Ocasio-Cortez’s Supporters](https://www.nytimes.com/2018/12/11/nyregion/amazon-queens-lobbyists.html) (NYTimes)
