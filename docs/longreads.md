@@ -1,5 +1,13 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, December 14**
+* [EV News Daily](https://www.evnewsdaily.com) (Podcast)
+* [Evelyn Berezin, 93, Dies; Built the First True Word Processor](https://www.nytimes.com/2018/12/10/obituaries/evelyn-berezin-dead.html) (New York Times)
+* [The State of Technology at the End of 2018](https://stratechery.com/2018/the-state-of-technology-at-the-end-of-2018/) (Stratechery)
+* [The rise of the recommendation site](https://www.vox.com/the-goods/2018/12/11/18131224/recommendations-best-strategist-wirecutter-buzzfeed-reviews) (Vox)
+* [How the CIA Trains Spies to Hide in Plain Sight](https://www.wired.com/story/mastermind-cia-disguise/) (Wired)
+
+
 **Friday, December 07**
 * [The Comics Canon](https://itunes.apple.com/us/podcast/the-comics-canon/id1074541605) (Podcast)
 * [Land of the “Super Founders“— A Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45) (Ali Tamaseb)
