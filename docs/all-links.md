@@ -1,5 +1,17 @@
 {% include_relative _includes/showlinks-header.md %}
 
+
+**Friday, December 14**
+* [Bitcoin scammers send bomb threats worldwide, causing evacuations](https://www.theverge.com/2018/12/13/18139724/bitcoin-bomb-threat-scam-email-us-police-department-investigation-evacuations) (The Verge)
+* [Facebook bug exposed up to 6.8M users’ unposted photos to apps](https://techcrunch.com/2018/12/14/facebook-photo-bug/) (TechCrunch)
+* [Irish regulator to investigate Facebook after new data leak](https://www.ft.com/content/d796b5a8-ffc1-11e8-ac00-57a2a826423e) (Financial Times)
+* [Apple Says China iPhone Ban Would Force Settlement With Qualcomm](https://www.bloomberg.com/news/articles/2018-12-14/apple-says-china-iphone-ban-would-force-settlement-with-qualcomm) (Bloomberg)
+* [Apple Music removes ability for artists to post to Connect, posts removed from Artist Pages and For You](https://9to5mac.com/2018/12/13/apple-music-connect-ping/) (9to5Mac)
+* [Ming-Chi Kuo cuts first quarter iPhone sales estimates by 20%, says iPhone XR demand is low](https://9to5mac.com/2018/12/14/iphone-xr-demand-iphone-sales/) (9to5Mac)
+* [Amazon has officially killed the Whole Foods-Instacart partnership](https://www.recode.net/2018/12/13/18139324/whole-foods-instacart-partnership-ended-amazon) (Recode)
+* [They scaled YouTube—now they’ll shared everyone with PlanetScale](https://techcrunch.com/2018/12/13/planetscale/) (TechCrunch)
+
+
 **Thursday, December 13**
 * [Apple to invest $1 billion in new Austin campus](https://www.axios.com/apple-to-expand-in-austin-00c6c2a5-2e5d-4444-a5a7-4d117879cfe3.html) (Axios)
 * [Amazon Hires Lobbyists for N.Y. Site and Tries to Fend Off Ocasio-Cortez’s Supporters](https://www.nytimes.com/2018/12/11/nyregion/amazon-queens-lobbyists.html) (NYTimes)
