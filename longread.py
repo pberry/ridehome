@@ -1,33 +1,18 @@
 # -*- coding: utf-8 -*-
 import feedparser
+import html2text
 import re
 import time
 from bs4 import BeautifulSoup
 
-def get_li_str(list_item):
-	str = ""
-	for string in list_item.strings:
-		str += string
-	return str
-
-
-longReads = 0
-longReadWeeks = 0
 rhfeed = feedparser.parse('https://techmeme.com/techmeme-ride-home-feed')
 for post in rhfeed.entries:
 	soup = BeautifulSoup(post.summary, 'html.parser')
 	if "Longread" in post.summary :
-		longReadWeeks += 1
+
 		postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
 
 		for paragraph in soup.find_all('p'):
 			if "Longreads:" in paragraph.text or "Suggestions:" in paragraph.text:
-				print ("\n**" + postPubTime + "**")
-				for listItem in (paragraph.next_sibling.find_all('li')):
-					longReads += 1
-					if len(listItem.a.contents) > 1:
-						print ("* [" + get_li_str(listItem.a) + "](" + listItem.a['href'] + ")" + listItem.contents[1].string)
-					else: 
-						print ("* [" + listItem.a.string + "](" + listItem.a['href'] + ")" + listItem.contents[1].string)
-print ("Longreads: ",longReads)
-print ("Longread Weeks: ",longReadWeeks)
+				print ("**" + postPubTime + "**")
+				print (html2text.html2text(str(paragraph.next_sibling)))
