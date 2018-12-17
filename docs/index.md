@@ -1,7 +1,8 @@
 * [Show Links by Day](all-links.md)
 * [Long reads](longreads.md)
 
-** Posts **
+**Posts**
+
 <ul>
   {% for post in site.posts %}
     <li>
