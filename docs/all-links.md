@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, December 17 2018 - Actually, It's Instagram That's The Problem?**
+
+  * [Instagram Was Bigger Russian Election Tool Than Facebook, Senate Report Says](https://anchor.fm/dashboard/episode/e2pjh5/metadata/edit) (Bloomberg)
+  * [Google Details Major New York Expansion](https://www.wsj.com/articles/google-details-major-new-york-expansion-11545040801) (WSJ)
+  * [Colin Kroll, 34, HQ Trivia and Vine Co-Founder, Is Found Dead](https://www.nytimes.com/2018/12/16/nyregion/hq-trivia-overdose-colin-kroll.html) (NYTimes)
+  * [We Broke Into A Bunch Of Android Phones With A 3D-Printed Head](https://www.forbes.com/sites/thomasbrewster/2018/12/13/we-broke-into-a-bunch-of-android-phones-with-a-3d-printed-head/#2a2c65713307) (Forbes)
+  * [Robinhood Will Retool Checking Product Following Scrutiny](https://www.bloomberg.com/news/articles/2018-12-15/robinhood-will-retool-checking-product-following-scrutiny) (Bloomberg)
+  * [Apple hires designer Andrew Kim away from Tesla](https://www.theverge.com/2018/12/17/18144421/apple-designer-andrew-kim-tesla-microsoft-xbox-one-s-hololens) (The Verge)
+  * [My Talk at Google](https://www.youtube.com/watch?v=3V39TpBSCWQ&t=) (Me)
+
 
 **Friday, December 14 2018 - Facebook Faces a GDPR Inquiry**
 
