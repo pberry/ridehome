@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, December 18 2018 - Has Google Stopped "Dragonfly?"**
+
+  * [GOOGLE’S SECRET CHINA PROJECT “EFFECTIVELY ENDED” AFTER INTERNAL CONFRONTATION](https://theintercept.com/2018/12/17/google-china-censored-search-engine-2/) (The Intercept)
+  * [Google will make it easier for people without accounts to collaborate on G Suite documents](https://techcrunch.com/2018/12/17/google-will-make-it-easier-for-people-without-accounts-to-collaborate-on-g-suite-documents/) (TechCrunch)
+  * [Facebook still hasn’t launched a big privacy feature that Mark Zuckerberg promised more than seven months ago](https://www.recode.net/2018/12/17/18140062/facebook-clear-history-update-privacy-targeting-data-collection) (Recode)
+  * [AT&T's 5G network is live, if you're in the right city](https://www.cnet.com/news/at-ts-5g-network-is-live-if-you-live-in-the-right-city/) (CNET)
+  * [Audi pulls the curtain back on its self-driving car program](https://www.theverge.com/2018/12/18/18144506/audi-self-driving-car-volkswagen-luminar-lidar) (The Verge)
+  * [Amazon Targets Unprofitable Items, With a Sharper Focus on the Bottom Line](https://www.wsj.com/articles/amazon-targets-unprofitable-items-with-a-sharper-focus-on-the-bottom-line-11544965201) (WSJ)
+  * [This tank of a phone has lasted me a week on one charge](https://www.theverge.com/circuitbreaker/2018/12/18/18146061/doogee-s80-hands-on-battery-life-mah-capacity) (The Verge)
+
 **Monday, December 17 2018 - Actually, It's Instagram That's The Problem?**
 
   * [Instagram Was Bigger Russian Election Tool Than Facebook, Senate Report Says](https://anchor.fm/dashboard/episode/e2pjh5/metadata/edit) (Bloomberg)
