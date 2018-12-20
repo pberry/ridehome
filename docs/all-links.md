@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, December 19 2018 - Something, Something... Another Facebook Scandal**
+
+  * [As Facebook Raised a Privacy Wall, It Carved an Opening for Tech Giants](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html) (NYTimes)
+  * [ELON MUSK UNVEILS THE BORING COMPANY’S CAR-FLINGING TUNNEL](https://www.wired.com/story/elon-musk-boring-company-car-flinging-tunnel/) (Wired)
+  * [Elon Musk unveils his company’s first tunnel in Hawthorne, and it’s not a smooth ride](https://www.latimes.com/local/lanow/la-me-ln-elon-musk-tunnel-20181218-story.html) (LATimes)
+  * [Apple tweaks iOS animation in China in attempt to avoid sales ban](https://www.theverge.com/2018/12/19/18148645/apple-iphone-ios-12-1-2-china-sales-ban-qualcomm) (The Verge)
+  * [Zwift, which turns indoor cycling workouts into multiplayer games, raises $120M](https://techcrunch.com/2018/12/19/zwift-which-turns-indoor-cycling-workouts-into-multiplayer-games-raises-120m/) (TechCrunch)
+  * [This free online tool uses AI to quickly remove the background from images](https://www.theverge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop) (The Verge)
+  * [Apple Accidentally Reveals Radical New iPhone](https://www.forbes.com/sites/gordonkelly/2018/12/18/apple-iphone-xs-max-xr-upgrade-price-cost-iphone-xi-touch-id-face-id/#890137a3b0df) (Forbes)
+
 **Tuesday, December 18 2018 - Has Google Stopped "Dragonfly?"**
 
   * [GOOGLE’S SECRET CHINA PROJECT “EFFECTIVELY ENDED” AFTER INTERNAL CONFRONTATION](https://theintercept.com/2018/12/17/google-china-censored-search-engine-2/) (The Intercept)
