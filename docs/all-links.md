@@ -1,4 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
+**Thursday, December 20 2018 - iPhone Bans and iPad Bends**
+
+  * [Apple to Stop Selling iPhone 7 and iPhone 8 Models in Germany While Appealing Broader Sales Ban [Updated]](https://www.macrumors.com/2018/12/20/apple-stores-pulling-iphone-7-8-in-germany/) (MacRumors)
+  * [Apple confirms some iPad Pros ship slightly bent, but says it’s normal](https://www.theverge.com/2018/12/19/18148957/apple-ipad-bend-pro-2018-shipping-manufacturing-confirmed) (The Verge)
+  * [Justice Department charges Chinese nationals in ‘extensive’ global hacking campaign ](https://www.cnbc.com/2018/12/20/doj-china-national-security-law-enforcement-action.html)(CNBC)
+  * [Uber's self-driving cars return to public roads after fatal crash](https://www.cnet.com/news/ubers-self-driving-cars-return-to-public-roads-after-fatal-crash/?ftag=COS-05-10aaa0b&linkId=61372821) (CNET)
+  * [Drones cause holiday chaos at one of London's busiest airports](https://www.engadget.com/2018/12/20/drone-delays-gatwick-airport/) (Engadget)
+  * [Gatwick Airport: Drones ground flights](https://www.bbc.com/news/uk-england-sussex-46623754) (BBC News)
+  * [Pinterest Readies Itself for Early 2019 IPO](https://www.wsj.com/articles/pinterest-readies-itself-for-early-2019-ipo-11545251368) (WSJ)
+  * [FORTNITE KEEPS STEALING DANCES — AND NO ONE KNOWS IF IT’S ILLEGAL](https://www.theverge.com/2018/12/20/18149869/fortnite-dance-emote-lawsuit-milly-rock-floss-carlton) (The Verge)
 
 **Wednesday, December 19 2018 - Something, Something... Another Facebook Scandal**
 
