@@ -1,4 +1,12 @@
 {% include_relative _includes/showlinks-header.md %}
+
+**Friday, December 21 2018 - Facebook Goes Crypto**
+
+  * [Facebook Is Developing a Cryptocurrency for WhatsApp Transfers, Sources Say](https://www.bloomberg.com/news/articles/2018-12-21/facebook-is-said-to-develop-stablecoin-for-whatsapp-transfers) (Bloomberg)
+  * [At Blind, a security lapse revealed private complaints from Silicon Valley employees](https://techcrunch.com/2018/12/20/blind-anonymous-app-data-exposure/) (TechCrunch)
+  * [Apple AI Chief John Giannandrea Gets Promotion to Senior Vice President](https://www.macrumors.com/2018/12/20/apple-ai-chief-john-giannandrea-promotion/) (MacRumors)
+  * [Annual Smart Speaker IQ Test](https://loupventures.com/annual-smart-speaker-iq-test/) (LoopVentures)
+
 **Thursday, December 20 2018 - iPhone Bans and iPad Bends**
 
   * [Apple to Stop Selling iPhone 7 and iPhone 8 Models in Germany While Appealing Broader Sales Ban [Updated]](https://www.macrumors.com/2018/12/20/apple-stores-pulling-iphone-7-8-in-germany/) (MacRumors)
