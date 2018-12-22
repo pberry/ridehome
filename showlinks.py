@@ -4,21 +4,22 @@ import html2text
 import re
 import time
 from bs4 import BeautifulSoup
+from bs4.diagnose import diagnose
 
 rhfeed = feedparser.parse('https://techmeme.com/techmeme-ride-home-feed')
 
 for post in rhfeed.entries:
 	postPubTime = time.strftime("%A, %B %d %Y" ,post.published_parsed)
 	podTitle = ""
-	podTitleArray = post.itunes_title.split(' - ')
+	podTitleArray = post.title.split(' - ')
 	if len(podTitleArray) > 1:
 		podTitle = podTitleArray[1]
 	else:
 		podTitle = podTitleArray[0]
 
 	print ("\n**" + postPubTime + " - " + podTitle + "**\n")
-
-	soup = BeautifulSoup(post.summary, 'html.parser')
+	cleanPost = post.summary.replace('\n', '')
+	soup = BeautifulSoup(cleanPost, 'html5lib')
 	linksBlock = soup.find_all("p", string=re.compile("^Links(:*)(\ *)$|Stories:$"))
 
 	# check to see if we found anything

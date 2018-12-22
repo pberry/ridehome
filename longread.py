@@ -5,10 +5,12 @@ import re
 import time
 from bs4 import BeautifulSoup
 
+
 rhfeed = feedparser.parse('https://techmeme.com/techmeme-ride-home-feed')
 for post in rhfeed.entries:
-	soup = BeautifulSoup(post.summary, 'html.parser')
-	if "Longread" in post.summary :
+	cleanPost = post.summary.replace('\n','')
+	soup = BeautifulSoup(cleanPost, 'html.parser')
+	if "Longread" in cleanPost :
 
 		postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
 
