@@ -1,5 +1,14 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, December 21**
+  * [Software Defined Talk](https://www.softwaredefinedtalk.com/) (Podcast)
+  * [Apple Computers Used to Be Built in the U.S. It Was a Mess](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html) (NYTimes)
+  * [Inside Shenzhen’s race to outdo Silicon Valley ](https://www.technologyreview.com/s/612571/inside-shenzhens-race-to-outdo-silicon-valley/)(Bloomberg)
+  * [The 2019 IPO class headlined by Uber will create a ton of new wealth. Will the billions go to mansions or missions?](https://www.recode.net/2018/12/20/18145644/ipo-uber-lyft-slack-wealth-philanthropy-real-estate-startups-silicon-valley) (Recode)
+  * [Venture Capital Blind Spots: The Top 7 Reasons Why VCs Miss Billion-Dollar Outcomes](https://medium.com/@645ventures/venture-capital-blind-spots-23381dc9488d) (645 Ventures)
+  * [Prime and Punishment](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement) (The Verge)
+  * [7 Modern BBSes Worth Calling Today](https://www.pcmag.com/feature/358037/7-modern-bbses-worth-calling-today) (PCMag)
+  
 **Friday, December 14**
 * [EV News Daily](https://www.evnewsdaily.com) (Podcast)
 * [Evelyn Berezin, 93, Dies; Built the First True Word Processor](https://www.nytimes.com/2018/12/10/obituaries/evelyn-berezin-dead.html) (New York Times)
