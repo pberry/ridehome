@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, December 26 2018 - Airbnb and Slack Mull Untraditional IPOs**
+
+  * [How a government shutdown affects America’s cybersecurity workforce](https://www.fifthdomain.com/congress/2018/12/21/how-a-government-shutdown-affects-americas-cybersecurity-workforce/) (FifthDomain)
+  * [In a huge win for open data, Congress passes the Open, Public, Electronic, and Necessary Government Data Act ](https://boingboing.net/2018/12/24/no-thanks-obama.html)(BoingBoing)
+  * [Wall Street Quietly Shelves Its Bitcoin Dreams](https://www.bloomberg.com/news/articles/2018-12-23/wall-street-quietly-shelves-its-bitcoin-dreams) (Bloomberg)
+  * [Layoffs Underway Amid ‘Adjustments,’ Bitcoin Miner Bitmain Confirms](https://www.coindesk.com/layoffs-underway-amid-business-adjustments-bitcoin-miner-bitmain-confirms) (CoinDesk)
+  * [HQ Trivia launches HQ Words as reinstalled CEO seeks a game-changer](https://techcrunch.com/2018/12/23/how-to-play-hq-words/) (TechCrunch)
+  * [Airbnb and Slack are considering untraditional IPOs that box out bankers like Spotify did](https://www.recode.net/2018/12/10/18129880/airbnb-postmates-slack-direct-listing-ipo) (Recode)
+  * [Geoffrey Hinton and Demis Hassabis: AGI is nowhere close to being a reality](https://venturebeat.com/2018/12/17/geoffrey-hinton-and-demis-hassabis-agi-is-nowhere-close-to-being-a-reality/) (VentureBeat)
+
+
 **Friday, December 21 2018 - Facebook Goes Crypto**
 
   * [Facebook Is Developing a Cryptocurrency for WhatsApp Transfers, Sources Say](https://www.bloomberg.com/news/articles/2018-12-21/facebook-is-said-to-develop-stablecoin-for-whatsapp-transfers) (Bloomberg)
