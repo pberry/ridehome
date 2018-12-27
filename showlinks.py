@@ -30,5 +30,9 @@ for post in rhfeed.entries:
 		html = html2text.html2text(ul)
 		print (html)
 	else:
-		print("No show links for this episode ¯\_(ツ)_/¯\n")
+		uls = soup.find_all("ul")
+		if len(uls) == 1:
+			print(html2text.html2text(str(uls[0])))
+		else:
+			print("No show links for this episode ¯\_(ツ)_/¯\n")
 
