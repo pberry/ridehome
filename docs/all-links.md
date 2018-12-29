@@ -1,5 +1,23 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, December 28 2018 - Why Horizontal Instagram Might Be Inevitable**
+
+  * [Instagram briefly switched to a horizontal feed and people freaked out](https://www.theverge.com/2018/12/27/18157632/instagram-feed-horizontally-scrolling-stories-test-roll-out-app) (The Verge)
+  * [Epic Games, the creator of Fortnite, banked a $3 billion profit in 2018](https://techcrunch.com/2018/12/27/epic-fortnite-3-billion-profit/) (TechCrunch)
+  * [Exclusive: Foxconn to begin assembling top-end Apple iPhones in India in 2019 - source](https://www.reuters.com/article/us-apple-india-exclusive-idUSKCN1OQ0M6) (Reuters)
+  * [Tesla Taps Ellison, HR Expert to Prove Musk Is Reined In](https://www.bloomberg.com/news/articles/2018-12-28/tesla-adds-ellison-walgreens-executive-to-board-after-sec-deal?srnd=markets-vp) (Bloomberg)
+  * [China ramps up global coverage for domestic Beidou satellite navigation system as rival to GPS](https://www.scmp.com/tech/big-tech/article/2179802/china-rolls-out-global-coverage-its-home-grown-beidou-satellite) (South China Morning Post)
+
+**Thursday, December 27 2018 - Mobile Alerts Are Why We Can’t Have Nice Things**
+
+  * [Amazon Says Alexa Voice Shopping Tripled During 2018 Holiday Season](http://fortune.com/2018/12/26/amazon-alexa-2018-holiday-sales/) (Fortune)
+  * [Instagram’s Christmas Crackdown](https://www.theatlantic.com/technology/archive/2018/12/instagrams-christmas-crackdown-meme-accounts/579055/) (The Atlantic)
+  * [Tesla's Supercharger network will cover all of Europe in 2019](https://www.engadget.com/2018/12/27/teslas-supercharger-europe-expansion/) (Engadget)
+  * [With Tech Expansion, Austin Is Still Weird. It’s Just More Wired Now, Too.](https://www.nytimes.com/2018/12/25/us/austin-apple-hub-silicon-hills.html) (NYTimes)
+  * [Pushed Even Further: US Newsrooms View Mobile Alerts as a Standalone Platform](https://www.cjr.org/tow_center_reports/newsrooms-view-mobile-alerts-as-standalone-platform.php/) (CJR)
+  * [Movie Theaters Bounce Back: What’s Behind the 2018 Rebound](https://variety.com/2018/film/news/box-office-2018-review-theaters-bounce-back-1203095729/) (Variety)
+  * [Watch the trailer for Black Mirror: Bandersnatch, releasing Friday 28th on Netflix](https://www.theverge.com/2018/12/27/18157399/black-mirror-netflix-special-bandersnatch-trailer-release-date) (The Verge)
+
 **Wednesday, December 26 2018 - Airbnb and Slack Mull Untraditional IPOs**
 
   * [How a government shutdown affects America’s cybersecurity workforce](https://www.fifthdomain.com/congress/2018/12/21/how-a-government-shutdown-affects-americas-cybersecurity-workforce/) (FifthDomain)
