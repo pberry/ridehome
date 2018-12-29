@@ -1,5 +1,15 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, December 28**
+  * [The Devchat.tv podcasts](https://devchat.tv/)
+  * [The GPS wars have begun](https://techcrunch.com/2018/12/21/the-gps-wars-have-begun/) (TechCrunch)
+  * [Amazon gets into health insurance — and more 2019 health-tech predictions from top experts](https://www.cnbc.com/2018/12/26/health-tech-predictions-for-2019.html) (CNBC)
+  * [The biggest technology failures of 2018](https://www.technologyreview.com/s/612646/the-biggest-technology-failures-of-2018/) (MIT Technology Review)
+  * [Why Your Next Home Might Not Need Any Energy at All ](https://www.wsj.com/articles/why-your-next-home-might-not-use-any-energy-at-all-11545454801)(WSJ)
+  * [THE 'FUTURE BOOK' IS HERE, BUT IT'S NOT WHAT WE EXPECTED](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (Wired)
+  * [Bird Box Is the First Great Monster Movie About This Poisonous Invention](https://paleofuture.gizmodo.com/bird-box-is-the-first-great-monster-movie-about-this-po-1831318490) (PaleoFuture/Gizmodo)
+
+
 **Friday, December 21**
   * [Software Defined Talk](https://www.softwaredefinedtalk.com/) (Podcast)
   * [Apple Computers Used to Be Built in the U.S. It Was a Mess](https://www.nytimes.com/2018/12/15/business/apple-california-manufacturing-history.html) (NYTimes)
