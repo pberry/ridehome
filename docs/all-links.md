@@ -1,4 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
+
 **Wednesday, January 02 2019 - What would I have to pay you to give up Facebook for a year?**
 
   * [Activision Plans to Fire CFO Neumann, Puts Him on Paid Leave](https://www.bloomberg.com/news/articles/2018-12-31/activision-to-fire-ceo-neumann-puts-executive-on-paid-leave) (Bloomberg)
