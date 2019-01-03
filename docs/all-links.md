@@ -1,4 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
+**Wednesday, January 02 2019 - What would I have to pay you to give up Facebook for a year?**
+
+  * [Activision Plans to Fire CFO Neumann, Puts Him on Paid Leave](https://www.bloomberg.com/news/articles/2018-12-31/activision-to-fire-ceo-neumann-puts-executive-on-paid-leave) (Bloomberg)
+  * [ROKU BREAKS FREE FROM BOXES AND TVS](https://www.wired.com/story/roku-channel-mobile-app-subscriptions/) (Wired)
+  * [Tesla slashes EV prices by $2,000 to offset reduced tax credits](https://www.engadget.com/2019/01/02/tesla-cuts-prices-by-2000-to-offset-ev-tax-credit/) (Engadget)
+  * [[Exclusive] Nokia 9 PureView Penta-camera Phone Revealed in Full Glory in First-ever Promo Video ](https://www.mysmartprice.com/gear/nokia-9-pureview/)(Mysmartprice)
+  * [Economists calculate the true value of Facebook to its users in new study](https://arstechnica.com/science/2018/12/economists-calculate-the-true-value-of-facebook-to-its-users-in-new-study/) (ArsTechnica)
+  * [Popsugar's Twinning app was leaking everyone's uploaded photos](https://techcrunch.com/2018/12/31/popsugar-twinning-leak-selfie-photos/) (TechCrunch)
+  * [HOW THE SURPRISE NEW INTERACTIVE BLACK MIRROR CAME TOGETHER](https://www.wired.com/story/black-mirror-bandersnatch-interactive-episode/) (Wired)
 
 **Friday, December 28 2018 - Why Horizontal Instagram Might Be Inevitable**
 
