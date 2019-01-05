@@ -1,5 +1,15 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, January 04**
+  * Podcast suggestion: [Daily Fortnite](https://anchor.fm/daily-fortnite)
+  * [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+  * [He Hawks Young Blood As A New Miracle Treatment. All That’s Missing Is Proof. ](https://www.huffingtonpost.com/entry/ambrosia-young-blood-plasma-jesse-karmazin_us_5c1bbafce4b0407e9078373c)(HuffPo)
+  * [Curbs on A.I. Exports? Silicon Valley Fears Losing Its Edge ](https://www.nytimes.com/2019/01/01/technology/artificial-intelligence-export-restrictions.html)(NYTimes)
+  * [The Bird Box Effect: How Memes Drive Users to Netflix ](https://www.theringer.com/movies/2019/1/3/18167278/bird-box-memes-netflix-bots-marketing)(The Ringer)
+  * [Birding Like It’s 1899: Inside a Blockbuster American West Video Game](https://www.audubon.org/news/birding-its-1899-inside-blockbuster-american-west-video-game) (Audubon)
+  * [How Space and Time Could Be a Quantum Error-Correcting Code](https://www.quantamagazine.org/how-space-and-time-could-be-a-quantum-error-correcting-code-20190103/) (Quanta)
+  * [The Hacker News discussion of the Quanta piece](https://news.ycombinator.com/item?id=18817410)
+
 **Friday, December 28**
   * [The Devchat.tv podcasts](https://devchat.tv/)
   * [The GPS wars have begun](https://techcrunch.com/2018/12/21/the-gps-wars-have-begun/) (TechCrunch)
