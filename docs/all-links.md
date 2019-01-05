@@ -1,5 +1,19 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, January 04 2019 - The Verge vs. AT&T And L.A. vs. The Weather Channel app**
+
+  * [AT&T tries to trademark ‘Verge TV’ as if we’re going to let them get away with it](https://www.theverge.com/2019/1/3/18167137/att-verge-tv-streaming) (The Verge)
+  * [Los Angeles Accuses Weather Channel App of Covertly Mining User Data](https://www.nytimes.com/2019/01/03/technology/weather-channel-app-lawsuit.html) (NYTimes)
+  * [D-Link debuts a 5G Wi-Fi router with 40 times wired broadband speeds](https://venturebeat.com/2019/01/04/d-link-debuts-a-5g-wi-fi-router-with-40-times-wired-broadband-speeds/) (Venture Beat)
+  * [BLACK MIRROR: BANDERSNATCH COULD BECOME NETFLIX’S SECRET MARKETING WEAPON](https://www.theverge.com/2019/1/2/18165182/black-mirror-bandersnatch-netflix-interactive-strategy-marketing) (The Verge)
+
+**Thursday, January 03 2019 - Apple-ocalypse Now?**
+
+  * [Letter from Tim Cook to Apple investors](https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/)
+  * [Censoring China’s Internet, for Stability and Profit ](https://www.nytimes.com/2019/01/02/business/china-internet-censor.html)(NYTimes)
+  * [Segway unveils a more durable electric scooter and autonomous delivery bot](https://techcrunch.com/2019/01/03/segway-unveils-a-more-durable-electric-scooter-and-autonomous-delivery-bot/) (TechCrunch)
+  * [What to expect from CES 2019](https://techcrunch.com/2018/12/31/what-to-expect-from-ces-2019/) (TechCrunch)
+
 **Wednesday, January 02 2019 - What would I have to pay you to give up Facebook for a year?**
 
   * [Activision Plans to Fire CFO Neumann, Puts Him on Paid Leave](https://www.bloomberg.com/news/articles/2018-12-31/activision-to-fire-ceo-neumann-puts-executive-on-paid-leave) (Bloomberg)
