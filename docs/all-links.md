@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, January 07 2019 - Is Apple's Resolution Hardware Agnosticism?**
+
+  * [Apple is putting iTunes on Samsung TVs](https://www.theverge.com/2019/1/6/18170797/samsung-2019-tvs-itunes-support-airplay-2) (The Verge)
+  * [Google Assistant will soon be on a billion devices, and feature phones are next](https://www.theverge.com/2019/1/7/18169939/google-assistant-billion-devices-feature-phones-ces-2019) (The Verge)
+  * [Everything you may have missed from Nvidia's CES keynote](https://www.techspot.com/news/78138-everything-you-may-have-missed-nvidia-ces-keynote.html) (Techspot)
+  * [HP Launches First-Ever AMD Chromebook](https://www.laptopmag.com/articles/hp-chromebook-14-amd-price-specs) (LaptopMag)
+  * [Withings undercuts Apple Watch, debuts $129 ECG monitoring smartwatch](https://arstechnica.com/gadgets/2019/01/withings-challenges-apple-watch-with-129-move-ecg-smartwatch/) (ArsTechnica)
+  * [LG’s groundbreaking roll-up TV is going on sale this year](https://www.theverge.com/2019/1/7/18171013/lg-rollable-tv-oled-4k-tv-features-photos-video-release-ces-2019) (The Verge)
+  * [Keeping up with Netflix originals is basically a part-time job now](https://qz.com/1505030/keeping-up-with-netflix-originals-is-basically-a-part-time-job-now/) (QZ)
+
 **Friday, January 04 2019 - The Verge vs. AT&T And L.A. vs. The Weather Channel app**
 
   * [AT&T tries to trademark ‘Verge TV’ as if we’re going to let them get away with it](https://www.theverge.com/2019/1/3/18167137/att-verge-tv-streaming) (The Verge)
