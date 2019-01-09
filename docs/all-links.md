@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, January 08 2019 - Smartphone Recession?**
+
+  * [Sorry, Samsung. Seems nobody is immune to peak smartphone](https://www.theregister.co.uk/2019/01/08/smartphone_recession_now_its_samsungs_turn_to_howl/) (The Register)
+  * [Apple’s Errors](https://stratechery.com/2019/apples-errors/) (Stratechery)
+  * [Sony doubles down on 8K TVs and the entertainment to play on them](https://venturebeat.com/2019/01/07/sony-doubles-down-on-8k-tvs-and-the-entertainment-to-play-on-them/) (VentureBeat)
+  * [AT&T decides 4G is now “5G,” starts issuing icon-changing software updates](https://arstechnica.com/gadgets/2019/01/att-decides-4g-is-now-5g-starts-issues-icon-changing-software-updates/) (ArsTechnica)
+  * [Uber’s Confidential Documents Show Path to $90 Billion IPO](https://www.theinformation.com/articles/ubers-confidential-documents-show-path-to-90-billion-ipo) (The Information)
+  * [Exclusive: WeWork rebrands to The We Company; CEO Neumann talks about revised SoftBank round](https://www.fastcompany.com/90289512/exclusive-wework-to-rebrand-to-the-we-company-in-wake-of-disappointing-funding-news) (Fast Company)
+  * [Amazon's new ad strategy: Free samples based on what it knows about you](https://www.axios.com/amazon-ad-strategy-free-samples-based-on-consumer-data-5ce0fe5b-6112-4d59-8d28-39278f457b6d.html) (Axios)
+
 **Monday, January 07 2019 - Is Apple's Resolution Hardware Agnosticism?**
 
   * [Apple is putting iTunes on Samsung TVs](https://www.theverge.com/2019/1/6/18170797/samsung-2019-tvs-itunes-support-airplay-2) (The Verge)
