@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, January 09 2019 - Google Assistant Everywhere!**
+
+  * [GOOGLE’S PLAN TO TAKE ON ALEXA: NEW FEATURES, NEW DEVICES, AND A TROJAN HORSE](https://www.theverge.com/2019/1/8/18172082/google-assistant-connect-vs-alexa-interpreter-mode-maps-features-devices-ces-2019) (The Verge)
+  * [The world’s first foldable phone is charmingly awful ](https://www.theverge.com/2019/1/8/18174278/royole-flexpai-foldable-phone-android-ces-2019)(The Verge)
+  * [Twitter hopes you want to watch NBA games from a camera focused on just one player](https://www.recode.net/2019/1/9/18172629/nba-twitter-stream-live-partnership-turner-tnt) (Recode)
+  * [Zuckerberg's 2019 Challenge Post](https://www.facebook.com/zuck/posts/10106021347128881)
+  * [VC funding in U.S. startups nears $100 billion in 2018, highest since dot-com era](https://www.geekwire.com/2019/vc-funding-u-s-startups-nears-100-billion-2018-highest-since-dot-com-era/) (GeekWire)
+  * [Venture Capital Funding Report 2018](https://www.cbinsights.com/research/report/venture-capital-q4-2018/?utm_campaign=moneytree-q4_2018&utm_content=82099166&utm_medium=social&utm_source=twitter&hss_channel=tw-110171914) (CBInsights)
+  * [Cable operators will fight off 5G with 10-gigabit cable modems](https://venturebeat.com/2019/01/07/cable-operators-will-fight-off-5g-with-10-gigabit-cable-modems/) (VentureBeat)
+  * [This pretax benefits startup is giving hourly workers a raise](https://www.fastcompany.com/90288058/this-pretax-benefits-startup-is-giving-hourly-workers-a-raise) (Fast Company)
+
 **Tuesday, January 08 2019 - Smartphone Recession?**
 
   * [Sorry, Samsung. Seems nobody is immune to peak smartphone](https://www.theregister.co.uk/2019/01/08/smartphone_recession_now_its_samsungs_turn_to_howl/) (The Register)
