@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, January 10 2019 - Foldable Phones Have An Arrival Date**
+
+  * [Samsung to Show Off Its New Foldable Phone in February](https://www.wsj.com/articles/samsung-to-show-fully-functional-foldable-phone-in-february-11547102973?ns=prod/accounts-wsj) (WSJ)
+  * [Amazon Web Services calls MongoDB’s licensing bluff with DocumentDB, a new managed database](https://www.geekwire.com/2019/amazon-web-services-calls-mongodbs-licensing-bluff-documentdb-new-managed-database/) (GeekWire)
+  * [Google Nears Win in Europe Over ‘Right to Be Forgotten’ ](https://www.wsj.com/articles/eu-court-adviser-recommends-limited-scope-for-right-to-be-forgotten-11547112114)(WSJ)
+  * [Google Only Has to Respect Your 'Right to Be Forgotten' in the EU, Court Says](https://gizmodo.com/google-only-has-to-respect-your-right-to-be-forgotten-i-1831636916) (Gizmodo)
+  * [2019 is already full of weird and wonderful monitors ](https://www.theverge.com/2019/1/9/18175080/ces-monitors-pc-laptops-lenovo-samsung-computer-2019)(The Verge)
+  * [Government shutdown halts FCC device approvals](https://www.axios.com/fcc-shutdown-halts-device-approvals-1547068592-9d630f89-c577-4cb7-bcce-4d6e23664874.html) (Axios)
+  * [How Estimates of the Gig Economy Went Wrong](https://www.wsj.com/articles/how-estimates-of-the-gig-economy-went-wrong-11546857000) (WSJ)
+
 **Wednesday, January 09 2019 - Google Assistant Everywhere!**
 
   * [GOOGLE’S PLAN TO TAKE ON ALEXA: NEW FEATURES, NEW DEVICES, AND A TROJAN HORSE](https://www.theverge.com/2019/1/8/18172082/google-assistant-connect-vs-alexa-interpreter-mode-maps-features-devices-ces-2019) (The Verge)
