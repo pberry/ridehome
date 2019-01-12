@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, January 11 2019 - Mooaaarrr... Cameras on Smartphones!**
+
+  * [I Gave a Bounty Hunter $300. Then He Located Our Phone](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile) (Motherboard)
+  * [AT&T says it’ll stop selling your location data, amid calls for a federal investigation](https://www.washingtonpost.com/technology/2019/01/10/phone-companies-are-selling-your-location-data-now-some-lawmakers-want-federal-investigation/?utm_term=.e7efc7329a14) (Washington Post)
+  * [Google Board Sued for Hushing Claims of Executive Misconduct](https://www.bloomberg.com/news/articles/2019-01-10/google-board-sued-for-hushing-misconduct-claims-against-rubin) (Bloomberg)
+  * [Government shutdown: TLS certificates not renewed, many websites are down](https://www.zdnet.com/article/government-shutdown-tls-certificates-not-renewed-many-websites-are-down/) (ZDNet)
+  * [Apple Plans Three New iPhones This Year, Plays Catch-Up on Cameras](https://www.wsj.com/articles/apple-plans-new-lcd-iphone-this-year-despite-xrs-stumble-11547199263) (WSJ)
+  * [Amazon Developing Game Streaming Service](https://www.theinformation.com/articles/amazon-developing-game-streaming-service) (The Information)
+
 **Thursday, January 10 2019 - Foldable Phones Have An Arrival Date**
 
   * [Samsung to Show Off Its New Foldable Phone in February](https://www.wsj.com/articles/samsung-to-show-fully-functional-foldable-phone-in-february-11547102973?ns=prod/accounts-wsj) (WSJ)
