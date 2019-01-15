@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, January 14 2019 - Am I Gonna Do That Egg Instagram Story?**
+
+  * [Facebook’s new Stories feature for event sharing actually sounds useful](https://www.theverge.com/2019/1/14/18179235/facebook-stories-event-sharing-mobile-app-test-new-feature) (The Verge)
+  * [CES 2019: A Show Report](https://medium.learningbyshipping.com/ces-85ca9f07c08a) (Learn By Shipping/@stevesi)
+  * [SoundGuys: USB-C audio is dead](https://www.androidauthority.com/death-of-usb-c-headphones-942314/) (Android Authority)
+  * [Wiliot nabs $30M from Amazon, Avery Dennison, Samsung for a chip that runs on power from ambient radio frequencies](https://techcrunch.com/2019/01/14/wiliot-nabs-30m-from-amazon-avery-dennison-samsung-for-a-chip-that-runs-on-power-from-ambient-radio-frequencies/) (TechCrunch)
+  * [The rise of Alexa creates a dilemma for your open plan office](https://www.wired.co.uk/article/voice-assistants-alexa-at-work-in-office) (Wired)
+  * [A Picture Of An Egg Beat Kylie Jenner For The Most Liked Instagram Of All Time](https://www.buzzfeednews.com/article/mbvd/egg-instagram-likes-beat-kylie-jenner) (BuzzFeed News)
+
 **Friday, January 11 2019 - Mooaaarrr... Cameras on Smartphones!**
 
   * [I Gave a Bounty Hunter $300. Then He Located Our Phone](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile) (Motherboard)
