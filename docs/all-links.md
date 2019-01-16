@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, January 15 2019 - Netflix Raises Prices**
+
+  * [Netflix will raise prices for US subscribers, with its most popular plan going up to $13 per month](https://techcrunch.com/2019/01/15/netflix-price-hike/) (TechCrunch)
+  * [Apple Q1 Numbers: Missing Explanations](https://mondaynote.com/apple-q1-numbers-missing-explanations-4909d5e1f721) (Monday Note)
+  * [ON APPLE’S $29 IPHONE BATTERY REPLACEMENT PROGRAM AND ITS ROLE IN THEIR EARNINGS MISS ](https://daringfireball.net/linked/2019/01/14/iphone-batteries-and-apples-quarterly-miss)(Daring Fireball)
+  * [MongoDB Follow-up, AWS’ Incentives, Batteries: The iPhone’s Missing Miss](https://stratechery.com/2019/mongodb-follow-up-aws-incentives-batteries-the-iphones-missing-miss/) (Stratechery)
+  * [Apple's 5G iPhone shift bogged down by Qualcomm chip battle](https://www.cnet.com/news/apple-wanted-to-use-qualcomm-chips-in-its-newest-iphones-but-qualcomm-wouldnt-supply-jeff-williams-says-at-ftc/?ftag=COS-05-10aaa0b&linkId=62350380) (CNET)
+  * [German court throws out Qualcomm's latest patent case against Apple](https://www.reuters.com/article/us-apple-qualcomm-court/german-court-throws-out-qualcomms-latest-patent-case-against-apple-idUSKCN1P911C) (Reuters)
+  * [Feds Can't Force You To Unlock Your iPhone With Finger Or Face, Judge Rules](https://www.forbes.com/sites/thomasbrewster/2019/01/14/feds-cant-force-you-to-unlock-your-iphone-with-finger-or-face-judge-rules/#2e87287642b7) (Forbes)
+  * [Microsoft counters Amazon again with big Walgreens partnership, aiming to reshape healthcare](https://www.geekwire.com/2019/microsoft-counters-amazon-big-walgreens-partnership-aiming-reshape-healthcare/) (GeekWire)
+
 **Monday, January 14 2019 - Am I Gonna Do That Egg Instagram Story?**
 
   * [Facebook’s new Stories feature for event sharing actually sounds useful](https://www.theverge.com/2019/1/14/18179235/facebook-stories-event-sharing-mobile-app-test-new-feature) (The Verge)
