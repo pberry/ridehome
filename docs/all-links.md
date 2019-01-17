@@ -1,7 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-**Tuesday, January 15 2019 - Netflix Raises Prices**
-
 **Wednesday, January 16 2019 - Razr's Coming Back To Usher in the Foldable Phone Era**
 
   * [WeWork’s CEO Makes Millions as Landlord to WeWork ](https://www.wsj.com/articles/weworks-ceo-makes-millions-as-landlord-to-wework-11547640000?mod=hp_lead_pos3&ns=prod/accounts-wsj)(WSJ)
@@ -10,6 +8,8 @@
   * [FACEBOOK'S '10 YEAR CHALLENGE' IS JUST A HARMLESS MEME—RIGHT?](https://www.wired.com/story/facebook-10-year-meme-challenge/) (Wired)
   * [Madagascar has become a business outsourcing hotspot thanks to its super-fast internet](https://qz.com/africa/1519409/madagascars-fast-internet-fuels-outsourcing-boom/?utm_source=qzfb&utm_source=Benedict%27s+newsletter&utm_campaign=b725b6ba4d-Benedict%27s+Newsletter_COPY_01&utm_medium=email&utm_term=0_4999ca107f-b725b6ba4d-70713529) (QZ Africa)
   * [Return of the Razr—With a Foldable Screen and $1,500 Price](https://www.wsj.com/articles/return-of-the-razrwith-a-foldable-screen-and-1-500-price-11547643601?mod=e2twd) (WSJ)
+
+**Tuesday, January 15 2019 - Netflix Raises Prices**
 
   * [Netflix will raise prices for US subscribers, with its most popular plan going up to $13 per month](https://techcrunch.com/2019/01/15/netflix-price-hike/) (TechCrunch)
   * [Apple Q1 Numbers: Missing Explanations](https://mondaynote.com/apple-q1-numbers-missing-explanations-4909d5e1f721) (Monday Note)
