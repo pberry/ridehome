@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, January 17 2019 - Tim Cook Sayz: Regulate THOSE Guys**
+
+  * [Removing Coordinated Inauthentic Behavior from Russia](https://newsroom.fb.com/news/2019/01/removing-cib-from-russia/) (Facebook Newsroom)
+  * [You Deserve Privacy Online. Here’s How You Could Actually Get It](http://time.com/collection-post/5502591/tim-cook-data-privacy/) (Time)
+  * [I Mentored Mark Zuckerberg. I Loved Facebook. But I Can't Stay Silent About What's Happening.](http://time.com/5505441/mark-zuckerberg-mentor-facebook-downfall/) (Time)
+  * [Huawei Targeted in U.S. Criminal Probe for Alleged Theft of Trade Secrets](https://www.wsj.com/articles/federal-prosecutors-pursuing-criminal-case-against-huawei-for-alleged-theft-of-trade-secrets-11547670341) (WSJ)
+  * [HACK BRIEF: AN ASTONISHING 773 MILLION RECORDS EXPOSED IN MONSTER BREACH](https://www.wired.com/story/collection-one-breach-email-accounts-passwords/) (Wired)
+  * [AWS For Everyone: New clues emerge about Amazon’s secretive low-code/no-code project](https://www.geekwire.com/2019/aws-everyone-new-clues-emerge-amazons-secretive-low-code-no-code-project/) (GeekWire)
+  * [Former Facebook engineer picks up $15M for AI platform Spell](https://techcrunch.com/2019/01/17/former-facebook-engineer-picks-up-15m-for-ai-platform-spell/) (TechCrunch)
+
 **Wednesday, January 16 2019 - Razr's Coming Back To Usher in the Foldable Phone Era**
 
   * [WeWork’s CEO Makes Millions as Landlord to WeWork ](https://www.wsj.com/articles/weworks-ceo-makes-millions-as-landlord-to-wework-11547640000?mod=hp_lead_pos3&ns=prod/accounts-wsj)(WSJ)
