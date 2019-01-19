@@ -1,13 +1,14 @@
 {% include_relative _includes/longreads-header.md %}
 
-**Friday, January 11**
-  * [Demon Underneath: John DeLorean and the Invention of the Future](https://theoutline.com/post/6776/john-delorean-rise-and-fall-big-money-the-fbi-celebrities-and-cocaine?zd=1&zi=nxbg2epw) (The Outline)
-  * [The Rise and Demise of RSS](https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss) (Motherboard)
-  * [Pitchfork’s Ryan Schreiber shaped Internet music journalism and now leaves it behind](https://www.latimes.com/entertainment/music/la-et-ms-pitchfork-ryan-schreiber-20190109-story.html) (Los Angeles Times)
-  * [Inside look at modern web browser (part 1) ](https://developers.google.com/web/updates/2018/09/inside-browser-part1)(Developers.Google)
-  * [The Race to Diagnose Cancer With a Simple Blood Test](https://medium.com/s/2069/the-race-to-diagnose-cancer-with-a-simple-blood-test-6ec5d38eb1c9) (2069 - Medium)
-  * [Lasers vs. Microwaves: The Billion-Dollar Bet on the Future of Magnetic Storage](https://spectrum.ieee.org/computing/hardware/lasers-vs-microwaves-the-billiondollar-bet-on-the-future-of-magnetic-storage) (ieee Spectrum)
-  * [PREPARING FOR Y2038 (ALREADY?!)](https://blogs.akamai.com/2019/01/preparing-for-y2038-already.html) (blogs.akamai)
+**Friday, January 18**
+  * [Drone Radio Show](https://itunes.apple.com/us/podcast/drone-radio-show/id1020306864?mt=2)
+  * [Delivery Drones Use Bird-Inspired Legs to Jump Into the Air](https://spectrum.ieee.org/automaton/robotics/drones/delivery-drones-use-birdinspired-legs-to-jump-into-the-air) (IEEE Spectrum)
+  * [Why Do Shareholders Agree to Give Up Voting Rights? ](http://nymag.com/intelligencer/2019/01/why-do-shareholders-agree-to-give-up-voting-rights.html)(New York Magazine)
+  * [The Attention Economy Is a Malthusian Trap](https://www.theatlantic.com/ideas/archive/2019/01/is-the-age-of-tech-over/580504/) (The Atlantic)
+  * [The Story Behind Meta, the AR Startup That Just Had Its Assets Sold to a Mystery Buyer](https://variety.com/2019/digital/features/meta-ar-startup-asset-sale-1203111585/) (Variety)
+  * [Rekindled yet again, Nokia’s next-gen phones offer more than just nostalgia](https://www.digitaltrends.com/mobile/exclusive-hmd-global-return-of-nokia/) (Digital Trends)
+  * [INSIDE THE STRANGE YET PROFITABLE WORLD OF RETAIL ARBITRAGE](https://melmagazine.com/en-us/story/inside-the-strange-yet-profitable-world-of-retail-arbitrage) (Mel Magazine)
+  * [EA’s Troubled Decade Of Star Wars Games](https://kotaku.com/ea-s-troubled-decade-of-star-wars-games-1831807493) (Kotaku)
 
 **Friday, January 11**
   * [Demon Underneath: John DeLorean and the Invention of the Future](https://theoutline.com/post/6776/john-delorean-rise-and-fall-big-money-the-fbi-celebrities-and-cocaine?zd=1&zi=nxbg2epw) (The Outline)
