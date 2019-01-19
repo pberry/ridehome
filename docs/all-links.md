@@ -1,5 +1,12 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, January 18 2019 - Gadget Reviews Now Mean Sneaker Reviews**
+
+  * [Netflix beats on subscriber growth, but misses slightly on revenue — stock falls after hours](https://www.cnbc.com/2019/01/16/netflix-earnings-q4-2018.html) (CNBC)
+  * [It’s Official: Satya Nadella Confirms Cortana Defeat ](https://www.thurrott.com/smart-home/197918/its-official-satya-nadella-confirms-cortana-defeat)(Thurrott)
+  * [Nike's auto-laced future](https://techcrunch.com/2019/01/17/nikes-auto-laced-future/) (TechCrunch)
+  * [NIKE'S NEW SELF-LACING BASKETBALL SHOE IS ACTUALLY SMART](https://www.wired.com/story/nike-adapt-bb-sneaker/) (Wired)
+
 **Thursday, January 17 2019 - Tim Cook Sayz: Regulate THOSE Guys**
 
   * [Removing Coordinated Inauthentic Behavior from Russia](https://newsroom.fb.com/news/2019/01/removing-cib-from-russia/) (Facebook Newsroom)
