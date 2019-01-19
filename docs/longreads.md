@@ -9,6 +9,15 @@
   * [Lasers vs. Microwaves: The Billion-Dollar Bet on the Future of Magnetic Storage](https://spectrum.ieee.org/computing/hardware/lasers-vs-microwaves-the-billiondollar-bet-on-the-future-of-magnetic-storage) (ieee Spectrum)
   * [PREPARING FOR Y2038 (ALREADY?!)](https://blogs.akamai.com/2019/01/preparing-for-y2038-already.html) (blogs.akamai)
 
+**Friday, January 11**
+  * [Demon Underneath: John DeLorean and the Invention of the Future](https://theoutline.com/post/6776/john-delorean-rise-and-fall-big-money-the-fbi-celebrities-and-cocaine?zd=1&zi=nxbg2epw) (The Outline)
+  * [The Rise and Demise of RSS](https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss) (Motherboard)
+  * [Pitchfork’s Ryan Schreiber shaped Internet music journalism and now leaves it behind](https://www.latimes.com/entertainment/music/la-et-ms-pitchfork-ryan-schreiber-20190109-story.html) (Los Angeles Times)
+  * [Inside look at modern web browser (part 1) ](https://developers.google.com/web/updates/2018/09/inside-browser-part1)(Developers.Google)
+  * [The Race to Diagnose Cancer With a Simple Blood Test](https://medium.com/s/2069/the-race-to-diagnose-cancer-with-a-simple-blood-test-6ec5d38eb1c9) (2069 - Medium)
+  * [Lasers vs. Microwaves: The Billion-Dollar Bet on the Future of Magnetic Storage](https://spectrum.ieee.org/computing/hardware/lasers-vs-microwaves-the-billiondollar-bet-on-the-future-of-magnetic-storage) (ieee Spectrum)
+  * [PREPARING FOR Y2038 (ALREADY?!)](https://blogs.akamai.com/2019/01/preparing-for-y2038-already.html) (blogs.akamai)
+
 **Friday, January 04**
   * Podcast suggestion: [Daily Fortnite](https://anchor.fm/daily-fortnite)
   * [Courier Prime](https://quoteunquoteapps.com/courierprime/)
