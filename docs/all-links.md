@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, January 21 2019 - Email is Back, Baby!**
+
+  * [French data protection watchdog fines Google $57 million under the GDPR](https://techcrunch.com/2019/01/21/french-data-protection-watchdog-fines-google-57-million-under-the-gdpr/) (TechCrunch)
+  * [Copyright negotiations hit a brick wall in Council](https://juliareda.eu/2019/01/copyright-hits_wall/) (Julia Reda)
+  * [Uber is exploring autonomous bikes and scooters](https://techcrunch.com/2019/01/20/uber-is-exploring-autonomous-bikes-and-scooters/) (TechCrunch)
+  * [A POKER-PLAYING ROBOT GOES TO WORK FOR THE PENTAGON](https://www.wired.com/story/poker-playing-robot-goes-to-pentagon/) (Wired)
+  * [Amazon helped 50,000 SMBs generate $500,000 in sales](https://www.neowin.net/news/amazon-helped-50000-smbs-generate-500000-in-sales) (Neowin)
+  * [The Hot New Channel for Reaching Real People: Email ](https://www.wsj.com/articles/the-hot-new-channel-for-reaching-real-people-email-11547874005)(WSJ)
+
 **Friday, January 18 2019 - Gadget Reviews Now Mean Sneaker Reviews**
 
   * [Netflix beats on subscriber growth, but misses slightly on revenue — stock falls after hours](https://www.cnbc.com/2019/01/16/netflix-earnings-q4-2018.html) (CNBC)
