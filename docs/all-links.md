@@ -1,5 +1,29 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, January 23 2019 - Jony Ive's Dream Phone Concept**
+
+  * [YouTube TV finally goes nationwide almost two years after launch](https://www.theverge.com/2019/1/23/18193994/youtube-tv-now-available-nationwide) (The Verge)
+  * [Hulu drops to just $5.99 per month after Netflix’s price hikes](https://www.theverge.com/2019/1/23/18193539/hulu-price-change-subscription-ads-live-tv-2019) (The Verge)
+  * [Waymo says it will build self-driving cars in Michigan ](https://www.reuters.com/article/us-autonomous-waymo/waymo-says-it-will-build-self-driving-cars-in-michigan-idUSKCN1PG22R)(Reuters)
+  * [Xiaomi's flexible phone concept folds on both sides ](https://www.engadget.com/2019/01/23/xiaomi-foldable-phone-video/)(Engadget)
+  * [Meizu Zero debuts with no physical buttons, speaker or charging port](https://www.gsmarena.com/meizu_zero_has_no_buttons_speaker_or_even_a_charging_port-news-35194.php) (GSMarena)
+  * [Millions and Billions | Celebrating Patrons, Creators, and Major Milestones](https://blog.patreon.com/millions-and-billions-celebrating-patrons-creators-major-milestones) (Patreon Blog)
+  * [Digitimes: AirPods 2 launching in first half of this year, redesigned to support ‘health monitoring’ features ](https://9to5mac.com/2019/01/23/airpods-2-2019-launch/)(9to5Mac)
+  * [Spotify Will Soon Let You Block Artists](https://www.thurrott.com/cloud/social/198104/spotify-will-soon-let-you-block-artists) (Thurrot.com)
+  * [The economics of streaming is making songs shorter ](https://qz.com/1519823/is-spotify-making-songs-shorter/?utm_source=reddit.com)(QZ)
+  * [Is Spotify’s Model Wiping Out Music’s Middle Class?](https://www.theringer.com/tech/2019/1/16/18184314/spotify-music-streaming-service-royalty-payout-model) (The Ringer)
+
+**Tuesday, January 22 2019 - Munchery Enters the Deadpool**
+
+  * [Munchery closes on-demand meal-delivery business ](https://www.sfchronicle.com/business/article/Munchery-closes-on-demand-food-business-13550652.php)(San Francisco Chronicle)
+  * [Foxconn Looks Beyond China to India for iPhone Assembly](https://www.wsj.com/articles/foxconn-looks-to-indiaand-beyond-chinafor-iphone-assembly-11548151273) (WSJ)
+  * [Apple Supplier in Japan Looks to Taiwan for Bailout After iPhone XR Letdown](https://www.wsj.com/articles/apple-supplier-in-japan-looks-to-taiwan-for-bailout-after-iphone-xr-letdown-11548144689) (WSJ)
+  * [Apple Pay coming to Target, Taco Bell and more top US retail locations](https://www.apple.com/newsroom/2019/01/apple-pay-coming-to-target-taco-bell-and-more-top-us-retail-locations/) (Apple Newsroom)
+  * [Netflix in advanced talks to join major Hollywood lobbying group](https://www.politico.com/story/2019/01/22/netflix-in-advanced-talks-to-join-major-hollywood-lobbying-group-1101703) (Politico)
+  * [Rosetta Stone for iPhone adds AI to identify objects for live translations](https://venturebeat.com/2019/01/22/rosetta-stone-for-iphone-adds-ai-to-identify-objects-for-live-translations/) (VentureBeat)
+  * [FENDER'S NEW ACOUSTIC GUITAR HAS A MILLION DIFFERENT VOICES](https://www.wired.com/story/fender-american-acoustasonic-telecaster/) (Wired)
+
+
 **Monday, January 21 2019 - Email is Back, Baby!**
 
   * [French data protection watchdog fines Google $57 million under the GDPR](https://techcrunch.com/2019/01/21/french-data-protection-watchdog-fines-google-57-million-under-the-gdpr/) (TechCrunch)
