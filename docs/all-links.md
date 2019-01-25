@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, January 24 2019 - Your Flying Car Is Here**
+
+  * [China Appears to Block Microsoft’s Bing as Censorship Intensifies](https://www.nytimes.com/2019/01/23/business/china-microsoft-bing.html) (NYTimes)
+  * [Sonos Plans Headphones in Move Outside the Home ](https://www.bloomberg.com/news/articles/2019-01-24/sonos-is-said-to-plan-headphones-in-move-outside-the-home)(Bloomberg)
+  * [Boeing’s ‘flying car’ lifts off in race to revolutionize urban transport](https://venturebeat.com/2019/01/24/boeings-flying-car-lifts-off-in-race-to-revolutionize-urban-transport/) (VentureBeat)
+  * [The U.S. Government Shutdown Has Delivered A Surprise Blow To Bitcoin](https://www.forbes.com/sites/billybambrough/2019/01/24/the-u-s-government-shutdown-has-delivered-a-surprise-blow-to-bitcoin/#a6543612ec11) (Forbes)
+  * [Apple just dismissed more than 200 employees from Project Titan, its autonomous vehicle group](https://www.cnbc.com/2019/01/24/apple-lays-off-over-200-from-project-titan-autonomous-vehicle-group.html) (CNBC)
+  * [Verizon Media Group is laying off 7% of its staff](https://www.cnbc.com/2019/01/23/verizon-media-group-plans-to-cut-7percent-of-its-staff-source.html) (CNBC)
+  * [BuzzFeed is laying off more than 200 people, its second round of cuts in 14 months](https://www.recode.net/2019/1/23/18195142/buzzfeed-layoffs-jonah-peretti-250-people-15-percent) (Recode)
+
 **Wednesday, January 23 2019 - Jony Ive's Dream Phone Concept**
 
   * [YouTube TV finally goes nationwide almost two years after launch](https://www.theverge.com/2019/1/23/18193994/youtube-tv-now-available-nationwide) (The Verge)
