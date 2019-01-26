@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, January 25 2019 - AI Can Beat Us At Starcraft II Too (Also?)**
+
+  * [Zuckerberg Plans to Integrate WhatsApp, Instagram and Facebook Messenger](https://www.nytimes.com/2019/01/25/technology/facebook-instagram-whatsapp-messenger.html) (NYTimes)
+  * [Facebook knowingly duped game-playing kids and their parents out of money](https://www.revealnews.org/article/facebook-knowingly-duped-game-playing-kids-and-their-parents-out-of-money/) (Reveal)
+  * [Facebook ignored kids’ spending problems, internal documents reveal](https://www.bbc.com/news/technology-46998055) (BBC News)
+  * [DeepMind AI Challenges Pro StarCraft II Players, Wins Almost Every Match](http://www.extremetech.com/gaming/284441-deepmind-ai-challenges-pro-starcraft-ii-players-wins-almost-every-match) (ExtremeTech)
+  * [Coming to a TV near you: personalized ads](https://www.axios.com/coming-to-a-tv-near-you-customized-ads-1548378037-e5553f3a-1ded-4cfd-9f5e-be89cd59cf69.html) (Axios)
+
 **Thursday, January 24 2019 - Your Flying Car Is Here**
 
   * [China Appears to Block Microsoft’s Bing as Censorship Intensifies](https://www.nytimes.com/2019/01/23/business/china-microsoft-bing.html) (NYTimes)
