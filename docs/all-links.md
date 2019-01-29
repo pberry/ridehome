@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, January 28 2019 - An Apple Subscription Gaming Service?**
+
+  * [Apple Plans Gaming Subscription Service: Sources](https://cheddar.com/videos/apple-plans-gaming-subscription-service-sources) (Cheddar)
+  * [A Tiny Screw Shows Why iPhones Won’t Be ‘Assembled in U.S.A.’](https://www.nytimes.com/2019/01/28/technology/iphones-apple-china-made.html) (NYTimes)
+  * [China created a unicorn every 3.8 days in 2018](https://www.scmp.com/tech/start-ups/article/2183717/china-created-unicorn-every-38-days-2018) (South China Morning Post)
+  * [China's smartphone shipments dropped 14 percent in 2018](https://techcrunch.com/2019/01/28/chinas-smartphone-shipments-dropped-14-percent-in-2018/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+\(TechCrunch\)) (TechCrunch)
+  * [Facebook Watch Isn’t Living Up to Its Name ](https://www.bloomberg.com/news/articles/2019-01-28/facebook-watch-struggles-to-deliver-hits-or-advertisers)(Bloomberg)
+  * [Google and IAB ad category lists show 'massive leakage of highly intimate data,' GDPR complain claims ](https://techcrunch.com/2019/01/27/google-and-iab-ad-category-lists-show-massive-leakage-of-highly-intimate-data-gdpr-complaint-claims/)(TechCrunch)
+  * [AI Helps Amputees Walk With a Robotic Knee](https://spectrum.ieee.org/the-human-os/biomedical/bionics/ai-helps-humans-walk-on-robot-prosthetic-knee) (IEEE Spectrum)
+
 **Friday, January 25 2019 - AI Can Beat Us At Starcraft II Too (Also?)**
 
   * [Zuckerberg Plans to Integrate WhatsApp, Instagram and Facebook Messenger](https://www.nytimes.com/2019/01/25/technology/facebook-instagram-whatsapp-messenger.html) (NYTimes)
