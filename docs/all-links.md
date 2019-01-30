@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, January 29 2019 - The FaceTime Bug**
+
+  * [Major iPhone FaceTime bug lets you hear the audio of the person you are calling … before they pick up ](https://9to5mac.com/2019/01/28/facetime-bug-hear-audio/)(9to5Mac)
+  * [U.S. Charges Huawei With Stealing Trade Secrets, Bank Fraud](https://www.bloomberg.com/news/articles/2019-01-28/u-s-planning-to-announce-criminal-charges-related-to-huawei-jrgrda0q) (Bloomberg)
+  * [BitTorrent Tokens Sold Out in Under 15 Minutes, Netting Over $7 Mln](https://cointelegraph.com/news/bittorrent-tokens-sold-out-in-under-15-minutes-netting-over-7-mln) (CoinTelegraph)
+  * [Bluetooth gains ‘direction finding’ for location accuracy to the centimeter](https://venturebeat.com/2019/01/28/bluetooth-gains-direction-finding-for-location-accuracy-to-the-centimeter/) (VentureBeat)
+  * [After backlash, BuzzFeed says it will pay out earned paid time off to laid off employees](https://www.cnn.com/2019/01/28/media/buzzfeed-layoffs-pto/) (CNN Business)
+  * [Aiming to change the way people take medicine, Lyndra Therapeutics raises $55 million](https://techcrunch.com/2019/01/29/aiming-to-change-the-way-people-take-medicine-lyndra-therapeutics-raises-55-million/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29) (TechCrunch)
+
 **Monday, January 28 2019 - An Apple Subscription Gaming Service?**
 
   * [Apple Plans Gaming Subscription Service: Sources](https://cheddar.com/videos/apple-plans-gaming-subscription-service-sources) (Cheddar)
