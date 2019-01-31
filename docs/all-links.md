@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, January 30 2019 - Facebook "Slaps Apple In The Face"**
+
+  * [Facebook pays teens to install VPN that spies on them](https://techcrunch.com/2019/01/29/facebook-project-atlas/) (TechCrunch)
+  * [Apple blocks Facebook from running its internal iOS apps](https://www.theverge.com/2019/1/30/18203551/apple-facebook-blocked-internal-ios-apps) (The Verge)
+  * [Apple Reports First Quarter Results](https://www.apple.com/newsroom/2019/01/apple-reports-first-quarter-results/) (Apple Newsroom)
+  * [Report: Americans got 26.3 billion robocalls last year, up 46 percent from 2017](https://www.washingtonpost.com/technology/2019/01/29/report-americans-got-billion-robocalls-last-year-up-percent/?utm_term=.326ea8a97e0a) (Washington Post)
+  * [1TB phones are coming and I’m so f***ing ready](https://thenextweb.com/plugged/2019/01/30/1tb-phones-samsung-chip-eufs/) (TNW)
+
 **Tuesday, January 29 2019 - The FaceTime Bug**
 
   * [Major iPhone FaceTime bug lets you hear the audio of the person you are calling … before they pick up ](https://9to5mac.com/2019/01/28/facetime-bug-hear-audio/)(9to5Mac)
