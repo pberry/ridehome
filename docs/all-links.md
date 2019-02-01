@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, January 31 2019 - Facebook's Still Making Bank**
+
+  * [Mark Zuckerberg wants to get back to building new Facebook products](https://www.recode.net/2019/1/30/18204484/facebook-zuckerberg-products-earnings-q4-2018-priorities) (ReCode)
+  * [Nintendo cuts Switch sales forecast despite strong holiday season](https://www.theverge.com/2019/1/31/18204789/nintendo-q3-2018-earnings-switch-sales-forecast) (The Verge)
+  * [Apple Is Planning 3-D Cameras for New iPhones in AR Push](https://www.bloomberg.com/news/articles/2019-01-30/apple-is-said-to-prep-new-3-d-camera-for-2020-iphones-in-ar-push) (Bloomberg)
+  * [HACKERS ARE PASSING AROUND A MEGALEAK OF 2.2 BILLION RECORDS](https://www.wired.com/story/collection-leak-usernames-passwords-billions/) (Wired)
+  * [Hulu announces a new ad unit that appears when you pause](https://techcrunch.com/2019/01/31/hulu-pause-ad/) (TechCrunch)
+
 **Wednesday, January 30 2019 - Facebook "Slaps Apple In The Face"**
 
   * [Facebook pays teens to install VPN that spies on them](https://techcrunch.com/2019/01/29/facebook-project-atlas/) (TechCrunch)
