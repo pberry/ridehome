@@ -1,5 +1,20 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, February 01**
+  * The [ShopTalkShow](https://itunes.apple.com/us/podcast/shoptalk/id493890455?mt=2) podcast
+  * [Is Alexa working?](https://www.ben-evans.com/benedictevans/2019/1/29/is-alexa-working) (Benedict Evans)
+  * [As I.P.O. Approaches, Lyft’s Chief Is Nudged Into the Spotlight](https://www.nytimes.com/2019/01/27/technology/lyft-ceo-logan-green.html) (NYTimes)
+  * [Why Technology Hasn’t Fixed the Housing Crisis](https://www.nytimes.com/2019/01/29/upshot/can-technology-help-fix-the-housing-market.html) (NYTimes)
+  * [The Secrets of Lyndon Johnson’s Archives](https://www.newyorker.com/magazine/2019/01/28/the-secrets-of-lyndon-johnsons-archives) (The New Yorker)
+
+**Friday, January 25**
+  * [From Founder to CEO](https://itunes.apple.com/us/podcast/from-founder-to-ceo/id969226465?mt=2) (podcast)
+  * [EVERYBODY DOES IT: THE MESSY TRUTH ABOUT INFILTRATING COMPUTER SUPPLY CHAINS](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) (The Intercept)
+  * [Katzenberg and Whitman: Hollywood’s New Odd Couple ](http://fortune.com/longform/katzenberg-whitman-hollywood-mobile-streaming-quibi/)(Fortune)
+  * [Twitter CEO Jack Dorsey: The Rolling Stone Interview ](https://www.rollingstone.com/culture/culture-features/twitter-ceo-jack-dorsey-rolling-stone-interview-782298/)(Rolling Stone)
+  * [“The Linux of social media”—How LiveJournal pioneered (then lost) blogging](https://arstechnica.com/gadgets/2019/01/the-linux-of-social-media-how-livejournal-pioneered-then-lost-web-blogging/) (ArsTechnica)
+  * [Reddit’s r/changemyview is a template for how all online discussion should be](https://thenextweb.com/socialmedia/2019/01/23/reddits-model-community-offers-a-prototype-for-controversial-discussions/) (TNW)
+
 **Friday, January 18**
   * [Drone Radio Show](https://itunes.apple.com/us/podcast/drone-radio-show/id1020306864?mt=2)
   * [Delivery Drones Use Bird-Inspired Legs to Jump Into the Air](https://spectrum.ieee.org/automaton/robotics/drones/delivery-drones-use-birdinspired-legs-to-jump-into-the-air) (IEEE Spectrum)
