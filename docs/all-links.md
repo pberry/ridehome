@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, February 01 2019 - The Apple/Facebook/Google Cold War**
+
+  * [Apple restores Google's internal iOS apps after certificate misuse punishment]( Apple restores Google’s internal iOS apps after certificate misuse punishment) (TechCrunch)
+  * [Twitter removed some accounts originating in Iran, Russia and Venezuela that targeted U.S. midterm election](https://www.washingtonpost.com/technology/2019/01/31/twitter-removed-some-accounts-originating-iran-russia-venezuela-that-targeted-us-midterms/?utm_term=.34f86ff04110) (The Washington Post)
+  * [Vice Media to Reorganize, Lay Off 10 Percent of Staff (Exclusive)](https://www.hollywoodreporter.com/news/vice-media-reorganize-lay-10-percent-staff-1181785) (The Hollywood Reporter)
+  * [Why the Outlook for Digital Media Behemoths is Worse than You Think](https://talkingpointsmemo.com/edblog/why-the-outlook-for-digital-behemoths-is-worse-than-you-think) (Talking Points Memo)
+  * [Amazon Notches Third Record Profit in a Row](https://www.wsj.com/articles/amazon-reports-third-record-profit-in-a-row-11548969267) (WSJ)
+  * [Americans are lining up to work for Amazon for $15 an hour](https://qz.com/1539536/amazon-job-applications-doubled-after-it-raised-its-minimum-wage-to-15/) (QZ)
+  * [Why Alexa usually won’t respond when someone says ‘Alexa’ on TV ](https://venturebeat.com/2019/01/31/why-alexa-usually-wont-respond-when-someone-says-alexa-on-tv/)(VentureBeat)
+
 **Thursday, January 31 2019 - Facebook's Still Making Bank**
 
   * [Mark Zuckerberg wants to get back to building new Facebook products](https://www.recode.net/2019/1/30/18204484/facebook-zuckerberg-products-earnings-q4-2018-priorities) (ReCode)
