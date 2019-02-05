@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, February 04 2019 - Why CAPTCHA's Have Gotten So Difficult**
+
+  * [Microsoft wants to bring Xbox Live cross-platform gaming to Android, iOS, Nintendo Switch, and more ](https://www.windowscentral.com/microsoft-wants-bring-xbox-live-cross-platform-gaming-android-ios-nintendo-switch-and-more)(WindowsCentral)
+  * [Slack confidentially files to go public](https://www.cnbc.com/2019/02/04/slack-confidentially-files-to-go-public.html) (CNBC)
+  * [Crypto Exchange Says It Can't Repay $190 Million to Clients After Founder Dies With Only Password](https://gizmodo.com/crypto-exchange-says-it-cant-repay-190-million-to-clie-1832309454) (Gizmodo)
+  * [Locast, a Free App Streaming Network TV, Would Love to Get Sued](https://www.nytimes.com/2019/01/31/business/locast-streaming-free-network-tv.html) (NYTimes)
+  * [MacBook keyboard failures could end with introduction of glass panel keyboards](https://appleinsider.com/articles/19/01/31/macbook-keyboard-failures-could-end-with-introduction-of-glass-panel-keyboards) (AppleInsider)
+  * [WHY CAPTCHAS HAVE GOTTEN SO DIFFICULT](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robot-human-difficult-artificial-intelligence) (The Verge)
+
 **Friday, February 01 2019 - The Apple/Facebook/Google Cold War**
 
   * [Apple restores Google's internal iOS apps after certificate misuse punishment]( Apple restores Google’s internal iOS apps after certificate misuse punishment) (TechCrunch)
