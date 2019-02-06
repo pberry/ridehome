@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, February 05 2019 - Facebook Turns Fifteen**
+
+  * [Being Google is getting very expensive](https://qz.com/1541705/being-google-is-getting-very-expensive/) (QZ)
+  * [Zuckerberg's Facebook Post](https://www.facebook.com/zuck/posts/10106411140260321)
+  * [Facebook Makes First Blockchain Acquisition With Chainspace: Sources](https://cheddar.com/videos/facebook-blockchain-acquisition-chainspace) (Cheddar)
+  * [Boring Game Plus New Orleans Rebellion Leads to Ratings Drop](https://www.nytimes.com/2019/02/04/sports/super-bowl-ratings.html) (NYTimes)
+  * ['Fortnite' Had 10 Million Concurrent Players In The Marshmello Concert Event](https://www.forbes.com/sites/insertcoin/2019/02/03/fortnite-had-10-million-concurrent-players-in-the-marshmello-concert-event/#19b010af5f3a) (Forbes)
+  * [iPhone XR Review](https://www.anandtech.com/show/13912/the-apple-iphone-xr-review-brilliant-battery-life) (AnAndTech)
+  * [Amazon Alexa Now Lets You Choose Your Own Adventure](https://www.geek.com/tech/amazon-alexa-now-lets-you-choose-your-own-adventure-1773028/?source) (Geek.com)
+
 **Monday, February 04 2019 - Why CAPTCHA's Have Gotten So Difficult**
 
   * [Microsoft wants to bring Xbox Live cross-platform gaming to Android, iOS, Nintendo Switch, and more ](https://www.windowscentral.com/microsoft-wants-bring-xbox-live-cross-platform-gaming-android-ios-nintendo-switch-and-more)(WindowsCentral)
