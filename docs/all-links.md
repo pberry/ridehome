@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, February 06 2019 - Spotify Makes A Big Move Into Podcasting**
+
+  * [Spotify has bought two podcast startups and it wants to buy more](https://www.recode.net/2019/2/6/18213456/spotify-podcast-gimlet-anchor-q4-results) (ReCode)
+  * [Relaxation app Calm raises $88 million, valuing it $1 billion](https://www.cnbc.com/2019/02/05/calm-raises-88-million-valuing-the-meditation-app-at-1-billion.html) (CNBC)
+  * [Facebook’s top PR exec is leaving](https://www.recode.net/2019/2/6/18213828/facebook-top-pr-executive-leaving) (ReCode)
+  * [230 New Emojis in Final List for 2019](https://blog.emojipedia.org/230-new-emojis-in-final-list-for-2019/) (EmojiPedia)
+  * [Programmer finds ridiculous ATM loophole that let him withdraw $1 million in cash](https://www.theverge.com/2019/2/5/18212902/huaxia-bank-qin-qisheng-atm-loophole-hack-china) (The Verge)
+
 **Tuesday, February 05 2019 - Facebook Turns Fifteen**
 
   * [Being Google is getting very expensive](https://qz.com/1541705/being-google-is-getting-very-expensive/) (QZ)
