@@ -1,4 +1,22 @@
 {% include_relative _includes/showlinks-header.md %}
+**Friday, February 08 2019 - The Jeff Bezos Stuff**
+
+  * [No thank you, Mr. Pecker](https://medium.com/@jeffreypbezos/no-thank-you-mr-pecker-146e3922310f) (Jeff Bezos on Medium)
+  * [Facing opposition, Amazon reconsiders NY headquarters site, two officials say](https://www.washingtonpost.com/local/virginia-politics/facing-opposition-amazon-reconsiders-ny-headquarters-site-two-officials-say/2019/02/08/451ffc52-2a19-11e9-b011-d8500644dc98_story.html?utm_term=.20736191d112) (Washington Post)
+  * [Sprint sues AT&T over its fake 5G branding](https://www.engadget.com/2019/02/08/att-5g-sprint-lawsuit/) (Engadget)
+  * [Google warns about two iOS zero-days 'exploited in the wild'](https://www.zdnet.com/article/google-warns-about-two-ios-zero-days-exploited-in-the-wild/) (ZDNet)
+  * [Can Subscriptions Save All Media Companies, or Just the New York Times?](http://nymag.com/intelligencer/2019/02/new-york-times-subscription-revenue-is-mixed-news-for-media.html) (NYMag)
+  * [Amid bad news in the industry, Business Insider parent says it crossed $100m revenue mark and is profitable](https://digiday.com/media/following-a-profitable-year-insider-inc-is-eyeing-responsible-business-growth/) (Digiday)
+
+**Thursday, February 07 2019 - Facebook Dinged In Germany; Killin' It In China**
+
+  * [Facebook ordered by Germany to gather and mix less data](https://www.bbc.com/news/technology-47146431) (BBC)
+  * [How Facebook’s Tiny China Sales Floor Helps Generate Big Ad Money](https://www.nytimes.com/2019/02/07/technology/facebook-china-internet.html) (NYTimes)
+  * [Twitter Q4 Earnings](https://techcrunch.com/2019/02/07/twitter-q4-beats-on-sales-of-909m-and-eps-of-0-33-but-maus-slump-to-just-321m/) (TechCrunch)
+  * [Skype Can Now Blur Your Background So You Don't Have to Frantically Tidy Your Room](https://gizmodo.com/skype-can-now-blur-your-background-so-you-dont-have-to-1832408791) (Gizmodo)
+  * [Car subscription service Cluno scores $28M in Series B funding](https://techcrunch.com/2019/02/06/cluno-scores-28m-in-series-b/) (TechCrunch)
+  * [Another self-driving car startup is starting small, and that’s a good thing](https://www.theverge.com/2019/2/7/18214536/optimus-ride-self-driving-cars-robot-taxi-brookfield-virginia) (The Verge)
+  * [Original WWII German message decrypts to go on display at National Museum of Computing](https://www.theregister.co.uk/2019/02/05/tnmoc_original_ww2_colossus_decrypts/) (The Register)
 
 **Wednesday, February 06 2019 - Spotify Makes A Big Move Into Podcasting**
 
