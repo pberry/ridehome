@@ -1,4 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
+
 **Friday, February 08 2019 - The Jeff Bezos Stuff**
 
   * [No thank you, Mr. Pecker](https://medium.com/@jeffreypbezos/no-thank-you-mr-pecker-146e3922310f) (Jeff Bezos on Medium)
