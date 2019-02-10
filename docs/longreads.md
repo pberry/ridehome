@@ -1,5 +1,13 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, February 08**
+  * [How To Be Awesome At Your Job](https://itunes.apple.com/us/podcast/how-to-be-awesome-at-your-job/id1106548091?mt=2) (Podcast)
+  * [“Do We Want to Be in Business?” The Strange, Never-Ending Saga of MoviePass](https://www.theringer.com/movies/2019/2/6/18212482/moviepass-mitch-lowe-khalid-itum-interview-2019) (The Ringer)
+  * [The CRISPR machines that can wipe out entire species](https://www.cnet.com/news/the-crispr-machines-that-can-wipe-out-entire-species/) (Cnet)
+  * [Inside Wisconsin’s Disastrous $4.5 Billion Deal With Foxconn](https://www.bloomberg.com/news/features/2019-02-06/inside-wisconsin-s-disastrous-4-5-billion-deal-with-foxconn) (Bloomberg Businessweek)
+  * [Fortnite Is the Future, but Probably Not for the Reasons You Think](https://redef.com/original/5c599eb966c7bb710656c824) (Redef)
+  * [FINDING LENA, THE PATRON SAINT OF JPEGS](https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/) (Wired)
+
 **Friday, February 01**
   * The [ShopTalkShow](https://itunes.apple.com/us/podcast/shoptalk/id493890455?mt=2) podcast
   * [Is Alexa working?](https://www.ben-evans.com/benedictevans/2019/1/29/is-alexa-working) (Benedict Evans)
