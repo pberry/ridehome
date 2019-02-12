@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, February 11 2019 - Trump Wants US To Get Serious About AI**
+
+  * [Trump to lay out an AI plan](https://www.axios.com/trump-us-ai-strategy-china-8d9ef5a0-7b06-40b1-a853-2182486090da.html) (Axios)
+  * [US military equipped with tiny spy drones](https://www.zdnet.com/article/us-military-equipped-with-tiny-spy-drones/) (ZDNet)
+  * [It’s the Real World—With Google Maps Layered on Top](https://www.wsj.com/articles/its-the-real-worldwith-google-maps-layered-on-top-11549807200) (WSJ)
+  * [The alternative to your dying local paper is written by one person, a robot, and you](https://www.recode.net/2019/2/11/18206360/patch-local-news-profitable-revenue-advertising-hale) (Recode)
+  * [Reddit raised $300 million at a $3 billion valuation — now it's ready to take on Facebook and Google](https://www.cnbc.com/2019/02/11/reddit-raises-300-million-at-3-billion-valuation.html) (CNBC)
+  * [Driverless delivery startup Nuro gets $940 million SoftBank investment](https://www.reuters.com/article/us-nuro-funding-softbank/driverless-delivery-startup-nuro-gets-940-million-softbank-investment-idUSKCN1Q01MI) (Reuters)
+  * [Apple teaming up with US Department of Veterans Affairs to bring digital health records to iPhone ](https://9to5mac.com/2019/02/11/apple-veterans-affairs-health-records-iphone/)(9to5Mac)
+  * [When Amazon Went From Big to Unbelievably Big](https://www.theatlantic.com/technology/archive/2019/02/when-amazon-went-from-big-to-unbelievably-big/582097/) (The Atlantic)
+
 **Friday, February 08 2019 - The Jeff Bezos Stuff**
 
   * [No thank you, Mr. Pecker](https://medium.com/@jeffreypbezos/no-thank-you-mr-pecker-146e3922310f) (Jeff Bezos on Medium)
