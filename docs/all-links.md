@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, February 12 2019 - Amazon Buys Eero**
+
+  * [Why Amazon buying Eero feels so disappointing](https://www.theverge.com/2019/2/12/18221441/amazon-buying-eero-disappointing) (The Verge)
+  * [Your Smart Light Can Tell Amazon and Google When You Go to Bed](https://www.bloomberg.com/news/articles/2019-02-12/your-smart-light-can-tell-amazon-and-google-when-you-go-to-bed) (Bloomberg)
+  * [Apple Taps iPhone Executive to Be First Head of Marketing for AR](https://www.bloomberg.com/news/articles/2019-02-12/apple-taps-iphone-executive-to-be-first-head-of-marketing-for-ar) (Bloomberg)
+  * [Apple fails to block porn & gambling “Enterprise” apps ](https://techcrunch.com/2019/02/12/apple-porn-gambling-apps/)(TechCrunch)
+  * [More than 26 million people have taken an at-home ancestry test](https://www.technologyreview.com/s/612880/more-than-26-million-people-have-taken-an-at-home-ancestry-test/) (MIT Technology Review)
+  * [Apex Legends Quickly Surpasses Fortnite ](https://www.thurrott.com/xbox/199424/apex-legends-quickly-surpasses-fortnite)(Thurrott.com)
+
 **Monday, February 11 2019 - Trump Wants US To Get Serious About AI**
 
   * [Trump to lay out an AI plan](https://www.axios.com/trump-us-ai-strategy-china-8d9ef5a0-7b06-40b1-a853-2182486090da.html) (Axios)
