@@ -1,5 +1,22 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, February 14 2019 - Amazon to NYC: Drop Dead!**
+
+  * [Amazon Pulls Out of Planned New York City Headquarters](https://www.nytimes.com/2019/02/14/nyregion/amazon-hq2-queens.html) (NYTimes)
+  * [JP Morgan is rolling out the first US bank-backed cryptocurrency to transform payments business ](https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html)(CNBC)
+  * [Google plans cheaper smartphone to draw users into internet empire](https://asia.nikkei.com/Business/Companies/Google-plans-cheaper-smartphone-to-draw-users-into-internet-empire2) (Nikkei Asian Review)
+  * [Software pirates use Apple tech to put hacked apps on iPhones](https://www.reuters.com/article/us-apple-piracy/software-pirates-use-apple-tech-to-put-hacked-apps-on-iphones-idUSKCN1Q3097) (Reuters)
+  * [Lee Clow, mastermind behind Apple’s ‘Think Different’ & ‘Get a Mac’ campaigns retires](https://9to5mac.com/2019/02/14/apple-think-different-creator-retires/) (9to5Mac)
+
+**Wednesday, February 13 2019 - Apple's Event About Services. But Which Ones?**
+
+  * [Apple Plans News Event For March 25 ](https://www.buzzfeednews.com/article/johnpaczkowski/apple-event-march-2019-news)(BuzzFeed News)
+  * [Publishers Chafe at Apple’s Terms for Subscription News Service](https://www.wsj.com/articles/publishers-chafe-at-apples-terms-for-subscription-news-service-11549998416) (WSJ)
+  * [The former Apple lawyer who was supposed to keep employees from insider trading has been charged with insider trading](https://www.cnbc.com/2019/02/13/sec-files-insider-trading-lawsuit-against-former-apple-lawyer.html) (CNBC)
+  * [Amazon opens up Alexa store for anyone to create and publish custom skills](https://www.theverge.com/2019/2/13/18223074/amazon-alexa-skills-blueprint-store-publish-content-creation) (The Verge)
+  * [Activision Blizzard cuts hundreds of jobs despite ‘record revenue’ year](https://www.polygon.com/2019/2/12/18222096/blizzard-layoffs-february-2019) (Polygon)
+  * [Fun fact: GPS uses 10 bits to store the week. That means it runs out... oh heck – April 6, 2019](https://www.theregister.co.uk/2019/02/12/current_gps_epoch_ends/) (The Register)
+
 **Tuesday, February 12 2019 - Amazon Buys Eero**
 
   * [Why Amazon buying Eero feels so disappointing](https://www.theverge.com/2019/2/12/18221441/amazon-buying-eero-disappointing) (The Verge)
