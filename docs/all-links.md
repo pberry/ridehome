@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, February 15 2019 - FTC To Fine Facebook?**
+
+  * [The U.S. government and Facebook are negotiating a record, multibillion-dollar fine for the company’s privacy lapses](https://www.washingtonpost.com/technology/2019/02/14/us-government-facebook-are-negotiating-record-multi-billion-dollar-fine-companys-privacy-lapses/?utm_term=.e8510515306a) (The Washington Post)
+  * [Amazon’s Escape From New York](https://www.bloomberg.com/news/articles/2019-02-14/how-amazon-lost-new-york) (Bloomberg BusinessWeek)
+  * [Copyright Office Refuses Registration for 'Fresh Prince' Star Alfonso Ribeiro's "Carlton Dance"](https://www.hollywoodreporter.com/thr-esq/copyright-office-refuses-registration-fresh-prince-star-alfonso-ribeiros-carlton-dance-1186666) (The Hollywood Reporter)
+  * [HSBC forex trading costs cut sharply by blockchain - executive](https://www.reuters.com/article/us-hsbc-blockchain/hsbc-forex-trading-costs-cut-sharply-by-blockchain-executive-idUSKCN1Q31MW) (Reuters)
+  * [Samsung leaks entire new wearables lineup through its own app](https://www.theverge.com/circuitbreaker/2019/2/14/18225714/samsung-galaxy-watch-active-buds-fit-e-wearable-leak) (The Verge)
+
 **Thursday, February 14 2019 - Amazon to NYC: Drop Dead!**
 
   * [Amazon Pulls Out of Planned New York City Headquarters](https://www.nytimes.com/2019/02/14/nyregion/amazon-hq2-queens.html) (NYTimes)
