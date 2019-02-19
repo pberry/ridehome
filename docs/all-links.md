@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, February 18 2019 - Ming-Chi Kuo: Here's Apple's Entire 2019 Lineup**
+
+  * [UK parliament calls for antitrust, data abuse probe of Facebook](https://techcrunch.com/2019/02/17/uk-parliament-calls-for-antitrust-data-abuse-probe-of-facebook/) (TechCrunch)
+  * [Australia's major political parties hacked in 'sophisticated' attack ahead of election](https://www.smh.com.au/politics/federal/australia-s-major-political-parties-hacked-in-sophisticated-attack-ahead-of-election-20190218-p50yi1.html) (The Sydney Morning Herald)
+  * [Kuo: 16-inch MacBook Pro, 31-inch 6K display, iPhones w/ upgraded Face ID & bilateral wireless charging coming in 2019](https://9to5mac.com/2019/02/17/apple-16-inch-macbook-pro-display-more/) (9to5Mac)
+  * [Etsy sellers say their bank accounts were emptied in major billing snafu](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html) (BoingBoing)
+  * [Elroy Air raises $9.2 million for delivery drones that can carry up to 500 pounds](https://venturebeat.com/2019/02/13/elroy-air-raises-9-2-million-for-delivery-drones-that-can-carry-up-to-500-pounds/) (VentureBeat)
+  * [Google’s Waymo risks repeating Silicon Valley’s most famous blunder](https://arstechnica.com/cars/2019/02/googles-waymo-risks-repeating-silicon-valleys-most-famous-blunder/) (ArsTechnica)
+
 **Friday, February 15 2019 - FTC To Fine Facebook?**
 
   * [The U.S. government and Facebook are negotiating a record, multibillion-dollar fine for the company’s privacy lapses](https://www.washingtonpost.com/technology/2019/02/14/us-government-facebook-are-negotiating-record-multi-billion-dollar-fine-companys-privacy-lapses/?utm_term=.e8510515306a) (The Washington Post)
