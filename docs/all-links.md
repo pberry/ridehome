@@ -1,5 +1,23 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, February 20 2019 - Galaxy Fold!**
+
+  * [Samsung’s foldable phone is the Galaxy Fold, available April 26th starting at $1,980](https://www.theverge.com/2019/2/20/18231249/samsung-galaxy-fold-folding-phone-features-screen-photos-size-announcement) (The Verge)
+  * [Xiaomi's triple-camera Mi 9 has a fast 20W wireless charger](https://www.engadget.com/2019/02/20/xiaomi-mi-9-launch/) (Engadget)
+  * [Google says the built-in microphone it never told Nest users about was 'never supposed to be a secret' ](https://www.businessinsider.com/nest-microphone-was-never-supposed-to-be-a-secret-2019-2?op=1)(Business Insider)
+  * [Google Set To Unveil Netflix-Like Game Streaming Service](http://fortune.com/2019/02/19/google-game-streaming-service-gdc-2019/) (Fortune)
+  * [Apple Plans on Combining iPhone, iPad, Mac Apps by 2021](https://www.bloomberg.com/news/articles/2019-02-20/apple-is-said-to-target-combining-iphone-ipad-mac-apps-by-2021) (Bloomberg)
+
+**Tuesday, February 19 2019 - Why Emoji Are Screwing Up Legal Cases**
+
+  * [Before the first 5G phone is out, Qualcomm is already moving on to its second-gen 5G modem](https://www.theverge.com/2019/2/19/18231221/qualcomm-x55-5g-modem-7gbps-speed-capacity-release-date-specs) (The Verge)
+  * [The US cannot crush us, says Huawei founder](https://www.bbc.com/news/business-47274679) (BBC News)
+  * [How Huawei Targets Apple Trade Secrets](https://www.theinformation.com/articles/how-huawei-targets-apple-trade-secrets) (The Information)
+  * [Walmart’s US e-commerce sales up 43% in Q4, thanks to growing online grocery business](https://techcrunch.com/2019/02/19/walmarts-u-s-e-commerce-sales-up-43-in-q4-thanks-to-growing-online-grocery-business/) (TechCrunch)
+  * [Key Investors Are Unhappy With SoftBank Tech-Investment Fund](https://www.wsj.com/articles/key-investors-are-unhappy-with-softbank-tech-investment-fund-11550509200) (WSJ)
+  * [Mining Giant Bitmain Posts $500 Million Loss in IPO Financial Filing](https://www.coindesk.com/mining-giant-bitmain-posts-500-million-loss-in-ipo-financial-filing) (Coindesk)
+  * [Emoji are showing up in court cases exponentially, and courts aren’t prepared](https://www.theverge.com/2019/2/18/18225231/emoji-emoticon-court-case-reference) (TheVerge)
+
 **Monday, February 18 2019 - Ming-Chi Kuo: Here's Apple's Entire 2019 Lineup**
 
   * [UK parliament calls for antitrust, data abuse probe of Facebook](https://techcrunch.com/2019/02/17/uk-parliament-calls-for-antitrust-data-abuse-probe-of-facebook/) (TechCrunch)
