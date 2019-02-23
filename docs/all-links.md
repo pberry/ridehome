@@ -1,5 +1,24 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, February 22 2019 - The Most Acquisitive Unicorns**
+
+  * [Facebook will shut down its spyware VPN app Onavo ](https://techcrunch.com/2019/02/21/facebook-removes-onavo/)(TechCrunch)
+  * [Samsung will extend Bixby button remapping to premium Galaxy phones running Android Pie](https://www.theverge.com/2019/2/21/18235405/samsung-galaxy-phones-bixby-button-remapping-customization-feature) (The Verge)
+  * [Source: Google plans to announce long-rumored ‘Yeti’ hardware at GDC event](https://9to5google.com/2019/02/21/google-yeti-gaming-hardware-gdc/) (9to5Google)
+  * [Airbnb, Automattic, And Pinterest Top Rank Of Most Acquisitive Unicorns](https://news.crunchbase.com/news/airbnb-automattic-and-pinterest-top-rank-of-most-acquisitive-unicorns/) (Crunchbase News)
+
+**Thursday, February 21 2019 - YouTube's Ad Problem (Again) and Galaxy Reactions**
+
+  * [Samsung Galaxy S10 and S10+ hands-on](https://www.engadget.com/2019/02/20/samsung-galaxy-s10-plus-hands-on-hole-punch-triple-cameras/) (Engadget) 
+  * [You can remap the Bixby button on Samsung’s Galaxy S10 to do whatever you want](https://www.theverge.com/2019/2/20/18233819/samsung-galaxy-s10-bixby-button-remap-reassign) (The Verge) 
+  * [The Galaxy Fold makes no sense as a consumer device yet](https://www.theverge.com/2019/2/21/18233917/samsung-galaxy-fold-price-features-consumer-worth-buying-editorial) (The Verge) 
+  * [Apple, Goldman Sachs Team Up on Credit Card Paired With iPhone](https://www.wsj.com/articles/apple-goldman-sachs-team-up-on-credit-card-paired-with-iphone-11550750400?mod=e2twd) (Wall Street Journal)
+  * [Nestle, Disney Pull YouTube Ads, Joining Furor Over Child Videos](https://www.bloomberg.com/news/articles/2019-02-20/disney-pulls-youtube-ads-amid-concerns-over-child-video-voyeurs) (Bloomberg) 
+  * [On YouTube, a network of paedophiles is hiding in plain sight](https://www.wired.co.uk/article/youtube-pedophile-videos-advertising ) (Wired UK)
+  * [Youtube is Facilitating the Sexual Exploitation of Children, and it's Being Monetized (2019)](https://www.youtube.com/watch?v=O13G5A5w5P0) (Matt Watson, YouTube) 
+  * [YouTube terminates more than 400 channels following child exploitation controversy](https://www.theverge.com/2019/2/21/18234494/youtube-child-exploitation-channel-termination-comments-philip-defranco-creators) (The Verge)
+  * [Close Enough](https://slate.com/technology/2019/02/reverse-location-search-warrants-google-police.html) (Slate/Future Tense)
+
 **Wednesday, February 20 2019 - Galaxy Fold!**
 
   * [Samsung’s foldable phone is the Galaxy Fold, available April 26th starting at $1,980](https://www.theverge.com/2019/2/20/18231249/samsung-galaxy-fold-folding-phone-features-screen-photos-size-announcement) (The Verge)
