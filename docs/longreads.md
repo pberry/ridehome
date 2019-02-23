@@ -1,5 +1,24 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, February 22**
+  * [Late Night Linux Podcast](https://latenightlinux.com/)
+  * [HOW APPLE’S ENTERPRISE APP PROGRAM BECAME THE NEW WILD WEST OF MOBILE APPS](https://www.theverge.com/2019/2/20/18232583/apple-ios-developer-enterprise-program-store-mobile-apps) (The Verge)
+  * [“SHE NEVER LOOKS BACK”: INSIDE ELIZABETH HOLMES’S CHILLING FINAL MONTHS AT THERANOS](https://www.vanityfair.com/news/2019/02/inside-elizabeth-holmess-final-months-at-theranos) (Vanity Fair)
+  * [It Started With a Jolt: How New York Became a Tech Town](https://www.nytimes.com/2019/02/22/technology/nyc-tech-startups.html) (NYTimes)
+  * [Guidemaster: The least-awful Android phones](https://arstechnica.com/gadgets/2019/02/guidemaster-the-best-android-phones-from-budget-to-flagships/) (Ars Technica)
+  * [The curse of the Twitter reply guy](https://mashable.com/article/twitter-reply-guys/#0GsnuspDdZqR) (Mashable)
+  * YouTube Story 1: [Study blames YouTube for rise in number of Flat Earthers](https://www.theguardian.com/science/2019/feb/17/study-blames-youtube-for-rise-in-number-of-flat-earthers) (The Guardian)
+  * YouTube Story 2: [YouTube Unleashed a Conspiracy Theory Boom. Can It Be Contained?](https://www.nytimes.com/2019/02/19/technology/youtube-conspiracy-stars.html?rref=collection%2Fbyline%2Fkevin-roose&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection) (NYTimes)
+  * YouTube Story 3: [How YouTube helps flat-earthers organize](https://www.theverge.com/interface/2019/2/20/18232524/youtube-flat-earth-recommendation-algorithm-conspiracy) (The Verge)
+
+**Friday, February 15**
+  * [The Strong Web](https://itunes.apple.com/us/podcast/the-strong-web/id1375737954?mt=2) (podcast suggestion)
+  * [Why data, not privacy, is the real danger](https://www.nbcnews.com/business/business-news/why-data-not-privacy-real-danger-n966621) (NBCNews)
+  * [Uber’s Secret Gold Mine: How Uber Eats Is Turning Into A Billion-Dollar Business To Rival Grubhub](https://www.forbes.com/sites/bizcarson/2019/02/06/ubers-secret-gold-mine-how-uber-eats-is-turning-into-a-billion-dollar-business-to-rival-grubhub/#4b0a82c61fa9) (Forbes)
+  * [Zillow Wants to Flip Your House](https://www.bloomberg.com/news/features/2019-02-14/zillow-wants-to-flip-your-house) (Bloomberg BusinessWeek)
+  * [The Strange Experience of Being Australia’s First Tech Billionaires](https://www.nytimes.com/2019/02/13/technology/atlassian-cannon-brookes-farquhar.html) (NYTimes)
+  * [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html) (NYTimes Magazine)
+
 **Friday, February 08**
   * [How To Be Awesome At Your Job](https://itunes.apple.com/us/podcast/how-to-be-awesome-at-your-job/id1106548091?mt=2) (Podcast)
   * [“Do We Want to Be in Business?” The Strange, Never-Ending Saga of MoviePass](https://www.theringer.com/movies/2019/2/6/18212482/moviepass-mitch-lowe-khalid-itum-interview-2019) (The Ringer)
