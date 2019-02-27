@@ -1,5 +1,28 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, February 26 2019 - Might the FTC Undo Some Tech Mergers?**
+
+  * [Apple Music Integration Possibly Coming to Google Home Devices](https://www.macrumors.com/2019/02/25/google-home-apple-music-integration-possible/) (MacRumors)
+  * [Apple Plans Sleep Tracking Feature for Future Watch ](https://www.bloomberg.com/news/articles/2019-02-26/apple-is-said-to-plan-sleep-tracking-feature-for-future-watch)(Bloomberg)
+  * [Microsoft CEO defends US military contract that some employees say crosses a line](https://edition.cnn.com/2019/02/25/tech/augmented-reality-microsoft-us-military/) (CNN Business)
+  * [New FTC task force will take on tech monopolies](https://www.theverge.com/2019/2/26/18241491/ftc-task-force-tech-monopolies-bureau-competition-online-platforms) (The Verge)
+  * [Coinbase Lists Controversial Cryptocurrency XRP, Price Jumps 10%](http://fortune.com/2019/02/25/coinbase-xrp-cryptocurrency/) (Fortune)
+  * [This 18,000mAh battery has a phone in it](https://www.theverge.com/circuitbreaker/2019/2/26/18241117/energizer-power-max-p18k-pop-huge-battery-phone-mwc-2019) (The Verge)
+  * [THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (The Verge)
+  * [Facebook Grappling With Employee Anger Over Moderator Conditions](https://www.bloomberg.com/news/articles/2019-02-25/facebook-grappling-with-employee-anger-over-moderator-conditions) (Bloomberg)
+
+**Monday, February 25 2019 - Mobile World Congress Headlines**
+
+  * [MICROSOFT’S HOLOLENS 2: A $3,500 MIXED REALITY HEADSET FOR THE FACTORY, NOT THE LIVING ROOM](https://www.theverge.com/2019/2/24/18235460/microsoft-hololens-2-price-specs-mixed-reality-ar-vr-business-work-features-mwc-2019) (The Verge)
+  * [Huawei Launches the Mate X: Folding in a New Direction](https://www.anandtech.com/show/13990/huawei-launches-the-mate-x) (AnAndTech)
+  * [I held the future in my hands, and it was foldable ](https://www.theverge.com/2019/2/25/18239565/huawei-mate-x-foldable-phone-hands-on-design-mwc-2019)(TheVerge)
+  * [Sprint’s 5G network launches in May](https://www.theverge.com/2019/2/25/18239508/sprint-5g-launch-may-chicago-dallas-atlanta) (The Verge)
+  * [T-Mobile delays full 600MHz 5G launch until second half of 2019](https://www.cnet.com/news/t-mobile-delays-full-600-mhz-5g-launch-until-second-half/) (CNET)
+  * [microSD Express unlocks hyper-fast data speeds for mobile devices](https://www.engadget.com/2019/02/25/microsd-express-ultra-fast-mobile-data-speeds/) (Engadget)
+  * [SanDisk and Micron announce the world’s first 1TB microSD card](https://mspoweruser.com/sandisk-and-micron-announce-the-worlds-first-1tb-microsd-card/) (MSPowerUser.com)
+  * [The latest Android devices now let you log into apps without requiring a password](https://www.theverge.com/2019/2/25/18239389/android-7-update-fido-alliance-fido2-password-free-authentication) (The Verge)
+  * [INSIDE THE ALEXA-FRIENDLY WORLD OF WIKIDATA ](https://www.wired.com/story/inside-the-alexa-friendly-world-of-wikidata/)(Wired)
+
 **Friday, February 22 2019 - The Most Acquisitive Unicorns**
 
   * [Facebook will shut down its spyware VPN app Onavo ](https://techcrunch.com/2019/02/21/facebook-removes-onavo/)(TechCrunch)
