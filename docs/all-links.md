@@ -1,5 +1,17 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, February 27 2019 - TikTok Bigger Than Instagram?**
+
+  * [Samsung's new 512GB flash chip is twice as fast as its predecessor](https://www.engadget.com/2019/02/27/samsung-512gb-eufs-3/) (Engadget)
+  * [TikTok was bigger than Instagram last year after passing the 1 billion download mark](https://www.businessinsider.com/tiktok-hit-1-billion-downloads-surpassing-instagram-in-2018-2019-2?op=1) (Business Insider)
+  * [Machine learning can boost the value of wind energy ](https://www.blog.google/technology/ai/machine-learning-can-boost-value-wind-energy/)(Google's The Keyword Blog)
+  * [FedEx unveils autonomous delivery robot](https://www.theverge.com/2019/2/27/18242834/delivery-robot-fedex-sameday-bot-autonomous-trials) (The Verge)
+  * [Threads emerges from stealth with $10.5M from Sequoia for a new take on enabling work conversations](https://techcrunch.com/2019/02/27/threads-emerges-from-stealth-with-10-5m-from-sequoia-for-a-new-take-on-enabaling-work-conversations/) (TechCrunch)
+  * [As AWS Use Soars, Companies Surprised by Cloud Bills](https://www.theinformation.com/articles/as-aws-use-soars-companies-surprised-by-cloud-bills) (The Information)
+  * [Containers may be leading to cloud computing cost overruns](https://www.zdnet.com/article/containers-may-be-leading-to-cloud-computing-cost-overruns/) (ZDNet)
+  * [Rotten Tomatoes tweaks audience ratings system to thwart online trolls](https://www.latimes.com/business/hollywood/la-fi-ct-rotten-tomatoes-audience-ratings-20190226-story.html) (The Los Angeles Times)
+  * [China’s Tech Firms Are Mapping Pig Faces](https://www.nytimes.com/2019/02/24/business/china-pig-technology-facial-recognition.html) (NYTimes)
+
 **Tuesday, February 26 2019 - Might the FTC Undo Some Tech Mergers?**
 
   * [Apple Music Integration Possibly Coming to Google Home Devices](https://www.macrumors.com/2019/02/25/google-home-apple-music-integration-possible/) (MacRumors)
