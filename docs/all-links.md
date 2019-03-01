@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, February 28 2019 - Make Any Day Amazon Day**
+
+  * [Amazon Prime members can choose a weekly delivery date with launch of 'Amazon Day'](https://techcrunch.com/2019/02/28/amazon-prime-members-can-choose-a-weekly-delivery-date-with-launch-of-amazon-day/) (TechCrunch)
+  * [Motorola confirms its foldable phone is coming](https://www.engadget.com/2019/02/27/motorola-confirms-its-foldable-phone-is-coming/) (Engadget)
+  * [Apple self-driving car layoffs hit 190 employees in Santa Clara, Sunnyvale](https://www.sfchronicle.com/business/article/Apple-self-driving-car-layoffs-hit-190-employees-13649994.php) (San Francisco Chronicle)
+  * [Apple shipped 9.2M Apple Watch units in Q4 2018 to capture half of market, report says](https://appleinsider.com/articles/19/02/27/apple-shipped-92m-apple-watch-units-in-q4-2018-to-capture-half-of-market) (AppleInsider)
+  * [Uber and Lyft drivers will reportedly get stock in the highly anticipated IPOs](https://www.cnbc.com/2019/02/28/uber-and-lyft-drivers-will-reportedly-get-stock-in-the-highly-anticipated-ipos.html) (CNBC)
+  * [Facebook and Telegram Are Hoping to Succeed Where Bitcoin Failed](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) (NYTimes)
+  * [Mozilla updates Common Voice dataset with 1,400 hours of speech across 18 languages](https://venturebeat.com/2019/02/28/mozilla-updates-common-voice-dataset-with-1400-hours-of-speech-across-19-languages/) (Venture Beat)
+
 **Wednesday, February 27 2019 - TikTok Bigger Than Instagram?**
 
   * [Samsung's new 512GB flash chip is twice as fast as its predecessor](https://www.engadget.com/2019/02/27/samsung-512gb-eufs-3/) (Engadget)
