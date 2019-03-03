@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, March 01 2019 - Lyft Files For Its IPO**
+
+  * [Lyft's financials show a $911 million loss ahead of its IPO](https://www.cnbc.com/2019/03/01/lyft-s-1-ipo.html) (CNBC)
+  * [Amazon stops selling Dash buttons, goofy forerunners of the connected home](https://www.cnet.com/news/amazon-stops-selling-dash-buttons-goofy-forerunners-of-connected-home/) (CNET)
+  * [U.S. Music Industry Posts Third Straight Year of Double-Digit Growth as Streaming Soars 30%](https://variety.com/2019/biz/news/u-s-music-industry-posts-third-straight-year-of-double-digit-growth-as-streaming-soars-30-1203152036/) (Variety)
+  * [Andrew Cuomo Speaks With Jeff Bezos, Hints of ‘Other Ways’ to Clear Path for Amazon’s Return](https://www.nytimes.com/2019/02/28/nyregion/amazon-hq2-nyc.html) (NYTimes)
+  * [The $35,000 Tesla Model 3 has arrived—but it comes with a price](https://techcrunch.com/2019/02/28/the-35000-tesla-model-3-has-arrived-but-theres-a-cost/) (TechCrunch)
+
 **Thursday, February 28 2019 - Make Any Day Amazon Day**
 
   * [Amazon Prime members can choose a weekly delivery date with launch of 'Amazon Day'](https://techcrunch.com/2019/02/28/amazon-prime-members-can-choose-a-weekly-delivery-date-with-launch-of-amazon-day/) (TechCrunch)
