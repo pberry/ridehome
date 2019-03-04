@@ -1,5 +1,76 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, February 22**
+  * [Late Night Linux Podcast](https://latenightlinux.com/)
+  * [HOW APPLE’S ENTERPRISE APP PROGRAM BECAME THE NEW WILD WEST OF MOBILE APPS](https://www.theverge.com/2019/2/20/18232583/apple-ios-developer-enterprise-program-store-mobile-apps) (The Verge)
+  * [“SHE NEVER LOOKS BACK”: INSIDE ELIZABETH HOLMES’S CHILLING FINAL MONTHS AT THERANOS](https://www.vanityfair.com/news/2019/02/inside-elizabeth-holmess-final-months-at-theranos) (Vanity Fair)
+  * [It Started With a Jolt: How New York Became a Tech Town](https://www.nytimes.com/2019/02/22/technology/nyc-tech-startups.html) (NYTimes)
+  * [Guidemaster: The least-awful Android phones](https://arstechnica.com/gadgets/2019/02/guidemaster-the-best-android-phones-from-budget-to-flagships/) (Ars Technica)
+  * [The curse of the Twitter reply guy](https://mashable.com/article/twitter-reply-guys/#0GsnuspDdZqR) (Mashable)
+  * YouTube Story 1: [Study blames YouTube for rise in number of Flat Earthers](https://www.theguardian.com/science/2019/feb/17/study-blames-youtube-for-rise-in-number-of-flat-earthers) (The Guardian)
+  * YouTube Story 2: [YouTube Unleashed a Conspiracy Theory Boom. Can It Be Contained?](https://www.nytimes.com/2019/02/19/technology/youtube-conspiracy-stars.html?rref=collection%2Fbyline%2Fkevin-roose&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=1&pgtype=collection) (NYTimes)
+  * YouTube Story 3: [How YouTube helps flat-earthers organize](https://www.theverge.com/interface/2019/2/20/18232524/youtube-flat-earth-recommendation-algorithm-conspiracy) (The Verge)
+
+**Friday, February 15**
+  * [The Strong Web](https://itunes.apple.com/us/podcast/the-strong-web/id1375737954?mt=2) (podcast suggestion)
+  * [Why data, not privacy, is the real danger](https://www.nbcnews.com/business/business-news/why-data-not-privacy-real-danger-n966621) (NBCNews)
+  * [Uber’s Secret Gold Mine: How Uber Eats Is Turning Into A Billion-Dollar Business To Rival Grubhub](https://www.forbes.com/sites/bizcarson/2019/02/06/ubers-secret-gold-mine-how-uber-eats-is-turning-into-a-billion-dollar-business-to-rival-grubhub/#4b0a82c61fa9) (Forbes)
+  * [Zillow Wants to Flip Your House](https://www.bloomberg.com/news/features/2019-02-14/zillow-wants-to-flip-your-house) (Bloomberg BusinessWeek)
+  * [The Strange Experience of Being Australia’s First Tech Billionaires](https://www.nytimes.com/2019/02/13/technology/atlassian-cannon-brookes-farquhar.html) (NYTimes)
+  * [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html) (NYTimes Magazine)
+
+**Friday, February 08**
+  * [How To Be Awesome At Your Job](https://itunes.apple.com/us/podcast/how-to-be-awesome-at-your-job/id1106548091?mt=2) (Podcast)
+  * [“Do We Want to Be in Business?” The Strange, Never-Ending Saga of MoviePass](https://www.theringer.com/movies/2019/2/6/18212482/moviepass-mitch-lowe-khalid-itum-interview-2019) (The Ringer)
+  * [The CRISPR machines that can wipe out entire species](https://www.cnet.com/news/the-crispr-machines-that-can-wipe-out-entire-species/) (Cnet)
+  * [Inside Wisconsin’s Disastrous $4.5 Billion Deal With Foxconn](https://www.bloomberg.com/news/features/2019-02-06/inside-wisconsin-s-disastrous-4-5-billion-deal-with-foxconn) (Bloomberg Businessweek)
+  * [Fortnite Is the Future, but Probably Not for the Reasons You Think](https://redef.com/original/5c599eb966c7bb710656c824) (Redef)
+  * [FINDING LENA, THE PATRON SAINT OF JPEGS](https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/) (Wired)
+
+**Friday, February 01**
+  * The [ShopTalkShow](https://itunes.apple.com/us/podcast/shoptalk/id493890455?mt=2) podcast
+  * [Is Alexa working?](https://www.ben-evans.com/benedictevans/2019/1/29/is-alexa-working) (Benedict Evans)
+  * [As I.P.O. Approaches, Lyft’s Chief Is Nudged Into the Spotlight](https://www.nytimes.com/2019/01/27/technology/lyft-ceo-logan-green.html) (NYTimes)
+  * [Why Technology Hasn’t Fixed the Housing Crisis](https://www.nytimes.com/2019/01/29/upshot/can-technology-help-fix-the-housing-market.html) (NYTimes)
+  * [The Secrets of Lyndon Johnson’s Archives](https://www.newyorker.com/magazine/2019/01/28/the-secrets-of-lyndon-johnsons-archives) (The New Yorker)
+
+**Friday, January 25**
+  * [From Founder to CEO](https://itunes.apple.com/us/podcast/from-founder-to-ceo/id969226465?mt=2) (podcast)
+  * [EVERYBODY DOES IT: THE MESSY TRUTH ABOUT INFILTRATING COMPUTER SUPPLY CHAINS](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) (The Intercept)
+  * [Katzenberg and Whitman: Hollywood’s New Odd Couple ](http://fortune.com/longform/katzenberg-whitman-hollywood-mobile-streaming-quibi/)(Fortune)
+  * [Twitter CEO Jack Dorsey: The Rolling Stone Interview ](https://www.rollingstone.com/culture/culture-features/twitter-ceo-jack-dorsey-rolling-stone-interview-782298/)(Rolling Stone)
+  * [“The Linux of social media”—How LiveJournal pioneered (then lost) blogging](https://arstechnica.com/gadgets/2019/01/the-linux-of-social-media-how-livejournal-pioneered-then-lost-web-blogging/) (ArsTechnica)
+  * [Reddit’s r/changemyview is a template for how all online discussion should be](https://thenextweb.com/socialmedia/2019/01/23/reddits-model-community-offers-a-prototype-for-controversial-discussions/) (TNW)
+
+**Friday, January 18**
+  * [Drone Radio Show](https://itunes.apple.com/us/podcast/drone-radio-show/id1020306864?mt=2)
+  * [Delivery Drones Use Bird-Inspired Legs to Jump Into the Air](https://spectrum.ieee.org/automaton/robotics/drones/delivery-drones-use-birdinspired-legs-to-jump-into-the-air) (IEEE Spectrum)
+  * [Why Do Shareholders Agree to Give Up Voting Rights? ](http://nymag.com/intelligencer/2019/01/why-do-shareholders-agree-to-give-up-voting-rights.html)(New York Magazine)
+  * [The Attention Economy Is a Malthusian Trap](https://www.theatlantic.com/ideas/archive/2019/01/is-the-age-of-tech-over/580504/) (The Atlantic)
+  * [The Story Behind Meta, the AR Startup That Just Had Its Assets Sold to a Mystery Buyer](https://variety.com/2019/digital/features/meta-ar-startup-asset-sale-1203111585/) (Variety)
+  * [Rekindled yet again, Nokia’s next-gen phones offer more than just nostalgia](https://www.digitaltrends.com/mobile/exclusive-hmd-global-return-of-nokia/) (Digital Trends)
+  * [INSIDE THE STRANGE YET PROFITABLE WORLD OF RETAIL ARBITRAGE](https://melmagazine.com/en-us/story/inside-the-strange-yet-profitable-world-of-retail-arbitrage) (Mel Magazine)
+  * [EA’s Troubled Decade Of Star Wars Games](https://kotaku.com/ea-s-troubled-decade-of-star-wars-games-1831807493) (Kotaku)
+
+**Friday, January 11**
+  * [Demon Underneath: John DeLorean and the Invention of the Future](https://theoutline.com/post/6776/john-delorean-rise-and-fall-big-money-the-fbi-celebrities-and-cocaine?zd=1&zi=nxbg2epw) (The Outline)
+  * [The Rise and Demise of RSS](https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss) (Motherboard)
+  * [Pitchfork’s Ryan Schreiber shaped Internet music journalism and now leaves it behind](https://www.latimes.com/entertainment/music/la-et-ms-pitchfork-ryan-schreiber-20190109-story.html) (Los Angeles Times)
+  * [Inside look at modern web browser (part 1) ](https://developers.google.com/web/updates/2018/09/inside-browser-part1)(Developers.Google)
+  * [The Race to Diagnose Cancer With a Simple Blood Test](https://medium.com/s/2069/the-race-to-diagnose-cancer-with-a-simple-blood-test-6ec5d38eb1c9) (2069 - Medium)
+  * [Lasers vs. Microwaves: The Billion-Dollar Bet on the Future of Magnetic Storage](https://spectrum.ieee.org/computing/hardware/lasers-vs-microwaves-the-billiondollar-bet-on-the-future-of-magnetic-storage) (ieee Spectrum)
+  * [PREPARING FOR Y2038 (ALREADY?!)](https://blogs.akamai.com/2019/01/preparing-for-y2038-already.html) (blogs.akamai)
+
+**Friday, January 04**
+  * Podcast suggestion: [Daily Fortnite](https://anchor.fm/daily-fortnite)
+  * [Courier Prime](https://quoteunquoteapps.com/courierprime/)
+  * [He Hawks Young Blood As A New Miracle Treatment. All That’s Missing Is Proof. ](https://www.huffingtonpost.com/entry/ambrosia-young-blood-plasma-jesse-karmazin_us_5c1bbafce4b0407e9078373c)(HuffPo)
+  * [Curbs on A.I. Exports? Silicon Valley Fears Losing Its Edge ](https://www.nytimes.com/2019/01/01/technology/artificial-intelligence-export-restrictions.html)(NYTimes)
+  * [The Bird Box Effect: How Memes Drive Users to Netflix ](https://www.theringer.com/movies/2019/1/3/18167278/bird-box-memes-netflix-bots-marketing)(The Ringer)
+  * [Birding Like It’s 1899: Inside a Blockbuster American West Video Game](https://www.audubon.org/news/birding-its-1899-inside-blockbuster-american-west-video-game) (Audubon)
+  * [How Space and Time Could Be a Quantum Error-Correcting Code](https://www.quantamagazine.org/how-space-and-time-could-be-a-quantum-error-correcting-code-20190103/) (Quanta)
+  * [The Hacker News discussion of the Quanta piece](https://news.ycombinator.com/item?id=18817410)
+
 **Friday, December 28**
   * [The Devchat.tv podcasts](https://devchat.tv/)
   * [The GPS wars have begun](https://techcrunch.com/2018/12/21/the-gps-wars-have-begun/) (TechCrunch)
