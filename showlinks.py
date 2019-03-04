@@ -35,4 +35,5 @@ for post in rhfeed.entries:
 			print(html2text.html2text(str(uls[0])))
 		else:
 			print("No show links for this episode ¯\_(ツ)_/¯\n")
+	print("[All show links](https://pberry.github.io/ridehome/all-links.html)")
 
