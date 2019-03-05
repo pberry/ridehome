@@ -1,5 +1,18 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, March 04 2019 - USB 4 Wishes and Password-Free Dreams**
+
+  * [Facebook won’t let you opt-out of its phone number ‘look up’ setting](https://techcrunch.com/2019/03/03/facebook-phone-number-look-up/ ) (TechCrunch)
+  * [Scammers abused Facebook phone number search](https://www.bbc.com/news/technology-43656746 ) (BBC News)
+  * [Huawei Said to Be Preparing to Sue the U.S. Government](https://www.nytimes.com/2019/03/04/technology/huawei-lawsuit-us-government.html) (New York Times)
+  * [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
+  * [With USB 4, Thunderbolt 3’s benefits become open to all](https://www.theverge.com/2019/3/4/18246182/usb-4-thunderbolt-3-specs-features-release-date) (The Verge)
+  * [USB Promoter Group Announces USB4 Specification](https://www.apnews.com/Business%20Wire/6362e19b04544102be218a0287c37087) (AP News)
+  * [Harry McCracken's Facebook tweet](https://twitter.com/harrymccracken/status/1102313971393019904) (Twitter)
+  * [Facebook explains how it’ll review nude photos to stop revenge porn](https://www.theverge.com/2017/11/9/16630900/facebook-revenge-porn-defense-details) (The Verge)
+  * [Facebook’s New CAPTCHA Test: ‘Upload a Clear Photo of Your Face’](https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/) (Wired)
+  * [W3C approves WebAuthn as the web standard for password-free logins](https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/) (VentureBeat) 
+
 **Friday, March 01 2019 - Lyft Files For Its IPO**
 
   * [Lyft's financials show a $911 million loss ahead of its IPO](https://www.cnbc.com/2019/03/01/lyft-s-1-ipo.html) (CNBC)
