@@ -1,5 +1,17 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, March 05 2019 - Don't Use "ji32k7au4a83" As A Password**
+
+  * **[Disputed N.S.A. Phone Program Is Shut Down, Aide Says](Disputed%20N.S.A. Phone Program Is Shut Down, Aide Says) (NYTimes)**
+  *  **[Microsoft is creating Windows Lite for dual-screen and Chromebook-like devices](https://www.theverge.com/2019/3/4/18249679/microsoft-windows-lite-dual-screen-devices-chromebooks-report) (The Verge)**
+  *  **[Apple acquires patent portfolio of failed smart home security startup Lighthouse AI](https://9to5mac.com/2019/03/04/lighthouse-patent-portfolio-apple/) (9to5Mac)**
+  *  **[Coinbase Pushes Out Ex-Hacking Team Employees Following Uproar](https://www.coindesk.com/coinbase-pushes-out-ex-hacking-team-employees-following-uproar) (Coindesk)**
+  *  **[Coinbase Users Struggle to Delete Their Accounts in Protest](https://motherboard.vice.com/en_us/article/xwb7xj/coinbase-users-struggle-to-delete-their-accounts-in-protest) (Motherboard)**
+  *  **[Living up to our values and the Neutrino acquisition](https://blog.coinbase.com/living-up-to-our-values-and-the-neutrino-acquisition-ba98174cdcf6) (Coinbase Blog)**
+  *  **[Foxconn, a tale of slashed salaries, disappearing benefits and mass resignations as iPhone orders dry up](https://www.scmp.com/economy/china-economy/article/2188162/foxconn-tale-slashed-salaries-disappearing-benefits-and-mass) (South China Morning Post)**
+  *  **[Big Media Isn't Ready to Fight Back (Netflix Misunderstandings, Pt. 5)](https://redef.com/original/5c7af1747497317d19bc34af) (Redef)**
+  *  **[Why 'ji32k7au4a83' Is a Remarkably Common Password](https://gizmodo.com/why-ji32k7au4a83-is-a-remarkably-common-password-1833045282) (Gizmodo)**
+
 **Monday, March 04 2019 - USB 4 Wishes and Password-Free Dreams**
 
   * [Facebook won’t let you opt-out of its phone number ‘look up’ setting](https://techcrunch.com/2019/03/03/facebook-phone-number-look-up/ ) (TechCrunch)
