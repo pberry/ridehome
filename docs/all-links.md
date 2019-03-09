@@ -1,5 +1,35 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, March 08 2019 - Senator Warren Wants To Break Up Big Tech**
+
+  * [ Here’s how we can break up Big Tech](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) (Warren For President)
+  * [ Airbnb Wanted Travelers To Stay In Homes. Now It's Buying HotelTonight.](https://www.buzzfeednews.com/article/pranavdixit/airbnb-buys-hoteltonight) (BuzzFeed News)
+  * [ Three Reasons Behind Airbnb’s Deal for HotelTonight](https://www.theinformation.com/articles/three-reasons-behind-airbnbs-deal-for-hoteltonight?shared=cbd718ac43b51770) (The Information)
+  * [ Turnitin to Be Acquired by Advance Publications for $1.75B](https://www.edsurge.com/news/2019-03-06-turnitin-to-be-acquired-by-advance-publications-for-1-75b) (EdSurge)
+  * [ Combatting Vaccine Misinformation](https://newsroom.fb.com/news/2019/03/combatting-vaccine-misinformation/) (Facebook Newsroom)
+
+**Thursday, March 07 2019 - Facebook Pivots To Privacy**
+
+  * [A Privacy-Focused Vision for Social Networking](https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/) (Mark Zuckerberg)
+  * [A 'privacy-focused' Facebook would kill Zuckerberg's business model](https://www.theguardian.com/commentisfree/2019/mar/07/privacy-focused-facebook-kill-zuckerbergs-business-model?CMP=Share_iOSApp_Other) (The Guardian)
+  * [Facebook’s Privacy Cake](https://stratechery.com/2019/facebooks-privacy-cake/) (Ben Thompson/Stratechery)
+  * [Mark Zuckerberg Tried Hard To Get Facebook Into China. Now The Company May Be Backing Away.](https://www.buzzfeednews.com/article/ryanmac/facebook-backing-away-china-mark-zuckerberg-privacy) (Buzzfeed News)
+  * [Amazon's joint health-care venture finally has a name: Haven](https://www.cnbc.com/2019/03/06/amazon-jp-morgan-berkshire-hathaway-health-care-venture-named-haven.html) (CNBC)
+  * [Huawei: US Congress acted as 'judge, juror and executioner' with ban on our products](https://www.cnn.com/2019/03/06/tech/huawei-suing-united-states/) (CNN)
+  * [Google brings its Duplex AI restaurant booking assistant to 43 states](https://techcrunch.com/2019/03/06/google-brings-its-duplex-ai-restaurant-booking-assistant-to-43-states/) (TechCrunch)
+  * [How Bird plans to blanket the world with electric scooters without going bankrupt](https://www.theverge.com/2019/3/7/18253522/bird-platform-scooter-new-zealand-canada-latin-america) (The Verge)
+
+**Wednesday, March 06 2019 - This Podcast Is A Year Old!**
+
+  * [Fitbit’s new $160 Versa Lite is a stripped-down version of its entry-level smartwatch](https://www.theverge.com/2019/3/6/18251931/fitbit-versa-lite-ace-2-inspire-hr-smartwatch-fitness-tracker-announce) (The Verge)
+  * [Fitbit kills Alta, Alta HR, Flex 2, and Zip](https://venturebeat.com/2019/03/06/fitbit-kills-alta-alta-hr-flex-2-and-zip/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+venturebeat%2FSZYF+%28VentureBeat%29) (VentureBeat)
+  * [Samsung Working on Two More Foldable Smartphones](https://www.bloomberg.com/news/articles/2019-03-06/samsung-is-said-to-be-preparing-more-foldable-smartphone-models) (Bloomberg)
+  * [WANT A FOLDABLE PHONE? HOLD OUT FOR REAL GLASS](https://www.wired.com/story/folding-phones-wait-for-glass/) (Wired)
+  * [Chinese Hackers Target Universities in Pursuit of Maritime Military Secrets](https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800) (WSJ)
+  * [Uber found not criminally liable in last year’s self-driving car death](https://qz.com/1566048/uber-not-criminally-liable-in-tempe-self-driving-car-death/) (QZ)
+  * [Grab confirms $1.46B investment from SoftBank’s Vision Fund](https://techcrunch.com/2019/03/05/grab-vision-fund/) (TechCrunch)
+  * [Waymo Starts Selling Sensors to Lower Cost of Self-Driving Cars](https://www.bloomberg.com/news/articles/2019-03-06/waymo-starts-selling-sensors-to-lower-cost-of-self-driving-cars) (Bloomberg)
+
 **Tuesday, March 05 2019 - Don't Use "ji32k7au4a83" As A Password**
 
   * [Disputed N.S.A. Phone Program Is Shut Down, Aide Says](https://www.nytimes.com/2019/03/04/us/politics/nsa-phone-records-program-shut-down.html) (NYTimes)
