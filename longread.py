@@ -18,6 +18,10 @@ for post in rhfeed.entries:
 	postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
 
 	for paragraph in soup.find_all('p'):
-		if "Longreads:" in paragraph.text or "Suggestions:" in paragraph.text:
+		if "Longreads" in paragraph.text or "Suggestions:" in paragraph.text:
+			# print (paragraph)
 			print ("**" + postPubTime + "**")
 			print (html2text.html2text(str(paragraph.next_sibling)))
+		else:
+			print ("Nope: " + str(paragraph))
+	print("[All long links](https://pberry.github.io/ridehome/longreads.html)")
