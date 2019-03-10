@@ -24,4 +24,4 @@ for post in rhfeed.entries:
 			print (html2text.html2text(str(paragraph.next_sibling)))
 		else:
 			print ("Nope: " + str(paragraph))
-	print("[All long links](https://pberry.github.io/ridehome/longreads.html)")
+	print("[All long reads](https://pberry.github.io/ridehome/longreads.html)")
