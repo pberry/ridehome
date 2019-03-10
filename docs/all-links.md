@@ -1,5 +1,60 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, March 08 2019 - Senator Warren Wants To Break Up Big Tech**
+
+  * [ Here’s how we can break up Big Tech](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) (Warren For President)
+  * [ Airbnb Wanted Travelers To Stay In Homes. Now It's Buying HotelTonight.](https://www.buzzfeednews.com/article/pranavdixit/airbnb-buys-hoteltonight) (BuzzFeed News)
+  * [ Three Reasons Behind Airbnb’s Deal for HotelTonight](https://www.theinformation.com/articles/three-reasons-behind-airbnbs-deal-for-hoteltonight?shared=cbd718ac43b51770) (The Information)
+  * [ Turnitin to Be Acquired by Advance Publications for $1.75B](https://www.edsurge.com/news/2019-03-06-turnitin-to-be-acquired-by-advance-publications-for-1-75b) (EdSurge)
+  * [ Combatting Vaccine Misinformation](https://newsroom.fb.com/news/2019/03/combatting-vaccine-misinformation/) (Facebook Newsroom)
+
+**Thursday, March 07 2019 - Facebook Pivots To Privacy**
+
+  * [A Privacy-Focused Vision for Social Networking](https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/) (Mark Zuckerberg)
+  * [A 'privacy-focused' Facebook would kill Zuckerberg's business model](https://www.theguardian.com/commentisfree/2019/mar/07/privacy-focused-facebook-kill-zuckerbergs-business-model?CMP=Share_iOSApp_Other) (The Guardian)
+  * [Facebook’s Privacy Cake](https://stratechery.com/2019/facebooks-privacy-cake/) (Ben Thompson/Stratechery)
+  * [Mark Zuckerberg Tried Hard To Get Facebook Into China. Now The Company May Be Backing Away.](https://www.buzzfeednews.com/article/ryanmac/facebook-backing-away-china-mark-zuckerberg-privacy) (Buzzfeed News)
+  * [Amazon's joint health-care venture finally has a name: Haven](https://www.cnbc.com/2019/03/06/amazon-jp-morgan-berkshire-hathaway-health-care-venture-named-haven.html) (CNBC)
+  * [Huawei: US Congress acted as 'judge, juror and executioner' with ban on our products](https://www.cnn.com/2019/03/06/tech/huawei-suing-united-states/) (CNN)
+  * [Google brings its Duplex AI restaurant booking assistant to 43 states](https://techcrunch.com/2019/03/06/google-brings-its-duplex-ai-restaurant-booking-assistant-to-43-states/) (TechCrunch)
+  * [How Bird plans to blanket the world with electric scooters without going bankrupt](https://www.theverge.com/2019/3/7/18253522/bird-platform-scooter-new-zealand-canada-latin-america) (The Verge)
+
+**Wednesday, March 06 2019 - This Podcast Is A Year Old!**
+
+  * [Fitbit’s new $160 Versa Lite is a stripped-down version of its entry-level smartwatch](https://www.theverge.com/2019/3/6/18251931/fitbit-versa-lite-ace-2-inspire-hr-smartwatch-fitness-tracker-announce) (The Verge)
+  * [Fitbit kills Alta, Alta HR, Flex 2, and Zip](https://venturebeat.com/2019/03/06/fitbit-kills-alta-alta-hr-flex-2-and-zip/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+venturebeat%2FSZYF+%28VentureBeat%29) (VentureBeat)
+  * [Samsung Working on Two More Foldable Smartphones](https://www.bloomberg.com/news/articles/2019-03-06/samsung-is-said-to-be-preparing-more-foldable-smartphone-models) (Bloomberg)
+  * [WANT A FOLDABLE PHONE? HOLD OUT FOR REAL GLASS](https://www.wired.com/story/folding-phones-wait-for-glass/) (Wired)
+  * [Chinese Hackers Target Universities in Pursuit of Maritime Military Secrets](https://www.wsj.com/articles/chinese-hackers-target-universities-in-pursuit-of-maritime-military-secrets-11551781800) (WSJ)
+  * [Uber found not criminally liable in last year’s self-driving car death](https://qz.com/1566048/uber-not-criminally-liable-in-tempe-self-driving-car-death/) (QZ)
+  * [Grab confirms $1.46B investment from SoftBank’s Vision Fund](https://techcrunch.com/2019/03/05/grab-vision-fund/) (TechCrunch)
+  * [Waymo Starts Selling Sensors to Lower Cost of Self-Driving Cars](https://www.bloomberg.com/news/articles/2019-03-06/waymo-starts-selling-sensors-to-lower-cost-of-self-driving-cars) (Bloomberg)
+
+**Tuesday, March 05 2019 - Don't Use "ji32k7au4a83" As A Password**
+
+  * [Disputed N.S.A. Phone Program Is Shut Down, Aide Says](https://www.nytimes.com/2019/03/04/us/politics/nsa-phone-records-program-shut-down.html) (NYTimes)
+  *  [Microsoft is creating Windows Lite for dual-screen and Chromebook-like devices](https://www.theverge.com/2019/3/4/18249679/microsoft-windows-lite-dual-screen-devices-chromebooks-report) (The Verge)
+  *  [Apple acquires patent portfolio of failed smart home security startup Lighthouse AI](https://9to5mac.com/2019/03/04/lighthouse-patent-portfolio-apple/) (9to5Mac)
+  *  [Coinbase Pushes Out Ex-Hacking Team Employees Following Uproar](https://www.coindesk.com/coinbase-pushes-out-ex-hacking-team-employees-following-uproar) (Coindesk)
+  *  [Coinbase Users Struggle to Delete Their Accounts in Protest](https://motherboard.vice.com/en_us/article/xwb7xj/coinbase-users-struggle-to-delete-their-accounts-in-protest) (Motherboard)
+  *  [Living up to our values and the Neutrino acquisition](https://blog.coinbase.com/living-up-to-our-values-and-the-neutrino-acquisition-ba98174cdcf6) (Coinbase Blog)
+  *  [Foxconn, a tale of slashed salaries, disappearing benefits and mass resignations as iPhone orders dry up](https://www.scmp.com/economy/china-economy/article/2188162/foxconn-tale-slashed-salaries-disappearing-benefits-and-mass) (South China Morning Post)
+  *  [Big Media Isn't Ready to Fight Back (Netflix Misunderstandings, Pt. 5)](https://redef.com/original/5c7af1747497317d19bc34af) (Redef)
+  *  [Why 'ji32k7au4a83' Is a Remarkably Common Password](https://gizmodo.com/why-ji32k7au4a83-is-a-remarkably-common-password-1833045282) (Gizmodo)
+
+**Monday, March 04 2019 - USB 4 Wishes and Password-Free Dreams**
+
+  * [Facebook won’t let you opt-out of its phone number ‘look up’ setting](https://techcrunch.com/2019/03/03/facebook-phone-number-look-up/ ) (TechCrunch)
+  * [Scammers abused Facebook phone number search](https://www.bbc.com/news/technology-43656746 ) (BBC News)
+  * [Huawei Said to Be Preparing to Sue the U.S. Government](https://www.nytimes.com/2019/03/04/technology/huawei-lawsuit-us-government.html) (New York Times)
+  * [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
+  * [With USB 4, Thunderbolt 3’s benefits become open to all](https://www.theverge.com/2019/3/4/18246182/usb-4-thunderbolt-3-specs-features-release-date) (The Verge)
+  * [USB Promoter Group Announces USB4 Specification](https://www.apnews.com/Business%20Wire/6362e19b04544102be218a0287c37087) (AP News)
+  * [Harry McCracken's Facebook tweet](https://twitter.com/harrymccracken/status/1102313971393019904) (Twitter)
+  * [Facebook explains how it’ll review nude photos to stop revenge porn](https://www.theverge.com/2017/11/9/16630900/facebook-revenge-porn-defense-details) (The Verge)
+  * [Facebook’s New CAPTCHA Test: ‘Upload a Clear Photo of Your Face’](https://www.wired.com/story/facebooks-new-captcha-test-upload-a-clear-photo-of-your-face/) (Wired)
+  * [W3C approves WebAuthn as the web standard for password-free logins](https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/) (VentureBeat) 
+
 **Friday, March 01 2019 - Lyft Files For Its IPO**
 
   * [Lyft's financials show a $911 million loss ahead of its IPO](https://www.cnbc.com/2019/03/01/lyft-s-1-ipo.html) (CNBC)

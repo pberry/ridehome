@@ -1,5 +1,20 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, March 08**
+  * [ THE HYPOCRISY OF THE TECHNO-MORALISTS IN THE COMING AGE OF AUTONOMY](https://warontherocks.com/2019/03/the-hypocrisy-of-the-techno-moralists-in-the-coming-age-of-autonomy/) (WarOnTheRocks)
+  * [ HOW ARTIFICIAL INTELLIGENCE WILL REVOLUTIONIZE THE WAY VIDEO GAMES ARE DEVELOPED AND PLAYED](https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning) (TheVerge)
+  * [ Delete Never: The Digital Hoarders Who Collect Tumblrs, Medieval Manuscripts, and Terabytes of Text Files](https://gizmodo.com/delete-never-the-digital-hoarders-who-collect-tumblrs-1832900423) (Gizmodo)
+  * [ How Munchery’s high hopes led to its decline and fall](https://www.fastcompany.com/90315825/how-muncherys-high-hopes-led-to-its-decline-and-fall?partner=rss&utm_source=feedly&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss) (FastCompany)
+  * [ Triton is the world’s most murderous malware, and it’s spreading](https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/) (MIT Technology Review)
+
+**Friday, March 01**
+  * [Do You Trust Your VPN? Are You Sure?](https://slate.com/technology/2019/02/best-vpn-companies-trust-privacy.html) (Slate)
+  * [Is Cloudflare a privacy champion or hate speech enabler? Depends who you ask](https://www.fastcompany.com/90312063/how-cloudflare-straddles-its-role-as-privacy-champion-and-hate-speech-enabler?utm_source=feedly&utm_medium=webfeeds) (Fast Company)
+  * [The Car That Killed Glamour](https://www.theatlantic.com/technology/archive/2015/09/the-car-that-killed-glamour/407248/) (The Atlantic)
+  * [How Disney Built Star Wars, in real life](https://techcrunch.com/2019/02/27/how-disney-built-star-wars-in-real-life/) (TechCrunch)
+  * [THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (The Verge)
+  * [Outgrowing Advertising: Multimodal Business Models as a Product Strategy](https://a16z.com/2018/12/07/when-advertising-isnt-enough-multimodal-business-models-product-strategy/) (A16Z/Connie Chan)
+
 **Friday, February 22**
   * [Late Night Linux Podcast](https://latenightlinux.com/)
   * [HOW APPLE’S ENTERPRISE APP PROGRAM BECAME THE NEW WILD WEST OF MOBILE APPS](https://www.theverge.com/2019/2/20/18232583/apple-ios-developer-enterprise-program-store-mobile-apps) (The Verge)
