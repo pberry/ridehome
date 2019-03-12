@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, March 11 2019 - How TikTok Is Different**
+
+  * [Nvidia to Buy Mellanox for $6.9 Billion in Data Center Push](https://www.bloomberg.com/news/articles/2019-03-11/nvidia-to-buy-mellanox-for-6-9-billion-to-speed-datacenter-push) (Bloomberg)
+  * [Landlords to Tesla: You’re Still on the Hook for Your Store Leases](https://www.wsj.com/articles/landlords-to-tesla-youre-still-on-the-hook-for-your-store-leases-11552059041) (WSJ)
+  * [How TikTok Is Rewriting the World](https://www.nytimes.com/2019/03/10/style/what-is-tik-tok.html) (NYTimes)
+  * [Facebook vs. Apple](https://slate.com/technology/2019/03/facebook-apple-messenger-whatsapp-imessage-rivals.html) (Slate)
+  * [Facebook has a big, terrifying dream to be the communication backbone for the Western world](https://www.businessinsider.com/facebook-big-terrifying-dream-wechat-communication-backbone-western-world-2019-3?op=1) (Business Insider)
+  * [ELIZABETH WARREN WANTS TO BREAK UP APPLE, TOO](https://www.theverge.com/2019/3/9/18257965/elizabeth-warren-break-up-apple-monopoly-antitrust) (The Verge)
+  * [Elizabeth Warren Wants To Break Up Amazon, Google And Facebook; But Does Her Plan Make Any Sense?](https://www.techdirt.com/articles/20190308/10591041767/elizabeth-warren-wants-to-break-up-amazon-google-facebook-does-her-plan-make-any-sense.shtml) (TechDirt)
+  * [How to Enable Dark Mode Nearly Everywhere It's Available Right Now](https://gizmodo.com/how-to-enable-dark-mode-nearly-everywhere-its-available-1833157906) (Gizmodo)
+
 **Friday, March 08 2019 - Senator Warren Wants To Break Up Big Tech**
 
   * [ Here’s how we can break up Big Tech](https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c) (Warren For President)
