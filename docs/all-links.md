@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, March 12 2019 - The Web Is 30 Years Old!**
+
+  * [Facebook backtracks after removing Warren ads calling for Facebook breakup](https://www.politico.com/story/2019/03/11/facebook-removes-elizabeth-warren-ads-1216757) (Politico)
+  * [Apple’s March 25th event is official: ‘It’s show time’](https://9to5mac.com/2019/03/11/apple-march-event-announed/) (9to5Mac)
+  * [Spotify Premium now includes Hulu for no extra cost](https://www.theverge.com/2019/3/12/18260278/spotify-premium-hulu-bundle-price) (The Verge)
+  * [Amazon’s Alexa has 80,000 Apps—and No Runaway Hit](https://www.bloomberg.com/news/articles/2019-03-11/amazon-s-alexa-has-80-000-apps-and-no-runaway-hit) (Bloomberg)
+  * [Peak California](https://medium.com/@byrnehobart/peak-california-7cf97baecaf0) (Byrne Hobart)
+  * [Goodbye, Silicon Valley, hello, Atlanta: Black entrepreneurs part of new migration to South](https://www.usatoday.com/story/news/2019/03/10/bye-silicon-valley-black-entrepreneurs-part-new-migration-atlanta/2982120002/) (USA Today)
+  * [30 years on, what’s next #ForTheWeb?](https://webfoundation.org/2019/03/web-birthday-30/) (Tim Berners-Lee)
+  * [The original Web proposal](https://www.w3.org/History/1989/proposal.html)
+
 **Monday, March 11 2019 - How TikTok Is Different**
 
   * [Nvidia to Buy Mellanox for $6.9 Billion in Data Center Push](https://www.bloomberg.com/news/articles/2019-03-11/nvidia-to-buy-mellanox-for-6-9-billion-to-speed-datacenter-push) (Bloomberg)
