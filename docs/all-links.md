@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, March 13 2019 - Spotify Anti-Trust's Apple**
+
+  * [Spotify files EU antitrust complaint against Apple](https://www.reuters.com/article/us-apple-spotify-tech-eu/spotify-files-eu-antitrust-complaint-against-apple-idUSKBN1QU18G) (Reuters)
+  * [Apple Courts HBO and Showtime for Service to Challenge Netflix](https://www.bloomberg.com/news/articles/2019-03-13/apple-races-to-get-studios-signed-up-for-new-streaming-service) (Bloomberg)
+  * [Facial recognition's 'dirty little secret': Millions of online photos scraped without consent](https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921) (NBC News)
+  * [Google has told dozens of employees on its laptop and tablet division to find new jobs at the company, raising questions about its hardware plans](https://www.businessinsider.in/Google-has-told-dozens-of-employees-on-its-laptop-and-tablet-division-to-find-new-jobs-at-the-company-raising-questions-about-its-hardware-plans/articleshow/68384002.cms) (Business Insider)
+  * [Verizon’s 5G service will cost $10 extra, launches in Chicago and Minneapolis on April 11th](https://www.theverge.com/2019/3/13/18263593/verizon-5g-service-price-location-launch-date) (The Verge)
+  * [Microsoft demonstrates xCloud game streaming a week before Google’s ‘future of gaming’ event](https://www.theverge.com/2019/3/13/18263405/microsoft-xcloud-game-streaming-demo-video) (The Verge)
+  * [How an App for Gamers Went Mainstream](https://www.theatlantic.com/technology/archive/2019/03/how-discord-went-mainstream-influencers/584671/) (The Atlantic)
+  * [A quantum experiment suggests there’s no such thing as objective reality](https://www.technologyreview.com/s/613092/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/) (MIT Technology Review)
+
 **Tuesday, March 12 2019 - The Web Is 30 Years Old!**
 
   * [Facebook backtracks after removing Warren ads calling for Facebook breakup](https://www.politico.com/story/2019/03/11/facebook-removes-elizabeth-warren-ads-1216757) (Politico)
