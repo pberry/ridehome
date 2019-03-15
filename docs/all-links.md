@@ -1,5 +1,17 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, March 14 2019 - Facebook Under Criminal Investigation**
+
+  * [Facebook’s Data Deals Are Under Criminal Investigation](https://www.nytimes.com/2019/03/13/technology/facebook-data-deals-investigation.html) (NYTimes)
+  * [Google launches Android Q Beta 1](https://venturebeat.com/2019/03/13/google-launches-android-q-beta-1/) (Venture Beat)
+  * [Telegram gained three million new users during Facebook outage](https://www.theverge.com/2019/3/14/18265231/telegram-new-users-facebook-outage-3-million) (The Verge)
+  * [Tumblr traffic dropped by nearly 100M views the month after it banned porn](https://thenextweb.com/insider/2019/03/14/tumblr-traffic-dropped-by-nearly-100m-the-month-after-it-banned-porn/?fbclid=IwAR1tSYjrSTGqVdi3lE4ywvAndBLrIlixzHk9PWuLXptRwTee4QAQ27Q_y6c) (TNW)
+  * [Dropbox device linking limits just got added for Basic accounts](https://www.slashgear.com/dropbox-device-linking-limits-just-got-added-for-basic-accounts-12569522/) (SlashGear)
+  * [Microsoft announces Xbox Live for any iOS or Android game](https://www.theverge.com/2019/3/14/18265214/microsoft-xbox-live-ios-android-games-support-features) (The Verge)
+  * [In Silicon Valley, Plans for a Monument to Silicon Valley](https://www.nytimes.com/2019/03/09/technology/silicon-valley-monument-landmark.html) (NYTimes)
+  * [Silicon Valley Wants a Monument to Itself. Will It Scale?](http://nymag.com/intelligencer/2019/03/silicon-valley-wants-a-monument-to-itself-will-it-scale.html) (NYMag)
+  * [Pi in the sky: Calculating a record-breaking 31.4 trillion digits of Archimedes’ constant on Google Cloud](https://cloud.google.com/blog/products/compute/calculating-31-4-trillion-digits-of-archimedes-constant-on-google-cloud) (Google Cloud Blog)
+
 **Wednesday, March 13 2019 - Spotify Anti-Trust's Apple**
 
   * [Spotify files EU antitrust complaint against Apple](https://www.reuters.com/article/us-apple-spotify-tech-eu/spotify-files-eu-antitrust-complaint-against-apple-idUSKBN1QU18G) (Reuters)
