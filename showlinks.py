@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 import feedparser
 import html2text
 import re
@@ -21,7 +22,7 @@ for post in rhfeed.entries:
 	cleanPost = post.summary.replace('\n', '')
 	soup = BeautifulSoup(cleanPost, 'html5lib')
 	linksBlock = soup.find_all("p", string=re.compile("^Links(:*)(\ *)$|Stories:$"))
-
+	
 	# check to see if we found anything
 	# specifically at least one paragraph stating Links were coming and that the following ul contains a tags
 	# this is a horrible way to do things but it's working so far
