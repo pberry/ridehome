@@ -1,5 +1,12 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, March 15**
+  * [‘We Know Them. We Trust Them.’ Uber and Airbnb Alumni Fuel Tech’s Next Wave.](https://www.nytimes.com/2019/03/13/technology/silicon-valley-network-mafias.html) (NYTimes)
+  * [DeepMind and Google: the battle to control artificial intelligence](https://www.1843magazine.com/features/deepmind-and-google-the-battle-to-control-artificial-intelligence) (1843)
+  * [Foursquare’s first decade, from viral hit to real business and beyond](https://www.fastcompany.com/90318329/foursquares-first-decade-from-viral-hit-to-real-business-and-beyond?utm_source=feedly&utm_medium=webfeeds) (Fast Company)
+  * [Meet The Billionaire Who Defied Amazon And Built Wish, The World’s Most-Downloaded E-Commerce App](https://www.forbes.com/sites/parmyolson/2019/03/13/meet-the-billionaire-who-defied-amazon-and-built-wish-the-worlds-most-downloaded-e-commerce-app/#5bc91e5070f5) (Forbes)
+  * [How to Stop Your Roommates From Messing With Your Amazon Echo](https://lifehacker.com/how-to-stop-your-roommates-from-messing-with-your-amazo-1833229706) (Lifehacker)
+
 **Friday, March 08**
   * [ THE HYPOCRISY OF THE TECHNO-MORALISTS IN THE COMING AGE OF AUTONOMY](https://warontherocks.com/2019/03/the-hypocrisy-of-the-techno-moralists-in-the-coming-age-of-autonomy/) (WarOnTheRocks)
   * [ HOW ARTIFICIAL INTELLIGENCE WILL REVOLUTIONIZE THE WAY VIDEO GAMES ARE DEVELOPED AND PLAYED](https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning) (TheVerge)
