@@ -1,5 +1,12 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, March 15 2019 - Does Chris Cox’s departure from Facebook mean the pivot is real?**
+
+  * [FACEBOOK’S HEAD OF PRODUCT LEAVES AFTER PRIVACY PIVOT](https://www.wired.com/story/chris-cox-leaving-facebook/?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) (Wired)
+  * [As Mark Zuckerberg Tightens Grip on Facebook, 2 Top Deputies Leave](https://www.nytimes.com/2019/03/14/technology/facebook-chris-cox.html) (NYTimes)
+  * [Addressing Spotify’s claims](https://www.apple.com/newsroom/2019/03/addressing-spotifys-claims/) (Apple Newsroom)
+  * [The New Zealand Massacre Was Made to Go Viral](https://www.nytimes.com/2019/03/15/opinion/new-zealand-shooting.html) (NYTimes)
+
 **Thursday, March 14 2019 - Facebook Under Criminal Investigation**
 
   * [Facebook’s Data Deals Are Under Criminal Investigation](https://www.nytimes.com/2019/03/13/technology/facebook-data-deals-investigation.html) (NYTimes)
