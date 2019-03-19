@@ -1,5 +1,18 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Monday, March 18 2019 - MySpace Loses All Your Stuff From 2005**
+
+  * [Apple launches new iPad Air and iPad mini](https://techcrunch.com/2019/03/18/apple-launches-new-ipad-air-and-ipad-mini/) (TechCrunch)
+  * [Inside YouTube’s struggles to shut down video of the New Zealand shooting — and the humans who outsmarted its systems](https://www.washingtonpost.com/technology/2019/03/18/inside-youtubes-struggles-shut-down-video-new-zealand-shooting-humans-who-outsmarted-its-systems/?utm_term=.6841d28b9363) (Washington Post)
+  * [Myspace player won't play songs, and I want to download them if possible](https://www.reddit.com/r/techsupport/comments/7uiv8b/myspace_player_wont_play_songs_and_i_want_to/) (Reddit thread on the Myspace news)
+  * [The Internet Archive is working to preserve public Google+ posts before it shuts down](https://www.theverge.com/2019/3/17/18269707/internet-archive-archiveteam-preserving-public-google-plus-posts) (The Verge)
+  * [Lyft Aims for Valuation Near $20 Billion in Biggest U.S. IPO](https://www.bloomberg.com/news/articles/2019-03-18/lyft-aims-to-raise-up-to-2-1-billion-in-year-s-biggest-u-s-ipo) (Bloomberg)
+  * [Ride-hail service Juno is seeking a buyer](https://qz.com/1574399/ride-hail-service-juno-is-up-for-sale/) (Quartz)
+  * [Why Has Seed Investing Declined? And What Does this Mean for the Future?](https://bothsidesofthetable.com/why-has-seed-investing-declined-and-what-does-this-mean-for-the-future-6a9572357130) (Both Sides)
+  * [Decade in review: Trends in seed and early-stage funding](https://techcrunch.com/2019/03/16/decade-in-review-trends-in-seed-and-early-stage-funding/) (TechCrunch)
+  * [Apple’s Big Spending Plan to Challenge Netflix Takes Shape](https://www.nytimes.com/2019/03/17/business/media/apple-content-hollywood.html) (NYTimes)
+  * [Google Spent Years on a Secret New Plan to Attack a $140 Billion Industry. It All Starts Tomorrow](https://www.inc.com/bill-murphy-jr/google-spent-years-on-a-secret-new-plan-to-attack-a-140-billion-industry-it-all-starts-tomorrow.html) (Inc.)
+
 **Friday, March 15**
   * [‘We Know Them. We Trust Them.’ Uber and Airbnb Alumni Fuel Tech’s Next Wave.](https://www.nytimes.com/2019/03/13/technology/silicon-valley-network-mafias.html) (NYTimes)
   * [DeepMind and Google: the battle to control artificial intelligence](https://www.1843magazine.com/features/deepmind-and-google-the-battle-to-control-artificial-intelligence) (1843)
