@@ -1,5 +1,16 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Tuesday, March 19 2019 - Stadia is Google's Gaming Streaming Service**
+
+  * [Google Stadia announced, a game streaming service for Chrome, Android, and TVs](https://9to5google.com/2019/03/19/google-stadia-announced/) (9to5Google)
+  * [ Google unveils Stadia cloud gaming service, launches in 2019](https://www.theverge.com/2019/3/19/18271702/google-stadia-cloud-gaming-service-announcement-gdc-2019) (The Verge)
+  * [ Stadia, Google’s gaming platform, changed the rules of the console wars](https://www.polygon.com/2019/3/19/18272647/google-stadia-gdc-2019-console-wars) (Polygon)
+  * [Apple Updates iMac Lineup With Up to 8-Core 9th-Gen Intel Processors and Radeon Pro Vega Graphics Options](https://www.macrumors.com/2019/03/19/2019-imac-refresh/) (MacRumors)
+  * [ Instagram tests in-app shopping with Kylie Cosmetics, Nike and Huda Beauty](https://digiday.com/retail/instagram-tests-app-shopping-kylie-cosmetics-nike-huda-beauty/) (Digiday)
+  * [ Nvidia announces $99 AI computer for developers, makers, and researchers](https://www.theverge.com/circuitbreaker/2019/3/18/18271329/nvidia-jetson-nano-price-details-specs-devkit-gdc) (The Verge)
+  * [ Intel claims Aurora will be the first U.S. supercomputer to hit 1 exaflop](https://venturebeat.com/2019/03/18/intel-claims-aurora-will-be-the-first-u-s-supercomputer-to-hit-1-exaflop/) (Venture Beat)
+  * [ Here are the 85+ startups that launched at YC's W19 Demo Day One](https://techcrunch.com/2019/03/18/here-are-the-85-startups-that-launched-today-at-y-combinators-w19-demo-day-1/) (TechCrunch)
+
 **Monday, March 18 2019 - MySpace Loses All Your Stuff From 2005**
 
   * [Apple launches new iPad Air and iPad mini](https://techcrunch.com/2019/03/18/apple-launches-new-ipad-air-and-ipad-mini/) (TechCrunch)
