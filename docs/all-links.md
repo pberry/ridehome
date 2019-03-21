@@ -1,5 +1,41 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, March 20 2019 - Give Us More, Santa Tim!**
+
+  * [Google hit with €1.5 billion antitrust fine by EU](https://www.theverge.com/2019/3/20/18270891/google-eu-antitrust-fine-adsense-advertising) (The Verge)
+  * [Facebook Halts Ad Targeting Cited in Bias Complaints](https://www.nytimes.com/2019/03/19/technology/facebook-discrimination-ads.html) (NYTimes)
+  * [AirPods, the world’s most popular wireless headphones, are getting even better](https://www.apple.com/newsroom/2019/03/airpods-the-worlds-most-popular-wireless-headphones-are-getting-even-better/) (Apple Newsroom)
+  * [The Oculus Rift S is real and arrives in spring for $399](https://techcrunch.com/2019/03/20/the-oculus-rift-s-is-indeed-real-and-arrives-in-spring-for-399/) (TechCrunch)
+  * [Amazon’s entry-level Kindle gets a light and a higher price tag](https://www.theverge.com/circuitbreaker/2019/3/20/18271559/amazon-kindle-entry-level-light-price-raise-ereader-books) (The Verge)
+  * [Facebook Messenger now has message threads](https://venturebeat.com/2019/03/20/facebook-messenger-now-has-message-threads/) (VentureBeat)
+  * [MoviePass’ unlimited plan is back and at the original price — for now](https://www.polygon.com/2019/3/19/18273051/moviepass-unlimited-plan-uncapped) (Polygon)
+  * [All 88 companies from Y Combinator's W19 Demo Day 2](https://techcrunch.com/2019/03/19/here-are-the-88-companies-that-launched-at-ycs-w19-demo-day-2/) (TechCrunch)
+  * New York City is finally getting its own self-driving shuttle [service](https://www.theverge.com/2019/3/20/18272941/optimus-ride-nyc-av-shuttle-brooklyn-navy-yards) (The Verge)
+
+**Tuesday, March 19 2019 - Stadia is Google's Gaming Streaming Service**
+
+  * [Google Stadia announced, a game streaming service for Chrome, Android, and TVs](https://9to5google.com/2019/03/19/google-stadia-announced/) (9to5Google)
+  * [ Google unveils Stadia cloud gaming service, launches in 2019](https://www.theverge.com/2019/3/19/18271702/google-stadia-cloud-gaming-service-announcement-gdc-2019) (The Verge)
+  * [ Stadia, Google’s gaming platform, changed the rules of the console wars](https://www.polygon.com/2019/3/19/18272647/google-stadia-gdc-2019-console-wars) (Polygon)
+  * [Apple Updates iMac Lineup With Up to 8-Core 9th-Gen Intel Processors and Radeon Pro Vega Graphics Options](https://www.macrumors.com/2019/03/19/2019-imac-refresh/) (MacRumors)
+  * [ Instagram tests in-app shopping with Kylie Cosmetics, Nike and Huda Beauty](https://digiday.com/retail/instagram-tests-app-shopping-kylie-cosmetics-nike-huda-beauty/) (Digiday)
+  * [ Nvidia announces $99 AI computer for developers, makers, and researchers](https://www.theverge.com/circuitbreaker/2019/3/18/18271329/nvidia-jetson-nano-price-details-specs-devkit-gdc) (The Verge)
+  * [ Intel claims Aurora will be the first U.S. supercomputer to hit 1 exaflop](https://venturebeat.com/2019/03/18/intel-claims-aurora-will-be-the-first-u-s-supercomputer-to-hit-1-exaflop/) (Venture Beat)
+  * [ Here are the 85+ startups that launched at YC's W19 Demo Day One](https://techcrunch.com/2019/03/18/here-are-the-85-startups-that-launched-today-at-y-combinators-w19-demo-day-1/) (TechCrunch)
+
+**Monday, March 18 2019 - MySpace Loses All Your Stuff From 2005**
+
+  * [Apple launches new iPad Air and iPad mini](https://techcrunch.com/2019/03/18/apple-launches-new-ipad-air-and-ipad-mini/) (TechCrunch)
+  * [Inside YouTube’s struggles to shut down video of the New Zealand shooting — and the humans who outsmarted its systems](https://www.washingtonpost.com/technology/2019/03/18/inside-youtubes-struggles-shut-down-video-new-zealand-shooting-humans-who-outsmarted-its-systems/?utm_term=.6841d28b9363) (Washington Post)
+  * [Myspace player won't play songs, and I want to download them if possible](https://www.reddit.com/r/techsupport/comments/7uiv8b/myspace_player_wont_play_songs_and_i_want_to/) (Reddit thread on the Myspace news)
+  * [The Internet Archive is working to preserve public Google+ posts before it shuts down](https://www.theverge.com/2019/3/17/18269707/internet-archive-archiveteam-preserving-public-google-plus-posts) (The Verge)
+  * [Lyft Aims for Valuation Near $20 Billion in Biggest U.S. IPO](https://www.bloomberg.com/news/articles/2019-03-18/lyft-aims-to-raise-up-to-2-1-billion-in-year-s-biggest-u-s-ipo) (Bloomberg)
+  * [Ride-hail service Juno is seeking a buyer](https://qz.com/1574399/ride-hail-service-juno-is-up-for-sale/) (Quartz)
+  * [Why Has Seed Investing Declined? And What Does this Mean for the Future?](https://bothsidesofthetable.com/why-has-seed-investing-declined-and-what-does-this-mean-for-the-future-6a9572357130) (Both Sides)
+  * [Decade in review: Trends in seed and early-stage funding](https://techcrunch.com/2019/03/16/decade-in-review-trends-in-seed-and-early-stage-funding/) (TechCrunch)
+  * [Apple’s Big Spending Plan to Challenge Netflix Takes Shape](https://www.nytimes.com/2019/03/17/business/media/apple-content-hollywood.html) (NYTimes)
+  * [Google Spent Years on a Secret New Plan to Attack a $140 Billion Industry. It All Starts Tomorrow](https://www.inc.com/bill-murphy-jr/google-spent-years-on-a-secret-new-plan-to-attack-a-140-billion-industry-it-all-starts-tomorrow.html) (Inc.)
+  
 **Friday, March 15 2019 - Does Chris Cox’s departure from Facebook mean the pivot is real?**
 
   * [FACEBOOK’S HEAD OF PRODUCT LEAVES AFTER PRIVACY PIVOT](https://www.wired.com/story/chris-cox-leaving-facebook/?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) (Wired)
