@@ -1,5 +1,26 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, March 22 2019 - AT&T's "5G E" is.... zzzzzzzzz.....?**
+
+  * [ New York Times CEO warns publishers ahead of Apple news launch](https://www.reuters.com/article/us-media-new-york-times-idUSKCN1R22MZ) (Reuters)
+  * [ Apple’s plan for its new TV service: Sell other people’s TV services](https://www.recode.net/2019/3/21/18275747/apple-tv-launch-plans-event-hbo-showtime-starz-netflix-news-magazine-goldman-amazon) (Recode)
+  * [ 750,000 Medtronic defibrillators vulnerable to hacking](http://www.startribune.com/750-000-medtronic-defibrillators-vulnerable-to-hacking/507470932/) (StarTribune)
+  * [ Facebook acknowledges concerns over Cambridge Analytica emerged earlier than reported](https://www.theguardian.com/uk-news/2019/mar/21/facebook-knew-of-cambridge-analytica-data-misuse-earlier-than-reported-court-filing) (The Guardian)
+  * [ AT&T's fake 5G E is slower than Verizon's and T-Mobile's 4G](https://www.cnet.com/news/atts-fake-5g-e-is-slower-than-verizons-and-t-mobiles-4g/) (CNET)
+  * [ Mobile time-spent jumps up: YouTube corners ~40% of the traffic, Facebook less than 10%](https://whatsnewinpublishing.com/2019/03/mobile-time-spent-jumps-up-youtube-corners-40-of-the-traffic-facebook-less-than-10/) (WhatsNewInPublishing)
+  * [The RedMonk Programming Language Rankings: January 2019](https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19/) (RedMonk)
+
+**Thursday, March 21 2019 - Santa Tim Has Forsaken Us!**
+
+  * [ Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/) (Krebs on Security)
+  * [Can Duruk's Tweet Storm](https://twitter.com/can/status/1108754725279842304)
+  * [ Windows Virtual Desktop is now in public preview](https://techcrunch.com/2019/03/21/windows-virtual-desktop-is-now-in-public-preview/) (TechCrunch)
+  * [ Microsoft launches previews of Windows Virtual Desktop and Defender ATP for Mac](https://venturebeat.com/2019/03/21/microsoft-launches-previews-of-windows-virtual-desktop-and-defender-atp-for-mac/) (VentureBeat)
+  * [Microsoft warns Windows 7 users of looming end to security updates](https://techcrunch.com/2019/03/20/windows-7-security-updates/) (TechCrunch)
+  * [ European Wikipedias have been turned off for the day to protest dangerous copyright laws](https://www.theverge.com/2019/3/21/18275462/eu-copyright-directive-protest-wikipedia-twitch-pornhub-final-vote) (The Verge)
+  * [ Hottest Crypto Coin's Massive Rally Echoes Bitcoin's Glory Days](https://www.bloomberg.com/news/articles/2019-03-15/hottest-crypto-coin-s-massive-rally-echoes-bitcoin-s-glory-days) (Bloomberg)
+  * [ APPLE IPAD MINI REVIEW: NO COMPETITION](https://www.theverge.com/2019/3/21/18274477/ipad-mini-2019-review-apple-ios-pencil-lightning-specs-price-tablet) (The Verge)
+
 **Wednesday, March 20 2019 - Give Us More, Santa Tim!**
 
   * [Google hit with €1.5 billion antitrust fine by EU](https://www.theverge.com/2019/3/20/18270891/google-eu-antitrust-fine-adsense-advertising) (The Verge)
