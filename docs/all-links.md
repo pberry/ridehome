@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, March 25 2019 - Apple Goes Hollywood!**
+
+  * [ Apple launches $9.99 Apple News Plus with more than 300 magazines](https://www.theverge.com/2019/3/25/18277103/apple-news-subscription-service-launch-price-release-date-event-2019) (The Verge)
+  * [ Apple introduced its own credit card, the Apple Card](https://techcrunch.com/2019/03/25/apple-introduces-its-own-credit-card-the-apple-card/) (TechCrunch)
+  * [ Apple announces Apple TV Plus video subscription service](https://www.theverge.com/2019/3/25/18280920/apple-tv-streaming-service-announcement-price-date-launch-event-2019) (The Verge)
+  * [ YouTube Bows Out of Hollywood Arms Race With Netflix and Amazon](https://www.bloomberg.com/news/articles/2019-03-24/youtube-bows-out-of-hollywood-arms-race-with-netflix-and-amazon) (Bloomberg)
+  * [ Nintendo to Launch Two New Switch Models](https://www.wsj.com/articles/nintendo-to-launch-two-new-switch-models-11553494773) (WSJ)
+  * [ Digital media companies Group Nine Media and Refinery29 are said to be in talks to merge](https://www.businessinsider.com/digital-media-companies-group-nine-media-and-refinery29-are-said-to-be-in-talks-to-merge-2019-3?op=1) (Business Insider)
+  * [ Shenzhen Transsion applies to raise capital on Shanghai’s technology board after taking Africa’s phone market by storm](https://www.scmp.com/business/companies/article/3002139/shenzhen-transsion-applies-raise-capital-shanghais-technology) (South China Morning Post)
+
 **Friday, March 22 2019 - AT&T's "5G E" is.... zzzzzzzzz.....?**
 
   * [ New York Times CEO warns publishers ahead of Apple news launch](https://www.reuters.com/article/us-media-new-york-times-idUSKCN1R22MZ) (Reuters)
