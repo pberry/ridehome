@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, March 26 2019 - The EU's Copyright Directive Cometh**
+
+  * [Europe’s controversial overhaul of online copyright receives final approval](https://www.theverge.com/2019/3/26/18280726/europe-copyright-directive) (The Verge)
+  * [HUAWEI’S P30 PRO IS A PHOTOGRAPHIC POWERHOUSE WITH A TINY NOTCH](https://www.theverge.com/2019/3/26/18281466/huawei-p30-pro-price-release-date-specs-camera-photos) (The Verge)
+  * [Uber announces $3.1 billion deal to buy Middle East rival Careem](https://www.cnbc.com/2019/03/26/uber-to-buy-middle-east-ride-sharing-rival-careem-for-3point1-billion.html) (CNBC)
+  * [McDonald's is acquiring Dynamic Yield to create a more customized drive-thru](https://techcrunch.com/2019/03/25/mcdonalds-acquires-dynamic-yield/) (TechCrunch)
+  * [Exclusive: First look at Apple’s new AirPods-like ‘Powerbeats Pro’ truly wireless sport headphones](https://9to5mac.com/2019/03/25/exclusive-first-look-at-apples-new-airpods-like-powerbeats-pro-truly-wireless-sport-headphones/) (9to5Mac)
+  * [Very Brief Thoughts and Observations on Today’s ‘Show Time’ Apple Event](https://daringfireball.net/2019/03/show_time_event_thoughts_and_observations) (Daring Fireball)
+
 **Monday, March 25 2019 - Apple Goes Hollywood!**
 
   * [ Apple launches $9.99 Apple News Plus with more than 300 magazines](https://www.theverge.com/2019/3/25/18277103/apple-news-subscription-service-launch-price-release-date-event-2019) (The Verge)
