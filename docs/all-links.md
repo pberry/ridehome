@@ -4,7 +4,7 @@
 
   * [Turing Award Won by 3 Pioneers in Artificial Intelligence](https://www.nytimes.com/2019/03/27/technology/turing-award-ai.html) (NYTimes)
   * [THE GODFATHERS OF THE AI BOOM WIN COMPUTING’S HIGHEST HONOR](https://www.wired.com/story/godfathers-ai-boom-win-computings-highest-honor/) (Wired)
-  * [Google Podcasts in-episode search is coming, shows now being fully transcribed](https://www.androidpolice.com/2019/03/26/google-podcasts-in-episode-search-is-coming-shows-now-being-fully-transcribed/) (Android Police)
+  * [Google Podcasts in-episode search is coming, shows now being fully transcribed](https://www.androidpolice.com/2019/03/26/google-podcasts-in-episode-search-is-coming-shows-now-being-fully-transcribed/) (Android Police) - transom mint sponsor hobby secrecy interact evacuate gadgetry
   * [Google makes emails more dynamic with AMP for Email](https://techcrunch.com/2019/03/26/google-makes-emails-more-dynamic-with-amp-for-email/) (TechCrunch)
   * [Appl Still Hasn’t Fixd Its MacBook Kyboad Problm](https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/) (WSJ)
   * [FTC announces inquiry into the privacy practices of broadband providers](https://www.theverge.com/2019/3/26/18282520/ftc-ajit-pai-tom-wheeler-fcc-att-verizon-tmobile) (The Verge)
