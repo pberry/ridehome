@@ -1,5 +1,17 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, March 27 2019 - Microsoft Puts the Kibosh on April Fools' Jokes**
+
+  * [Turing Award Won by 3 Pioneers in Artificial Intelligence](https://www.nytimes.com/2019/03/27/technology/turing-award-ai.html) (NYTimes)
+  * [THE GODFATHERS OF THE AI BOOM WIN COMPUTING’S HIGHEST HONOR](https://www.wired.com/story/godfathers-ai-boom-win-computings-highest-honor/) (Wired)
+  * [Google Podcasts in-episode search is coming, shows now being fully transcribed](https://www.androidpolice.com/2019/03/26/google-podcasts-in-episode-search-is-coming-shows-now-being-fully-transcribed/) (Android Police)
+  * [Google makes emails more dynamic with AMP for Email](https://techcrunch.com/2019/03/26/google-makes-emails-more-dynamic-with-amp-for-email/) (TechCrunch)
+  * [Appl Still Hasn’t Fixd Its MacBook Kyboad Problm](https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/) (WSJ)
+  * [FTC announces inquiry into the privacy practices of broadband providers](https://www.theverge.com/2019/3/26/18282520/ftc-ajit-pai-tom-wheeler-fcc-att-verizon-tmobile) (The Verge)
+  * [NYPD's Big Artificial-Intelligence Reveal](https://www.governing.com/topics/public-justice-safety/gov-new-york-police-nypd-data-artificial-intelligence-patternizr.html) (Governing.com)
+  * [India says it has just shot down a satellite in space](https://www.technologyreview.com/the-download/613228/india-says-it-has-just-shot-down-a-satellite-in-space/) (MIT Technology Review)
+  * [Microsoft leads the way in banning April Fools’ Day pranks](https://www.theverge.com/2019/3/27/18283674/microsoft-april-fools-day-ban-pranks-internal-memo) (The Verge)
+
 **Tuesday, March 26 2019 - The EU's Copyright Directive Cometh**
 
   * [Europe’s controversial overhaul of online copyright receives final approval](https://www.theverge.com/2019/3/26/18280726/europe-copyright-directive) (The Verge)
