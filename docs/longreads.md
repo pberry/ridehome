@@ -1,5 +1,21 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, March 29**
+  * Podcast Suggestion: [RunAs Radio](https://itunes.apple.com/us/podcast/runas-radio/id253682066?mt=2)
+  * [The danger of 'I already pay for Apple News+'](https://techcrunch.com/2019/03/26/no-need-to-subscribe/) (TechCrunch)
+  * [ Europe is splitting the internet into three](https://www.theverge.com/2019/3/27/18283541/european-union-copyright-directive-internet-article-13) (The Verge)
+  * [ ‘A battle for the top of the funnel’: Pinterest’s long road to becoming a commerce platform](https://digiday.com/retail/battle-top-funnel-pinterests-long-road-becoming-commerce-platform/) (Digiday)
+  * [Forget Brexit and trade wars, Europe’s start-ups are thriving](https://www.ft.com/content/ed1c57a2-2ebf-11e9-80d2-7b637a9e1ba1) (Financial Times)
+  * [ The Enormous Numbers Behind Amazon’s Market Reach](https://www.bloomberg.com/graphics/2019-amazon-reach-across-markets/) (Bloomberg)
+  * [ The Elaborate, Dying Art of Hustling for Money at Dave & Buster's](https://www.vice.com/en_us/article/pan43y/the-elaborate-dying-art-of-hustling-for-money-at-dave-and-busters-arcades) (Vice)
+
+**Friday, March 22**
+  * [ Meet Silicon Valley's 'China whisperer](https://www.cnn.com/2019/03/19/success/connie-chan-china-whisperer-silicon-valley-vc/) (CNNBusiness)
+  * [ Inside Garageband, the Little App Ruling the Sound of Modern Music](https://www.rollingstone.com/music/music-features/apple-garageband-modern-music-784257/) (Rolling Stone)
+  * [Grab vs. Go-Jek: Inside Asia’s Battle of the 'Super Apps'](http://fortune.com/longform/grab-gojek-super-apps/) (Fortune)
+  * [ BETTER LIVING THROUGH CRISPR: GROWING HUMAN ORGANS IN PIGS](https://www.wired.com/story/belmonte-crispr-human-animal-hybrid-organs/) (Wired)
+  * [ A MORE HUMANE LIVESTOCK INDUSTRY, BROUGHT TO YOU BY CRISPR](https://www.wired.com/story/crispr-gene-editing-humane-livestock/) (Wired)
+
 **Friday, March 15**
   * [‘We Know Them. We Trust Them.’ Uber and Airbnb Alumni Fuel Tech’s Next Wave.](https://www.nytimes.com/2019/03/13/technology/silicon-valley-network-mafias.html) (NYTimes)
   * [DeepMind and Google: the battle to control artificial intelligence](https://www.1843magazine.com/features/deepmind-and-google-the-battle-to-control-artificial-intelligence) (1843)
