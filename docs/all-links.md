@@ -1,5 +1,21 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, March 29 2019 - We have Lyft-Off! (Sorry)**
+
+  * [ Lyft pops 20% in trading debut](https://www.cnbc.com/2019/03/29/lyft-ipo-stock-starts-trading-on-public-market.html) (CNBC)
+  * [In This Tech I.P.O. Wave, Big Investors Grab More of the Gains](https://www.nytimes.com/2019/03/28/business/startups-ipo.html) (NYTimes)
+  * [ Huawei tops $100 billion revenue for first time despite political headwinds](https://www.cnbc.com/2019/03/29/huawei-earnings-full-year-2018.html) (CNBC)
+  * [ The Next CEO of Stack Overflow](https://stackoverflow.blog/2019/03/28/the-next-ceo-of-stack-overflow/) (Stack Overflow Blog)
+  * [ Amazon’s Alexa for Business Blueprints lets employees make custom voice apps](https://venturebeat.com/2019/03/28/amazons-alexa-for-business-blueprints-lets-employees-make-custom-voice-apps/) (VentureBeat)
+
+**Thursday, March 28 2019 - Spotify Tests Subscriptions For Two**
+
+  * [ Facebook has been charged with housing discrimination by the US government](https://www.theverge.com/2019/3/28/18285178/facebook-hud-lawsuit-fair-housing-discrimination) (The Verge)
+  * [ Huawei Security ‘Defects’ Are Found by British Authorities](https://www.nytimes.com/2019/03/28/technology/huawei-security-british-report.html) (NYTimes)
+  * [ Spotify is testing Premium Duo, a discounted subscription for two](https://www.theverge.com/2019/3/28/18285116/spotify-premium-duo-mix-pilot-program-two-subscription-discount) (The Verge)
+  * [Microsoft sues to take control of domains involved in Iran hacking campaign](https://techcrunch.com/2019/03/27/microsoft-sues-phosphorus/) (TechCrunch)
+  * [The Business of Your Face](http://fortune.com/longform/facial-recognition/) (Fortune)
+  
 **Wednesday, March 27 2019 - Microsoft Puts the Kibosh on April Fools' Jokes**
 
   * [Turing Award Won by 3 Pioneers in Artificial Intelligence](https://www.nytimes.com/2019/03/27/technology/turing-award-ai.html) (NYTimes)
