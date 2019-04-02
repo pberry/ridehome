@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, April 01 2019 - Gmail Was the ONLY Good April Fools' Joke**
+
+  * [ Google launches Gmail message scheduling and expands Smart Compose to more devices and languages](https://venturebeat.com/2019/04/01/google-launches-gmail-message-scheduling-and-expands-smart-compose-to-more-devices-and-languages/) (VentureBeat) 
+  * [New Facebook tool answers the question 'Why am I seeing this post?'](https://techcrunch.com/2019/03/31/why-facebook/) (TechCrunch)
+  * [ The biggest winners of Lyft’s $24 billion IPO](https://qz.com/1583815/the-biggest-winners-from-lyfts-blockbuster-ipo/) (Quartz)
+  * [ The CEO behind 'Fortnite' says it's 'evolving beyond being a game' and explains the company's ambitious vision](https://www.businessinsider.com/epic-games-ceo-tim-sweeney-fortnite-unreal-engine-2019-3?op=1) (Business Insider)
+  * [ Mark Zuckerberg: The Internet needs new rules. Let’s start in these four areas.](https://www.washingtonpost.com/opinions/mark-zuckerberg-the-internet-needs-new-rules-lets-start-in-these-four-areas/2019/03/29/9e6f0504-521a-11e9-a3f7-78b7525a8d5f_story.html?utm_term=.581e40ead92f) (The Washington Post)
+  * [ Citizen Zuck: The making of Facebook's Mark Zuckerberg](https://www.cnet.com/news/citizen-zuck-the-making-of-facebook-mark-zuckerberg/) (CNET)
+  * [ Burger King begins selling the meatless Impossible Whopper](https://www.theverge.com/2019/4/1/18290336/burger-king-impossible-burger-st-louis-meat-free-meatless) (The Verge)
+
 **Friday, March 29 2019 - We have Lyft-Off! (Sorry)**
 
   * [ Lyft pops 20% in trading debut](https://www.cnbc.com/2019/03/29/lyft-ipo-stock-starts-trading-on-public-market.html) (CNBC)
