@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, April 02 2019 - YouTube's Turn In The Woodshed**
+
+  * [Bitcoin jumps 20 percent, mystery order seen as catalyst](https://www.reuters.com/article/us-crypto-currencies/bitcoin-soars-20-percent-mystery-buyer-seen-as-catalyst-idUSKCN1RE0JY) (Reuters)
+  * [April Fools: Traders Chase Another Unexplainable Bitcoin Rally](https://www.bloomberg.com/news/articles/2019-04-02/bitcoin-s-60-minute-surge-isn-t-changing-pros-outlook-yet?utm_medium=social&utm_campaign=socialflow-organic&utm_content=crypto&utm_source=twitter) (Bloomberg)
+  * [Report: ICOs Raised $118 Million in Q1 2019, Over 58 Times Less Than in Q1 2018](https://cointelegraph.com/news/report-icos-raised-118-million-in-q1-2019-over-58-times-less-than-in-q1-2018) (CoinTelegraph)
+  * [Walmart Unveils Voice-Activated, Google-Powered Grocery Shopping](https://www.bloomberg.com/news/articles/2019-04-02/walmart-unveils-voice-activated-google-powered-grocery-shopping) (Bloomberg)
+  * [Morning Lineup – “It’s Just a Fad”](https://www.bespokepremium.com/morning-lineup/morning-lineup-its-just-a-fad/) (Bespoke)
+  * [Andreessen Horowitz Is Blowing Up The Venture Capital Model (Again)](https://www.forbes.com/sites/alexkonrad/2019/04/02/andreessen-horowitz-is-blowing-up-the-venture-capital-model-again/#479a3aeb7d9f) (Forbes)
+  * [YouTube Executives Ignored Warnings, Letting Toxic Videos Run Rampant](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant) (Bloomberg)
+
 **Monday, April 01 2019 - Gmail Was the ONLY Good April Fools' Joke**
 
   * [ Google launches Gmail message scheduling and expands Smart Compose to more devices and languages](https://venturebeat.com/2019/04/01/google-launches-gmail-message-scheduling-and-expands-smart-compose-to-more-devices-and-languages/) (VentureBeat) 
