@@ -1,5 +1,20 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, April 03 2019 - Google's Credibility Problem When It Comes To Products Dying**
+
+  * [‘Beyond Sketchy’: Facebook Demanding Some New Users’ Email Passwords](https://www.thedailybeast.com/beyond-sketchy-facebook-demanding-some-new-users-email-passwords) (Daily Beast)
+  * [Facebook Is Just Casually Asking Some New Users for Their Email Passwords](https://gizmodo.com/facebook-is-just-casually-asking-some-new-users-for-the-1833764891) (Gizmodo)
+  * [Facebook will stop asking new users for their email passwords](https://www.axios.com/facebook-will-stop-asking-new-users-for-their-email-passwords--355c2e94-793f-47b7-a582-9ee0a4f01ae3.html) (Axios)
+  * [WhatsApp finally lets you prevent people from adding you to their shitty groups](https://thenextweb.com/apps/2019/04/03/whatsapp-finally-lets-you-prevent-people-from-adding-you-to-their-shitty-groups/) (TNW)
+  * [WhatsApp now lets you control who can add you to groups](https://www.theverge.com/2019/4/3/18293441/whatsapp-group-block-private-invitation-misinformation) (The Verge)
+  * [Justice Department Warns Academy Over Potential Oscar Rule Changes Threatening Netflix (EXCLUSIVE)](https://variety.com/2019/politics/news/doj-oscar-rules-changes-netflix-1203178413/) (Variety)
+  * [Media Companies Take a Big Gamble on Apple](https://www.nytimes.com/2019/04/02/business/media/media-companies-take-a-big-gamble-on-apple.html) (NYTimes)
+  * [Tweet Storm on Apple+ and The New Yorker](https://twitter.com/michaelluo/status/1110552622975631360?s=21) (@Michaelluo)
+  * [Google Duplex rolling out to non-Pixel, iOS devices in the US](https://9to5google.com/2019/04/03/google-duplex/) (9to5Google)
+  * [Google begins shutting down its failed Google+ social network](https://www.theverge.com/2019/4/2/18290637/google-plus-shutdown-consumer-personal-account-delete) (The Verge)
+  * [Google’s constant product shutdowns are damaging its brand](https://arstechnica.com/gadgets/2019/04/googles-constant-product-shutdowns-are-damaging-its-brand/) (ArsTechnica)
+  * [Wayve claims 'world first' in driving a car autonomously with only its AI and a SatNav](https://techcrunch.com/2019/04/03/wayve-claims-world-first-in-driving-a-car-autonomously-with-only-its-ai-and-a-satnav/) (TechCrunch)
+
 **Tuesday, April 02 2019 - YouTube's Turn In The Woodshed**
 
   * [Bitcoin jumps 20 percent, mystery order seen as catalyst](https://www.reuters.com/article/us-crypto-currencies/bitcoin-soars-20-percent-mystery-buyer-seen-as-catalyst-idUSKCN1RE0JY) (Reuters)
