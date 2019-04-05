@@ -1,5 +1,18 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, April 04 2019 - Amazon Joins The Internet Space Race**
+
+  * [Researchers find 540 million Facebook user records on exposed servers](https://techcrunch.com/2019/04/03/facebook-records-exposed-server/) (TechCrunch)
+  * [Inside Apple’s shaky plan to deliver a 5G iPhone in 2020 [Updated]](https://www.fastcompany.com/90329709/inside-apples-shaky-plan-to-deliver-a-5g-iphone-in-2020) (FastCompany)
+  * [MIT suspends ties with China's Huawei and ZTE](https://www.cnn.com/2019/04/04/tech/mit-huawei-zte/) (CNN Business)
+  * [Apple drops HomePod price down to $299](https://www.theverge.com/2019/4/4/18295084/apple-homepod-price-cut-299-smart-speaker) (TheVerge)
+  * [Google launches Android Q Beta 2 with multitasking Bubbles, foldables emulator, and zoomable microphones](https://venturebeat.com/2019/04/03/google-launches-android-q-beta-2-with-multitasking-bubbles-foldables-emulator-and-zoomable-microphones/) (VentureBeat)
+  * [Hundreds of thousands of ‘lost’ MySpace songs have been recovered](https://www.theverge.com/2019/4/4/18295014/myspace-lost-songs-dragon-project-tracks-web-archive-internet-archive-450000-recovery) (TheVerge)
+  * [Amazon to offer broadband access from orbit with 3,236-satellite ‘Project Kuiper’ constellation](https://www.geekwire.com/2019/amazon-project-kuiper-broadband-satellite/) (GeekWire)
+  * [Google’s brand-new AI ethics board is already falling apart](https://www.vox.com/future-perfect/2019/4/3/18292526/google-ai-ethics-board-letter-acquisti-kay-coles-james) (Vox)
+  * [THE PROBLEM WITH AI ETHICS](https://www.theverge.com/2019/4/3/18293410/ai-artificial-intelligence-ethics-boards-charters-problem-big-tech) (TheVerge)
+  * [Electric car battery with 600 miles of range? This startup claims to have done it](https://www.theverge.com/2019/4/4/18293989/innolith-ev-battery-breakthrough-lithium-ion) (TheVerge)
+
 **Wednesday, April 03 2019 - Google's Credibility Problem When It Comes To Products Dying**
 
   * [‘Beyond Sketchy’: Facebook Demanding Some New Users’ Email Passwords](https://www.thedailybeast.com/beyond-sketchy-facebook-demanding-some-new-users-email-passwords) (Daily Beast)
