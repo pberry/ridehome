@@ -1,5 +1,14 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, April 05 2019 - Alexa is Coming for AirPods**
+
+  * [ Exclusive: Google cancels AI ethics board in response to outcry](https://www.vox.com/future-perfect/2019/4/4/18295933/google-cancels-ai-ethics-board) (Vox)
+  * [ Amazon Is Making a Rival to Apple’s AirPods as Its First Alexa Wearable](https://www.bloomberg.com/news/articles/2019-04-04/amazon-is-said-to-ready-airpods-rival-as-first-alexa-wearable) (Bloomberg)
+  * [ Jeff Bezos, in divorce settlement, retains 75 percent of the Amazon stock he held with his now ex-wife MacKenzie](https://www.washingtonpost.com/technology/2019/04/04/jeff-bezos-divorce-settlement-retains-percent-amazon-stock-he-held-with-his-now-ex-wife-mackenzie/?utm_term=.5f3d829e7d38) (The Washington Post)
+  * [Snapchat launches Mario Party-style multiplayer games platform](https://techcrunch.com/2019/04/04/snap-games/) (TechCrunch)
+  * S[napchat launches Scan, its AR utility platform](https://techcrunch.com/2019/04/04/snapchat-scan-platform/) (TechCrunch)
+  * [Snapchat will power Stories & ads in other apps](https://techcrunch.com/2019/04/04/snapchat-ad-network/) (TechCrunch)
+
 **Thursday, April 04 2019 - Amazon Joins The Internet Space Race**
 
   * [Researchers find 540 million Facebook user records on exposed servers](https://techcrunch.com/2019/04/03/facebook-records-exposed-server/) (TechCrunch)
