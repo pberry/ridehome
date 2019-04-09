@@ -1,5 +1,15 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Monday, April 08 2019 - About Those iPhone Triple Camera Rumors...**
+
+  * [Pinterest sets IPO range at $15-17, valuing it at $10.6B vs previous valuation of $12.3B](https://techcrunch.com/2019/04/08/pinterest-ipo-range/) (TechCrunch)
+  * [iPhone rumors now claim two OLED models with triple-camera arrays for 2019](https://www.theverge.com/2019/4/8/18300202/iphone-11-2019-camera-rumors-specs-usb-c-fast-charging) (The Verge)
+  * [New report claims that the triple-camera iPhones in 2019 will feature 6.1-inch and 6.5-inch OLED screens, tweaked chassis thickness](https://9to5mac.com/2019/04/08/2019-iphone-two-oled-models/) (9to5Mac)
+  * [Netflix confirms it killed AirPlay support, won’t let you beam shows to Apple TVs anymore](https://www.theverge.com/2019/4/6/18298146/netflix-confirms-it-yanked-airplay-support-wont-let-you-beam-shows-to-apple-tvs-anymore) (The Verge)
+  * [‘CHANGE MY VIEW’ REDDIT COMMUNITY LAUNCHES ITS OWN WEBSITE](https://www.wired.com/story/change-my-view-gets-its-own-website/) (Wired)
+  * [To stop copycats, Snapchat shares itself](https://techcrunch.com/2019/04/07/rise-of-the-snapchat-empire/) (TechCrunch)
+  * [Microsoft launches first Chromium Edge builds for Windows 10](https://venturebeat.com/2019/04/08/microsoft-launches-first-chromium-edge-builds-for-windows-10/) (VentureBeat)
+
 **Friday, April 05 2019 - Alexa is Coming for AirPods**
 
   * [ Exclusive: Google cancels AI ethics board in response to outcry](https://www.vox.com/future-perfect/2019/4/4/18295933/google-cancels-ai-ethics-board) (Vox)
