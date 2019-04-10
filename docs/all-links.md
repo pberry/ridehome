@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Tuesday, April 09 2019 - Google Cloud Next Announcements**
+
+  * [Google Cloud announces 7 open source partners, Seoul and Salt Lake City regions](https://venturebeat.com/2019/04/09/google-cloud-announces-7-open-source-partners-seoul-and-salt-lake-city-regions/) (VentureBeat)
+  * [Google's hybrid cloud platform is coming to AWS and Azure](https://techcrunch.com/2019/04/09/googles-anthos-hybrid-cloud-platform-is-coming-to-aws-and-azure/) (TechCrunch)
+  * [Google announces Cloud Run for open and portable serverless compute](https://venturebeat.com/2019/04/09/google-announces-cloud-run-for-open-and-portable-serverless-compute/) (VentureBeat)
+  * [China, home to the world’s biggest cryptocurrency mining farms, now wants to ban them completely](https://www.scmp.com/tech/policy/article/3005334/china-home-worlds-biggest-cryptocurrency-mining-farms-now-wants-ban) (South China Morning Post)
+  * [To cut down on spam, Twitter cuts the number of accounts you can follow per day](https://techcrunch.com/2019/04/08/to-cut-down-on-spam-twitter-cuts-the-number-of-accounts-you-can-follow-per-day/) (TechCrunch)
+  * [The next front of the streaming wars is the battle for ad-supported programming](https://digiday.com/media/inside-race-scramble-ad-supported-ott/) (Digiday)
+  * [Roblox hits milestone of 90M monthly active users](https://techcrunch.com/2019/04/08/roblox-hits-milestone-of-90m-monthly-active-users/) (TechCrunch)
+  * [Why Are People Still Playing Google’s Halloween Ghost Game in April?](https://slate.com/culture/2019/04/google-doodle-halloween-ghost-game-still-good-april.html) (Slate)
+
 **Monday, April 08 2019 - About Those iPhone Triple Camera Rumors...**
 
   * [Pinterest sets IPO range at $15-17, valuing it at $10.6B vs previous valuation of $12.3B](https://techcrunch.com/2019/04/08/pinterest-ipo-range/) (TechCrunch)
