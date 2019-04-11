@@ -1,5 +1,20 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Wednesday, April 10 2019 - Day 2 of Google’s Cloud Next Conference**
+
+  * [Google Assistant now works with your G Suite work calendar](https://www.geekwire.com/2019/google-assistant-now-works-g-suite-work-calendar/) (GeekWire)
+  * [Google launches new security tools for G Suite users](https://techcrunch.com/2019/04/10/google-launches-new-security-tools-for-g-suite-users/) (TechCrunch)
+  * [Google launches an end-to-end AI platform](https://techcrunch.com/2019/04/10/google-expands-its-ai-services/) (TechCrunch)
+  * [Remove, Reduce, Inform: New Steps to Manage Problematic Content](https://newsroom.fb.com/news/2019/04/remove-reduce-inform-new-steps-http-newsroom-fb-com-news-2019-04-remove-reduce-inform-new-steps/) (Facebook Newsroom)
+  * [Exclusive: Uber plans to sell around $10 billion worth of stock in IPO - sources](https://www.reuters.com/article/us-uber-ipo-exclusive/exclusive-uber-plans-to-sell-around-10-billion-worth-of-stock-in-ipo-sources-idUSKCN1RM03L) (Reuters)
+  * [Slack Is Fetching High Prices in Private Stock Deals Ahead of Public Offering](https://www.bloomberg.com/news/articles/2019-04-09/slack-is-fetching-high-prices-in-private-stock-deals-ahead-of-public-offering) (Bloomberg)
+  * [Zoom is poised to be one of the most richly valued tech companies after it goes public](https://www.cnbc.com/2019/04/10/zoom-poised-to-join-most-richly-valued-tech-companies-after-ipo.html) (CNBC)
+  * [Next major macOS version will include standalone Music, Podcasts, and TV apps, Books app gets major redesign](https://9to5mac.com/2019/04/10/macos-10-15-itunes-standalone-apps/) (9to5Mac)
+  * [Walmart Is Rolling Out the Robots](https://www.wsj.com/articles/walmart-is-rolling-out-the-robots-11554782460) (WSJ)
+  * [Mysterious safety-tampering malware infects a second critical infrastructure site](https://arstechnica.com/information-technology/2019/04/mysterious-safety-tampering-malware-infects-a-2nd-critical-infrastructure-site/) (ArsTechnica)
+  * [Congress is about to ban the government from offering free online tax filing](https://arstechnica.com/tech-policy/2019/04/congress-is-about-to-ban-the-government-from-offering-free-online-tax-filing/) (ArsTechnica)
+  * [Falcon Heavy making only second flight, but it’s already changing the game](https://arstechnica.com/science/2019/04/falcon-heavy-making-only-second-flight-but-its-already-changing-the-game/) (ArsTechnica)
+
 **Tuesday, April 09 2019 - Google Cloud Next Announcements**
 
   * [Google Cloud announces 7 open source partners, Seoul and Salt Lake City regions](https://venturebeat.com/2019/04/09/google-cloud-announces-7-open-source-partners-seoul-and-salt-lake-city-regions/) (VentureBeat)
