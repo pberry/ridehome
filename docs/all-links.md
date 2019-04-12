@@ -1,5 +1,16 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Thursday, April 11 2019 - Alexa Snags Its Own "Scandal"**
+
+  * [Amazon Workers Are Listening to What You Tell Alexa](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) (Bloomberg)
+  * [Jeff Bezos challenges retail rivals to outdo Amazon’s $15 minimum wage](https://www.theverge.com/2019/4/11/18305891/amazon-minimum-wage-jeff-bezos-shareholder-letter-2019) (The Verge)
+  * [YouTube TV Hikes Price to $50 per Month for All Customers After Inking Discovery Deal](https://variety.com/2019/digital/news/youtube-tv-price-hike-50-dollars-discovery-1203185817/) (Variety)
+  * [PagerDuty pops more than 50% in debut as tech IPO market heats up](https://www.cnbc.com/2019/04/11/pagerduty-pops-more-than-50percent-in-debut-as-tech-ipo-market-heats-up.html) (CNBC)
+  * [Affectiva raises $26 million to bring emotional intelligence AI to car safety systems](https://venturebeat.com/2019/04/11/affectiva-raises-26-million-to-bring-emotional-intelligence-ai-to-car-safety-systems/) (VentureBeat)
+  * [Triplebyte raises $35M for its online coding test and credentialing service for hiring engineers](https://techcrunch.com/2019/04/11/triplebyte-raises-35m-for-its-online-coding-test-and-credentialing-service-for-hiring-engineers/) (TechCrunch)
+  * [Lemonade picks up $300 million Series D led by SoftBank Group](https://techcrunch.com/2019/04/11/lemonade-picks-up-300-million-series-d-led-by-softbank-group/) (TechCrunch)
+  * [That image of a black hole you saw everywhere? Thank this grad student for making it possible](https://www.cnn.com/2019/04/10/us/katie-bouman-mit-black-hole-algorithm-sci-trnd/) (CNN)
+
 **Wednesday, April 10 2019 - Day 2 of Google’s Cloud Next Conference**
 
   * [Google Assistant now works with your G Suite work calendar](https://www.geekwire.com/2019/google-assistant-now-works-g-suite-work-calendar/) (GeekWire)
