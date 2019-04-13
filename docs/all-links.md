@@ -1,5 +1,13 @@
 {% include_relative _includes/showlinks-header.md %}
 
+**Friday, April 12 2019 - Uber's IPO and Disney+ Deets**
+
+  * [Uber unveils IPO with warning it may never make a profit](https://www.reuters.com/article/us-uber-ipo/in-ipo-uber-reveals-91-million-users-but-slowing-growth-idUSKCN1RN2SK) (Reuters)
+  * [Alphabet Is Uber IPO’s Surprise Winner With Potential $5 Billion Stake](https://www.forbes.com/sites/jilliandonfro/2019/04/11/alphabet-is-uber-ipos-surprise-winner-with-potential-5-billion-stake/#37f36be03dda) (Forbes)
+  * [Uber’s Venture Investors Set for a Windfall](https://www.wsj.com/articles/ubers-venture-investors-set-for-a-windfall-11555032345) (WSJ)
+  * [Disney+ app and worldwide rollout plans revealed](https://www.engadget.com/2019/04/11/disney-plus/) (Engadget)
+  * [Disney+ streaming service will be available starting Nov. 12 for $6.99 a month](https://www.cnbc.com/2019/04/11/disney-plus-will-be-available-starting-november-12-for-6point99-a-month.html) (CNBC)
+  
 **Thursday, April 11 2019 - Alexa Snags Its Own "Scandal"**
 
   * [Amazon Workers Are Listening to What You Tell Alexa](https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio) (Bloomberg)
