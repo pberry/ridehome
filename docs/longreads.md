@@ -1,5 +1,22 @@
 {% include_relative _includes/longreads-header.md %}
 
+**Friday, April 12**
+  * [The basics of modern AI—how does it work and will it destroy society this year?](https://arstechnica.com/features/2019/04/from-ml-to-gan-to-hal-a-peak-behind-the-modern-artificial-intelligence-curtain/) (ArsTechnica)
+  * [FOXCONN IS CONFUSING THE HELL OUT OF WISCONSIN](https://www.theverge.com/2019/4/10/18296793/foxconn-wisconsin-location-factory-innovation-centers-technology-hub-no-news) (The Verge)
+  * [The man behind Huawei](https://www.latimes.com/projects/la-fi-tn-huawei-5g-trade-war/) (The Los Angeles Times)
+  * [The Improbable Rise of Huawei](https://foreignpolicy.com/2019/04/03/the-improbable-rise-of-huawei-5g-global-network-china/) (Foreign Policy)
+  * [Inside the Biotech Startup That Wants to Extend Your Life](https://onezero.medium.com/inside-the-biotech-startup-that-wants-to-extend-your-life-e007e62c8cb7) (OneZero)
+  * [VIDEO OF APPLE’S W.A.L.T. IN ACTION – THE 1993-EDITION IPHONE](https://sonnydickson.com/2019/04/09/video-of-apples-w-a-l-t-in-action-the-1993-edition-iphone/) (Sonny Dickson)
+
+**Friday, April 05**
+  * [ Talking Reckless (A Gaming Podcast)](https://itunes.apple.com/us/podcast/talking-reckless-a-gaming-podcast/id439155951?mt=2)
+  * [ Smart home, machine learning and discovery](https://www.ben-evans.com/benedictevans/2019/4/3/tu4vs2tioi24biufgot7agru2lgbkh) (Benedict Evans)
+  * [ 25 Years Later: Interview with Linus Torvalds](https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds) (Linux Journal)
+  * [ ‘They Thought It Was Black Magic’: An Oral History of TiVo](https://onezero.medium.com/they-thought-it-was-black-magic-an-oral-history-of-tivo-7503d0ada8e0) (OneZero)
+  * [ The World’s Greatest Delivery Empire](https://www.bloomberg.com/features/2019-meituan-china-delivery-empire/) (Bloomberg Businessweek)
+  * [ Old, Online, And Fed On Lies: How An Aging Population Will Reshape The Internet](https://www.buzzfeednews.com/article/craigsilverman/old-and-online-fake-news-aging-population) (Buzzfeed News)
+  * [ Astronomers set to make 'groundbreaking' black hole announcement](https://www.cnet.com/news/astronomers-set-to-make-groundbreaking-black-hole-announcement/) (CNET)
+
 **Friday, March 29**
   * Podcast Suggestion: [RunAs Radio](https://itunes.apple.com/us/podcast/runas-radio/id253682066?mt=2)
   * [The danger of 'I already pay for Apple News+'](https://techcrunch.com/2019/03/26/no-need-to-subscribe/) (TechCrunch)
