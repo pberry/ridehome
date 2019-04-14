@@ -1,5 +1,7 @@
 {% include_relative _includes/longreads-header.md %}
 
+_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
 **Friday, April 12**
   * [The basics of modern AI—how does it work and will it destroy society this year?](https://arstechnica.com/features/2019/04/from-ml-to-gan-to-hal-a-peak-behind-the-modern-artificial-intelligence-curtain/) (ArsTechnica)
   * [FOXCONN IS CONFUSING THE HELL OUT OF WISCONSIN](https://www.theverge.com/2019/4/10/18296793/foxconn-wisconsin-location-factory-innovation-centers-technology-hub-no-news) (The Verge)
