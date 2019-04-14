@@ -2,6 +2,8 @@
 
 **Friday, April 12 2019 - Uber's IPO and Disney+ Deets**
 
+_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
   * [Uber unveils IPO with warning it may never make a profit](https://www.reuters.com/article/us-uber-ipo/in-ipo-uber-reveals-91-million-users-but-slowing-growth-idUSKCN1RN2SK) (Reuters)
   * [Alphabet Is Uber IPO’s Surprise Winner With Potential $5 Billion Stake](https://www.forbes.com/sites/jilliandonfro/2019/04/11/alphabet-is-uber-ipos-surprise-winner-with-potential-5-billion-stake/#37f36be03dda) (Forbes)
   * [Uber’s Venture Investors Set for a Windfall](https://www.wsj.com/articles/ubers-venture-investors-set-for-a-windfall-11555032345) (WSJ)
