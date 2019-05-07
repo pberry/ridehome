@@ -2,6 +2,31 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 03**
+  * [The making of Amazon Prime, the internet’s most successful and devastating membership program](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping) (ReCode)
+  * [The search for the kryptonite that can stop CRISPR](https://www.technologyreview.com/s/613309/the-search-for-the-kryptonite-that-can-stop-crispr/) (MIT Technology Review)
+  * [The Most Valuable Company (for Now) Is Having a Nadellaissance](https://www.bloomberg.com/news/features/2019-05-02/satya-nadella-remade-microsoft-as-world-s-most-valuable-company?cmpid%3D=socialflow-twitter-tech) (Bloomberg Businessweek)
+  * [Software, the Tough Tomato Principle, and the Great Weirdening of the World](http://florentcrivello.com/index.php/2019/04/29/software-the-tough-tomato-principle-and-the-great-weirdening-of-the-world/) (Florent Crivello)
+  * [The productivity pit: how Slack is ruining work](https://www.vox.com/recode/2019/5/1/18511575/productivity-slack-google-microsoft-facebook) (ReCode)
+  * [Exclusive: The Saga Of 'Star Citizen,' A Video Game That Raised $300 Million—But May Never Be Ready To Play](https://www.forbes.com/sites/mattperez/2019/05/01/exclusive-the-saga-of-star-citizen-a-video-game-that-raised-300-millionbut-may-never-be-ready-to-play/#61e008885ac9) (Forbes)
+
+**Friday, April 26**
+  * [How Fortnite’s success led to months of intense crunch at Epic Games](https://www.polygon.com/2019/4/23/18507750/fortnite-work-crunch-epic-games) (Polygon)
+  * [Red Dead Redemption 2: six months later](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-review-rdr2-story-design-criticism) (Polygon)
+  * [WE’VE BEEN WARNED ABOUT AI AND MUSIC FOR OVER 50 YEARS, BUT NO ONE’S PREPARED](https://www.theverge.com/2019/4/17/18299563/ai-algorithm-music-law-copyright-human) (TheVerge)
+  * [How the Kleiner Perkins Empire Fell](http://fortune.com/longform/kleiner-perkins-vc-fall/) (Fortune)
+  * [These home security startups aren’t afraid of Amazon and Google](https://www.fastcompany.com/90337606/how-smart-home-security-companies-plan-to-survive-amazon-and-google) (Fast Company)
+  * [Amazon Has Gone From Neutral Platform to Cutthroat Competitor, Say Open Source Developers](https://onezero.medium.com/open-source-betrayed-industry-leaders-accuse-amazon-of-playing-a-rigged-game-with-aws-67177bc748b7) (OneZero)
+  * [I Sell Onions on the Internet](https://www.deepsouthventures.com/i-sell-onions-on-the-internet/) (Deep South Ventures)
+
+**Friday, April 19**
+  * [ Google Maps Is Ready to Transform the World of Superapps: A Skift Deep Dive](https://skift.com/2019/04/16/google-maps-is-ready-to-transform-the-world-of-superapps-a-skift-deep-dive/) (Skift)
+  * [ These Women Are Only On Facebook For The Groups](https://www.buzzfeednews.com/article/annehelenpetersen/facebook-private-groups-online-abuse) (BuzzFeed News)
+  * [ Beyond Prime: Inside the Race to Deliver Shipments to the Moon](https://onezero.medium.com/beyond-prime-inside-the-race-to-deliver-packages-to-the-moon-72fe6cb79a2d) (OneZero)
+  * [ Robo-Rigs: The Scientist, The Unicorn And The $700 Billion Race To Create Self-Driving Semi-Trucks](https://www.forbes.com/sites/alanohnsman/2019/04/17/robo-rigs-a-scientist-with-the-vision-to-turn-self-driving-semis-into-big-business/#2896edfb1af4) (Forbes)
+  * [ The Coming Obsolescence of Animal Meat](https://www.theatlantic.com/health/archive/2019/04/just-finless-foods-lab-grown-meat/587227/?utm_source=feed) (The Atlantic)
+  * [ Russian Gamer Brothers Are the Newest Hidden Billionaires](https://www.bloomberg.com/news/articles/2019-04-17/billionaire-brothers-crushing-it-with-gaming-powerhouse-playrix) (Bloomberg)
+
 **Friday, April 12**
   * [The basics of modern AI—how does it work and will it destroy society this year?](https://arstechnica.com/features/2019/04/from-ml-to-gan-to-hal-a-peak-behind-the-modern-artificial-intelligence-curtain/) (ArsTechnica)
   * [FOXCONN IS CONFUSING THE HELL OUT OF WISCONSIN](https://www.theverge.com/2019/4/10/18296793/foxconn-wisconsin-location-factory-innovation-centers-technology-hub-no-news) (The Verge)
