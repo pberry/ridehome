@@ -2,6 +2,67 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, June 21**
+  * [THEY WELCOMED A ROBOT INTO THEIR FAMILY, NOW THEY’RE MOURNING ITS DEATH](https://www.theverge.com/2019/6/19/18682780/jibo-death-server-update-social-robot-mourning) (The Verge)
+  * [Apple, Google, and Facebook Are Raiding Animal Research Labs](https://www.bloomberg.com/news/features/2019-06-18/apple-google-and-facebook-are-raiding-animal-research-labs) (Bloomberg Businessweek)
+  * [How Much of Google’s Search Traffic is Left for Anyone But Themselves?](https://sparktoro.com/blog/how-much-of-googles-search-traffic-is-left-for-anyone-but-themselves/) (SparkToro)
+  * [Don’t Know Which Toaster to Buy? There’s a Website for That.](https://www.theringer.com/tech/2019/6/13/18663462/wirecutter-strategist-recommendation-sites-amazon-reviews) (The Ringer)
+  * [Using CRISPR to resurrect the dead](https://www.cnet.com/features/using-crispr-to-resurrect-the-dead/?curator=TechREDEF) (CNet)
+  * [The fake French minister in a silicone mask who stole millions](https://www.bbc.com/news/world-europe-48510027) (BBC News)
+
+**Friday, June 14**
+  * [The restaurant owner who asked for 1-star Yelp reviews](https://thehustle.co/botto-bistro-1-star-yelp/) (The Hustle)
+  * [EverQuest’s long, strange 20-year trip still has no end in sight](https://arstechnica.com/gaming/2019/06/everquests-long-strange-20-year-trip-still-has-no-end-in-sight/) (Ars Technica)
+  * [The story of the first E3](https://www.polygon.com/platform/amp/features/2019/6/7/18653968/e3-history-1995-sega-saturn-nintendo-64-playstation-launch?__twitter_impression=true) (Polygon)
+  * [THE NEWEST HAVEN FOR CRYPTOCURRENCY COMPANIES? WYOMING](https://www.wired.com/story/newest-haven-cryptocurrency-companies-wyoming/) (Wired)
+  * [Comcast CEO’s Son Wants to Turn Philly Into an E-Sports Town](https://www.bloomberg.com/news/features/2019-06-11/comcast-scion-tucker-roberts-leads-the-company-into-e-sports?cid=eml_dbm_20190612&utm_source=Sailthru&utm_medium=email&utm_campaign=BYERS%20MARKET%202019.06.12&utm_term=Byers%20Market) (Bloomberg BusinessWeek)
+  * [Beyond the PC: Lenovo's ambitious plan for the future of computing](https://www.zdnet.com/article/beyond-the-pc-lenovos-big-plan-for-the-future-of-computing/) (ZDNet)
+
+**Friday, June 07**
+  * [ New Evidence Suggests Satoshi Nakamoto Is Paul Solotshi, The Creator Of Encryption Software E4M And TrueCrypt](https://www.investinblockchain.com/new-evidence-suggests-satoshi-nakamoto-is-paul-solotshi-the-creator-of-encryption-software-e4m-and-truecrypt/) (InvestInBlockchain.com)
+  * [ The Stanford connections behind Latin America's multibillion-dollar startup renaissance](https://techcrunch.com/2019/06/05/stanford-latin-america-startup-renaissance/) (TechCrunch)
+  * [ When Grown-Ups Get Caught in Teens’ AirDrop Crossfire](https://www.theatlantic.com/technology/archive/2019/06/why-teens-try-airdrop-you-memes-concerts/591064/) (The Atlantic)
+  * [ Buildings Can Be Designed to Withstand Earthquakes. Why Doesn’t the U.S. Build More of Them?](https://www.nytimes.com/interactive/2019/06/03/us/earthquake-preparedness-usa-japan.html) (NYTimes)
+  * [ The Big Challenge for Policy Makers: Policing American Tech Giants](https://www.wsj.com/articles/the-big-challenge-for-policy-makers-policing-american-tech-giants-11559559967) (WSJ)
+  * [ Not Your Daddy’s Regulation: Tech Giants Face A Complicated Reckoning In Washington](https://www.buzzfeednews.com/article/alexkantrowitz/not-your-daddys-regulation-tech-giants-face-a-complicated) (BuzzFeed.news)
+  * [ The Day When Computers Can Break All Encryption Is Coming](https://www.wsj.com/articles/the-race-to-save-encryption-11559646737) (WSJ)
+
+**Friday, May 31**
+  * [ Product Breakfast Club](https://podcasts.apple.com/us/podcast/the-product-breakfast-club/id1320916842) podcast
+  * [The unlikely origins of USB, the port that changed everything](https://www.fastcompany.com/3060705/an-oral-history-of-the-usb) (Fast Company)
+  * [ Bing turns 10: Why it’s been more disruptive than you think](https://searchengineland.com/bing-turns-10-why-its-been-more-disruptive-than-you-think-317510) (Search Engine Land)
+  * [ The Collapsing Crime Rates of the ’90s Might Have Been Driven by Cellphones](https://www.theatlantic.com/technology/archive/2019/05/how-mobile-phones-could-have-changed-the-drug-game/590503/) (The Atlantic)
+  * [ This ID Scanner Company is Collecting Sensitive Data on Millions of Bargoers](https://onezero.medium.com/id-at-the-door-meet-the-security-company-building-an-international-database-of-banned-bar-patrons-7c6d4b236fc3) (OneZero)
+  * [AT&T Has Become a New Kind of Media Giant](http://fortune.com/longform/att-media-company/) (Fortune)
+  * [ The case for caseless iPhones](https://www.vox.com/the-goods/2019/5/30/18644637/iphone-no-case-caseless-design) (Vox)
+  * [ Disney’s Star Wars: Galaxy’s Edge theme park lands, explained](https://www.polygon.com/2019/3/1/18229956/star-wars-galaxy-edge-disneyland-disney-world) (Polygon)
+
+**Friday, May 24**
+  * [Special report - Hobbling Huawei: Inside the U.S. war on China's tech giant](https://mobile.reuters.com/article/amp/idUSKCN1SR1EU?__twitter_impression=true) (Reuters)
+  * [WeWork Wants to Become Its Own Landlord With Latest Spending Spree](https://www.bloomberg.com/news/features/2019-05-15/wework-wants-to-be-its-own-landlord-it-also-wants-2-8-billion) (Bloomberg BusinessWeek)
+  * [How Silicon Valley gamed Europe’s privacy rules](https://www.politico.eu/article/europe-data-protection-gdpr-general-data-protection-regulation-facebook-google/) (Politico)
+  * [AFTER 15 YEARS, THE PIRATE BAY STILL CAN’T BE KILLED](https://melmagazine.com/en-us/story/after-15-years-the-pirate-bay-still-cant-be-killed) (Mel)
+  * [One Inventor’s Race to Manage His Parkinson’s Disease With an App](https://onezero.medium.com/one-inventors-race-to-treat-parkinson-s-with-an-app-f2bf197ee70) (OneZero)
+  * [Business Bets on a Quantum Leap](http://fortune.com/longform/business-quantum-computing/) (Fortune)
+  * [Can AI escape our control and destroy us?](https://www.popsci.com/can-ai-destroy-humanity) (Popular Science)
+  * [The Dark Forest Theory of the Internet](https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1) (OneZero)
+  * [A Revolution In Your Pocket](https://rbs.io/2019/05/a-revolution-in-your-pocket/) (RBS.io)
+
+**Friday, May 17**
+  * [How the Promise of a $120 Billion Uber I.P.O. Evaporated](https://www.nytimes.com/2019/05/15/technology/uber-ipo-price.html?smid=nytcore-ios-share) (NYTimes)
+  * [WHY I (STILL) LOVE TECH: IN DEFENSE OF A DIFFICULT INDUSTRY](https://www.wired.com/story/why-we-love-tech-defense-difficult-industry/) (Wired)
+  * [Editorial: Why Apple created Apple TV+ rather than buying Netflix](https://appleinsider.com/articles/19/05/15/editorial-why-apple-created-apple-tv-rather-than-buying-netflix) (AppleInsider)
+  * [The Pivot](http://www.asymco.com/2019/05/16/the-pivot/) (Asymco/Horace Dediu)
+  * [AS COMMERCIAL SPACEFLIGHT TAKES OFF, THE AVIATION INDUSTRY GETS PROTECTIVE OF AIRSPACE](https://www.theverge.com/2019/5/16/18535813/commercial-spaceflight-federation-aviation-falcon-heavy-airspace-faa-traffic) (The Verge)
+  * T[he Fusion Reactor Next Door](https://www.nytimes.com/2019/05/13/business/fusion-energy-climate-change.html) (NYTimes)
+
+**Friday, May 10**
+  * [ How Much Is an Idea Worth? In Uber’s Case, $3.7 Billion](https://www.bloomberg.com/news/features/2019-05-09/uber-co-founder-garrett-camp-had-an-idea-it-s-now-3-7-billion) (Bloomberg)
+  * [ The VC Who Engineered the 2017 Uber CEO Coup Just Got Very Rich](https://www.bloomberg.com/news/articles/2019-05-10/the-vc-who-engineered-the-2017-uber-ceo-coup-just-got-very-rich) (Bloomberg)
+  * [ The dangers of in-game data collection](https://www.polygon.com/platform/amp/features/2019/5/9/18522937/video-game-privacy-player-data-collection) (Polygon)
+  * [How Unions Are Pushing Back Against the Rise of Workplace Technology](http://fortune.com/longform/unions-workplace-technology/) (Fortune)
+  * [ Three years in, Google’s hardware honcho is just getting started](https://www.fastcompany.com/90343434/three-years-in-googles-hardware-honcho-is-just-getting-started) (FastCompany)
+
 **Friday, May 03**
   * [The making of Amazon Prime, the internet’s most successful and devastating membership program](https://www.vox.com/recode/2019/5/3/18511544/amazon-prime-oral-history-jeff-bezos-one-day-shipping) (ReCode)
   * [The search for the kryptonite that can stop CRISPR](https://www.technologyreview.com/s/613309/the-search-for-the-kryptonite-that-can-stop-crispr/) (MIT Technology Review)
