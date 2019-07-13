@@ -1,6 +1,29 @@
 {% include_relative _includes/longreads-header.md %}
 
-_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+_This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
+**Friday, July 12**
+  * [The man who’s going to save your neighborhood grocery store](https://newfoodeconomy.org/how-grocers-survive-the-amazon-era/) (The New Food Economy)
+  * [ Disney Won. Now What?](https://www.buzzfeednews.com/article/adambvary/disney-hollywood-20th-century-fox-marvel-outlook) (BuzzFeed News)
+  * [ You’re Hired. Now Wear This Headset to Learn the Job.](https://www.nytimes.com/2019/07/10/business/microsoft-hololens-job-training.html) (NYTimes)
+  * [ New Coke Didn’t Fail. It Was Murdered.](https://www.motherjones.com/food/2019/07/what-if-weve-all-been-wrong-about-what-killed-new-coke/) (Mother Jones)
+  * [ ROAD-TRIPPING WITH THE AMAZON NOMADS](https://www.theverge.com/2019/7/10/20687434/amazon-sellers-nomad-merchants-products-malls-walmart) (The Verge)
+
+**Friday, July 05**
+  * [The Real Cloud Wars: The $6 Billion Battle Over The Future Of Weather Forecasting](https://www.forbes.com/sites/susanadams/2019/06/24/the-real-cloud-wars-the-6-billion-battle-over-the-future-of-weather-forecasting/?utm_source=TWITTER&utm_medium=social&utm_content=2422581895&utm_campaign=sprinklrForbesMainTwitter#69b536dd298f) (Forbes)
+  * [Catalyst deep dive: The future of Mac software according to Apple and devs](https://arstechnica.com/gadgets/2019/07/catalyst-deep-dive-the-future-of-mac-software-according-to-apple-and-devs/) (Ars Technica)
+  * [Android Q(&A): Android Engineers take us on a deep dive of Android Q](https://arstechnica.com/gadgets/2019/07/android-qa-android-engineers-take-us-on-a-deep-dive-of-android-q/) (Ars Technica)
+  * [How To Game Google To Make Negative Results Disappear](https://www.polygon.com/features/2019/7/2/18651880/the-time-i-tried-to-ruin-halo-2-user-research) (BuzzFeed News)
+  * [Hayflick limit](https://qz.com/emails/quartz-obsession/1654208/) (QZ)
+
+**Friday, June 28**
+  * [Meet the A.I. Landlord That’s Building a Single-Family-Home Empire](http://fortune.com/longform/single-family-home-ai-algorithms/) (Fortune)
+  * [Memes Are the New Pop Stars: How TikTok Became the Future of the Music Industry](https://www.theringer.com/tech/2019/6/27/18760004/tiktok-old-town-road-memes-music-industry) (The Ringer)
+  * [New Emails, Old Tech](https://tedium.co/2019/06/25/html-email-limitations-design/?fbclid=IwAR3Dnsbjl6f04JBV45a7kITTww2p5EuTWydRdtRa3mudUSJ9TCBSJux9Cm0#.XRPMUWfLzdw.twitter) (Tedium)
+  * [How the Seattle Seahawks use data to win — on and off the field](https://www.geekwire.com/2019/seattle-seahawks-use-data-win-off-field/) (GeekWire)
+  * [How One VC Firm Amassed a 24% Stake in Slack Worth $4.6 Billion](https://www.bloomberg.com/news/articles/2019-06-21/investing-in-slack-work-made-billions-for-vc-firm-accel) (Bloomberg)
+  * [How Art Arrived at Jackson Pollock](https://kottke.org/19/06/how-art-arrived-at-jackson-pollock) (Kottke.org)
+
 
 **Friday, June 21**
   * [THEY WELCOMED A ROBOT INTO THEIR FAMILY, NOW THEY’RE MOURNING ITS DEATH](https://www.theverge.com/2019/6/19/18682780/jibo-death-server-update-social-robot-mourning) (The Verge)
