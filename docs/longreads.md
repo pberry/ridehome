@@ -2,6 +2,44 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, August 09**
+  * [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news) (The New Yorker)
+  * [I Tried Hiding From Silicon Valley in a Pile of Privacy Gadgets](https://www.bloomberg.com/news/features/2019-08-08/i-tried-hiding-from-silicon-valley-in-a-pile-of-privacy-gadgets) (Bloomberg Businessweek)
+  * [How Globalization Broke Gateway, the Cow Computer Company](https://www.vice.com/en_us/article/a35wqg/how-globalization-broke-gateway-the-cow-computer-company?utm_source=vicetwitterus) (Motherboard)
+  * [Python is eating the world: How one developer's side project became the hottest programming language on the planet](https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/) (ZDNet)
+  * [With warshipping, hackers ship their exploits directly to their target's mail room](https://techcrunch.com/2019/08/06/warshipping-hackers-ship-exploits-mail-room/) (TechCrunch)
+  * [Scientists Are Stuck on the Mystery of Tape ](https://gizmodo.com/scientists-are-stuck-on-the-mystery-of-tape-1835074649)(Engadget)
+
+**Friday, August 02**
+  *  [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/) S (Wired)
+  *  [Your Next iPhone Might Be Made in Vietnam. Thank the Trade War.](https://www.nytimes.com/2019/07/30/technology/trump-trade-war-vietnam.html)  (NYTimes)
+  *  [Late Night Dispatch: Tuca & Bertie versus The Algorithm](https://medium.com/@julia.alexander/late-night-dispatch-tuca-bertie-versus-the-algorithm-36404af91bf7)  (Julia Alexander)
+  *  [Where Everyone’s an Influencer](https://www.theatlantic.com/technology/archive/2019/07/where-everyones-an-influencer/595213/)  (The Atlantic)
+  *  [America’s DIY Phone Farmers](https://www.vice.com/en_us/article/d3naek/how-to-make-a-phone-farm)  (Motherboard)
+  *  [What Happens When the World’s Population Stops Growing?](https://www.theatlantic.com/family/archive/2019/07/world-population-stop-growing/595165/)  (The Atlantic)
+
+**Friday, August 02**
+  * [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/)S (Wired)
+  * [Your Next iPhone Might Be Made in Vietnam. Thank the Trade War.](https://www.nytimes.com/2019/07/30/technology/trump-trade-war-vietnam.html) (NYTimes)
+  * [Late Night Dispatch: Tuca & Bertie versus The Algorithm](https://medium.com/@julia.alexander/late-night-dispatch-tuca-bertie-versus-the-algorithm-36404af91bf7) (Julia Alexander)
+  * [Where Everyone’s an Influencer](https://www.theatlantic.com/technology/archive/2019/07/where-everyones-an-influencer/595213/) (The Atlantic)
+  * [America’s DIY Phone Farmers](https://www.vice.com/en_us/article/d3naek/how-to-make-a-phone-farm) (Motherboard)
+  * [What Happens When the World’s Population Stops Growing?](https://www.theatlantic.com/family/archive/2019/07/world-population-stop-growing/595165/) (The Atlantic)
+
+**Friday, July 26**
+  * [How Google Photos joined the billion-user club](https://www.fastcompany.com/90380618/how-google-photos-joined-the-billion-user-club) (Fast Company)
+  * [The Man Who Built The Retweet: “We Handed A Loaded Weapon To 4-Year-Olds”](https://www.buzzfeednews.com/article/alexkantrowitz/how-the-retweet-ruined-the-internet) (BuzzFeed News)
+  * [What is Microsoft doing with Cortana?](https://www.theverge.com/2019/7/25/20727129/microsoft-cortana-features-strategy-report) (The Verge)
+  * [The Hidden Costs of Automated Thinking](https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking?reload=true) (The New Yorker)
+  * [The Onion’s Guide To TikTok](https://www.theonion.com/the-onion-s-guide-to-tiktok-1836725844?utm_content=Main&utm_medium=SocialMarketing&utm_campaign=SF&utm_source=Twitter) (The Onion)
+
+**Friday, July 19**
+  * [50 Days to the Moon](https://www.fastcompany.com/section/50-days-to-the-moon) (Fast Company)
+  * [Is It Okay to Laugh at Florida Man?](https://www.washingtonpost.com/news/magazine/wp/2019/07/15/feature/is-it-okay-to-laugh-at-florida-man-2/?utm_term=.07986335a237) (Washington Post)
+  * [TikTok Stars Are Preparing to Take Over the Internet](https://www.theatlantic.com/technology/archive/2019/07/tiktok-stars-are-preparing-take-over-internet/593878/) (The Atlantic)
+  * [Grindr Wanted To Make The World Better For Queer People. Then A Chinese Gaming Company Bought It.](https://www.buzzfeednews.com/article/ryanmac/grindr-chinese-owner-company-chaos) (Buzzfeed)
+  * [Andy Ngo Has The Newest New Media Career. It’s Made Him A Victim And A Star](https://www.buzzfeednews.com/article/josephbernstein/andy-ngo-portland-antifa) (Buzzfeed)
+
 **Friday, July 12**
   * [The man who’s going to save your neighborhood grocery store](https://newfoodeconomy.org/how-grocers-survive-the-amazon-era/) (The New Food Economy)
   * [ Disney Won. Now What?](https://www.buzzfeednews.com/article/adambvary/disney-hollywood-20th-century-fox-marvel-outlook) (BuzzFeed News)
