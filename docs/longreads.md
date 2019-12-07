@@ -2,6 +2,161 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, December 06**
+  * [How Ring Went From ‘Shark Tank’ Reject to America’s Scariest Surveillance Company](https://www.vice.com/en_us/article/zmjp53/how-ring-went-from-shark-tank-reject-to-americas-scariest-surveillance-company) (Motherboard)
+  * [Inside VSCO, a Gen Z-approved photo-sharing app, with CEO Joel Flory](https://techcrunch.com/2019/12/05/inside-vsco-a-gen-z-approved-photo-sharing-app-with-ceo-joel-flory/) (TechCrunch)
+  * [Commentary: Andy Jassy aims to reinvent Amazon Web Services for the cloud’s next generation](https://siliconangle.com/2019/12/01/commentary-andy-jassy-aims-reinvent-amazon-web-services-clouds-next-generation/) (Silicon Angle)
+  * [Why Silicon Valley Investors Are Bonkers For European Startups](https://www.forbes.com/sites/alexkonrad/2019/12/02/inside-silicon-valleys-european-startup-rush/#15c2950e46f8) (Forbes)
+  * [A decade of hacking: The most notable cyber-security events of the 2010s](https://www.zdnet.com/article/a-decade-of-hacking-the-most-notable-cyber-security-events-of-the-2010s/) (ZDNet)
+  * [HOW SONY BOUGHT, AND SQUANDERED, THE FUTURE OF GAMING](https://www.theverge.com/2019/12/5/20993828/sony-playstation-now-cloud-gaming-gaikai-onlive-google-stadia-25th-anniversary) (The Verge)
+  * [The difference between Windows Notepad and WordPad, and when to use each](https://www.windowscentral.com/notepad-vs-wordpad-and-when-use-them) (Windows Central)
+  * [Why ‘The Mandalorian’ cites Fortnite dev Epic Games in its credits](https://venturebeat.com/2019/11/19/why-the-mandalorian-cites-fortnite-dev-epic-games-in-its-credits/?utm_source=Benedict%27s+Newsletter&utm_campaign=195a3086db-Benedict%27s+Newsletter+315&utm_medium=email&utm_term=0_4999ca107f-195a3086db-70713529&mc_cid=195a3086db&mc_eid=9b9a04f35a) (VentureBeat)
+  * [Unintended Perk of the Online Mattress Boom: Never-Ending Free](https://www.wsj.com/articles/unintended-perk-of-the-online-mattress-boom-never-ending-free-trials-11575474415) (WSJ)
+
+
+**Friday, November 22**
+
+
+
+**Friday, November 22**
+  * [How our home delivery habit reshaped the world](https://www.theguardian.com/technology/2019/nov/21/how-our-home-delivery-habit-reshaped-the-world) (The Guardian)
+  * [The Architect of Modern Algorithms](https://www.quantamagazine.org/barbara-liskov-is-the-architect-of-modern-algorithms-20191120/) (Quanta Magazine)
+  * [Spotify’s Daniel Ek Has a Plan to Harness Hollywood for Podcasts and Create "the World’s No. 1 Audio Platform"](https://www.hollywoodreporter.com/features/spotify-aims-become-worlds-no-1-audio-platform-1256162) (The Hollywood Reporter)
+  * [Inside the Most Watched YouTube Channel in the World](https://www.bloomberg.com/news/features/2019-11-14/how-t-series-beat-pewdiepie-to-be-world-s-biggest-youtube-channel) (Bloomberg Businessweek)
+  * [Global Protests Reveal Bitcoin’s Limitations](https://www.coindesk.com/global-protests-reveal-bitcoins-limitations) (CoinDesk)
+  * [Robert De Niro and Al Pacino: A Big, Beautiful 50-Year Friendship](https://www.gq.com/story/al-pacino-and-robert-deniro-godfathers-of-the-year-2019) (GQ)
+
+
+**Friday, November 15**
+  * [WeFail: How the doomed Masa Son-Adam Neumann relationship set WeWork on the road to disaster](https://www.fastcompany.com/90426446/wefail-how-the-doomed-masa-son-adam-neumann-relationship-set-wework-on-the-road-to-disaster) (Fast Company)
+  * [How VCs Make Money](https://vcstarterkit.substack.com/p/how-vcs-make-money) (VCStarterKit)
+  * [Superhero or Supervillain? Technology’s Role Changes Comic Books](https://www.nytimes.com/2019/11/13/arts/comic-books-computers-dc-marvel.html) (NYTimes)
+  * [AN ORAL HISTORY OF LIMEWIRE: THE LITTLE APP THAT CHANGED THE MUSIC INDUSTRY FOREVER](https://melmagazine.com/en-us/story/an-oral-history-of-limewire-the-little-app-that-changed-the-music-industry-forever) (MelMagazine)
+  * [As L.A. ports automate, some workers are cheering on the robots](https://www.latimes.com/business/story/2019-11-07/port-automation-dockworkers-vs-truckers) (LATimes)
+  * [Managing Your Friendships, With Software](https://www.theatlantic.com/technology/archive/2019/11/personal-crm-software-uphabit-dex-google-spreadsheets/601531/) (The Atlantic)
+  * [From Instagram to Candy Crush: These are the most important apps of the decade](https://www.cnet.com/news/instagram-to-candy-crush-these-are-the-most-important-apps-of-the-decade/#ftag=CAD-01-10aai3d) (CNET)
+
+
+**Friday, November 08**
+
+
+**Friday, November 08**
+  * [Pessimists Archive Podcast](https://podcasts.apple.com/us/podcast/pessimists-archive-podcast/id1104682320)
+  * [The new dot com bubble is here: it’s called online advertising](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) (The Correspondent)
+  * [THE BIG BITCOIN HEIST](https://www.vanityfair.com/news/2019/11/the-big-bitcoin-heist) (Vanity Fair)
+  * [We are living in Hideo Kojima’s dystopian nightmare. Can he save us?](https://www.washingtonpost.com/video-games/2019/11/08/we-are-living-hideo-kojimas-dystopian-nightmare-can-he-save-us/) (Washington Post)
+  * [A critical analysis of scroll bars throughout history](https://www.theverge.com/2019/11/1/20943552/scroll-bar-visual-history-30-years) (The Verge)
+  * [The Making of the World’s Greatest Investor](https://www.wsj.com/articles/the-making-of-the-worlds-greatest-investor-11572667202) (WSJ)
+  * [How Cheap Robots Are Transforming Ocean Exploration](https://www.outsideonline.com/2404654/ocean-exploration-research-drones) (Outside)
+
+
+**Friday, November 01**
+
+
+**Friday, November 01**
+  * [50 years ago today, the internet was born in Room 3420](https://www.fastcompany.com/90423457/50-years-ago-today-the-internet-was-born-in-room-3420) (Fast Company)
+  * [Talking with former Facebook security chief Alex Stamos](https://galley.cjr.org/public/conversations/-LsHiyaqX4DpgKDqf9Mj) (CJR)
+  * [Everything is Amazing, But Nothing is Ours](https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/) (AlexDanco.com)
+  * [The Gross Margin Problem: Lessons for Tech-Enabled Startups](https://medium.com/craft-ventures/the-gross-margin-problem-lessons-for-tech-enabled-startups-e2aefab8a0d4) (Craft)
+  * [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois) (ProPublica)
+
+
+**Friday, October 25**
+
+
+
+**Friday, October 25**
+  * [The 2010s Broke Our Sense Of Time](https://www.buzzfeednews.com/article/katherinemiller/the-2010s-have-broken-our-sense-of-time) (Buzzfeed)
+  * [Inside R/Relationships, the Unbearably Human Corner of Reddit](https://www.theatlantic.com/technology/archive/2019/10/reddit-moderation-relationships-subreddit-memes/600322/) (The Atlantic)
+  * [He revolutionized how millions of people spend money in India. His next target: America](https://edition.cnn.com/2019/10/23/business/paytm-vijay-shekhar-sharma-risk-takers/) (CNN Business)
+  * [Now the Machines Are Learning How to Smell](https://www.wired.com/story/now-machines-learning-smell/) (Wired)
+  * [Pentagon, With an Eye on China, Pushes for Help From American Tech](https://www.nytimes.com/2019/10/25/technology/pentagon-taiwan-tsmc-chipmaker.html) (NYTimes)
+  * [Google CEO Sundar Pichai on achieving quantum supremacy](https://www.technologyreview.com/s/614608/google-ceo-quantum-supremacy-interview-with-sundar-pichai/) (MIT Technology Review)
+  * [How Do You Like We Now](https://www.bloomberg.com/opinion/articles/2019-10-23/how-do-you-like-we-now) (Bloomberg Opinion)
+
+
+**Friday, October 18**
+  * [The Apple, iPhone 11, 11 Pro & 11 Pro Max Review](https://www.anandtech.com/show/14892/the-apple-iphone-11-pro-and-max-review) (AnAndTech)
+  * [The Creators Of Pokémon Go Mapped The World. Now They're Mapping You](https://kotaku.com/the-creators-of-pokemon-go-mapped-the-world-now-theyre-1838974714) (Kotaku)
+  * [The Young Firms Rethinking Social Media](https://www.theinformation.com/articles/the-young-firms-rethinking-social-media?shared=ac55883c9703eb06) (The Information)
+  * [Inside Apple's Long, Bumpy Road to Hollywood](https://www.hollywoodreporter.com/news/apples-bumpy-tv-launch-inside-tech-giants-impending-arrival-hollywood-1247577) (The Hollywood Reporter)
+  * [How Pinterest Built One of Silicon Valley’s Most Successful Algorithms](https://onezero.medium.com/how-pinterest-built-one-of-silicon-valleys-most-successful-algorithms-9101afdfd0dd) (OneZero)
+  * [Inside TurboTax’s 20-Year Fight to Stop Americans From Filing Their Taxes for Free](https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free) (ProPublica)
+
+
+**Friday, October 11**
+  * [Is Amazon Unstoppable?](https://www.newyorker.com/magazine/2019/10/21/is-amazon-unstoppable?currentPage=all) (The New Yorker)
+  * [Jeff Bezos’s Master Plan](https://www.theatlantic.com/magazine/archive/2019/11/what-jeff-bezos-wants/598363/) (The Atlantic)
+  * [When GoFundMe Gets Ugly](https://www.theatlantic.com/magazine/archive/2019/11/gofundme-nation/598369/) (The Atlantic)
+  * [Can a Machine Learn To Write For The New Yorker?](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker?currentPage=all) (The New Yorker)
+  * [The Style-Quantifying Astrophysicists of Silicon Valley](https://www.wired.com/story/the-style-maven-astrophysicists-of-silicon-valley/) (Wired)
+  * [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/) (The Gradient)
+  * [Who Needs Moonshots? How Former Hollywood Mogul Barry Diller Built A $4.2 Billion Tech Fortune Out Of Underdog Assets](https://www.forbes.com/sites/antoinegara/2019/10/02/who-needs-moonshots-how-former-hollywood-mogul-barry-diller-built-a-42-billion-tech-fortune-out-of-underdog-assets/#20133703368e) (Forbes)
+
+
+**Friday, October 04**
+  * [The Off-the-Radar Baseball League That’s Trying to Reboot the Game](https://gen.medium.com/the-off-the-radar-baseball-league-thats-trying-to-reboot-the-game-8fd5a46cbe00) (GEN)
+  * [Inside Disney’s New York Stream Factory](https://variety.com/2019/digital/news/disney-streaming-services-new-york-disney-plus-1203354576/) (Variety)
+  * [My Time at Snap](https://medium.com/@marko_tupper/my-time-at-snap-83134da32e01) (@marko_tupper)
+  * [Dog-walking startup Wag raised $300 million to unleash growth. Then things got messy](https://www.cnn.com/2019/09/27/tech/wag-dog-walking-softbank/) (CNN Business)
+  * [Where Toxic Masculinity Goes to Die](https://www.theatlantic.com/technology/archive/2019/10/nicest-place-web-learn-how-grow-beard/599119/) (The Atlantic)
+  * [The Fallen Worlds of Philip Pullman](https://www.newyorker.com/culture/the-new-yorker-interview/the-fallen-worlds-of-philip-pullman) (The New Yorker)
+
+
+**Friday, September 27**
+  * [Slack Is a Hell of Our Own Making](http://nymag.com/intelligencer/2019/09/the-anxiety-inducing-peril-of-old-slack-posts.html) (NY Magazine/Intelligencer)
+  * [Every Company is Becoming a Software Company](https://www.confluent.io/blog/every-company-is-becoming-software) (Confluent Blog)
+  * [Artificial Intelligence Confronts a 'Reproducibility' Crisis](https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/) (Wired)
+  * [INSIDE UBER’S PLAN TO TAKE OVER CITY LIFE WITH CEO DARA KHOSROWSHAHI](https://www.theverge.com/2019/9/26/20885185/uber-ceo-dara-khosrowshahi-interview-exclusive) (The Verge)
+  * [The Octopus: An Alien Among Us](https://lithub.com/the-octopus-an-alien-among-us/) (Literary Hub)
+
+**Friday, September 13**
+  * [How to Build Artificial Intelligence We Can Trust](https://www.nytimes.com/2019/09/06/opinion/ai-explainability.html) (NYTimes)
+  * [As sex toys continue to get hacked, the defin­i­tion of sexual assault is under question](https://screenshot-magazine.com/technology/sex-toys-hacked-again/) (Screen Shot)
+  * [What Happened to Urban Dictionary?](https://www.wired.com/story/urban-dictionary-20-years/) (Wired)
+  * [TONY HAWK ON HOW HIS GAMES CHANGED SKATEBOARDING](https://www.theverge.com/2019/9/10/20857772/tony-hawk-pro-skater-activision-skateboarding-game-20-anniversary) (The Verge)
+  * [From Communism To Coding: How Daniel Dines Of $7 Billion UiPath Became The First Bot Billionaire](https://www.forbes.com/sites/alexkonrad/2019/09/11/from-communism-to-coding-how--daniel-dines-of-7-billion-uipath-became-the-first-bot-billionaire/#1ad1e891206e) (Forbes)
+  * [Human speech may have a universal transmission rate: 39 bits per second](https://www.sciencemag.org/news/2019/09/human-speech-may-have-universal-transmission-rate-39-bits-second) (Science)
+
+**Friday, September 06**
+  * [Uber Undone](https://thebaffler.com/latest/uber-undone-kulwin) (The Baffler)
+  * [Coming Soon to a Battlefield: Robots That Can Kill](https://www.theatlantic.com/technology/archive/2019/09/killer-robots-and-new-era-machine-driven-warfare/597130/) (The Atlantic)
+  * [Amazon’s Next-Day Delivery Has Brought Chaos And Carnage To America’s Streets — But The World’s Biggest Retailer Has A System To Escape The Blame](https://www.buzzfeednews.com/article/carolineodonovan/amazon-next-day-delivery-deaths) (BuzzFeed News)
+  * [Coming Soon to a Small Screen Near You: Short Cuts](https://www.wsj.com/articles/coming-soon-to-a-small-screen-near-you-short-cuts-11567224030?mod=e2tw) (WSJ)
+  * [‘Hey, Google! Let me talk to my departed father.’](https://www.washingtonpost.com/technology/2019/08/29/hey-google-let-me-talk-my-departed-father/) (Washington Post)
+  * [‘NCAA Football’ Is Still Alive, Because One Online Community Won’t Let the Game Die](https://www.theringer.com/2019/8/21/20806913/ncaa-football-video-game-ea-sports-operation-sports-ncaa) (The Ringer)
+
+
+**Friday, August 30**
+  * [Unix at 50: How the OS that powered smartphones started from failure](https://arstechnica.com/gadgets/2019/08/unix-at-50-it-starts-with-a-mainframe-a-gator-and-three-dedicated-researchers/) (Ars Technica)
+  * [Wi-Fi 6 Will Be Here Soon. What Is It?](https://www.wired.com/story/what-is-wi-fi-6/) (Wired)
+  * [Mobile payments have barely caught on in the US, despite the rise of smartphones](https://www.cnbc.com/2019/08/29/why-mobile-payments-have-barely-caught-on-in-the-us.html) (CNBC)
+  * [Drone Bubble Bursts, Wiping Out Startups and Hammering VC Firms](https://www.bloomberg.com/news/articles/2019-08-30/drone-bubble-bursts-wiping-out-startups-and-hammering-vc-firms) (Bloomberg)
+  * [Older people are embracing video games. For some, that means stardom.](https://www.nbcnews.com/tech/video-games/older-people-are-embracing-video-games-some-stardom-n1047906) (NBC News)
+
+
+**Friday, August 23**
+  * [Top 10 Crypto Memes](https://medium.com/brd-blog/top-10-crypto-memes-f26b25343659) (BRD)
+  * [All 84 startups from Y Combinator's S19 Demo Day 1](https://techcrunch.com/2019/08/19/all-84-startups-from-y-combinators-s19-demo-day-1/) (TechCrunch)
+  * [Here are the 82 startups from day 2 of Y Combinator's S19 Demo Days](https://techcrunch.com/2019/08/20/here-are-the-82-startups-that-launched-on-day-2-of-ycs-s19-demo-days/) (TechCrunch)
+  * [The Exclusive Inside Story Of The Fall Of Overstock’s Mad King, Patrick Byrne](https://www.forbes.com/sites/laurendebter/2019/08/22/the-exclusive-inside-story-of-the-fall-of-overstocks-mad-king-patrick-byrne/#614be9cd53a5) (Forbes)
+  * [The Sports News Site Haters Love to Dunk on Keeps Signing Up Subscribers](https://www.bloomberg.com/news/features/2019-08-20/an-upstart-sports-news-service-is-thriving-amid-media-layoffs) (Bloomberg Businessweek)
+  * [The quantum revolution is coming, and Chinese scientists are at the forefront](https://www.washingtonpost.com/business/2019/08/18/quantum-revolution-is-coming-chinese-scientists-are-forefront/) (Washington Post)
+  * [YOU ARE ALREADY HAVING SEX WITH ROBOTS](https://www.wired.com/story/you-are-already-having-sex-with-robots/) (Wired)
+  * [Sad cartoons and melancholic hip-hop inspired YouTube’s new vaporwave scene](https://www.polygon.com/2018/9/6/17823080/vaporwave-youtube-animation-music-chillhop) (Polygon)
+
+
+**Friday, August 16**
+  * [Weird gadgets that are actually really useful](https://www.zdnet.com/article/weird-gadgets-that-are-actually-really-useful/) (ZDNet)
+  * [Trump Tumult Has Gadget Giants Splitting Along U.S.-China Lines](https://www.bloomberg.com/news/articles/2019-08-14/the-world-s-gadget-makers-are-splitting-along-u-s-chinese-lines) (Bloomberg)
+  * [THREE YEARS OF MISERY INSIDE GOOGLE, THE HAPPIEST COMPANY IN TECH](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/) (Wired)
+  * [WEWORK ISN’T A TECH COMPANY; IT’S A SOAP OPERA](https://www.theverge.com/2019/8/15/20806366/we-company-wework-ipo-adam-neumann) (The Verge)
+  * [WeWTF](https://www.profgalloway.com/wewtf) (ProfGalloway.com)
+  * [Elon Musk’s Neuralink: Both an evolution and a plan for radical change](https://arstechnica.com/science/2019/08/elon-musks-neuralink-both-an-evolution-and-a-plan-for-radical-change/?fbclid=IwAR3qQtqYW_7tjxzoJ5VL2jy3gk_NpjEhAygzZpjqW0sPav4tPWzE1Nai1B0) (Ars Technica)
+  * [SpaceX’s First Astronauts Train Up for Space, but Crew Dragon Faces Delays](https://www.inverse.com/article/58433-spacex-s-first-astronauts-train-up-for-space) (Inverse.com)
+  * [HOW A 'NULL' LICENSE PLATE LANDED ONE HACKER IN TICKET HELL](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/) (Wired)
+
+
 **Friday, August 09**
   * [The Lonely Work of Moderating Hacker News](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news) (The New Yorker)
   * [I Tried Hiding From Silicon Valley in a Pile of Privacy Gadgets](https://www.bloomberg.com/news/features/2019-08-08/i-tried-hiding-from-silicon-valley-in-a-pile-of-privacy-gadgets) (Bloomberg Businessweek)
