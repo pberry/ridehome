@@ -13,11 +13,6 @@ _This collection is no longe being updated regularly. I still update it from tim
   * [Why ‘The Mandalorian’ cites Fortnite dev Epic Games in its credits](https://venturebeat.com/2019/11/19/why-the-mandalorian-cites-fortnite-dev-epic-games-in-its-credits/?utm_source=Benedict%27s+Newsletter&utm_campaign=195a3086db-Benedict%27s+Newsletter+315&utm_medium=email&utm_term=0_4999ca107f-195a3086db-70713529&mc_cid=195a3086db&mc_eid=9b9a04f35a) (VentureBeat)
   * [Unintended Perk of the Online Mattress Boom: Never-Ending Free](https://www.wsj.com/articles/unintended-perk-of-the-online-mattress-boom-never-ending-free-trials-11575474415) (WSJ)
 
-
-**Friday, November 22**
-
-
-
 **Friday, November 22**
   * [How our home delivery habit reshaped the world](https://www.theguardian.com/technology/2019/nov/21/how-our-home-delivery-habit-reshaped-the-world) (The Guardian)
   * [The Architect of Modern Algorithms](https://www.quantamagazine.org/barbara-liskov-is-the-architect-of-modern-algorithms-20191120/) (Quanta Magazine)
@@ -36,10 +31,6 @@ _This collection is no longe being updated regularly. I still update it from tim
   * [Managing Your Friendships, With Software](https://www.theatlantic.com/technology/archive/2019/11/personal-crm-software-uphabit-dex-google-spreadsheets/601531/) (The Atlantic)
   * [From Instagram to Candy Crush: These are the most important apps of the decade](https://www.cnet.com/news/instagram-to-candy-crush-these-are-the-most-important-apps-of-the-decade/#ftag=CAD-01-10aai3d) (CNET)
 
-
-**Friday, November 08**
-
-
 **Friday, November 08**
   * [Pessimists Archive Podcast](https://podcasts.apple.com/us/podcast/pessimists-archive-podcast/id1104682320)
   * [The new dot com bubble is here: it’s called online advertising](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) (The Correspondent)
@@ -49,20 +40,12 @@ _This collection is no longe being updated regularly. I still update it from tim
   * [The Making of the World’s Greatest Investor](https://www.wsj.com/articles/the-making-of-the-worlds-greatest-investor-11572667202) (WSJ)
   * [How Cheap Robots Are Transforming Ocean Exploration](https://www.outsideonline.com/2404654/ocean-exploration-research-drones) (Outside)
 
-
-**Friday, November 01**
-
-
 **Friday, November 01**
   * [50 years ago today, the internet was born in Room 3420](https://www.fastcompany.com/90423457/50-years-ago-today-the-internet-was-born-in-room-3420) (Fast Company)
   * [Talking with former Facebook security chief Alex Stamos](https://galley.cjr.org/public/conversations/-LsHiyaqX4DpgKDqf9Mj) (CJR)
   * [Everything is Amazing, But Nothing is Ours](https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/) (AlexDanco.com)
   * [The Gross Margin Problem: Lessons for Tech-Enabled Startups](https://medium.com/craft-ventures/the-gross-margin-problem-lessons-for-tech-enabled-startups-e2aefab8a0d4) (Craft)
   * [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois) (ProPublica)
-
-
-**Friday, October 25**
-
 
 
 **Friday, October 25**
