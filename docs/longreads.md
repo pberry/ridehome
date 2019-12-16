@@ -2,6 +2,14 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, December 13**
+  * [THE AGE OF INSTAGRAM FACE](https://www.newyorker.com/culture/decade-in-review/the-age-of-instagram-face) (New Yorker)
+  * [The Influencer and the Hit Man](https://onezero.medium.com/the-influencer-and-the-hit-man-6c3905efd3c3) (OneZero)
+  * [Silicon Valley’s psychedelic wonder drug is almost here](https://www.fastcompany.com/90436824/silicon-valleys-psychedelic-wonder-drug-is-almost-here) (Fast Company)
+  * [How Zoom Became the Best Web-Conferencing Product in the World in Less Than 10 Years](https://usefyi.com/zoom-history/) (FYI)
+  * [“Link In Bio” is a slow knife](https://anildash.com/2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/) (Anil Dash)
+  * [THE VERGE’S GADGETS OF THE DECADE](https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
 **Friday, December 06**
   * [How Ring Went From ‘Shark Tank’ Reject to America’s Scariest Surveillance Company](https://www.vice.com/en_us/article/zmjp53/how-ring-went-from-shark-tank-reject-to-americas-scariest-surveillance-company) (Motherboard)
   * [Inside VSCO, a Gen Z-approved photo-sharing app, with CEO Joel Flory](https://techcrunch.com/2019/12/05/inside-vsco-a-gen-z-approved-photo-sharing-app-with-ceo-joel-flory/) (TechCrunch)
