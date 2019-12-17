@@ -2,6 +2,59 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, December 16 2019 - Give Us A Name For $100MM AAR Startups!**
+
+  * [Google pauses Chrome 79 rollout on Android after bug wipes data in some apps](https://www.androidpolice.com/2019/12/15/google-pauses-chrome-79-rollout-on-android-after-bug-wipes-data-in-some-apps/) (Android Police)
+  * [Watch out, UPS. Morgan Stanley estimates Amazon is already delivering half of its packages](https://www.cnbc.com/2019/12/12/analyst-amazon-delivering-nearly-half-its-packages-instead-of-ups-fedex.html) (CNBC)
+  * [Self-Driving Mercedes Will Be Programmed To Sacrifice Pedestrians To Save The Driver](https://www.fastcompany.com/3064539/self-driving-mercedes-will-be-programmed-to-sacrifice-pedestrians-to-save-the-driver) (Fast Company)
+  * [Argo takes different road to skirt self-driving challenges](https://www.reuters.com/article/us-autos-self-driving-argo-focus/argo-takes-different-road-to-skirt-self-driving-challenges-idUSKBN1YF18C) (Reuters)
+  * [The falling price of a TV set is the story of the American economy](https://theoutline.com/post/8421/smart-tv-cheap-roku?zd=2&zi=m2zidqid) (The Outline)
+  * [The newest members of the $100M ARR club](https://techcrunch.com/2019/12/13/the-newest-members-of-the-100m-arr-club/) (TechCrunch)
+  * [Zero-to-100 Million in 3 Years](https://www.lemonade.com/blog/zero-to-100/) (Lemonade Blog)
+  * [Why Do We Still Pay Only $10 a Month for Music?](https://www.rollingstone.com/music/music-news/music-streaming-10-month-fee-924809/) (Rolling Stone)
+
+**Friday, December 13 2019 - The Next-Gen Xbox**
+
+  * [Microsoft’s next Xbox is Xbox Series X, coming holiday 2020](https://www.theverge.com/2019/12/12/21016575/microsoft-xbox-series-x-next-xbox-console) (The Verge)
+  * [Apple Buys U.K. Startup to Improve iPhone Picture Taking](https://www.bloomberg.com/news/articles/2019-12-12/apple-buys-u-k-startup-to-improve-iphone-picture-taking) (Bloomberg)
+  * [Lyft launches a car rental service with no mileage limit](https://www.theverge.com/2019/12/12/21013185/lyft-car-rental-service-pricing-los-angeles-san-francisco-mileage) (The Verge)
+  * [Google Maps has now photographed 10 million miles in Street View](https://www.cnet.com/news/google-maps-has-now-photographed-10-million-miles-in-street-view/) (CNET)
+  * [Roku Built the Dominant Streaming Box. Now It’s Under Siege](https://www.bloomberg.com/news/articles/2019-12-11/streaming-box-king-roku-is-under-seige-from-amazon-and-apple) (Bloomberg BusinessWeek)
+
+**Thursday, December 12 2019 - Maybe Just Throw A Dart, Seed Investors…**
+
+  * [FTC Weighs Seeking Injunction Against Facebook Over How Its Apps Interact](https://www.wsj.com/articles/ftc-weighs-seeking-injunction-against-facebook-over-how-its-apps-interact-11576178055) (WSJ)
+  * [Google is bringing spam detection and verified business messaging to Messages](https://www.theverge.com/2019/12/12/21012601/google-messages-spam-detection-verified-sms-features) (The Verge)
+  * [Interpreter, Google's real-time translator, comes to mobile](https://techcrunch.com/2019/12/12/interpreter-googles-real-time-translator-comes-to-mobile/) (TechCrunch)
+  * [Bill.com’s Stock Takes Off On IPO Day](https://www.forbes.com/sites/donnafuscaldo/2019/12/12/billcoms-stock-takes-off-on-ipo-day/#2b35f4a57948) (Forbes)
+  * [AI R&D is booming, but general intelligence is still out of reach](https://www.theverge.com/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress) (The Verge)
+  * [Startup Growth and Venture Returns: What We Found When We Analyzed Thousands of VC Deals](https://angel.co/blog/venture-returns) (AngelList Blog)
+  * [Bluesky early thoughts](https://sriramk.com/bluesky-early) (Sriramk.com)
+  * [Hey @Jack Dorsey, decentralizing Twitter won’t solve hate speech problems](https://www.digitaltrends.com/social-media/jack-dorsey-decentralizing-twitter-wont-solve-your-hate-speech-problems/) (Digital Trends)
+  * [Inside the Podcast that Hacks Ring Camera Owners Live on Air](https://www.vice.com/en_us/article/z3bbq4/podcast-livestreams-hacked-ring-cameras-nulledcast) (Motherboard)
+  * [Canva Uncovered: How A Young Australian Kitesurfer Built A $3.2 Billion (Profitable!) Startup Phenom](https://www.forbes.com/sites/alexkonrad/2019/12/11/inside-canva-profitable-3-billion-startup-phenom/#3a4674294a51) (Forbes)
+
+**Wednesday, December 11 2019 - @Jack Wants to Decentralize Social Media**
+
+  * [The Bluesky Thread](https://twitter.com/jack/status/1204766078468911106) (@jack)
+  * [YouTube Will Ban Videos That “Maliciously Insult” People Based On Race, Gender, Or Sexual Orientation](https://www.buzzfeed.com/markdistefano/youtube-harassment-guidelines-crowder-maza) (Buzzfeed News)
+  * [Apple's Pro Display XDR With Nano-Texture Can Only Be Cleaned With Special Apple-Provided Cloth](https://www.macrumors.com/2019/12/10/apple-pro-display-xdr-cleaning-cloth/) (MacRumors)
+  * [Intel's Manufacturing Roadmap from 2019 to 2029](https://www.anandtech.com/show/15217/intels-manufacturing-roadmap-from-2019-to-2029) (AnandTech)
+  * [Chrome 79 released with tab freezing, back-forward caching, and loads of security features](https://www.zdnet.com/article/chrome-79-released-with-tab-freezing-back-forward-caching-and-loads-of-security-features/) (ZDNet)
+  * [Facebook, Google Drop Out of Top 10 ‘Best Places to Work’ List](https://www.bloomberg.com/news/articles/2019-12-11/big-tech-companies-slide-in-annual-best-places-to-work-survey) (Bloomberg)
+  * [Big Tech Is Under Attack, and Investors Couldn’t Care Less](https://www.nytimes.com/2019/12/10/business/tech-stocks-apple-amazon-microsoft-google.html) (NYTimes)
+
+**Tuesday, December 10 2019 - Wheels For Your Mac Pro Are $400 Extra**
+
+  * [Apple sues iPhone CPU design ace after he quits to run data-center chip upstart Nuvia](https://www.theregister.co.uk/2019/12/09/apple_nuvia_ceo_suit/) (The Register)
+  * [Apple’s Ad-Targeting Crackdown Shakes Up Ad Market](https://www.theinformation.com/articles/apples-ad-targeting-crackdown-shakes-up-ad-market) (The Information)
+  * [Apple Cards' interest-free iPhone installment plan goes live, now with 6% back on Apple holiday purchases](https://techcrunch.com/2019/12/10/apple-cards-interest-free-iphone-installment-plan-goes-live-now-with-6-back-on-apple-holiday-purchases/) (TechCrunch)
+  * [SoftBank Is Selling Wag Stake Back to Company](https://www.wsj.com/articles/softbank-is-selling-wag-stake-back-to-company-sources-11575916341) (WSJ)
+  * [Microsoft Teams is the first Office app for Linux](https://venturebeat.com/2019/12/10/microsoft-teams-is-the-first-office-app-for-linux/) (VentureBeat)
+  * [Mac Pro Build to Order Options](https://www.macrumors.com/2019/12/10/mac-pro-build-to-order-options/) (MacRumors)
+  * [VSCO acquires video editing startup Rylo](https://techcrunch.com/2019/12/10/vsco-acquires-video-editing-startup-rylo/) (TechCrunch)
+  * [Robotic exoskeletons: Coming to a factory, warehouse or army near you, soon](https://www.zdnet.com/article/robotic-exoskeletons-coming-to-a-factory-warehouse-or-army-near-you-soon/) (ZDNet)
+
 **Friday, December 06 2019 - The Future of the iPhone is NO Ports?**
 
   * [Uber Says 3,045 Sexual Assaults Were Reported in U.S. Rides Last Year](https://www.nytimes.com/2019/12/05/technology/uber-sexual-assaults-murders-deaths-safety.html) (NYTimes)
@@ -10,8 +63,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [5G and face tracking: The weird future of VR headsets like Oculus Quest and HoloLens](https://www.cnet.com/news/5g-and-face-tracking-the-weird-future-of-vr-ar-headsets-like-oculus-quest-and-hololens/) (CNET)
   * [Qualcomm’s new Snapdragon 8c and 7c processors will power cheaper ARM laptops](https://www.theverge.com/circuitbreaker/2019/12/5/20997402/qualcomm-arm-midrange-windows-laptop-processors-8c-7c-8cx-snapdragon) (The Verge)
   * [Spotify Year In Review Thread](https://twitter.com/baekdal/status/1202626186171555841?s=12) (@baekdal)
-
-
 
 **Thursday, December 05 2019 - Why The New Snapdragon Chips Don’t Have Integrated 5G**
 
@@ -23,8 +74,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Red Flags for Robinhood](https://fortune.com/2019/12/04/red-flags-for-robinhood/) (Fortune)
   * [Craigslist Finally Gets an Official App](https://gizmodo.com/craigslist-finally-gets-an-official-app-1840200352) (Gizmodo)
 
-
-
 **Wednesday, December 04 2019 - Larry and Sergey Into The Sunset**
 
   * [A letter from Larry and Sergey](https://www.blog.google/inside-google/alphabet/letter-from-larry-and-sergey/) (The Keyword)
@@ -35,8 +84,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Instagram to collect ages in leap for youth safety, alcohol ads](https://www.reuters.com/article/us-facebook-instagram-children/instagram-to-collect-ages-in-push-for-youth-safety-alcohol-ad-dollars-idUSKBN1Y826Z) (Reuters)
   * [Reddit's monthly active user base grew 30% to reach 430M in 2019](https://techcrunch.com/2019/12/04/reddits-monthly-active-user-base-grew-30-to-reach-430m-in-2019/) (TechCrunch)
   * [Subreddit That Hates on ‘Game of Thrones’ Is the Most Popular TV Subreddit of 2019](https://www.thewrap.com/game-of-thrones-reddit-best-of-2019-freefolk-top-tv-shows/) (The Wrap)
-
-
 
 **Tuesday, December 03 2019 - Pablo Escobar's Brother's Smartphone**
 
@@ -51,8 +98,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Facebook Gives Workers a Chatbot to Appease That Prying Uncle](https://www.nytimes.com/2019/12/02/technology/facebook-chatbot-workers.html) (NYTimes)
   * [Pablo Escobar's Brother Has Apple In His Crosshairs With... an 'Unbreakable' Foldable Phone?](https://gizmodo.com/pablo-escobars-brother-has-apple-in-his-crosshairs-with-1840154901) (Gizmodo)
 
-
-
 **Monday, December 02 2019 - When An E-Sports Team IPO's**
 
   * [Samsung Suddenly Exposes Radical New Galaxy Smartphone [Updated]](https://www.forbes.com/sites/gordonkelly/2019/12/01/samsung-galaxy-s11-upgrade-design-battery-life-galaxy-s10-note10-update/#7c14ff673f98) (Forbes)
@@ -65,11 +110,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Amazon debuts automatic speech recognition service, Amazon Transcribe Medical ](https://techcrunch.com/2019/12/02/amazon-debuts-automatic-speech-recognition-service-amazon-transcribe-medical/)(TechCrunch)
   * [Amazon’s kooky new keyboard lets humans and AI write music together](https://www.fastcompany.com/90437625/amazons-kooky-new-keyboard-lets-humans-and-ai-write-music-together) (Fast Company)
   * [Counter-Strike World Champions Aim for First Esport Team IPO](https://www.bloomberg.com/news/articles/2019-11-29/counter-strike-world-champions-aim-for-first-esport-team-ipo) (Bloomberg)
-
-
-
-**Friday, November 29 2019 - The Forgotten Online Pioneer, Bill von Meister**
-
 
 **Tuesday, November 26 2019 - Amazon Prime Cuts**
 
@@ -85,8 +125,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [TikTok suspended a teen who posted a viral takedown of China disguised as a makeup tutorial](https://www.businessinsider.com/china-uighur-protest-tiktok-suspend-feroza-aziz-2019-11) (Business Insider)
   * [The Texas Instruments Chained-Calculation Massacre](https://gen.medium.com/big-calculator-how-texas-instruments-monopolized-math-class-67ee165045dc) (Medium's GEN)
 
-
-
 **Monday, November 25 2019 - Deadpool Buys an MVNO**
 
   * [Uber loses London licence after TfL finds drivers faked identity](https://www.theguardian.com/technology/2019/nov/25/uber-loses-licence-london-tfl) (The Guardian)
@@ -98,8 +136,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Ryan Reynolds now owns a stake in budget carrier Mint Mobile ](https://www.engadget.com/2019/11/25/ryan-reynolds-owns-stake-in-mint-mobile/)(Engadget)
   * [Elon Musk explains why Tesla’s Cybertruck windows smashed during presentation](https://www.theverge.com/2019/11/25/20981489/tesla-cybertruck-glass-window-fail-elon-musk-explanation) (The Verge)
   * [Tesla's polarizing Cybertruck was preordered 200,000 times within 3 days](https://www.usatoday.com/story/money/cars/2019/11/24/teslas-cybertruck-preorders-reached-nearly-150-000-48-hours/4290463002/) (USA Today)
-
-
 
 **Friday, November 22 2019 - CYBERTRUCK!**
 
