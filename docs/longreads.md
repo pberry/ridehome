@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, December 20**
+  * [SoftBank Vision Fund Employees Depict a Culture of Recklessness](https://www.bloomberg.com/news/features/2019-12-18/softbank-vision-fund-employees-depict-a-culture-of-recklessness) (Bloomberg Businessweek)
+  * [Shopify: A StarCraft Inspired Business Strategy](https://nongaap.substack.com/p/shopify-a-starcraft-inspired-business) (Non-GAAP Thoughts)
+  * [IKEA 2.0](https://www.theverge.com/2019/12/18/21024497/ikea-smart-home-tech-sweden-furniture-sonos-meatballs-bjorn-block) (The Verge)
+  * [State of the Stream 2019: Platform Wars, the New King of Streaming, Most Watched Game and More!](https://blog.streamelements.com/state-of-the-stream-2019-platform-wars-the-new-king-of-streaming-most-watched-game-and-more-ab0596d5c13d) (Stream Elements)
+  * [Meet the Mad Scientist Who Wrote the Book on How to Hunt Hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/) (Wired)
+  * [I created my own deepfake—it took two weeks and cost $552](https://arstechnica.com/science/2019/12/how-i-created-a-deepfake-of-mark-zuckerberg-and-star-treks-data/) (Ars Technica)
+  * [The 100 Memes That Defined The 2010s](https://www.buzzfeednews.com/article/katienotopoulos/memes-that-defined-the-2010s) (Buzzfeed News)
+
 **Friday, December 13**
   * [THE AGE OF INSTAGRAM FACE](https://www.newyorker.com/culture/decade-in-review/the-age-of-instagram-face) (New Yorker)
   * [The Influencer and the Hit Man](https://onezero.medium.com/the-influencer-and-the-hit-man-6c3905efd3c3) (OneZero)
