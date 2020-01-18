@@ -2,6 +2,36 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, January 17**
+  * [How Mormons Built the Next Silicon Valley While No One Was Looking](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478) (Marker)
+  * [All the money in the world couldn’t make Kinect happen](https://www.polygon.com/2020/1/14/21064608/microsoft-kinect-history-rise-and-fall) (Polygon)
+  * [The Promise of Cloud-Native Games](https://a16z.com/2020/01/14/cloud-native-games/) (A16Z/Jonathan Lai)
+  * [The Metaverse: What It Is, Where to Find it, Who Will Build It, and Fortnite](https://www.matthewball.vc/all/themetaverse) (MatthewBall.vc)
+  * [Islamic fintechs are on the rise — but how viable is this tailored offering?](https://sifted.eu/articles/islamic-fintechs-europe-survive/) (Sifted)
+  * [The Big Question Now Facing Apple](https://www.aboveavalon.com/notes/2020/1/16/the-big-question-now-facing-apple) (Above Avalon)
+
+**Friday, January 10**
+  * [QUIBI VERSUS THE WORLD](https://www.theverge.com/2020/1/8/21056315/quibi-ces-2020-launch-meg-whitman-jeffrey-katzenberg-turnstyle-technology-shows-preview) (The Verge)
+  * [The hidden world and overlooked problems of acting in video games](https://www.washingtonpost.com/video-games/2020/01/08/hidden-world-overlooked-problems-acting-video-games/) (Washington Post)
+  * [Why your favorite celebs are ditching Twitter for an app you’ve never heard of](https://www.fastcompany.com/90439032/why-your-favorite-celebs-are-ditching-twitter-for-an-app-youve-never-heard-of) (Fast Company)
+  * [AN ORAL HISTORY OF RICKROLLING](https://melmagazine.com/en-us/story/an-oral-history-of-rickrolling?curator=MusicREDEF) (Mel)
+  * [Admit It: You Have a Box of Cords You’ll Never, Ever Use Again](https://www.wsj.com/articles/admit-it-you-have-a-box-of-cords-youll-never-ever-use-again-11578590154) (WSJ)
+
+**Friday, January 03**
+  * [How to lose a monopoly: Microsoft, IBM and anti-trust](https://www.ben-evans.com/benedictevans/2020/01/01/microsoft-monopoly-and-dominance) (Benedict Evans)
+  * [Windows: Facing the New Decade (2010–2020)](https://medium.learningbyshipping.com/windows-facing-the-new-decade-2010-2b479612d3fc) (Steven Sinofsky)
+  * [Ghosts in the Clouds: Inside China’s Major Corporate Hack](https://www.wsj.com/articles/ghosts-in-the-clouds-inside-chinas-major-corporate-hack-11577729061) (WSJ)
+  * ['Shattered': Inside the secret battle to save America's undercover spies in the digital age](https://news.yahoo.com/shattered-inside-the-secret-battle-to-save-americas-undercover-spies-in-the-digital-age-100029026.html?guccounter=1&guce_referrer=aHR0cHM6Ly90LmNvL3BXS3U0SFZKWGI_YW1wPTE&guce_referrer_sig=AQAAACKplZ1cNMhp1OvWsM8tlnFH-zSVRawE2cdZwcQFeP3mEvtl8aHlrB2zTsJrZP7Y9nT7Ql6npTwY49JJSsLusRa7S9Gryx46ceZKlgAn0gpfekG4QbOVFoAupNox3liUbdF1prdKOMuiGvoSKXLJU9y25LkrsDou0gcUy-KJ1JP6) (Yahoo News)
+  * [This time, for sure! Ars Technica’s 2020 Deathwatch](https://arstechnica.com/information-technology/2020/01/deathwatch-2020-trying-again-this-time-with-feeling/) (Ars Technica)
+
+**Friday, December 27**
+  * [Where Are the Tech Zillionaires? San Francisco Faces the I.P.O. Fizzle](https://www.nytimes.com/2019/12/19/technology/tech-IPO-san-francisco.html) (NYTimes)
+  * [Netflix was the best-performing stock of the decade, delivering a more than 4,000% return](https://www.cnbc.com/2019/12/23/netflix-was-the-top-stock-of-the-decade-delivering-over-4000percent-return.html) (CNBC)
+  * [11 Lessons from the Success of Disney+](https://www.matthewball.vc/all/disneylessons) (MatthewBall.vc)
+  * [Tuvalu is a tiny island nation of 11,000 people. It’s cashing in thanks to Twitch.](https://www.washingtonpost.com/video-games/2019/12/23/tuvalu-is-tiny-island-nation-people-its-cashing-thanks-twitch/) (WSJ)
+  * [How Atari took on Apple in the 1980s home PC wars](https://www.fastcompany.com/90432140/how-atari-took-on-apple-in-the-1980s-home-pc-wars) (Fast Company)
+  * [THE 84 BIGGEST FLOPS, FAILS, AND DEAD DREAMS OF THE DECADE IN TECH](https://www.theverge.com/2019/12/20/21029499/decade-fails-flops-tech-science-culture-apple-google-data-kickstarter-2010-2019?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
 **Friday, December 20**
   * [SoftBank Vision Fund Employees Depict a Culture of Recklessness](https://www.bloomberg.com/news/features/2019-12-18/softbank-vision-fund-employees-depict-a-culture-of-recklessness) (Bloomberg Businessweek)
   * [Shopify: A StarCraft Inspired Business Strategy](https://nongaap.substack.com/p/shopify-a-starcraft-inspired-business) (Non-GAAP Thoughts)
