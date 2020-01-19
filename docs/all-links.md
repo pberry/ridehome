@@ -2,6 +2,247 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, January 17 2020 - Jack Dorsey Asked Elon Musk How To Fix Twitter**
+
+  * [Facebook Backs Off Controversial Plan to Sell Ads in WhatsApp](https://www.wsj.com/articles/whatsapp-backs-off-controversial-plan-to-sell-ads-11579207682) (WSJ)
+  * [NBC’s Peacock streaming service will launch on July 15th with three different price tiers](https://www.theverge.com/2020/1/16/21068607/nbc-peacock-streaming-service-price-launch-date-ads-universal-comcast-office-harry-potter) (The Verge)
+  * [Twitch's loss of top streamers impacts hours watched and streamed in Q4 2019, report says](https://techcrunch.com/2020/01/16/twitchs-loss-of-top-streamers-impacts-hours-watched-and-streamed-in-q4-2019-report-says/) (TechCrunch)
+  * [Huawei P40 Pro leak shows off five-camera bump and ceramic body](https://www.theverge.com/2020/1/16/21069860/huawei-p40-pro-leak-image-cameras-specs) (The Verge)
+  * [Jack Dorsey Asks Elon Musk How to Fix Twitter](https://www.bloomberg.com/news/articles/2020-01-17/jack-dorsey-asks-elon-musk-how-to-fix-twitter) (Bloomberg)
+
+
+
+**Thursday, January 16 2020 - Apple Acquires Xnor.ai**
+
+  * [Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range](https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/) (GeekWire)
+  * [XNOR.ai frees AI from the prison of the supercomputer](https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/) (TechCrunch)
+  * [Microsoft launches Chromium Edge for Windows 7, Windows 8, Windows 10, and macOS](https://venturebeat.com/2020/01/15/microsoft-launches-chromium-edge-for-windows-7-windows-8-windows-10-and-macos/) (VentureBeat)
+  * [Mozilla lays off 70 as it waits for new products to generate revenue](https://techcrunch.com/2020/01/15/mozilla-lays-off-70-as-it-waits-for-subscription-products-to-generate-revenue/) (TechCrunch)
+  * [Fitbit quietly enables blood oxygen tracking on its wearables](https://www.engadget.com/2020/01/15/fitbit-blood-oxygen-tracking/) (Engadget)
+  * [Venture capital slowly seeps outside of Silicon Valley](https://www.axios.com/venture-capital-midwest-growth-13ac8514-e8e2-498f-98b7-71026277e826.html) (Axios)
+  * [App stores saw record 204 billion app downloads in 2013, consumer spend of $120 billion](https://techcrunch.com/2020/01/15/app-stores-saw-record-204-billion-app-downloads-in-2019-consumer-spend-of-120-billion/) (TechCrunch)
+  * [Google says new AI models allow for ‘nearly instantaneous’ weather forecasts](https://www.theverge.com/2020/1/14/21065095/google-ai-weather-forecast-predictions-rainfall-research) (The Verge)
+
+
+
+**Wednesday, January 15 2020 - @Jack On An Edit Button: ‘We’ll probably never do it’**
+
+  * [Exclusive: Leaked Samsung Galaxy S20+ Hands-on confirms 120Hz display, ultrasonic under-display fingerprint scanner, and no headphone jack](https://www.xda-developers.com/exclusive-leaked-samsung-galaxy-s20-hands-on-confirms-120hz-display-ultrasonic-under-display-fingerprint-scanner-and-no-headphone-jack/) (XDAdevelopers)
+  * [You can now use iPhones as Google security keys for 2FA](https://ww.9to5google.com/2020/01/14/iphone-google-security-key/) (9to5Google)
+  * [Google acquires no-code app development platform AppSheet](https://venturebeat.com/2020/01/14/google-acquires-no-code-app-development-platform-appsheet/) (VentureBeat)
+  * [Four years after being acquired, Hipmunk is shutting down](https://techcrunch.com/2020/01/14/four-years-after-being-acquired-hipmunk-is-shutting-down/) (TechCrunch)
+  * [Apple Takes a (Cautious) Stand Against Opening a Killer’s iPhones](https://www.nytimes.com/2020/01/14/technology/apple-iphone-pensacola-shooting.html) (NYTimes)
+  * [European Venture Report: VC Dollars Rise In 2019](https://news.crunchbase.com/news/european-venture-report-vc-dollars-rise-in-2019/) (Crunchbase News)
+  * [Disney+ was the most downloaded app in the US in Q4 2019](https://techcrunch.com/2020/01/14/disney-was-the-most-downloaded-app-in-the-u-s-in-q4-2019/) (TechCrunch)
+  * [Twitter’s Jack Dorsey on edit button: ‘We’ll probably never do it’](https://www.theverge.com/2020/1/15/21066815/twitter-edit-button-jack-dorsey-says-no) (The Verge)
+
+
+
+**Tuesday, January 14 2020 - The End of the Windows 7 Era**
+
+  * [Apple Said It Is Helping In The Pensacola Shooting Investigation, But It Won't Unlock The Shooter's iPhones](https://www.buzzfeednews.com/article/scottlucas/william-barr-apple-request-unlock-iphones) (Buzzfeed News)
+  * [Visa to acquire Plaid, the fintech powering Venmo and other banking apps, in $5.3 billion deal](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) (CNBC)
+  * [Epic says its PC game store now has more than 100 million users](https://www.theverge.com/2020/1/14/21064951/epic-game-store-users-number-cross-play-revenue-valve-steam) (The Verge)
+  * [macOS beta hints at future ‘Pro Mode’ to boost performance on portable Macs](https://ww.9to5mac.com/2020/01/13/macos-beta-hints-at-future-pro-mode-to-boost-performance-on-portable-macs/) (9to5Mac)
+  * [PC shipments grew in 2019 ahead of bet on 5G and dual-screen devices](https://venturebeat.com/2020/01/13/pc-shipments-q4-2019/) (VentureBeat)
+  * [Cryptic Rumblings Ahead of First 2020 Patch Tuesday](https://krebsonsecurity.com/2020/01/cryptic-rumblings-ahead-of-first-2020-patch-tuesday/) (KrebsOnSecurity)
+  * [MICROSOFT BIDS FAREWELL TO WINDOWS 7 AND THE MILLIONS OF PCS THAT STILL RUN IT](https://www.theverge.com/2020/1/14/21065122/microsoft-windows-7-end-of-support-lifecycle-millions-pcs) (The Verge)
+  * [Free Windows 10 upgrade still works for many Windows 7 users. Here's how to get it ](https://www.cnet.com/how-to/free-windows-10-upgrade-still-works-many-windows-7-users-heres-how/)(CNET)
+  * [(Potentially??) Free Windows 10 Upgrade Link](https://www.microsoft.com/en-us/software-download/windows10ISO)
+
+
+
+**Monday, January 13 2020 - Get Hyped For the Galaxy S20!**
+
+  * [Exclusive: This is the Samsung Galaxy S20+](https://www.xda-developers.com/exclusive-samsung-galaxy-s20-5g-live-images/) (XDAdevelopers)
+  * [TikTok explores curated content feed to lure advertisers](https://www.xda-developers.com/exclusive-samsung-galaxy-s20-5g-live-images/) (FT)
+  * [Cookie consent tools are being used to undermine EU privacy rules, study suggests](https://techcrunch.com/2020/01/10/cookie-consent-tools-are-being-used-to-undermine-eu-privacy-rules-study-suggests/) (TechCrunch)
+  * [A billion medical images are exposed online, as doctors ignore warnings](https://techcrunch.com/2020/01/10/medical-images-exposed-pacs/) (TechCrunch)
+  * [Casper's IPO could be a bellwether for unprofitable startups in the post-We-Work era](https://techcrunch.com/2020/01/13/caspers-ipo-could-be-a-bellwether-for-unprofitable-startups-in-the-post-wework-era/) (TechCrunch)
+  * [Casper files to go public, shows you can lose money selling mattresses](https://techcrunch.com/2020/01/10/casper-files-to-go-public-shows-you-can-lose-money-selling-mattresses/) (TechCrunch)
+
+**Friday, January 10 2020 - I Flip-Flop on Quibi**
+
+  * [SoftBank-Backed Oyo Firing Thousands Across China and India](https://www.bloomberg.com/news/articles/2020-01-10/softbank-backed-oyo-is-firing-thousands-across-china-and-india) (Bloomberg)
+  * [E-scooter startup Lime shuts in 12 markets, lays off around 100](https://www.axios.com/scooter-startup-lime-shutters-in-12-markets-aims-for-profits-in-2020-d25d44e4-c0f1-4713-9a89-868f4da40e03.html) (Axios)
+  * [The Q4/EOY 2019 Global VC Report: A Strong End To A Good, But Not Fantastic, Year ](https://news.crunchbase.com/news/the-q4-eoy-2019-global-vc-report-a-strong-end-to-a-good-but-not-fantastic-year/)(Crunchbase News)
+  * [U.S. Music Streams Topped a Trillion in 2019](https://www.wsj.com/articles/u-s-music-streams-topped-a-trillion-in-2019-11578607152) (WSJ)
+  * [Streaming Services Reckon With Password-Sharing "Havoc"](https://www.hollywoodreporter.com/news/streaming-services-prepare-password-sharing-havoc-1267728) (The Hollywood Reporter)
+  * [I’m a Millennial, and I Don’t Understand What Quibi Is Trying to Do](https://fortune.com/2020/01/09/im-a-millennial-and-i-dont-understand-what-quibi-is-trying-to-do/) (Fortune)
+
+
+
+**Thursday, January 09 2020 - Thu. 01/09- The Phantom Title (Explained at the End of the 01/10 Episode)**
+
+  * [Twitter will put options to limit replies directly on the compose screen](https://www.theverge.com/2020/1/8/21056856/twitter-replies-limit-option-compose-screen-beta-app-features-new-ces-2020) (The Verge)
+  * [Firefox gets patch for critical 0-day that’s being actively exploited](https://arstechnica.com/information-technology/2020/01/firefox-gets-patch-for-critical-zeroday-thats-being-actively-exploited/) (Ars Technica)
+  * [iPhone Hits Double-Digit Growth in China, Official Data Show](https://www.bloomberg.com/news/articles/2020-01-09/iphone-dials-up-double-digit-growth-in-china-official-data-show) (Bloomberg)
+  * [Douyin, TikTok app in China, hits 400 million daily active users](https://techcrunch.com/2020/01/06/douyin-tiktok-app-in-china-hits-400-million-daily-active-users/) (TechCrunch)
+  * [Warner Bros. Signs Deal for AI-Driven Film Management System](https://www.hollywoodreporter.com/news/warner-bros-signs-deal-ai-driven-film-management-system-1268036) (Exclusive) (The Hollywood Reporter)
+  * [At CES 2020, the AirPods Pro competitors arrived in droves](https://www.theverge.com/2020/1/8/21056494/ces-2020-true-wireless-noise-canceling-earbuds-anc-1more-klipsch-panasonic-technics-airpods-pro?utm_medium=email&utm_campaign=1-9-20%20quibi%20linklist&utm_content=1-9-20%20quibi%20linklist+CID_5293de7eb51e5fe9afee5fb8d3628c87&utm_source=cm_email&utm_term=At%20CES%202020%20the%20AirPods%20Pro%20competitors%20arrived%20in%20droves) (The Verge)
+  * [Sex-Tech Companies Are Having More Fun Than the Rest of Us at CES](https://www.wired.com/story/sex-tech-at-ces-2020-lora-dicarlo-crave/) (Wired)
+
+
+
+**Wednesday, January 08 2020 - CES Day 3**
+
+  * [Don’t Tilt Scales Against Trump, Facebook Executive Warns](https://www.nytimes.com/2020/01/07/technology/facebook-trump-2020.html) (NYTimes)
+  * [CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU](https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/) (CNET)
+  * [Getaround to Lay Off About One-Fourth of Staff](https://www.theinformation.com/articles/getaround-to-lay-off-about-one-fourth-of-staff) (The Information)
+  * [ClassPass, finally a unicorn, raises $285M in new funding](https://techcrunch.com/2020/01/08/classpass-finally-a-unicorn-raises-285-million-in-new-funding/) (TechCrunch)
+  * [Quibi unveils "Turnstyle," its flagship mobile video format](https://www.axios.com/quibi-unveils-turnstyle-its-flagship-mobile-video-format-03a19028-0a7e-4d1a-8173-211cd979ee71.html) (Axios)
+  * [Quibi's secret weapon: Videos that work in portrait and landscape mode](https://www.engadget.com/2020/01/08/quibi-mobile-video-turnstyle/) (Engadget)
+  * [Mind-blowing Delta board shows 100 passengers personalized flight details at the same time](https://mashable.com/article/delta-parallel-reality-board-ces/) (Mashable)
+  * [I tried Nreal’s mixed reality glasses at CES and now I want a pair](https://www.androidauthority.com/nreal-light-mixed-reality-glasses-1071648/) (Android Authority)
+
+
+
+**Tuesday, January 07 2020 - CES Day 2**
+
+  * [Sonos, Squeezed by the Tech Giants, Sues Google](https://www.nytimes.com/2020/01/07/technology/sonos-sues-google.html) (NYTimes)
+  * [Enforcing Against Manipulated Media](https://about.fb.com/news/2020/01/enforcing-against-manipulated-media/) (Facebook Newsroom)
+  * [Facebook bans deepfakes, but new policy may not cover controversial Pelosi video](https://www.washingtonpost.com/technology/2020/01/06/facebook-ban-deepfakes-sources-say-new-policy-may-not-cover-controversial-pelosi-video/) (Washington Post)
+  * [Sony surprises with an electric concept car called the Vision-S](https://www.theverge.com/2020/1/6/21054270/sony-vision-s-electric-concept-car-ev-announcement-ces-2020) (The Verge)
+  * [Mercedes-Benz unveils an Avatar-themed concept car with scales](https://www.theverge.com/2020/1/7/21054257/mercedes-benz-avatar-avtr-concept-ces-2020) (The Verge)
+  * [Lenovo's ThinkBook Plus Laptop Has a Second Screen on the Lid](https://www.tomshardware.com/news/lenovo-thinkbook-plus-e-ink-screen-specs-price) (TomsHardware)
+  * [Lenovo’s ThinkPad X1 Fold is a $2,499 PC with a folding OLED screen](https://www.theverge.com/circuitbreaker/2020/1/6/21051334/lenovo-thinkpad-x1-folding-pc-tablet-oled-price-specs-features-date-ces-2020) (The Verge)
+  * [Lenovo's Yoga 5G laptop packs nine antennas and Snapdragon power](https://www.engadget.com/2020/01/06/lenovo-yoga-5g-laptop-mmwave-windows-snapdragon/) (Engadget)
+  * [Ring adds privacy dashboard to app in response to security concerns](https://www.theverge.com/2020/1/6/21050426/ring-control-center-privacy-dashboard-app-police-security-two-factor-ces-2020) (The Verge)
+  * [Atmos Faceware makes clean air an expensive accessory](https://www.theverge.com/2020/1/7/21050763/atmos-faceware-climate-change-technology-disaster-capitalism-price) (The Verge)
+
+
+
+**Monday, January 06 2020 - CES Day 1**
+
+  * [Fire TV Edition expands to more soundbars, plus cars, cables boxes and more](https://techcrunch.com/2020/01/06/fire-tv-edition-expands-to-more-soundbars-plus-cars-cable-boxes-and-more/) (TechCrunch)
+  * [Roku TV adds 15 more brand partners plus a new 'Roku TV Ready' program](https://techcrunch.com/2020/01/06/roku-tv-adds-15-more-brand-partners-plus-a-new-roku-tv-ready-program/) (TechCrunch)
+  * [THE SAMSUNG GALAXY CHROMEBOOK IS BEAUTIFUL, FAST, AND EXPENSIVE](https://www.theverge.com/2020/1/6/21051243/samsung-galaxy-chromebook-price-release-date-hands-on-chrome-os-photos-video) (The Verge)
+  * [Scoop: SoftBank shafts startups](https://www.axios.com/softbank-walk-away-startups-honor-creator-seismic-8d4adc0c-dcfb-42d3-982e-f422a9963be8.html) (Axios)
+  * [News coverage gets geo-fragmented](https://www.niemanlab.org/2020/01/news-coverage-gets-geo-fragmented/) (NiemanLab)
+  * [Samsung details its stunning bezel-less 8K TV](https://www.theverge.com/2020/1/5/21050207/samsung-qled-8k-bezel-less-tv-q950ts-ces-2020) (The Verge)
+  * [The 10 Neatest Things We've Seen at CES So Far](https://www.wired.com/story/ces-2020-photo-gallery-day-1/) (Wired)
+  * [Intel just confirmed it’s building this tiny modular desktop gaming PC](https://www.theverge.com/2020/1/6/21051276/intel-ghost-canyon-nuc-9-extreme-confirmed-ces-2020-modular-gaming-desktop) (The Verge)
+  * [Processor With Dieter Bohn Newsletter Signup](https://www.theverge.com/2020/1/2/21046395/processor-newsletter-tech-computers-gadgets-software-dieter-bohn-consumer)
+
+
+
+**Friday, January 03 2020 - What To Expect From CES**
+
+  * [A.I. Is Learning to Read Mammograms](https://www.nytimes.com/2020/01/01/health/breast-cancer-mammogram-artificial-intelligence.html) (NYTimes)
+  * [Apple Deal Returns Former HBO Boss Richard Plepler to Spotlight ](https://www.nytimes.com/2020/01/02/business/media/richard-plepler-apple.html)(NYTimes)
+  * [HERE’S WHAT’S NEXT FOR GADGETS IN 2020](https://www.theverge.com/2020/1/2/21042971/ces-2020-preview-predictions-4k-5g-8k-tv-intel-drones-pcs-gadgets) (The Verge)
+  * [Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M](https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/) (TechCrunch)
+  * [Instagram User Growth in the US Will Drop to Single Digits For the First Time](https://www.emarketer.com/content/instagram-user-growth-in-the-us-will-drop-to-single-digits-for-the-first-time) (eMarketer)
+
+
+
+**Thursday, January 02 2020 - A Grand Unified Theory of the Google Civil War**
+
+  * [Dell’s latest XPS 13 has a new design with a bigger display and Ice Lake chips](https://www.theverge.com/circuitbreaker/2020/1/2/21046472/dell-xps-13-design-ice-lake-intel-keyboard-trackpad-display-windows-ces-2020) (The Verge)
+  * [Dell debuts 5G-ready Latitude 9510 laptop, adds iOS mirroring to PCs](https://venturebeat.com/2020/01/02/dell-debuts-5g-ready-latitude-9510-laptop-adds-ios-mirroring-to-pcs/) (VentureBeat)
+  * [Apple restores Imagination GPU chip agreement after public dispute and employee poaching](https://ww.9to5mac.com/2020/01/01/apple-imagination-agreement/) (9to5Mac)
+  * [IRS Reforms Free File Program, Drops Agreement Not to Compete With TurboTax](https://www.propublica.org/article/irs-reforms-free-file-program-drops-agreement-not-to-compete-with-turbotax) (ProPublica)
+  * [I Was Google’s Head of International Relations. Here’s Why I Left.](https://medium.com/@rossformaine/i-was-googles-head-of-international-relations-here-s-why-i-left-49313d23065) (Ross LaJeunesse/Medium)
+  * [Google veterans: The company has become ‘unrecognizable’](https://www.cnbc.com/2019/12/31/google-veterans-the-company-has-become-unrecognizable.html) (CNBC)
+
+
+
+**Monday, December 30 2019 - The Chinese GPS Is Nigh**
+
+  * [IoT vendor Wyze confirms server leak](https://www.zdnet.com/article/iot-vendor-wyze-confirms-server-leak/) (ZDNet)
+  * [China decouples from US in space with 2020 'GPS' completion](https://asia.nikkei.com/Business/China-tech/China-decouples-from-US-in-space-with-2020-GPS-completion) (Nikkei Asian Review)
+  * [SPOTIFY TO SUSPEND POLITICAL ADS IN 2020](https://adage.com/article/digital/spotify-suspend-political-ads-2020/2224281) (AdAge)
+  * [Snapchat will launch Bitmoji TV, a personalized cartoon show](https://techcrunch.com/2019/12/28/bitmoji-tv-snapchat/) (TechCrunch)
+  * [The New Unicorns Of 2019](https://news.crunchbase.com/news/the-new-unicorns-of-2019/) (Crunchbase News)
+  * [Israel doubles number of unicorns in 2019](https://en.globes.co.il/en/article-israel-doubles-number-of-unicorns-in-2019-1001312322) (Globes)
+  * [Tech Startups Face New Investor Mandate: Profits Over Discounts](https://www.wsj.com/articles/tech-startups-face-new-investor-mandate-profits-over-discounts-11577452831) (WSJ)
+
+
+
+**Friday, December 27 2019 - All Hail Baby Yoda!**
+
+  * [YouTube gives creators more control over copyright claim disputes with new update](https://www.theverge.com/2019/12/26/21037763/youtube-copyright-claim-studios-update-automatic-trim-tool-studios) (The Verge)
+  * [New rule would make it possible to track and identify nearly all drones flying in the U.S.](https://www.cnbc.com/2019/12/26/faa-remote-id-rule-for-drones-would-enable-tracking-identification.html) (CNBC)
+  * [State Support Helped Fuel Huawei’s Global Rise](https://www.wsj.com/articles/state-support-helped-fuel-huaweis-global-rise-11577280736?emailToken=f8a8a33aa9da68b32eca94e89b81ff227Wrk4FOEx8HoDwh5n9DE1Cc4gw6D3Kgfwai3VgaUnzuTL8jLlh0InPb+jasKJJwo+ppm32lo5WJ08QE77AZF2U9Lmu2KjKVENBkNA92XOjE%3D&reflink=article_copyURL_share) (WSJ)
+  * [Inside Documents Show How Amazon Chose Speed Over Safety in Building Its Delivery Network](https://www.propublica.org/article/inside-documents-show-how-amazon-chose-speed-over-safety-in-building-its-delivery-network) (Pro Publica)
+
+
+
+**Thursday, December 26 2019 - "Peace. Out."**
+
+  * [Travis Kalanick severs all ties with Uber, departing board and selling all his shares](https://www.cnbc.com/2019/12/24/travis-kalanick-to-depart-uber-board-of-directors.html) (CNBC)
+  * [Sling TV gets more expensive, raises cheapest subscription price to $30](https://www.theverge.com/2019/12/23/21035080/sling-tv-orange-blue-price-increase-subscription) (The Verge)
+  * [Pyka and its autonomous, electric crop-spraying drone land $11M seed round](https://techcrunch.com/2019/12/24/pyka-and-its-autonomous-electric-crop-spraying-drone-land-11m-seed-round/) (TechCrunch)
+  * [Pentagon tells military personnel not to use at-home DNA kits](https://www.nbcnews.com/news/military/pentagon-tells-military-personnel-not-use-home-dna-kits-n1106761) (NBC News)
+  * [Livestreams are the new telethons, and they’re raising millions for charities](https://www.washingtonpost.com/video-games/2019/12/24/livestreams-are-new-telethons-theyre-raising-millions-charities/) (Washington Post)
+  * [Inside YouTube’s Year of Responsibility](https://www.bloomberg.com/news/articles/2019-12-24/youtube-ceo-susan-wojcicki-responsibility-push-angers-pewdiepie) (Bloomberg)
+  * [Catalyst and Cohesion](https://wormsandviruses.com/2019/12/catalyst-and-cohesion/) (WormsandViruses.com)
+  * [Catalyst, Two Months In](https://daringfireball.net/2019/12/catalyst_two_months_in) (Daring Fireball)
+
+
+
+**Monday, December 23 2019 - A New Competitor For Tesla?**
+
+  * [It Seemed Like a Popular Chat App. It’s Secretly a Spy Tool.](https://www.nytimes.com/2019/12/22/us/politics/totok-app-uae.html) (NYTimes)
+  * [U.S. Navy bans TikTok from government-issued mobile devices](https://www.reuters.com/article/us-usa-tiktok-navy-idUSKBN1YO2HU) (Reuters)
+  * [DraftKings going public via reverse merger](https://www.axios.com/draftkings-going-public-via-reverse-merger-9fcf2848-c835-4cad-b4a6-0c6cf1941b1f.html) (Axios)
+  * [Rivian adds $1.3 billion in funding for its electric utility and adventure vehicles](https://techcrunch.com/2019/12/23/rivian-adds-1-3-billion-in-funding-for-its-electric-utility-and-adventure-vehicles/) (TechCrunch)
+  * [Uber Co-Founder Travis Kalanick Cuts Stake in Company by More Than 90%](https://www.wsj.com/articles/uber-co-founder-travis-kalanick-cuts-stake-in-company-by-more-than-90-11576964824) (WSJ)
+  * [Boeing Starliner Lands in New Mexico After Clock Error Prompts Early Return](https://www.nytimes.com/2019/12/22/science/boeing-starliner-landing.html) (NYTimes)
+  * [Starliner makes a safe landing—now NASA faces some big decisions](https://arstechnica.com/science/2019/12/starliner-makes-a-safe-landing-now-nasa-faces-some-big-decisions/) (Ars Technica)
+
+
+
+**Friday, December 20 2019 - Now Apple Joins The Space Race?**
+
+  * [Apple Has Secret Team Working on Satellites to Beam Data to Devices](https://www.bloomberg.com/news/articles/2019-12-20/apple-has-top-secret-team-working-on-internet-satellites) (Bloomberg)
+  * [Google buys triple-A game dev Typhoon Studio to beef up Stadia](https://venturebeat.com/2019/12/19/google-buys-triple-a-game-dev-typhoon-studio-to-beef-up-stadia/) (VentureBeat)
+  * [Care.com shares surge after Barry Diller’s IAC agrees to buy online caregiver marketplace](https://www.cnbc.com/2019/12/20/iac-to-acquire-carecom-in-500-million-deal.html) (CNBC)
+  * [Ripple Raises $200 Million as Part of Bid for XRP Adoption](https://fortune.com/2019/12/20/ripple-raises-200-million-xrp-cryptocurrency/) (Fortune)
+  * [Robocall fines rise to $10,000 per call under newly passed law](https://www.theverge.com/2019/12/19/21030114/robocalls-bill-congress-president-trump-sign-law-illegal-fcc-ajit-pai) (The Verge)
+  * [Labels & Publishers Win $1 Billion Piracy Lawsuit Against Cox Communications](https://www.billboard.com/articles/business/legal-and-management/8546842/cox-1-billion-piracy-lawsuit-labels-publishers) (Billboard)
+
+
+
+**Thursday, December 19 2019 - What If Apple Owned James Bond?**
+
+  * [Twelve Million Phones, One Dataset, Zero Privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) (NYTimes)
+  * [Facebook will bar posts, ads that spread disinformation about the U.S. Census](https://www.washingtonpost.com/technology/2019/12/19/do-not-pub-facebook-aims-battle-back-disinformation-around-us-census-including-limits-political-ads/) (Washington Post)
+  * [To Control Its Destiny, Facebook Bets Big on Hardware](https://www.theinformation.com/articles/to-control-its-destiny-facebook-bets-big-on-hardware) (The Information)
+  * [Apple Held Preliminary Talks With Pac-12 Conference, MGM](https://www.wsj.com/articles/apple-held-preliminary-talks-with-pac-12-conference-mgm-11576777844) (WSJ)
+  * [Spotify prototypes Tastebuds to revive social music discovery](https://techcrunch.com/2019/12/18/spotify-tastebuds/) (TechCrunch)
+  * [A milestone: Earthquake early warning system sends first public alert to smartphones in California](https://www.latimes.com/california/story/2019-12-18/a-milestone-earthquake-early-warning-system-sends-first-public-alert-to-smartphones-in-california) (Los Angeles Times)
+  * [TiVo to Merge With Entertainment-Tech Firm Xperi in $3 Billion Deal](https://variety.com/2019/digital/news/tivo-to-merge-with-entertainment-tech-firm-xperi-in-3-billion-deal-1203448604/) (Variety)
+  * [Puma’s first ‘active gaming footwear’ is a sock](https://www.engadget.com/2019/12/18/puma-s-first-active-gaming-footwear-is-a-sock/) (Engadget)
+
+
+
+**Wednesday, December 18 2019 - Did Google Almost "Rage Quit" the Cloud?**
+
+  * [Apple, Google and Amazon are cooperating to make your home gadgets talk to each other](https://www.cnbc.com/2019/12/18/apple-google-amazon-zigbee-partner-on-smart-home.html) (CNBC)
+  * [We Tested Ring’s Security. It’s Awful](https://www.vice.com/en_us/article/epg4xm/amazon-ring-camera-security) (Motherboard)
+  * [Google Brass Set 2023 as Deadline to Beat Amazon, Microsoft in Cloud](https://www.theinformation.com/articles/google-brass-set-2023-as-deadline-to-beat-amazon-microsoft-in-cloud) (The Information)
+  * [Cord cutters, you can finally stream your PBS stations online – on YouTube TV](https://www.usatoday.com/story/tech/columnist/2019/12/17/pbs-local-tv-stations-finally-online/2675402001/) (USA Today)
+  * [Virtual product placement is coming for TV and movies and Ryff has raised cash to put it there](https://techcrunch.com/2019/12/17/virtual-product-placement-is-coming-for-tv-and-movies-and-ryff-has-raised-cash-to-put-it-there/) (TechCrunch)
+  * [Far Side creator Gary Larson launches website with promise of new work](https://www.theguardian.com/books/2019/dec/17/far-side-creator-gary-larson-launches-website-with-promise-of-new-work) (The Guardian)
+  * [A Letter From Gary Larson](https://www.thefarside.com/about/48/a-letter-from-gary-larson) (TheFarSide.com)
+  * [The Internet Is Losing Its Mind Over This Gift-Wrapping Trick. Here's the Secret.](https://www.popularmechanics.com/science/math/a30248623/gift-wrapping-trick-geometry/) (Popular Mechanics)
+  * [The Gift Wrapping Video](https://twitter.com/search?q=%23KeithRichards&src=trend_click)
+
+
+
+**Tuesday, December 17 2019 - Alexa Is A Hit, But Is It A Business?**
+
+  * [Google accused of firing another worker in union-busting drive](https://www.engadget.com/2019/12/17/google-accused-of-firing-another-worker-in-union-busting-drive/) (Engadget)
+  * [Amazon Blocks Sellers From Using FedEx Ground for Prime Shipments](https://www.wsj.com/articles/amazon-blocks-sellers-from-using-fedex-ground-for-prime-shipments-11576525190) (WSJ)
+  * [Amazon Learns a New Skill: Making Money From Alexa](https://www.theinformation.com/articles/amazon-learns-a-new-skill-making-money-from-alexa) (The Information)
+  * [Amazon Brings in $1.4 Million in 2019 of Alexa Skill Revenue So Far — Well Short of the $5.5 Million Target According to The Information](https://voicebot.ai/2019/12/16/amazon-brings-in-1-4-million-in-2019-of-alexa-skill-revenue-so-far-well-short-of-the-5-5-million-target-according-to-the-information/) (Voicebot.ai)
+  * [Microsoft Opens Edge Addons Store for Submissions](https://winbuzzer.com/2019/12/16/microsoft-opens-edge-addons-store-for-submissions-xcxwbn/) (Winbuzzer)
+  * [A Look Back At the Top Apps & Games of the Decade](https://www.appannie.com/en/insights/market-data/a-look-back-at-the-top-apps-games-of-the-decade/) (App Annie)
+  * [Controversial sale of .org domain manager faces review at ICANN](https://cms.arstechnica.com/tech-policy/2019/12/controversial-sale-of-org-domain-manager-faces-review-at-icann/) (Ars Technica)
+  * [Chess champion Magnus Carlsen moves to top of world fantasy football rankings](https://www.theguardian.com/sport/2019/dec/16/chess-champion-magnus-carlsen-top-of-world-fantasy-football-rankings-premier-league) (The Guardian)
+
+
 **Monday, December 16 2019 - Give Us A Name For $100MM AAR Startups!**
 
   * [Google pauses Chrome 79 rollout on Android after bug wipes data in some apps](https://www.androidpolice.com/2019/12/15/google-pauses-chrome-79-rollout-on-android-after-bug-wipes-data-in-some-apps/) (Android Police)
