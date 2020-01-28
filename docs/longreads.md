@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, January 24**
+  * [Inside the World's Highest-Stakes Industrial Hacking Contest](https://www.wired.com/story/pwn2own-industrial-hacking-contest/) (Wired)
+  * [We’re Banning Facial Recognition. We’re Missing the Point.](https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html) (NYTimes)
+  * [The Secret History of Facial Recognition](https://www.wired.com/story/secret-history-facial-recognition/) (Wired)
+  * [Behind the Scenes at Rotten Tomatoes](https://www.wired.com/story/behind-the-scenes-rotten-tomatoes/) (Wired)
+  * [Jobs, Cook, Ive—Blevins? The Rise of Apple’s Cost Cutter](https://www.wsj.com/articles/jobs-cook-iveblevins-the-rise-of-apples-cost-cutter-11579803981?shareToken=st73e0f47e40f94a53983b71a68795840c) (WSJ)
+  * [The Tesla Skeptics Who Bet Against Elon Musk](https://www.bloomberg.com/news/features/2020-01-22/the-tesla-tslaq-skeptics-who-bet-against-elon-musk) (Bloomberg Businessweek)
+  * [The Internet of Beefs](https://www.ribbonfarm.com/2020/01/16/the-internet-of-beefs/) (Ribbonfarm.com)
+  * [The Hacker News Thread on The Internet of Beefs](https://news.ycombinator.com/item?id=22101244)
+  
 **Friday, January 17**
   * [How Mormons Built the Next Silicon Valley While No One Was Looking](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478) (Marker)
   * [All the money in the world couldn’t make Kinect happen](https://www.polygon.com/2020/1/14/21064608/microsoft-kinect-history-rise-and-fall) (Polygon)
