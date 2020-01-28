@@ -2,6 +2,68 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, January 27 2020 - The AI That Spotted the Wuhan Virus Early**
+
+  * [Vine reboot Byte officially launches](https://techcrunch.com/2020/01/24/vine-byte/) (TechCrunch)
+  * [Motorola on the Razr’s folding screen: ‘bumps and lumps are normal’](https://www.theverge.com/2020/1/26/21082520/motorola-razr-presale-screen-bump-lumps-water-protector-caution) (The Verge)
+  * [An AI Epidemiologist Sent the First Warnings of the Wuhan Virus](https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/) (Wired)
+  * [YouTube signs exclusive streaming deal for Activision e-sports like Call of Duty and Overwatch](https://www.theverge.com/2020/1/24/21080731/youtube-activision-blizzard-exclusive-streaming-e-sports-league) (The Verge)
+  * [Online mattress retailer Casper IPO to raise $182.4 million](https://www.cnbc.com/2020/01/27/online-mattress-retailer-casper-ipo-to-raise-182point4-million.html) (CNBC)
+  * [Leaked Documents Expose the Secretive Market for Your Web Browsing Data](https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation) (Motherboard)
+  * [Seamless, Grubhub deliver confusion with mistaken restaurant listings](https://www.sfchronicle.com/food/article/SF-restaurant-Kin-Khao-doesn-t-offer-delivery-15005797.php) (The San Francisco Chronicle)
+  * [Alex Danco Tweet Thread](https://twitter.com/alex_danco/status/1221802282611814404)
+
+**Friday, January 24 2020 - RIP Clayton Christensen**
+
+  * [Clayton Christensen, guru of disruptive innovation and Latter-day Saint leader, dies at 67](https://www.deseret.com/faith/2020/1/24/21079323/clayton-christensen-harvard-disruptive-innovation-lds-mormon) (DesertNews)
+  * [Exclusive: Quick Share is Samsung’s alternative to AirDrop for Galaxy phones](https://www.xda-developers.com/quick-share-samsung-alternative-airdrop-galaxy-phones/) (XDADevelopers)
+  * [Apple, Broadcom Strike $15 Billion Worth of Chip-Supply Deals](https://www.bloomberg.com/news/articles/2020-01-23/apple-broadcom-strike-15-billion-worth-of-chip-supply-deals) (Bloomberg)
+  * [Apple and Google’s tough new location privacy controls are working](https://www.fastcompany.com/90454921/apple-and-googles-tough-new-location-privacy-controls-are-working) (Fast Company)
+  * [Shlayer, No. 1 Threat for Mac, Targets YouTube, Wikipedia](https://threatpost.com/shlayer-mac-youtube-wikipedia/152146/) (ThreatPost)
+  * [Google’s search engine for scientists upgraded for better data scouring](https://www.theverge.com/2020/1/23/21078310/google-dataset-search-beta-over-filters-improved-open-source) (The Verge)
+  * [Esports Training Site ProGuides Raises $5 Million In Seed Funding](https://www.forbes.com/sites/mattperez/2020/01/24/esports-training-site-proguides-raises-5-million-in-seed-funding/#7e8fdd2f2b42) (Forbes)
+
+**Thursday, January 23 2020 - Security Features As A Feature**
+
+  * [Samsung's new foldable phone already sounds way better than the Galaxy Fold](https://mashable.com/article/samsung-galaxy-z-flip-rumors/) (Mashable)
+  * [New leak says the Galaxy S20's display will run at 60Hz by default](https://www.androidcentral.com/new-leak-says-galaxy-s20s-display-will-run-60hz-default) (Android Central)
+  * [Microsoft starts rolling out developer tools for its dual-screen Surface Duo Android phone](https://www.zdnet.com/article/microsoft-starts-rolling-out-developer-tools-for-its-dual-screen-surface-duo-android-phone/) (ZDNet)
+  * [Match Group invests in Noonlight to power new safety features in Tinder and other dating apps](https://techcrunch.com/2020/01/23/match-group-invests-in-noonlight-to-power-new-safety-features-in-tinder-and-other-dating-apps/) (TechCrunch)
+  * [Here Is the Technical Report Suggesting Saudi Arabia’s Prince Hacked Jeff Bezos’ Phone](https://www.vice.com/en_us/article/v74v34/saudi-arabia-hacked-jeff-bezos-phone-technical-report) (Motherboard)
+  * [Alex Stamos Tweet Storm](https://twitter.com/alexstamos/status/1220099472325148672)
+  * [Google’s ads just look like search results now](https://www.theverge.com/tldr/2020/1/23/21078343/google-ad-desktop-design-change-favicon-icon-ftc-guidelines) (The Verge)
+
+**Wednesday, January 22 2020 - The Bezos Phone Hacking Thing**
+
+  * [Jeff Bezos hack: Amazon boss's phone 'hacked by Saudi crown prince'](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) (The Guardian)
+  * [Saudi’s MBS implicated in hacking of Jeff Bezos’s phone](https://www.ft.com/content/83dcdf74-3c9b-11ea-a01a-bae547046735) (Financial Times)
+  * [UN calls for investigation into alleged Saudi crown prince involvement in Bezos phone hack](https://www.cnbc.com/2020/01/22/bezos-phone-hacking-un-calls-for-immediate-investigation.html) (CNBC)
+  * [New Low-Cost iPhone to Enter Mass Production in February](https://www.bloomberg.com/news/articles/2020-01-21/new-low-cost-iphone-said-to-enter-mass-production-in-february) (Bloomberg)
+  * [Amazon Music subscriber numbers close in on Apple](https://www.ft.com/content/8acedb52-3be2-11ea-a01a-bae547046735) (Financial Times)
+  * [Exclusive: Seattle-Area Voters To Vote By Smartphone In 1st For U.S. Elections](https://www.npr.org/2020/01/22/798126153/exclusive-seattle-area-voters-to-vote-by-smartphone-in-1st-for-u-s-elections) (NPR)
+  * [EXCLUSIVE LOOK AT CRUISE’S FIRST DRIVERLESS CAR WITHOUT A STEERING WHEEL OR PEDALS](https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look) (The Verge)
+  * [Netflix says Disney and Baby Yoda may have cut into the streaming service’s growth](https://www.vox.com/recode/2020/1/21/21075873/netflix-disney-mandalorian-earnings) (Recode)
+
+**Tuesday, January 21 2020 - Why Didn't Apple Encrypt iCloud Backups?**
+
+  * [Exclusive: Apple dropped plan for encrypting backups after FBI complained - sources](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT) (Reuters)
+  * [Uber Tests Feature Allowing Some California Drivers to Set Fares](https://www.wsj.com/articles/uber-is-testing-a-feature-that-lets-some-california-drivers-set-fares-11579600801) (WSJ)
+  * [A true digital media publishing breakthrough](https://www.axios.com/digital-media-publishing-profits-venture-capital-d08277c3-cde4-49e7-9d8a-615dc22c000b.html) (Axios)
+  * [Spotify in Early Talks to Buy Sports and Pop-Culture Outlet the Ringer](https://www.wsj.com/articles/spotify-in-early-talks-to-buy-sports-and-pop-culture-outlet-the-ringer-11579302564?emailToken=e16426a45e3f1b1fb83bea7f6ada66c4lr7qRObHFeMnfVrA1U9gqGJAMmvGGX0RrJ2x+eogfmvQaP3N+bc7tCEVZBcKy/myQPl7OHKOkzR3Jqezfr4Ct8uj8he8PTnVyhlObczDorSJUvPl+phqy6YQeI4uuodSD6PUp9MNksHkYl3mMt7OpA%3D%3D&reflink=article_copyURL_share) (WSJ)
+  * [Instagram drops IGTV button, but only 1% downloaded the app](https://techcrunch.com/2020/01/18/igtv-button-gone/) (TechCrunch)
+  * [DARPA-backed Soft Robotics raises $23 million for autonomous grippers and sorters](https://venturebeat.com/2020/01/20/darpa-backed-soft-robotics-raises-23-million-for-autonomous-grippers-and-sorters/) (VentureBeat)
+  * [Berlin proptech Home raises €11 million to be tech-enabled middleman between owners and tenants](https://tech.eu/brief/home-series-a/) (Tech.eu)
+  * [Snyk raises $150 million at $1 billion valuation for AI that protects open source code](https://venturebeat.com/2020/01/21/snyk-raises-150-million-at-1-billion-valuation-for-ai-that-protects-open-source-code/) (VentureBeat)
+  * [Apple lawsuit tests if an employee can plan rival startup while on payroll](https://www.reuters.com/article/us-apple-nuvia-lawsuit/apple-lawsuit-tests-if-an-employee-can-plan-rival-startup-while-on-payroll-idUSKBN1ZK16R) (Reuters)
+
+**Friday, January 17 2020 - Jack Dorsey Asked Elon Musk How To Fix Twitter**
+
+  * [Facebook Backs Off Controversial Plan to Sell Ads in WhatsApp](https://www.wsj.com/articles/whatsapp-backs-off-controversial-plan-to-sell-ads-11579207682) (WSJ)
+  * [NBC’s Peacock streaming service will launch on July 15th with three different price tiers](https://www.theverge.com/2020/1/16/21068607/nbc-peacock-streaming-service-price-launch-date-ads-universal-comcast-office-harry-potter) (The Verge)
+  * [Twitch's loss of top streamers impacts hours watched and streamed in Q4 2019, report says](https://techcrunch.com/2020/01/16/twitchs-loss-of-top-streamers-impacts-hours-watched-and-streamed-in-q4-2019-report-says/) (TechCrunch)
+  * [Huawei P40 Pro leak shows off five-camera bump and ceramic body](https://www.theverge.com/2020/1/16/21069860/huawei-p40-pro-leak-image-cameras-specs) (The Verge)
+  * [Jack Dorsey Asks Elon Musk How to Fix Twitter](https://www.bloomberg.com/news/articles/2020-01-17/jack-dorsey-asks-elon-musk-how-to-fix-twitter) (Bloomberg)
+
 **Friday, January 17 2020 - Jack Dorsey Asked Elon Musk How To Fix Twitter**
 
   * [Facebook Backs Off Controversial Plan to Sell Ads in WhatsApp](https://www.wsj.com/articles/whatsapp-backs-off-controversial-plan-to-sell-ads-11579207682) (WSJ)
