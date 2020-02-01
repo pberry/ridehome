@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, January 31**
+  * [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange/A16Z)
+  * [Don't Brush Off Mouth Tech As a Passing Fad](https://www.wired.com/story/mouth-tech/) (Wired)
+  * [The iPad's original software designer and program lead look back on the device's first 10 years](https://www.inputmag.com/tech/the-ipads-original-software-designer-and-program-lead-look-back-on-the-devices-first-10-years) (InPut)
+  * [Super Bowl 2020: The madness and magic behind the game’s first 4K HDR broadcast](https://www.digitaltrends.com/home-theater/super-bowl-2020-behind-the-scenes-first-4k-hdr-broadcast/) (Digital Trends)
+  * [Researchers Are Racing to Make a Coronavirus Vaccine. Will It Help?](https://www.nytimes.com/2020/01/28/health/coronavirus-vaccine.html) (NYTimes)
+  * [How Do Bats Live With So Many Viruses?](https://www.nytimes.com/2020/01/28/science/bats-coronavirus-Wuhan.html) (NYTimes)
+  * [Facial Recognition- The controversial and nearly ever-present technology that could replace the fingerprint](https://story.californiasunday.com/facial-recognition) (California Sunday Magazine)
+  * [CollegeHumor Helped Shape Online Comedy. What Went Wrong?](https://www.wired.com/story/collegehumor/) (Wired)
+
 **Friday, January 24**
   * [Inside the World's Highest-Stakes Industrial Hacking Contest](https://www.wired.com/story/pwn2own-industrial-hacking-contest/) (Wired)
   * [We’re Banning Facial Recognition. We’re Missing the Point.](https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html) (NYTimes)
