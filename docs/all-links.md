@@ -2,6 +2,52 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, January 31 2020 - Did Uber and DoorDash Almost Merge?**
+
+  * [Amazon Revenue Jumps on Holiday Sales as Profit Rises](https://www.wsj.com/articles/amazon-beats-earnings-estimates-as-shipping-costs-stabilize-11580419032) (WSJ)
+  * [Apple's redesigned Maps app is available across the US](https://techcrunch.com/2020/01/30/apples-redesigned-maps-app-is-available-across-the-u-s-adds-real-time-transit-for-miami/) (TechCrunch)
+  * [Uber and DoorDash held merger talks after SoftBank push](https://www.ft.com/content/e46a250a-4352-11ea-a43a-c4b328d9061c) (Financial Times)
+  * [SoftBank Is Funding Every Side of a Bruising Startup Battle](https://www.wsj.com/articles/softbank-is-funding-every-side-of-latin-americas-bruising-startup-battle-11580398900) (WSJ)
+  * [EU lawmakers snub Apple's pleas, overwhelmingly vote to push for charging cable standard](https://appleinsider.com/articles/20/01/30/eu-lawmakers-snub-apples-pleas-overwhelmingly-vote-to-push-for-charging-cable-standard) (Apple Insider)
+  * [How Dubsmash revived itself as #2 to TikTok](https://techcrunch.com/2020/01/31/dubsmash-songs/) (TechCrunch)
+
+**Thursday, January 30 2020 - Tesla's Earnings Home Run**
+
+  * [Tesla’s record 2019 has bought it some breathing room](https://www.theverge.com/2020/1/29/21113987/tesla-q4-2019-earnings-results-profit-revenue-model-3?utm_medium=email&utm_campaign=1-30-20%20fantastical%20app%20store&utm_content=1-30-20%20fantastical%20app%20store+CID_365ad1ea8bbafff7707ccab2db1036e7&utm_source=cm_email&utm_term=Teslas%20record%202019%20has%20bought%20it%20some%20breathing%20room) (The Verge)
+  * [We’re about to enter a world where Tesla is the cheaper electric car](https://qz.com/1793634/tesla-is-becoming-the-cheaper-electric-car/) (Quartz)
+  * [Facebook plunges, wiping out more than $50 billion in market value](https://www.cnbc.com/2020/01/30/facebook-plunges-at-open-wiping-out-more-than-50-billion-in-market-value.html) (CNBC)
+  * [Xbox revenue falls 21% as Microsoft gears up for Xbox Series X debut](https://www.geekwire.com/2020/xbox-revenue-falls-21-microsoft-gears-xbox-series-x-debut/) (GeekWire)
+  * [Samsung Posts Lower Profit, Anticipates End of Chip Slump](https://www.wsj.com/articles/samsung-posts-lower-profit-anticipates-end-of-chip-slump-11580347060) (WSJ)
+  * [Facebook to Pay $550 Million to Settle Facial Recognition Suit](https://www.nytimes.com/2020/01/29/technology/facebook-privacy-lawsuit-earnings.html) (NYTimes)
+  * [Avast winds down Jumpshot, cites user data sale privacy concerns](https://www.zdnet.com/article/avast-winds-down-jumpshot-with-immediate-effect-cites-user-data-sales-and-privacy-concerns/) (ZDNet)
+  * [Nintendo upgrades fiscal-year forecast as Switch hits 52.5 million consoles sold](https://venturebeat.com/2020/01/29/nintendo-upgrades-fiscal-year-forecast-as-switch-hits-52-5-million-consoles-sold/) (VentureBeat)
+  * [Apple Hires Key Netflix Engineer in Bid to Boost Subscription Services](https://www.wsj.com/articles/apple-hires-key-netflix-engineer-in-bid-to-boost-subscription-services-11580324237) (WSJ)
+  * [Apple Ends AI Startup’s Work on ‘Project Maven’ After Acquisition](https://www.theinformation.com/articles/apple-ends-ai-startups-work-on-project-maven-after-acquisition) (The Information)
+  * [Kuo: Apple to Launch AirTags, Small Charging Mat, New iPads and Macs, High-End Headphones, and More in First Half of 2020](https://www.macrumors.com/2020/01/29/kuo-on-apple-first-half-of-2020/) (MacRumors)
+  * [Say hello to the new Fantastical: one robust calendar for iPhone, iPad, Apple Watch, and Mac](https://ww.9to5mac.com/2020/01/29/the-new-fantastical/#) (9to5Mac)
+
+**Wednesday, January 29 2020 - Apple Has More Active Devices Than Microsoft**
+
+  * [Apple shares rise after company reports better-than-expected revenue of $91.8B](https://techcrunch.com/2020/01/28/apple-shares-rise-after-company-reports-better-than-expected-revenue-of-91-8b/) (TechCrunch)
+  * [Apple could see some impact from coronavirus in China, Cook says](https://www.cnet.com/news/apple-could-see-some-impact-from-coronavirus-in-china-cook-says/?UniqueID=6CCD9F68-4221-11EA-9B0F-92C8C28169F1&TheTime=2020-01-28T22%3A56%3A31&PostType=link) (CNET)
+  * [Google Developing New ‘Unified’ Communications App for Businesses](https://www.theinformation.com/articles/google-developing-new-unified-communications-app-for-businesses) (The Information)
+  * [Interior Department Adopts Restrictions Aimed at Chinese Drones](https://www.wsj.com/articles/interior-department-adopts-restrictions-aimed-at-chinese-drones-11580295602) (WSJ)
+  * [Facebook's 'Clear History' Tool Doesn't Clear Shit](https://gizmodo.com/facebooks-clear-history-tool-doesnt-clear-shit-1841305764) (Gizmodo)
+  * [Ring Doorbell App Packed with Third-Party Trackers](https://www.eff.org/deeplinks/2020/01/ring-doorbell-app-packed-third-party-trackers) (EFF)
+  * [Lime knows when you're riding on a sidewalk, and will warn you if you do](https://www.cnet.com/news/lime-rolls-out-sidewalk-detection-tech-to-warn-people-not-following-rules-with-scooters/) (CNET)
+  * [Here’s how to stop seeing ads on the internet without screwing over publishers](https://www.vox.com/recode/2020/1/28/21111961/scroll-ad-block-launch-tony-haile-advertising) (recode)
+
+**Tuesday, January 28 2020 - Gruber's iPad Disappointment**
+
+  * [UK Huawei decision appears to avert row with US](https://www.theguardian.com/technology/2020/jan/28/boris-johnson-gives-green-light-for-huawei-5g-infrastructure-role) (The Guardian)
+  * [As Virus Spreads, Anger Floods Chinese Social Media](https://www.nytimes.com/2020/01/27/technology/china-coronavirus-censorship-social-media.html) (NYTimes)
+  * [iPhone 11's new multicam app lets you shoot video with two cameras at once](https://www.cnet.com/news/iphone-11s-new-multicam-app-lets-you-shoot-video-with-two-cameras-at-once/) (CNET)
+  * [Product Hunt Has Released YourStack, A Social Network Where People Talk About Products](https://www.buzzfeednews.com/article/alexkantrowitz/product-hunt-has-released-yourstack-a-social-network-where) (BuzzFeed News)
+  * [The iPad Awkwardly Turns 10](https://daringfireball.net/2020/01/the_ipad_awkwardly_turns_10) (Daring Fireball)
+  * [Facebook will now show you exactly how it stalks you — even when you’re not using Facebook](https://www.washingtonpost.com/technology/2020/01/28/off-facebook-activity-page/) (The Washington Post)
+  * [Google will shut down App Maker on January 19, 2021](https://venturebeat.com/2020/01/27/google-will-shut-down-app-maker-on-january-19-2021/) (Venture Beat)
+  * [Atari is opening eight video game hotels across the U.S](https://www.inputmag.com/gaming/atari-is-opening-eight-video-game-hotels-across-the-us). (Input Magazine)
+
 **Monday, January 27 2020 - The AI That Spotted the Wuhan Virus Early**
 
   * [Vine reboot Byte officially launches](https://techcrunch.com/2020/01/24/vine-byte/) (TechCrunch)
