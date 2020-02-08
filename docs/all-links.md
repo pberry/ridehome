@@ -2,6 +2,63 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, February 07 2020 - Uber Can See The Promised Land**
+
+  * [Uber stock is on pace for its best day ever](https://www.cnbc.com/2020/02/07/uber-shares-rise-after-forecasting-an-earlier-target-for-profitability.html) (CNBC)
+  * [ViacomCBS to launch new streaming service blending CBS All Access with Paramount films, Viacom channels](https://www.cnbc.com/2020/02/06/viacomcbs-new-streaming-service-to-include-paramount-cbs-all-access.html) (CNBC)
+  * [NYSE Owner Abandons Potential eBay Deal](https://www.wsj.com/articles/nyse-owner-abandons-potential-ebay-deal-11581025909) (WSJ)
+  * [The 64 Core Threadripper 3990X CPU Review](https://www.anandtech.com/show/15483/amd-threadripper-3990x-review) (AnandTech)
+  * [Big Tech opponent Bernie Sanders raises more money from Big Tech employees than anyone else](https://www.vox.com/recode/2020/2/6/21125684/bernie-sanders-tech-employees-donations-andrew-yang-amazon-google-facebook-apple) (Recode)
+  * [Netflix will now let you disable its awful autoplaying feature](https://www.theverge.com/2020/2/6/21126867/netflix-autoplay-feature-disable-homepage-episodes-series) (The Verge)
+
+**Thursday, February 06 2020 - Google Maps Freshens Up For Its Birthday**
+
+  * [Google Maps gets a new icon and more tabs to celebrate 15th anniversary](https://www.theverge.com/2020/2/6/21125275/google-maps-15th-anniversary-new-icon-tabs-design-transit-information-live-view-update-features) (The Verge)
+  * [New ‘CarKey’ feature in iOS 13.4 beta brings built-in support for unlocking, driving, and sharing NFC car keys](https://ww.9to5mac.com/2020/02/05/new-carkey-feature-in-ios-13-4-beta-brings-built-in-support-for-unlocking-driving-and-sharing-nfc-car-keys/#) (9to5Mac)
+  * [Apple now sells more watches than the entire Swiss watch industry](https://www.theverge.com/2020/2/5/21125565/apple-watch-sales-2019-swiss-watch-market-estimates-outsold) (The Verge)
+  * [Huawei sues Verizon for alleged patent violations](https://www.theverge.com/2020/2/6/21125997/huawei-verizon-patent-violation-lawsuit) (The Verge)
+  * [Twitter reports $1.01B in Q4 revenue with 152M monetizable daily active users ](https://techcrunch.com/2020/02/06/twitter-q4-earnings/)(TechCrunch)
+  * [Casper surges nearly 30% in market debut](https://www.cnbc.com/2020/02/06/casper-cspr-ipo-stock-starts-trading-on-the-nyse.html) (CNBC)
+  * [The mysterious disappearance of Google's click metric](https://www.zdnet.com/article/the-mysterious-disappearance-of-googles-click-metric/) (ZDNet)
+  * [Ancestry to lay off 6% of workforce because of a slowdown in the consumer DNA-testing market](https://www.cnbc.com/2020/02/05/ancestry-layoffs-of-6percent-100-people-amid-dna-test-slowdown.html) (CNBC)
+  * [U.S. allows SoftBank-backed Nuro to deploy driverless delivery vehicles](https://www.reuters.com/article/us-nuro-autonomous-regulations/u-s-allows-softbank-backed-nuro-to-deploy-driverless-delivery-vehicles-idUSKBN20023T) (Reuters)
+
+**Wednesday, February 05 2020 - It Turns Out…**
+
+  * [Spotify is buying Bill Simmons’s The Ringer to boost its podcast business](https://www.vox.com/2020/2/5/21123904/spotify-bill-simmons-ringer-deal) (Recode)
+  * [Disney earnings beat expectations, fueled by strong Disney+ subscriptions](https://finance.yahoo.com/news/disney-reports-1q-2020-earnings-results-182425354.html) (Yahoo! Finance)
+  * [LG Electronics is withdrawing from Mobile World Congress due to coronavirus](https://www.theverge.com/2020/2/4/21123169/lg-electronics-mwc-2020-cornavirus-cancel-withdraw-outbreak-concern) (The Verge)
+  * [NYSE Owner Intercontinental Exchange Makes Takeover Offer for eBay](https://www.wsj.com/articles/intercontinental-exchange-approaches-ebay-about-a-takeover-11580845016) (WSJ)
+  * [Instagram Brings In More Than a Quarter of Facebook Sales](https://www.bloomberg.com/news/articles/2020-02-04/instagram-generates-more-than-a-quarter-of-facebook-s-sales) (Bloomberg)
+  * [Jeff Weiner Updates His LinkedIn Profile](https://www.wired.com/story/jeff-weiner-needs-update-linkedin-profile/) (Wired)
+  * [Rockstar co-founder Dan Houser is leaving the company](https://www.theverge.com/2020/2/4/21123171/rockstar-games-co-founder-dan-houser-leaves-steps-down) (The Verge)
+  * [Programming languages: Go and Python are what developers most want to learn](https://www.zdnet.com/article/go-and-python-are-the-programming-languages-developers-most-want-to-learn/) (ZDNet)
+  * [Why the N.Y.P.D. Dropped One of Its Oldest Crime-Fighting Tools](https://www.nytimes.com/2020/02/05/nyregion/nypd-memo-book.html) (NYTimes)
+  * [Steve Jobs' personality changed after Apple's success, Wozniak says](https://www.cnet.com/news/steve-jobs-personality-changed-after-apples-success-wozniak-says/) (CNET)
+
+**Tuesday, February 04 2020 - Tech Is the Angle In Iowa**
+
+  * [YouTube is a $15 billion-a-year business, Google reveals for the first time](https://www.theverge.com/2020/2/3/21121207/youtube-google-alphabet-earnings-revenue-first-time-reveal-q4-2019) (The Verge)
+  * [This Is The Buzzy Democratic Firm That Botched The Iowa Caucuses](https://www.huffpost.com/entry/iowa-caucus-app-shadow_n_5e390191c5b687dacc722824) (HuffPost)
+  * [Some Google Photos videos in ‘Takeout’ backups were sent to strangers last November](https://ww.9to5google.com/2020/02/03/google-photos-video-strangers/#) (9to5Google)
+  * [Mastercard chief speaks out against nationalism and Facebook](https://www.ft.com/content/16bec8aa-42e8-11ea-a43a-c4b328d9061c) (Financial Times)
+  * [Asana Says It’s Filed to Go Public Through a Direct Listing](https://www.bloomberg.com/news/articles/2020-02-03/asana-says-it-s-filed-to-go-public-through-a-direct-listing) (Bloomberg)
+  * [Chip Industry Had Worst Sales Year Since Dot-Com Bubble Burst](https://www.bloomberg.com/news/articles/2020-02-03/chip-industry-had-worst-sales-year-since-dot-com-bubble-burst) (Bloomberg)
+  * [Top Antitrust Official Is Said to Recuse Himself From Google Inquiry](https://www.nytimes.com/2020/02/03/technology/makan-delrahim-antitrust-google-tech.html) (NYTimes)
+  * [The US government is breaking up Big Razor before it gets to Big Tech](https://www.vox.com/recode/2020/2/3/21120169/harrys-ftc-acquisition-edgewell-schick-gillette-dollar-shave-club) (Recode)
+
+**Monday, February 03 2020 - Is THIS the End of the BlackBerry Era?**
+
+  * [BlackBerry’s Android smartphones will stop being sold in August 2020](https://ww.9to5google.com/2020/02/03/blackberry-android-discontinued-2020/) (9to5Google)
+  * [Ming-Chi Kuo Says Coronavirus Outbreak Impacting iPhone Supply, Lowers Shipment Forecast](https://www.macrumors.com/2020/02/02/kuo-says-coronavirus-impacting-iphone-supply/) (MacRumors)
+  * [Uber Suspends 240 Mexican Accounts to Prevent Coronavirus Spread](https://www.bloomberg.com/news/articles/2020-02-02/uber-suspends-240-mexican-accounts-to-prevent-coronavirus-spread) (Bloomberg)
+  * [Microsoft Teams goes down after Microsoft forgot to renew a certificate](https://www.theverge.com/2020/2/3/21120248/microsoft-teams-down-outage-certificate-issue-status?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter) (The Verge)
+  * [Alleged leaked video shows off Samsung’s folding Galaxy Z Flip](https://www.theverge.com/2020/2/2/21118894/samsung-galaxy-z-flip-leaked-video) (The Verge)
+  * [Disney Takes Tighter Control of Hulu After Disney+ Bundle Revs Up Growth](https://www.bloomberg.com/news/articles/2020-02-03/disney-takes-tighter-control-of-hulu-after-bundle-revs-up-growth) (Bloomberg)
+  * [Behind Amazon’s HQ2 Fiasco: Jeff Bezos Was Jealous of Elon Musk](https://www.bloomberg.com/news/articles/2020-02-03/amazon-s-hq2-fiasco-was-driven-by-bezos-envy-of-elon-musk) (Bloomberg)
+  * [Spotify, Apple Music Trail Little-Known Rival in Music-Obsessed India](https://www.wsj.com/articles/spotify-apple-music-trail-little-known-rival-in-music-obsessed-india-11580652352?mod=e2tw) (WSJ)
+  * [A guy carted 99 phones around to create traffic jams on Google Maps (Updated)](https://www.androidauthority.com/google-maps-hack-1079604/) (Android Authority)
+
 **Friday, January 31 2020 - Did Uber and DoorDash Almost Merge?**
 
   * [Amazon Revenue Jumps on Holiday Sales as Profit Rises](https://www.wsj.com/articles/amazon-beats-earnings-estimates-as-shipping-costs-stabilize-11580419032) (WSJ)
