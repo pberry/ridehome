@@ -2,6 +2,14 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, February 07**
+  * [MICROSOFT’S WINDOWS FUTURE IS NOW TIED TO HARDWARE](https://www.theverge.com/2020/2/6/21126044/microsoft-windows-future-software-hardware-windows-devices-panos-panay) (The Verge)
+  * [Steven Levy's Plaintext](https://link.wired.com/view/5bd670be2ddf9c619438dc56bjceg.cpz/cafbd186)
+  * [An Algorithm That Grants Freedom, or Takes It Away](https://www.nytimes.com/2020/02/06/technology/predictive-algorithms-crime.html) (NYTimes)
+  * [‘ClassPass Is Squeezing Studios to the Point of Death’](https://www.vice.com/en_us/article/xgqgaw/classpass-is-squeezing-studios-to-the-point-of-death?curator=TechREDEF) (Vice)
+  * [Elon Musk Can’t Lose](https://www.buzzfeednews.com/article/ryanmac/elon-musk-cant-lose) (BuzzFeed News)
+  * [A SMALL ROCKET MAKER IS RUNNING A DIFFERENT KIND OF SPACE RACE](https://www.bloomberg.com/features/2020-astra-rocket/?sref=iKB6XOvf) (Bloomberg)
+
 **Friday, January 31**
   * [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange/A16Z)
   * [Don't Brush Off Mouth Tech As a Passing Fad](https://www.wired.com/story/mouth-tech/) (Wired)
