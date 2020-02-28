@@ -2,6 +2,24 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, February 21**
+  * [Did the Early Internet Activists Blow It?](https://slate.com/technology/2020/02/three-decades-internet-freedom-activism.html) (Slate)
+  * [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/) (Wired)
+  * [How the BBC’s Netflix-killing plan was snuffed by myopic regulation](https://www.wired.co.uk/article/bbc-netflix-rival-failure) (WiredUK)
+  * [Could micro-credentials compete with traditional degrees?](https://www.bbc.com/worklife/article/20200212-could-micro-credentials-compete-with-traditional-degrees?ocid=global_worklife_rss) (BBC)
+  * [Debt is Coming](https://alexdanco.com/2020/02/07/debt-is-coming/) (AlexDanco.com)
+  * [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/) (A16Z)
+  * [Aircraft, Big and Small, Are Changing Our Relationship With Flight](https://www.nytimes.com/2020/02/19/technology/aviation-planes-drones.html) (NYTimes)
+
+**Friday, February 14**
+  * [Inside Mark Zuckerberg's Lost Notebook](https://www.wired.com/story/facebook-mark-zuckerberg-lost-notebook/) (Wired)
+  * [THE HIGH COST OF A FREE CODING BOOTCAMP](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free) (The Verge)
+  * [Cost Cutting Algorithms Are Making Your Job Search a Living Hell](https://www.vice.com/en_us/article/pkekvb/cost-cutting-algorithms-are-making-your-job-search-a-living-hell) (Vice)
+  * [Are Algorithmically-Generated Term Papers the Next Big Challenge to Academic Integrity?](https://www.edsurge.com/news/2020-02-12-are-algorithmically-generated-term-papers-the-next-big-challenge-to-academic-integrity) (EdSurge)
+  * [SoftBank’s $375 Million Bet on Pizza Went Really Bad Really Fast](https://www.bloomberg.com/news/articles/2020-02-13/inside-the-firings-at-softbank-s-robot-pizza-startup) (Bloomberg BusinessWeek)
+  * [How a Space Engineer Made Her Own Rotary Cell Phone](https://www.wired.com/story/justine-haupt-rotary-phone/) (Wired)
+
+
 **Friday, February 07**
   * [MICROSOFT’S WINDOWS FUTURE IS NOW TIED TO HARDWARE](https://www.theverge.com/2020/2/6/21126044/microsoft-windows-future-software-hardware-windows-devices-panos-panay) (The Verge)
   * [Steven Levy's Plaintext](https://link.wired.com/view/5bd670be2ddf9c619438dc56bjceg.cpz/cafbd186)
