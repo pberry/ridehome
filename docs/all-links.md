@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, February 28 2020 - Is Apple Gonna Give the iPad a Trackpad?**
+
+  * [Amazon bars one million products for false coronavirus claims](https://www.reuters.com/article/us-china-health-amazon-com/amazon-bars-one-million-products-for-false-coronavirus-claims-idUSKCN20L2ZH) (Reuters)
+  * [Initial sales of Galaxy S20 series downbeat amid virus fears](http://www.koreaherald.com/view.php?ud=20200228000557) (The Korea Herald)
+  * [FCC to propose $200 million fines for U.S. cellphone carriers over consumer data disclosures](https://www.reuters.com/article/us-usa-wireless/fcc-to-propose-fines-for-u-s-cellphone-carriers-over-consumer-data-disclosures-idUSKCN20L2WC) (Reuters)
+  * [Apple Planning iPad Keyboard with Trackpad](https://www.theinformation.com/articles/apple-planning-ipad-keyboard-with-trackpad) (The Information)
+  * [An iPhone with no ports? It could happen in the very near future](https://www.macworld.com/article/3529890/portless-iphone.html) (Macworld)
+  * [Second proof of concept of under-display camera, but won’t come to iPhone soon](https://9to5mac.com/2020/02/28/under-display-camera/) (9to5Mac)
+  * [Citroën's new EV is a tiny two-seater that only costs $22 a month](https://www.engadget.com/2020/02/27/citroen-ami/) (Engadget)
+
 **Thursday, February 27 2020 - The Year Of No Conferences**
 
   * [Facebook cancels F8 developers conference over coronavirus](https://www.cnet.com/news/facebook-cancels-f8-developer-conference-over-coronavirus-concerns/) (CNET)
