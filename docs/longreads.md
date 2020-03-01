@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, February 28**
+  * [How Monzo brought Silicon Valley’s ‘wild ideas’ to Britain’s staid banking system](https://www.cnbc.com/2020/02/27/how-monzos-tom-blomfield-went-from-silicon-valley-to-starting-a-bank.html) (CNBC)
+  * [The bank manager will see you now: is Monzo ready to grow up?](https://www.theguardian.com/money/2019/aug/11/the-bank-manager-will-see-you-now-is-monzo-ready-to-grow-up) (The Guardian)
+  * [Inside the race to build the best quantum computer on Earth](https://www.technologyreview.com/s/615180/quantum-computer-race-ibm-google/) (MIT Technology Review)
+  * [A parody Twitter account hits a nerve with Silicon Valley VCs](https://www.protocol.com/parody-twitter-account-vcs) (Protocol)
+  * [How North Korean Hackers Rob Banks Around the World](https://www.wired.com/story/how-north-korea-robs-banks-around-world/) (Wired)
+  * [YC’s New Guide to Raising a Series A](https://blog.ycombinator.com/ycs-series-a-guide/) (Y Combinator)
+  * [Printing’s Not Dead: The $35 Billion Fight Over Ink Cartridges](https://www.bloomberg.com/news/features/2020-02-27/xerox-and-hp-are-in-a-35-billion-fight-over-ink-cartridges) (Bloomberg Businessweek)
+
 **Friday, February 21**
   * [Did the Early Internet Activists Blow It?](https://slate.com/technology/2020/02/three-decades-internet-freedom-activism.html) (Slate)
   * [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/) (Wired)
