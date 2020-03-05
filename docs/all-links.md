@@ -2,6 +2,45 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, March 04 2020 - Are Fleets On Fleek?**
+
+  * [Twitter Is Finally Doing Stories](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-is-finally-doing-stories) (Buzzfeed)
+  * [Robinhood offers $15 discount, blames outage on record trades](https://techcrunch.com/2020/03/03/robinhood-outage-cause/) (TechCrunch)
+  * [Robinhood offers traders $15 for going down as markets gained $1.1T](https://thenextweb.com/hardfork/2020/03/04/robinhood-downtime-trading-app-stocks-options-wallstreetbets-market-stock/) (TNW)
+  * [Google cancels ‘physical’ I/O 2020 due to coronavirus concerns](https://9to5google.com/2020/03/03/google-io-2020-coronavirus/) (9to5Google)
+  * [Amazon employee in Seattle tests positive for coronavirus](https://www.geekwire.com/2020/amazon-employee-seattle-tests-positive-coronavirus/) (GeekWire)
+  * [Tesla downgraded Model 3 chip in China thanks to coronavirus](https://www.bbc.com/news/technology-51736405?at_medium=custom7&at_campaign=64&at_custom3=%40BBCTech&at_custom2=twitter&at_custom4=A0371E58-5E08-11EA-A574-A68A4744363C&at_custom1=%5bpost+type%5d) (BBC News)
+  * [Google Assistant can now read or translate websites and Android app content](https://venturebeat.com/2020/03/04/google-assistant-can-now-read-or-translate-websites-and-android-app-content/) (VentureBeat)
+  * [$75M legal startup Atrium shuts down, lays off 100](https://techcrunch.com/2020/03/03/atrium-shuts-down/) (TechCrunch)
+  * [After attracting 800K web developers, Netlify wins $53M in funding](https://siliconangle.com/2020/03/04/attracting-800k-web-developers-netlify-wins-53m-funding/) (SiliconAngle)
+  * [New AngelList data set sheds light on the signaling risks of seed-stage investments](https://techcrunch.com/2020/03/02/new-angellist-dataset-sheds-light-on-the-signaling-risks-of-seed-stage-investments/) (TechCrunch)
+  * [Streamer Quibi Raises Additional Funds Ahead of Launch](https://www.wsj.com/articles/streamer-quibi-raises-additional-funds-ahead-of-launch-11583267901) (WSJ)
+  * [Hulu’s live TV service is now on PS4 consoles after PlayStation Vue shutdown](https://www.theverge.com/2020/3/3/21163255/hulu-plus-live-tv-ps4-sony-playstation-vue-shutdown-available-now) (The Verge)
+  * [Roku is in talks for original programming, following the footsteps of Netflix and Amazon](https://digiday.com/media/roku-talks-original-programming-following-footsteps-netflix-amazon/) (Digiday)
+
+**Tuesday, March 03 2020 - What If Golf Is The Most Like Fortnite?**
+
+  * [Waymo raises $2.25 billion to scale up autonomous vehicles operations](https://venturebeat.com/2020/03/02/waymo-raises-2-25-billion-to-scale-up-autonomous-vehicles-operations/) (VentureBeat)
+  * [Robinhood Trading Site Seizes Up, Customers Miss Stock Rally](https://www.bloomberg.com/news/articles/2020-03-02/robinhood-suffers-online-outage-with-market-advancing-after-rout) (Bloomberg)
+  * [Honeywell set to launch its quantum computer with quantum volume of 64](https://www.zdnet.com/article/honeywell-set-to-launch-its-quantum-computer-with-quantum-volume-of-64/) (ZDNet)
+  * [Ampere Altra is the first 80-core ARM-based server processor](https://venturebeat.com/2020/03/03/ampere-altra-is-the-first-80-core-arm-based-server-processor/) (VentureBeat)
+  * [iPhone Maker Expects China Plants to Return to Normal in Coming Weeks](https://www.bloomberg.com/news/articles/2020-03-03/iphone-maker-expects-china-plants-back-to-normal-in-coming-weeks) (Bloomberg)
+  * [Tim Cook and Apple Bet Everything on China. Then Coronavirus Hit.](https://www.wsj.com/articles/tim-cook-and-apple-bet-everything-on-china-then-coronavirus-hit-11583172087) (WSJ)
+  * [Alibaba’s new AI system can detect coronavirus in seconds with 96% accuracy](https://thenextweb.com/neural/2020/03/02/alibabas-new-ai-system-can-detect-coronavirus-in-seconds-with-96-accuracy/) (TNW)
+  * [NBC’s experimental PGA Tour live stream makes it easier to follow your favorite golfer](https://www.theverge.com/2020/3/2/21161455/players-championship-pga-live-stream-cameras-course-nbc-sports-gold?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
+**Monday, March 02 2020 - I Don't Think Streaming Platforms Have Coke Habits**
+
+  * [Rajeev Suri to step down as Nokia CEO; Pekka Lundmark to take over](https://techcrunch.com/2020/03/01/rajeev-suri-to-step-down-as-nokia-ceo-pekka-lundmark-to-take-over/) (TechCrunch)
+  * [Singer’s Elliott Seeks to Replace Twitter CEO Dorsey](https://www.bloomberg.com/news/articles/2020-02-29/singer-s-elliott-is-said-to-seek-to-replace-twitter-ceo-dorsey) (Bloomberg)
+  * [Apple to pay up to $500 million to settle U.S. lawsuit over slow iPhones](https://www.reuters.com/article/us-apple-iphones-settlement/apple-to-pay-up-to-500-million-to-settle-u-s-lawsuit-over-slow-iphones-idUSKBN20P2E7?il=0) (Reuters)
+  * [Google's ambitious push into gaming is floundering, and it's due largely to too few games on its Stadia platform — here's why developers have held back](https://www.businessinsider.com/why-are-so-few-games-on-google-stadia-2020-2?op=1) (Business Insider)
+  * [AT&T TV now available nationwide with Android TV set-top box — and a two-year contract](https://www.theverge.com/2020/3/2/21160860/att-tv-now-available-android-tv-google-assistant-streaming) (The Verge)
+  * [Spotify’s Newest Pitch to Labels and Musicians: Now You Pay Us](https://www.bloomberg.com/news/articles/2020-03-02/spotify-s-newest-pitch-to-labels-and-musicians-now-you-pay-us) (Bloomberg)
+  * [The Week in Tech: Coronavirus Disrupts the Industry](https://www.nytimes.com/2020/02/28/technology/coronavirus-disrupts-industry.html) (NYTimes)
+  * [Airbnb’s Path to 2020 Stock Listing Imperiled by Coronavirus](https://www.bloomberg.com/news/articles/2020-03-02/airbnb-s-path-to-2020-stock-listing-imperiled-by-coronavirus) (Bloomberg)
+  * [Kuo: iPhone Production Will Not Significantly Improve Until Second Quarter of 2020](https://www.macrumors.com/2020/03/01/kuo-iphone-production-improve-2q2020/) (MacRumors)
+
 **Friday, February 28 2020 - Is Apple Gonna Give the iPad a Trackpad?**
 
   * [Amazon bars one million products for false coronavirus claims](https://www.reuters.com/article/us-china-health-amazon-com/amazon-bars-one-million-products-for-false-coronavirus-claims-idUSKCN20L2ZH) (Reuters)
