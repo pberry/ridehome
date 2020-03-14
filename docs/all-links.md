@@ -2,6 +2,96 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 13 2020 - Has Coronavirus Proven ISP Datacaps Are A Sham?**
+
+  * [Housebound Italian Kids Strain Network With Fortnite Marathon](https://www.bloomberg.com/news/articles/2020-03-12/housebound-italian-kids-strain-network-with-fortnite-marathon) (Bloomberg)
+  * [AT&T Suspends Broadband Data Caps During Coronavirus Crisis](https://www.vice.com/en_us/article/v74qzb/atandt-suspends-broadband-usage-caps-during-coronavirus-crisis) (Vice)
+  * [Comcast accidentally published 200,000 “unlisted” phone numbers](https://arstechnica.com/tech-policy/2020/03/comcast-accidentally-published-200000-unlisted-phone-numbers/) (ArsTechnica)
+  * [Airbnb’s Loss Nearly Doubles in Fourth Quarter, Before Virus](https://www.bloomberg.com/news/articles/2020-03-12/airbnb-s-loss-nearly-doubles-in-fourth-quarter-before-virus-hit) (Bloomberg)
+  * [Atlassian brings new automation tools to Jira Cloud](https://techcrunch.com/2020/03/12/atlassian-brings-new-automation-tools-to-jira-cloud/) (TechCrunch)
+
+**Thursday, March 12 2020 - Bye, Bye, Butterfly**
+
+  * [Apple Closes All 17 Stores in Italy Amid Coronavirus Pandemic](https://www.bloomberg.com/news/articles/2020-03-11/apple-closes-all-17-stores-in-italy-amid-coronavirus-pandemic) (Bloomberg)
+  * [Twitter makes working from home mandatory for employees around the world in response to COVID-19](https://techcrunch.com/2020/03/11/twitter-makes-working-from-home-mandatory-for-employees-around-the-world-in-response-to-covid-19/) (TechCrunch)
+  * [Resumption of work at Foxconn factories in China beats expectations, says founder](https://www.reuters.com/article/health-coronavirus-foxconn/resumption-of-work-at-foxconn-factories-in-china-beats-expectations-says-founder-idUSL4N2B52F5) (Reuters)
+  * [Scoop: Google's G Suite cracks 2 billion users](https://www.axios.com/google-g-suite-total-users-9a6d3df6-c990-4866-9efc-ba6756ba3c4d.html) (Axios)
+  * [Kuo: New MacBook Pro and MacBook Air Models With Scissor Keyboards to Launch in Second Quarter](https://www.macrumors.com/2020/03/12/kuo-macbook-pro-air-scissor-keyboard/) (MacRumors)
+  * [The next iPhone will get a ‘world facing’ 3D camera](https://www.fastcompany.com/90474966/the-next-iphone-will-get-a-world-facing-3d-camera) (Fast Company)
+  * [Augmented-Reality Startup Magic Leap to Explore a Sale](https://www.bloomberg.com/news/articles/2020-03-11/augmented-reality-startup-magic-leap-is-said-to-explore-a-sale) (Bloomberg)
+  * [Deep North raises $25.7M for AI that uses CCTV to build retail analytics](https://techcrunch.com/2020/03/12/deep-north-raises-25-7m-for-ai-that-uses-cctv-to-build-retail-analytics/) (TechCrunch)
+  * [Bitcoin Hits 10-Month Low Below $6K as Stocks Plunge in Massive Sell-Off](https://www.coindesk.com/bitcoin-hits-10-month-low-below-6k-alongside-new-stock-markets-plunge) (CoinDesk)
+
+**Wednesday, March 11 2020 - Now E3 Is Cancelled**
+
+  * E3 2020 Canceled After ‘Overwhelming Concerns’ About Coronavirus (Variety)
+  * Uber may suspend accounts of riders, drivers who test positive for coronavirus (Reuters)
+  * Exclusive: Google plans new Chromecast Ultra based on Android TV (w/ remote!) (9to5Google)
+  * Apple Developing Fitness App for iOS 14 That Lets You Download Guided Workout Videos (MacRumors)
+  * UK presses ahead with digital tech tax in spite of pressure from Trump (CNET)
+  * Intel CPUs vulnerable to new LVI attacks (ZDNet)
+  * Amazon's Arm-based Graviton2 Against AMD and Intel: Comparing Cloud Compute (AnAndTech)
+  * More good news: Medical equipment is still prone to hacker attacks (VentureBeat)
+  * SAMSUNG GALAXY S20 REVIEW: JUST RIGHT (The Verge)
+  * Venture funding into crypto on pace to be down 40% from Q1 2019 (TheBlockGenesis)
+
+**Tuesday, March 10 2020 - Hold Me Closer, Tiny iPhone**
+
+  * [iOS 14 reveals iPhone 9 and updated iPad Pro details, new Apple TV remote, AirTags, more](https://9to5mac.com/2020/03/10/ios-14-iphone-9-ipad-pro-apple-tv/) (9to5Mac)
+  * [Apple developing new augmented reality app for iOS 14, testing Apple Store and Starbucks partnership](https://9to5mac.com/2020/03/10/apple-developing-new-augmented-reality-app-for-ios-14-testing-apple-store-and-starbucks-partnership/) (9to5Mac)
+  * [Apple Watch Series 6 and watchOS 7 to include ‘Infograph Pro’ with tachymeter](https://9to5mac.com/2020/03/09/apple-watch-series-6-watchos-7-features/) (9to5Mac)
+  * [Apple Invents Foldable iPad and iPhone that could enter a ‘Joint Operating Mode’ Similar to Microsoft’s Surface Neo](https://www.patentlyapple.com/patently-apple/2020/03/apple-invents-foldable-ipad-and-iphone-that-could-enter-a-joint-operating-mode-similar-to-microsofts-surface-neo.html) (Patently Apple)
+  * [Popular VPN And Ad-Blocking Apps Are Secretly Harvesting User Data](https://www.buzzfeednews.com/article/craigsilverman/vpn-and-ad-blocking-apps-sensor-tower) (BuzzFeed News)
+  * [Twitter thread from Will Strafach on Sensor Tower apps](https://twitter.com/chronic/status/1237180084517126145) (Twitter)
+  * [Surveillance Firm Banjo Used a Secret Company and Fake Apps to Scrape Social Media](https://www.vice.com/en_us/article/z3bgky/banjo-ai-used-secret-company-and-fake-apps-to-scrape-facebook-twitter) (Motherboard)
+  * [Announcing TensorFlow Quantum: An Open Source Library for Quantum Machine Learning](https://ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html) (Google AI Blog)
+  * [Google launches TensorFlow Quantum, a machine learning framework for training quantum models](https://venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/) (VentureBeat)
+  * [DoNotPay Chrome browser extension](https://chrome.google.com/webstore/detail/donotpay/akemkahcafdlkabpffecbmhngbgpaial) (Chrome Web Store)
+  * [Now you can share your Netflix account just by sending a link](https://www.fastcompany.com/90473778/now-you-can-share-your-netflix-account-just-by-sending-a-link) (Fast Company)
+  * [How to clean your Apple products](https://support.apple.com/en-us/HT204172?mod=article_inline) (Apple)
+  * [All but four of Apple’s stores in mainland China have reopened after coronavirus shutdown](https://www.cnbc.com/2020/03/10/coronavirus-apple-china-stores-all-open-apart-from-four.html) (CNBC)
+  * [Silicon Valley is effectively on lockdown over coronavirus](https://www.cnet.com/news/silicon-valley-is-effectively-on-lockdown-over-coronavirus/) (Cnet)
+  * [Amazon Tells New York and New Jersey Employees to Stay Home](https://gizmodo.com/amazon-tells-new-york-and-new-jersey-employees-to-stay-1842218098)
+  * [Uber to offer drivers 14 days sick leave if they fall ill with coronavirus](https://www.cnn.com/2020/03/07/tech/uber-coronavirus-sick-leave/index.html) (CNN)
+  * [Engineer Who Attended Cyber Event Contracts Coronavirus](https://www.bloomberg.com/news/articles/2020-03-10/engineer-who-attended-cybersecurity-event-contracts-coronavirus) (Bloomberg News)
+  * [How a ban on pro-Trump patterns unraveled the online knitting world](https://www.technologyreview.com/s/615325/ravelry-ban-on-pro-trump-patterns-unraveled-the-online-knitting-world-censorship-free/) (MIT Technology Review)
+
+**Monday, March 09 2020 - @Jack Lives To Fight Another Day**
+
+  * [Robinhood goes down again, causing clients to miss out on another historic trading day](https://www.cnbc.com/2020/03/09/robinhood-app-down-again-during-another-historic-trading-day.html) (CNBC)
+  * [Twitter CEO Dorsey keeps his job after company strikes investment deal with Elliott Management, Silver Lake](https://www.cnbc.com/2020/03/09/twitter-strikes-investment-deal-with-elliott-management-silver-lake-after-attempt-to-oust-ceo-jack-dorsey.html) (CNBC)
+  * [Apple sells fewer than 500,000 smartphones in China in February amid coronavirus](https://www.reuters.com/article/us-health-coronavirus-apple-china/apple-sells-fewer-than-500000-smartphones-in-china-in-february-amid-coronavirus-idUSKBN20W19H) (Reuters)
+  * [Amazon launches business selling automated checkout to retailers](https://www.reuters.com/article/us-amazon-com-store-technology/amazon-launches-business-selling-automated-checkout-to-retailers-idUSKBN20W0OD) (Reuters)
+  * [SXSW canceled due to coronavirus after Austin declares ‘local disaster’](https://www.cnbc.com/2020/03/06/sxsw-cancelled-due-to-coronavirus.html) (CNBC)
+  * [Apple opens repair program for 2019 iPad Air models suffering from blank screen issue](https://appleinsider.com/articles/20/03/06/apple-opens-repair-program-for-2019-ipad-air-models-suffering-from-blank-screen-issue) (AppleInsider)
+  * [iPhone 12 Pro leak reveals how Apple will beat the Samsung Galaxy S20](https://www.tomsguide.com/news/iphone-12-pro-leak-reveals-how-apple-will-annihilate-samsung-galaxy-s20) (Tom's Guide)
+  * [New AMD Side Channel Attacks Discovered, Impacts Zen Architecture (AMD Responds)](https://www.tomshardware.com/uk/news/new-amd-side-channel-attacks-discovered-impacts-zen-architecture) (Tom's Hardware)
+  * [ARM-ed Mac: Not Again Or For Real This Time?](https://mondaynote.com/arm-ed-mac-not-again-or-for-real-this-time-a3548eece86) (Jean-Louis Gassee)
+  * [How to Make Money in Your Sleep](https://www.nytimes.com/2020/03/06/style/sleep-tiktok-live.html) (NYTimes)
+
+**Friday, March 06 2020 - Sonos Won’t Brick Your Old Hardware Anymore**
+
+  * [5 years of Intel CPUs and chipsets have a concerning flaw that’s unfixable](https://arstechnica.com/information-technology/2020/03/5-years-of-intel-cpus-and-chipsets-have-a-concerning-flaw-thats-unfixable/)  (Ars Technica)
+  * [Apple is rejecting coronavirus apps that aren’t from health organizations, app makers say](https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html)  (CNBC)
+  * [YC W20 Online Demo Day](https://blog.ycombinator.com/yc-w20-online-demo-day/)  (YCombinator)
+  * [Sonos kills its device-bricking ‘recycle mode’](https://www.engadget.com/2020/03/05/sonos-kills-its-device-bricking-recycle-mode/)  (Engadget)
+  * [Quibi is giving people a 90-day free trial in hopes they’ll actually sign up](https://www.theverge.com/2020/3/6/21167076/quibi-trial-launch-date-price-subscription-streaming-disney-hbo-max-apple-tv-plus)  (The Verge)
+  * [Jack Dorsey is reconsidering Africa move amid coronavirus and activist investor threats](https://www.theverge.com/2020/3/5/21166514/twitter-jack-dorsey-africa-cancel-plans-coronavirus-activist-investor-elliott-management)  (The Verge)
+
+**Thursday, March 05 2020 - Apple Allows Ads in Push Notifications!?**
+
+  * [Microsoft tells Bay Area and Puget Sound employees to work from home if possible as coronavirus spreads](https://www.cnbc.com/2020/03/04/microsoft-tells-bay-area-puget-sound-employees-to-work-from-home.html) (CNBC)
+  * [Apple Warns Stores About a Shortage of Replacement iPhones](https://www.bloomberg.com/news/articles/2020-03-04/apple-warns-stores-about-shortage-of-replacement-iphones) (Bloomberg)
+  * [Ex-Uber self-driving head declares bankruptcy after $179 million loss to Google](https://www.reuters.com/article/us-waymo-uber/ex-uber-self-driving-head-owes-179-million-to-google-in-contract-dispute-idUSKBN20R37A) (Reuters)
+  * [Apple now lets apps send ads in push notifications](https://www.theverge.com/2020/3/4/21165087/ios-apple-push-notification-advertising-marketing-now-allowed-app-store) (The Verge)
+  * [Microsoft, Cisco Integrate Their Cloud and IoT Services](https://rcpmag.com/articles/2020/03/03/microsoft-cisco-integrate-iot.aspx?m=1) (Redmond Channel Partner)
+  * [Google to switch completely over to mobile-first indexing by September 2020](https://searchengineland.com/google-to-switch-completely-over-to-mobile-first-indexing-by-september-2020-330174) (Search Engine Land)
+  * [Hackers Can Clone Millions of Toyota, Hyundai, and Kia Keys](https://www.wired.com/story/hackers-can-clone-millions-of-toyota-hyundai-kia-keys/) (Wired)
+  * [VSCO's new editing tool Montage lets you edit and layer both photos and videos](https://techcrunch.com/2020/03/04/vscos-new-editing-tool-montage-lets-you-edit-and-layer-both-photos-and-video/) (TechCrunch)
+  * [Google starts rolling out 4K Stadia gaming on the web](https://9to5google.com/2020/03/05/stadia-4k-web/) (9to5Google)
+  * [Samsung launches its 2020 lineup of 4K and 8K QLED TVs](https://www.theverge.com/2020/3/5/21166045/samsung-2020-tv-lineup-qled-4k-8k-hdr-infinity-screen?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+  * [Exclusive: For $3, a ‘robot lawyer’ will sue data brokers that don’t delete your personal and location info](https://fortune.com/2020/03/05/delete-location-data-privacy-personal-information-donotpay/) (Fortune)
+
 **Wednesday, March 04 2020 - Are Fleets On Fleek?**
 
   * [Twitter Is Finally Doing Stories](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-is-finally-doing-stories) (Buzzfeed)
