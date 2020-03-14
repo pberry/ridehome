@@ -2,6 +2,23 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 13**
+  * [The Secret History of a Cold War Mastermind](https://www.wired.com/story/the-secret-history-of-a-cold-war-mastermind/) (Wired)
+  * [TIM COOK’S TRICK FOR MAKING IPHONES IS NOW AT RISK FROM THE PANDEMIC](https://www.theverge.com/2020/3/13/21177024/apple-just-in-time-manufacturing-china-coronavirus-supply-chain) (The Verge)
+  * [Why All the Warby Parker Clones Are Now Imploding](https://marker.medium.com/why-all-the-warby-parker-clones-are-now-imploding-44bfcc70a00c) (Marker)
+  * [How Google kneecapped Amazon’s smart TV efforts](https://www.protocol.com/google-android-amazon-fire-tv) (Protocol)
+  * [A Chatty Auction Site Is Taking the Classic Car World by Storm](https://www.nytimes.com/2020/03/05/business/bring-a-trailer-classic-car-auctions.html) (NYTimes)
+  * [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/) (Cloudflare)
+
+**Friday, March 06**
+  * [So you wanna buy a used IP address block?](https://blog.strom.com/wp/?p=7561) (Web Informant)
+  * [The Untold Story of the Man That Made Mainstream Encryption Possible](https://onezero.medium.com/the-untold-story-of-the-man-that-made-mainstream-encryption-possible-231c749d5005) (One Zero)
+  * [Sportswriting’s future may depend on the Athletic, which is either reassuring or terrifying](https://www.washingtonpost.com/sports/2020/03/03/the-athletic-sports-media-future/) (Washington Post)
+  * [Hideo Kojima’s Strange, Unforgettable Video-Game Worlds](https://www.nytimes.com/2020/03/03/magazine/hideo-kojima-death-stranding-video-game.html) (NYTimes Magazine)
+  * [Can You Really Hire a Hit Man on the Dark Web?](https://www.nytimes.com/2020/03/04/technology/can-you-hire-a-hit-man-online.html) (NYTimes)
+  * [This Utility Heats New York State—And Mines Its Own Bitcoin](https://www.bloomberg.com/news/articles/2020-03-05/this-utility-heats-new-york-state-and-mines-its-own-bitcoin?utm_source=twitter&utm_campaign=socialflow-organic&utm_medium=social&utm_content=crypto) (Bloomberg)
+  * [Classic iPod Hackers Say There’s No Better Way to Listen to Music](https://onezero.medium.com/classic-ipod-hackers-say-theres-no-better-way-to-listen-to-music-da754fa9ad35) (One Zero)
+
 **Friday, February 28**
   * [How Monzo brought Silicon Valley’s ‘wild ideas’ to Britain’s staid banking system](https://www.cnbc.com/2020/02/27/how-monzos-tom-blomfield-went-from-silicon-valley-to-starting-a-bank.html) (CNBC)
   * [The bank manager will see you now: is Monzo ready to grow up?](https://www.theguardian.com/money/2019/aug/11/the-bank-manager-will-see-you-now-is-monzo-ready-to-grow-up) (The Guardian)
