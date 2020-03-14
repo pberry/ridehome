@@ -24,16 +24,17 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 **Wednesday, March 11 2020 - Now E3 Is Cancelled**
 
-  * E3 2020 Canceled After ‘Overwhelming Concerns’ About Coronavirus (Variety)
-  * Uber may suspend accounts of riders, drivers who test positive for coronavirus (Reuters)
-  * Exclusive: Google plans new Chromecast Ultra based on Android TV (w/ remote!) (9to5Google)
-  * Apple Developing Fitness App for iOS 14 That Lets You Download Guided Workout Videos (MacRumors)
-  * UK presses ahead with digital tech tax in spite of pressure from Trump (CNET)
-  * Intel CPUs vulnerable to new LVI attacks (ZDNet)
-  * Amazon's Arm-based Graviton2 Against AMD and Intel: Comparing Cloud Compute (AnAndTech)
-  * More good news: Medical equipment is still prone to hacker attacks (VentureBeat)
-  * SAMSUNG GALAXY S20 REVIEW: JUST RIGHT (The Verge)
-  * Venture funding into crypto on pace to be down 40% from Q1 2019 (TheBlockGenesis)
+  * [E3 2020 Canceled After ‘Overwhelming Concerns’ About Coronavirus](https://variety.com/2020/digital/news/e3-2020-canceled-coronavirus-1203529992/) (Variety)
+  * [Uber may suspend accounts of riders, drivers who test positive for coronavirus](https://www.reuters.com/article/us-health-coronavirus-uber-idUSKBN20Y0MQ) (Reuters)
+  * [Exclusive: Google plans new Chromecast Ultra based on Android TV (w/ remote!)](https://9to5google.com/2020/03/10/exclusive-2nd-gen-chromecast-ultra-android-tv/) (9to5Google)
+  * [Apple Developing Fitness App for iOS 14 That Lets You Download Guided Workout Videos](https://www.macrumors.com/2020/03/09/apple-ios-14-fitness-app-guided-workouts/) (MacRumors)
+  * [UK presses ahead with digital tech tax in spite of pressure from Trump](https://www.cnet.com/news/uk-presses-ahead-with-digital-tech-tax-in-spite-of-pressure-from-trump/) (CNET)
+  * [Intel CPUs vulnerable to new LVI attacks](https://www.zdnet.com/article/intel-cpus-vulnerable-to-new-lvi-attacks/) (ZDNet)
+  * [Amazon's Arm-based Graviton2 Against AMD and Intel: Comparing Cloud Compute](https://www.anandtech.com/show/15578/cloud-clash-amazon-graviton2-arm-against-intel-and-amd) (AnAndTech)
+  * [More good news: Medical equipment is still prone to hacker attacks](https://venturebeat.com/2020/03/10/more-good-news-medical-equipment-is-still-prone-to-hacker-attacks/) (VentureBeat)
+  * [SAMSUNG GALAXY S20 REVIEW: JUST RIGHT](https://www.theverge.com/2020/3/11/21172039/samsung-galaxy-s20-plus-review-camera-5g-screen-android) (The Verge)
+  * [Venture funding into crypto on pace to be down 40% from Q1 2019](https://www.theblockcrypto.com/genesis/58349/venture-funding-into-crypto-on-pace-to-be-down-40-from-q1-2019?utm_source=rss&utm_medium=rss) (TheBlockGenesis)
+
 
 **Tuesday, March 10 2020 - Hold Me Closer, Tiny iPhone**
 
