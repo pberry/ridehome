@@ -1,3 +1,13 @@
+**Wednesday, March 18 2020 - What Does It Feel Like to Have Covid? What Are The Biggest Myths?**
+
+  * [@jwdaddy80](https://twitter.com/jwdaddy80/status/1239704023998984193?s=12) (Twitter)
+  * [Chris Gough](https://twitter.com/GoughCJ/status/1239587299136098305) (Twitter)
+  * [Luca Dellanna](https://twitter.com/dellannaluca/status/1239850445251604482?s=12) \- Why Is Mortality So High In Italy (Twitter)
+  * [Dr. Faheem Younus](https://twitter.com/faheemyounus/status/1239704749232005121?s=12 ) \- Myths of Coronavirus (Twitter)
+  * [Hospitals rushed by people seeking testing](https://www.ajc.com/news/state--regional/preparing-for-surge-hospitals-limit-visitors-reschedule-surgeries/OqnPmLZhmMhwCu5jQ6JoBK/) (Atlanta Journal-Constitution)
+  * [Coronavirus Is Hiding in Plain Sight](https://www.nytimes.com/2020/03/16/health/coronavirus-statistics-undetected.html) (New York Times)
+  * [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221) (Science)
+
 **Tuesday, March 17 2020 - “Stealth Transmission” and How Long Will Social Distancing Last?**
 
   * [Tracking the Testing](https://talkingpointsmemo.com/edblog/tracking-the-testing) (Talking Points Memo)
