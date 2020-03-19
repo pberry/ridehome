@@ -2,6 +2,58 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, March 19 2020 - This Is The Microsoft Teams Moment**
+
+  * [ Square gains FDIC conditional approval for a banking license](https://siliconangle.com/2020/03/18/square-gains-conditional-approval-banking-license-fdic/) (Silicon Angle)
+  * [ Microsoft Teams passes 44 million daily active users, thanks in part to coronavirus](https://venturebeat.com/2020/03/19/microsoft-teams-passes-44-million-daily-active-users-thanks-in-part-to-coronavirus/) (VentureBeat)
+  * [ What worries Mark Zuckerberg](https://www.getrevue.co/profile/caseynewton/issues/what-worries-mark-zuckerberg-234152) (The Interface)
+  * [EU warns of broadband strain as millions work from home](https://www.ft.com/content/b4ab03db-de1f-4f98-bcc2-b09007427e1b) (Financial Times)
+  * [ Improved iPhone, AirPods availability suggests Chinese production nearing normality](https://appleinsider.com/articles/20/03/18/improved-iphone-airpods-availability-suggests-chinese-production-nearing-normal-capacity) (Apple Insider)
+  * [ Music streaming may actually be falling because of coronavirus](https://qz.com/1820896/music-streaming-may-actually-be-falling-because-of-coronavirus/) (QZ)
+  * [ Apple's iPad Pro becomes more like a Surface, and that's a problem for Microsoft](https://www.windowscentral.com/apple-ipad-pro-magic-keyboard-surface) (Windows Central)
+  * [Steven Sinofsky tweet thread about the iPad](https://twitter.com/stevesi/status/1240327411478061056)
+
+**Wednesday, March 18 2020 - The iPad is a Laptop Now!**
+
+  * [ Apple announces new iPad Pro with trackpad support and a wild keyboard cover](https://www.theverge.com/2020/3/18/21184719/apple-announces-new-ipad-pro-price-release-date-availability) (The Verge)
+  * [ The MacBook Air gets an updated keyboard and souped-up specs, starting at $999](https://techcrunch.com/2020/03/18/the-macbook-air-gets-an-updated-keyboard-and-souped-up-specs-starting-at-999/) (TechCrunch)
+  * [ Apple's $799 Mac mini debuts with double the storage](https://appleinsider.com/articles/20/03/18/new-mac-mini-with-doubled-storage-capacity-debuts-for-799) (Apple Insider)
+  * [ Google Translate launches Transcribe for Android in 8 languages](https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/) (VentureBeat)
+  * [ Slack unveils its biggest redesign yet](https://www.theverge.com/2020/3/18/21184865/slack-redesign-update-sidebar-changes-available-now-download) (The Verge)
+  * [ PlayStation 5 hardware specifications revealed](https://www.polygon.com/2020/3/18/21184984/ps5-specs-playstation-5-gpu-cpu-ssd) (Polygon)
+  * [ How Cameo Turned D-List Celebs Into a Monetization Machine](https://marker.medium.com/how-cameo-turned-d-list-celebs-into-a-monetization-machine-d0774e6a480f) (Marker)
+
+**Tuesday, March 17 2020 - Microsoft Wants To Own The Dev Stack**
+
+  * [ Microsoft's GitHub acquires npm to help JavaScript developers](https://www.windowscentral.com/microsofts-github-acquires-npm-help-javascript-developers) (WindowsCentral)
+  * [ iOS 14 code confirms Apple planning ‘iPhone 9 Plus’ with A13 as larger version of rumored entry-level model](https://9to5mac.com/2020/03/16/ios-14-code-confirms-apple-planning-iphone-9-plus-with-a13-as-larger-version-of-rumored-entry-level-model/) (9to5Mac)
+  * [ Amazon ramps hiring, opening 100,000 new roles to support people relying on Amazon’s service in this stressful time](https://blog.aboutamazon.com/operations/amazon-opening-100000-new-roles) (Amazon Day One Blog)
+  * [ Uber, Lyft suspend pooled rides in U.S., Canada to limit spread of coronavirus](https://www.reuters.com/article/us-health-coronavirus-uber/uber-suspends-pooled-rides-in-u-s-canada-to-limit-coronavirus-spread-idUSKBN214192) (Reuters)
+  * [ Phones Could Track the Spread of Covid-19. Is It a Good Idea?](https://www.wired.com/story/phones-track-spread-covid19-good-idea/) (Wired)
+  * [ To Track Coronavirus, Israel Moves to Tap Secret Trove of Cellphone Data](https://www.nytimes.com/2020/03/16/world/middleeast/israel-coronavirus-cellphone-tracking.html) (NYTimes)
+  * [ With Movie Theater Shutdown, Universal Pictures to Stream New Release Films on Prime Video, iTunes, & More](https://thestreamable.com/news/universal-pictures-to-stream-new-release-films-on-prime-video-itunes-more) (The Streamable)
+  * [ Movie Crowds Stay Away. Theaters Hope It’s Not for Good.](https://www.nytimes.com/2020/03/15/business/media/movie-theaters-coronavirus.html) (NYTimes)
+
+**Monday, March 16 2020 - What REALLY Happened W/That Google Coronavirus Project?**
+
+  * [ Apple fined a record $1.2 billion by French antitrust authorities](https://www.cnbc.com/2020/03/16/apple-fined-1point2-billion-by-french-competition-authorities.html) (CNBC)
+  * [ FCC’s largest spectrum auction nets $4.47 billion for 5G mmWave bands](https://venturebeat.com/2020/03/12/fccs-largest-spectrum-auction-nets-4-47-billion-for-5g-mmwave-bands/) (VentureBeat)
+  * [Beats announces $149 Powerbeats with 15 hours of battery life](https://www.theverge.com/2020/3/16/21181279/apple-beats-powerbeats-4-wireless-earbuds-announced-features) (The Verge)
+  * [Inside Xbox Series X: the full specs](https://www.eurogamer.net/articles/digitalfoundry-2020-inside-xbox-series-x-full-specs) (Eurogamer)
+  * [Microsoft hits its goal of 1 billion devices running Windows 10](https://www.theverge.com/2020/3/16/21116762/microsoft-windows-10-active-devices-billion-7-support) (The Verge)
+  * [Trump Oversold a Google Site to Fight Coronavirus](https://www.nytimes.com/2020/03/14/us/politics/trump-google-coronavirus.html) (NYTimes)
+  * [Trump’s Google testing announcement mixed up several real projects](https://www.theverge.com/2020/3/15/21180370/google-testing-website-coronavirus-trump-covid-19-confusion) (The Verge)
+  * [Silicon Valley Was First to Send Workers Home. It’s Been Messy.](https://www.wsj.com/articles/silicon-valley-was-first-to-send-workers-home-its-been-messy-11584190800) (WSJ)
+  * [Coronavirus Impact: Netflix Shuts Down Film, TV Work in U.S. and Canada as Production Nears Standstill](https://www.hollywoodreporter.com/live-feed/tv-productions-flux-coronavirus-concerns-1284398) (The Hollywood Reporter)
+
+**Friday, March 13 2020 - Has Coronavirus Proven ISP Datacaps Are A Sham?**
+
+  * [Housebound Italian Kids Strain Network With Fortnite Marathon](https://www.bloomberg.com/news/articles/2020-03-12/housebound-italian-kids-strain-network-with-fortnite-marathon) (Bloomberg)
+  * [AT&T Suspends Broadband Data Caps During Coronavirus Crisis](https://www.vice.com/en_us/article/v74qzb/atandt-suspends-broadband-usage-caps-during-coronavirus-crisis) (Vice)
+  * [Comcast accidentally published 200,000 “unlisted” phone numbers](https://arstechnica.com/tech-policy/2020/03/comcast-accidentally-published-200000-unlisted-phone-numbers/) (ArsTechnica)
+  * [Airbnb’s Loss Nearly Doubles in Fourth Quarter, Before Virus](https://www.bloomberg.com/news/articles/2020-03-12/airbnb-s-loss-nearly-doubles-in-fourth-quarter-before-virus-hit) (Bloomberg)
+  * [Atlassian brings new automation tools to Jira Cloud](https://techcrunch.com/2020/03/12/atlassian-brings-new-automation-tools-to-jira-cloud/) (TechCrunch)
+
 **Friday, March 13 2020 - Has Coronavirus Proven ISP Datacaps Are A Sham?**
 
   * [Housebound Italian Kids Strain Network With Fortnite Marathon](https://www.bloomberg.com/news/articles/2020-03-12/housebound-italian-kids-strain-network-with-fortnite-marathon) (Bloomberg)
