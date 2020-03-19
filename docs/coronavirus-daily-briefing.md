@@ -1,3 +1,18 @@
+**Thursday, March 19 2020 - See How Much Capacity Your Local Community Has For Covid-19 Patients; How To Preserve Your Mental Health**
+
+  * [Country trajectory chart](https://twitter.com/jburnmurdoch/status/1240373707224363014) (John Burn-Murdoch on Twitter)
+  * [China: Avigan effective in tackling coronavirus](https://www3.nhk.or.jp/nhkworld/en/news/20200317_48/) (NHK)
+  * [Japanese flu drug 'clearly effective' in treating coronavirus, says China](https://amp.theguardian.com/world/2020/mar/18/japanese-flu-drug-clearly-effective-in-treating-coronavirus-says-china?__twitter_impression=true) (The Guardian)
+  * [A Promising Treatment for Coronavirus Fails](https://www.nytimes.com/2020/03/18/health/coronavirus-antiviral-drugs-fail.html) (New York Times)
+  * [ProPublica tool - how much capacity do your local hospitals have?](https://projects.propublica.org/graphics/covid-hospitals) (ProPublica)
+  * [These Places Could Run Out of Hospital Beds as Coronavirus Spreads](https://www.nytimes.com/interactive/2020/03/17/upshot/hospital-bed-shortages-coronavirus.html) (New York Times)
+  * [Kristen Fisher](https://twitter.com/KristinFisher/status/1239754779930353665) (Twitter)
+  * [What coronavirus looks like in kids](https://www.washingtonpost.com/health/2020/03/17/coronavirus-looks-different-kids-than-adults/) (Washington Post)
+  * [Children and Coronavirus: Research Finds Some Become Seriously Ill](https://www.nytimes.com/2020/03/17/health/coronavirus-childen.html) (New York Times)
+  * [Epidemiological Characteristics of 2143 Pediatric Patients With 2019 Coronavirus Disease in China](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0702.full.pdf) (Pediatrics)
+  * [COVID-19 in Children: Initial Characterization of the Pediatric Disease](https://pediatrics.aappublications.org/content/pediatrics/early/2020/03/16/peds.2020-0834.full.pdf) (Pediatrics)
+  * [Mental health experts offer counsel on staying calm during coronavirus pandemic](https://www.washingtonpost.com/health/mental-health-experts-offer-counsel-on-staying-calm-during-coronavirus-pandemic/2020/03/17/a1a22af6-6701-11ea-b313-df458622c2cc_story.html) (Washington Post)
+
 **Wednesday, March 18 2020 - What Does It Feel Like to Have Covid? What Are The Biggest Myths?**
 
   * [@jwdaddy80](https://twitter.com/jwdaddy80/status/1239704023998984193?s=12) (Twitter)
