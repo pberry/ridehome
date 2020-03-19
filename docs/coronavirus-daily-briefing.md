@@ -1,3 +1,5 @@
+_Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
+
 **Thursday, March 19 2020 - See How Much Capacity Your Local Community Has For Covid-19 Patients; How To Preserve Your Mental Health**
 
   * [Country trajectory chart](https://twitter.com/jburnmurdoch/status/1240373707224363014) (John Burn-Murdoch on Twitter)
