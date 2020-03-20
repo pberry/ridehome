@@ -58,7 +58,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
   * [Housebound Italian Kids Strain Network With Fortnite Marathon](https://www.bloomberg.com/news/articles/2020-03-12/housebound-italian-kids-strain-network-with-fortnite-marathon) (Bloomberg)
   * [AT&T Suspends Broadband Data Caps During Coronavirus Crisis](https://www.vice.com/en_us/article/v74qzb/atandt-suspends-broadband-usage-caps-during-coronavirus-crisis) (Vice)
-  * [Comcast accidentally published 200,000 “unlisted” phone numbers](https://arstechnica.com/tech-policy/2020/03/comcast-accidentally-published-200000-unlisted-phone-numbers/) (ArsTechnica)
+  * [Comcast accidentally published 200,000 “unlisted” phone numbers](https://arstechnica.com/tech-policy/2020/03/comcast-accidentally-published-200000-unlisted-phone-numbers/) (Ars Technica)
   * [Airbnb’s Loss Nearly Doubles in Fourth Quarter, Before Virus](https://www.bloomberg.com/news/articles/2020-03-12/airbnb-s-loss-nearly-doubles-in-fourth-quarter-before-virus-hit) (Bloomberg)
   * [Atlassian brings new automation tools to Jira Cloud](https://techcrunch.com/2020/03/12/atlassian-brings-new-automation-tools-to-jira-cloud/) (TechCrunch)
 
@@ -66,7 +66,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
   * [Housebound Italian Kids Strain Network With Fortnite Marathon](https://www.bloomberg.com/news/articles/2020-03-12/housebound-italian-kids-strain-network-with-fortnite-marathon) (Bloomberg)
   * [AT&T Suspends Broadband Data Caps During Coronavirus Crisis](https://www.vice.com/en_us/article/v74qzb/atandt-suspends-broadband-usage-caps-during-coronavirus-crisis) (Vice)
-  * [Comcast accidentally published 200,000 “unlisted” phone numbers](https://arstechnica.com/tech-policy/2020/03/comcast-accidentally-published-200000-unlisted-phone-numbers/) (ArsTechnica)
+  * [Comcast accidentally published 200,000 “unlisted” phone numbers](https://arstechnica.com/tech-policy/2020/03/comcast-accidentally-published-200000-unlisted-phone-numbers/) (Ars Technica)
   * [Airbnb’s Loss Nearly Doubles in Fourth Quarter, Before Virus](https://www.bloomberg.com/news/articles/2020-03-12/airbnb-s-loss-nearly-doubles-in-fourth-quarter-before-virus-hit) (Bloomberg)
   * [Atlassian brings new automation tools to Jira Cloud](https://techcrunch.com/2020/03/12/atlassian-brings-new-automation-tools-to-jira-cloud/) (TechCrunch)
 
@@ -1062,7 +1062,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Uber Books Another Quarterly Loss as Revenue Climbs](https://www.wsj.com/articles/uber-booked-another-quarterly-loss-as-revenue-climbed-11572901549) (WSJ)
   * [MICROSOFT SURFACE PRO X REVIEW: HEARTBREAKER](https://www.The Verge.com/2019/11/5/20948092/microsoft-surface-pro-x-review-arm-windows-10-apps-features-specs-price) (The Verge)
   * [Xiaomi unveils its 108-megapixel smartphone](https://www.engadget.com/2019/11/05/xiaomi-cc9-pro-108-megapixel-smartphone/) (Engadget)
-  * [Actively exploited bug in fully updated Firefox is sending users into a tizzy](https://arstechnica.com/information-technology/2019/11/scammers-are-exploiting-an-unpatched-firefox-bug-to-send-users-into-a-panic/) (ArsTechnica)
+  * [Actively exploited bug in fully updated Firefox is sending users into a tizzy](https://arstechnica.com/information-technology/2019/11/scammers-are-exploiting-an-unpatched-firefox-bug-to-send-users-into-a-panic/) (Ars Technica)
   * [IOS 13.2 IS OVERZEALOUSLY KILLING APPS IN THE BACKGROUND](https://daringfireball.net/linked/2019/10/31/ios-13-2-background-app-massacre) (Daring Fireball)
   * [I Got Access to My Secret Consumer Score. Now You Can Get Yours, Too.](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html) (NYTimes)
 
@@ -1099,7 +1099,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Facebook shares rise on strong Q3, users up 2% to 2.45B](https://techcrunch.com/2019/10/30/facebook-earnings-q3-2019/) (TechCrunch)
   * [A Facebook content moderation vendor is quitting the business after two Verge investigations](https://www.The Verge.com/2019/10/30/20940956/cognizant-facebook-content-moderation-exit-business-conditions-investigation) (The Verge)
   * [Apple is laying the groundwork for an iPhone subscription](https://www.cnbc.com/2019/10/30/apple-lays-groundwork-for-iphone-or-apple-prime-subscription.html) (CNBC)
-  * [Researchers unearth malware that siphoned SMS texts out of telco’s network](https://arstechnica.com/information-technology/2019/10/researchers-unearth-malware-that-siphoned-sms-texts-out-of-telcos-network/) (ArsTechnica)
+  * [Researchers unearth malware that siphoned SMS texts out of telco’s network](https://arstechnica.com/information-technology/2019/10/researchers-unearth-malware-that-siphoned-sms-texts-out-of-telcos-network/) (Ars Technica)
   * [Unraveling the Secret Origins of an AmazonBasics Battery](https://onezero.medium.com/unraveling-the-secret-supply-chain-behind-an-amazonbasics-battery-e7b9ead4d72e) (OneZero)
 
 
@@ -1334,7 +1334,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 **Friday, October 04 2019 - BAD Android Zero-Day Out There...**
 
-  * [Attackers exploit 0-day vulnerability that gives full control of Android phones](https://arstechnica.com/information-technology/2019/10/attackers-exploit-0day-vulnerability-that-gives-full-control-of-android-phones/) (ArsTechnica)
+  * [Attackers exploit 0-day vulnerability that gives full control of Android phones](https://arstechnica.com/information-technology/2019/10/attackers-exploit-0day-vulnerability-that-gives-full-control-of-android-phones/) (Ars Technica)
   * [Bird raises $275 million Series D round at a $2.5 billion valuation](https://techcrunch.com/2019/10/03/bird-raises-275-million-series-d-round-at-2-5-billion-valuation/) (TechCrunch)
   * [Apple May Have Acquired Motion Capture Company IKinema [Update: Confirmed]](https://www.macrumors.com/2019/10/03/apple-acquisition-ikinema/) (MacRumors)
   * [Apple’s AR plans may come to life after acquiring iKinema motion tech](https://venturebeat.com/2019/10/04/apples-ar-plans-may-come-to-life-after-acquiring-ikinema-motion-tech/) (VentureBeat)
@@ -1385,7 +1385,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Spotify users can add podcasts to playlists](https://www.engadget.com/2019/09/30/spotify-podcast-playlists/) (Engadget)
   * [HP’s Spectre x360 13 seems like an improvement in almost every way](https://www.The Verge.com/2019/9/30/20886871/hp-spectre-x360-13-2019-small-bezels-oled-screen) (The Verge)
   * [New Checkm8 jailbreak released for all iOS devices running A5 to A11 chips ](https://www.zdnet.com/article/new-checkm8-jailbreak-released-for-all-ios-devices-running-a5-to-a11-chips/)(ZDNet)
-  * [Developer of Checkm8 explains why iDevice jailbreak exploit is a game changer](https://arstechnica.com/information-technology/2019/09/developer-of-checkm8-explains-why-idevice-jailbreak-exploit-is-a-game-changer/) (ArsTechnica)
+  * [Developer of Checkm8 explains why iDevice jailbreak exploit is a game changer](https://arstechnica.com/information-technology/2019/09/developer-of-checkm8-explains-why-idevice-jailbreak-exploit-is-a-game-changer/) (Ars Technica)
   * [The 'Checkm8' exploit isn't a big deal to iPhone or iPad users, and here's why](https://appleinsider.com/articles/19/09/28/the-checkm8-exploit-isnt-a-big-deal-to-iphone-or-ipad-users-and-heres-why) (Apple Insider)
   * [WeWork pulls IPO filing](https://www.cnbc.com/2019/09/30/wework-says-it-will-file-request-to-withdraw-its-ipo-prospectus-after-roadshow-management-turmoil.html) (CNBC)
   * [The Great Public Market Reckoning](https://avc.com/2019/09/the-great-public-market-reckoning/) (AVC)
@@ -2022,9 +2022,9 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Zoom is poised to be one of the most richly valued tech companies after it goes public](https://www.cnbc.com/2019/04/10/zoom-poised-to-join-most-richly-valued-tech-companies-after-ipo.html) (CNBC)
   * [Next major macOS version will include standalone Music, Podcasts, and TV apps, Books app gets major redesign](https://9to5mac.com/2019/04/10/macos-10-15-itunes-standalone-apps/) (9to5Mac)
   * [Walmart Is Rolling Out the Robots](https://www.wsj.com/articles/walmart-is-rolling-out-the-robots-11554782460) (WSJ)
-  * [Mysterious safety-tampering malware infects a second critical infrastructure site](https://arstechnica.com/information-technology/2019/04/mysterious-safety-tampering-malware-infects-a-2nd-critical-infrastructure-site/) (ArsTechnica)
-  * [Congress is about to ban the government from offering free online tax filing](https://arstechnica.com/tech-policy/2019/04/congress-is-about-to-ban-the-government-from-offering-free-online-tax-filing/) (ArsTechnica)
-  * [Falcon Heavy making only second flight, but it’s already changing the game](https://arstechnica.com/science/2019/04/falcon-heavy-making-only-second-flight-but-its-already-changing-the-game/) (ArsTechnica)
+  * [Mysterious safety-tampering malware infects a second critical infrastructure site](https://arstechnica.com/information-technology/2019/04/mysterious-safety-tampering-malware-infects-a-2nd-critical-infrastructure-site/) (Ars Technica)
+  * [Congress is about to ban the government from offering free online tax filing](https://arstechnica.com/tech-policy/2019/04/congress-is-about-to-ban-the-government-from-offering-free-online-tax-filing/) (Ars Technica)
+  * [Falcon Heavy making only second flight, but it’s already changing the game](https://arstechnica.com/science/2019/04/falcon-heavy-making-only-second-flight-but-its-already-changing-the-game/) (Ars Technica)
 
 **Tuesday, April 09 2019 - Google Cloud Next Announcements**
 
@@ -2081,7 +2081,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Tweet Storm on Apple+ and The New Yorker](https://twitter.com/michaelluo/status/1110552622975631360?s=21) (@Michaelluo)
   * [Google Duplex rolling out to non-Pixel, iOS devices in the US](https://9to5google.com/2019/04/03/google-duplex/) (9to5Google)
   * [Google begins shutting down its failed Google+ social network](https://www.The Verge.com/2019/4/2/18290637/google-plus-shutdown-consumer-personal-account-delete) (The Verge)
-  * [Google’s constant product shutdowns are damaging its brand](https://arstechnica.com/gadgets/2019/04/googles-constant-product-shutdowns-are-damaging-its-brand/) (ArsTechnica)
+  * [Google’s constant product shutdowns are damaging its brand](https://arstechnica.com/gadgets/2019/04/googles-constant-product-shutdowns-are-damaging-its-brand/) (Ars Technica)
   * [Wayve claims 'world first' in driving a car autonomously with only its AI and a SatNav](https://techcrunch.com/2019/04/03/wayve-claims-world-first-in-driving-a-car-autonomously-with-only-its-ai-and-a-satnav/) (TechCrunch)
 
 **Tuesday, April 02 2019 - YouTube's Turn In The Woodshed**
@@ -2412,7 +2412,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Kuo: 16-inch MacBook Pro, 31-inch 6K display, iPhones w/ upgraded Face ID & bilateral wireless charging coming in 2019](https://9to5mac.com/2019/02/17/apple-16-inch-macbook-pro-display-more/) (9to5Mac)
   * [Etsy sellers say their bank accounts were emptied in major billing snafu](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html) (BoingBoing)
   * [Elroy Air raises $9.2 million for delivery drones that can carry up to 500 pounds](https://venturebeat.com/2019/02/13/elroy-air-raises-9-2-million-for-delivery-drones-that-can-carry-up-to-500-pounds/) (VentureBeat)
-  * [Google’s Waymo risks repeating Silicon Valley’s most famous blunder](https://arstechnica.com/cars/2019/02/googles-waymo-risks-repeating-silicon-valleys-most-famous-blunder/) (ArsTechnica)
+  * [Google’s Waymo risks repeating Silicon Valley’s most famous blunder](https://arstechnica.com/cars/2019/02/googles-waymo-risks-repeating-silicon-valleys-most-famous-blunder/) (Ars Technica)
 
 **Friday, February 15 2019 - FTC To Fine Facebook?**
 
@@ -2682,7 +2682,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Sorry, Samsung. Seems nobody is immune to peak smartphone](https://www.theregister.co.uk/2019/01/08/smartphone_recession_now_its_samsungs_turn_to_howl/) (The Register)
   * [Apple’s Errors](https://stratechery.com/2019/apples-errors/) (Stratechery)
   * [Sony doubles down on 8K TVs and the entertainment to play on them](https://venturebeat.com/2019/01/07/sony-doubles-down-on-8k-tvs-and-the-entertainment-to-play-on-them/) (VentureBeat)
-  * [AT&T decides 4G is now “5G,” starts issuing icon-changing software updates](https://arstechnica.com/gadgets/2019/01/att-decides-4g-is-now-5g-starts-issues-icon-changing-software-updates/) (ArsTechnica)
+  * [AT&T decides 4G is now “5G,” starts issuing icon-changing software updates](https://arstechnica.com/gadgets/2019/01/att-decides-4g-is-now-5g-starts-issues-icon-changing-software-updates/) (Ars Technica)
   * [Uber’s Confidential Documents Show Path to $90 Billion IPO](https://www.theinformation.com/articles/ubers-confidential-documents-show-path-to-90-billion-ipo) (The Information)
   * [Exclusive: WeWork rebrands to The We Company; CEO Neumann talks about revised SoftBank round](https://www.fastcompany.com/90289512/exclusive-wework-to-rebrand-to-the-we-company-in-wake-of-disappointing-funding-news) (Fast Company)
   * [Amazon's new ad strategy: Free samples based on what it knows about you](https://www.axios.com/amazon-ad-strategy-free-samples-based-on-consumer-data-5ce0fe5b-6112-4d59-8d28-39278f457b6d.html) (Axios)
@@ -2693,7 +2693,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [Google Assistant will soon be on a billion devices, and feature phones are next](https://www.The Verge.com/2019/1/7/18169939/google-assistant-billion-devices-feature-phones-ces-2019) (The Verge)
   * [Everything you may have missed from Nvidia's CES keynote](https://www.techspot.com/news/78138-everything-you-may-have-missed-nvidia-ces-keynote.html) (Techspot)
   * [HP Launches First-Ever AMD Chromebook](https://www.laptopmag.com/articles/hp-chromebook-14-amd-price-specs) (LaptopMag)
-  * [Withings undercuts Apple Watch, debuts $129 ECG monitoring smartwatch](https://arstechnica.com/gadgets/2019/01/withings-challenges-apple-watch-with-129-move-ecg-smartwatch/) (ArsTechnica)
+  * [Withings undercuts Apple Watch, debuts $129 ECG monitoring smartwatch](https://arstechnica.com/gadgets/2019/01/withings-challenges-apple-watch-with-129-move-ecg-smartwatch/) (Ars Technica)
   * [LG’s groundbreaking roll-up TV is going on sale this year](https://www.The Verge.com/2019/1/7/18171013/lg-rollable-tv-oled-4k-tv-features-photos-video-release-ces-2019) (The Verge)
   * [Keeping up with Netflix originals is basically a part-time job now](https://qz.com/1505030/keeping-up-with-netflix-originals-is-basically-a-part-time-job-now/) (QZ)
 
@@ -2717,7 +2717,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [ROKU BREAKS FREE FROM BOXES AND TVS](https://www.wired.com/story/roku-channel-mobile-app-subscriptions/) (Wired)
   * [Tesla slashes EV prices by $2,000 to offset reduced tax credits](https://www.engadget.com/2019/01/02/tesla-cuts-prices-by-2000-to-offset-ev-tax-credit/) (Engadget)
   * [[Exclusive] Nokia 9 PureView Penta-camera Phone Revealed in Full Glory in First-ever Promo Video ](https://www.mysmartprice.com/gear/nokia-9-pureview/)(Mysmartprice)
-  * [Economists calculate the true value of Facebook to its users in new study](https://arstechnica.com/science/2018/12/economists-calculate-the-true-value-of-facebook-to-its-users-in-new-study/) (ArsTechnica)
+  * [Economists calculate the true value of Facebook to its users in new study](https://arstechnica.com/science/2018/12/economists-calculate-the-true-value-of-facebook-to-its-users-in-new-study/) (Ars Technica)
   * [Popsugar's Twinning app was leaking everyone's uploaded photos](https://techcrunch.com/2018/12/31/popsugar-twinning-leak-selfie-photos/) (TechCrunch)
   * [HOW THE SURPRISE NEW INTERACTIVE BLACK MIRROR CAME TOGETHER](https://www.wired.com/story/black-mirror-bandersnatch-interactive-episode/) (Wired)
 
@@ -3711,7 +3711,7 @@ No show links for this episode ¯\_(ツ)_/¯
 
 **Wednesday, August 29 2018 - Updates To Wear OS Hint At...**
 
-  * [Dell tempts Pixelbook lovers with premium $599 Inspiron Chromebook 14](https://arstechnica.com/gadgets/2018/08/dell-tempts-pixelbook-lovers-with-premium-599-inspiron-chromebook-14/) (ArsTechnica)
+  * [Dell tempts Pixelbook lovers with premium $599 Inspiron Chromebook 14](https://arstechnica.com/gadgets/2018/08/dell-tempts-pixelbook-lovers-with-premium-599-inspiron-chromebook-14/) (Ars Technica)
   * [Dell shows its fall lineup of Alexa-ready Inspiron, XPS, and Vostro laptops and 2-in-1s](https://venturebeat.com/2018/08/28/dell-shows-its-fall-line-up-of-alexa-ready-inspiron-xps-and-vostro-laptops-and-2-in-1s/) (VentureBeat)
   * [Amazon Plans New Video App, Latest Step Into TV Ad Market](https://www.theinformation.com/articles/amazon-plans-new-video-app-latest-step-into-tv-ad-market) (The Information)
   * [Google is revamping the Wear OS smartwatch user interface](https://www.The Verge.com/2018/8/29/17793870/google-wear-os-software-update-swiping-assistant-smartwatch) (The Verge)
