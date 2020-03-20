@@ -2,6 +2,14 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 20**
+  * [ How Reddit's coronavirus community became a destination](https://www.nbcnews.com/tech/tech-news/how-reddit-s-coronavirus-community-became-destination-n1162661) (NBC News)
+  * [ Can Smart Thermometers Track the Spread of the Coronavirus?](https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html) (NYTimes)
+  * [ Correlation and Market Meltdowns](https://avc.com/2020/03/correlation-and-market-meltdowns/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AVc+%28A+VC%29) (Fred Wilson/AVC)
+  * [Zoom conquered video chat — now it has even bigger plans](https://www.protocol.com/zoom-videoconferencing-history-profit) (Protocol)
+  * [ The tech industry’s quest to help us sleep better is just beginning](https://www.fastcompany.com/90478002/jack-dorsey-is-sleeping-just-fine-thank-you) (Fast Company)
+  * [ How TikTok Is Taking the Tunes out of Pop](https://www.highsnobiety.com/p/tik-tok-renegade-no-melody-rap/?curator=MusicREDEF) (HighSnobiety)
+
 **Friday, March 13**
   * [The Secret History of a Cold War Mastermind](https://www.wired.com/story/the-secret-history-of-a-cold-war-mastermind/) (Wired)
   * [TIM COOK’S TRICK FOR MAKING IPHONES IS NOW AT RISK FROM THE PANDEMIC](https://www.theverge.com/2020/3/13/21177024/apple-just-in-time-manufacturing-china-coronavirus-supply-chain) (The Verge)
