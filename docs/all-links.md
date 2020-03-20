@@ -2,16 +2,6 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
-**Friday, March 20 2020 - Younger People Are Getting Sicker Than Anticipated**
-
-  * [Coronavirus Testing Chaos Across America](https://www.wsj.com/articles/coronavirus-testing-chaos-across-america-11584618703?shareToken=st5d335113b9cb44cfa7cf4a62c19d0096) (Wall Street Journal)
-  * [Need a Coronavirus Test? Being Rich and Famous May Help](https://www.nytimes.com/2020/03/18/us/coronavirus-testing-elite.html) (New York Times)
-  * [Strategies for Optimizing the Supply of Facemasks: COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html) (CDC)
-  * [Shortages of face masks, swabs and basic supplies pose a new challenge to coronavirus testing](https://www.washingtonpost.com/climate-environment/2020/03/18/shortages-face-masks-cotton-swabs-basic-supplies-pose-new-challenge-coronavirus-testing/) (Washington Post)
-  * [Nearly 40 Percent of US Hospitalized Coronavirus Patients Are Age 20 to 54](https://www.nytimes.com/2020/03/18/health/coronavirus-young-people.html) (New York Times)
-  * [How Long Will Coronavirus Live on Surfaces or in the Air Around You?](https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html) (New York Times)
-  * [Noah Smith](https://twitter.com/noahpinion/status/1240511014229049344?s=12) (Twitter)
-  * [Jeremy C. Young](https://twitter.com/jeremycyoung/status/1239981337659858944?s=12) (Twitter)
   
 **Thursday, March 19 2020 - This Is The Microsoft Teams Moment**
 
