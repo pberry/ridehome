@@ -2,7 +2,14 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
-  
+**Friday, March 20 2020 - Instagram Copies The Last Snapchat Feature Left**
+
+  * [ Amazon AWS launches $20 million initiative to help fight the coronavirus](https://www.cnbc.com/2020/03/20/coronavirus-amazon-aws-commits-20-million-to-covid-19-research.html) (CNBC)
+  * [ Instagram prototypes Snapchat-style disappearing text messages](https://techcrunch.com/2020/03/19/instagram-disappearing-messages/) (TechCrunch)
+  * [ Microsoft’s DirectX 12 Ultimate unifies graphics tech for PC gaming and Xbox Series X](https://www.theverge.com/2020/3/19/21187161/microsoft-directx-12-ultimate-api-release-xbox-series-x-pc-gaming) (The Verge)
+  * [ Ex-Uber executive Anthony Levandowski pleads guilty to trade-secret theft](https://www.washingtonpost.com/technology/2020/03/19/levandowski-guilty/) (Washington Post)
+  * [ The End of Starsky Robotics](https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5) (Medium)
+
 **Thursday, March 19 2020 - This Is The Microsoft Teams Moment**
 
   * [ Square gains FDIC conditional approval for a banking license](https://siliconangle.com/2020/03/18/square-gains-conditional-approval-banking-license-fdic/) (Silicon Angle)
