@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, March 23 2020 - Is the Sudden Loss of Taste and Smell A Symptom of Covid-19?**
+
+  * [Hospitals may run out of beds by late April if Gov. Abbott doesn't order Texans to stay at home, hospital group warns](https://www.dallasnews.com/news/public-health/2020/03/22/hospitals-will-run-out-of-beds-by-late-april-if-gov-abbott-doesnt-order-texans-to-stay-at-home-hospital-group-warns/) (Dallas Morning News)
+  * [ENT UK on Twitter: "There is the potential to reduce COVID-19 transmission by requesting that individuals with new onset of anosmia self-isolate."](https://twitter.com/ENT_UK/status/1241063677186449408/photo/1) (Twitter)
+  * [Loss of taste and smell could be crucial symptoms of coronavirus](https://nypost.com/2020/03/22/loss-of-taste-and-smell-could-be-crucial-symptoms-of-coronavirus/) (New York Post)
+  * [Can Smart Thermometers Track the Spread of the Coronavirus?](https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html) (New York Times)
+  * [Fever-tracking smart thermometers may see the spread of COVID-19 in this online map](https://www.cnet.com/news/fever-tracking-smart-thermometers-may-trace-the-spread-of-covid-19/) (CNET)
+  * [Will spring breakers become super-spreaders?](https://www.politico.com/news/2020/03/21/spring-breakers-coronavirus-140609) (Politico)
+  * [Majority of NYC’s coronavirus cases are men between 18 and 49 years old](https://nypost.com/2020/03/20/majority-of-nycs-coronavirus-cases-are-men-between-18-and-49-years-old/) (New York Post)
+  * [Letter from Craig R. Smith, MD, Surgeon-in-Chief, NYP/CUIMC](https://twitter.com/cynthiamcfadden/status/1241484743352487936?s=12) (via Cynthia McFadden, Twitter)
+  * [A Medical Worker Describes Terrifying Lung Failure From COVID-19 — Even in His Young Patients](https://www.propublica.org/article/a-medical-worker-describes--terrifying-lung-failure-from-covid19-even-in-his-young-patients) (ProPublica)
+  * [WHO launches global megatrial of the four most promising coronavirus treatments](https://www.sciencemag.org/news/2020/03/who-launches-global-megatrial-four-most-promising-coronavirus-treatments) (Science)
 
 **Friday, March 20 2020 - Younger People Are Getting Sicker Than Anticipated**
 
