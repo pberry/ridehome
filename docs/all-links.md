@@ -2,6 +2,31 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, March 24 2020 - Instagram Co-Watching**
+
+  * [ Microsoft says hackers are attacking Windows users with a new unpatched bug](https://techcrunch.com/2020/03/23/windows-unpatched-zero-day-bug/) (TechCrunch)
+  * [Apple promises App Store expansion to 20 new countries starting next month](https://9to5mac.com/2020/03/23/app-store-20-new-countries/) (9to5Mac)
+  * [ Google open-sources framework that reduces AI training costs by up to 80%](https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/) (VentureBeat)
+  * [Google opens Stadia Makers program for indie game developers](https://ww.9to5google.com/2020/03/23/google-stadia-makers/) (9to5Google)
+  * [ Google unveils Android Performance Tuner, Android GPU Inspector, and Cloud Firestore for game developers](https://venturebeat.com/2020/03/23/google-android-performance-tuner-android-gpu-inspector-cloud-firestore/) (VentureBeat)
+  * [ Instagram has a new way for people isolated by coronavirus to connect: sharing posts via video chat](https://www.cnbc.com/2020/03/24/instagram-adds-coronavirus-co-watching-browse-together-via-video-chat.html) (CNBC)
+  * [ Exclusive: Disney+ Sees Huge Subscription Spike As Homebound Audiences Clamor For Content](https://www.forbes.com/sites/arielshapiro/2020/03/23/exclusive-disney-sees-huge-subscription-spike-as-homebound-audiences-clamor-for-content/#43ecf99d17c4) (Forbes)
+  * [ Revolut launches its neobank in the US](https://techcrunch.com/2020/03/24/revolut-launches-its-neobank-in-the-us/) (TechCrunch)
+  * [Review: Apple iPad Pro (2020)](https://www.wired.com/review/apple-ipad-pro-2020/) (Wired)
+  * [ APPLE IPAD PRO REVIEW 2020: SMALL SPEC BUMP, BIG CAMERA BUMP](https://www.theverge.com/2020/3/24/21192146/apple-ipad-pro-review-2020-lidar-a12z-processor-speed-camera-trackpad-keyboard) (The Verge)
+
+**Monday, March 23 2020 - The Pros And Cons Of Surveilling Against Covid19**
+
+  * [ European mobile operators share data for coronavirus fight](https://www.reuters.com/article/us-health-coronavirus-europe-telecoms/european-mobile-operators-share-data-for-coronavirus-fight-idUSKBN2152C2) (Reuters)
+  * [ Taiwan's new 'electronic fence' for quarantines leads wave of virus monitoring](https://www.reuters.com/article/us-health-coronavirus-taiwan-surveillanc/taiwans-new-electronic-fence-for-quarantines-leads-wave-of-virus-monitoring-idUSKBN2170SK) (Reuters)
+  * [Hidden data is revealing the true scale of the coronavirus outbreak](https://www.wired.co.uk/article/coronavirus-spread-data) (Wired)
+  * [ Google’s coronavirus website finally launches alongside enhanced search results](https://www.theverge.com/2020/3/21/21189051/google-coronavirus-website-launches-covid19-trump-enhanced-search-results) (The Verge)
+  * [Google cancels I/O 2020 entirely in light of coronavirus](https://ww.9to5google.com/2020/03/20/google-cancels-io-2020/) (9to5Google)
+  * [ Kuo: Sensor-Shift Image Stabilization Coming to 6.7-Inch iPhone in 2020, Periscope Lens to Follow in 2022](https://www.macrumors.com/2020/03/23/kuo-iphones-sensor-shift-2021-periscope-2022/) (MacRumors)
+  * [ Facebook: 90% Of Quest Users For Christmas Were ‘Brand New’ To Oculus](https://uploadvr.com/facebook-90-percent-christmas-new-oculus-quest/) (UploadVR)
+  * [ Apple Acknowledges Personal Hotspot Issues Affecting Some iOS 13 and iPadOS 13 Users](https://www.macrumors.com/2020/03/21/apple-acknowledges-personal-hotspot-issues/) (MacRumors)
+  * [ This is how you do that Zoom background thing everyone is talking about](https://www.cnet.com/how-to/this-is-how-you-do-that-zoom-background-thing-everyone-is-talking-about/) (CNET)
+
 **Friday, March 20 2020 - Instagram Copies The Last Snapchat Feature Left**
 
   * [ Amazon AWS launches $20 million initiative to help fight the coronavirus](https://www.cnbc.com/2020/03/20/coronavirus-amazon-aws-commits-20-million-to-covid-19-research.html) (CNBC)
