@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, March 24 2020 - Cut Back On Social Distancing Now?**
+
+  * [Coronavirus Act Now](https://covidactnow.org) (where you can enter your state to see charts of how many days your state has to enact social distancing to prevent hospital overload)
+  * [Covidlocal.org](https://covidlocal.org) (a frontline guide for local decision makers)
+  * [Olympic Champion Swimmer Diagnosed With Coronavirus Calls It 'Worst Virus I Have Ever Endured'](https://www.newsweek.com/olympic-champion-swimmer-diagnosed-coronavirus-calls-it-worse-virus-i-have-ever-endured-1493664) (Newsweek)
+  * [Iceland's Coronavirus Testing Strategy Could Help All Of Us](https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland?utm_source=dynamic&utm_campaign=bfsharetwitter) (BuzzFeed)
+  * [COVID Myth-busting Thread](https://twitter.com/FaheemYounus/status/1241812326019485698) (Faheem Younus, MD on Twitter)
+  * [Could a Wearable Health Device Predict Coronavirus?](https://www.kqed.org/news/11808116/could-a-wearable-health-device-predict-coronavirus) (KQED)
+  * [Predicting coronavirus? SF emergency workers wear state-of-the-art rings in new study](https://www.sfchronicle.com/bayarea/article/Predicting-coronavirus-SF-emergency-workers-wear-15149729.php#photo-19199415) (San Francisco Chronicle)
+  * [Anthony Fauci on COVID-19, Trump, and Staying Healthy](https://www.theatlantic.com/politics/archive/2020/03/anthony-fauci-covid-19-trump-and-staying-healthy/608554/) (The Atlantic)
+  * [‘I’m going to keep pushing.’ Anthony Fauci tries to make the White House listen to facts of the pandemic](https://www.sciencemag.org/news/2020/03/i-m-going-keep-pushing-anthony-fauci-tries-make-white-house-listen-facts-pandemic) (Science Magazine)
+
 **Monday, March 23 2020 - Is the Sudden Loss of Taste and Smell A Symptom of Covid-19?**
 
   * [Hospitals may run out of beds by late April if Gov. Abbott doesn't order Texans to stay at home, hospital group warns](https://www.dallasnews.com/news/public-health/2020/03/22/hospitals-will-run-out-of-beds-by-late-april-if-gov-abbott-doesnt-order-texans-to-stay-at-home-hospital-group-warns/) (Dallas Morning News)
