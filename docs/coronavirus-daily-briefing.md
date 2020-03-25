@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, March 25 2020 - Why is Coronavirus So Hard To Defeat?**
+
+  * [The science of why coronavirus is so hard to stop](https://www.washingtonpost.com/health/2020/03/23/coronavirus-isnt-alive-thats-why-its-so-hard-kill/) (Washington Post)
+  * [Public Health Responses to COVID-19 Outbreaks on Cruise Ships…](https://www.cdc.gov/mmwr/volumes/69/wr/mm6912e3.htm?s_cid=mm6912e3_w) (CDC)
+  * [CDC: coronavirus RNA found in Princess Cruise cabins up to 17 days after passengers left](https://www.cnbc.com/2020/03/23/cdc-coronavirus-survived-in-princess-cruise-cabins-up-to-17-days-after-passengers-left.html) (CNBC)
+  * [Iceland's Coronavirus Testing Strategy Could Help All Of Us](https://www.buzzfeed.com/albertonardelli/coronavirus-testing-iceland?utm_source=dynamic&utm_campaign=bfsharetwitter) (BuzzFeed News)
+  * [Gastonia company will make millions of medical face masks](https://www.charlotteobserver.com/news/coronavirus/article241413386.html) (Charlotte Observer)
+  * [Race against time: Inside 1 of the world's largest ventilator factories](https://abc7.com/race-against-time-inside-1-of-the-worlds-largest-ventilator-factories/6041516/) (ABC News) 
+  * [Ford partnering with GE, 3M to build ventilators, respirators, face shields](https://www.autonews.com/manufacturing/ford-partnering-ge-3m-build-ventilators-respirators-face-shields) (Automotive News)
+  * [Fears of US drug shortages grow as India locks down to curb the coronavirus](https://www.cnbc.com/2020/03/24/us-drug-shortage-fears-grow-as-india-locks-down-due-to-the-coronavirus.html) (CNBC)
+  * [Coronavirus mutation rate is good for vaccine development](https://www.washingtonpost.com/health/the-coronavirus-isnt-mutating-quickly-suggesting-a-vaccine-would-offer-lasting-protection/2020/03/24/406522d6-6dfd-11ea-b148-e4ce3fbd85b5_story.html) (Washington Post)
+
 **Tuesday, March 24 2020 - Cut Back On Social Distancing Now?**
 
   * [Coronavirus Act Now](https://covidactnow.org) (where you can enter your state to see charts of how many days your state has to enact social distancing to prevent hospital overload)
