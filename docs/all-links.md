@@ -2,6 +2,19 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, March 25 2020 - Google Podcasts Comes To iOS**
+
+  * [ Facebook Is ‘Just Trying to Keep the Lights On’ as Traffic Soars in Pandemic](https://www.nytimes.com/2020/03/24/technology/virus-facebook-usage-traffic.html) (NYTimes)
+  * [ The Coronavirus Revives Facebook as a News Powerhouse](https://www.nytimes.com/2020/03/23/technology/coronavirus-facebook-news.html)
+  * [ More than half of all news consumption on Facebook in America](https://www.nytimes.com/2020/03/23/technology/coronavirus-facebook-news.html) (NYTimes)
+  * [ Google Podcasts is finally available of iOS](https://techcrunch.com/2020/03/25/google-podcasts-is-finally-available-on-ios/) (TechCrunch)
+  * [ Apple updates Safari’s anti-tracking tech with full third-party cookie blocking](https://www.theverge.com/2020/3/24/21192830/apple-safari-intelligent-tracking-privacy-full-third-party-cookie-blocking) (The Verge)
+  * [ Apple May Start Reopening Stores in First Half of April](https://www.bloomberg.com/news/articles/2020-03-24/apple-expects-to-start-re-opening-stores-in-first-half-of-april) (Bloomberg)
+  * [ iPhone Makers Suspend India Production Due to Lockdown](https://www.bloomberg.com/news/articles/2020-03-25/iphone-makers-suspend-india-production-due-to-lockdown) (Bloomberg)
+  * [ Coronavirus: S'pore Government to make its contact-tracing app freely available to developers worldwide](https://www.straitstimes.com/singapore/coronavirus-spore-government-to-make-its-contact-tracing-app-freely-available-to) (The Straight Times)
+  * [ Court in Telegram case blocks gram token issuance, says token distribution likely violates securities law](https://www.theblockcrypto.com/post/59831/court-in-telegram-case-blocks-gram-token-issuance-says-token-distribution-likely-violates-securities-law) (The Block)
+  * [ Our iPhone weekly screen time reports are through the roof, and people are ‘horrified’](https://www.washingtonpost.com/technology/2020/03/24/screen-time-iphone-coronavirus-quarantine-covid/) (Washington Post)
+
 **Tuesday, March 24 2020 - Instagram Co-Watching**
 
   * [ Microsoft says hackers are attacking Windows users with a new unpatched bug](https://techcrunch.com/2020/03/23/windows-unpatched-zero-day-bug/) (TechCrunch)
