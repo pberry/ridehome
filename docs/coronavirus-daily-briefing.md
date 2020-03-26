@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, March 26 2020 - Is Pinkeye Another Early Symptom of Covid-19?**
+
+  * [UK coronavirus home testing to be made available to millions](https://www.theguardian.com/world/2020/mar/25/uk-coronavirus-mass-home-testing-to-be-made-available-within-days?CMP=Share_iOSApp_Other) (The Guardian)
+  * [U.S. companies, labs rush to produce blood test for coronavirus immunity](https://www.reuters.com/article/us-health-coronavirus-immune-test-insigh/us-companies-labs-rush-to-produce-blood-test-for-coronavirus-immunity-idUSKBN21C1KK) (Reuters)
+  * [Coronavirus: Data Shows Younger People Are Being Hospitalized In High Numbers](https://www.buzzfeednews.com/article/stephaniemlee/coronavirus-young-age-severe-cases) (BuzzFeed)
+  * [Germany's coronavirus death rate is lower than Italy, China, Spain, France](https://www.washingtonpost.com/world/europe/germany-coronavirus-death-rate/2020/03/24/76ce18e4-6d05-11ea-a156-0048b62cdb51_story.html) (The Washington Post)
+  * [This is why Germany’s coronavirus death rate seems so low](https://www.wired.co.uk/article/germany-coronavirus-death-rate) (Wired)
+  * [Coronavirus: S'pore Government to make its contact-tracing app freely available to developers worldwide](https://www.straitstimes.com/singapore/coronavirus-spore-government-to-make-its-contact-tracing-app-freely-available-to) (Straits Times)
+  * [BlueTrace](https://bluetrace.io/)
+  * [Pink eye may be a rare symptom of coronavirus, doctors say](https://www.today.com/health/coronavirus-symptoms-pink-eye-viral-conjunctivitis-may-be-rare-warning-t176792) (Today.com)
+  * [13 Deaths in a Day: An ‘Apocalyptic’ Coronavirus Surge at an N.Y.C. Hospital](https://www.nytimes.com/2020/03/25/nyregion/nyc-coronavirus-hospitals.html?smtyp=cur&smid=tw-nytimes) (New York Times)
+
 **Wednesday, March 25 2020 - Why is Coronavirus So Hard To Defeat?**
 
   * [The science of why coronavirus is so hard to stop](https://www.washingtonpost.com/health/2020/03/23/coronavirus-isnt-alive-thats-why-its-so-hard-kill/) (Washington Post)
