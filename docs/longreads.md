@@ -2,6 +2,14 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 27**
+  * [ Everything Is So Fucked, You Might As Well Get A Facebook Portal](https://www.buzzfeednews.com/article/katienotopoulos/the-facebook-portal-is-good-now-unfortunately) (Buzzfeed News)
+  * [ We Need A Massive Surveillance Program](https://idlewords.com/2020/03/we_need_a_massive_surveillance_program.htm) (IdleWords.com)
+  * [ Bosses Panic-Buy Spy Software to Keep Tabs on Remote Workers](https://www.bloomberg.com/news/features/2020-03-27/bosses-panic-buy-spy-software-to-keep-tabs-on-remote-workers) (Bloomberg)
+  * [ Why Don’t We Just Ban Targeted Advertising?](https://www.wired.com/story/why-dont-we-just-ban-targeted-advertising/) (Wired)
+  * [ DJI Won the Drone Wars, and Now It’s Paying the Price](https://www.bloomberg.com/news/features/2020-03-26/dji-s-drone-supremacy-comes-at-a-price) (BusinessWeek)
+  * [ We visited a small Virginia town where drone deliveries have begun for real](https://www.inputmag.com/features/wing-google-alphabet-drone-delivery-christiansburg-virginia-medicine-supplies) (Input Magazine)
+
 **Friday, March 20**
   * [ How Reddit's coronavirus community became a destination](https://www.nbcnews.com/tech/tech-news/how-reddit-s-coronavirus-community-became-destination-n1162661) (NBC News)
   * [ Can Smart Thermometers Track the Spread of the Coronavirus?](https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html) (NYTimes)
