@@ -2,6 +2,26 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 27 2020 - Apple's Covid-19 App**
+
+  * [ Apple releases new COVID-19 app and website based on CDC guidance](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/) (Apple Newsroom)
+  * [ Kuo: Apple to Launch Several Macs With Arm-Based Processors in 2021, USB4 Support Coming to Macs in 2022](https://www.macrumors.com/2020/03/26/kuo-several-arm-based-macs-2021/) (MacRumors)
+  * [ Sony Spins Off Camera Business Into Separate Company](https://petapixel.com/2020/03/26/sony-spins-off-camera-business-into-separate-company/) (PetaPixel)
+  * [ Instacart’s Gig Workers Are Planning a Massive, Nationwide Strike](https://www.vice.com/en_us/article/4agmvd/instacarts-gig-workers-are-planning-a-massive-nationwide-strike) (Motherboard)
+
+**Thursday, March 26 2020 - Thu. 03/26 – No New iPhone Until 2021?**
+
+  * [Apple weighs delaying 5G iPhone launch by months, sources say](https://asia.nikkei.com/Spotlight/Coronavirus/Apple-weighs-delaying-5G-iPhone-launch-by-months-sources-say) (Nikkei Asian Review)
+  * [Apple Testing AR/VR Headset With HTC Vive-Like Controller, Crosswalk Bowling Game, and More](https://www.macrumors.com/2020/03/26/apple-ar-vr-headset-controller/) (MacRumors)
+  * [What Qualcomm's new chips mean for upcoming true wireless earbuds](https://www.cnet.com/news/what-qualcomms-new-chips-mean-for-upcoming-true-wireless-earbuds/) (CNET)
+  * [Airbnb Hosts to Help Provide Housing to 100,000 COVID-19 Responders](https://news.airbnb.com/airbnb-to-help-provide-housing-to-100000-covid-19-responders/) (Airbnb Newsroom)
+  * [TripActions, Zeus Living Laying Off Employees Due To COVID-19 Slowdown](https://news.crunchbase.com/news/tripactions-zeus-living-laying-off-employees-due-to-covid-19-slowdown/) (Crunchbase News)
+  * [What it feels like to be laid off on Zoom during this crisis](https://www.protocol.com/coronavirus-tripactions-layoffs-on-zoom) (Protocol)
+  * [Lime’s Valuation May Fall 80% in Emergency Fundraising](https://www.theinformation.com/articles/limes-valuation-may-fall-80-in-emergency-fundraising) (The Information)
+  * [StubHub furloughs employees, other ticket sites face challenges in wake of pandemic](https://www.espn.com/espn/story/_/id/28954901/stubhub-furloughs-employees-other-ticket-sites-face-challenges-wake-pandemic) (ESPN)
+  * [Stripe leads $20M Series A into Fast, which is building a universal checkout service for e-commerce](https://techcrunch.com/2020/03/26/stripe-leads-20m-series-a-into-fast-which-is-building-a-universal-checkout-service-for-e-commerce/) (TechCrunch)
+  * [LIVING A GOOGLE-FREE LIFE WITH A HUAWEI PHONE](https://www.theverge.com/2020/3/25/21193639/huawei-mate-30-google-apps-services-appgallery-p40-preview) (The Verge)
+
 **Wednesday, March 25 2020 - Google Podcasts Comes To iOS**
 
   * [ Facebook Is ‘Just Trying to Keep the Lights On’ as Traffic Soars in Pandemic](https://www.nytimes.com/2020/03/24/technology/virus-facebook-usage-traffic.html) (NYTimes)
