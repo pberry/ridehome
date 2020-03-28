@@ -1,5 +1,15 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, March 27 2020 - The Two Tracks of Vaccine Development**
+
+  * [Exclusive: Senior U.S. Medical Students at New York University Offered Early Graduation to Combat Covid-19](https://www.brief19.com/exclusive) (Brief19)
+  * [Med Schools Plan Early Graduations To Rush Students To COVID Frontlines](https://talkingpointsmemo.com/news/medical-school-early-gruduation-covid-19-coronavirus-new-york-mount-sinai-nyu) (Talking Points Memo)
+  * [The Postal Service's Surprising Role in Surviving Doomsday](https://www.wired.com/story/us-postal-plan-coronavirus-vaccine-doomsday/) (Wired)
+  * [How Will the Coronavirus End?](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/) (The Atlantic)
+  * [With masks, ventilators in short supply, governors and hospitals call for federal intervention](https://www.washingtonpost.com/business/2020/03/24/scramble-medical-equipment-descends-into-chaos-us-states-hospitals-compete-rare-supplies/) (Washington Post)
+  * [Experts Say The Coronavirus Outlook Has Worsened, But The Trajectory Is Still Unclear](https://fivethirtyeight.com/features/experts-say-the-coronavirus-outlook-has-worsened-but-the-trajectory-is-still-unclear/) (538)
+  * [Coronavirus Daily Briefing YouTube channel](https://www.youtube.com/channel/UCJMT0gp0Bf6V_qKzNtww-Yg/)
+
 **Thursday, March 26 2020 - Is Pinkeye Another Early Symptom of Covid-19?**
 
   * [UK coronavirus home testing to be made available to millions](https://www.theguardian.com/world/2020/mar/25/uk-coronavirus-mass-home-testing-to-be-made-available-within-days?CMP=Share_iOSApp_Other) (The Guardian)
