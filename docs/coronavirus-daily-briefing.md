@@ -1,5 +1,23 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Saturday, March 28 2020 - A Possible Covid-19 Game Plan To Return To "Normal Life"**
+
+  * [Bill Gates wants businesses to stay closed in coronavirus pandemic](https://www.vox.com/recode/2020/3/24/21192638/coronavirus-bill-gates-trump-reopen-business) (Vox)
+  * [Importance of testing over lockdown](https://twitter.com/matthewstoller/status/1242475233489158148) (Matt Stoller, Twitter)
+  * [How long shutdowns and shelter-in-place orders need to last](https://twitter.com/Noahpinion/status/1242518123791519745) (Noah Smith, Twitter)
+  * [Using serological assays to identify individuals who have recovered](https://twitter.com/trvrb/status/1240444841986674689) (Trevor Bedford, Twitter)
+  * [Free, Widespread Testing Is The Only Way America Goes Back to Normal](https://medium.com/@yishan/free-widespread-testing-is-the-only-way-america-goes-back-to-normal-952ee9201dd) (Yishan Wong, Medium)
+  * [This Is How We Can Beat the Coronavirus](https://www.theatlantic.com/ideas/archive/2020/03/how-we-beat-coronavirus/608389/) (The Atlantic)
+  * [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56) (Tomas Pueyo, Medium)
+  * [The measures we must take to return to work](https://twitter.com/esaagar/status/1242465772640718855) (Saagar Enjeti, Twitter)
+  * [Trump wants ‘the country opened,’ but easing coronavirus restrictions now would be disastrous, experts say](https://www.washingtonpost.com/health/2020/03/24/coronavirus-strategy-economy-debate/) (Washington Post)
+  * [The Doctor Who Helped Defeat Smallpox Explains What's Coming](https://www.wired.com/story/coronavirus-interview-larry-brilliant-smallpox-epidemiologist/) (Wired)
+  * [Abbott Laboratories new under five minute test](https://twitter.com/DrEricDing/status/1243718825834688518?s=20) (Dr. Eric Feigl-Ding, Twitter)
+  * [This blood test can tell us how widespread coronavirus really is](https://www.technologyreview.com/s/615379/antibody-test-how-widespread-coronavirus-covid-19-really-is/) (Technology Review)
+  * [Scientists develop first US blood test for coronavirus immunity](https://www.dailymail.co.uk/health/article-8144485/Scientists-develop-blood-test-coronavirus-immunity.html) (Daily Mail)
+  * [Blood tests could help battle COVID-19 in US](https://abcnews.go.com/Health/blood-tests-battle-covid-19-us/story?id=69761676) (ABC News)
+  * [U.S. companies, labs rush to produce blood test for coronavirus immunity](https://www.reuters.com/article/us-health-coronavirus-immune-test-insigh/us-companies-labs-rush-to-produce-blood-test-for-coronavirus-immunity-idUSKBN21C1KK) (Reuters)
+
 **Friday, March 27 2020 - The Two Tracks of Vaccine Development**
 
   * [Exclusive: Senior U.S. Medical Students at New York University Offered Early Graduation to Combat Covid-19](https://www.brief19.com/exclusive) (Brief19)
