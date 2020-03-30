@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, March 30 2020 - New Worry: Aside from Emergency Medicine, Primary Care Medicine Faces Collapse As Well**
+
+  * [A Deluged System Leaves Some Elderly to Die, Rocking Spain’s Self-Image](https://www.nytimes.com/2020/03/25/world/europe/Spain-coronavirus-nursing-homes.html) (NY Times)
+  * [Italy leveling graph](https://twitter.com/Noahpinion/status/1243595140440023046) (Noah Smith, Twitter)
+  * [Why The Pandemic Is Putting Primary Care Docs In A Major Financial Pinch](https://talkingpointsmemo.com/news/primary-care-doctors-coronavirus-financial-challenges) (Talking Points Memo)
+  * [Instacart’s Gig Workers Are Planning a Massive, Nationwide Strike](https://www.vice.com/en_us/article/4agmvd/instacarts-gig-workers-are-planning-a-massive-nationwide-strike) (Vice)
+  * [Some Recovered Coronavirus Patients In Wuhan Are Testing Positive Again : Goats and Soda](https://www.npr.org/sections/goatsandsoda/2020/03/27/822407626/mystery-in-wuhan-recovered-coronavirus-patients-test-negative-then-positive) (NPR)
+  * [Reinfections in Asia](https://twitter.com/PeterKolchinsky/status/1244029896453754880) (Peter Kolchinsky, Twitter)
+  * [Human Challenge Studies to Accelerate Coronavirus Vaccine Licensure](https://dash.harvard.edu/bitstream/handle/1/42639016/How%20to%20accelerate%20Coronavirus%20vaccine%20testing_020.pdf) (Harvard)
+  * [Would you volunteer to get the coronavirus? Someone may have a job for you.](https://www.technologyreview.com/s/615405/would-you-volunteer-to-get-the-coronavirus/) (Technology Review)
+  * [How to Take Care of Your Lungs](https://www.nytimes.com/2020/03/27/climate/climate-pollution-coronavirus-lungs.html) (NY Times)
+
 **Saturday, March 28 2020 - A Possible Covid-19 Game Plan To Return To "Normal Life"**
 
   * [Bill Gates wants businesses to stay closed in coronavirus pandemic](https://www.vox.com/recode/2020/3/24/21192638/coronavirus-bill-gates-trump-reopen-business) (Vox)
