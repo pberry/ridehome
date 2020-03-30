@@ -2,6 +2,20 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, March 30 2020 - Mon. 03/30 – HQ Trivia Back From The Dead!**
+
+  * [HQ Trivia Returns Thanks to Anonymous Investor](https://www.wsj.com/articles/hq-trivia-to-return-sunday-night-thanks-to-anonymous-investor-11585526725) (WSJ)
+  * [Facebook Strikes Deal for AR Displays, Squeezing Out Apple](https://www.theinformation.com/articles/facebook-strikes-deal-for-ar-displays-trying-to-squeeze-out-apple) (The Information)
+  * [Government Tracking How People Move Around in Coronavirus Pandemic](https://www.wsj.com/articles/government-tracking-how-people-move-around-in-coronavirus-pandemic-11585393202) (WSJ)
+  * [ Coronavirus has led to a 775 percent increase in usage of Microsoft Azure cloud services](https://betanews.com/2020/03/29/microsoft-azure-usage-increases-coronavirus/) (BetaNews)
+  * [ Apple's factories are running, but suppliers wary about iPhone demand](https://www.reuters.com/article/us-health-coronavirus-apple-iphone-idUSKBN21E3J9) (Reuters)
+  * [ Candor: 267 companies have frozen hiring, 44 had layoffs, 36 rescinded offers, 111 are hiring](https://venturebeat.com/2020/03/28/candor-267-companies-have-frozen-hiring-44-had-layoffs-36-rescinded-offers-111-are-hiring/) (VentureBeat)
+  * [OneWeb files for Chapter 11 bankruptcy](https://spacenews.com/oneweb-files-for-chapter-11-bankruptcy/) (Space News)
+  * [ Airbnb to Halt All Marketing, Most Hiring as Losses Mount](https://www.theinformation.com/articles/airbnb-to-halt-all-marketing-most-hiring-as-losses-mount) (The Information)
+  * [ Lyft Tells Drivers to Work for Amazon After Ridership Plummets](https://www.bloomberg.com/news/articles/2020-03-27/amazon-teams-up-with-lyft-to-recruit-drivers-for-deliveries) (Bloomberg)
+  * [ Bird lays off about 30% of workforce amid COVID-19 pandemic](https://techcrunch.com/2020/03/27/bird-lays-off-about-30-of-workforce-amid-covid-19-pandemic/) (TechCrunch)
+  * [ Hack Attack Takes Down Dark Web Host: 7,595 Websites Confirmed Deleted](https://www.forbes.com/sites/daveywinder/2020/03/30/hack-attack-takes-down-dark-web-7595-websites-confirmed-deleted/#4d4f83591435) (Forbes)
+
 **Friday, March 27 2020 - Apple's Covid-19 App**
 
   * [ Apple releases new COVID-19 app and website based on CDC guidance](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/) (Apple Newsroom)
