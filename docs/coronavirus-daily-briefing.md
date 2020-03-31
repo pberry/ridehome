@@ -1,5 +1,24 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, March 31 2020 - Have I Already Had Coronavirus? How Would I Know?**
+
+  * [Cases falling in Western Europe](https://twitter.com/IanShepherdson/status/1244701059551047681) (Ian Shepherdson, Twitter)
+  * [WHO shows sign of a peak in Europe](https://twitter.com/chr1sa/status/1244703042043142145) (Chris Anderson, Twitter)
+  * [Italy’s New Virus Cases Decline And WHO Sees Progress](https://www.bloomberg.com/news/articles/2020-03-30/italy-reports-fewest-new-coronavirus-cases-in-almost-2-weeks) (Bloomberg)
+  * [Germany will issue coronavirus antibody certificates to allow quarantined to re-enter society](https://www.telegraph.co.uk/news/2020/03/29/germany-will-issue-coronavirus-antibody-certificates-allow-quarantined/) (Telegraph)
+  * [Is It Possible That You Had The Coronavirus Earlier This Year?](https://www.huffpost.com/entry/did-i-have-coronavirus-symptoms-antibody-tests_l_5e7cb319c5b6cb9dc19b74b4) (HuffPost) 
+  * [Have I already had coronavirus? How would I know and what should I do?](https://www.theguardian.com/us-news/2020/mar/23/have-i-already-had-covid19-coronavirus) (The Guardian)
+  * [Coronavirus (COVID-19) testing: What you should know](https://health.ucdavis.edu/coronavirus/coronavirus-testing.html) (UC Davis)
+  * [How Do The Coronavirus Tests Work?](https://www.huffpost.com/entry/how-do-the-coronavirus-tests-work_l_5e814239c5b661492269c219) (HuffPost)
+  * [More Americans Should Probably Wear Masks for Protection](https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html?fbclid=IwAR2mKp62EebTmTcNoKw_A5zCm_gpHRqZ8-cRB5bm42SGyw0LAjfNdM5n4mw) (NY Times) 
+  * [Would everyone wearing face masks help us slow the pandemic?](https://www.sciencemag.org/news/2020/03/would-everyone-wearing-face-masks-help-us-slow-pandemic) (Science Magazine)
+  * [Not wearing masks to protect against coronavirus is a ‘big mistake,’ top Chinese scientist says](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says) (Science Magazine)
+  * [Johnson & Johnson to Begin Human Trials of Covid-19 Vaccine by September](https://www.wsj.com/articles/johnson-johnson-to-begin-human-trials-on-covid-19-vaccine-by-september-11585569380) (Wall Street Journal)
+  * [Johnson & Johnson to begin clinical trials on coronavirus vaccine by Sept](https://www.cnbc.com/2020/03/30/johnson-johnson-to-begin-clinical-trials-on-coronavirus-vaccine-candidate.html) (CNBC)
+  * [Rural America Could Be Hardest Hit by COVID-19](https://www.healthline.com/health-news/rural-america-hardest-hit-by-covid-19-outbreak) (Healthline)
+  * [Act fast by following NYC's trajectory](https://twitter.com/JeremyKonyndyk/status/1244681057569591297) (Jeremy Konyndyk, Twitter)
+  * [What not yet hard hit cities can do](https://twitter.com/ScottGottliebMD/status/1244678533638754306) (Scott Gottlieb, Twitter)
+
 **Monday, March 30 2020 - New Worry: Aside from Emergency Medicine, Primary Care Medicine Faces Collapse As Well**
 
   * [A Deluged System Leaves Some Elderly to Die, Rocking Spain’s Self-Image](https://www.nytimes.com/2020/03/25/world/europe/Spain-coronavirus-nursing-homes.html) (NY Times)
