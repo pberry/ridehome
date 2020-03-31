@@ -2,6 +2,20 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, March 31 2020 - Apple Buys Dark Sky!**
+
+  * [ Apple purchases hyperlocal weather app Dark Sky, ending API and killing Android apps](https://9to5mac.com/2020/03/31/apple-purchases-hyperlocal-weather-app-dark-sky-killing-android-apps/) (9to5Mac)
+  * [Snapchat preempts clones, syndicates Stories to other apps](https://techcrunch.com/2020/03/31/snapchat-app-stories/) (TechCrunch)
+  * [ Surprise! Fitbit's First New Product Since Google Deal Is A Fitness Tracker](https://gizmodo.com/surprise-fitbits-first-new-product-under-google-is-a-f-1842564469) (Gizmodo)
+  * [ Microsoft announces Teams for consumers, Skype daily active users up 70% to 40 million](https://venturebeat.com/2020/03/30/skype-passes-40-million-daily-active-users-up-70-due-to-coronavirus/) (VentureBeat)
+  * [ Microsoft 365 bundles Office 365 with AI and cloud-powered features](https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/) (VentureBeat)
+  * [ Spotify Brings Standalone Kids’ App to U.S., Featuring a ‘Wash Your Hands’ Playlist](https://variety.com/2020/digital/global/spotify-kids-app-launch-us-canada-france-1203549237/) (Variety)
+  * [ New York Attorney General Looks Into Zoom’s Privacy Practices](https://www.nytimes.com/2020/03/30/technology/new-york-attorney-general-zoom-privacy.html) (NYTimes)
+  * [ZOOM MEETINGS AREN’T END-TO-END ENCRYPTED, DESPITE MISLEADING MARKETING](https://theintercept.com/2020/03/31/zoom-meeting-encryption/) (The Intercept)
+  * [ Comcast says voice and video calls have skyrocketed 212 percent during widespread self-isolation](https://www.theverge.com/2020/3/30/21200040/comcast-video-chats-voip-traffic-spikes-coronavirus-work-from-home) (The Verge)
+  * [ Apple Tests Its Secrecy Somewhere New: Employee Homes](https://www.bloomberg.com/news/articles/2020-03-30/apple-tests-its-secrecy-somewhere-new-employee-homes) (Bloomberg)
+  * [ Court: Violating a site’s terms of service isn’t criminal hacking](https://arstechnica.com/tech-policy/2020/03/court-violating-a-sites-terms-of-service-isnt-criminal-hacking/) (Ars Technica)
+
 **Monday, March 30 2020 - Mon. 03/30 – HQ Trivia Back From The Dead!**
 
   * [HQ Trivia Returns Thanks to Anonymous Investor](https://www.wsj.com/articles/hq-trivia-to-return-sunday-night-thanks-to-anonymous-investor-11585526725) (WSJ)
