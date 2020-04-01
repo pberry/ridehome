@@ -2,6 +2,18 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, April 01 2020 - The Zoom Privacy Storm**
+
+* [Legere is out as T-Mobile CEO as Sprint merger officially closes](https://www.cnbc.com/2020/04/01/legere-is-out-as-t-mobile-ceo-as-sprint-merger-officially-closes.html)  (CNBC)
+* [Samsung Display to end all LCD production by end 2020](https://www.reuters.com/article/us-samsung-display-lcd/samsung-display-to-end-all-lcd-production-by-end-2020-idUSKBN21I0BY)  (Reuters)
+* [Marriott discloses new data breach impacting 5.2 million hotel guests](https://www.zdnet.com/article/marriott-discloses-new-data-breach-impacting-5-2-million-hotel-guests/)  (ZDNet)
+* [Comcast waiving data caps hasn’t hurt its network—why not make it permanent?](https://arstechnica.com/tech-policy/2020/03/comcast-waiving-data-cap-hasnt-hurt-its-network-why-not-make-it-permanent/)  (Ars Technica)
+* [Zoom Lets Attackers Steal Windows Credentials via UNC Links](https://www.bleepingcomputer.com/news/security/zoom-lets-attackers-steal-windows-credentials-via-unc-links/)  (Bleeping Computer)
+* [@c1truz_ thread about Zoom](https://twitter.com/c1truz_/status/1244737672930824193) 
+* [Amazon's Covid Hiring Boom Has Applicants Packed Into Job Fairs With No Special Precautions](https://www.bloomberg.com/news/articles/2020-04-01/amazon-s-hiring-spree-followed-no-special-coronavirus-precautions)  (Bloomberg)
+* [Amazon Struggles to Find Its Coronavirus Footing. ‘It’s a Time of Great Stress.’](https://www.wsj.com/articles/amazon-struggles-to-find-its-coronavirus-footing-its-a-time-of-great-stress-11585664987?mod=hp_lead_pos5&utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter)  (WSJ)
+* [Amazon's past catches up with it](https://www.getrevue.co/profile/caseynewton/issues/amazon-s-past-catches-up-with-it-237179?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Interface)  (The Interface)
+
 **Tuesday, March 31 2020 - Apple Buys Dark Sky!**
 
   * [ Apple purchases hyperlocal weather app Dark Sky, ending API and killing Android apps](https://9to5mac.com/2020/03/31/apple-purchases-hyperlocal-weather-app-dark-sky-killing-android-apps/) (9to5Mac)
