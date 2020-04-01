@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, April 01 2020 - Aircraft Carrier Captain Pleads for Help; Pentagon has Ventilators and Testing Capacity… But Nowhere To Send Them**
+
+  * [Coronavirus: Walmart will start taking employees' temperatures](https://www.cnbc.com/2020/03/31/coronavirus-walmart-will-start-taking-all-employees-temperatures-before-shifts.html) (CNBC)
+  * [CA not testing enough](https://twitter.com/kimmaicutler/status/1245078989640617984) (Kim Mai-Cutler, Twitter)
+  * [Italy, Spain, and France peak graphs](https://twitter.com/noahpinion/status/1245184938699132928?s=12) (Noah Smith, Twitter)
+  * [Captain of Aircraft Carrier Pleads for Help as Virus Cases Increase Onboard](https://www.nytimes.com/2020/03/31/us/politics/coronavirus-aircraft-carrier-theodore-roosevelt.html?smtyp=cur&smid=tw-nytimes) (NY Times)
+  * [Pentagon says it still hasn't sent ventilators because it hasn't been told where to send them](https://www.cnn.com/2020/03/31/politics/pentagon-ventilators/index.html) (CNN)
+  * [Restrictions Are Slowing Coronavirus Infections, New Data Suggest](https://www.nytimes.com/2020/03/30/health/coronavirus-restrictions-fevers.html) (NY Times)
+  * [What explains Covid-19's lethality for the elderly?](https://www.statnews.com/2020/03/30/what-explains-coronavirus-lethality-for-elderly/) (Stat)
+  * [Coronavirus on the border: Why Mexico has so few cases compared with the U.S.](https://www.washingtonpost.com/world/the_americas/coronavirus-mexico-us-border-covid-19/2020/03/30/18ad79b2-7061-11ea-a156-0048b62cdb51_story.html) (Washington Post)
+  * [Estimates Show Wuhan Death Toll Far Higher Than Official Figure](https://www.rfa.org/english/news/china/wuhan-deaths-03272020182846.html) (Radio Free Asia)
+
 **Tuesday, March 31 2020 - Have I Already Had Coronavirus? How Would I Know?**
 
   * [Cases falling in Western Europe](https://twitter.com/IanShepherdson/status/1244701059551047681) (Ian Shepherdson, Twitter)
