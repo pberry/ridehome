@@ -1,5 +1,15 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, April 02 2020 - How To Reopen Society In Phases**
+
+  * [Henry Ford Macomb Hospital's ICU at capacity as coronavirus cases in Michigan grow](https://www.freep.com/story/news/local/michigan/macomb/2020/04/01/henry-ford-macomb-hospital-capacity-coronavirus-michigan/5106567002/) (Detroit Free Press)
+  * [Coronavirus lockdown inspires runners' backyard and balcony marathons](https://www.washingtonpost.com/nation/2020/04/02/backyard-marathon-coronavirus/) (Washington Post)
+  * [Is the Coronavirus Airborne? Should We All Wear Masks?](https://www.theatlantic.com/health/archive/2020/04/coronavirus-pandemic-airborne-go-outside-masks/609235/) (The Atlantic)
+  * [Coronavirus: US Won't Allow Imports Of Millions Of KN95 Masks](https://www.buzzfeednews.com/article/kenbensinger/coronavirus-kn95-masks-us-wont-import-china) (BuzzFeed News)
+  * [National coronavirus response: A road map to reopening](https://www.aei.org/research-products/report/national-coronavirus-response-a-road-map-to-reopening/) (American Enterprise Institute)
+  * [Infected but Feeling Fine: The Unwitting Coronavirus Spreaders](https://www.nytimes.com/2020/03/31/health/coronavirus-asymptomatic-transmission.html?referringSource=articleShare) (NY Times)
+  * [The New Coronavirus Testing Crisis at Private Labs](https://www.theatlantic.com/health/archive/2020/03/next-covid-19-testing-crisis/609193/) (The Atlantic) 
+
 **Wednesday, April 01 2020 - Aircraft Carrier Captain Pleads for Help; Pentagon has Ventilators and Testing Capacity… But Nowhere To Send Them**
 
   * [Coronavirus: Walmart will start taking employees' temperatures](https://www.cnbc.com/2020/03/31/coronavirus-walmart-will-start-taking-all-employees-temperatures-before-shifts.html) (CNBC)
