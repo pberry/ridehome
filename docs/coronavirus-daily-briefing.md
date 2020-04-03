@@ -1,5 +1,19 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, April 03 2020 - Why Are More Young People Dying in the South? And Should You Wear a Mask?**
+
+  * [California's coronavirus testing backlog is a vast 64% unprocessed](https://www.sfchronicle.com/bayarea/article/California-s-coronavirus-testing-backlog-is-the-15175564.php) (San Francisco Chronicle)
+  * [Italy’s Coronavirus Death Toll Is Far Higher Than Reported](https://www.wsj.com/articles/italys-coronavirus-death-toll-is-far-higher-than-reported-11585767179) (Wall Street Journal)
+  * [The 1,000-Bed Comfort Was Supposed to Aid New York. It Has 20 Patients.](https://www.nytimes.com/2020/04/02/nyregion/ny-coronavirus-usns-comfort.html) (New York Times)
+  * [Masks help reduce COVID exposure amount](https://twitter.com/PeterKolchinsky/status/1239560638239838215) (Peter Kolchinsky, Twitter)
+  * [Experts tell White House coronavirus can spread through talking or even just breathing](https://www.cnn.com/2020/04/02/health/aerosol-coronavirus-spread-white-house-letter/index.html) (CNN)
+  * [Poll: Less Than a Third of America Will Rush to Get Coronavirus Vaccine](https://www.nbcnewyork.com/news/coronavirus/poll-less-than-a-third-of-america-will-rush-to-get-coronavirus-vaccine/2356339/) (NBC News)
+  * [Coronavirus in Young People? NY Patients Skew Younger, Some Die](https://www.bloomberg.com/news/articles/2020-04-01/coronavirus-in-young-people-ny-patients-skew-younger-some-die) (Bloomberg)
+  * [The Coronavirus’s Unique Threat to the South](https://www.theatlantic.com/politics/archive/2020/04/coronavirus-unique-threat-south-young-people/609241/?utm_source=twitter&utm_medium=social&utm_campaign=share) (The Atlantic)
+  * [How Many Adults Are at Risk of Serious Illness If Infected with Coronavirus? Updated Data](https://www.kff.org/global-health-policy/issue-brief/how-many-adults-are-at-risk-of-serious-illness-if-infected-with-coronavirus/) (Kaiser Family Foundation)
+  * [Where America Didn’t Stay Home Even as the Virus Spread](https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html) (New York Times)
+  * [Coronavirus (COVID-19) Update: FDA Provides Updated Guidance to Address the Urgent Need for Blood During the Pandemic](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-provides-updated-guidance-address-urgent-need-blood-during-pandemic) (FDA)
+
 **Thursday, April 02 2020 - How To Reopen Society In Phases**
 
   * [Henry Ford Macomb Hospital's ICU at capacity as coronavirus cases in Michigan grow](https://www.freep.com/story/news/local/michigan/macomb/2020/04/01/henry-ford-macomb-hospital-capacity-coronavirus-michigan/5106567002/) (Detroit Free Press)
