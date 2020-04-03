@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, April 03 2020 - It’s An 80’s Style Free HBO Bonanza!**
+
+  * [ Google uses location data to show which places are complying with stay-at-home orders — and which aren’t](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy) (The Verge)
+  * [ In coronavirus fight, oft-criticized Facebook data aids U.S.](https://www.reuters.com/article/health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ) [ cities, states (Reuters)](https://theintercept.com/2020/04/02/coronavirus-covid-19-surveillance-privacy/)
+  * [ PRIVACY EXPERTS SAY RESPONSIBLE CORONAVIRUS SURVEILLANCE IS POSSIBLE](https://theintercept.com/2020/04/02/coronavirus-covid-19-surveillance-privacy/) (The Intercept)
+  * [ Exclusive: iPhone 9 launch imminent, 2020 ‘iPhone SE’ in red, white, and black with up to 256GB](https://9to5mac.com/2020/04/02/exclusive-iphone-9-launch-imminent-2020-iphone-se-in-red-white-and-black/) (9to5Mac)
+  * [ Tesla soars on delivery numbers -- company delivered 88,400 vehicles in Q1](https://www.cnbc.com/2020/04/02/tesla-tsla-1q-2020-production-and-delivery-numbers.html) (CNBC)
+  * [ A third prototype of SpaceX’s Starship rocket bursts on the test stand](https://www.theverge.com/2020/4/3/21206662/spacex-starship-deep-space-rocket-failure-test-stand-texas-prototype) (The Verge)
+  * [Airbnb lowers internal valuation by 16% to $26bn](https://www.ft.com/content/02a8ca9b-1ba9-4e0a-a3d5-084dd93469bb) (FT)
+  * [ HBO Will Stream 500 Hours of Free Programming, Including Full Seasons of ‘Veep,’ ‘The Sopranos,’ ‘Silicon Valley’](https://variety.com/2020/digital/news/hbo-free-streaming-500-hours-sopranos-veep-wire-1234569585/) (Variety)
+
 **Thursday, April 02 2020 - Zoom Apologizes And Wow's On DAUs**
 
   * [ A Message to Our Users](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/) (Zoom Blog)
