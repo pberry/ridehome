@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, April 02 2020 - Zoom Apologizes And Wow's On DAUs**
+
+  * [ A Message to Our Users](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/) (Zoom Blog)
+  * [ Facebook debuts standalone Messenger app on Mac and PC](https://www.engadget.com/2020-04-02-facebook-messenger-desktop-app.html) (Engadget)
+  * ['Content network effect' makes TikTok tough to copy](https://techcrunch.com/2020/04/01/content-network-effect/) (TechCrunch)
+  * [ YouTube Plans ‘Shorts’ to Rival TikTok](https://www.theinformation.com/articles/youtube-plans-shorts-to-rival-tiktok) (The Information)
+  * [ Apple Lets Some Video Apps Sell Shows Without Taking 30% Cut](https://www.bloomberg.com/news/articles/2020-04-01/apple-lets-some-video-apps-sell-shows-without-taking-30-cut) (Bloomberg)
+  * ['It Felt Like a Black Mirror Episode' The Inside Account of How Bird Laid off 406 People in Two Minutes via a Zoom Webinar](https://dot.la/bird-layoffs-meeting-story-2645612465.html) (dot.LA)
+  * [ Notion, Maker of Collaboration Software, Raises $50 Million](https://www.nytimes.com/2020/04/01/technology/notion-startup-fund-raising.html) (NYTimes)
+
 **Wednesday, April 01 2020 - The Zoom Privacy Storm**
 
 * [Legere is out as T-Mobile CEO as Sprint merger officially closes](https://www.cnbc.com/2020/04/01/legere-is-out-as-t-mobile-ceo-as-sprint-merger-officially-closes.html)  (CNBC)
