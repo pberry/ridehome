@@ -1,5 +1,16 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, April 06 2020 - Why Are People Burning Down Cellphone Towers?**
+
+  * [States with low percentage of hospitalized COVID patients](https://twitter.com/ScottGottliebMD/status/1247137988095741953) (Scott Gottlieb, Twitter)
+  * [All across the United States, the coronavirus is killing more men than women, data show](https://www.washingtonpost.com/health/2020/04/04/coronavirus-men/) (Washington Post)
+  * [Doctor's Note: Why are more men dying from coronavirus?](https://www.aljazeera.com/indepth/features/doctor-note-men-dying-coronavirus-200405070704160.html) (Al Jazeera)
+  * [US men less likely to heed health warnings as coronavirus death toll mounts: Reuters Poll](https://www.reuters.com/article/us-health-coronavirus-gender-poll/u-s-men-less-likely-to-heed-health-warnings-as-coronavirus-death-toll-mounts-reuters-poll-idUSKBN21E1C9) (Reuters)
+  * [Early Data Shows African Americans Have Contracted and Died of Coronavirus at an Alarming Rate](https://www.propublica.org/article/early-data-shows-african-americans-have-contracted-and-died-of-coronavirus-at-an-alarming-rate) (ProPublica)
+  * [Sweden Coronavirus News: Coronasmittade Sverige Nyheter](https://www.bloomberg.com/news/articles/2020-04-04/sweden-girds-for-thousands-of-deaths-amid-laxer-virus-response) (Bloomberg)
+  * [Bill Gates will gamble billions to make a potential coronavirus vaccine](https://finance.yahoo.com/news/bill-gates-investing-billions-potential-173608335.html) (Yahoo Finance)
+  * [British 5G towers are being set on fire because of coronavirus conspiracy theories](https://www.theverge.com/2020/4/4/21207927/5g-towers-burning-uk-coronavirus-conspiracy-theory-link) (The Verge)
+
 **Friday, April 03 2020 - Why Are More Young People Dying in the South? And Should You Wear a Mask?**
 
   * [California's coronavirus testing backlog is a vast 64% unprocessed](https://www.sfchronicle.com/bayarea/article/California-s-coronavirus-testing-backlog-is-the-15175564.php) (San Francisco Chronicle)
