@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, April 06 2020 - Mon. 04/06 – Happy Quibi Day!**
+
+  * [ Quibi app review: shifting landscape](https://www.theverge.com/2020/4/6/21208932/quibi-app-review-price-short-form-video-content-features-streaming-rotation) (The Verge)
+  * [ How to stream Quibi](https://www.theverge.com/2020/4/6/21207500/quibi-app-how-to-watch-download-price-subscription-streaming-rotation-shows) (The Verge)
+  * [ SAMSUNG GALAXY CHROMEBOOK REVIEW: BEAUTIFUL TO A FAULT](https://www.theverge.com/2020/4/6/21206151/samsung-galaxy-chromebook-review-android-laptop) (The Verge)
+  * [ Samsung Galaxy Chromebook review: Great, until the battery runs out](https://www.engadget.com/samsung-galaxy-chromebook-review-120003557.html?guccounter=1) (Engadget)
+  * [Tim Cook: Apple shipping custom face shields to medical workers as mask donations cross 20M](https://9to5mac.com/2020/04/05/tim-cook-face-shields-masks/) (9to5Mac)
+  * [ Call for social media platforms to act on 5G mast conspiracy theory](https://www.theguardian.com/technology/2020/apr/05/call-for-social-media-platforms-to-act-on-5g-mast-conspiracy-theory) (The Guardian)
+  * [ Russian telco hijacks internet traffic for Google, AWS, Cloudflare, and others](https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/) (ZDNet)
+  * [ Microsoft Edge is now 2nd most popular desktop browser, beats Firefox](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-now-2nd-most-popular-desktop-browser-beats-firefox/) (BleepingComputer)
+
 **Friday, April 03 2020 - It’s An 80’s Style Free HBO Bonanza!**
 
   * [ Google uses location data to show which places are complying with stay-at-home orders — and which aren’t](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy) (The Verge)
