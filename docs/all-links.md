@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, April 07 2020 - The Latest Startup Gunning For Gmail**
+
+  * [ WhatsApp to impose new limit on forwarding to fight fake news](https://www.theguardian.com/technology/2020/apr/07/whatsapp-to-impose-new-limit-on-forwarding-to-fight-fake-news) (The Guardian)
+  * [ Airbnb is raising $1 billion amid fallout from coronanvirus](https://www.cnbc.com/2020/04/06/airbnb-raising-1-billion-amid-fallout-from-coronanvirus.html) (CNBC)
+  * [ Foursquare Merges With Factual, Another Location-Data Provider](https://www.wsj.com/articles/foursquare-merges-with-factual-another-location-data-provider-11586193000) (WSJ)
+  * [ Masayoshi Son Talks WeWork, Vision Fund and Softbank Under Siege](https://www.forbes.com/sites/alexkonrad/2020/04/05/exclusive-interview-masayoshi-son-talks-wework-vision-fund-softbank/#4ff9409e7f41) (Forbes)
+  * [ Pixel April updates land, bringing eyes-open face unlock setting to the Pixel 4](https://www.androidpolice.com/2020/04/06/pixel-april-updates-land-bringing-eyes-open-face-unlock-setting-to-the-pixel-4/) (Android Police)
+  * [ Microsoft Buys Corp.com So Bad Guys Can’t](https://krebsonsecurity.com/2020/04/microsoft-buys-corp-com-so-bad-guys-cant/) (KrebsonSecurity)
+  * [This tiny startup thinks it can do email better than Google](https://www.protocol.com/edison-onmail-better-email-gmail) (Protocol)
+
 **Monday, April 06 2020 - Mon. 04/06 – Happy Quibi Day!**
 
   * [ Quibi app review: shifting landscape](https://www.theverge.com/2020/4/6/21208932/quibi-app-review-price-short-form-video-content-features-streaming-rotation) (The Verge)
