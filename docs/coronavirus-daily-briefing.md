@@ -1,5 +1,16 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, April 07 2020 - You Never Want To Be On A Ventilator**
+
+  * [More than 700 Henry Ford employees tested positive for coronavirus](https://www.freep.com/story/news/health/2020/04/06/more-than-600-henry-ford-employees-tested-positive-coronavirus/2958261001/) (Detroit Free Press)
+  * [New Zealand isn’t just flattening the curve. It’s squashing it.](https://www.washingtonpost.com/world/asia_pacific/new-zealand-isnt-just-flattening-the-curve-its-squashing-it/2020/04/07/6cab3a4a-7822-11ea-a311-adb1344719a9_story.html) (Washington Post)
+  * [Patients Rush To Join Studies Testing Drug For Coronavirus](https://www.huffpost.com/entry/patients-rush-to-join-studies-testing-drug-for-coronavirus_n_5e8af773c5b6cbaf282c3201?guccounter=1) (HuffPost)
+  * [An Update on COVID-19 from our Chairman & CEO](https://www.gilead.com/stories/articles/an-update-on-covid-19-from-our-chairman-and-ceo) (Gilead)
+  * [Ventilators aren't a panacea for a pandemic like coronavirus](https://www.spectator.co.uk/article/Ventilators-aren-t-a-panacea-for-a-pandemic-like-coronavirus) (Spectator)
+  * [What You Should Know Before You Need a Ventilator](https://www.nytimes.com/2020/04/04/opinion/coronavirus-ventilators.html#click=https://t.co/ffNR70J1HK) (New York Times)
+  * [UK government admits Covid-19 antibody tests don’t work](https://www.ft.com/content/f28e26a0-bf64-4fac-acfb-b3a618ca659d) (Financial Times)
+  * [Britain has millions of coronavirus antibody tests, but they don’t work](https://www.thetimes.co.uk/article/britain-has-millions-of-coronavirus-antibody-tests-but-they-don-t-work-j7kb55g89?wgu=270525_54264_15861896250783_5a3cce158e&wgexpiry=1593965625&utm_source=planit&utm_medium=affiliate&utm_content=22278) (The Times)
+
 **Monday, April 06 2020 - Why Are People Burning Down Cellphone Towers?**
 
   * [States with low percentage of hospitalized COVID patients](https://twitter.com/ScottGottliebMD/status/1247137988095741953) (Scott Gottlieb, Twitter)
