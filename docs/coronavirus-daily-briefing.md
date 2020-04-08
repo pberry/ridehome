@@ -2,7 +2,7 @@ _Find links to the podcast and individual pods at [RideHome](https://www.ridehom
 
 **Wednesday, April 08 2020 - Can People Catch Coronavirus Again? Worrying Data Around Low Antibody Levels**
 
-  * [EMT's Get Controversial New Guidelines On Taking Some Patients To The Hospital | WNYC News](https://www.wnyc.org/story/emts-have-controversial-new-guidelines-taking-some-patients-hospital/) (WNYC)
+  * [EMT's Get Controversial New Guidelines On Taking Some Patients To The Hospital \| WNYC News](https://www.wnyc.org/story/emts-have-controversial-new-guidelines-taking-some-patients-hospital/) (WNYC)
   * [Coronavirus: low antibody levels raise questions about reinfection risk](https://www.scmp.com/news/china/science/article/3078840/coronavirus-low-antibody-levels-raise-questions-about) (South China Morning Post)
   * [Low level of antibodies in some recovered patients](https://twitter.com/DrEricDing/status/1247719681483509761) (Dr. Eric Feigl-Ding, Twitter)
   * [Hunt Is on for Genetic Clues to Why Coronavirus Impact Varies](https://www.wsj.com/articles/hunt-is-on-for-genetic-clues-to-why-coronavirus-impact-varies-11586259827) (Wall Street Journal)
