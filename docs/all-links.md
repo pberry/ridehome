@@ -2,6 +2,23 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, April 08 2020 - Wed. 04/08 – The Desktop Web Is Back (for the time being…)**
+
+  * [@jack's tweet storm](https://twitter.com/jack/status/1247616214769086465)
+  * [ Airbnb Paying More Than 10% Interest on $1 Billion Financing Announced Monday](https://www.wsj.com/articles/airbnb-paying-more-than-10-interest-on-1-billion-financing-announced-monday-11586297484) (WSJ)
+  * [ Airbnb In Talks To Raise More Debt](https://www.bloomberg.com/news/articles/2020-04-07/airbnb-in-talks-to-raise-more-debt-amid-global-crisis) (Bloomberg)
+  * [ Update on Zoom’s 90-Day Plan to Bolster Key Privacy and Security Initiatives](https://blog.zoom.us/wordpress/2020/04/08/update-on-zoom-90-day-plan-to-bolster-key-privacy-and-security-initiatives/) (Zoom Blog)
+  * [ Netflix will allow parents to remove movies and shows, filter by rating in new update](https://www.theverge.com/2020/4/7/21211338/netflix-parent-controls-filter-movies-tv-shows-rating-pin-password) (The Verge)
+  * [ Google is requiring Virtual A/B on new Android 11 devices, paving the way for mandatory Seamless Updates](https://www.xda-developers.com/google-virtual-ab-seamless-updates-android-11/) (XDA Developers)
+  * [ Microsoft is freezing hiring except in some unspecified 'strategic areas'](https://www.businessinsider.com/microsoft-freezes-hiring-coronavirus-crisis-2020-4?op=1) (Business Insider)
+  * [ All Microsoft events will be digital-only until July 2021](https://www.theverge.com/2020/4/7/21211721/microsoft-events-build-2021-digital-only-coronavirus-plans) (The Verge)
+  * [ The Virus Changed the Way We Internet](https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html) (NYTimes)
+  * [ Restaurant management platform Toast cuts 50% of staff](https://techcrunch.com/2020/04/07/restaurant-management-platform-toast-cuts-50-of-staff/) (TechCrunch)
+  * [ Tyto Care raises $50 million to grow its telehealth examination and diagnostic platform](https://venturebeat.com/2020/04/07/tyto-care-raises-50-million-to-grow-its-telehealth-examination-platform-globally/) (VentureBeat)
+  * [ Google's video chat service adds 2 million users a day amid coronavirus](https://www.cnet.com/news/googles-video-chat-service-adds-2-million-new-users-a-day-amid-coronavirus/#ftag=COS-05-10aaa0j) (CNET)
+  * [Don’t be surprised when ‘Hangouts Meet’ becomes ‘Google Meet’](https://9to5google.com/2020/04/07/hangouts-meet-google-rebrand/) (9to5Google)
+
+
 **Tuesday, April 07 2020 - The Latest Startup Gunning For Gmail**
 
   * [ WhatsApp to impose new limit on forwarding to fight fake news](https://www.theguardian.com/technology/2020/apr/07/whatsapp-to-impose-new-limit-on-forwarding-to-fight-fake-news) (The Guardian)
