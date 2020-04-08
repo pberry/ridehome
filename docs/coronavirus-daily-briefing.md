@@ -1,5 +1,20 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, April 08 2020 - Can People Catch Coronavirus Again? Worrying Data Around Low Antibody Levels**
+
+  * [EMT's Get Controversial New Guidelines On Taking Some Patients To The Hospital | WNYC News](https://www.wnyc.org/story/emts-have-controversial-new-guidelines-taking-some-patients-hospital/) (WNYC)
+  * [Coronavirus: low antibody levels raise questions about reinfection risk](https://www.scmp.com/news/china/science/article/3078840/coronavirus-low-antibody-levels-raise-questions-about) (South China Morning Post)
+  * [Low level of antibodies in some recovered patients](https://twitter.com/DrEricDing/status/1247719681483509761) (Dr. Eric Feigl-Ding, Twitter)
+  * [Hunt Is on for Genetic Clues to Why Coronavirus Impact Varies](https://www.wsj.com/articles/hunt-is-on-for-genetic-clues-to-why-coronavirus-impact-varies-11586259827) (Wall Street Journal)
+  * [Why Does Covid-19 Make Some People So Sick? Ask Their DNA](https://www.wired.com/story/why-does-covid-19-make-some-people-so-sick-ask-their-dna/) (Wired)
+  * [China Ends Wuhan Lockdown, but Normal Life Is a Distant Dream](https://www.nytimes.com/2020/04/07/world/asia/wuhan-coronavirus.html) (NY Times)
+  * [What we can learn from South Korea and Singapore’s efforts to stop coronavirus (besides wearing face masks)](https://www.marketwatch.com/story/what-we-can-learn-from-south-korea-and-singapores-efforts-to-stop-coronavirus-in-addition-to-wearing-face-masks-2020-03-31) (Market Watch)
+  * [A national COVID-19 surveillance system: Achieving containment](https://www.aei.org/research-products/report/a-national-covid-19-surveillance-system-achieving-containment/) (American Enterprise Institute)
+  * [Tracking and tracing is key](https://twitter.com/ScottGottliebMD/status/1247527917480857604) (Scott Gottlieb, Twitter)
+  * [Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936.full) (Science Magazine)
+  * [Are contact tracing apps able to get us out of the #COVID19 crisis?](https://twitter.com/marcelsalathe/status/1246352102059847680) (Marcel Salathé, Twitter)
+
+
 **Tuesday, April 07 2020 - You Never Want To Be On A Ventilator**
 
   * [More than 700 Henry Ford employees tested positive for coronavirus](https://www.freep.com/story/news/health/2020/04/06/more-than-600-henry-ford-employees-tested-positive-coronavirus/2958261001/) (Detroit Free Press)
