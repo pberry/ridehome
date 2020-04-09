@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, April 09 2020 - Could Runners/Joggers Be Exposing Themselves Even When 6 Feet Apart?**
+
+  * [Population-level COVID-19 mortality risk for non-elderly individuals overall and for non-elderly individuals without underlying](https://www.medrxiv.org/content/10.1101/2020.04.05.20054361v1.full.pdf) (medRxiv)
+  * [How the coronavirus caused a giant national surplus of chicken wings](https://www.washingtonpost.com/business/2020/04/08/chicken-wings-coronavirus-march-madness/) (Washington Post)
+  * [A national COVID-19 surveillance system: Achieving containment](https://www.aei.org/research-products/report/a-national-covid-19-surveillance-system-achieving-containment/) (American Enterprise Institute)
+  * [White House lacks national strategy for key coronavirus tests](https://www.washingtonpost.com/health/2020/04/07/testing-coronavirus-trump/) (Washington Post)
+  * [Coroners worry Covid-19 test shortages could lead to uncounted deaths](https://www.cnn.com/2020/04/06/health/coronavirus-coroners-uncounted-deaths-invs/index.html) (CNN)
+  * [Coronavirus antibody tests could prove essential but scientists urge caution](https://www.washingtonpost.com/world/european-politicians-are-making-big-promises-about-antibody-passports-the-science-is-still-catching-up/2020/04/07/3c228b20-7887-11ea-a311-adb1344719a9_story.html) (Washington Post)
+  * [Where Have All the Heart Attacks Gone?](https://www.nytimes.com/2020/04/06/well/live/coronavirus-doctors-hospitals-emergency-care-heart-attack-stroke.html?algo=identity&fellback=false&imp_id=949786277&imp_id=443579620&action=click&module=Science%20%20Technology&pgtype=Homepage) (NY Times)
+  * [My experience with a covid funeral](https://www.reddit.com/r/nyc/comments/fwx1r2/my_experience_with_a_covid_funeral/?utm_source=share&utm_medium=web2x) (r/nyc)
+  * [New York City Considers Temporary Graves for Virus Victims](https://www.nytimes.com/2020/04/06/nyregion/mass-graves-nyc-parks-coronavirus.html) (NY Times)
+
 **Wednesday, April 08 2020 - Can People Catch Coronavirus Again? Worrying Data Around Low Antibody Levels**
 
   * [EMT's Get Controversial New Guidelines On Taking Some Patients To The Hospital \| WNYC News](https://www.wnyc.org/story/emts-have-controversial-new-guidelines-taking-some-patients-hospital/) (WNYC)
