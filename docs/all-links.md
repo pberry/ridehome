@@ -2,6 +2,19 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, April 09 2020 - Thu. 04/09 – Why The Pandemic Might Be Long-Term Good For The Internet**
+
+  * [ Disney+ Surpasses 50 Million Paid Subscribers After Launches in Europe & India](https://thestreamable.com/news/disney-plus-surpasses-50-million-paid-subscribers-after-european-launch) (The Streamable)
+  * [ Zoom removes meeting IDs from client title bar to boost security](https://www.bleepingcomputer.com/news/software/zoom-removes-meeting-ids-from-client-title-bar-to-boost-security/) (Bleeping Computer)
+  * [ MICROSOFT THINKS CORONAVIRUS WILL FOREVER CHANGE THE WAY WE WORK AND LEARN](https://www.theverge.com/2020/4/9/21214314/microsoft-teams-usage-coronavirus-pandemic-work-habit-change) (The Verge)
+  * [ The Humble Phone Call Has Made a Comeback](https://www.nytimes.com/2020/04/09/technology/phone-calls-voice-virus.html) (NYTimes)
+  * [ Microsoft: Don't expect any Windows 10X devices this calendar year](https://www.zdnet.com/article/microsoft-dont-expect-any-windows-10x-devices-this-calendar-year/) (ZDNet)
+  * [ No one’s getting new emoji in 2021 because of the pandemic](https://www.theverge.com/2020/4/9/21214865/unicode-emoji-delay-2022-android-ios-mobile-release?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+  * [ Google Stadia now free to anyone with a Gmail address](https://www.polygon.com/2020/4/8/21213551/google-stadia-free-pro-subscription) (Polygon)
+  * [ Now It’s Falling Apart](https://onezero.medium.com/our-government-runs-on-a-60-year-old-coding-language-and-now-its-falling-apart-61ec0bc8e121) (OneZero)
+  * [ Why the coronavirus lockdown is making the internet stronger than ever](https://www.technologyreview.com/2020/04/07/998552/why-the-coronavirus-lockdown-is-making-the-internet-better-than-ever/) (MIT Technology Review)
+  * [Twitter notifies users that it’s now sharing more data with advertisers](https://www.theverge.com/2020/4/8/21213593/twitter-data-sharing-pop-up-mobile-app-advertising-settings) (The Verge)
+
 **Wednesday, April 08 2020 - Wed. 04/08 – The Desktop Web Is Back (for the time being…)**
 
   * [@jack's tweet storm](https://twitter.com/jack/status/1247616214769086465)
