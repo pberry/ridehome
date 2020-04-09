@@ -2,7 +2,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 * [Show Links by Day](all-links.md)
 * [Long reads](longreads.md)
-* [Coronavirus Daily Briefing](coronavirus-daily-briefing.md)
+* [Coronavirus Morning report](coronavirus-daily-briefing.md)
 
 **Posts**
 
