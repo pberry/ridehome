@@ -1,5 +1,19 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, April 10 2020 - The Hero Vet That Flattened The Curve For A Whole Nation**
+
+  * [Coronavirus May ‘Reactivate’ in Cured Patients, Korean CDC Says](https://www.bloomberg.com/news/articles/2020-04-09/coronavirus-may-reactivate-in-cured-patients-korean-cdc-says) (Bloomberg)
+  * [Virus Reactivation](https://twitter.com/drericding/status/1248547519610716167?s=12) (Dr. Eric Feigl-Ding, Twitter)
+  * [Testing is lagging](https://twitter.com/ashishkjha/status/1248044749216342016) (Dr. Ashish Jha, Twitter)
+  * [To Get Our Economy Moving, Focus On Testing For Coronavirus](https://www.forbes.com/sites/steveforbes/2020/04/08/to-get-our-economy-moving-focus-on-testing-for-coronavirus/#6f0cfac473f2) (Forbes)
+  * [Chicago’s Jail Is Top U.S. Hot Spot as Virus Spreads Behind Bars](https://www.nytimes.com/2020/04/08/us/coronavirus-cook-county-jail-chicago.html) (NY Times)
+  * [April 8 coronavirus news](https://www.cnn.com/world/live-news/coronavirus-pandemic-04-08-20/h_554f0644ccdd5f0360a95436aeb8b04d?utm_source=twCNN&utm_term=link&utm_content=2020-04-09T01%3A08%3A19&utm_medium=social) (CNN)
+  * [California coronavirus curve: Fewer deaths, long quarantine](https://www.latimes.com/california/story/2020-04-09/california-coronavirus-curve-fewer-deaths-stay-at-home) (LA Times)
+  * [With Holy Week hushed by a pandemic, the pope does social distancing his own way](https://www.washingtonpost.com/world/europe/in-an-easter-week-hushed-by-a-pandemic-the-pope-does-social-distancing-his-own-way/2020/04/08/fa5538d6-7963-11ea-a311-adb1344719a9_story.html) (Washington Post)
+  * [What gathering for Easter, Passover, and Ramadan means during coronavirus](https://www.vox.com/identities/2020/4/8/21210114/easter-passover-ramandan-coronavirus) (Vox)
+  * [Veterinary scientist hailed for Faroe Islands' lack of Covid-19 deaths](https://www.theguardian.com/world/2020/apr/08/vetinary-scientist-hailed-faroe-islands-lack-covid-19-deaths) (The Guardian)
+  * [One fish saves a whole island](https://twitter.com/drericding/status/1248152713407463424?s=12) (Dr. Eric Feigl-Ding, Twitter)
+
 **Thursday, April 09 2020 - Could Runners/Joggers Be Exposing Themselves Even When 6 Feet Apart?**
 
   * [Population-level COVID-19 mortality risk for non-elderly individuals overall and for non-elderly individuals without underlying](https://www.medrxiv.org/content/10.1101/2020.04.05.20054361v1.full.pdf) (medRxiv)
