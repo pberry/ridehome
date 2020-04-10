@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, April 10 2020 - Fri. 04/10 – HUGE: Apple and Google Join Forces For Coronavirus Contact Tracing**
+
+  * [ Apple, Google debut major effort to help people track if they’ve come in contact with coronavirus](https://www.washingtonpost.com/technology/2020/04/10/apple-google-tracking-coronavirus/) (Washington Post)
+  * [ Amazon developing coronavirus testing lab for workers](https://www.washingtonpost.com/technology/2020/04/09/amazon-coronavirus-testing-lab/) (Washington Post)
+  * [ The pandemic is playing to almost every one of Amazon's strengths](https://www.cnn.com/2020/04/09/tech/amazon-dominance-coronavirus/) (CNN Business)
+  * [ Google creates online unemployment application with state of New York](https://www.cnbc.com/2020/04/09/google-creates-online-unemployment-application-with-state-of-new-york.html) (CNBC)
+  * [ Google is rebranding Hangouts Chat as just Google Chat](https://www.theverge.com/2020/4/9/21215588/google-chat-hangouts-meet-g-suite-name-change-rebranding) (The Verge)
+  * [ Everyone can now access their Instagram DMs on the web](https://www.theverge.com/2020/4/10/21215449/instagram-dm-web-browser-update-direct-message) (The Verge)
+
 **Thursday, April 09 2020 - Thu. 04/09 – Why The Pandemic Might Be Long-Term Good For The Internet**
 
   * [ Disney+ Surpasses 50 Million Paid Subscribers After Launches in Europe & India](https://thestreamable.com/news/disney-plus-surpasses-50-million-paid-subscribers-after-european-launch) (The Streamable)
