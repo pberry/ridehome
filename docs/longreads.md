@@ -2,6 +2,22 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, April 10**
+  * [ Can Airbnb Survive Coronavirus?](https://www.citylab.com/life/2020/04/coronavirus-safe-travel-airbnb-rental-business-host-bailout/608917/) (Citylab)
+  * [ Atlassian’s tools helped build today’s tech. How’s it prepping for the future?](https://www.protocol.com/atlassian-scott-farquhar-jira--transformation) (Protocol)
+  * [ Zuckerberg’s Jealousy Held Back Instagram and Drove Off Founders](https://www.bloomberg.com/news/features/2020-04-07/zuckerberg-s-jealousy-held-back-instagram-and-drove-off-founders) (Bloomberg Businessweek)
+  * [ Was Leisure Suit Larry Really an Accomplice in Early Banking Cyberattacks?](https://www.vice.com/en_us/article/epg9be/did-sierra-create-leisure-suit-larry-virus-stop-piracy) (Vice)
+  * [Has Apple finally bitten off way more than it can chew?](https://www.wired.co.uk/article/future-of-apple) (WiredUK)
+  * [Apple, Amazon, and Common Enemies](https://stratechery.com/2020/apple-amazon-and-common-enemies/) (Stratechery)
+
+**Friday, April 03**
+  * [ Google Data Centers’ Secret Cost: Billions of Gallons of Water](https://www.bloomberg.com/news/features/2020-04-01/how-much-water-do-google-data-centers-use-billions-of-gallons) (Bloomberg Green)
+  * [ Microsoft Edge is becoming the browser you didn’t know you needed](https://arstechnica.com/gadgets/2020/04/microsoft-edge-is-becoming-the-browser-you-didnt-know-you-needed/) (Ars Technica)
+  * [ The Xbox Series X master plan](https://www.polygon.com/2020/4/1/21197360/xbox-series-x-launch-microsoft-phil-spencer-analysis) (Polygon)
+  * [ From courts to consoles: With live sports canceled, pro athletes join the streaming surge](https://www.washingtonpost.com/video-games/esports/2020/03/30/athletes-streaming-twitch-video-games-coronavirus/) (The Washington Post)
+  * [ Telemedicine, Once a Hard Sell, Can’t Keep Up With Demand](https://www.wsj.com/articles/telemedicine-once-a-hard-sell-cant-keep-up-with-demand-11585734425) (WSJ)
+  * [ The Medical News Site That Saw the Coronavirus Coming Months Ago](https://www.nytimes.com/2020/03/30/business/media/stat-news-boston-coronavirus.html) (NYTimes)
+
 **Friday, March 27**
   * [ Everything Is So Fucked, You Might As Well Get A Facebook Portal](https://www.buzzfeednews.com/article/katienotopoulos/the-facebook-portal-is-good-now-unfortunately) (Buzzfeed News)
   * [ We Need A Massive Surveillance Program](https://idlewords.com/2020/03/we_need_a_massive_surveillance_program.htm) (IdleWords.com)
