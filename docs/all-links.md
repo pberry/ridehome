@@ -2,6 +2,19 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, April 13 2020 - Mon. 04/13 – Back To The iPhone 5 Design Future?**
+
+  * [@moxie Tweet Thread](https://twitter.com/moxie/status/1248707315626201088)
+  * [ How Apple and Google are tackling one of the toughest parts about tracking COVID-19 exposures](https://www.theverge.com/interface/2020/4/11/21216652/apple-google-contact-tracing-covid-19-coronavirus-api-public-health-app-challenges) (The Verge)
+  * [ NHS phone app holds key to lifting UK’s coronavirus lockdown](https://www.thetimes.co.uk/article/nhs-phone-app-holds-key-to-lifting-uks-coronavirus-lockdown-wfmt3pt0g) (The Times (UK))
+  * [ Apple Plans iPad-Like Design for Next iPhone, Smaller HomePod](https://www.bloomberg.com/news/articles/2020-04-13/apple-plans-ipad-like-design-for-next-iphone-smaller-homepod) (Bloomberg)
+  * [ SoftBank Group forecasts $7-bn full-year net loss](https://finance.yahoo.com/news/softbank-group-forecasts-7-bn-full-net-loss-111845217--finance.html) (Yahoo Finance)
+  * [ Son’s $2 Billion Guarantee at Risk as Virus Hits SoftBank Star](https://www.bloomberg.com/news/articles/2020-04-12/son-s-2-billion-guarantee-at-risk-as-virus-hits-softbank-star) (Bloomberg)
+  * [Fall of the roaming empire: telecom groups face revenue loss as travel collapses](https://www.ft.com/content/18b853b6-c9fa-4821-a5f3-29fb09899312) (Financial Times)
+  * [ As YouTube Traffic Soars, YouTubers Say Pay Is Plummeting](https://onezero.medium.com/as-youtube-traffic-soars-youtubers-say-pay-is-plummeting-30dc1ba444db) (OneZero)
+  * [ ‘It’s still niche’: Esports see audience surge, more tepid ad demand](https://digiday.com/media/its-still-niche-esports-see-audience-surge-more-tepid-ad-demand/) (Digiday)
+  * [ Anyone's a Celebrity Streamer With This Open Source App](https://www.wired.com/story/anyones-celebrity-streamer-open-source-app/) (Wired)
+
 **Friday, April 10 2020 - Fri. 04/10 – HUGE: Apple and Google Join Forces For Coronavirus Contact Tracing**
 
   * [ Apple, Google debut major effort to help people track if they’ve come in contact with coronavirus](https://www.washingtonpost.com/technology/2020/04/10/apple-google-tracking-coronavirus/) (Washington Post)
