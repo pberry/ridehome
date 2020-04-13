@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, April 13 2020 - Apple and Google to the Rescue?**
+
+  * [Florida COVID-19 test backlog is bigger than state says](https://www.miamiherald.com/news/coronavirus/article241882491.html) (Miami Herald)
+  * [Florida's count of coronavirus deaths is missing some cases](https://www.tampabay.com/news/health/2020/04/11/floridas-count-of-coronavirus-deaths-is-missing-some-cases/) (Tampa Bay Times)
+  * [Google and Apple launching coronavirus contact-tracing system for iOS and Android](https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app) (The Verge)
+  * [Apple and Google partner on COVID-19 contact tracing technology](https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology) (Google)
+  * [NHS phone app holds key to lifting UK’s coronavirus lockdown](https://www.thetimes.co.uk/article/nhs-phone-app-holds-key-to-lifting-uks-coronavirus-lockdown-wfmt3pt0g) (The Times)
+  * [Insight into Apple and Google's contact tracing initiative](https://twitter.com/benadida/status/1249067484679794688?s=12) (Ben Adida, Twitter)
+  * [Hospitals are laying off staff in midst of the coronavirus pandemic](https://www.washingtonpost.com/health/starved-for-cash-hospitals-and-doctor-groups-cut-staff-amid-pandemic/2020/04/09/d3593f54-79a7-11ea-a130-df573469f094_story.html) (Washington Post)
+  * [A plan to save coronavirus patients from dying at home](https://www.cnn.com/2020/04/11/health/monitoring-covid19-at-home/index.html) (CNN)
+  * [David Lat: My near-death experience on a ventilator](https://www.washingtonpost.com/opinions/2020/04/09/my-near-death-experience-ventilator/?utm_campaign=wp_opinions&utm_medium=social&utm_source=twitter) (Washington Post)
+
 **Friday, April 10 2020 - The Hero Vet That Flattened The Curve For A Whole Nation**
 
   * [Coronavirus May ‘Reactivate’ in Cured Patients, Korean CDC Says](https://www.bloomberg.com/news/articles/2020-04-09/coronavirus-may-reactivate-in-cured-patients-korean-cdc-says) (Bloomberg)
