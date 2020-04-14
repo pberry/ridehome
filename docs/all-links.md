@@ -2,6 +2,20 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, April 14 2020 - Seems Like Old Times! An Actual Smartphone Launch Event!**
+
+  * [ OnePlus Announces OnePlus 8 & OnePlus 8 Pro: Step-Up 2020 Flagships](https://www.anandtech.com/show/15717/oneplus-announces-oneplus-8-oneplus-8-pro-stepup-2020-flagships) (AnAndTech)
+  * [ ONEPLUS 8 PRO REVIEW: BIG LEAGUE](https://www.theverge.com/2020/4/14/21219861/oneplus-8-pro-review-specs-features-price-camera-battery-photos-video) (The Verge)
+  * [ Q&A: Apple and Google discuss their coronavirus tracing efforts](https://techcrunch.com/2020/04/13/apple-google-coronavirus-tracing/) (TechCrunch)
+  * [ iPhone China Shipments Rebound as Manufacturing Resumes](https://www.bloomberg.com/news/articles/2020-04-14/iphone-china-shipments-bounce-as-manufacturing-resumes) (Bloomberg)
+  * [ Scoop: Google readies its own chip for future Pixels, Chromebooks](https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html) (Axios)
+  * [ Zoom will let paying customers pick which data center their calls are routed from](https://www.theverge.com/2020/4/13/21219835/zoom-data-center-call-routing-china-security-privacy-encryption) (The Verge)
+  * [ Over 500,000 Zoom accounts sold on hacker forums, the dark web](https://www.bleepingcomputer.com/news/security/over-500-000-zoom-accounts-sold-on-hacker-forums-the-dark-web/) (BleepingComputer)
+  * [ New Microsoft Teams features: Video to show 9 people on screen with more coming soon](https://www.zdnet.com/article/new-microsoft-teams-features-video-to-show-9-people-on-screen-with-more-coming-soon/) (ZDNet)
+  * [ Amazon to Expand Shipments of Nonessential Items, Continue Adding Staff](https://www.wsj.com/articles/amazon-seeks-to-hire-another-75-000-workers-11586789365) (WSJ)
+  * [ VC Firms Raised $21 Billion Last Quarter Despite Pandemic Chaos](https://www.bloomberg.com/news/articles/2020-04-14/vc-firms-raised-21-billion-last-quarter-despite-pandemic-chaos) (Bloomberg)
+  * [ ESRB introduces a new label to indicate that a game has loot boxes](https://www.theverge.com/2020/4/13/21219192/esrb-new-label-loot-boxes-gacha-game) (The Verge)
+
 **Monday, April 13 2020 - Mon. 04/13 – Back To The iPhone 5 Design Future?**
 
   * [@moxie Tweet Thread](https://twitter.com/moxie/status/1248707315626201088)
