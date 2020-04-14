@@ -1,5 +1,24 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, April 14 2020 - Governors Form Pacts to Reopen the Economy Together**
+
+  * [Percentage of pregnant women asymptomatic](https://twitter.com/angusdav/status/1249887549746753536) (Angus Davis, Twitter)
+  * [Governors form groups to explore lifting virus restrictions; Trump says he alone will decide](https://www.washingtonpost.com/politics/governors-form-groups-to-explore-lifting-virus-restrictions-trump-says-he-alone-will-decide/2020/04/13/f04a401e-7d84-11ea-a3ee-13e1ae0a3571_story.html) (Washington Post)
+  * [New York asymptomatic rates](https://twitter.com/chrislhayes/status/1249873919928082444?s=12) (Chris Hayes, Twitter)
+  * [South Dakota’s governor resisted ordering people to stay home. Now it has one of the nation’s largest coronavirus hot spots.](https://www.washingtonpost.com/national/south-dakotas-governor-resisted-ordering-people-to-stay-home-now-it-has-one-of-the-nations-largest-coronavirus-hot-spots/2020/04/13/5cff90fe-7daf-11ea-a3ee-13e1ae0a3571_story.html) (Washington Post)
+  * [Walmart opening more testing centers](https://twitter.com/ericjackson/status/1249807160420241409?s=12) (Eric Jackson, Twitter)
+  * [Over 1 in 100 New York residents have now tested positive for coronavirus](https://www.washingtonpost.com/health/2020/04/13/stunning-1-100-new-york-residents-have-now-tested-positive-coronavirus/) (Washington Post)
+  * [Amazon puts new Amazon Fresh and Whole Foods delivery customers on waitlist amid surging demand](https://www.theverge.com/2020/4/13/21218908/amazon-fresh-whole-foods-delivery-waitlist-virtual-line-demand) (The Verge)
+  * [New ways we're getting groceries to people during the COVID-19 crisis](https://blog.aboutamazon.com/company-news/new-ways-were-getting-groceries-to-people-during-the-covid-19-crisis?ots=1&tag=curbedcom06-20&linkCode=w50) (Amazon)
+  * [How the Virus Transformed the Way Americans Spend Their Money](https://www.nytimes.com/interactive/2020/04/11/business/economy/coronavirus-us-economy-spending.html?smtyp=cur&smid=tw-nytimes) (NY Times)
+  * [Five-step plan for reopening business is put to the test in China](https://www.washingtonpost.com/world/asia_pacific/five-step-plan-for-reopening-business-gets-a-test-run-in-china/2020/04/12/8c0bc17e-7acb-11ea-a311-adb1344719a9_story.html) (Washington Post)
+  * ['We need an army': Hiring of coronavirus trackers is likely set to soar](https://www.statnews.com/2020/04/13/coronavirus-health-agencies-need-army-of-contact-tracers/) (Stat)
+  * [How Do We Exit The Shutdown? Hire An Army Of Public Health Workers](https://khn.org/news/how-do-we-exit-the-shutdown-hire-an-army-of-public-health-workers/) (Kaiser Health News) 
+  * [What Will It Take To Reopen US? CDC Says 'Aggressive' Contact Tracing : Shots - Health News](https://www.npr.org/sections/health-shots/2020/04/10/831200054/cdc-director-very-aggressive-contact-tracing-needed-for-u-s-to-return-to-normal) (NPR)
+  * [Coronavirus Update: 102-Year-Old Woman Defies Odds To Beat COVID-19, Doctor Calls Recovery 'Miraculous'](https://newyork.cbslocal.com/2020/04/11/102-year-old-woman-recovers-from-coronavirus/) (CBS New York)
+  * [102-Year-Old Woman Recovers from the Coronavirus](https://www.ny1.com/nyc/all-boroughs/coronavirus/2020/04/10/a-102-year-old-queens-woman-survives-through-the-coronavirus#) (NY1)
+  * ['Got More Beer': Pa. Woman Who Went Viral For Beer Wanted Sign Gets A Special Delivery](https://pittsburgh.cbslocal.com/2020/04/13/woman-in-viral-need-more-beer-photo-gets-delivery-of-coors-light/) (CBS Pittsburgh)
+
 **Monday, April 13 2020 - Apple and Google to the Rescue?**
 
   * [Florida COVID-19 test backlog is bigger than state says](https://www.miamiherald.com/news/coronavirus/article241882491.html) (Miami Herald)
