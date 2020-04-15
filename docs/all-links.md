@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, April 15 2020 - Wed. 04/15 – New iPhone SE!**
+
+  * [ Apple announces the new $399 iPhone SE for 2020](https://www.theverge.com/2020/4/15/21221918/iphone-se-announcement-apple-price-specs-release-date-features) (The Verge)
+  * [Airbnb raises another $1bn](https://www.ft.com/content/bc26db3c-34dd-4ba9-bf0b-2ef422bfd3b6) (Financial Times)
+  * [ Amazon slashes commission rates for program that gives publishers a cut of sales](https://www.cnbc.com/2020/04/14/amazon-slashes-commission-rates-for-affiliate-program.html) (CNBC)
+  * [ Github is now free for all teams](https://techcrunch.com/2020/04/14/github-is-now-free-for-all-teams/) (TechCrunch)
+  * [ Washington AG sues Facebook for violating state political ad law](https://www.geekwire.com/2020/washington-ag-sues-facebook-violating-state-political-ad-law/) (GeekWire)
+  * [ How Medium became the best and worst place for coronavirus news](https://www.theverge.com/2020/4/14/21219907/medium-coronavirus-covid-19-news-misinformation-conspiracy-theories-best-worst) (The Verge)
+  * [ Houseparty Vies With Zoom to Be Homebound Chatters’ App of Choice](https://www.bloomberg.com/news/articles/2020-04-15/houseparty-vies-with-zoom-to-be-homebound-chatters-app-of-choice) (Bloomberg)
+
 **Tuesday, April 14 2020 - Seems Like Old Times! An Actual Smartphone Launch Event!**
 
   * [ OnePlus Announces OnePlus 8 & OnePlus 8 Pro: Step-Up 2020 Flagships](https://www.anandtech.com/show/15717/oneplus-announces-oneplus-8-oneplus-8-pro-stepup-2020-flagships) (AnAndTech)
