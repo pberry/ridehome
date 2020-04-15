@@ -1,5 +1,17 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, April 15 2020 - A Realistic Look At This Summer... And Next**
+
+  * [WHO graph of new cases and deaths](https://twitter.com/chr1sa/status/1250138184610013184) (Chris Anderson, Twitter)
+  * [Chile Counts Those Who Died of Coronavirus as Recovered Because They're 'No Longer Contagious,' Health Minister Says](https://www.newsweek.com/chile-counts-those-who-died-coronavirus-recovered-because-theyre-no-longer-contagious-health-1497775) (Newsweek)
+  * [More NYers have died per capita than in Italy](https://twitter.com/warren_bass/status/1250165878064283648) (Warren Bass, Twitter)
+  * [3 Vans, 6 Coolers, a Plane, a Storm and 2 Labs: A Nasal Swab’s Journey](https://www.nytimes.com/2020/04/13/nyregion/coronavirus-testing.html) (NY Times)
+  * [Whirlpool, Amazon, other businesses are working on plans to get their employees back on the job.](https://www.washingtonpost.com/nation/2020/04/13/businesses-workforce-coronavirus/) (Washington Post) 
+  * [Scalable Testing for Coronavirus](https://blog.aboutamazon.com/company-news/scalable-testing-for-coronavirus) (Amazon)
+  * [Stay Home During Outbreak: Americans Stick to Social Distancing](https://www.bloomberg.com/news/articles/2020-04-14/stay-home-during-outbreak-americans-stick-to-social-distancing?sref=DklGZLcs) (Bloomberg)
+  * [Social-Distancing Rules—and Those That Flout Them—Spur Online Shaming](https://www.wsj.com/articles/social-distancing-rulesand-those-that-flout-themspur-online-shaming-11586781000?mod=hp_listc_pos3) (Wall Street Journal)
+  * [Our Pandemic Summer](https://www.theatlantic.com/health/archive/2020/04/pandemic-summer-coronavirus-reopening-back-normal/609940/) (The Atlantic)
+
 **Tuesday, April 14 2020 - Governors Form Pacts to Reopen the Economy Together**
 
   * [Percentage of pregnant women asymptomatic](https://twitter.com/angusdav/status/1249887549746753536) (Angus Davis, Twitter)
