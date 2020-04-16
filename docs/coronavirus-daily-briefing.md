@@ -1,5 +1,15 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, April 16 2020 - Can over-exercising lower your immunity?**
+
+  * [Opinion | Coronavirus Recovery Isn't So Quick or Simple](https://www.nytimes.com/2020/04/13/opinion/coronavirus-recovery.html) (NY Times)
+  * [Hyped Malaria Pill Doesn't Help Clear Coronavirus in Study](https://news.bloomberglaw.com/health-law-and-business/hyped-malaria-pill-doesnt-help-clear-coronavirus-in-study) (Bloomberg)
+  * [Treatment hailed by Trump has no benefit for coronavirus patients: paper](https://www.scmp.com/news/china/science/article/3080055/anti-malarial-treatment-hailed-trump-has-no-benefit-coronavirus) (South China Morning Post)
+  * [Abbott to make 20 million antibody tests for the coronavirus by June](https://www.businessinsider.com/abbott-to-make-millions-antibody-tests-coronavirus-by-june-2020-4) (Business Insider)
+  * [Abbott Launches Third COVID-19 Test, a Laboratory-Based Antibody Blood Test That Will Ship in the US Starting Tomorrow](https://abbott.mediaroom.com/2020-04-15-Abbott-Launches-Third-COVID-19-Test-a-Laboratory-Based-Antibody-Blood-Test-That-Will-Ship-in-the-U-S-Starting-Tomorrow) (Abbott)
+  * [How much of the coronavirus does it take to make you sick?](https://www.statnews.com/2020/04/14/how-much-of-the-coronavirus-does-it-take-to-make-you-sick/) (STAT)
+  * [Lesson From Singapore: Why We May Need to Think Bigger](https://www.nytimes.com/2020/04/14/upshot/coronavirus-singapore-thinking-big.html) (New York Times)
+
 **Wednesday, April 15 2020 - A Realistic Look At This Summer... And Next**
 
   * [WHO graph of new cases and deaths](https://twitter.com/chr1sa/status/1250138184610013184) (Chris Anderson, Twitter)
