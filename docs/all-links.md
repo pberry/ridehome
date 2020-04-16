@@ -2,6 +2,18 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, April 16 2020 - The Video Conferencing Space Is So Hot, We’re Getting Steamy M&A Action Now.**
+
+  * [ Verizon Buys Zoom Conferencing Rival BlueJeans](https://www.wsj.com/articles/verizon-to-buy-zoom-conferencing-rival-bluejeans-11587041218) (The Verge)
+  * [ Apple Developing High-End Headphones With Interchangeable Parts](https://www.bloomberg.com/news/articles/2020-04-16/apple-developing-high-end-headphones-with-interchangeable-parts) (Bloomberg)
+  * [ Sony Plans Limited PlayStation 5 Output in First Year](https://www.bloomberg.com/news/articles/2020-04-16/sony-is-said-to-plan-limited-playstation-5-output-in-first-year) (Bloomberg)
+  * [ Robinhood Is Raising New Funds at About $8 Billion Value, Sources Say](https://www.bloomberg.com/news/articles/2020-04-16/robinhood-said-to-be-raising-new-funds-at-about-8-billion-value) (Bloomberg)
+  * [ Google to Slow Hiring for Rest of 2020, CEO Tells Staff](https://www.bloomberg.com/news/articles/2020-04-15/google-to-slow-hiring-for-rest-of-2020-ceo-pichai-tells-staff) (Bloomberg)
+  * [ Facebook-Backed Libra Cryptocurrency Project Is Scaled Back](https://www.nytimes.com/2020/04/16/technology/facebook-libra-cryptocurrency.html) (NYTimes)
+  * [ Amazon Retools With Unusual Goal: Get Shoppers to Buy Less Amid Coronavirus Pandemic](https://www.wsj.com/articles/amazon-retools-with-unusual-goal-get-shoppers-to-buy-less-amid-coronavirus-pandemic-11587034800) (WSJ)
+  * [ Amazon to close French warehouses until next week after court order](https://www.reuters.com/article/us-health-coronavirus-amazon-france/amazon-to-close-french-warehouses-until-next-week-after-court-order-idUSKCN21X192) (Reuters)
+  * [ TikTok now lets parents set restrictions on their kids’ accounts](https://www.theverge.com/2020/4/16/21222817/tiktok-family-pairing-linked-accounts) (The Verge)
+
 **Wednesday, April 15 2020 - Wed. 04/15 – New iPhone SE!**
 
   * [ Apple announces the new $399 iPhone SE for 2020](https://www.theverge.com/2020/4/15/21221918/iphone-se-announcement-apple-price-specs-release-date-features) (The Verge)
