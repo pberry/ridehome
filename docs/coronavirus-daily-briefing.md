@@ -2,7 +2,7 @@ _Find links to the podcast and individual pods at [RideHome](https://www.ridehom
 
 **Thursday, April 16 2020 - Can over-exercising lower your immunity?**
 
-  * [Opinion | Coronavirus Recovery Isn't So Quick or Simple](https://www.nytimes.com/2020/04/13/opinion/coronavirus-recovery.html) (NY Times)
+  * [Opinion \| Coronavirus Recovery Isn't So Quick or Simple](https://www.nytimes.com/2020/04/13/opinion/coronavirus-recovery.html) (NY Times)
   * [Hyped Malaria Pill Doesn't Help Clear Coronavirus in Study](https://news.bloomberglaw.com/health-law-and-business/hyped-malaria-pill-doesnt-help-clear-coronavirus-in-study) (Bloomberg)
   * [Treatment hailed by Trump has no benefit for coronavirus patients: paper](https://www.scmp.com/news/china/science/article/3080055/anti-malarial-treatment-hailed-trump-has-no-benefit-coronavirus) (South China Morning Post)
   * [Abbott to make 20 million antibody tests for the coronavirus by June](https://www.businessinsider.com/abbott-to-make-millions-antibody-tests-coronavirus-by-june-2020-4) (Business Insider)
