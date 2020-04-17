@@ -2,6 +2,14 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, April 17**
+  * [ 'Needle in a haystack': Reborn tech offices may need distance and mass testing](https://www.protocol.com/companies-planning-employee-coronavirus-testing) (Protocol)
+  * [ The coronavirus pandemic turned Folding@Home into an exaFLOP supercomputer](https://arstechnica.com/science/2020/04/how-the-pandemic-revived-a-distributed-computing-project-and-made-history/) (Ars Technica)
+  * [ Can Comic Books Survive the Coronavirus Era?](https://www.nytimes.com/2020/04/10/arts/comic-books-coronavirus.html) (NYTimes)
+  * [ LIDAR: Peek Into The Future With iPad Pro](https://blog.halide.cam/lidar-peek-into-the-future-with-ipad-pro-11d38910e9f8) (Halide)
+  * [ The Devastating Decline of a Brilliant Young Coder](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/) (Wired)
+  * [ In Half-Life’s improv scene, anyone can speak for Gordon Freeman](https://arstechnica.com/gaming/2020/04/from-fps-to-improv-stage-half-life-as-the-new-community-theater/) (Ars Technica)
+
 **Friday, April 10**
   * [ Can Airbnb Survive Coronavirus?](https://www.citylab.com/life/2020/04/coronavirus-safe-travel-airbnb-rental-business-host-bailout/608917/) (Citylab)
   * [ Atlassian’s tools helped build today’s tech. How’s it prepping for the future?](https://www.protocol.com/atlassian-scott-farquhar-jira--transformation) (Protocol)
