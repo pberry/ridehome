@@ -9,12 +9,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
   * [ Google's fast-growing Meet video tool getting Zoom-like layout, Gmail link](https://www.reuters.com/article/us-alphabet-google-conferencing-idUSKCN21Y1XI) (Reuters)
   * [ Apple changes default MacBook charging behavior to improve battery health](https://sixcolors.com/post/2020/04/apple-battery-health-management/) (Six Colors)
   * [ Apple CEO Talks Covid-19 Crisis, Return to Work Plan at Company-Wide Meeting](https://www.bloomberg.com/news/articles/2020-04-16/apple-ceo-sees-company-emerging-strongly-from-covid-19-crisis) (Bloomberg)
-  * [ 'Needle in a haystack': Reborn tech offices may need distance and mass testing](https://www.protocol.com/companies-planning-employee-coronavirus-testing) (Protocol)
-  * [ The coronavirus pandemic turned Folding@Home into an exaFLOP supercomputer](https://arstechnica.com/science/2020/04/how-the-pandemic-revived-a-distributed-computing-project-and-made-history/) (Ars Technica)
-  * [ Can Comic Books Survive the Coronavirus Era?](https://www.nytimes.com/2020/04/10/arts/comic-books-coronavirus.html) (NYTimes)
-  * [ LIDAR: Peek Into The Future With iPad Pro](https://blog.halide.cam/lidar-peek-into-the-future-with-ipad-pro-11d38910e9f8) (Halide)
-  * [ The Devastating Decline of a Brilliant Young Coder](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/) (Wired)
-  * [ In Half-Life’s improv scene, anyone can speak for Gordon Freeman](https://arstechnica.com/gaming/2020/04/from-fps-to-improv-stage-half-life-as-the-new-community-theater/) (Ars Technica)
 
 **Thursday, April 16 2020 - The Video Conferencing Space Is So Hot, We’re Getting Steamy M&A Action Now.**
 
