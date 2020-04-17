@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, April 17 2020 - Are US Case Numbers Actually Plateauing?**
+
+  * [How Bad Is the Coronavirus Outbreak? Here's a Key Number.](https://www.theatlantic.com/technology/archive/2020/04/us-coronavirus-outbreak-out-control-test-positivity-rate/610132/) (The Atlantic)
+  * [Gilead data suggests coronavirus patients are responding to treatment](https://www.statnews.com/2020/04/16/early-peek-at-data-on-gilead-coronavirus-drug-suggests-patients-are-responding-to-treatment/) (STAT)
+  * [Stay 6 Feet Apart, We’re Told. But How Far Can Air Carry Coronavirus?](https://www.nytimes.com/2020/04/14/health/coronavirus-six-feet.html?action=click&module=RelatedLinks&pgtype=Article) (NY Times)
+  * [This 3-D Simulation Shows Why Social Distancing Is So Important](https://www.nytimes.com/interactive/2020/04/14/science/coronavirus-transmission-cough-6-feet-ar-ul.html) (NY Times)
+  * [An Army of Virus Tracers Takes Shape in Massachusetts](https://www.nytimes.com/2020/04/16/us/coronavirus-massachusetts-contact-tracing.html) (New York Times)
+  * [Large number of public service staff to be redeployed to contact tracing](https://www.irishtimes.com/news/health/large-number-of-public-service-staff-to-be-redeployed-to-contact-tracing-1.4212937) (Irish Times)
+
 **Thursday, April 16 2020 - Can over-exercising lower your immunity?**
 
   * [Opinion \| Coronavirus Recovery Isn't So Quick or Simple](https://www.nytimes.com/2020/04/13/opinion/coronavirus-recovery.html) (NY Times)
