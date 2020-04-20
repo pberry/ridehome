@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, April 20 2020 - Mon. 04/20 – Well, Your iPad IS A Laptop Now, Which Means Bigger And Heavier**
+
+  * [ Facebook to Introduce an App for Gaming](https://www.nytimes.com/2020/04/19/technology/facebook-app-gaming.html) (NYTimes)
+  * [ Facebook and Google to face mandatory code of conduct to 'level playing field' with traditional news media](https://www.abc.net.au/news/2020-04-20/facebook-and-google-to-face-mandatory-code-of-conduct/12163300) (ABC News Australia)
+  * [ Zoom’s Security Woes Were No Secret to Business Partners Like Dropbox](https://www.nytimes.com/2020/04/20/technology/zoom-security-dropbox-hackers.html) (NYTimes)
+  * [ With Shut-In Kids Flocking to Streaming, Disney Channel Retools](https://www.bloomberg.com/news/articles/2020-04-17/with-shut-in-kids-flocking-to-streaming-disney-channel-retools) (Bloomberg)
+  * [ The Q1 2020 Global VC Report: Funding Slowly Impacted By Coronavirus](https://news.crunchbase.com/news/the-q1-2020-global-vc-report-funding-slowly-impacted-by-coronavirus/) (Crunchbase News)
+  * [ Private Equity Sees $20 Billion of Tech Deals Shelved by Virus](https://www.bloomberg.com/news/articles/2020-04-20/private-equity-sees-20-billion-of-tech-deals-shelved-by-virus) (Bloomberg)
+  * [ MAGIC KEYBOARD FOR THE IPAD PRO REVIEW: THE BEST WAY TO TURN AN IPAD INTO A LAPTOP](https://www.theverge.com/2020/4/20/21227345/magic-keyboard-ipad-pro-tablet-laptop-review-price-specs-features) (The Verge)
+
 **Friday, April 17 2020 - Y Combinator Gets Picky**
 
   * [ AI spots critical Microsoft security bugs 97% of the time](https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/) (VentureBeat)
