@@ -1,5 +1,16 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, April 20 2020 - What We Can Learn From South Korea**
+
+  * [Report: Cobble Hill nursing home has most coronavirus deaths](https://brooklyneagle.com/articles/2020/04/17/cobble-hill-nursing-home-deaths/?utm_source=Brooklyn+Today&utm_campaign=194fbd5c26-EMAIL_CAMPAIGN_2020_04_17_08_05&utm_medium=email&utm_term=0_1ba554d7d5-194fbd5c26-125064301) (Brooklyn Daily Eagle)
+  * [Washington State curve](https://twitter.com/Noahpinion/status/1252123240333377536) (Noah Smith, Twitter)
+  * [Why Is South Korea Beating Coronavirus?: Mass Testing Success](https://www.bloomberg.com/news/articles/2020-04-18/seoul-s-full-cafes-apple-store-lines-show-mass-testing-success) (Bloomberg)
+  * [Coronavirus Testing Needs to Triple Before the U.S. Can Reopen, Experts Say](https://www.nytimes.com/interactive/2020/04/17/us/coronavirus-testing-states.html?smtyp=cur&smid=tw-nytimes) (New York Times)
+  * [Antiviral remdesivir prevents disease progression in monkeys with COVID-19](https://www.nih.gov/news-events/news-releases/antiviral-remdesivir-prevents-disease-progression-monkeys-covid-19) (National Institutes of Health)
+  * [Obesity Linked to Severe Coronavirus Disease, Especially for Younger Patients](https://www.nytimes.com/2020/04/16/health/coronavirus-obesity-higher-risk.html?action=click&module=RelatedLinks&pgtype=Article) (New York Times)
+  * [Scientist behind saliva test breakthrough sees bridge to nationwide coronavirus screening](https://abcnews.go.com/Health/scientist-saliva-test-breakthrough-sees-bridge-nationwide-coronavirus/story?id=70174505) (ABC News)
+  * [Antibody Test, Seen as Key to Reopening Country, Does Not Yet Deliver](https://www.nytimes.com/2020/04/19/us/coronavirus-antibody-tests.html) (NY Times)
+
 **Friday, April 17 2020 - Are US Case Numbers Actually Plateauing?**
 
   * [How Bad Is the Coronavirus Outbreak? Here's a Key Number.](https://www.theatlantic.com/technology/archive/2020/04/us-coronavirus-outbreak-out-control-test-positivity-rate/610132/) (The Atlantic)
