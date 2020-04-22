@@ -2,6 +2,18 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, April 21 2020 - Tue. 04/21 – Sonos Radio**
+
+  * [ Sonos launches its own streaming radio service](https://www.theverge.com/2020/4/21/21228460/sonos-radio-announced-features-streaming-music-date-price) (The Verge)
+  * [ 267 million Facebook profiles sold for $600 on the dark web](https://www.bleepingcomputer.com/news/security/267-million-facebook-profiles-sold-for-600-on-the-dark-web/) (BleepingComputer)
+  * [ Apple launches App Store, Music, Arcade, Podcasts, and iCloud in new countries](https://9to5mac.com/2020/04/21/apple-launches-app-store-music-arcade-podcasts-and-icloud-in-new-countries/) (9to5Mac)
+  * [ In major shift, Google Shopping opens up to free product listings](https://searchengineland.com/in-major-shift-google-shopping-opens-up-to-free-product-listings-333288) (Search Engine Land)
+  * [ Facebook removes some events calling for protests of stay-at-home orders](https://www.nbcnews.com/tech/tech-news/facebook-removes-some-events-calling-protests-stay-home-orders-n1187811) (NBC News)
+  * [ Google's Head of Quantum Computing Hardware Resigns](https://www.wired.com/story/googles-head-quantum-computing-hardware-resigns/) (Wired)
+  * [ WarnerMedia Sets Late May HBO Max Launch](https://www.hollywoodreporter.com/live-feed/warnermedia-sets-late-may-hbo-max-launch-1291084) (The Hollywood Reporter)
+  * [ AT&T’s HBO Max Will Dive Into Crowded Streaming Market on May 27](https://www.bloomberg.com/news/articles/2020-04-21/at-t-s-hbo-max-will-dive-into-crowded-streaming-market-on-may-27?utm_source=google&utm_medium=bd&cmpId=google) (Bloomberg)
+  * [ Kickstarter plans layoffs after new projects on the site drop off by 35 percent](https://www.theverge.com/2020/4/20/21228412/kickstarter-layoffs-planned-coronavirus-project-declines-crowdfunding-union) (The Verge)
+
 **Monday, April 20 2020 - Mon. 04/20 – Well, Your iPad IS A Laptop Now, Which Means Bigger And Heavier**
 
   * [ Facebook to Introduce an App for Gaming](https://www.nytimes.com/2020/04/19/technology/facebook-app-gaming.html) (NYTimes)
