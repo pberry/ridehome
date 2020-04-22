@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, April 22 2020 - U.S. Cases Might Date Back to January**
+
+  * [LA County test controversy thread](https://twitter.com/wfithian/status/1252692357788479488?s=12) (Will Fithian, Twitter)
+  * [Will There Be a Coronavirus Vaccine? Maybe Not](https://nymag.com/intelligencer/2020/04/will-there-be-a-coronavirus-vaccine-maybe-not.html) (New York Magazine)
+  * [Coronavirus: UK vaccine to be trialled on people from Thursday](https://news.sky.com/story/coronavirus-uk-vaccine-to-be-trialled-on-patients-from-thursday-says-matt-hancock-11976681) (Sky News)
+  * [How Coronavirus Infected Some, but Not All, in a Restaurant](https://www.nytimes.com/2020/04/20/health/airflow-coronavirus-restaurants.html?action=click&module=RelatedLinks&pgtype=Article) (NY Times)
+  * [People who need care are not going to hospitals because of coronavirus, doctors say](https://www.washingtonpost.com/health/patients-with-heart-attacks-strokes-and-even-appendicitis-vanish-from-hospitals/2020/04/19/9ca3ef24-7eb4-11ea-9040-68981f488eed_story.html) (Washington Post)
+  * [The long list of unknowns about the coronavirus](https://www.axios.com/coronavirus-deaths-job-losses-cases-recovery-a64f1412-caa9-4c15-8a95-2f02b5a305ab.html) (Axios)
+
 **Tuesday, April 21 2020 - How Long Can Coronavirus Live on Your Clothing?**
 
   * [Hundreds of thousands in L.A. County may have been infected with coronavirus, study finds](https://www.latimes.com/california/story/2020-04-20/coronavirus-serology-testing-la-county) (LA Times)
