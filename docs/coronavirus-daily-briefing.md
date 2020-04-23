@@ -1,5 +1,15 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, April 23 2020 - Are Ventilators Actually Helping?**
+
+  * [Reopening without testing](https://twitter.com/ashishkjha/status/1253106647326535681) (Dr. Ashish Jah, Twitter)
+  * [Gathering of the Juggalos postponed](https://twitter.com/icp/status/1253103845644828675) (ICP, Twitter)
+  * [Blood-clotting complication is killing coronavirus patients, doctors say](https://www.washingtonpost.com/health/2020/04/22/coronavirus-blood-clots/) (Washington Post)
+  * [New Zealand's COVID-19 'eradication' strategy looks to be paying off](https://www.cbc.ca/news/world/covid-new-zealand-eradicate-chris-brown-cbc-1.5540021) (CBC News)
+  * [Despite scattered protests, most Americans support shelter-in-place, Reuters/Ipsos poll shows](https://www.reuters.com/article/us-usa-election-poll/despite-scattered-protests-most-americans-support-shelter-in-place-reuters-ipsos-poll-shows-idUSKCN22336P) (Reuters)
+  * [CDC director warns second wave of coronavirus is likely to be even more devastating](https://www.washingtonpost.com/health/2020/04/21/coronavirus-secondwave-cdcdirector/) (Washington Post)
+  * [Is Donley County really the hardest hit in Texas by coronavirus?](https://www.texastribune.org/2020/04/20/donley-county-really-hardest-hit-texas-coronavirus/) (Texas Tribune)
+
 **Wednesday, April 22 2020 - U.S. Cases Might Date Back to January**
 
   * [LA County test controversy thread](https://twitter.com/wfithian/status/1252692357788479488?s=12) (Will Fithian, Twitter)
