@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, April 23 2020 - Thu. 04/23 – Privacy Hypocrisy From France?**
+
+  * [ Apple Aims to Sell Macs With Its Own Chips Starting in 2021](https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021) (Bloomberg)
+  * [ Boston Dynamics’ Spot robot is helping hospitals remotely treat coronavirus patients](https://www.theverge.com/2020/4/23/21231855/boston-dynamics-spot-robot-covid-19-coronavirus-telemedicine) (The Verge)
+  * [ Magic Leap Cuts Half of Jobs In Major Restructuring](https://www.bloomberg.com/news/articles/2020-04-22/magic-leap-is-said-to-cut-half-of-jobs-in-major-restructuring) (Bloomberg)
+  * [ Worldwide Digital Video Game Spending Hits All-Time High of $10B in March](https://www.hollywoodreporter.com/news/worldwide-digital-video-game-spending-hits-all-time-high-10b-1291303) (The Hollywood Reporter)
+  * [ Venture Capitalist Bill Gurley Isn’t Joining Benchmark’s Next Fund](https://www.wsj.com/articles/venture-capitalist-bill-gurley-isnt-joining-benchmarks-next-fund-11587586136) (WSJ)
+  * [ France urges Apple and Google to ease privacy rules on contact tracing](https://www.theguardian.com/world/2020/apr/21/france-apple-google-privacy-contact-tracing-coronavirus) (The Guardian)
+  * [ French Hypocrisy: Fines Google For Being Soft On Privacy; Now Angry That Google Won't Let It Spy On Users](https://www.techdirt.com/articles/20200421/17084344349/french-hypocrisy-fines-google-being-soft-privacy-now-angry-that-google-wont-let-it-spy-users.shtml) (TechDirt)
+  * [ Mire lands $50M Series B for digital whiteboard as demand surges](https://techcrunch.com/2020/04/23/miro-lands-50m-series-b-for-digital-whiteboard-as-demand-surges/) (TechCrunch)
+
 **Tuesday, April 21 2020 - Tue. 04/21 – Sonos Radio**
 
   * [ Sonos launches its own streaming radio service](https://www.theverge.com/2020/4/21/21228460/sonos-radio-announced-features-streaming-music-date-price) (The Verge)
