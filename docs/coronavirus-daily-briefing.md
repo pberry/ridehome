@@ -1,5 +1,16 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, April 24 2020 - The Last Picture Show?**
+
+  * [New York antibody study estimates 13.9% of residents have had the coronavirus, Gov. Cuomo says](https://www.cnbc.com/2020/04/23/new-york-antibody-study-estimates-13point9percent-of-residents-have-had-the-coronavirus-cuomo-says.html) (CNBC)
+  * [Coronavirus Infections May Not Be Uncommon, Tests Suggest](https://www.nytimes.com/2020/04/21/health/coronavirus-antibodies-california.html) (New York Times)
+  * [Washington State Builds Coronavirus Contact Tracing Brigade : Coronavirus Live Updates](https://www.npr.org/sections/coronavirus-live-updates/2020/04/22/842119284/washington-state-builds-coronavirus-contact-tracing-fire-brigade) (NPR) 
+  * [What You Need to Know About New York’s ‘Monumental’ Contact Tracing Program](https://www.nbcnewyork.com/news/coronavirus/what-you-need-to-know-about-new-yorks-monumental-contact-tracing-program/2385611/) (WNBC)
+  * [Transplants plummet as overwhelmed hospitals focus on the coronavirus](https://www.statnews.com/2020/04/22/organ-transplants-plummet-during-coronavirus-pandemic/) (STAT)
+  * [Vaccine Rates Drop Dangerously as Parents Avoid Doctor’s Visits](https://www.nytimes.com/2020/04/23/health/coronavirus-measles-vaccines.html?referringSource=articleShare) (New York Times)
+  * [The Only Theater Screening New Movies Is a Drive-In in Ocala, Florida](https://www.vice.com/en_us/article/g5xaj7/the-only-theater-screening-new-movies-is-a-drive-in-in-ocala-florida?fbclid=IwAR11_zM9aQSl8WrocHoq_WO7eFVuYT-5jBJy06CAc0Kv0JzB1EwYSX8tH7w) (Vice)
+  * [Restaurants Are Turning Their Parking Lots into Drive-In Movie Theaters](https://www.foodandwine.com/news/restaurants-drivein-theaters) (Food and Wine)
+
 **Thursday, April 23 2020 - Are Ventilators Actually Helping?**
 
   * [Reopening without testing](https://twitter.com/ashishkjha/status/1253106647326535681) (Dr. Ashish Jah, Twitter)
