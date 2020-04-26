@@ -2,6 +2,13 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, April 24**
+  * [ Silicon Valley balanced grueling schedules with workplace perks. Coronavirus is forcing change](https://www.cnet.com/news/silicon-valley-balanced-grueling-schedules-with-workplace-perks-coronavirus-is-forcing-change/) (CNET)
+  * [ Preppers Are Quite Prepared to Enjoy Some Vindication](https://www.nytimes.com/2020/04/24/technology/coronavirus-preppers.html) (NYTimes)
+  * [ Following the money in a massive “sextortion” spam scheme](https://news.sophos.com/en-us/2020/04/22/following-the-sextortion-money/) (Sophos)
+  * [ How Instagram managed to survive antitrust scrutiny when it was acquired by Facebook](https://www.fastcompany.com/90491498/how-instagram-managed-to-evade-antitrust-scrutiny-from-us-regulators) (Fast Company)
+  * [ IN THE CORONAVIRUS ERA, THE FORCE IS STILL WITH JACK DORSEY](https://www.vanityfair.com/news/2020/04/in-the-coronavirus-era-the-force-is-still-with-jack-dorsey?mbid=social_twitter&utm_brand=vf&utm_social-type=owned) (Vanity Fair)
+
 **Friday, April 17**
   * [ 'Needle in a haystack': Reborn tech offices may need distance and mass testing](https://www.protocol.com/companies-planning-employee-coronavirus-testing) (Protocol)
   * [ The coronavirus pandemic turned Folding@Home into an exaFLOP supercomputer](https://arstechnica.com/science/2020/04/how-the-pandemic-revived-a-distributed-computing-project-and-made-history/) (Ars Technica)
