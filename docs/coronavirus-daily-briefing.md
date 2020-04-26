@@ -34,7 +34,7 @@ _Find links to the podcast and individual pods at [RideHome](https://www.ridehom
 
   * [Hundreds of thousands in L.A. County may have been infected with coronavirus, study finds](https://www.latimes.com/california/story/2020-04-20/coronavirus-serology-testing-la-county) (LA Times)
   * [Asthma Is Absent Among Top Covid-19 Risk Factors, Early Data Shows](https://www.nytimes.com/2020/04/16/health/coronavirus-asthma-risk.html?action=click&module=RelatedLinks&pgtype=Article) (NY Times)
-  * [Opinion | How to Keep Workers Healthy on the Job](https://www.wsj.com/articles/how-to-keep-workers-healthy-on-the-job-11587311057) (Wall Street Journal)
+  * [Opinion \| How to Keep Workers Healthy on the Job](https://www.wsj.com/articles/how-to-keep-workers-healthy-on-the-job-11587311057) (Wall Street Journal)
   * [Is the Virus on My Clothes? My Shoes? My Hair? My Newspaper?](https://www.nytimes.com/2020/04/17/well/live/coronavirus-contagion-spead-clothes-shoes-hair-newspaper-packages-mail-infectious.html) (NY Times) 
   * [What are 'COVID toes' and why are dermatologists seeing an 'epidemic' of them in kids?](https://www.yahoo.com/lifestyle/covid-toes-why-dermatologists-seeing-epidemic-kids-135948618.html) (Yahoo)
   * [Teen in Italy Showed Unusual Toe Marks That Are Now Considered Among Bizarre Symptoms of COVID-19](https://www.sciencetimes.com/articles/25322/20200415/teen-italy-showed-unusual-toe-marks-now-considered-bizaare-symptom.htm) (The Science Times)
