@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, April 24 2020 - Google Battens Down The Hatches**
+
+  * [ AT&T CEO Randall Stephenson to step down, COO Stankey to take over](https://www.cnbc.com/2020/04/24/att-ceo-randall-stephenson-to-step-down.html) (CNBC)
+  * [ Google to cut marketing budgets by as much as half, directors warned of hiring freezes](https://www.cnbc.com/2020/04/23/google-to-cut-marketing-budgets-hiring-freeze-expected.html) (CNBC)
+  * [ Google ditched tipping feature for donating money to sites](https://techcrunch.com/2020/04/23/google-contributor-donate-tips/) (TechCrunch)
+  * [ Google will make all advertisers prove their identities, so people can see who they are and which country they’re in](https://www.cnbc.com/2020/04/23/google-advertiser-verification-process-now-required.html) (CNBC)
+  * [ Apple Finds No Evidence Hackers Exploited iPhone, iPad Mail Flaw](https://www.bloomberg.com/news/articles/2020-04-24/apple-finds-no-evidence-hackers-exploited-iphone-ipad-mail-flaw) (Bloomberg)
+  * [ Tech companies pull back on hiring, flashing another grim warning sign for the U.S. economy](https://www.cnbc.com/2020/04/23/tech-companies-pull-back-on-hiring.html) (CNBC)
+
 **Thursday, April 23 2020 - Thu. 04/23 – Privacy Hypocrisy From France?**
 
   * [ Apple Aims to Sell Macs With Its Own Chips Starting in 2021](https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021) (Bloomberg)
