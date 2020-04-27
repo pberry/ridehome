@@ -1,5 +1,18 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, April 27 2020 - Behind the Headlines on Immunity**
+
+  * [Young people with coronavirus are dying from strokes](https://www.washingtonpost.com/health/2020/04/24/strokes-coronavirus-young-patients/) (Washington Post)
+  * [Coronavirus Immunity: No Evidence That People Can't Be Infected Twice, WHO Says](https://www.buzzfeednews.com/article/olivianiland/world-health-organization-coronavirus-immunity-passport) (BuzzFeed)
+  * [Clarifying statement on immunity](https://twitter.com/WHO/status/1254160937805926405) (WHO, Twitter)
+  * [What the WHO actually means](https://twitter.com/NateSilver538/status/1254128980057358336) (Nate Silver, Twitter)
+  * [Opinion | Who Is Immune to the Coronavirus?](https://www.nytimes.com/2020/04/13/opinion/coronavirus-immunity.html) (New York Times)
+  * [Antibody tests: 6% of Miami-Dade residents had coronavirus](https://www.miamiherald.com/news/coronavirus/article242260406.html) (Miami Herald)
+  * [A Stanford Professor’s Wife Recruited People For His Coronavirus Study By Claiming It Would Reveal If They Could “Return To Work Without Fear”](https://www.buzzfeednews.com/amphtml/stephaniemlee/stanford-coronavirus-study-bhattacharya-email?__twitter_impression=true) (BuzzFeed News)
+  * [How to Save Summer 2020](https://www.nytimes.com/2020/04/25/opinion/summer-parks-covid.html#click=https://t.co/7IWfs6pTYt) (NY Times)
+  * [CDC studies of restaurant and call center](https://twitter.com/DKThomp/status/1253763954310078464) (Derek Thompson, Twitter)
+  * [Coronavirus: Social distancing could require 'necessary renovations' to sports arenas](https://www.cnbc.com/2020/04/26/coronavirus-social-distancing-could-require-necessary-renovations-to-sports-arenas.html) (CNBC)
+
 **Friday, April 24 2020 - The Last Picture Show?**
 
   * [New York antibody study estimates 13.9% of residents have had the coronavirus, Gov. Cuomo says](https://www.cnbc.com/2020/04/23/new-york-antibody-study-estimates-13point9percent-of-residents-have-had-the-coronavirus-cuomo-says.html) (CNBC)
