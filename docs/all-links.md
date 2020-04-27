@@ -2859,12 +2859,12 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 **Wednesday, January 23 2019 - Jony Ive's Dream Phone Concept**
 
-  * [YouTube TV finally goes nationwide almost two years after launch](https://www.The Verge.com/2019/1/23/18193994/youtube-tv-now-available-nationwide) (The Verge)
-  * [Hulu drops to just $5.99 per month after Netflix’s price hikes](https://www.The Verge.com/2019/1/23/18193539/hulu-price-change-subscription-ads-live-tv-2019) (The Verge)
+  * [YouTube TV finally goes nationwide almost two years after launch](https://www.TheVerge.com/2019/1/23/18193994/youtube-tv-now-available-nationwide) (The Verge)
+  * [Hulu drops to just $5.99 per month after Netflix’s price hikes](https://www.TheVerge.com/2019/1/23/18193539/hulu-price-change-subscription-ads-live-tv-2019) (The Verge)
   * [Waymo says it will build self-driving cars in Michigan ](https://www.reuters.com/article/us-autonomous-waymo/waymo-says-it-will-build-self-driving-cars-in-michigan-idUSKCN1PG22R)(Reuters)
   * [Xiaomi's flexible phone concept folds on both sides ](https://www.engadget.com/2019/01/23/xiaomi-foldable-phone-video/)(Engadget)
   * [Meizu Zero debuts with no physical buttons, speaker or charging port](https://www.gsmarena.com/meizu_zero_has_no_buttons_speaker_or_even_a_charging_port-news-35194.php) (GSMarena)
-  * [Millions and Billions | Celebrating Patrons, Creators, and Major Milestones](https://blog.patreon.com/millions-and-billions-celebrating-patrons-creators-major-milestones) (Patreon Blog)
+  * [Millions and Billions \| Celebrating Patrons, Creators, and Major Milestones](https://blog.patreon.com/millions-and-billions-celebrating-patrons-creators-major-milestones) (Patreon Blog)
   * [Digitimes: AirPods 2 launching in first half of this year, redesigned to support ‘health monitoring’ features ](https://9to5mac.com/2019/01/23/airpods-2-2019-launch/)(9to5Mac)
   * [Spotify Will Soon Let You Block Artists](https://www.thurrott.com/cloud/social/198104/spotify-will-soon-let-you-block-artists) (Thurrot.com)
   * [The economics of streaming is making songs shorter ](https://qz.com/1519823/is-spotify-making-songs-shorter/?utm_source=reddit.com)(QZ)
