@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, April 27 2020 - Mon. 04/27 – It’s Always A Good Day When Your Starship Doesn’t Explode**
+
+  * [ Apple Delays Mass Production of 2020 Flagship iPhones](https://www.wsj.com/articles/apple-delays-mass-production-of-2020-flagship-iphones-11587984138) (WSJ)
+  * [ Two Million Australians Download Coronavirus Contact-Tracing App](https://www.bloomberg.com/news/articles/2020-04-27/australia-launches-contact-tracing-app-as-states-ease-lockdown) (Bloomberg)
+  * [ Germany flips to Apple-Google approach on smartphone contact tracing](https://www.reuters.com/article/us-health-coronavirus-europe-tech/germany-flips-on-smartphone-contact-tracing-backs-apple-and-google-idUSKCN22807J) (Reuters)
+  * [ Codota picks up $12M for an AI platform that auto-completes developers' code](https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/) (TechCrunch)
+  * [ Blunt New CEO Inherits Challenge of Turning AT&T Into Media Star](https://www.bloomberg.com/news/articles/2020-04-25/blunt-new-ceo-inherits-challenge-of-turning-at-t-into-media-star) (Bloomberg)
+  * [ John Stankey’s challenge: Making AT&T’s $100 billion bet on Time Warner pay off](https://www.cnbc.com/2019/06/07/john-stankey-warnermedia-ceo-one-year-profile-departures-silos.html) (CNBC)
+  * [ The pandemic is bringing us closer to our robot takeout future](https://arstechnica.com/tech-policy/2020/04/the-pandemic-is-bringing-us-closer-to-our-robot-takeout-future/) (Ars Technica)
+  * [ SpaceX’s future deep-space rocket passes key test, paving the way for short flight](https://www.theverge.com/2020/4/27/21238078/spacex-starship-pressure-test-rocket-texas-development-success?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
 **Friday, April 24 2020 - Google Battens Down The Hatches**
 
   * [ AT&T CEO Randall Stephenson to step down, COO Stankey to take over](https://www.cnbc.com/2020/04/24/att-ceo-randall-stephenson-to-step-down.html) (CNBC)
