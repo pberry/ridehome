@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, April 28 2020 - The R0 Number to Watch For**
+
+  * [1 in 4 in NYC May Have Been Infected, New Study Finds; Some Parts of State to ‘UNPause’ May 15](https://www.nbcnewyork.com/news/local/cuomo-outlines-reopening-roadmap-for-new-york-as-daily-deaths-hit-lowest-level-in-weeks/2390949/) (NBC New York) 
+  * [NHS warns of rise in children with new illness that may be linked to coronavirus](https://www.theguardian.com/world/2020/apr/27/nhs-warns-of-rise-in-children-with-new-illness-that-may-be-linked-to-coronavirus?CMP=Share_iOSApp_Other) (The Guardian)
+  * [Exclusive: National alert as ‘coronavirus-related condition may be emerging in children’](https://www.hsj.co.uk/acute-care/exclusive-national-alert-as-coronavirus-related-condition-may-be-emerging-in-children/7027496.article) (HSJ)
+  * [Slavitt, Gottlieb Seek Money For Contact Tracing, Self-Isolation](https://www.npr.org/2020/04/27/845165404/ex-officials-call-for-46-billion-for-tracing-isolating-in-next-coronavirus-packa) (NPR)
+  * [New York clinical trial quietly tests heartburn remedy against coronavirus](https://www.sciencemag.org/news/2020/04/new-york-clinical-trial-quietly-tests-heartburn-remedy-against-coronavirus) (Science Magazine)
+  * [City hotels become barracks for health workers ‘going to war’](https://brooklyneagle.com/articles/2020/04/24/city-hotels-become-barracks-for-health-workers-going-to-war/?utm_source=Brooklyn+Today&utm_campaign=680d405ef2-EMAIL_CAMPAIGN_2020_04_24_09_12&utm_medium=email&utm_term=0_1ba554d7d5-680d405ef2-125064301) (Brooklyn Eagle)
+
 **Monday, April 27 2020 - Behind the Headlines on Immunity**
 
   * [Young people with coronavirus are dying from strokes](https://www.washingtonpost.com/health/2020/04/24/strokes-coronavirus-young-patients/) (Washington Post)
