@@ -7,7 +7,9 @@ import time
 from bs4 import BeautifulSoup
 from bs4.diagnose import diagnose
 
-rhfeed = feedparser.parse('https://techmeme.com/techmeme-ride-home-feed')
+#feedUrl = 'https://techmeme.com/techmeme-ride-home-feed'
+feedUrl = 'https://rss.art19.com/coronavirus-daily-briefing'
+rhfeed = feedparser.parse(feedUrl)
 
 for post in rhfeed.entries:
 	postPubTime = time.strftime("%A, %B %d %Y" ,post.published_parsed)
@@ -21,7 +23,7 @@ for post in rhfeed.entries:
 	print ("\n**" + postPubTime + " - " + podTitle + "**\n")
 	cleanPost = post.summary.replace('\n', '')
 	soup = BeautifulSoup(cleanPost, 'html5lib')
-	linksBlock = soup.find_all("p", string=re.compile("^Links(:*)(\ *)$|Stories:$"))
+	linksBlock = soup.find_all("p", string=re.compile("Links(:*)$|Stories:$"))
 	
 	# check to see if we found anything
 	# specifically at least one paragraph stating Links were coming and that the following ul contains a tags
@@ -36,5 +38,12 @@ for post in rhfeed.entries:
 			print(html2text.html2text(str(uls[0])))
 		else:
 			print("No show links for this episode ¯\_(ツ)_/¯\n")
-	print("[All show links](https://pberry.github.io/ridehome/all-links.html)")
+	linksBlock = soup.find_all("p", string=re.compile("^Sponsors(:*)(\ *)$"))
+	if len(linksBlock) > 0 and len(linksBlock[0].next_sibling.find_all('li')) > 0:
+		ul = str(linksBlock[0].next_sibling)
+		html = html2text.html2text(ul)
+		#print ("**Sponsors:**\n")
+		#print (html)
+	#print("[Subscribe to the ad-free Premium Feed inside your podcast app here!](https://kimberlite.fm/ridehome/)\n")
+	#print("[All show links](https://pberry.github.io/ridehome/all-links.html)")
 
