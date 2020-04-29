@@ -7,8 +7,8 @@ import time
 from bs4 import BeautifulSoup
 from bs4.diagnose import diagnose
 
-#feedUrl = 'https://techmeme.com/techmeme-ride-home-feed'
-feedUrl = 'https://rss.art19.com/coronavirus-daily-briefing'
+feedUrl = 'https://techmeme.com/techmeme-ride-home-feed'
+#feedUrl = 'https://rss.art19.com/coronavirus-daily-briefing'
 rhfeed = feedparser.parse(feedUrl)
 
 for post in rhfeed.entries:
