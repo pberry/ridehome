@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, April 28 2020 - Tue. 04/28 – Deepfakes As A Killer (Advertising) App**
+
+  * [ Shopify launches Shop, a new mobile app](https://techcrunch.com/2020/04/28/shopify-launches-shop-a-new-mobile-shopping-app/) (TechCrunch)
+  * [NHS rejects Apple-Google coronavirus app plan](https://www.bbc.com/news/technology-52441428) (BBC News)
+  * [ DJI’s new Mavic Air 2 has an upgraded camera and much longer flying time](https://www.theverge.com/2020/4/27/21239003/dji-mavic-air-2-drone-camera-price-specs-features-release-date) (The Verge)
+  * [ GOOGLE PIXEL BUDS REVIEW: SECOND TIME’S THE CHARM](https://www.theverge.com/2020/4/27/21237660/google-pixel-buds-2-2020-wireless-earbuds-headphones-review-price-specs-features) (The Verge)
+  * [Tesla says cars can automatically stop for traffic lights](https://apnews.com/efdda7c82df3929dbda7d606259ea4e5) (Associated Press)
+  * [Magic Leap's $2.6 billion bait and switch](https://techcrunch.com/2020/04/26/tragic-leap/) (TechCrunch)
+  * [Magic Leap is a Tragic Heap](https://palmerluckey.com/magic-leap-is-a-tragic-heap/) (The Blog of Palmer Luckey)
+  * [ An ESPN Commercial Hints at Advertising’s Deepfake Future](https://www.nytimes.com/2020/04/22/business/media/espn-kenny-mayne-state-farm-commercial.html) (NYTimes)
+
 **Monday, April 27 2020 - Mon. 04/27 – It’s Always A Good Day When Your Starship Doesn’t Explode**
 
   * [ Apple Delays Mass Production of 2020 Flagship iPhones](https://www.wsj.com/articles/apple-delays-mass-production-of-2020-flagship-iphones-11587984138) (WSJ)
