@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, April 29 2020 - New Study Suggests the Virus May Be Airborne**
+
+  * [We Are Doctors Who Study Trauma. Here's How To Cope With The COVID-19 Crisis.](https://www.huffpost.com/entry/coronavirus-trauma-how-to-cope_n_5ea6fab7c5b6ad9bacf331e1) (HuffPost)
+  * [Many states short of Covid-19 testing levels needed for reopening](https://www.statnews.com/2020/04/27/coronavirus-many-states-short-of-testing-levels-needed-for-safe-reopening/) (STAT) 
+  * [We Asked All 50 States About Their Contact Tracing Capacity. Here's What We Learned](https://www.npr.org/sections/health-shots/2020/04/28/846736937/we-asked-all-50-states-about-their-contact-tracing-capacity-heres-what-we-learne?utm_campaign=storyshare&utm_source=twitter.com&utm_medium=social) (NPR)
+  * [How Blood Sugar Can Trigger a Deadly Immune Response in the Flu and Possibly COVID-19](https://www.scientificamerican.com/article/how-blood-sugar-can-trigger-a-deadly-immune-response-in-the-flu-and-possibly-covid-191/?utm_source=newsletter&utm_medium=email&utm_campaign=today-in-science&utm_content=link&utm_term=2020-04-24_featured-this-week&spMailingID=64606039&spUserID=MzE5MzI1OTI5MTM4S0&spJobID=1862953368&spReportId=MTg2Mjk1MzM2OAS2&fbclid=IwAR2Uq84kfj7DLrdMqD6p9lyRNzYUoM3PhEHO491-uhztY6MyHKOf1Uz7fbs) (Scientific American)
+  * [Patients with certain cancers are nearly three times as likely to die of covid-19, study says](https://www.washingtonpost.com/health/2020/04/28/coronavirus-cancer-deathrates/) (Washington Post)
+  * [HK scientists say new antiviral coating can protect surfaces for 90 days](https://www.reuters.com/article/us-health-coronavirus-hongkong-coating/hk-scientists-say-new-antiviral-coating-can-protect-surfaces-for-90-days-idUSKCN2290S5) (Reuters)
+
 **Tuesday, April 28 2020 - The R0 Number to Watch For**
 
   * [1 in 4 in NYC May Have Been Infected, New Study Finds; Some Parts of State to ‘UNPause’ May 15](https://www.nbcnewyork.com/news/local/cuomo-outlines-reopening-roadmap-for-new-york-as-daily-deaths-hit-lowest-level-in-weeks/2390949/) (NBC New York) 
