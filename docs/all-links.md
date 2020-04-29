@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, April 29 2020 - Wed. 04/29 – Here Come the Tech Earnings…**
+
+  * [ Alphabet earnings hit by ‘significant slowdown’ in ad sales, but revenue boosts stock](https://www.marketwatch.com/story/alphabet-earnings-hit-by-significant-slowdown-in-ad-sales-but-revenue-boosts-stock-2020-04-28) (Marketwatch)
+  * [ Google Meet video conferencing is now free for anybody](https://www.theverge.com/2020/4/29/21240509/google-meet-video-conferencing-free-gmail) (The Verge)
+  * [ Spotify Q1 beats on sales of $2B with monthly active users up 31% to 286M](https://techcrunch.com/2020/04/29/spotify-q1-beats-on-sales-of-2b-with-monthly-active-users-up-31-to-286m/) (TechCrunch)
+  * [ Uber Discusses Plan to Lay Off About 20% of Employees](https://www.theinformation.com/articles/uber-discusses-plan-to-lay-off-about-20-of-employees) (The Information)
+  * [ Ford postpones autonomous vehicle service until 2022](https://techcrunch.com/2020/04/28/ford-postpones-autonomous-vehicle-service-until-2022/) (TechCrunch)
+  * [ How a handful of Apple and Google employees came together to help health officials trace coronavirus](https://www.cnbc.com/2020/04/28/apple-iphone-contact-tracing-how-it-came-together.html) (CNBC)
+
 **Tuesday, April 28 2020 - Tue. 04/28 – Deepfakes As A Killer (Advertising) App**
 
   * [ Shopify launches Shop, a new mobile app](https://techcrunch.com/2020/04/28/shopify-launches-shop-a-new-mobile-shopping-app/) (TechCrunch)
