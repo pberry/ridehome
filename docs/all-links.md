@@ -2,6 +2,19 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, April 30 2020 - Thu. 04/30 – Don’t Fight The Tape (Tech Earnings Edition)**
+
+  * [ Intel's 10th Gen Comet Lake for Desktops: Skylake-S Hits 10 Cores and 5.3 GHz](https://www.anandtech.com/show/15758/intels-10th-gen-comet-lake-desktop) (AnAndTech)
+  * [ Andreessen Horowitz raises $515 million for second crypto fund](https://www.axios.com/andreessen-horowitz-raises-515-million-for-second-crypto-fund-7c989636-9d9a-42ad-9853-abd02a2103f7.html) (Axios)
+  * [ Zoom admits it doesn’t have 300 million users, corrects misleading claims](https://www.theverge.com/2020/4/30/21242421/zoom-300-million-users-incorrect-meeting-participants-statement) (The Verge)
+  * [ Reddit adds chat rooms for subreddits](https://www.engadget.com/reddit-chat-rooms-for-subreddits-160023293.html) (Engadget)
+  * [Smartphone Production to Drop by 16.5% YoY in 2Q20, Setting Historical Record in YoY Decline, Says TrendForce](https://press.trendforce.com/press/20200430-3357.html) (TrendForce)
+  * [ Lyft lays off 17% of workforce, furloughs hundreds more](https://www.cnbc.com/2020/04/29/lyft-lays-off-17percent-of-workforce-furloughs-hundreds-more.html) (CNBC)
+  * [ Facebook soars after reporting ‘stability’ in ad revenue after fall in March](https://www.cnbc.com/2020/04/29/facebook-fb-earnings-q1-2020.html) (CNBC)
+  * [ Press Release & Webcast](https://www.microsoft.com/en-us/Investor/earnings/FY-2020-Q3/press-release-webcast) (Microsoft Investor Relations)
+  * [ Twitter Q1: sales up 3% to $808M as it swings to a loss on COVID-19, mDAUS hit record 166M](https://techcrunch.com/2020/04/30/twitter-q1-sales-up-3-to-808m-as-it-swigs-to-a-loss-on-covid-19-mdaus-hit-record-166m/) (TechCrunch)
+  * [Tesla posts profit despite hit from coronavirus](https://www.cnn.com/2020/04/29/tech/tesla-profit/index.html) (CNN Business)
+
 **Wednesday, April 29 2020 - Wed. 04/29 – Here Come the Tech Earnings…**
 
   * [ Alphabet earnings hit by ‘significant slowdown’ in ad sales, but revenue boosts stock](https://www.marketwatch.com/story/alphabet-earnings-hit-by-significant-slowdown-in-ad-sales-but-revenue-boosts-stock-2020-04-28) (Marketwatch)
