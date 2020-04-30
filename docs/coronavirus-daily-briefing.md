@@ -1,5 +1,18 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, April 30 2020 - Would You Volunteer To Get COVID-19?**
+
+  * [UK hospitalization dataset](https://twitter.com/Noahpinion/status/1255317039918592001?s=20) (Noah Smith, Twitter)
+  * [AstraZeneca news](https://twitter.com/yashar/status/1254886931541880832?s=20) (Yashar Ali, Twitter)
+  * [Gilead: Critical study of Covid-19 drug shows patients respond to treatment](https://www.statnews.com/2020/04/29/gilead-says-critical-study-of-covid-19-drug-shows-patients-are-responding-to-treatment/) (STAT)
+  * [Race for Coronavirus Vaccine Accelerates as Pfizer Says U.S. Testing to Begin Next Week](https://www.wsj.com/articles/pfizer-coronavirus-vaccine-could-be-ready-for-emergency-use-by-fall-11588094064) (WSJ)
+  * [Why don’t some coronavirus patients sense their alarmingly low oxygen levels?](https://www.sciencemag.org/news/2020/04/why-dont-some-coronavirus-patients-sense-their-alarmingly-low-oxygen-levels#) (Science)
+  * [Opinion \| The Infection That’s Silently Killing Coronavirus Patients](https://www.nytimes.com/2020/04/20/opinion/sunday/coronavirus-testing-pneumonia.html) (New York Times)
+  * [(LEAD) Recovered virus patients retest positive due to 'dead' virus fragments: experts](https://en.yna.co.kr/view/AEN20200429007051320) (Yonhap News Agency)
+  * [U.S. Coronavirus Death Toll Is Far Higher Than Reported, C.D.C. Data Suggests](https://www.nytimes.com/interactive/2020/04/28/us/coronavirus-death-toll-total.html) (New York Times)
+  * [Global coronavirus death toll could be 60% higher than reported](https://www.ft.com/content/6bd88b7d-3386-4543-b2e9-0d5c6fac846c) (Financial Times)
+  * [People Are Willing to Risk Their Lives for a COVID Vaccine. Should We Let Them?](https://www.vice.com/en_us/article/5dm7na/why-intentionally-infecting-people-with-coronavirus-could-be-worth-it?utm_campaign=sharebutton) (Vice)
+
 **Wednesday, April 29 2020 - New Study Suggests the Virus May Be Airborne**
 
   * [We Are Doctors Who Study Trauma. Here's How To Cope With The COVID-19 Crisis.](https://www.huffpost.com/entry/coronavirus-trauma-how-to-cope_n_5ea6fab7c5b6ad9bacf331e1) (HuffPost)
