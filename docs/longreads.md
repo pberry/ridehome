@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 01**
+  * [ Common Sense Comes Closer to Computers](https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/) (Quanta)
+  * [ The challenges of developing autonomous vehicles during a pandemic](https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/) (VentureBeat)
+  * [ This Should Be V.R.’s Moment. Why Is It Still So Niche?](https://www.nytimes.com/2020/04/30/technology/virtual-reality.html) (NYTimes)
+  * [ Apple still depends on traditional American engineers, and is slowly losing them](https://appleinsider.com/articles/20/04/30/apple-still-depends-on-traditional-american-engineers-and-is-slowly-losing-them) (Apple Insider)
+  * [How Well Can Algorithms Recognize Your Masked Face?](https://www.wired.com/story/algorithms-recognize-masked-face/) (Wired)
+  * [ Inside the MIT spinoff that’s making Inception-style dream manipulation possible](https://www.digitaltrends.com/features/mit-dormio-dream-tracking-glove/) (Digital Trends)
+  * [ You Have a TikTok Hit! Now, Quick — Change the Title](https://www.rollingstone.com/music/music-features/tik-tok-hits-changing-titles-983383/) (Rolling Stone)
+
 **Friday, April 24**
   * [ Silicon Valley balanced grueling schedules with workplace perks. Coronavirus is forcing change](https://www.cnet.com/news/silicon-valley-balanced-grueling-schedules-with-workplace-perks-coronavirus-is-forcing-change/) (CNET)
   * [ Preppers Are Quite Prepared to Enjoy Some Vindication](https://www.nytimes.com/2020/04/24/technology/coronavirus-preppers.html) (NYTimes)
