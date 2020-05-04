@@ -1,5 +1,20 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, May 04 2020 - What Did We Actually Accomplish With the Quarantine?**
+
+  * [What the Coronavirus Models Can't See](https://nymag.com/intelligencer/2020/05/what-the-coronavirus-models-cant-see.html) (NY Mag)
+  * [The Covid-19 Riddle: Why Does the Virus Wallop Some Places and Spare Others?](https://www.nytimes.com/2020/05/03/world/asia/coronavirus-spread-where-why.html) (NY Times)
+  * [Comparing COVID-19 Deaths to Flu Deaths Is like Comparing Apples to Oranges](https://blogs.scientificamerican.com/observations/comparing-covid-19-deaths-to-flu-deaths-is-like-comparing-apples-to-oranges/) (Scientific American)
+  * [How to compare coronavirus deaths to flu deaths more accurately](https://www.washingtonpost.com/business/2020/05/02/theres-more-accurate-way-compare-coronavirus-deaths-flu/) (Washington Post)
+  * [The Cubicle Is Back. Blame (or Thank) the Coronavirus](https://www.wired.com/story/cubicle-is-back-blame-thank-coronavirus/?utm_medium=social&utm_social-type=owned&utm_campaign=wired&mbid=social_twitter&utm_source=twitter&utm_brand=wired) (Wired)
+
+**Friday, May 01 2020 - When Will Kids Be Able To Hug Their Grandparents Again?**
+
+  * [Why you shouldn't wear a COVID-19 mask that has a valve](https://www.fastcompany.com/90496717/what-is-a-mask-valve-and-why-are-cities-banning-them) (Fast Company)
+  * [Second-week crash: Some covid-19 patients become critically ill with little warning](https://www.washingtonpost.com/health/second-week-crash-is-time-of-peril-for-some-covid-19-patients/2020/04/29/3940fee2-8970-11ea-8ac1-bfb250876b7a_story.html) (Washington Post)
+  * [Summer Weather Could Help Kill The Coronavirus — But It Won't End The Pandemic](https://www.buzzfeednews.com/article/zahrahirji/coronavirus-summer-heat-seasonality) (BuzzFeed News)
+  * [Coronavirus: Swiss children under 10 allowed to hug grandparents as they 'do not transmit COVID-19'](https://news.sky.com/story/coronavirus-swiss-children-under-10-allowed-to-hug-grandparents-as-they-do-not-transmit-covid-19-11980568) (Sky News)
+
 **Thursday, April 30 2020 - Would You Volunteer To Get COVID-19?**
 
   * [UK hospitalization dataset](https://twitter.com/Noahpinion/status/1255317039918592001?s=20) (Noah Smith, Twitter)
