@@ -2,6 +2,24 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, May 04 2020 - Usable Keyboards Return to the 13-inch MacBook Pro**
+
+  * [ Apple announces new 13-inch MacBook Pro with Magic Keyboard](https://www.theverge.com/2020/5/4/21245940/macbook-pro-13-inch-apple-new-magic-keyboard-price-release-date) (The Verge)
+  * [ Amazon VP Resigns, Calls Company ‘Chickenshit’ for Firing Protesting Workers](https://www.vice.com/en_us/article/z3bjpj/amazon-vp-tim-bray-resigns-calls-company-chickenshit-for-firing-protesting-workers) (Vice)
+  * [ Bye, Amazon](https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon) (Tim Bray)
+  * [Silver Lake to invest $747M in India's Jio Platforms](https://techcrunch.com/2020/05/03/silver-lake-jio-platforms/) (TechCrunch)
+  * [ Exclusive: Uber will soon require drivers and riders to wear face coverings in the US](https://www.cnn.com/2020/05/03/tech/uber-drivers-riders-face-masks/) (CNN Business)
+  * [ Intel set to buy Israeli co Moovit for $1b](https://en.globes.co.il/en/article-intel-set-to-buy-israeli-co-moovit-for-1b-1001327189) (Globes)
+  * [European Heart Journal: Apple Watch ECG detects signs of coronary ischemia missed by hospital ECG](https://9to5mac.com/2020/05/03/apple-watch-myocardial-ischemia/) (9to5Mac)
+  * [ Apple Watch blood oxygen detection feature found in iOS 14 code snippet](https://9to5mac.com/2020/03/08/apple-watch-blood-oxygen-saturation/) (9to5Mac)
+
+**Friday, May 01 2020 - Sometime Sanity Wins (ICANN Edition)**
+
+  * [A Private Equity Firm Is Blocked From Buying .Org](https://www.nytimes.com/2020/05/01/technology/dot-org-sale.html) (NYTimes)
+  * [ Amazon says it’ll spend $4 billion or more dealing with COVID-19](https://www.theverge.com/2020/4/30/21243112/amazon-q1-2020-earnings-covid-19-coronavirus-jeff-bezos) (The Verge)
+  * [ House lawmakers demand Amazon CEO Jeff Bezos testify in antitrust probe, threatening potential subpoena](https://www.washingtonpost.com/technology/2020/05/01/amazon-jeff-bezos-testify/) (Washington Post)
+  * [ Reddit removes chat room feature after one day due to site-wide bug](https://www.theverge.com/2020/4/30/21243249/reddit-chat-room-feature-start-chatting-subreddit-rollback) (The Verge)
+
 **Thursday, April 30 2020 - Thu. 04/30 – Don’t Fight The Tape (Tech Earnings Edition)**
 
   * [ Intel's 10th Gen Comet Lake for Desktops: Skylake-S Hits 10 Cores and 5.3 GHz](https://www.anandtech.com/show/15758/intels-10th-gen-comet-lake-desktop) (AnAndTech)
