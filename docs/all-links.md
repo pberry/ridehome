@@ -2,6 +2,19 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, May 05 2020 - Tue. 05/05 – UK’s Contact Tracing App Won’t Work In the Background**
+
+  * [ Apple kicking off week of virtual WWDC on June 22, jackets and pins for Swift Challenge winners](https://9to5mac.com/2020/05/05/apple-announces-virtual-wwdc-starting-on-june-22/) (9to5Mac)
+  * [UK finds itself almost alone with centralized virus contact-tracing app that probably won't work well, asks for your location, may be illegal](https://www.theregister.co.uk/2020/05/05/uk_coronavirus_app/) (The Register)
+  * [ The U.K.’s Coronavirus Contact Tracing App Is a Complete Mess](https://www.vice.com/en_us/article/y3zmg7/the-uks-coronavirus-contact-tracing-app-is-a-complete-mess) (Vice)
+  * [ Apple, Google ban use of location tracking in contact tracing apps](https://www.reuters.com/article/us-health-coronavirus-usa-apps-idUSKBN22G28W) (Reuters)
+  * [ Uber in Talks to Lead $170 Million Lime Investment at Lower Valuation](https://www.theinformation.com/articles/uber-in-talks-to-lead-170-million-lime-investment-at-lower-valuation) (The Information)
+  * [ Confirmed: Intel is buying urban mobility platform Moovit in a $900M deal](https://techcrunch.com/2020/05/04/confirmed-intel-is-buying-urban-mobility-platform-moovit-in-a-900m-deal/) (TechCrunch)
+  * [ Microsoft confirms Windows 10X is coming to laptops amid big jump in Windows usage](https://www.theverge.com/2020/5/4/21246561/microsoft-windows-10x-single-screens-windows-usage-demand-coronavirus-pandemic) (The Verge)
+  * [ Facebook’s Oculus Is Developing a New Quest VR Headset](https://www.bloomberg.com/news/articles/2020-05-05/facebook-s-oculus-developing-smaller-lighter-quest-vr-headset) (Bloomberg)
+  * [ Google Meet starts rolling out in Gmail, continuing Google’s quest to unseat Zoom](https://www.theverge.com/2020/5/4/21246277/google-meet-gmail-zoom-hangouts) (The Verge)
+  * [ Sensor Tower raises $45M as demand for app data grows](https://techcrunch.com/2020/05/04/sensor-tower-raises-45m-as-demand-for-app-data-grows/) (TechCrunch)
+
 **Monday, May 04 2020 - Usable Keyboards Return to the 13-inch MacBook Pro**
 
   * [ Apple announces new 13-inch MacBook Pro with Magic Keyboard](https://www.theverge.com/2020/5/4/21245940/macbook-pro-13-inch-apple-new-magic-keyboard-price-release-date) (The Verge)
