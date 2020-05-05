@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, May 05 2020 - A Mysterious New Illness Affecting Children**
+
+  * [15 Children Are Hospitalized With Mysterious Illness Possibly Tied to Covid-19](https://www.nytimes.com/2020/05/05/nyregion/children-Kawasaki-syndrome-coronavirus.html) (NY Times)
+  * [Paul Romer on How to Survive the Chaos of the Coronavirus](https://www.newyorker.com/news/q-and-a/paul-romer-on-how-to-survive-the-chaos-of-the-coronavirus) (The New Yorker)
+  * [Inside the extraordinary race to invent a coronavirus vaccine](https://www.washingtonpost.com/science/2020/05/02/coronavirus-vaccine/) (Washington Post)
+  * [Coronavirus patients describe symptoms that last a month or more](https://www.cnbc.com/2020/05/01/coronavirus-patients-describe-symptoms-that-last-a-month-or-more.html?__source=sharebar%7Ctwitter&par=sharebar) (CNBC)
+  * [Will schools be open in September? We asked several experts to weigh in](https://www.cnbc.com/2020/05/04/will-schools-be-open-in-september-experts-weigh-in.html) (CNBC)
+  * [Lockdown Turns Nation's Highways into Speedways](https://www.wsj.com/articles/lockdown-turns-nations-highways-into-speedways-11588529544?mod=hp_featst_pos3) (Wall Street Journal)
+
 **Monday, May 04 2020 - What Did We Actually Accomplish With the Quarantine?**
 
   * [What the Coronavirus Models Can't See](https://nymag.com/intelligencer/2020/05/what-the-coronavirus-models-cant-see.html) (NY Mag)
