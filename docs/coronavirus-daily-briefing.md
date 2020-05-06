@@ -1,5 +1,15 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, May 06 2020 - What’s Up With That Mutated New Strain of the Virus?**
+
+  * [Study reports mutant coronavirus. It may be more contagious](https://www.latimes.com/california/story/2020-05-05/mutant-coronavirus-has-emerged-more-contagious-than-original) (LA Times)
+  * [Commentary on the study of the possible new strain](https://twitter.com/BillHanage/status/1256422856436613126) (Bill Hanage, Twitter)
+  * [Pharmaceutical giant Pfizer begins testing coronavirus vaccine in people](https://www.washingtonpost.com/health/2020/05/05/pharmaceutical-giant-pfizer-begins-testing-coronavirus-vaccine-people/) (Washington Post)
+  * [COVID-19 Vaccine Tracker](https://milkeninstitute.org/covid-19-tracker) (Milken Institute)
+  * [How Hong Kong contained its second wave of Covid-19](https://www.cnn.com/2020/05/05/asia/hong-kong-coronavirus-recovery-intl-hnk/index.html) (CNN)
+  * [Rural Infection Rates Spike As Urban Outbreaks Subside, Data Says](https://talkingpointsmemo.com/news/rural-infection-rates-spike-as-urban-outbreaks-subside-data-says) (Talking Points Memo)
+  * [Irish Return an Old Favor, Helping Native Americans Battling the Virus](https://www.nytimes.com/2020/05/05/world/coronavirus-ireland-native-american-tribes.html) (NY Times)
+
 **Tuesday, May 05 2020 - A Mysterious New Illness Affecting Children**
 
   * [15 Children Are Hospitalized With Mysterious Illness Possibly Tied to Covid-19](https://www.nytimes.com/2020/05/05/nyregion/children-Kawasaki-syndrome-coronavirus.html) (NY Times)
