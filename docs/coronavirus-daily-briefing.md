@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, May 07 2020 - What Are Covid-19’s Long-Term Medical Effects?**
+
+  * [Beware Overblown Claims of Coronavirus Strains](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/) (The Atlantic)
+  * [64 NY Children Sickened With Rare COVID-Related Illness, State Finds; Here Are the Warning Signs](https://www.nbcnewyork.com/news/local/15-nyc-children-sickened-with-rare-covid-related-illness-here-are-the-warning-signs/2404162/) (NBC New York)
+  * [15 Children Are Hospitalized With Mysterious Illness Possibly Tied to Covid-19](https://www.nytimes.com/2020/05/05/nyregion/children-Kawasaki-syndrome-coronavirus.html) (NY Times)
+  * [What Are COVID-19's Long-Term Medical Effects?](https://talkingpointsmemo.com/edblog/what-are-covid-19s-long-term-medical-effects) (Talking Points Memo) 
+  * [Millions of people are expected to fall ill with tuberculosis due to coronavirus lockdown](https://www.cnbc.com/2020/05/06/coronavirus-millions-of-people-expected-to-fall-ill-with-tuberculosis.html) (CNBC)
+  * [Hoping Llamas Will Become Coronavirus Heroes](https://www.nytimes.com/2020/05/06/science/llama-coronavirus-antibodies.html) (NY Times)
+
 **Wednesday, May 06 2020 - What’s Up With That Mutated New Strain of the Virus?**
 
   * [Study reports mutant coronavirus. It may be more contagious](https://www.latimes.com/california/story/2020-05-05/mutant-coronavirus-has-emerged-more-contagious-than-original) (LA Times)
