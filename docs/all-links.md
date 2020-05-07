@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, May 06 2020 - Wed. 05/06 – Disney+ Is Saving Mickey’s Bacon At The Moment**
+
+  * [ Microsoft’s new Surface Go 2 has a bigger display and better Intel processor](https://www.theverge.com/2020/5/6/21248142/microsoft-surface-go-2-tablet-10-5-inch-screen-price-release-date) (The Verge)
+  * [ Microsoft's Surface Book 3 has 10th-gen Intel CPUs and new NVIDIA GPUs](https://www.engadget.com/surface-book-3-microsoft-tablet-pc-130014634.html) (Engadget)
+  * [ Uber to lay off 3,700 employees, about 14% of workforce](https://www.cnbc.com/2020/05/06/uber-to-lay-off-3700-employees-about-14percent-of-workforce.html) (CNBC)
+  * [ The layoffs at Airbnb cast a dark shadow over Silicon Valley](https://www.vox.com/recode/2020/5/5/21248381/airbnb-layoffs-brian-chesky-startups-coronavirus-pandemic-revenue) (Recode)
+  * [ Magic Leap is turning to a major health care company to save its future, potentially raising as much as $100 million](https://www.businessinsider.com/magic-leap-raising-money-major-health-care-company-2020-5?op=1) (Business Insider)
+  * [ Disney says it now has 54.5 million Disney+ subscribers](https://www.cnbc.com/2020/05/05/disney-reports-33point5-million-disney-plus-subscribers-at-end-of-q2.html) (CNBC)
+  * [ People Are Panic-Buying Meat, Toilet Paper … and Pelotons?](https://www.nytimes.com/2020/05/06/technology/peloton-boom-workout-virus.html) (NYTimes)
+  * [ Bitcoin Is Staging a Comeback Reminiscent of 2017 Bubble Frenzy](https://www.bloomberg.com/news/articles/2020-05-06/bitcoin-is-staging-a-comeback-reminiscent-of-2017-bubble-frenzy) (Bloomberg)
+
 **Tuesday, May 05 2020 - Tue. 05/05 – UK’s Contact Tracing App Won’t Work In the Background**
 
   * [ Apple kicking off week of virtual WWDC on June 22, jackets and pins for Swift Challenge winners](https://9to5mac.com/2020/05/05/apple-announces-virtual-wwdc-starting-on-june-22/) (9to5Mac)
