@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, May 07 2020 - Thu. 05/07 – Do Lyft Earnings Mean Ride Hailing As An Industry Might Survive?**
+
+  * [ Zoom buys Keybase — its first acquisition — as part of 90-day plan to fix security flaws](https://www.cnbc.com/2020/05/07/zoom-buys-keybase-in-first-deal-as-part-of-plan-to-fix-security.html) (CNBC)
+  * [Google releases unscheduled Android 11 DP4 as first beta pushed back to next month](https://9to5google.com/2020/05/06/android-11-dp4/) (9to5Google)
+  * [ Google Authenticator app update finally lets you transfer two-factor codes between devices](https://www.androidcentral.com/google-authenticator-app-update-finally-lets-you-transfer-two-factor-codes-between-devices) (AndroidCentral)
+  * [Lyft shares jump 15% as company reports more riders than last year despite coronavirus](https://www.cnbc.com/2020/05/06/lyft-earnings-q1-2020.html) (CNBC)
+  * [ How Lyft intends to navigate and survive Covid-19](https://techcrunch.com/2020/05/06/how-lyft-intends-to-navigate-and-survive-covid-19/?tpcc=ECTW2020) (TechCrunch)
+  * [ Sonos debuts new Arc soundbar, next-generation Sonos Sub, and Sonos Five speaker](https://techcrunch.com/2020/05/06/sonos-debuts-new-arc-soundbar-next-generation-sonos-sub-and-sonos-five-speaker/) (TechCrunch)
+  * [ How Facebook’s oversight board could rewrite the rules of the entire internet](https://www.protocol.com/facebook-oversight-board-rules-of-the-internet) (Protocol)
+  * [ Facebook Names the 20 People Who Can Overrule Mark Zuckerberg](https://www.wired.com/story/facebook-names-20-people-overrule-mark-zuckerberg/) (Wired)
+
 **Wednesday, May 06 2020 - Wed. 05/06 – Disney+ Is Saving Mickey’s Bacon At The Moment**
 
   * [ Microsoft’s new Surface Go 2 has a bigger display and better Intel processor](https://www.theverge.com/2020/5/6/21248142/microsoft-surface-go-2-tablet-10-5-inch-screen-price-release-date) (The Verge)
