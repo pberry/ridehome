@@ -1,5 +1,14 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, May 08 2020 - Don’t Fall For the “Plandemic” Conspiracy Video**
+
+  * [Coronavirus in the U.S.: Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) (NY Times)
+  * [Blood thinners show promise for boosting the survival chances of the sickest covid patients](https://www.washingtonpost.com/health/2020/05/07/blood-thinners-coronavirus-clots/) (Washington Post)
+  * [What It’s Like to Have Covid-19](https://www.nytimes.com/article/coronavirus-symptoms.html) (NY Times)
+  * [Coronavirus antibody testing, explained](https://www.theverge.com/2020/5/7/21248734/coronavirus-antibody-tests-explained-covid-19-immunity-accurate) (The Verge)
+  * [A study finds that nearly everyone who gets the virus eventually makes antibodies.](https://www.nytimes.com/2020/05/07/us/coronavirus-updates-cases-deaths.html#link-28d9b93b) (NY Times)
+  * [New Zealand's "bubble concept" is letting people socialize again. Would it work in America?](https://slate.com/news-and-politics/2020/05/new-zealand-quarantine-bubble-concept-america.html?utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark) (Slate)
+
 **Thursday, May 07 2020 - What Are Covid-19’s Long-Term Medical Effects?**
 
   * [Beware Overblown Claims of Coronavirus Strains](https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/) (The Atlantic)
