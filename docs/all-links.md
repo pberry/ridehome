@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 08 2020 - Fri. 05/08 – How Good Can an $18 Apple Watch Knock-Off Really Be?**
+
+  * [Uber shares shoot up after CEO says ride volume is increasing again after April bottom](https://www.cnbc.com/2020/05/07/uber-uber-earnings-q1-2020.html) (CNBC)
+  * [ UK may ditch NHS contact-tracing app for Apple and Google model](https://www.theguardian.com/technology/2020/may/07/uk-may-ditch-nhs-contact-tracing-app-for-apple-and-google-model) (The Guardian)
+  * [ Google unifies all of its messaging and communication apps into a single team](https://www.theverge.com/2020/5/7/21250790/google-android-messaging-duo-phone-g-suite-javier-soltero-hangouts-chat) (The Verge)
+  * [ Vista Equity Partners to invest $1.5B in India's Reliance Jio Partners](https://techcrunch.com/2020/05/07/reliance-jio-platforms-vista-equity-partners/) (TechCrunch)
+  * [ Developers say Google's Go is 'most sought after' programming language of 2020](https://www.zdnet.com/article/developers-say-googles-go-is-most-sought-after-programming-language-of-2020/) (ZDNET)
+  * [ This Apple Watch copycat is surprisingly good for just $18](https://www.cnet.com/news/this-apple-watch-copycat-is-surprisingly-good-for-just-18-45/) (CNET)
+
 **Thursday, May 07 2020 - Thu. 05/07 – Do Lyft Earnings Mean Ride Hailing As An Industry Might Survive?**
 
   * [ Zoom buys Keybase — its first acquisition — as part of 90-day plan to fix security flaws](https://www.cnbc.com/2020/05/07/zoom-buys-keybase-in-first-deal-as-part-of-plan-to-fix-security.html) (CNBC)
