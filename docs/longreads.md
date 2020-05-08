@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 08**
+  * [ The System That Actually Worked](https://www.theatlantic.com/ideas/archive/2020/05/miracle-internet-not-breaking/611212/) (The Atlantic)
+  * [ THE WORLD’S BIGGEST PC GAMES ARE FIGHTING A NEW SURGE OF CHEATERS AND HACKERS](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem) (The Verge)
+  * [ How Apple reinvented the cursor for iPad](https://techcrunch.com/2020/05/06/how-apple-reinvented-the-cursor-for-ipad/) (TechCrunch)
+  * [ Instacart’s Frantic Dash From Grocery App to Essential Service](https://www.bloomberg.com/news/features/2020-05-06/instacart-was-overwhelmed-by-coronavirus-overnight) (Bloomberg Businessweek)
+  * [ It’s the 50th Anniversary of Humanity’s Favorite Activity: Staring at an LCD](https://www.wsj.com/articles/its-the-50th-anniversary-of-humanitys-favorite-activity-staring-at-an-lcd-11588392002) (WSJ)
+  * [ Steven Sinofsky lived Microsoft history. Now he’s writing it](https://www.fastcompany.com/90500394/steven-sinofsky-shaped-microsofts-history-now-hes-writing-it) (Fast Company)
+  * [ One-Man Hedge Fund Gains 56% With Virus-Resistant Tech Bets](https://www.bloomberg.com/news/articles/2020-05-06/one-man-hedge-fund-gains-56-with-virus-resistant-tech-bets) (Bloomberg)
+
 **Friday, May 01**
   * [ Common Sense Comes Closer to Computers](https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/) (Quanta)
   * [ The challenges of developing autonomous vehicles during a pandemic](https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/) (VentureBeat)
