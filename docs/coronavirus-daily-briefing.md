@@ -1,5 +1,21 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, May 11 2020 - And Now For Some Good News**
+
+  * [New case results charts](https://pbs.twimg.com/media/EXnINHnXYAARoIt.jpg)
+  * [FDA Grants Emergency-Use Status for First Coronavirus Antigen Test](https://www.wsj.com/articles/fda-to-grant-emergency-use-status-for-first-coronavirus-antigen-test-by-quidel-corp-11589031815) (Wall Street Journal)
+  * [The difference between antibody and antigen tests for the coronavirus: Who should get them and what do they do?](https://www.businessinsider.com/difference-between-coronavirus-antibody-and-antigen-test-2020-5) (Business Insider)
+  * [What if it takes a really long time to develop a coronavirus vaccine?](https://www.wired.co.uk/article/coronavirus-vaccine-development) (Wired)
+  * [Little Richard, Flamboyant Wild Man of Rock ’n’ Roll, Dies at 87](https://www.nytimes.com/2020/05/09/arts/music/little-richard-dead.html?action=click&module=RelatedLinks&pgtype=Article) (NY Times)
+  * [Little Richard story one](https://twitter.com/DougBenson/status/1259304746864656384) (Doug Benson, Twitter)
+  * [Little Richard story two](https://twitter.com/blainecapatch/status/1259238940906713090) (Blaine Capatch, Twitter)
+  * [Little Richard Put Wild Sex Into the Top 40 for Good](https://www.vulture.com/2020/05/little-richard-put-wild-sex-into-the-top-40-for-good.html) (Vulture)
+  * [The Simpsons predicted 2020 including the murder hornets](https://boingboing.net/2020/05/07/the-simpsons-predicted-2020-in.html) (Boing Boing)
+  * [How to Cook a 'Murder Hornet'](https://skillet.lifehacker.com/how-to-cook-a-murder-hornet-1843298411) (Gizmodo)
+  * ['Murder hornets' have arrived in the US—here's what you should know](https://www.nationalgeographic.com/animals/2020/05/asian-giant-hornets-arrive-united-states/) (National Geographic)
+  * [Closest black hole to Earth found 'hiding in plain sight'](https://www.nationalgeographic.com/science/2020/05/closest-black-hole-to-earth-found-hiding-in-plain-sight/#close) (National Geographic)
+  * [If Planet Nine Is a Tiny Black Hole, This Is How to Find It](https://www.discovermagazine.com/the-sciences/if-planet-9-is-a-black-hole-this-is-how-to-find-it) (Discover Magazine)
+
 **Friday, May 08 2020 - Don’t Fall For the “Plandemic” Conspiracy Video**
 
   * [Coronavirus in the U.S.: Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) (NY Times)
