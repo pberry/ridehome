@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, May 11 2020 - Mon. 05/11 – Why Call it “Thunderspy” and not “Thunderstruck” or “Thunderstorm?”**
+
+  * [ Thunderbolt Flaws Expose Millions of PCs to Hands-On Hacking](https://www.wired.com/story/thunderspy-thunderbolt-evil-maid-hacking/) (Wired)
+  * [Qualcomm's latest mobile gaming chip packs faster graphics and global 5G](https://www.engadget.com/qualcomm-snapdragon-768g-063013196.html) (Engadget)
+  * [ Eric Schmidt, who led Google's transformation into a tech giant, has left the company](https://www.cnet.com/news/eric-schmidt-who-led-googles-transformation-into-a-tech-giant-has-left-the-company/) (CNET)
+  * [ Microsoft and Intel project converts malware into images before analyzing it](https://www.zdnet.com/article/microsoft-and-intel-project-converts-malware-into-images-before-analyzing-it/) (ZDNET)
+  * [ Microsoft adds protection against Reply-All email storms in Office 365](https://www.zdnet.com/article/microsoft-adds-protection-against-reply-all-email-storms-in-office-365/) (ZDNET)
+  * [ Apple plans gradual reopening of US retail stores beginning next week](https://9to5mac.com/2020/05/08/apple-retail-stores-usa-reopening-coronavirus/) (9to5Mac)
+  * [ Apple to reopen stores in US starting next week](https://www.cnbc.com/2020/05/08/apple-to-reopen-stores-in-us-starting-next-week.html) (CNBC)
+  * [ Online Car Seller Vroom Files Confidentially for IPO](https://www.wsj.com/articles/online-car-seller-vroom-files-confidentially-for-ipo-11589152790) (WSJ)
+
 **Friday, May 08 2020 - Fri. 05/08 – How Good Can an $18 Apple Watch Knock-Off Really Be?**
 
   * [Uber shares shoot up after CEO says ride volume is increasing again after April bottom](https://www.cnbc.com/2020/05/07/uber-uber-earnings-q1-2020.html) (CNBC)
