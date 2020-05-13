@@ -1,5 +1,27 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, May 13 2020 - A Practical Guide to Avoiding COVID Risks**
+
+  * [As coronavirus cases resurge, lockdowns reimposed on at least three continents](https://www.washingtonpost.com/world/as-some-countries-ease-up-others-are-reimposing-lockdowns-amid-a-resurgence-of-coronavirus-infections/2020/05/12/6373cf6a-9455-11ea-87a3-22d324235636_story.html) (Washington Post)
+  * [Restaurants in Washington Need to Track Customer Info for Contact Tracing](https://seattle.eater.com/2020/5/12/21255614/washington-state-requiring-contact-tracing-at-restaurants-logging-phones-emails) (Eater)
+  * [A Practical Guide to Covid-19 Risks and How to Avoid Them](https://kottke.org/20/05/a-practical-guide-to-covid-19-risks-and-how-to-avoid-them) (Kottke)
+  * [Loss of smell, confusion, strokes: Does Covid-19 target the nervous system?](https://www.knowablemagazine.org/article/health-disease/2020/does-covid-19-target-nervous-system-loss-smell-confusion-strokes) (Knowable Magazine)
+  * [Try to dock with the International Space Station with this SpaceX Crew Dragon simulator](https://www.theverge.com/2020/5/12/21256210/spacex-crew-dragon-docking-simulator-iss-international-space-station) (The Verge)
+  * [How to See Comet SWAN in Night Skies](https://www.nytimes.com/2020/05/12/science/comet-swan.html) (New York Times)
+  * [How to Make Cold Brew in a French Press](https://skillet.lifehacker.com/make-cold-brew-in-your-french-press-1843396039) (LifeHacker)
+  * [Guy Fieri and Bill Murray are having a nacho cook-off for charity](https://mashable.com/article/guy-fieri-bill-murray-nacho-showdown/) (Mashable)
+
+**Tuesday, May 12 2020 - Why You Still Can't Find Clorox Wipes**
+
+  * [Coronavirus tracked: has your country’s epidemic peaked?](https://ig.ft.com/coronavirus-chart/?areas=bra&areas=rus&cumulative=0&logScale=1&perMillion=0&values=cases) (Financial Times)
+  * [Coronavirus in the U.S.: Latest Map and Case Count](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) (New York Times)
+  * [Should Mild Coronavirus Cases Isolate at Home? Many Asian Countries Say No](https://www.wsj.com/articles/should-mild-coronavirus-cases-isolate-at-home-many-asian-countries-say-no-11589108401?mod=cxrecs_join#cxrecs_s) (Wall Street Journal)
+  * [Why Clorox Wipes Are Still So Hard to Find](https://www.wsj.com/articles/why-clorox-wipes-are-still-so-hard-to-find-11588852801?mod=e2tw) (Wall Street Journal)
+  * [Why quarantine has made time feel so weird, explained](https://www.vox.com/2020/5/7/21248259/why-time-feels-so-weird-right-now-quarantine-coronavirus-pandemic) (Vox)
+  * [Here Are Some Easy Tips So You Can Make All Those Zoom Calls Less Exhausting](https://www.sciencealert.com/here-are-easy-tips-for-making-all-those-zoom-calls-less-exhausting) (Science Alert)
+  * [Every episode of The Office is now playing out live on Slack](https://news.avclub.com/every-episode-of-the-office-is-now-playing-out-live-on-1843418161) (AV Club)
+  * [Virgin birth has scientists buzzing: Researchers discover a gene in honey bees that causes virgin birth](https://www.sciencedaily.com/releases/2020/05/200507131327.htm) (Science Daily) 
+
 **Monday, May 11 2020 - And Now For Some Good News**
 
   * [New case results charts](https://pbs.twimg.com/media/EXnINHnXYAARoIt.jpg)
