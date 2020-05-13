@@ -2,6 +2,24 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, May 13 2020 - Wed. 05/13 – What If We Never Go Back To The Office?**
+
+  * [ Dell launches new XPS 17 and redesigned XPS 15 with 16:10 edge-to-edge displays](https://www.theverge.com/2020/5/13/21257006/dell-xps-17-15-redesign-specs-features-update-2020) (The Verge)
+  * [ Amazon updates the Fire HD 8 with a faster processor, more RAM, and USB-C](https://www.theverge.com/circuitbreaker/2020/5/13/21256674/amazon-fire-hd-8-plus-kids-edition-usb-c-wireless-specs) (The Verge)
+  * [ Facebook will pay $52 million in settlement with moderators who developed PTSD on the job](https://www.theverge.com/2020/5/12/21255870/facebook-content-moderator-settlement-scola-ptsd-mental-health) (The Verge)
+  * [ Apple plans to add audio versions of publisher articles to Apple News+](https://digiday.com/media/apple-plans-to-add-audio-versions-of-publisher-articles-to-apple-news/) (Digiday)
+  * [ US e-commerce sales jump 49% in April, led by online grocery](https://techcrunch.com/2020/05/12/us-e-commerce-sales-jump-49-in-april-led-by-online-grocery/) (TechCrunch)
+  * [ Twitter Will Allow Employees To Work At Home Forever](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever) (Buzzfeed News)
+  * [ Apple Plans to Return More Staff to Offices in Break From Rivals](https://www.bloomberg.com/news/articles/2020-05-12/apple-plans-to-return-more-staff-to-offices-in-break-from-rivals) (Bloomberg)
+
+**Tuesday, May 12 2020 - Quibbling With Quibi**
+
+  * [ Twitter launches labels, warnings on misleading COVID-19 information](https://www.reuters.com/article/us-health-coronavirus-twitter/twitter-launches-labels-warnings-on-misleading-covid-19-information-idUSKBN22N2E4) (Reuters)
+  * [ Exclusive: AirPods Studio to feature head and neck detection, custom equalizer settings, more](https://9to5mac.com/2020/05/11/airpods-studio-features-exclusive/) (9to5Mac)
+  * [ Apple releases 'major' update to Logic Pro X](https://appleinsider.com/articles/20/05/12/apple-releases-major-update-to-logic-pro-x) (AppleInsider)
+  * [ Microsoft's VS Code 1.45 is out: GitHub integration plus JavaScript debugger update](https://www.zdnet.com/article/microsofts-vs-code-1-45-is-out-github-integration-plus-javascript-debugger-update/#ftag=RSSbaffb68) (ZDNet)
+  * [ Jeffrey Katzenberg Blames Pandemic for Quibi’s Rough Start](https://www.nytimes.com/2020/05/11/business/media/jeffrey-katzenberg-quibi-coronavirus.html) (NYTimes)
+
 **Monday, May 11 2020 - Mon. 05/11 – Why Call it “Thunderspy” and not “Thunderstruck” or “Thunderstorm?”**
 
   * [ Thunderbolt Flaws Expose Millions of PCs to Hands-On Hacking](https://www.wired.com/story/thunderspy-thunderbolt-evil-maid-hacking/) (Wired)
