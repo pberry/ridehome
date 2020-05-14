@@ -2,6 +2,16 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, May 14 2020 - Thu. 05/14 – “Monstrous” Chip News**
+
+  * [ Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance](https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/) (VentureBeat)
+  * [ Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC](https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer) (The Verge)
+  * [ Sony Says It Created World’s First Image Sensor With Built-in AI](https://www.bloomberg.com/news/articles/2020-05-14/sony-builds-ai-into-latest-image-sensor?sref=MzDxCtkS) (Bloomberg)
+  * [ Reddit to launch Ethereum-based tokens for cryptocurrency and Fortnite subreddits](https://www.theblockcrypto.com/linked/65178/reddit-launches-ethereum-based-tokens-for-cryptocurrency-and-fortnite-subreddits) (The Block)
+  * [ Chrome will soon group tabs together to save pack rats from themselves](https://www.engadget.com/google-chrome-tab-groups-feature-164057759.html) (Engadget)
+  * [ The mastermind behind the Pixel's camera has left Google](https://www.androidcentral.com/mastermind-pixels-excellent-camera-has-left-google) (AndroidCentral)
+  * [ Adding three more companies to the $100M ARR club](https://techcrunch.com/2020/05/13/adding-three-more-companies-to-the-100m-arr-club/) (TechCrunch)
+
 **Wednesday, May 13 2020 - Wed. 05/13 – What If We Never Go Back To The Office?**
 
   * [ Dell launches new XPS 17 and redesigned XPS 15 with 16:10 edge-to-edge displays](https://www.theverge.com/2020/5/13/21257006/dell-xps-17-15-redesign-specs-features-update-2020) (The Verge)
