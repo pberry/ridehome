@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 15 2020 - Fri. 05/15 – Facebook Buys GIPHY**
+
+  * [ U.S. moves to cut Huawei off from global chip suppliers as China eyes retaliation](https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-us-moves-to-cut-huawei-off-from-global-chip-suppliers-idUSKBN22R1KC) (Reuters)
+  * [ Scoop: Facebook to buy Giphy for $400 million](https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html) (Axios)
+  * [ Apple Acquires Startup NextVR that Broadcasts VR Content](https://www.bloomberg.com/news/articles/2020-05-14/apple-acquires-startup-nextvr-to-gain-virtual-reality-content?sref=MzDxCtkS) (Bloomberg)
+  * [ Apple’s computerized glasses won’t be ready until 2022 ‘at the earliest,’ top analyst says](https://www.cnbc.com/2020/05/14/kuo-apple-is-working-two-new-affordable-ipads.html) (Bloomberg)
+  * [ Latest leak has "sleek" Apple Glasses coming out in 2021 instead of 2022](https://appleinsider.com/articles/20/05/15/sleek-apple-glasses-predicted-to-arrive-in-2021-in-conflicting-leak) (Apple Insider)
+  * [ Uber’s CEO, a Seasoned Dealmaker, Pursues His Biggest One Yet](https://www.bloomberg.com/news/articles/2020-05-14/uber-s-ceo-a-seasoned-dealmaker-pursues-his-biggest-one-yet?sref=MzDxCtkS) (Bloomberg)
+  * [ Chrome will start blocking resource-heavy ads in August](https://venturebeat.com/2020/05/14/chrome-will-start-blocking-resource-heavy-ads-in-august/) (VentureBeat)
+  * [ Tech Workers Consider Escaping Silicon Valley’s Sky-High Rents](https://www.bloomberg.com/news/articles/2020-05-14/tech-workers-consider-escaping-silicon-valley-s-sky-high-rents?sref=MzDxCtkS) (Bloomberg Businessweek)
+
 **Thursday, May 14 2020 - Thu. 05/14 – “Monstrous” Chip News**
 
   * [ Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance](https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/) (VentureBeat)
