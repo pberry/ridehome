@@ -1,5 +1,26 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Friday, May 15 2020 - Have Birds Gotten Louder During Lockdown?**
+
+  * [Experiment shows human speech generates droplets that linger in the air for more than 8 minutes](https://www.washingtonpost.com/health/experiment-shows-human-speech-generates-droplets-that-linger-in-the-air-for-more-than-8-minutes/2020/05/13/7f293ba2-9557-11ea-82b4-c8db161ff6e5_story.html) (Washington Post)
+  * [Coronavirus: False claims viewed by millions on YouTube](https://www.bbc.com/news/technology-52662348) (BBC)
+  * [Covid Targets the Elderly. Why Don't Our Prevention Efforts?](https://nymag.com/intelligencer/2020/05/covid-targets-the-elderly-why-dont-our-prevention-efforts.html) (NY Magazine)
+  * [Opinion | Coronavirus Is Making Young People Very Sick. I Was One of Them.](https://www.nytimes.com/2020/05/14/opinion/coronavirus-young-people.html?referringSource=articleShare) (New York Times)
+  * [Breathing exercise](https://www.youtube.com/watch?v=HwLzAdriec0&feature=youtu.be) (Dr. Sarfaraz Munshi, YouTube)
+  * [Birdsong seems louder and the ravens are more relaxed](https://www.irishtimes.com/news/ireland/irish-news/coronavirus-birdsong-seems-louder-and-the-ravens-are-more-relaxed-1.4231725) (Irish Times)
+  * [Human Life Is Literally Quieter Due To Coronavirus Lockdown](https://www.npr.org/2020/04/14/834460094/human-life-is-literally-quieter-due-to-coronavirus-lockdown) (NPR)
+  * [Do Those Birds Sound Louder To You? An Ornithologist Says You're Just Hearing Things](https://www.npr.org/sections/coronavirus-live-updates/2020/05/06/843271787/do-those-birds-sound-louder-to-you-an-ornithologist-says-youre-just-hearing-thin) (NPR)
+  * [Why Did Michael Jordan Star in 'Space Jam'?](https://www.vulture.com/2020/05/why-michael-jordan-did-space-jam.html) (Vulture)
+  * [SpaceJam.com](https://www.spacejam.com/)
+  * [Forgotify](https://forgotify.com/)
+
+**Thursday, May 14 2020 - How To Beat COVID-19 and Save The Economy**
+
+  * [Coronavirus suppression: Expert recommendations to beat Covid-19](https://www.vox.com/2020/5/13/21248157/testing-quarantine-masks-stimulus) (Vox)
+  * [Netflix’s first interactive sitcom: Good for laughs, deserves a better app](https://arstechnica.com/gaming/2020/05/netflixs-first-interactive-sitcom-good-for-laughs-deserves-a-better-app/) (Ars Technica)
+  * [Our weird behavior during the pandemic is messing with AI models](https://www.technologyreview.com/2020/05/11/1001563/covid-pandemic-broken-ai-machine-learning-amazon-retail-fraud-humans-in-the-loop) (MIT Technology Review)
+  * [Why Humans Totally Freak Out When They Get Lost](https://www.wired.com/story/why-humans-totally-freak-out-when-they-get-lost/) (Wired)
+
 **Wednesday, May 13 2020 - A Practical Guide to Avoiding COVID Risks**
 
   * [As coronavirus cases resurge, lockdowns reimposed on at least three continents](https://www.washingtonpost.com/world/as-some-countries-ease-up-others-are-reimposing-lockdowns-amid-a-resurgence-of-coronavirus-infections/2020/05/12/6373cf6a-9455-11ea-87a3-22d324235636_story.html) (Washington Post)
