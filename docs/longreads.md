@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 15**
+  * [ OnlyFans, Influencers, And The Politics Of Selling Nudes During A Pandemic](https://www.elle.com/culture/a32459935/onlyfans-sex-work-influencers/) (Elle.com)
+  * [How Sporcle followed trivia fans from bars to Zoom and built a $2.5M business](https://www.protocol.com/sporcle-quiz-coronavirus-zoom) (Protocol)
+  * [ Founder Of Borders Bookstores, Webvan Returns With Dreams Of Beating Amazon At Food Delivery](https://www.forbes.com/sites/laurendebter/2020/05/12/webvan-borders-founder-louis-borders-online-grocery-home-delivery-service/#3694f4f24968) (Forbes)
+  * [ Inside HBO Max, the $4 Billion Bet to Stand Out in the Streaming Wars](https://variety.com/2020/tv/features/hbo-max-launch-streaming-friends-warnermedia-1234604475/) (Variety)
+  * [ The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/) (Wired)
+  * [ Our weird behavior during the pandemic is messing with AI models](https://www.technologyreview.com/2020/05/11/1001563/covid-pandemic-broken-ai-machine-learning-amazon-retail-fraud-humans-in-the-loop/?itm_source=parsely-api) (MIT Technology Review)
+  * [ Yes, websites really are starting to look more similar](https://theconversation.com/yes-websites-really-are-starting-to-look-more-similar-136484) (The Conversation)
+
 **Friday, May 08**
   * [ The System That Actually Worked](https://www.theatlantic.com/ideas/archive/2020/05/miracle-internet-not-breaking/611212/) (The Atlantic)
   * [ THE WORLD’S BIGGEST PC GAMES ARE FIGHTING A NEW SURGE OF CHEATERS AND HACKERS](https://www.theverge.com/2020/5/6/21246229/pc-gaming-cheating-aimbots-wallhacks-hacking-tools-developer-response-problem) (The Verge)
