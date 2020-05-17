@@ -2,7 +2,7 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
-**Friday, May 15 2020 - Fri. 05/15 – Facebook Buys GIPHY**
+**Friday, May 15 2020 - Facebook Buys GIPHY**
 
   * [ U.S. moves to cut Huawei off from global chip suppliers as China eyes retaliation](https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-us-moves-to-cut-huawei-off-from-global-chip-suppliers-idUSKBN22R1KC) (Reuters)
   * [ Scoop: Facebook to buy Giphy for $400 million](https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html) (Axios)
