@@ -2,6 +2,17 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, May 18 2020 - Mon. 05/18 – Pizza Arbitrage Shows How The Food Delivery Space Is Broken**
+
+  * [ TSMC halts new Huawei orders after US tightens restrictions](https://asia.nikkei.com/Spotlight/Huawei-crackdown/TSMC-halts-new-Huawei-orders-after-US-tightens-restrictions) (Nikkei Asian Review)
+  * [ China Injects $2.2 Billion Into Local Chip Firm](https://www.bloomberg.com/news/articles/2020-05-17/china-injects-2-2-billion-into-local-chip-firm-amid-u-s-curbs?sref=MzDxCtkS) (Bloomberg)
+  * [ General Atlantic to invest $870M in India's Reliance Jio Platforms](https://techcrunch.com/2020/05/17/general-atlantic-reliance-jio-platforms/) (TechCrunch)
+  * [ Google Meet surpasses 50 million downloads on the Google Play Store](https://9to5google.com/2020/05/18/google-meet-surpasses-50-million-downloads-on-the-google-play-store/) (9to5Google)
+  * [ Andreessen Horowitz Wins VC Sweepstakes To Back Clubhouse, Voice App Still In Beta, At $100 Million Valuation](https://www.forbes.com/sites/alexkonrad/2020/05/15/andreessen-horowitz-wins-vc-sweepstakes-to-back-clubhouse-voice-app/#494c5b9b6f2a) (Forbes)
+  * [London-based Fly Now Pay Later raises £35 million Series A to provide flexible financing to travellers](https://tech.eu/brief/fly-now-pay-later-series-a/) (Tech.eu)
+  * [ Austin-Based Real Estate Startup Homeward Secures $105M In Debt & Equity](https://news.crunchbase.com/news/austin-based-real-estate-startup-homeward-secures-105m-in-debt-equity/) (TechCrunch)
+  * [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage) (Margins, by Ranjan Roy and Can Duruk)
+
 **Friday, May 15 2020 - Facebook Buys GIPHY**
 
   * [ U.S. moves to cut Huawei off from global chip suppliers as China eyes retaliation](https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-us-moves-to-cut-huawei-off-from-global-chip-suppliers-idUSKBN22R1KC) (Reuters)
