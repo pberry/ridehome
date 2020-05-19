@@ -1,5 +1,35 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, May 19 2020 - Where Tests Abound, Why Aren't People Getting Them?**
+
+  * [Initial surge in news use around coronavirus in the UK has been followed by significant increase in news avoidance](https://reutersinstitute.politics.ox.ac.uk/initial-surge-news-use-around-coronavirus-uk-has-been-followed-significant-increase-news-avoidance) (Reuters Institute)
+  * [Thinking of Buying a Bike? Get Ready for a Very Long Wait](https://www.nytimes.com/2020/05/18/nyregion/bike-shortage-coronavirus.html) (NY Times)
+  * [The COVID Tracking Project](https://twitter.com/COVID19Tracking/status/1262571274317914113)
+  * [A.C.L.U. Warns Against Fever-Screening Tools for Coronavirus](https://www.nytimes.com/2020/05/19/health/coronavirus-aclu-fever.html) (NY Times)
+  * [Shakespeare's Globe May Permanently Close](https://www.themarysue.com/shakespeares-globe-may-permanently-close/) (The Mary Sue)
+  * [Ocean City Bar Buys 'Bumper Tables' For Socially Distant Dining](https://baltimore.cbslocal.com/2020/05/17/ocean-city-bar-buys-bumper-tables-for-socially-distant-dining/) (CBS Baltimore)
+  * [US states see COVID-19 testing supply improvements, but challenges abound](https://www.washingtonpost.com/health/as-coronavirus-testing-expands-a-new-problem-arises-not-enough-people-to-test/2020/05/17/3f3297de-8bcd-11ea-8ac1-bfb250876b7a_story.html) (Washington Post)
+  * [Covid Patients Testing Positive After Recovery Aren’t Infectious, Study Shows](https://www.bloomberg.com/news/articles/2020-05-19/covid-patients-testing-positive-after-recovery-aren-t-infectious) (Bloomberg)
+  * [Ten Myths About the 1918 Flu Pandemic | History](https://www.smithsonianmag.com/history/ten-myths-about-1918-flu-pandemic-180967810/) (Smithsonian Magazine)
+  * [Why You’re Going to See More Animation (Thanks, Pandemic)](https://www.wsj.com/articles/why-youre-going-to-see-more-animation-thanks-pandemic-11589724000) (Wall Street Journal)
+  * [Listen to this mashup of Saturday morning cartoon themes](https://news.avclub.com/this-mashup-of-saturday-morning-cartoon-themes-is-the-n-1843441968) (AV Club)
+  * [If You're Jonesing for a Homemade Snack, Try Etsy](https://skillet.lifehacker.com/if-youre-jonesing-for-a-homemade-snack-try-etsy-1843524073) (LifeHacker)
+
+**Monday, May 18 2020 - Phase One of Moderna's Vaccine Trial Looks Promising**
+
+  * [State-by-state hospitalization rates](https://twitter.com/ScottGottliebMD/status/1262005220139294724) (Scott Gottlieb, Twitter)
+  * [Coalition of 116 countries back Australia's push for independent coronavirus inquiry](https://www.sbs.com.au/news/coalition-of-116-countries-back-australia-s-push-for-independent-coronavirus-inquiry?cid=news:socialshare:twitter) (SBS News)
+  * [TSA Prepares to Screen Temperatures at Airports During Pandemic](https://gizmodo.com/in-bid-to-make-passengers-feel-safer-tsa-prepares-to-s-1843493527) (Gizmodo)
+  * [Coronavirus Vaccine Trial by Moderna Shows Promising Early Results](https://www.nytimes.com/2020/05/18/health/coronavirus-vaccine-moderna.html) (NY Times)
+  * [Dow soars 700 points for biggest jump in a month, boosted by coronavirus vaccine hope](https://www.cnbc.com/2020/05/17/stock-futures-up-after-powell-says-economy-could-recover-some-this-year.html) (CNBC)
+  * [COVID-19 Vaccines Are Coming, but They’re Not What You Think](https://www.theatlantic.com/ideas/archive/2020/03/two-extreme-long-shots-could-save-us-coronavirus/608539/) (The Atlantic)
+  * [If 80% of Americans Wore Masks, COVID-19 Infections Would Plummet, New Study Says](https://www.vanityfair.com/news/2020/05/masks-covid-19-infections-would-plummet-new-study-says) (Vanity Fair)
+  * [Visual simulations show why we all need to wear masks now](https://www.youtube.com/watch?v=yfeW2l8G_W4&feature=youtu.be) (De Kai, YouTube)
+  * [Why Is Texting People Back Suddenly So Hard?](https://www.vice.com/en_us/article/jgxxpx/why-its-so-hard-to-text-people-back-during-the-pandemic) (Vice)
+  * [Global Cooling Event 4,200 Years Ago Spurred Rice's Evolution, Spread Across Asia](http://www.nyu.edu/about/news-publications/news/2020/may/rice-evolution-global-cooling-event.html) (NYU)
+  * [John Oliver rolls up a ridiculously brilliant remedy for our sports-starved existence](https://news.avclub.com/john-oliver-rolls-up-a-ridiculously-brilliant-remedy-fo-1843515674) (A/V Club)
+  * [Jelle's Marble Runs](https://www.youtube.com/channel/UCYJdpnjuSWVOLgGT9fIzL0g/featured)
+
 **Friday, May 15 2020 - Have Birds Gotten Louder During Lockdown?**
 
   * [Experiment shows human speech generates droplets that linger in the air for more than 8 minutes](https://www.washingtonpost.com/health/experiment-shows-human-speech-generates-droplets-that-linger-in-the-air-for-more-than-8-minutes/2020/05/13/7f293ba2-9557-11ea-82b4-c8db161ff6e5_story.html) (Washington Post)
