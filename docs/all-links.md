@@ -2,6 +2,35 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, May 20 2020 - Wed. 05/20 – Joe Rogan is Podcasting’s Howard Stern Moment**
+
+  * [ Mark Zuckerberg announces Facebook Shops, making it easier for businesses to list products for sale](https://www.cnbc.com/2020/05/19/zuckerberg-announces-facebook-shops-e-commerce-for-businesses.html) (CNBC)
+  * [Ecommerce penetration graph](https://twitter.com/DennisHong17/status/1261492532690763777) (Dennis Hong)
+  * [ Is the e-commerce shift going to last?](https://techcrunch.com/2020/05/17/is-the-e-commerce-shift-going-to-last/) (TechCrunch)
+  * [ A City Locks Down to Fight Coronavirus, but Robots Come and Go](https://www.nytimes.com/2020/05/20/technology/delivery-robots-coronavirus-milton-keynes.html) (NYTimes)
+  * [ 'iPhone 12' predicted to ship without EarPods, will boost AirPods sales](https://appleinsider.com/articles/20/05/20/iphone-12-predicted-to-ship-without-earpods-will-boost-airpods-sales) (Apple Insider)
+  * [ Spotify signs 'The Joe Rogan Experience" to an exclusive multi-year deal](https://techcrunch.com/2020/05/19/spotify-signs-the-joe-rogan-experience-to-an-exclusive-multi-year-deal/) (TechCrunch)
+  * [ Bill Simmons Just Wants to Win](https://www.vulture.com/article/bill-simmons-spotify-podcasts-ringer-interview.html) (Vulture)
+  * [ With its Joe Rogan exclusive, Spotify’s new podcast strategy is to kill podcasts](https://www.digitaltrends.com/news/spotify-joe-rogan-exclusive-will-kill-podcasts/?utm_source=podnews.net&utm_medium=email&utm_campaign=podnews.net:2020-05-20) (Digital Trends)
+  * [ New Spec Gives SD Cards a Massive Boost in Speed](https://gizmodo.com/new-spec-gives-sd-cards-a-massive-boost-in-speed-1843546534) (Gizmodo)
+
+**Tuesday, May 19 2020 - If You Virtual Build It, They Will Come**
+
+  * [Microsoft’s new PowerToys Run launcher for Windows 10 is now available to download](https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build) (The Verge)
+  * [Microsoft is bringing Linux GUI apps to Windows 10](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features) (The Verge)
+  * [Microsoft to adapt its cloud software for healthcare industry](https://www.reuters.com/article/us-microsoft-tech/microsoft-to-adapt-its-cloud-software-for-healthcare-industry-idUSKBN22V27Z) (Reuters)
+  * [Deliver better experiences, insights, and care with Microsoft Cloud for Healthcare](https://cloudblogs.microsoft.com/industry-blog/health/2020/05/19/deliver-better-experiences-insights-and-care-with-microsoft-cloud-for-healthcare/) (Microsoft)
+  * [Microsoft’s new Fluid Office document is Google Docs on steroids](https://www.theverge.com/2020/5/19/21260005/microsoft-office-fluid-web-document-features-build) (The Verge)
+  * [Microsoft and Sony to create smart camera solutions for AI-enabled image sensor](https://www.zdnet.com/article/microsoft-and-sony-partnership-to-create-smart-camera-solutions-with-ai-enable-image-sensor/) (ZDNet)
+  * [Microsoft’s OpenAI supercomputer has 285,000 CPU cores, 10,000 GPUs](https://www.engadget.com/microsoft-openai-supercomputer-azure-150001119.html) (Engadget)
+  * [Apple’s AR Glasses!](https://www.youtube.com/watch?v=SfjSy6T4iE4&feature=youtu.be) (Front Page Tech on YouTube)
+  * [Apple Buys Older Shows for TV+, Stepping Up Netflix Challenge](https://www.bloomberg.com/news/articles/2020-05-19/apple-buys-older-shows-for-tv-stepping-up-netflix-challenge) (Bloomberg News)
+  * [Attorney General William P. Barr and FBI Director Christopher Wray Announce Significant Developments in the Investigation of the Naval Air Station Pensacola Shooting](https://www.justice.gov/opa/pr/attorney-general-william-p-barr-and-fbi-director-christopher-wray-announce-significant) (DOJ)
+  * [Apple Buys Older Shows for TV+, Stepping Up Netflix Challenge](https://www.bloomberg.com/news/articles/2020-05-19/apple-buys-older-shows-for-tv-stepping-up-netflix-challenge) (Bloomberg News)
+  * [Walmart is shutting down Jet.com 4 years after buying the company for $3.3 billion](https://www.businessinsider.com/walmart-shuts-down-jet-4-years-after-buying-the-company-2020-5) (Business Insider)
+  * [Trying to Support a Local Pizza Joint? Just Make Sure It Isn’t Actually Chuck E. Cheese](https://www.foodandwine.com/news/local-restaurant-on-delivery-app-actually-chuck-e-cheese-pasquallys) (Food & Wine)
+  * [Introducing the World’s Largest Medical Repair Database, Free for Everyone](https://www.ifixit.com/News/41440/introducing-the-worlds-largest-medical-repair-database-free-for-everyone) (iFixIt)
+
 **Monday, May 18 2020 - Mon. 05/18 – Pizza Arbitrage Shows How The Food Delivery Space Is Broken**
 
   * [ TSMC halts new Huawei orders after US tightens restrictions](https://asia.nikkei.com/Spotlight/Huawei-crackdown/TSMC-halts-new-Huawei-orders-after-US-tightens-restrictions) (Nikkei Asian Review)
