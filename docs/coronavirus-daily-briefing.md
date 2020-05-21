@@ -1,5 +1,19 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, May 20 2020 - How A.I. Can Help Us Develop a Vaccine More Quickly**
+
+  * [Airlines see signs of higher demand but pandemic clouds outlook](https://www.cnbc.com/2020/05/19/coronavirus-travel-southwest-shares-climb-on-signs-of-improving-demand.html) (CNBC)
+  * [OpenTable reservations dataset link & commentary](https://twitter.com/paulkrugman/status/1263124849653886981) (Paul Krugman, Twitter)
+  * [This N95-like mask would allow you to unlock your phone with Face ID](https://www.cnet.com/news/this-n95-like-face-mask-concept-amazfit-aeri-would-allow-you-unlock-your-phone-with-face-id/) (CNET)
+  * [AI-Powered Biotech Can Help Deploy a Vaccine In Record Time](https://www.wired.com/story/opinion-ai-powered-biotech-can-help-deploy-a-vaccine-in-record-time/) (Wired)
+  * [Guidelines Say Covid-19 Symptoms Last Two Weeks. Survivors Know Better.](https://elemental.medium.com/guidelines-say-covid-19-symptoms-last-two-weeks-survivors-know-better-7a6cab53e624) (Elemental)
+  * [Stonehenge Summer Solstice 2020 Livestream](https://www.mentalfloss.com/article/624476/summer-solstice-stonehenge-livestream) (Mental Floss)
+  * [Chuck E. Cheese Is Selling Pizza on Delivery Apps as 'Pasqually's'](https://www.foodandwine.com/news/local-restaurant-on-delivery-app-actually-chuck-e-cheese-pasquallys) (Food & Wine)
+  * [Things I Didn’t Need to Know: Chuck E. Cheese Has a Whole Backstory and It’s Incredibly Bleak](https://www.themarysue.com/chuck-e-cheese-has-a-whole-bleak-backstory/) (The Mary Sue)
+  * [Chuck E. Cheese Wiki](https://chucke.fandom.com/wiki/Chuck_E._Cheese_Wiki)
+  * [Captain Tom Moore 'overawed' by knighthood for NHS fundraising](https://www.bbc.com/news/uk-england-beds-bucks-herts-52735192) (BBC)
+  * [The 100-Year-Old Who Raised $40 Million for U.K. Health Workers](https://www.nytimes.com/2020/05/15/world/europe/captain-tom-moore.html?smid=tw-nytimesworld&smtyp=cur) (NY Times)
+
 **Tuesday, May 19 2020 - Where Tests Abound, Why Aren't People Getting Them?**
 
   * [Initial surge in news use around coronavirus in the UK has been followed by significant increase in news avoidance](https://reutersinstitute.politics.ox.ac.uk/initial-surge-news-use-around-coronavirus-uk-has-been-followed-significant-increase-news-avoidance) (Reuters Institute)
