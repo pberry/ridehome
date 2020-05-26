@@ -2,6 +2,13 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 22**
+  * [ A Case for Cooperation Between Machines and Humans](https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html) (NYTimes)
+  * [ Copyright bots and classical musicians are fighting online. The bots are winning.](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html) (Washington Post)
+  * [ This DIY laptop costs as much as a MacBook Air — How is it selling so well?](https://www.laptopmag.com/news/this-diy-laptop-costs-as-much-as-a-macbook-air-how-is-it-selling-so-well) (Laptop)
+  * [ The State of the Self-Driving Car Race 2020](https://www.bloomberg.com/features/2020-self-driving-car-race/?sref=MzDxCtkS) (Bloomberg)
+  * [ MEET THE FIRST NASA ASTRONAUTS SPACEX WILL LAUNCH TO ORBIT](https://www.theverge.com/2020/5/20/21254315/spacex-crew-dragon-astronauts-behnken-hurley-nasa-launch-dm-2) (The Verge)
+
 **Friday, May 15**
   * [ OnlyFans, Influencers, And The Politics Of Selling Nudes During A Pandemic](https://www.elle.com/culture/a32459935/onlyfans-sex-work-influencers/) (Elle.com)
   * [How Sporcle followed trivia fans from bars to Zoom and built a $2.5M business](https://www.protocol.com/sporcle-quiz-coronavirus-zoom) (Protocol)
