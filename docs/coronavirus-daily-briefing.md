@@ -1,5 +1,49 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Tuesday, May 26 2020 - What We Know & Don't Know About COVID-19**
+
+  * [In the developing world, the coronavirus is killing far more young people](https://www.washingtonpost.com/world/the_americas/coronavirus-brazil-killing-young-developing-world/2020/05/22/f76d83e8-99e9-11ea-ad79-eef7cd734641_story.html#click=https://t.co/mn1L5kihwa) (Washington Post)
+  * [What We Know and Don't Know](https://twitter.com/meganranney/status/1264589288659922945) (Megan Ranney MD, Twitter)
+  * [Ten reasons why immunity passports are a bad idea](https://www.nature.com/articles/d41586-020-01451-0) (Nature)
+  * [World's oldest living cat celebrates his 32nd birthday](https://animalchannel.co/worlds-oldest-cat-celebrates-32nd-birthday/) (Animal Channel)
+  * [How to Watch SpaceX Launch Astronauts to the ISS](https://www.wired.com/story/how-to-watch-spacex-launch-astronauts-to-the-iss/) (Wired)
+  * ['Orbit tax' proposed to tackle growing problem of space junk](https://news.sky.com/story/orbit-tax-proposed-to-tackle-growing-problem-of-space-junk-11994748) (Sky News)
+  * [Space Force](https://www.netflix.com/title/81021929) (Netflix)
+  * [Priests now baptizing kids and blessing food with water guns](https://news.avclub.com/priests-now-shooting-water-guns-at-babies-and-food-1843676757) (A/V Club)
+  * [2020 grads can get free Pizza Hut pizza](https://abc7chicago.com/pizza-hut-graduation-grad-free-for-students/6211910/) (ABC Chicago)
+  * [Here's A Clever Trick To Make A Pizza Box Walk Down A Ramp](https://digg.com/video/how-to-make-a-ramp-walker) (Digg)
+
+**Friday, May 22 2020 - Is There Any Safe Way to Socialize IRL?**
+
+  * [Antimalarial drug touted by President Trump is linked to increased risk of death in coronavirus patients, study says](https://www.washingtonpost.com/health/2020/05/22/hydroxychloroquine-coronavirus-study/) (Washington Post)
+  * [Hydroxychloroquine study numbers](https://twitter.com/ryanstruyk/status/1263829555921530880) (Ryan Struyk, Twitter)
+  * [Researchers: Nearly Half Of Accounts Tweeting About Coronavirus Are Likely Bots](https://www.npr.org/sections/coronavirus-live-updates/2020/05/20/859814085/researchers-nearly-half-of-accounts-tweeting-about-coronavirus-are-likely-bots) (NPR)
+  * [Students wear wings to maintain social distancing in China](https://gulfnews.com/photos/news/students-wear-wings-to-maintain-social-distancing-in-china-1.1590047710540?slide=1) (Gulf News)
+  * [Lockdown Delays Cost at Least 36,000 Lives, Data Show](https://www.nytimes.com/2020/05/20/us/coronavirus-distancing-deaths.html?referringSource=articleShare) (NY Times)
+  * [Want to see friends? Here are the coronavirus risk factors](https://www.latimes.com/science/story/2020-05-16/so-you-really-want-to-see-your-friends-heres-how-to-assess-the-risk) (LA Times) 
+  * [Social distancing isn't going to end soon. So how do we live with it? | Gaby Hinsliff](https://www.theguardian.com/commentisfree/2020/apr/23/social-distancing-social-pods-coronavirus-lockdown) (The Guardian)
+  * [Can You Socialize Safely During the COVID-19 Pandemic?](https://time.com/5835818/socializing-coronavirus-social-distancing/?utm_source=newsletter&utm_medium=email&utm_campaign=the-brief&utm_content=20200520&xid=newsletter-brief) (NY Times)
+  * ['Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.](https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech/?utm_source=feedly&utm_medium=webfeeds) (Mashable)
+  * [40 Years on, PAC-MAN Recreated with AI by NVIDIA Researchers](https://blogs.nvidia.com/blog/2020/05/22/gamegan-research-pacman-anniversary/?ncid=so-yout-74102#cid=_so-yout_en-us) (NVIDIA)
+  * [Pac-Man will be playable on Twitch starting this June](https://www.theverge.com/2020/5/22/21266881/pac-man-live-studio-playable-on-twitch-june) (The Verge)
+  * [On the Moon, Astronaut Pee Will Be a Hot Commodity](https://www.wired.com/story/on-the-moon-astronaut-pee-will-be-a-hot-commodity/) (Wired)
+  * [Her Cellphone Number Used To Be Elon Musk's. You Can Imagine The Calls She Gets](https://www.npr.org/2020/05/21/858155045/she-gets-calls-and-texts-meant-for-elon-musk-some-are-pretty-weird) (NPR)
+  * [David Lynch's daily YouTube weather reports are highly soothing and very David Lynch](https://mashable.com/article/david-lynch-weather-reports-youtube/?utm_source=feedly&utm_medium=webfeeds) (Mashable)
+  * [Foster The People's 'Pumped Up Kicks', Medieval Style](https://geekologie.com/2020/05/foster-the-peoples-pumped-up-kicks-medie.php) (Geekologie)
+  * [Does Hand Sanitizer Create Superbugs?](https://www.youtube.com/watch?v=YVKK2z4QKbg) (SciShow, YouTube)
+  * [Why Some "Remastered" Music Videos Look Awful](https://youtu.be/CkysCJBdGtw) (Tom Scott, YouTube)
+
+**Thursday, May 21 2020 - CDC Updates Guidelines on Touching Surfaces**
+
+  * [Coronavirus 'does not spread easily' by touching surfaces or objects, CDC now says. But it still 'may be possible.'](https://www.usatoday.com/story/news/health/2020/05/20/coronavirus-does-not-spread-easily-surfaces-objects-cdc/5232748002/) (USA Today)
+  * [How Covid Spreads](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html) (CDC)
+  * [What is the coronavirus risk in the ocean, pools, and lakes](https://www.latimes.com/travel/story/2020-05-20/covid-19-pools-lakes-ocean-calm-these-experts-safe) (LA Times)
+  * [How Does a Virus Spread in Cities? It’s a Problem of Scale](https://www.wired.com/story/how-does-a-virus-spread-in-cities-its-a-problem-of-scale/) (Wired)
+  * [No, NASA didn't find evidence of a parallel universe where time runs backwards](https://www.cnet.com/news/nasa-did-not-find-evidence-of-a-parallel-universe-where-time-runs-backwards/) (CNET)
+  * [How to improve your walking technique](https://www.suunto.com/sports/News-Articles-container-page/how-to-improve-your-walking-technique/) (Suunto)
+  * [Learning life skills with Rob Kenney of 'Dad, How Do I?'](https://www.wciu.com/videos/thejam/learning-life-skills-with-rob-kenney-of-dad-how-do-i) (WCIU)
+  * [Dad, How Do I?](https://www.youtube.com/channel/UCNepEAWZH0TBu7dkxIbluDw/videos) (YouTube)
+
 **Wednesday, May 20 2020 - How A.I. Can Help Us Develop a Vaccine More Quickly**
 
   * [Airlines see signs of higher demand but pandemic clouds outlook](https://www.cnbc.com/2020/05/19/coronavirus-travel-southwest-shares-climb-on-signs-of-improving-demand.html) (CNBC)
