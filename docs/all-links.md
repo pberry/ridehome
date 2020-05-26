@@ -2,6 +2,35 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, May 26 2020 - Tue. 05/26 – What Does A 3-Day Weekend Even Mean Anymore?**
+
+  * [ ARM’s Cortex-A78 CPU and Mali-G78 GPU will power 2021’s best Android phones](https://www.theverge.com/circuitbreaker/2020/5/26/21267893/arm-cortex-a78-mali-g78-cpu-gpu-designs-smartphones-2021-samsung-qualcomm-apple) (The Verge)
+  * [ Google Messages preparing end-to-end encryption for RCS messages](https://9to5google.com/2020/05/23/google-messages-end-to-end-encryption-rcs/) (9to5Google)
+  * [There's a Jailbreak Out for the Current Version of iOS](https://www.wired.com/story/apple-ios-unc0ver-jailbreak/) (Wired)
+  * [ JioMart, the e-commerce venture from India's richest man, launches in 200 cities and towns](https://techcrunch.com/2020/05/23/jiomart-the-e-commerce-venture-by-indias-richest-man-launches-in-additional-cities/) (TechCrunch)
+  * [ Run The World raises $10.8 million to bring live events online](https://venturebeat.com/2020/05/21/run-the-world-raises-10-8-million-to-bring-live-events-online/) (VentureBeat)
+  * [ Why Facebook’s Plan to Tie Remote Pay to Location Will Probably Fail](https://nymag.com/intelligencer/2020/05/facebooks-plan-to-tie-pay-to-location-will-probably-fail.html) (Intelligencer)
+
+**Friday, May 22 2020 - Fri. 05/22 – I Do A Complete 180 on WFH**
+
+  * [ MARK ZUCKERBERG ON TAKING HIS MASSIVE WORKFORCE REMOTE](https://www.theverge.com/2020/5/21/21265780/facebook-remote-work-mark-zuckerberg-interview-wfh) (The Verge)
+  * [ Zuckerberg says employees moving out of Silicon Valley may face pay cuts](https://www.cnbc.com/2020/05/21/zuckerberg-50percent-of-facebook-employees-could-be-working-remotely.html) (CNBC)
+  * [ IBM Is Latest Tech Giant to Cut Jobs in Midst of Pandemic](https://www.bloomberg.com/news/articles/2020-05-21/ibm-is-latest-tech-giant-to-cut-jobs-in-midst-of-pandemic?sref=MzDxCtkS) (Bloomberg)
+  * [Magic Leap Raises $350 Million, Withdraws Layoff Notices](https://www.theinformation.com/briefings/8879ae) (The Information)
+  * [ Just turning your phone on qualifies as searching it, court rules](https://arstechnica.com/tech-policy/2020/05/just-turning-your-phone-on-qualifies-as-searching-it-court-rules/) (Ars Technica)
+  * [ ScreenHits TV to Launch Streaming Aggregator to Combat "Subscription Fatigue"](https://www.hollywoodreporter.com/news/screenhits-tv-launch-streaming-aggregator-combat-fatigue-1295272) (The Hollywood Reporter)
+
+**Thursday, May 21 2020 - Thu. 05/21 – The Galaxy S20 Tactical Edition**
+
+  * [Twitter is testing a feature that limits who can reply to your tweets](https://techcrunch.com/2020/05/20/twitter-is-testing-a-feature-that-limits-who-can-reply-to-your-tweets/) (TechCrunch)
+  * [Three US states have signed on to Apple and Google’s exposure notification system](https://www.theverge.com/2020/5/20/21265052/apple-google-coronavirus-notification-system-states-alabama-north-dakota-south-carolina ) (The Verge)
+  * [Apple releases final iOS 13.5 with coronavirus exposure alert support](https://venturebeat.com/2020/05/20/apple-releases-final-ios-13-5-with-coronavirus-exposure-alert-support/ ) (VentureBeat)
+  * [Coinbase to Make Working From Home Permanent](https://www.theinformation.com/briefings/15b3fe) (The Information)
+  * [Samsung launches Galaxy S20 Tactical Edition for Department of Defense](https://www.zdnet.com/article/samsung-launches-galaxy-s20-tactical-edition-for-department-of-defense/) (ZDNet)
+  * [How a 20-year-old convinced Facebook’s former security chief to invest in his data privacy start-up](https://www.cnbc.com/2020/05/21/privacy-startup-evervault-backed-by-former-facebook-exec-alex-stamos.html) (CNBC)
+  * [Autonomous aviation startup Xwing raises $10M to scale its software for pilotless flights](https://techcrunch.com/2020/05/20/autonomous-aviation-startup-xwing-raises-10m-to-scale-its-software-for-pilotless-flights/) (TechCrunch)
+  * [How a 20-year-old convinced Facebook’s former security chief to invest in his data privacy start-up](https://www.cnbc.com/2020/05/21/privacy-startup-evervault-backed-by-former-facebook-exec-alex-stamos.html) (CNBC)
+
 **Wednesday, May 20 2020 - Wed. 05/20 – Joe Rogan is Podcasting’s Howard Stern Moment**
 
   * [ Mark Zuckerberg announces Facebook Shops, making it easier for businesses to list products for sale](https://www.cnbc.com/2020/05/19/zuckerberg-announces-facebook-shops-e-commerce-for-businesses.html) (CNBC)
