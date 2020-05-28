@@ -2,6 +2,30 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, May 28 2020 - Thu. 05/28 – The Most Consequential Tweets For Silicon Valley of All Time?**
+
+  * [ Trump expected to sign executive order that could threaten punishment against Facebook, Google and Twitter over allegations of political bias](https://www.washingtonpost.com/technology/2020/05/27/trump-twitter-executive-order/) (Washington Post)
+  * [ Zuckerberg knocks Twitter for fact-checking Trump, says private companies shouldn't be 'the arbiter of truth'](https://www.foxnews.com/media/facebook-mark-zuckerberg-twitter-fact-checking-trump) (Fox News)
+  * [ Apple Buys Machine-Learning Startup to Improve Data Used in Siri](https://www.bloomberg.com/news/articles/2020-05-27/apple-buys-machine-learning-startup-to-improve-data-used-in-siri?sref=MzDxCtkS) (Bloomberg)
+  * [ Apple TV Plus acquires past Fraggle Rock seasons ahead of reboot](https://www.theverge.com/21271931/fraggle-rock-apple-tv-plus-new-series-licensed-strategy) (The Verge)
+  * [ What developers want, what they don't, and what you can do to attract top talent](https://www.techrepublic.com/article/what-devs-want-what-they-dont-and-what-you-can-do-to-attract-top-talent/) (TechRepublic)
+  * [LG's $1,500 48-inch 4K OLED TV goes on sale next month](https://www.engadget.com/lg-48cx-4k-oled-022836116.html) (Engadget)
+  * [This lending app publicly shames you when you’re late on loan payment](https://restofworld.org/2020/okash-microlending-public-shaming/) (Rest of World)
+  * [ Nuro’s driverless delivery robots will transport medicine to CVS customers in Texas](https://www.theverge.com/2020/5/28/21272966/nuro-cvs-autonomous-medicine-delivery-robot-houston) (The Verge)
+
+**Wednesday, May 27 2020 - Wed. 05/27 – Amazon Joins The Self-Driving Race**
+
+  * [ Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611?mod=djemalertNEWS) (WSJ)
+  * [ Google to begin reopening offices July 6, will let workers expense $1,000 for equipment while telecommuting](https://www.cnet.com/news/google-to-begin-reopening-offices-july-6-will-let-employees-expense-1000-for-equipment-while-telecommuting/) (CNET)
+  * [ Advertisers Seek to Revise Deal Terms With Streamer Quibi](https://www.wsj.com/articles/advertisers-seek-to-revise-deal-terms-with-streamer-quibi-11590519825?mod=djemalertNEWS) (WSJ)
+  * [ HBO Max debuts without the two most popular streaming platforms, Roku or Amazon](https://www.usatoday.com/story/tech/2020/05/27/no-roku-amazon-fire-tv-hbo-maxs-debut-apple-and-google-in/5262019002/) (USAToday)
+  * [ ByteDance Hit $3 Billion in Net Profit Last Year](https://www.bloomberg.com/news/articles/2020-05-27/bytedance-is-said-to-hit-3-billion-in-profit-as-revenue-doubles?sref=MzDxCtkS) (Bloomberg)
+  * [ Whistleblowers say Facebook has not warned investors about illegal activity, in new SEC complaint](https://www.washingtonpost.com/technology/2020/05/27/facebook-sec-whistleblower/) (Washington Post)
+  * [ Twitter labels Trump’s tweets with a fact check for the first time](https://www.washingtonpost.com/technology/2020/05/26/trump-twitter-label-fact-check/) (Washington Post)
+  * [ Facebook Executives Shut Down Efforts to Make the Site Less Divisive](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499?mod=djemalertNEWS) (WSJ)
+  * [ EU privacy enforcer hits make-or-break moment](https://www.politico.com/news/2020/05/21/europe-data-protection-agency-ireland-272889) (Politico)
+  * [ Tech Giants’ Top EU Privacy Watchdog Attacked Over Slow Pace](https://www.bloomberg.com/news/articles/2020-05-25/tech-giants-top-eu-privacy-watchdog-attacked-over-slow-pace?sref=MzDxCtkS) (Bloomberg)
+
 **Tuesday, May 26 2020 - Tue. 05/26 – What Does A 3-Day Weekend Even Mean Anymore?**
 
   * [ ARM’s Cortex-A78 CPU and Mali-G78 GPU will power 2021’s best Android phones](https://www.theverge.com/circuitbreaker/2020/5/26/21267893/arm-cortex-a78-mali-g78-cpu-gpu-designs-smartphones-2021-samsung-qualcomm-apple) (The Verge)
