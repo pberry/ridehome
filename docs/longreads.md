@@ -2,6 +2,14 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, May 29**
+  * [ Amazon’s Big Breakdown](https://www.nytimes.com/interactive/2020/05/27/magazine/amazon-coronavirus.html) (NYTimes)
+  * [ Remember the MOOCs? After Near-Death, They’re Booming](https://www.nytimes.com/2020/05/26/technology/moocs-online-learning.html) (NYTimes)
+  * [ Who Will Own the Cars That Drive Themselves?](https://www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.html) (NYTimes)
+  * [The rise of React](https://increment.com/frontend/the-rise-of-react/) (Increment)
+  * [ 'We had no idea how to do it': YouTube's founders, investors, and first employees tell the chaotic inside story of how it rose from failed dating site to $1.65 billion video behemoth](https://www.businessinsider.com/youtube-oral-history-early-days-founded-investors-employees-started-google-2020-5) (Business Insider)
+  * [ Poolside.fm is the chillest place you should be hanging out right now](https://www.theverge.com/2020/5/26/21270794/poolside-fm-summer-feeling-1997?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
 **Friday, May 22**
   * [ A Case for Cooperation Between Machines and Humans](https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html) (NYTimes)
   * [ Copyright bots and classical musicians are fighting online. The bots are winning.](https://www.washingtonpost.com/entertainment/music/copyright-bots-and-classical-musicians-are-fighting-online-the-bots-are-winning/2020/05/20/a11e349c-98ae-11ea-89fd-28fb313d1886_story.html) (Washington Post)
