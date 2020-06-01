@@ -2,6 +2,30 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, June 01 2020 - Could Humans Go Into Hibernation?**
+
+  * [Coronavirus May Be a Blood Vessel Disease, Which Explains Everything](https://elemental.medium.com/coronavirus-may-be-a-blood-vessel-disease-which-explains-everything-2c4032481ab2) (Elemental)
+  * [New coronavirus losing potency, top Italian doctor says](https://www.reuters.com/article/us-health-coronavirus-italy-virus-idUSKBN2370OQ) (Reuters)
+  * [Gay weddings boost US economy by $3.8 bn since landmark ruling](https://news.trust.org/item/20200528214813-1gizb) (Reuters)
+  * [Human Hibernation Is a Real Possibility](https://www.theatlantic.com/health/archive/2020/01/human-hibernation-real-possibility/605071/) (The Atlantic)
+  * [New Research: Closest Exoplanet to Earth Could Host Life](https://futurism.com/new-research-closest-exoplanet-could-host-life) (Futurism)
+  * [An English Clergyman's Advice for Quarantine](https://www.nybooks.com/daily/2020/05/14/an-english-clergymans-advice-for-quarantine/) (The New York Review of Books)
+
+**Friday, May 29 2020 - Did COVID-19 Outbreaks Actually Start Later Than We Thought?**
+
+  * [Monkeys steal coronavirus blood samples in India](https://www.reuters.com/article/us-health-coronavirus-india-monkey/monkeys-steal-coronavirus-blood-samples-in-india-idUSKBN2351KV?il=0&utm_source=fark&utm_medium=website&utm_content=link&ICID=ref_fark) (Reuters)
+  * [Tyson Pork Plant In Iowa Shuts After Hundreds Of Workers Test Positive for COVID-19](https://www.huffpost.com/entry/tyson-meatpacking-22-percdent-covid-19_n_5ed08cd0c5b600dfee30d5c9?ncid=tweetlnkushpmg00000067) (HuffPost)
+  * [To Beat Covid-19, You Have to Know How A Virus Moves](https://www.wired.com/story/to-beat-covid-19-you-have-to-know-how-a-virus-moves/) (Wired)
+  * [Coronavirus Epidemics Began Later Than Believed, Study Concludes](https://www.nytimes.com/2020/05/27/health/coronavirus-spread-united-states.html) (NY Times)
+  * [Graduate Student Untangles Decades-Old Math Problem in Less Than a Week](https://www.smithsonianmag.com/smart-news/graduate-student-untangles-decades-old-math-problem-180974978/) (Smithsonian Magazine)
+  * [Taco Friday in Sweden](https://www.mentalfloss.com/article/624373/taco-tuesday-sweden-celebrates-taco-friday-or-taco-fredag) (Mental Floss)
+  * [How 'Taco Friday' Became a Swedish Tradition](https://www.atlasobscura.com/articles/what-is-taco-friday) (Atlas Obscura)
+  * [Listen to the original NPR radio drama adaptations of the first STAR WARS trilogy](https://boingboing.net/2020/05/28/listen-to-the-original-npr-rad.html) (Boing Boing) 
+  * [A Modern Trailer for The Empire Strikes Back](https://www.neatorama.com/2020/05/28/A-Modern-Trailer-for-The-Empire-Strikes-Back/) (Neatorama) 
+  * [Star Wars Game Show Trailer Is Here: Jedi Temple Challenge](https://io9.gizmodo.com/the-first-star-wars-game-show-is-coming-and-the-trailer-1843706206) (Gizmodo) 
+  * [Disney+ Accessibility Subtitles Can Make Everything Comics Sans](https://io9.gizmodo.com/oh-no-oh-yes-disney-lets-you-turn-its-subtitles-in-1843528343) (Gizmodo)
+  * [“Baby Yoda (This Is The Way)”](https://bluemilkrun.bandcamp.com/track/baby-yoda-this-is-the-way) (Blue Milk Run, Bandcamp)
+
 **Thursday, May 28 2020 - Thu. 05/28 – The Most Consequential Tweets For Silicon Valley of All Time?**
 
   * [ Trump expected to sign executive order that could threaten punishment against Facebook, Google and Twitter over allegations of political bias](https://www.washingtonpost.com/technology/2020/05/27/trump-twitter-executive-order/) (Washington Post)
