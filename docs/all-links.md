@@ -2,6 +2,55 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Thursday, June 04 2020 - Thu. 06/04 – A Class-Action Lawsuit Around Incognito Mode**
+
+  * [Speaking up on racism](https://www.apple.com/speaking-up-on-racism/) (Tim Cook/Apple.com)
+  * [ Early Facebook Employees Disavow Zuckerberg’s Stance on Trump Posts](https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html) (NYTimes)
+  * [ Snap will stop promoting Trump’s account after concluding his tweets incited violence](https://www.theverge.com/2020/6/3/21279280/snapchat-snap-remove-trump-account-discover-promotion-incite-violence-twitter) (The Verge)
+  * [ Exclusive: Amazon in talks to buy $2 billion stake in Indian telco Bharti Airtel - sources](https://www.reuters.com/article/us-amazon-india-bharti-exclusive/exclusive-amazon-in-talks-to-buy-2-billion-stake-in-indian-telco-bharti-airtel-sources-idUSKBN23B1F8) (Reuters)
+  * [ Google faces $5 billion lawsuit in U.S. for tracking 'private' internet use](https://www.reuters.com/article/us-alphabet-google-privacy-lawsuit/google-faces-5-billion-lawsuit-in-u-s-for-tracking-private-internet-use-idUSKBN23933H) (Reuters)
+  * [ Suit Claims Google’s Tracking Violates Federal Wiretap Law](https://www.nytimes.com/2020/06/02/technology/google-sued-wiretap-privacy.html) (NYTimes)
+  * [iOS 13.5.5 code provides evidence of future Apple services bundle in development](https://9to5mac.com/2020/06/03/apple-bundle-services-code/) (9to5Mac)
+  * [ CES will be held in-person in Las Vegas next year](https://www.theverge.com/2020/6/3/21279157/ces-2021-physical-event-planned-las-vegas-cta-coronavirus) (The Verge)
+  * [ ZoomInfo aiming to price IPO $1 above revised price range](https://www.cnbc.com/2020/06/03/zoominfo-aiming-to-price-ipo-1-above-revised-price-range.html) (CNBC)
+  * [ Gaming Startup Unity Is Said to Prepare for IPO This Year](https://www.bloomberg.com/news/articles/2020-06-03/graphics-startup-unity-is-said-to-prepare-for-ipo-this-year?sref=MzDxCtkS) (Bloomberg)
+  * [ Kitty Hawk ends Flyer program, shifts focus to once-secret autonomous aircraft](https://techcrunch.com/2020/06/03/kitty-hawk-ends-flyer-program-shifts-focus-to-once-secret-autonomous-aircraft/) (TechCrunch)
+
+**Wednesday, June 03 2020 - Is On-Device Translation Coming to iOS?**
+
+  * [Zoom revenue grew 169% during the quarter, and the company doubled its revenue guidance for the year](https://www.cnbc.com/2020/06/02/zoom-zm-earnings-q1-2021.html) (CNBC)
+  * [ Zoom won’t encrypt free calls because it wants to comply with law enforcement](https://thenextweb.com/security/2020/06/03/zoom-wont-encrypt-free-calls-because-it-wants-to-comply-with-law-enforcement/) (TNW)
+  * [ iOS 14 to include built-in translator in Safari, full Apple Pencil support on websites](https://9to5mac.com/2020/06/02/ios-14-built-in-translator-apple-pencil-website-support/) (9to5Mac)
+  * [ Google takes down ‘Remove China Apps’ from the Play Store](https://9to5google.com/2020/06/03/google-takes-down-remove-china-apps-from-the-play-store/) (9to5Google)
+  * [Brave passes 15 million monthly active users and 5 million daily active users, showing 2.25x MAU growth in the past year](https://brave.com/15-million/) (Brave Browser)
+  * [ Zuckerberg Defends Hands-Off Approach to Trump’s Posts](https://www.nytimes.com/2020/06/02/technology/zuckerberg-defends-facebook-trump-posts.html) (NYTimes)
+  * [ FC Barcelona Soccer Team Launches Digital Subscription Service](https://variety.com/2020/sports/soccer-players/fc-barcelona-launches-digital-service-1234623338/) (Variety)
+
+**Tuesday, June 02 2020 - Tue. 06/02 – Everything is Postponed**
+
+  * [ Facebook finally makes it way easier to trash your old posts](https://techcrunch.com/2020/06/02/how-to-delete-old-facebook-posts-manage-activity/) (TechCrunch)
+  * [ HBO Max won’t hit AT&T data caps, but Netflix and Disney Plus will](https://www.theverge.com/2020/6/2/21277402/hbo-max-att-data-caps-netflix-disney-plus-streaming-services-net-neutrality) (The Verge)
+  * [ White nationalist group posing as antifa called for violence on Twitter](https://www.nbcnews.com/tech/security/twitter-takes-down-washington-protest-disinformation-bot-behavior-n1221456) (NBC News)
+  * [ Twitter takes action against Rep. Matt Gaetz for glorifying violence](https://www.theverge.com/2020/6/1/21277537/twitter-matt-gaetz-glorifying-violence-antifa-tweet-donald-trump) (The Verge)
+  * [ Cisco, Sony postpone events amid continued protests](https://www.axios.com/cisco-sony-postpone-events-amid-continued-protests-59583087-2c9e-4e6f-ad09-9756cc12c80c.html) (Axios)
+  * [ Third Pixel feature drop improves AI-powered Adaptive Battery, integrates Recorder and Google Assistant](https://venturebeat.com/2020/06/01/pixel-feature-drop-adaptive-battery-recorder-google-assistant-bedtime-clock-personal-safety/) (VentureBeat)
+  * [ Android update delivers new 'Bedtime' features focused on improving sleep](https://techcrunch.com/2020/06/01/android-update-delivers-new-bedtime-features-focused-on-improving-sleep/) (TechCrunch)
+  * [ Apple releases iOS 13.5.1 and watchOS 6.2.6 with ‘important security updates’](https://9to5mac.com/2020/06/01/ios-13-5-1-release-features-updates/) (9to5Mac)
+  * [ YouTube’s Chase for Streaming-TV Ad Dollars Faces Hurdles](https://www.wsj.com/articles/youtubes-chase-for-streaming-tv-ad-dollars-faces-hurdles-11591005600?mod=djemalertNEWS) (WSJ)
+  * [ Samsung’s rotating mobile-friendly TV goes on sale for $1,999](https://www.theverge.com/2020/6/1/21276691/samsung-sero-portrait-landscape-tv-uk-price-release-date) (The Verge)
+
+**Monday, June 01 2020 - Mon. 06/01 – The Facebook Walkout**
+
+  * [ Facebook Employees Stage Virtual Walkout to Protest Trump Posts](https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html) (NYTimes)
+  * [ Facebook, Snapchat join chorus of companies condemning George Floyd death, racism](https://www.reuters.com/article/us-snapchat-protests/facebook-snapchat-join-chorus-of-companies-condemning-george-floyd-death-racism-idUSKBN2382IG) (Reuters)
+  * [ Twilio, Box, Spotify, and Other Tech CEOs Speak Out Against Racism and Police Brutality; Others Stay Silent](https://tpinsights.com/2020/05/31/twilio-box-spotify-and-other-tech-ceos-speak-out-against-racism-and-police-brutality-others-stay-silent/) (The Plug)
+  * [ Facebook staff angry with Zuckerberg for leaving up Trump’s ‘looting ... shooting’ post](https://www.cnbc.com/2020/06/01/facebook-staff-angry--zuckerberg.html) (CNBC)
+  * [ Zynga to Buy Peak for $1.8 Billion in Its Largest Deal Ever](https://www.bloomberg.com/news/articles/2020-06-01/zynga-to-buy-peak-for-1-8-billion-in-its-largest-deal-ever?sref=MzDxCtkS) (Bloomberg)
+  * [ Samsung Access launches in the US w/ extended warranties, Microsoft 365, more](https://9to5google.com/2020/06/01/samsung-access-launches-in-the-us-w-extended-warranties-microsoft-365-more/) (9to5Google)
+  * [ Eye-catching advances in some AI fields are not real](https://www.sciencemag.org/news/2020/05/eye-catching-advances-some-ai-fields-are-not-real) (Science)
+  * [Google delays next week’s Android 11 Beta release and virtual launch event](https://9to5google.com/2020/05/29/android-11-beta-delay/) (9to5Google)
+  * [ Sony confirms PS5 will have exclusive games playable only on next-gen hardware](https://www.theverge.com/2020/5/29/21274634/playstation-5-ps5-ceo-jim-ryan-exclusive-games-confirmation) (The Verge)
+
 **Friday, May 29 2020 - Fri. 05/29 – The Best Summary of the Executive Order I Can Muster (Replacement)**
 
   * [ Trump signs executive order targeting protections for social media platforms](https://www.axios.com/trump-executive-order-social-media-protections-8a53f1c6-3c05-4844-98a3-071373b497a8.html) (Axios)
