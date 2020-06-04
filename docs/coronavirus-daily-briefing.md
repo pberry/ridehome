@@ -1,5 +1,37 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, June 04 2020 - Isaac Newton's Little Known Plague Cure**
+
+  * [Approximate Percentage of the Population That Has COVID-19 Antibodies](https://twitter.com/ScottGottliebMD/status/1268191059009581056) (Scott Gottlieb, Twitter)
+  * [How Do Libraries Clean Books? And More Questions From Our Readers](https://www.smithsonianmag.com/smithsonian-institution/do-libraries-clean-books-more-questions-readers-180974909/) (Smithsonian Magazine)
+  * [How to Sanitize Collections in a Pandemic](https://americanlibrariesmagazine.org/blogs/the-scoop/how-to-sanitize-collections-covid-19/?fbclid=IwAR2sdC93_k1KTO68ZkAX8w2vbTmLDk_tkHPywsdkKJeviAf3uXTsPK5voLE) (American Libraries Magazine)
+  * [Isaac Newton Believed That Lozenges Made Of Toad Vomit Could Cure The Bubonic Plague](https://allthatsinteresting.com/isaac-newton-plague-cure) (All That’s Interesting)
+  * [Please Enjoy the Absurd Delight of Frog Bread](https://www.vice.com/en_us/article/dyzg3x/please-enjoy-the-absurd-delight-of-frog-bread) (Vice)
+  * [Synthetic red blood cells mimic natural ones, and have new abilities](https://www.sciencedaily.com/releases/2020/06/200603122955.htm) (Science Daily)
+  * [CNN and 'Sesame Street' to host a town hall addressing racism](https://www.cnn.com/2020/06/02/us/cnn-sesame-street-standing-up-to-racism/index.html) (CNN)
+  * [Good News Ride Home on YouTube](https://www.youtube.com/channel/UCJMT0gp0Bf6V_qKzNtww-Yg/)
+
+**Thursday, June 04 2020 - How the Pandemic Has Changed the Way We Sleep**
+
+  * [Japan to give people US$190 a day to boost domestic travel](https://www.scmp.com/week-asia/economics/article/3086980/coronavirus-japan-give-people-discounts-us190-day-boost) (South China Morning Post)
+  * [Coronavirus: Ibuprofen tested as a treatment](https://www.bbc.com/news/health-52894638) (BBC)
+  * [A mysterious company’s coronavirus papers in top medical journals may be unraveling](https://www.sciencemag.org/news/2020/06/mysterious-company-s-coronavirus-papers-top-medical-journals-may-be-unraveling) (Science Mag)
+  * [How Sleep Has Changed in the Pandemic: Insomnia, Late Bedtimes, Weird Dreams](https://www.wsj.com/articles/how-sleep-has-changed-in-the-pandemic-insomnia-late-bedtimes-weird-dreams-11591022182) (Wall Street Journal)
+  * [Whaa? Responses To New Technology](https://www.cracked.com/article_27512_hilarious-ways-people-respondedC2A0toC2A0new-technology.html) (Cracked)
+  * [Shoe-Fitting Fluoroscope (ca. 1930-1940)](https://www.orau.org/ptp/collection/shoefittingfluor/shoe.htm) (Oak Ridge Associated Universities)
+  * [South Korea to provide 10,000 face masks to help Navajo veterans fight coronavirus](https://www.stripes.com/news/south-korea-to-provide-10-000-face-masks-to-help-navajo-veterans-fight-coronavirus-1.630168) (Stars and Stripes)
+  * [Episode 555: Why Is The Milk In The Back Of The Store?](https://www.npr.org/sections/money/2014/07/23/334076398/episode-555-why-is-the-milk-in-the-back-of-the-store) (NPR)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+**Tuesday, June 02 2020 - The Introvert's and Extrovert's Guides to Lockdown**
+
+  * [Six Months of Coronavirus: Here’s Some of What We’ve Learned](https://www.nytimes.com/article/coronavirus-facts-history.html) (New York Times)
+  * [What Did Bach Sound Like to Bach? | National Endowment for the Humanities](https://www.neh.gov/article/what-did-bach-sound-bach) (National Endowment for the Humanities)
+  * [Switched Off Bach](https://switchedoffbach.bandcamp.com/) (Joe DeGeorge, Bandcamp)
+  * [In Glove With Bach](https://joedegeorge.bandcamp.com/album/in-glove-with-bach) (Joe DeGeorge, Bandcamp)
+  * [Do Introverts or Extroverts Thrive in Coronavirus Lockdown?](https://www.bloomberg.com/news/articles/2020-06-01/do-introverts-or-extroverts-thrive-in-coronavirus-lockdown?utm_campaign=socialflow-organic&cmpid=socialflow-twitter-businessweek&utm_medium=social&utm_source=twitter&utm_content=businessweek) (Bloomberg)
+  * [Your Dog Really Does Want to Rescue You, Research Finds](https://www.sciencealert.com/dogs-really-do-want-to-rescue-us-if-they-can) (Science Alert)
+
 **Monday, June 01 2020 - Could Humans Go Into Hibernation?**
 
   * [Coronavirus May Be a Blood Vessel Disease, Which Explains Everything](https://elemental.medium.com/coronavirus-may-be-a-blood-vessel-disease-which-explains-everything-2c4032481ab2) (Elemental)
