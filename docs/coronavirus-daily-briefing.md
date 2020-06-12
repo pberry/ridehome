@@ -1,5 +1,68 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+
+**Thursday, June 11 2020 - How To Safely Hug Someone Again**
+
+  * [6 Comfort Foods Born of Historic Times of Discomfort](https://www.atlasobscura.com/articles/historic-comfort-foods?utm_source=Atlas+Obscura+Daily+Newsletter&utm_campaign=b1c40f70b0-EMAIL_CAMPAIGN_2020_06_11&utm_medium=email&utm_term=0_f36db9c480-b1c40f70b0-71753530&mc_cid=b1c40f70b0&mc_eid=8e475335e2) (Atlas Obscura)
+  * [How to Hug During a Pandemic](https://www.nytimes.com/2020/06/04/well/family/coronavirus-pandemic-hug-mask.html) (NY Times)
+  * [Used EV Batteries Could Power Tomorrow's Solar Farms](https://spectrum.ieee.org/energywise/energy/batteries-storage/used-ev-batteries-could-power-tomorrows-solar-farms) (IEEE)
+  * [Google sister company Wing will fly library books to students by drone in Virginia](https://www.washingtonpost.com/technology/2020/06/10/wing-library-book-drone-delivery/) (The Washington Post)
+  * [EpicHappyBirthdays](https://www.youtube.com/user/EpicHappyBirthdays/featured) (YouTube)
+  * [Jackson Bird on Twitter, @jackisnotabird](http://twitter.com/jackisnotabird)
+
+
+
+**Wednesday, June 10 2020 - The Woman Who Made Stuffed Olives During Brain Surgery**
+
+  * [Here’s what WHO says your mask should have to prevent COVID-19 spread](https://arstechnica.com/science/2020/06/who-now-recommends-the-public-use-masks-good-masks-in-covid-19-areas/) (Ars Technica)
+  * [Belgian Aged 103 Walking Marathon to Raise Funds for COVID-19 Research](https://www.nytimes.com/reuters/2020/06/09/world/europe/09reuters-health-coronavirus-belgium-marathon.html) (NY Times)
+  * [Entire Roman city revealed without any digging](https://www.archaeology.wiki/blog/2020/06/09/entire-roman-city-revealed-without-any-digging/) (Archaeology & Arts)
+  * [Sapporo Zoo sells "lion-ripped jeans," "beaver-gnawed coasters" and more to stay open amid COVID](https://soranews24.com/2020/06/06/sapporo-zoo-sells-lion-ripped-jeans-beaver-gnawed-coasters-and-more-to-stay-open-amid-covid/) (SoraNews24)
+  * [[North Safari Sapporo] Surviving crisis due to corona! I want to protect the animals!](https://camp-fire.jp/projects/view/276211) (Campfire)
+  * [Italian woman prepares olives during brain tumour operation](https://www.bbc.com/news/world-europe-52990921) (BBC)
+  * [MAN FILMS OWN BRAIN SURGERY (9.17.13 - Day 1601)](https://www.youtube.com/watch?v=XqVpqMv2YUo) (Charles Trippy, YouTube)
+
+
+
+**Tuesday, June 09 2020 - When Epidemiologists Expect to Resume Everyday Activities**
+
+  * [When 511 Epidemiologists Expect to Fly, Hug and Do 18 Other Everyday Activities Again](https://www.nytimes.com/interactive/2020/06/08/upshot/when-epidemiologists-will-do-everyday-things-coronavirus.html) (NY Times)
+  * [I was one of the kids who voiced the famous recording of the “kidscheering.aif” sound effect, which was later popularised through the rise of IMovie, AMA](https://www.reddit.com/r/AMA/comments/gcuc5a/i_was_one_of_the_kids_who_voiced_the_famous/). (r/AMA)
+  * [The F-word’s hidden superpower: Repeating it can increase your pain threshold](https://arstechnica.com/science/2020/06/the-f-words-hidden-superpower-repeating-it-can-increase-your-pain-threshold/) (Ars Technica)
+  * [Former NASA astronaut becomes first woman to reach Earth's deepest point](https://www.cnet.com/news/former-nasa-astronaut-becomes-first-woman-to-reach-earths-deepest-point/) (CNET)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+
+
+**Monday, June 08 2020 - The Hottest New Musician in the Bay Area: The Golden Gate Bridge?**
+
+  * [New Zealand Has a 95% Chance of Eliminating Coronavirus](https://nationalinterest.org/blog/reboot/new-zealand-has-95-chance-eliminating-coronavirus-160426) (The National Interest)
+  * [With No Current Cases, New Zealand Lifts Remaining COVID-19 Restrictions](https://www.npr.org/sections/coronavirus-live-updates/2020/06/08/871822321/with-no-current-cases-new-zealand-lifts-remaining-covid-19-restrictions) (NPR)
+  * [Apple's 'synthetic' group selfie patent could be perfect for social distancing](https://mashable.com/article/apple-synthetic-group-selfies/?utm_source=feedly&utm_medium=webfeeds) (Mashable)
+  * [Virtual group selfie with social distancing in Apple patent](https://9to5mac.com/2020/06/08/virtual-group-selfies/) (9to5Mac)
+  * [Order Customized Stamps With Your Own Photos Until June 10](https://lifehacker.com/buy-your-own-customized-stamps-before-june-10-1843950575) (LifeHacker)
+  * [Paleontologists Predict What Future Animals Might Look Like](https://gizmodo.com/paleontologists-predict-what-future-animals-might-look-1843678894) (Gizmodo)
+  * [Why the Golden Gate Bridge Is Now a Giant Orange Wheezing Kazoo](https://www.kqed.org/arts/13881451/the-golden-gate-bridge-sounds-like-a-david-lynch-movie-now) (KQED)
+  * [Golden Gate Bridge, Sound #1](https://twitter.com/markkrueg/status/1269073081231740928?s=20) (Mark Krueger, Twitter)
+  * [Golden Gate Bridge, Sound #2](https://twitter.com/chilibrianno/status/1269136076196601856) (@chilibrianno, Twitter)
+  * [Belgian man has been receiving pizzas he never ordered for years](https://www.brusselstimes.com/all-news/belgium-all-news/114806/belgian-man-has-been-receiving-pizzas-he-never-ordered-for-years/) (Brussels Times)
+
+
+
+**Friday, June 05 2020 - It's National Donut Day! ...But Why?**
+
+  * [New York City reports first day with no confirmed coronavirus deaths since March 11](https://www.cnbc.com/2020/06/05/new-york-city-reports-first-day-with-no-confirmed-coronavirus-deaths-since-march-11.html) (CNBC)
+  * [Lancet, NEJM retract Covid-19 studies that sparked backlash](https://www.statnews.com/2020/06/04/lancet-retracts-major-covid-19-paper-that-raised-safety-concerns-about-malaria-drugs/) (STAT)
+  * [Hydroxychloroquine study retraction shows the problems of speedy science](https://www.theverge.com/2020/6/4/21280738/hydroxychloroquine-retraction-lancet-surgisphere-speed-study) (The Verge)
+  * [New Study Finds Hydroxychloroquine Did Not Prevent Covid-19](https://www.nytimes.com/2020/06/03/health/hydroxychloroquine-coronavirus-trump.html) (NY Times)
+  * [Humans Really Do Want Be Kind to Each Other, Even in The Face of Competing Interests](https://www.sciencealert.com/humans-still-want-to-help-each-other-even-in-the-face-of-competing-interests) (Science Alert)
+  * [10 of the best words in the world (that don't translate into English)](https://www.theguardian.com/world/2018/jul/27/10-of-the-best-words-in-the-world-that-dont-translate-into-english) (The Guardian)
+  * [National Doughnut Day's WWI History](https://www.mentalfloss.com/article/624861/national-doughnut-day-ww1-history) (Mental Floss)
+  * [Free Donut Day | All The Places Offering Free Donuts Today](https://www.buzzfeed.com/michelleno/free-donut-day-krispy-kreme-dunkin) (BuzzFeed)
+  * [Reunited Apart](https://www.youtube.com/channel/UCMCd3u3uQ0DtlDfVU0GlKpQ/featured) (Josh Gad, YouTube)
+  * [Five older women form a Spice Girls' tribute act in the charming and poignant film, Wannabe](https://www.itsnicethat.com/articles/dorothy-allen-pickard-wannabe-film-010620) (It’s Nice That)
+  * [Black Creators / Black History](https://www.youtube.com/playlist?list=PLMs_JcuNozJb9oaX6KT1l_-T7tZuVU_9X) (YouTube)
+
 **Thursday, June 04 2020 - Isaac Newton's Little Known Plague Cure**
 
   * [Approximate Percentage of the Population That Has COVID-19 Antibodies](https://twitter.com/ScottGottliebMD/status/1268191059009581056) (Scott Gottlieb, Twitter)
