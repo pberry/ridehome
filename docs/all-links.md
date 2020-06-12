@@ -2,6 +2,71 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, June 12 2020 - Fri. 06/12 – Why Chris Cox Returning to Facebook is Such A Big Deal**
+
+  * [ Twitter deletes China-linked accounts that spread false information about Hong Kong and Covid-19](https://edition.cnn.com/2020/06/11/tech/twitter-manipulation-account-removal/) (CNN Business)
+  * [ UK competition watchdog launches investigation into Facebook's $400M acquisition of Giphy](https://techcrunch.com/2020/06/12/uk-competition-watchdog-launches-investigation-into-facebooks-400m-acquisition-of-giphy/) (TechCrunch)
+  * [ Chris Cox is returning to Facebook as chief product officer](https://www.theverge.com/2020/6/11/21288127/facebook-chief-product-officer-chris-cox-return-ceo?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Zuckerberg Lieutenant Returns to Facebook, a Year After Departure](https://www.wsj.com/articles/zuckerberg-lieutenant-returns-to-facebook-a-year-after-departure-11591899761?mod=djemalertNEWS) (WSJ)
+  * [ This is the PlayStation 5](https://www.theverge.com/2020/6/11/21212989/ps5-playstation-5-console-announcement-design-hardware-specs-sony?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+
+
+**Thursday, June 11 2020 - Thu. 06/11 – Regulation News Thursday**
+
+  * [Amazon to Face Antitrust Charges From EU Over Treatment of Third-Party Sellers](https://www.wsj.com/articles/amazon-to-face-antitrust-charges-from-eu-over-treatment-of-third-party-sellers-11591871818?mod=djemalertNEWS) (WSJ)
+  * [Amazon bans police use of facial recognition technology for one year](https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html) (CNBC)
+  * [Uber and Lyft drivers are employees, California regulatory agency finds](https://www.nbcnews.com/tech/tech-news/uber-lyft-drivers-are-employees-california-regulatory-agency-finds-n1229616) (NBC News)
+  * [Just Eat Takeaway to Buy Grubhub for $7.3 Billion to Enter U.S.](https://www.bloomberg.com/news/articles/2020-06-10/just-eat-takeaway-to-acquire-grubhub-for-7-3-billion?sref=MzDxCtkS) (Bloomberg)
+  * ['Master' and 'slave': Tech terms face scrutiny amid anti-racism efforts](https://www.cnet.com/news/master-and-slave-tech-terms-face-scrutiny-amid-anti-racism-efforts/) (CNET)
+  * [Adobe launches Photoshop Camera, a free app with tons of elaborate face filters](https://www.theverge.com/2020/6/11/21276924/photoshop-camera-adobe-launch-free-face-filter-app?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [API development platform Postman nabs $150 million at a $2 billion valuation](https://venturebeat.com/2020/06/11/api-development-platform-postman-nabs-150-million-at-a-2-billion-valuation/) (VentureBeat)
+  * [Scoop: Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html) (Axios)
+
+
+
+**Wednesday, June 10 2020 - Wed. 06/10 – Robocallers Face The Music**
+
+  * [ Plundering of crypto keys from ultrasecure SGX sends Intel scrambling again](https://arstechnica.com/information-technology/2020/06/new-exploits-plunder-crypto-keys-and-more-from-intels-ultrasecure-sgx/) (Ars Technica)
+  * [ TSMC on schedule for 3nm Apple 'A16' iPhone and iPad chip in 2022](https://appleinsider.com/articles/20/06/09/tsmc-on-schedule-for-3nm-apple-a16-iphone-and-ipad-chip-in-2022) (Apple Insider)
+  * [ On Apple Announcing the ARM Mac Transition at WWDC This Month](https://daringfireball.net/2020/06/on_apple_announcing_the_mac_arm_transition_at_wwdc) (Daring Fireball)
+  * [ Robocallers face $225M fine from FCC and lawsuits from multiple states](https://techcrunch.com/2020/06/09/robocallers-face-225m-fine-from-fcc-and-lawsuits-from-multiple-states/) (TechCrunch)
+  * [ Reddit names Y Combinator CEO Michael Seibel as Alexis Ohanian’s replacement](https://www.theverge.com/2020/6/10/21285835/reddit-board-replacement-alexis-ohanian-michael-seibel-y-combinator) (The Verge)
+  * [ Just Eat Takeaway.com Nears All-Stock Deal for Grubhub](https://www.wsj.com/articles/just-eat-takeaway-com-nears-all-stock-deal-for-grubhub-11591797653?mod=djemalertNEWS) (WSJ)
+  * [ Zynn, the Hot New Video App, Is Full of Stolen Content](https://www.wired.com/story/zynn-hot-new-video-app-stolen-content/) (Wired)
+  * [ Interactive Storytelling App Whatifi Launches With $10 Million in Funding](https://www.hollywoodreporter.com/news/interactive-storytelling-app-whatifi-launches-10-million-funding-1297628) (The Hollywood Reporter)
+
+
+
+**Tuesday, June 09 2020 - Tue. 06/09 – Apple Could Announce Arm Chips For Macs at WWDC In A Matter Of Days**
+
+  * [ Apple Plans to Announce Move to Its Own Mac Chips at WWDC](https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc?sref=MzDxCtkS) (Bloomberg)
+  * [ IBM is exiting the face recognition business](https://www.axios.com/ibm-is-exiting-the-face-recognition-business-62e79f09-34a2-4f1d-a541-caba112415c6.html) (Axios)
+  * [ New York-Based Wahed Raises $25M For Islamic Investment Platform](https://news.crunchbase.com/news/new-york-based-wahed-raises-25m-for-islamic-investment-platform/) (Crunchbase News)
+  * [ Didi Chuxing CEO says ride sharing orders recover to pre-pandemic levels](https://www.reuters.com/article/us-china-didichuxing/didi-chuxing-ceo-says-ride-sharing-orders-recover-to-pre-pandemic-levels-idUSKBN23F0C4) (Reuters)
+  * [ Get around safely with these new Google Maps features](https://www.blog.google/products/maps/get-around-safely-these-new-google-maps-features/) (The Keyword)
+  * [ INSIDE NEXTDOOR’S ‘KAREN PROBLEM’](https://www.theverge.com/21283993/nextdoor-app-racism-community-moderation-guidance-protests) (The Verge)
+  * [ Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/) (GeekWire)
+
+
+
+**Monday, June 08 2020 - Mon. 06/08 – Airbnb Is Suddenly Seeing More Travel Bookings Than It Did This Time Last Year**
+
+  * [ Airbnb Joins Vacation-Rental Sites Seeing Surge in Demand](https://www.bloomberg.com/news/articles/2020-06-07/airbnb-joins-vacation-rental-sites-seeing-surge-in-summer-demand?sref=MzDxCtkS) (Bloomberg)
+  * [Privacy browser Brave under fire for violating users’ trust](https://decrypt.co/31522/crypto-brave-browser-redirect) (Decrypt)
+  * [ Kids now spend nearly as much time watching TikTok as YouTube in US, UK and Spain](https://techcrunch.com/2020/06/04/kids-now-spend-nearly-as-much-time-watching-tiktok-as-youtube-in-u-s-u-k-and-spain/) (TechCrunch)
+  * [ Apple Preparing Monthly iPad, Mac Payment Plans for Apple Card](https://www.bloomberg.com/news/articles/2020-06-06/apple-to-launch-monthly-ipad-mac-payment-plan-in-coming-weeks?sref=MzDxCtkS) (Bloomberg)
+  * [ Scientists funded by Zuckerberg sent him a letter calling Facebook’s practices ‘antithetical’ to his philanthropic mission](https://www.washingtonpost.com/technology/2020/06/06/chan-zuckerberg-initiative-open-letter-trump/) (Washington Post) 
+
+
+
+**Friday, June 05 2020 - What If Self-Driving Cars Won’t Prevent As Many Accidents As We Hoped?**
+
+  * [ Amazon licenses Slack for all employees, while Slack adopts AWS video-calling tech](https://www.cnbc.com/2020/06/04/amazon-licenses-slack-for-workers-as-slack-adopts-aws-video-call-tech.html) (CNBC)
+  * [Google says Iranian, Chinese hackers targeted Trump, Biden campaigns](https://techcrunch.com/2020/06/04/google-china-iran-trump-biden/) (TechCrunch)
+  * [ Twitter has a record-breaking week as users looked for news of protests and COVID-19](https://techcrunch.com/2020/06/04/twitter-has-a-record-breaking-week-as-users-looked-for-news-of-protests-and-covid-19/) (TechCrunch)
+  * [Study: Autonomous vehicles won’t make roads completely safe](https://apnews.com/33be3ab29cc4ea2f46f027378f423010) (Associated Press)
+
 **Thursday, June 04 2020 - Thu. 06/04 – A Class-Action Lawsuit Around Incognito Mode**
 
   * [Speaking up on racism](https://www.apple.com/speaking-up-on-racism/) (Tim Cook/Apple.com)
