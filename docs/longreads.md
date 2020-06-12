@@ -2,6 +2,20 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, June 12**
+  * [ With Real-Life Games Halted, Betting World Puts Action on E-Sports](https://www.nytimes.com/2020/06/08/sports/coronavirus-esports-sports-betting.html) (NYTimes)
+  * [ Advertisers eye in-game ads as audiences swell in lockdown](https://digiday.com/media/advertisers-eye-in-game-ads-as-audiences-swell-in-lockdown/) (Digiday)
+  * [ This Is How Much More Money Artists Earn From Bandcamp Compared to Streaming Services](https://pitchfork.com/thepitch/how-much-more-money-artists-earn-from-bandcamp-compared-to-spotify-apple-music-youtube/) (Pitchfork)
+  * [The most interesting man at Microsoft](https://www.protocol.com/bret-arensault-microsoft-ciso-profile) (Protocol)
+
+**Friday, June 05**
+  * [ Worst. Deal. Ever.](https://www.forbes.com/sites/noahkirsch/2020/05/27/worst-deal-ever/#32da181b88d1) (Forbes)
+  * [ The Font That Solves The Big Problem With Dark Mode](https://www.forbes.com/sites/barrycollins/2020/05/27/dark-mode-font/#3f2a29db2cd2) (Forbes)
+  * [ Indie history: How shareware helped build Epic Games](https://www.engadget.com/indie-video-games-publishing-epic-id-devolver-apogee-gathering-of-developers-150002664.html) (Engadget)
+  * [ Charli D’Amelio is TikTok’s biggest star. She has no idea why.](https://www.washingtonpost.com/technology/2020/05/26/charli-damelio-tiktok-star/?arc404=true) (Washington Post)
+  * [ From RealPlayer to Toshiba, Tech Companies Cash in on the Facial Recognition Gold Rush](https://onezero.medium.com/amp/p/b40ab3e8f1e2?__twitter_impression=true) (OneZero)
+  * [ Why Is the Human Brain So Efficient?](http://nautil.us/issue/86/energy/why-is-the-human-brain-so-efficient-rp) (Nautilus)
+
 **Friday, May 29**
   * [ Amazon’s Big Breakdown](https://www.nytimes.com/interactive/2020/05/27/magazine/amazon-coronavirus.html) (NYTimes)
   * [ Remember the MOOCs? After Near-Death, They’re Booming](https://www.nytimes.com/2020/05/26/technology/moocs-online-learning.html) (NYTimes)
