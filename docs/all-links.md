@@ -2,6 +2,50 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+
+**Thursday, June 18 2020 - Thu. 06/18 – Audio Comes To Tweets**
+
+  * [ Apple Rejects Facebook’s Gaming App, for at Least the Fifth Time](https://www.nytimes.com/2020/06/18/technology/apple-ios-facebook-gaming-app.html) (NYTimes)
+  * [ Twitter starts rolling out audio tweets on iOS](https://www.theverge.com/2020/6/17/21294481/twitter-audio-tweets-now-available-iphone-ios?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [UK virus-tracing app switches to Apple-Google model](https://www.bbc.com/news/technology-53095336) (BBC News)
+  * [ Zoom to Offer All Users Full Encryption, Bending to Pressure](https://www.bloomberg.com/news/articles/2020-06-17/zoom-to-offer-free-users-full-encryption-bending-to-pressure?sref=MzDxCtkS) (Bloomberg)
+  * [ Exclusive: DoorDash valued at $16 billion after new funding round](https://www.axios.com/doordash-funding-16-billion-valuation-coronavirus-96842ef2-8be3-4d9b-8d87-b2d2b85d65b9.html) (Axios)
+  * [ India's Reliance Jio Platforms to sell $1.5 billion stake to Saudi Arabia's Public Investment Fund](https://techcrunch.com/2020/06/18/indias-reliance-jio-platforms-sells-1-5-billion-stake-to-the-public-investment-fund/) (TechCrunch)
+  * [Wirecard says €1.9bn of cash is missing](https://www.ft.com/content/1e753e2b-f576-4f32-aa19-d240be26e773) (Financial Times)
+  * [ 6 eBay Executives And Employees Charged With Sending Threats, Bloody Pig Mask To Natick Couple](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/) (WBZ Boston)
+  * [ Former eBay Execs Allegedly Made Life Hell for Critics](https://www.wired.com/story/ebay-employees-charged-cyberstalking-harassment-campaign/) (Wired)
+
+**Wednesday, June 17 2020 - Wed. 06/17 – HEY! The Whole Brouhaha Between Apple And Basecamp**
+
+  * [A new email startup says Apple’s shaking it down for a cut of its subscriptions](https://www.protocol.com/hey-email-app-store-rejection) (Protocol)
+  * [ BASECAMP’S NEW APP, HEY, FLAGGED IN APP STORE LIMBO FOR NOT USING IN-APP PURCHASE](https://daringfireball.net/linked/2020/06/16/hey-iap-app-store-dispute) (Daring Fireball)
+  * [ Hey.com exec says Apple is acting like ‘gangsters,’ rejecting App Store updates and demanding cut of sales](https://www.theverge.com/2020/6/16/21293419/hey-apple-rejection-ios-app-store-dhh-gangsters-antitrust?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Apple’s App Store policies are bad, but its interpretation and enforcement are worse](https://www.theverge.com/2020/6/17/21293813/apple-app-store-policies-hey-30-percent-developers-the-trial-by-franz-kafka?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Mark Zuckerberg: Historic Facebook campaign will boost voter registration, turnout and voices](https://www.usatoday.com/story/opinion/2020/06/17/facebook-voter-campaign-strengthen-democracy-mark-zuckerberg-column/3191152001/?scrolla=5eb6d68b7fedc32c19ef33b4) (USA Today)
+  * [ Uber to Sell Software, Starting With Four-Van Transit Service](https://www.bloomberg.com/news/articles/2020-06-17/uber-to-sell-software-starting-with-four-van-transit-service?sref=MzDxCtkS) (Bloomberg)
+  * [ TikTok owner ByteDance first-quarter revenue soared to around $5.6 billion](https://www.reuters.com/article/us-bytedance-results/tiktok-owner-bytedance-first-quarter-revenue-soared-to-around-5-6-billion-sources-idUSKBN23O114) (Reuters)
+  * [Unbounce raises $38.4M to build better landing pages with automation](https://techcrunch.com/2020/06/17/unbounce-funding/) (TechCrunch)
+
+**Tuesday, June 16 2020 - Tue. 06/16 – Apple’s Turn in The EU Antitrust Toolshed**
+
+*  [EU opens Apple antitrust investigations into App Store and Apple Pay practices](https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay?scrolla=5eb6d68b7fedc32c19ef33b4)  (The Verge)
+*  [Apple says its App Store facilitated $519B in commerce in 2019](https://techcrunch.com/2020/06/15/as-antitrust-investigation-looms-apple-says-its-app-store-facilitated-519b-in-commerce-in-2019/)  (TechCrunch)
+*  [Instagram ‘will overtake Twitter as a news source’](https://www.bbc.com/news/technology-53050959)  (BBC News)
+*  [Basecamp’s founders are trying to start an email rebellion](https://www.protocol.com/hey-email)  (Protocol)
+*  [Hey YouTube WalkThrough](https://www.youtube.com/watch?v=UCeYTysLyGI) 
+*  [Dropbox officially launches its own password manager and a secure vault for your files](https://www.theverge.com/2020/6/16/21290101/dropbox-passwords-manager-vault-computer-backup-hellosign-app-center?scrolla=5eb6d68b7fedc32c19ef33b4)  (The Verge)
+*  [Boston Dynamics will now sell any business its own Spot robot for $74,500](https://www.theverge.com/21292684/boston-dynamics-spot-robot-on-sale-price?scrolla=5eb6d68b7fedc32c19ef33b4)  (The Verge)
+
+**Monday, June 15 2020 - Mon. 06/15 – People Are Actually MORE Honest On Their Cellphones**
+
+  * [Apple launches new 0% Apple Card financing for iPad, Mac, AirPods, and more](https://9to5mac.com/2020/06/15/apple-card-financing-ipad-mac/) (9to5Mac)
+  * [ Shopify Advances After Deal With Walmart Expands Its Reach](https://www.bloomberg.com/news/articles/2020-06-15/walmart-partners-with-shopify-to-expand-web-marketplace-business?sref=MzDxCtkS) (Bloomberg)
+  * [ Amazon Says Jeff Bezos Is Willing to Testify Before Congress](https://www.nytimes.com/2020/06/15/technology/amazon-jeff-bezos-congress.html) (NYTimes)
+  * [ Why People Are More Honest When Writing on Their Smartphones](https://www.wsj.com/articles/why-people-are-more-honest-when-writing-on-their-smartphones-11591999279?mod=djemalertNEWS) (WSJ)
+  * [ Coronavirus contact tracing apps were tech's chance to step up. They haven't.](https://www.nbcnews.com/tech/tech-news/coronavirus-contact-tracing-apps-were-tech-s-chance-step-they-n1230211) (NBC News)
+  * [ Jeffrey Katzenberg and Meg Whitman Struggle With Their Startup—and Each Other](https://www.wsj.com/articles/quibi-katzenberg-whitman-streaming-startup-11592157291?mod=djemalertNEWS) (WSJ)
+  * [ SoftBank invests in Credit Suisse funds that finance its technology bets](https://www.ft.com/content/6995af3b-5f66-4e1b-9143-1e9daccfc9b4?shareType=nongift) (Financial Times)
+
 **Friday, June 12 2020 - Fri. 06/12 – Why Chris Cox Returning to Facebook is Such A Big Deal**
 
   * [ Twitter deletes China-linked accounts that spread false information about Hong Kong and Covid-19](https://edition.cnn.com/2020/06/11/tech/twitter-manipulation-account-removal/) (CNN Business)
