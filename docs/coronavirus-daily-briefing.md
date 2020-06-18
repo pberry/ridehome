@@ -1,5 +1,61 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Thursday, June 18 2020 - The Segway Inventor Plans to Mass Produce Human Organs**
+
+  * [Inside the Push to Make Juneteenth a National Holiday](https://time.com/5853800/juneteenth-national-holiday/) (TIME)
+  * [Here are the companies observing Juneteenth this year](https://www.cnbc.com/2020/06/17/here-are-the-companies-observing-juneteenth-this-year.html) (CNBC)
+  * [NY, Virginia to make Juneteenth official state holiday](https://www.aljazeera.com/news/2020/06/virginia-juneteenth-holiday-confederate-statues-fall-200617123420641.html) (Al Jazeera)
+  * [The Segway Inventor's New Dream: Mass-Produced Human Organs](https://gizmodo.com/the-segways-inventor-wants-to-mass-produce-human-organs-1844067165) (Gizmodo)
+  * [The Segway's Inventor Has a New Project: Manufacturing Human Organs](https://onezero.medium.com/the-segways-inventor-has-a-new-project-manufacturing-human-organs-7a6a2da7c8f4) (One Zero)
+  * [Genius productivity hack: Tell yourself it's a horrible task](https://www.fastcompany.com/90513222/genius-productivity-hack-tell-yourself-its-a-horrible-hellacious-excruciating-task) (Fast Company)
+  * [How to Motivate Yourself to Do Something Difficult](https://lifehacker.com/how-to-motivate-yourself-to-do-something-difficult-1843966311) (LifeHacker)
+  * [Rick Astley Gets Rickrolled](https://www.neatorama.com/2020/06/17/Rick-Astley-Gets-Rickrolled/) (Neatorama) 
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+**Wednesday, June 17 2020 - How Poop Can Prevent COVID-19 Outbreaks**
+
+  * [The Statue of Liberty was created to celebrate freed slaves, not immigrants, its new museum recounts](https://www.washingtonpost.com/history/2019/05/23/statue-liberty-was-created-celebrate-freed-slaves-not-immigrants/) (Washington Post)
+  * [New Statue of Liberty Museum Illuminates a Forgotten History](https://www.nytimes.com/2019/05/15/arts/design/statue-of-liberty-museum.html) (New York Times)
+  * [Cities are using sewer systems as COVID-19 early warning signs](https://www.theverge.com/21283825/sewer-systems-coronavirus-seawge-data-warning-signs-cities) (The Verge)
+  * [Testing sewage for the coronavirus seemed to work. It detected the outbreak in Cache County.](https://www.sltrib.com/news/environment/2020/06/11/testing-sewage/) (Salt Lake Tribune)
+  * [The 'Boccaccio Project' Is Capturing the Music of Quarantine](https://www.atlasobscura.com/articles/boccaccio-project) (Atlas Obscura)
+  * [The Boccaccio Project](https://www.loc.gov/concerts/boccaccio-project/) (Library of Congress)
+  * [Video camera stolen 20 years ago returned in pristine condition with tape still inside](https://www.abc.net.au/news/2020-06-13/video-camera-returned-two-decades-after-theft-with-tape-inside/12343992) (ABC News)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+**Tuesday, June 16 2020 - The 411 on Dexamethasone: A New COVID-19 Treatment?**
+
+  * [Scientists hail dexamethasone as 'major breakthrough' in treating COVID-19](https://www.reuters.com/article/us-health-coronavirus-steroid/scientists-hail-dexamethasone-as-major-breakthrough-in-treating-covid-19-idUSKBN23N1VP?utm_source=reddit.com) (Reuters)
+  * [A Half-Century On, an Unexpected Milestone for L.G.B.T.Q. Rights](https://www.nytimes.com/2020/06/15/us/politics/supreme-court-lgbtq-rights.html?action=click&module=RelatedLinks&pgtype=Article) (NY Times)
+  * [ _The Stonewall Reader_](https://bookshop.org/books/the-stonewall-reader/9780143133513) (New York Public Library)
+  * [The Da Vinci of Fast-Food: The One Guy Behind a Huge Number of Staple Fast-Food Items Everyone Loves](http://www.todayifoundout.com/index.php/2020/06/the-da-vinci-of-fast-food-the-one-guy-behind-a-huge-number-of-staple-fast-food-items-everyone-loves/) (Today I Found Out)
+  * [Why People Are More Honest When Writing on Their Smartphones](https://www.wsj.com/articles/why-people-are-more-honest-when-writing-on-their-smartphones-11591999279) (Wall Street Journal)
+  * [Taiwan airport offers 'pretend to go abroad' airport tours amid Covid-19 pandemic](https://www.cnn.com/travel/article/taipei-songshan-airport-coronavirus-intl-hnk/index.html) (CNN)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+**Monday, June 15 2020 - New Pandemic Solution: Just Print Your Own Money**
+
+  * [A Kentucky tattoo shop is offering to cover up hate and gang symbols for free](https://www.cnn.com/2020/06/14/us/tattoo-shop-hate-gang-symbol-cover-up-kentucky-trnd/index.html) (CNN)
+  * [Erasing Hate (Trailer)](https://www.youtube.com/watch?v=YA1MJWIhJTA) (YouTube)
+  * [Why a small town in Washington is printing its own currency during the pandemic](https://thehustle.co/covid19-local-currency-tenino-washington/) (The Hustle) 
+  * [Wooden Money Press, Tenino, Washington](https://www.youtube.com/watch?v=Rh7eUT2AF5E) (David Paul, YouTube)
+  * [Heroes tend to downplay their actions and new psychology research might explain why](https://www.psypost.org/2020/05/heroes-tend-to-downplay-their-actions-and-new-psychology-research-might-explain-why-56718) (PsyPost) 
+  * [Meet the dads who can’t quit pinewood derby racing—even after their kids are over it](https://www.popsci.com/story/technology/pinewood-derby-grows-up/) (PopSci)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+**Friday, June 12 2020 - CGI Crowds & Virtual Barbers: Our New Normal**
+
+  * [Spanish soccer returns with computer-generated crowds, and it actually works](https://www.theverge.com/2020/6/12/21288963/la-liga-fake-crowd-noise-betis-sevilla) (The Verge)
+  * [Artificial crowd noise available to UK viewers after use in Bundesliga](https://www.bbc.com/sport/football/52950715) (BBC)
+  * [How to Cut Your Hair in Quarantine: Here's What I Did](https://nickgray.net/quarancut/) (Nick Gray)
+  * [You Probably Need a Haircut](https://www.youprobablyneedahaircut.com/)
+  * [Scientists Have Discovered Vast Unidentified Structures Deep Inside the Earth](https://www.vice.com/en_uk/article/ep4zvw/scientists-have-discovered-vast-mysterious-structures-deep-inside-the-earth) (Vice)
+  * [To Work Out Like a Knight, Try Donning Armor and Extolling Virtue](https://www.atlasobscura.com/articles/work-out-like-a-knight) (Atlas Obscura)
+  * [Astronaut.io](http://astronaut.io/)
+  * [Jurassic Park: Low-budget Remake](https://www.youtube.com/watch?v=xcVjVA-C5-c) (Cardboard Movie Co., YouTube)
+  * [This Low-Budget Cardboard Reproduction Of 'Alien' Is Pure Gory Genius](https://digg.com/video/alien-cardboard-reproduction) (Digg)
+  * [Saxophonist Cleverly Plays Into Giant Piece of Pipeline to Accompany Himself With an Echo in Perfect Pitch](https://laughingsquid.com/saxophonist-play-into-pipeline/) (Neatorama)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
 
 **Thursday, June 11 2020 - How To Safely Hug Someone Again**
 
