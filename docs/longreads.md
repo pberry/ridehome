@@ -2,6 +2,15 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, June 19**
+  * [ Why venture capital doesn’t build the things we really need](https://www.technologyreview.com/2020/06/17/1003318/why-venture-capital-doesnt-build-the-things-we-really-need/) (MIT Technology Review)
+  * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/) (Craigmod.com)
+  * [The Grandmaster Who Got Twitch Hooked on Chess](https://www.wired.com/story/hikaru-nakamura-twitch-chess/) (Wired)
+  * [healthOS](https://divinations.substack.com/p/healthos) (Divinations newsletter)
+  * [ The Segway’s Inventor Has a New Project: Manufacturing Human Organs](https://onezero.medium.com/amp/p/7a6a2da7c8f4?__twitter_impression=true) (OneZero)
+  * [ We spent a fortune on police body cams. Why haven’t they fixed policing?](https://www.fastcompany.com/90514774/we-spent-a-fortune-on-police-body-cams-why-havent-they-fixed-policing) (Fast Company)
+  * [ What to expect from Apple's WWDC 2020](https://techcrunch.com/2020/06/18/what-to-expect-from-apples-wwdc-2020/) (TechCrunch)
+
 **Friday, June 12**
   * [ With Real-Life Games Halted, Betting World Puts Action on E-Sports](https://www.nytimes.com/2020/06/08/sports/coronavirus-esports-sports-betting.html) (NYTimes)
   * [ Advertisers eye in-game ads as audiences swell in lockdown](https://digiday.com/media/advertisers-eye-in-game-ads-as-audiences-swell-in-lockdown/) (Digiday)
