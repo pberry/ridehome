@@ -2,6 +2,22 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, June 22 2020 - 06/22 – WWDC 2020 (Virtually)**
+
+  * [Apple approves Hey email app, but the fight’s not over](https://www.theverge.com/2020/6/22/21298552/apple-hey-email-app-approval-rules-basecamp-launch?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [TikTok Teens and K-Pop Stans Say They Sank Trump Rally](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html) (NYTimes)
+  * [Google's U.S. Ad Revenue Is Expected to Decline in 2020, eMarketer Says](https://www.wsj.com/articles/google-s-u-s-ad-revenue-is-expected-to-decline-in-2020-emarketer-says-11592830801?mod=djemalertNEWS) (WSJ)
+  * [Nintendo Chills Mobile Ambitions After Animal Crossing Success](https://www.bloomberg.com/news/articles/2020-06-21/nintendo-chills-mobile-ambitions-after-animal-crossing-success?sref=MzDxCtkS) (Bloomberg)
+
+**Friday, June 19 2020 - Fri. 06/19 – It’s Gonna Be An Interesting WWDC…**
+
+  * [ Interview: Apple's Schiller says position on Hey App is unchanged and no rules changes are imminent](https://techcrunch.com/2020/06/18/interview-apples-schiller-says-position-on-hey-app-is-unchanged-and-no-rules-changes-are-imminent/) (TechCrunch)
+  * [ Apple’s Secretive AR and VR Headset Plans Altered by Internal Differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses?sref=MzDxCtkS) (Bloomberg Businessweek)
+  * [ Exclusive: Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO) (Reuters)
+  * [ Facebook Removes Trump Ads With Symbol Used By Nazis. Campaign Calls It An 'Emoji'](https://www.npr.org/2020/06/18/880377872/facebook-removes-trump-political-ads-with-nazi-symbol-campaign-calls-it-an-emoji) (NPR)
+  * [Wirecard chief quits as crisis deepens](https://www.ft.com/content/120a27bf-ae35-4aae-b220-54a2eff3a9e5) (Financial Times)
+  * [ Japanese insurer Sompo investing $500 million in data analytics firm Palantir](https://www.reuters.com/article/us-palantir-funding/japanese-insurer-sompo-investing-500-million-in-data-analytics-firm-palantir-idUSKBN23P3R0) (Reuters)
+  * [ Twitch’s Streaming Boom Is Jolting the Music Industry](https://www.bloomberg.com/news/articles/2020-06-18/twitch-s-streaming-boom-is-jolting-the-music-industry?sref=MzDxCtkS) (Bloomberg)
 
 **Thursday, June 18 2020 - Thu. 06/18 – Audio Comes To Tweets**
 
