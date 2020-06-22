@@ -1,5 +1,29 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Monday, June 22 2020 - Send Your Cardboard Avatar To a Football Game**
+
+  * [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567) (BBC)
+  * [What Makes Some People More Resilient Than Others](https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html) (NY Times)
+  * [Why sports stadiums are suddenly full of cardboard fans](https://thehustle.co/why-sports-stadiums-are-suddenly-full-of-cardboard-fans/) (The Hustle)
+  * [Apply for a Job That Pays $10K to Keep Track of Toilet Habits](https://lifehacker.com/apply-for-a-job-that-pays-10k-to-keep-track-of-your-to-1844101973) (LifeHacker)
+  * [VP of Fecal Matters](https://hellotushy.com/pages/bidet-2020-job-posting) (Tushy)
+  * Trade Me Project on TikTok, [tiktok.com/@trademeproject](http://tiktok.com/@trademeproject)
+  * Trade Me Project on Instagram, [instagram.com/trademeproject](https://www.instagram.com/trademeproject/)
+
+**Friday, June 19 2020 - Space Cake: The Future of Astronaut Food**
+
+  * [Father's Day Facts](https://www.mentalfloss.com/article/501810/12-things-you-probably-dont-know-about-fathers-day) (Mental Floss)
+  * [How 9 Countries Celebrate Father's Day](https://www.mentalfloss.com/article/51122/how-9-countries-celebrate-fathers-day) (Mental Floss)
+  * [Father's Day 2020: When Is Father's Day?](https://www.almanac.com/content/when-fathers-day) (The Old Farmer’s Almanac)
+  * [How to Make it Through Father's Day If It's Difficult For You](https://lifehacker.com/how-to-make-it-through-fathers-day-if-its-difficult-for-1844082621) (LifeHacker)
+  * [The Significance of Baking Cookies in Space](https://www.supercluster.com/editorial/satisfying-our-deepest-food-desires-in-space) (Super Cluster)
+  * [The first cookies baked in space are back on Earth!](https://www.space.com/first-space-cookies-zero-g-oven-on-earth.html) (Space.Com)
+  * [YouTuber creates fake Nirvana song using artificial intelligence](https://www.nme.com/news/music/youtuber-creates-fake-nirvana-song-using-artificial-intelligence-2690860) (NME)
+  * [Livestream of Wonderful Library Themed Bird Feeder](https://laughingsquid.com/bird-library-bird-feeder/) (Laughing Squid)
+  * [How the Apple Watch Ejects Water in Slow Mo](https://youtu.be/EIEwy8rPik4) (The Slow Mo Guys, YouTube) 
+  * [Marble League 2020 Qualifiers (ML2020)](https://www.youtube.com/watch?v=OoELkuqx8Ug) (Jelle’s Marble Runs, YouTube)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
 **Thursday, June 18 2020 - The Segway Inventor Plans to Mass Produce Human Organs**
 
   * [Inside the Push to Make Juneteenth a National Holiday](https://time.com/5853800/juneteenth-national-holiday/) (TIME)
