@@ -2,6 +2,27 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, June 24 2020 - Wed. 06/24 – Oculus Go and Olympus (and Force Touch?) Go Bye Bye**
+
+  * [ Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments?sref=MzDxCtkS) (Bloomberg)
+  * [ Ad Boycott of Facebook Keeps Growing](https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html) (NYTimes)
+  * [Facebook To Stop Selling Oculus Go, Vows No More 3DOF Headsets](https://uploadvr.com/oculus-go-gone/) (UploadVR)
+  * [ Olympus to Exit Camera Business After 84 Years](https://www.wsj.com/articles/olympus-to-exit-camera-business-after-84-years-11592996861?mod=djemalertNEWS) (WSJ)
+  * [ watchOS 7 drops Force Touch support, likely ahead of Apple Watch Series 6 hardware changes](https://9to5mac.com/2020/06/23/apple-watch-force-touch-watchos-7/) (9to5Mac)
+  * [ Wrongfully Accused by an Algorithm](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html) (NYTimes)
+  * [ Over 1,000 AI Experts Condemn Racist Algorithms That Claim to Predict Crime](https://www.vice.com/en_us/article/889xyb/over-1000-ai-experts-condemn-racist-algorithms-that-claim-to-predict-crime) (Motherboard)
+
+**Tuesday, June 23 2020 - Tue. 06/23 – Zoom is No Longer The King of the Work-From-Home Era**
+
+  * [ Wirecard’s Former CEO Markus Braun Is Arrested](https://www.wsj.com/articles/wirecards-former-ceo-markus-braun-is-arrested-11592901759?mod=djemalertNEWS) (WSJ)
+  * [ Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Japanese Supercomputer Is Crowned World’s Speediest](https://www.nytimes.com/2020/06/22/technology/japanese-supercomputer-fugaku-tops-american-chinese-machines.html) (The Verge)
+  * [ Zoom is no longer the best-performing work-from-home stock](https://www.cnbc.com/2020/06/22/zoom-is-no-longer-the-best-performing-work-from-home-stock.html) (CNBC)
+  * [ China launches its final satellite to complete its rival to the US-owned GPS system](https://www.cnbc.com/2020/06/23/beidou-china-completes-rival-to-the-us-owned-gps-system.html) (CNBC)
+  * [ Apple update to allow iPhone users to choose default apps](https://www.theguardian.com/technology/2020/jun/23/apple-update-iphone-default-apps-update-gmail-firefox) (The Guardian)
+  * [ Thoughts on WWDC 2020 Day One](https://sixcolors.com/post/2020/06/thoughts-on-wwdc-2020-day-one/) (Six Colors)
+  * [ The iPadification of the Mac is coming, no touchscreen required](https://www.theverge.com/2020/6/23/21299992/macos-big-sur-ipados-14-catalyst-native-apps-ux?utm_campaign=backlon&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
 **Monday, June 22 2020 - 06/22 – WWDC 2020 (Virtually)**
 
   * [Apple approves Hey email app, but the fight’s not over](https://www.theverge.com/2020/6/22/21298552/apple-hey-email-app-approval-rules-basecamp-launch?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
