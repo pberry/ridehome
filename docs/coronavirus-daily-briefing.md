@@ -1,5 +1,22 @@
 _Find links to the podcast and individual pods at [RideHome](https://www.ridehome.info/podcast/coronavirus-daily-briefing/)_
 
+**Wednesday, June 24 2020 - Mental Health Tips for Reopening Post-Lockdown**
+
+  * [Game-Changing New Smart Sponge Soaks Up Oil Spills, Saving Water And Wildlife](https://www.forbes.com/sites/scottsnowden/2020/06/21/game-changing-new-smart-sponge-soaks-up-oil-spills-saving-water-and-wildlife/#719f94415278) (Forbes)
+  * [How to Mentally Prepare for Reopening](https://lifehacker.com/how-to-mentally-prepare-for-re-opening-1843678323) (LifeHacker)
+  * [Make your own bee bed, a bed inside a beehive](https://geekologie.com/2020/06/make-your-own-bee-bed-a-bed-inside-a-bee.php) (Geekologie)
+  * [Barcelona opera house plays to thousands of plants](https://edition.cnn.com/style/article/barcelona-opera-plants-scli-intl/index.html?utm_term=image&utm_medium=social&utm_source=twCNN&utm_content=2020-06-23T15%3A00%3A06) (CNN)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
+**Tuesday, June 23 2020 - Get Ready To Go To Flavortown, Ohio**
+
+  * [There's No Cure for Covid-19 Loneliness, but Robots Can Help](https://www.wired.com/story/covid-19-robot-companions/) (Wired)
+  * [The French City Where a Midday Firework Marks the Start of Lunch](https://www.atlasobscura.com/articles/daily-firework-in-nice-france) (Atlas Obscura)
+  * [Why are there fireworks every night, explained](https://www.vox.com/the-goods/2020/6/22/21298912/firework-complaints-northeastern-cities) (Vox)
+  * [‘Jurassic Park’ Roars To No. 1 Again At Weekend Box Office, 27 Years After Original Release](https://deadline.com/2020/06/weekend-box-office-coroanvirus-cinemark-jurassic-park-trolls-world-tour-jaws-1202966822/) (Deadline)
+  * [People are petitioning for Columbus, Ohio to be renamed 'Flavortown'](https://mashable.com/article/columbus-ohio-flavortown-petition-guy-fieri/) (Mashable)
+  * [Jackson Bird on Twitter](http://twitter.com/jackisnotabird)
+
 **Monday, June 22 2020 - Send Your Cardboard Avatar To a Football Game**
 
   * [Stonehenge: Neolithic monument found near sacred site](https://www.bbc.com/news/uk-england-wiltshire-53132567) (BBC)
