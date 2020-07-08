@@ -2,6 +2,86 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Tuesday, July 07 2020 - Tue. 07/07 – Will The US Government Ban TikTok?**
+
+  * [ TikTok to pull out of Hong Kong](https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html) (Axios)
+  * [ U.S. is ‘looking at’ banning TikTok and Chinese social media apps, Pompeo says](https://www.cnbc.com/2020/07/07/us-looking-at-banning-tiktok-and-chinese-social-media-apps-pompeo.html) (CNBC)
+  * [India’s TikTok shutdown has left careers and fortunes in tatters](https://www.wired.co.uk/article/tiktok-india-ban) (Wired)
+  * [ Secretive data startup Palantir has confidentially filed for an IPO](https://techcrunch.com/2020/07/06/secretive-data-startup-palantir-has-confidentially-filed-for-an-ipo/) (TechCrunch)
+  * [ Palantir Technologies Files to Go Public](https://www.nytimes.com/2020/07/06/technology/palantir-technologies-ipo.html) (NYTimes)
+  * [ Fraunhofer’s VVC promises to reduce video file sizes by 50% to improve mobile network efficiency](https://venturebeat.com/2020/07/06/fraunhofers-vvc-promises-to-reduce-video-file-sizes-by-50-to-improve-mobile-network-efficiency/) (VentureBeat)
+  * [ 73\. "Father" of the MP3, Karlheinz Brandenburg](https://podcasts.apple.com/us/podcast/73-father-of-the-mp3-karlheinz-brandenburg/id829119009?i=1000347011384) (Internet History Podcast)
+  * [ U.S. tech chiefs to testify before House antitrust panel on July 27: committee](https://uk.reuters.com/article/us-usa-tech-congress/u-s-tech-chiefs-to-testify-before-house-antitrust-panel-on-july-27-committee-idUKKBN24730A) (Reuters)
+  * [ A Bird? A Plane? No, It’s a Google Balloon Beaming the Internet](https://www.nytimes.com/2020/07/07/world/africa/google-loon-balloon-kenya.html) (NYTimes)
+
+**Monday, July 06 2020 - Mon. 07/06 – Uber Buys Postmates**
+
+  * [ Uber agrees to buy food-delivery service Postmates for $2.65 billion in stock](https://www.cnbc.com/2020/07/06/uber-buys-postmates-food-delivery-service.html) (CNBC)
+  * [ Uber acquires meal delivery service Postmates for $2.65 billion](https://www.theverge.com/2020/7/6/21312447/uber-postmates-acquisition-announced-food-delivery?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+  * [ Facebook, WhatsApp, Twitter Suspend Review of Hong Kong Requests for User Data](https://www.wsj.com/articles/whatsapp-to-suspend-processing-law-enforcement-requests-for-user-data-in-hong-kong-11594034580?mod=djemalertNEWS) (WSJ)
+  * [ Microsoft announces Xbox Series X games event for July 23rd](https://www.theverge.com/2020/7/6/21302523/microsoft-xbox-series-x-games-event-stream-date) (The Verge)
+  * [ iOS 14: iCloud Keychain now alerts users about leaked passwords, more](https://9to5mac.com/2020/07/04/ios-14-icloud-keychain-now-alerts-users-about-leaked-passwords-more/) (9to5Mac)
+  * [ Can an Algorithm Predict the Pandemic’s Next Moves?](https://www.nytimes.com/2020/07/02/health/santillana-coronavirus-model-forecast.html) (NYTimes)
+  * [ Florida becomes first state to enact DNA privacy law, blocking insurers from genetic data](https://www.washingtonexaminer.com/politics/florida-becomes-first-state-to-enact-dna-privacy-law-blocking-insurers-from-genetic-data) (Washington Examiner)
+  * [ SONY’S WEARABLE, POCKET-SIZED AIR CONDITIONER IS FINALLY AVAILABLE FOR SALE!](https://www.yankodesign.com/2020/07/06/sonys-wearable-pocket-sized-air-conditioner-is-finally-available-for-sale/) (Yanko Design)
+
+**Thursday, July 02 2020 - Thu. 07/02 – ALL of Silicon Valley (kinda) Has A Date With Washington**
+
+  * [ Zuckerberg Tells Facebook Staff He Expects Advertisers to Return ‘Soon Enough’](https://www.theinformation.com/articles/zuckerberg-tells-facebook-staff-he-expects-advertisers-to-return-soon-enough) (The Information)
+  * [ Apple CEO Tim Cook agrees to testify in House antitrust investigation](https://appleinsider.com/articles/20/07/01/apple-ceo-tim-cook-agrees-to-testify-in-house-antitrust-investigation) (Apple Insider)
+  * [ Facebook is shutting down Lasso, its TikTok clone](https://techcrunch.com/2020/07/01/lasso-facebook-tiktok-shut-down/) (TechCrunch)
+  * [ How Police Secretly Took Over a Global Phone Network for Organized Crime](https://www.vice.com/en_us/article/3aza95/how-police-took-over-encrochat-hacked) (Motherboard)
+
+**Wednesday, July 01 2020 - Wed. 07/01 – YouTube TV Has Recreated The TV Bundle At Essentially The Same Price Point**
+
+  * [ Facebook frustrates advertisers as boycott over hate speech kicks off](https://www.reuters.com/article/us-facebook-ads-boycott/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off-idUSKBN2424GS) (Reuters)
+  * [Third of top brands likely to suspend social media spending, survey finds](https://www.ft.com/content/aa723316-67e6-41a3-9f37-e9c6b8855edb) (Financial Times)
+  * [ Spotify brings its Premium Duo plan to the US, UK and dozens more countries (updated)](https://www.engadget.com/spotify-premium-duo-streaming-plan-us-pricing-details-100016592.html) (Engadget)
+  * [ YouTube TV hikes price to $64.99 per month following new channel additions](https://techcrunch.com/2020/06/30/youtube-tv-hikes-price-to-64-99-per-month-following-new-channel-additions/) (TechCrunch)
+  * [ Apple races to push ahead with 5G iPhone mass production](https://asia.nikkei.com/Business/Technology/Apple-races-to-push-ahead-with-5G-iPhone-mass-production) (Nikkei Asian Review)
+  * [ Apple Cancels Some Arcade Games in Strategy Shift To Keep Subscribers](https://www.bloomberg.com/news/articles/2020-06-30/apple-cancels-arcade-games-in-strategy-shift-to-keep-subscribers?sref=MzDxCtkS) (Bloomberg)
+  * [ Google Pushes Back U.S. Office Reopening Plan After Virus Surge](https://www.bloomberg.com/news/articles/2020-07-01/google-pushes-back-u-s-office-reopening-plan-after-virus-surge?sref=MzDxCtkS) (Bloomberg)
+  * [ Twitch breaks records again in Q2, topping 5B total hours watched](https://techcrunch.com/2020/07/01/twitch-breaks-records-again-in-q2-topping-5b-total-hours-watched/) (TechCrunch)
+
+**Tuesday, June 30 2020 - Tue. 06/30 – Amazon Prime Video Launches Watch Party**
+
+  * [ Lululemon set to acquire home fitness startup Mirror for $500M](https://techcrunch.com/2020/06/29/lululemon-set-to-acquire-home-fitness-startup-mirror-for-500m/) (TechCrunch)
+  * [ Uber in Talks to Buy Postmates for About $2.6 Billion](https://www.wsj.com/articles/uber-in-talks-to-buy-postmates-for-about-2-6-billion-11593487498?mod=hp_lead_pos2) (WSJ)
+  * [ Amazon Prime Video introduces 'Watch Party,' a social co-viewing experience included with Prime](https://techcrunch.com/2020/06/29/amazon-prime-video-introduces-watch-party-a-social-coviewing-experience-included-with-prime/) (TechCrunch)
+  * [ Nearby Sharing — Android's AirDrop competitor — is rolling out now in beta](https://www.androidpolice.com/2020/06/30/nearby-sharing-androids-airdrop-competitor-is-rolling-out-now-in-beta/?scrolla=5eb6d68b7fedc32c19ef33b4) (Android Police)
+  * [ CodeGuru, AWS's AI code reviewer and performance profiles, is now generally available](https://techcrunch.com/2020/06/29/codeguru-awss-ai-code-reviewer-and-performance-profiler-is-now-generally-available/) (TechCrunch)
+  * [ Exclusive: Facebook changes algorithm to boost original reporting](https://www.axios.com/facebook-algorithm-original-reporting-e127c8b7-c749-4120-a65e-239b55d18758.html) (Axios)
+  * [ An Infrastructure Arms Race Is Fueling the Future of Gaming](https://www.wired.com/story/cloud-gaming-infrastructure-arms-race/) (Wired)
+
+**Monday, June 29 2020 - Mon. 06/29 – Reddit Bans r/The_Donald and The Facebook Ad Boycott, Explained**
+
+  * [Reddit bans r/The_Donald and r/ChapoTrapHouse as part of a major expansion of its rules](https://www.theverge.com/2020/6/29/21304947/reddit-ban-subreddits-the-donald-chapo-trap-house-new-content-policy-rules) (The Verge)
+  * [Exclusive: Facebook ad boycott campaign to go global, organizers say](https://www.reuters.com/article/us-facebook-ads-boycott-exclusive/exclusive-facebook-ad-boycott-campaign-to-go-global-organizers-say-idUSKBN23Z0O4) (Reuters)
+  * [The hard truth about the Facebook ad boycott: Nothing matters but Zuckerberg](https://edition.cnn.com/2020/06/26/tech/facebook-boycott/) (CNN Business)
+  * [ Kuo: Apple will not include earbuds or charger in iPhone 12 box](https://9to5mac.com/2020/06/28/iphone-12-no-earbuds-power-adapter/) (9to5Mac)
+  * [ Amazon eliminates single-use plastic in packaging in India](https://techcrunch.com/2020/06/29/amazon-eliminates-single-use-plastic-in-packaging-in-india/) (TechCrunch)
+  * [ Govt bans 59 Chinese apps including TikTok as border tensions simmer in Ladakh](https://www.indiatoday.in/india/story/centre-announces-ban-chinese-apps-privacy-issues-1695265-2020-06-29) (India Today)
+  * [ Microsoft’s new Windows File Recovery tool lets you retrieve deleted documents](https://www.theverge.com/21306670/microsoft-windows-file-recovery-tool-app-download-features) (The Verge)
+
+**Friday, June 26 2020 - Amazon Buys Self-Driving Startup Zoox**
+
+  * [Amazon to buy self-driving technology company Zoox](https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html)  (CNBC)
+  * [Microsoft is permanently closing its retail stores](https://www.cnbc.com/2020/06/26/microsoft-to-close-retail-stores.html)  (CNBC)
+  * [Verizon is pulling advertising from Facebook and Instagram](https://www.cnbc.com/2020/06/25/verizon-pulling-advertising-from-facebook-and-instagram.html)  (CNBC)
+  * [TikTok says it will stop accessing clipboard content on iOS devices](https://www.theverge.com/2020/6/26/21304228/tiktok-security-ios-clipboard-access-ios14-beta-feature?scrolla=5eb6d68b7fedc32c19ef33b4)  (The Verge)
+
+**Thursday, June 25 2020 - Thu. 06/25 – Amazon Has A Counterfeit Crimes Unit (Sounds Like An NBC TV Show)**
+
+  * [ 'The money's gone': Wirecard collapses owing $4 billion](https://www.reuters.com/article/us-wirecard-accounts-idUSKBN23W176) (Reuters)
+  * [ Google will start paying publishers to license content](https://www.axios.com/google-will-start-paying-publishers-to-license-content-d05550e5-cc0f-4177-a7db-b085af9157bb.html) (Axios)
+  * [ Google will now auto-delete location and search history by default for new users](https://www.theverge.com/2020/6/24/21301718/google-auto-delete-location-search-history-default-myactivity?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Amazon forms ‘Counterfeit Crimes Unit,’ under pressure to escalate fight against fake products](https://www.geekwire.com/2020/amazon-forms-counterfeit-crimes-unit-pressure-escalate-fight-fake-products/) (GeekWire)
+  * [ Apple Just Crippled IDFA, Sending An $80 Billion Industry Into Upheaval](https://www.forbes.com/sites/johnkoetsier/2020/06/24/apple-just-made-idfa-opt-in-sending-an-80-billion-industry-into-upheaval/#428826c4712c) (Forbes)
+  * [ SoftBank’s Masayoshi Son and Alibaba’s Jack Ma Part Ways](https://www.bloomberg.com/news/articles/2020-06-25/softbank-s-masayoshi-son-steps-down-from-alibaba-s-board?sref=MzDxCtkS) (Bloomberg)
+  * [ Amazon launches cloud service to help non-coders build apps](https://www.cnbc.com/2020/06/24/aws-launches-honeycode-service-for-simple-app-development.html) (CNBC)
+  * [ Hey opens its email service to everyone as Apple approves its app for good](https://www.theverge.com/2020/6/25/21302931/hey-email-service-public-launch-apple-approves-app-fight-policy-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Michael Hawley, Programmer, Professor and Pianist, Dies at 58](https://www.nytimes.com/2020/06/24/technology/michael-hawley-dead.html) (NYTimes)
+
 **Wednesday, June 24 2020 - Wed. 06/24 – Oculus Go and Olympus (and Force Touch?) Go Bye Bye**
 
   * [ Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments?sref=MzDxCtkS) (Bloomberg)
