@@ -2,6 +2,84 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, July 17 2020 - Fri. 07/17 – Is A 21-Year-Old British Hacker Behind The Great Twitter Hijacking?**
+
+  * [ Who’s Behind Wednesday’s Epic Twitter Hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/) (Krebs on Security)
+  * [ 130 high-profile Twitter accounts targeted in hacking attack](https://www.theguardian.com/technology/2020/jul/17/130-high-profile-twitter-accounts-targeted-in-hacking-attack) (The Guardian)
+  * [ Netflix shares fall after earnings miss, weak subscriber guidance for third quarter](https://www.cnbc.com/2020/07/16/netflix-nflx-q2-2020-earnings.html) (CNBC)
+
+**Thursday, July 16 2020 - Thu. 07/16 – The Great Twitter Hijack of 2020**
+
+  * [ Apple, Biden, Musk and other high-profile Twitter accounts hacked in crypto scam](https://techcrunch.com/2020/07/15/twitter-accounts-hacked-crypto-scam/) (TechCrunch)
+  * [A hacker used Twitter’s own ‘admin’ tool to spread cryptocurrency scam](https://techcrunch.com/2020/07/15/twitter-hacker-admin-scam/) (TechCrunch)
+  * [ Hackers Convinced Twitter Employee to Help Them Hijack Accounts](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos) (Motherboard)
+  * [ The Interface](https://www.getrevue.co/profile/caseynewton/issues/a-catastrophe-at-twitter-263960) (Casey Newton)
+  * [ Facebook to label posts about voting from presidential candidates](https://www.axios.com/facebook-label-posts-voting-candidates-officials-trump-ee94d526-4b59-4276-9287-e9b076e7a9cf.html) (Axios)
+  * [ Facebook readies global launch of its TikTok competitor](https://www.nbcnews.com/tech/tech-news/facebook-readies-global-launch-its-tiktok-competitor-n1234013) (NBC News)
+  * [ Amazon Influence Program opens to live streamers for broadcasting Amazon Life](https://techcrunch.com/2020/07/15/amazon-influencer-program-opens-to-livestreamers-for-broadcasting-to-amazon-live/) (TechCrunch)
+  * [How to subscribe to Apple’s free daily news podcast](https://9to5mac.com/2020/07/16/apple-news-today-free/) (9to5Mac)
+
+**Wednesday, July 15 2020 - Wed. 07/15 – Is It Too Early To Start Talking About 6G?**
+
+  * [ Apple Wins Fight Over $14.9 Billion Tax Bill in Blow to EU](https://www.bloomberg.com/news/articles/2020-07-15/apple-wins-eu-court-fight-over-14-9-billion-tax-bill?sref=MzDxCtkS) (Bloomberg)
+  * [ Sony Boosting Output of PlayStation 5 to Meet Surge in Demand](https://www.bloomberg.com/news/articles/2020-07-15/sony-boosting-playstation-5-output-to-meet-virus-demand-surge?sref=MzDxCtkS) (Bloomberg)
+  * [ Google invest $4.5 billion in India's Reliance Jio Platforms](https://techcrunch.com/2020/07/15/google-invests-4-5-billion-in-indias-reliance-jio-platforms/) (TechCrunch)
+  * [ Zoom introduces all-in-one home communications appliance for $599](https://techcrunch.com/2020/07/15/zoom-introduces-all-in-one-home-communications-appliance-for-599/) (TechCrunch)
+  * [ Samsung: Expect 6G in 2028, enabling mobile holograms and digital twins](https://venturebeat.com/2020/07/14/samsung-expect-6g-in-2028-enabling-mobile-holograms-and-digital-twins/) (VentureBeat)
+  * [ Peacock’s interface aims to recreate the feeling of live TV, but it comes up short](https://www.theverge.com/21321482/peacock-hands-on-app-mobile-tv-channels-browse-trending-nbcuniversal-streaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Peacock is live: Prices, free trials, devices, shows and movies](https://www.cnet.com/news/peacock-nbc-prices-discounts-free-trial-devices-shows-movies-roku-android-fire-tv/) (CNET)
+
+**Tuesday, July 14 2020 - Tue. 07/14 – What If Apple Bought Arm?**
+
+  * [ SoftBank Explores Sale or IPO for Chip Designer Arm Holdings](https://www.wsj.com/articles/softbank-explores-options-for-chip-designer-arm-holdings-11594672437?mod=djemalertNEWS) (WSJ)
+  * [ SoftBank hires Goldman Sachs to explore sale options for chip designer Arm after getting inbound interest, sources say](https://www.cnbc.com/2020/07/13/softbank-hires-goldman-sachs-to-explore-sale-options-for-arm-sources.html?&qsearchterm=softbank) (CNBC)
+  * [ U.K. to Ban Huawei From Its 5G Networks Amid China-U.S. Tensions](https://www.wsj.com/articles/u-k-makes-u-turn-on-huawei-after-u-s-pressure-11594727179?mod=djemalertNEWS) (WSJ)
+  * [Huawei posts revenue growth in H1 despite sanctions and pandemic](https://techcrunch.com/2020/07/13/huawei-h1-2020/) (TechCrunch)
+  * [ Google Is in Advanced Talks to Invest $4 Billion in Jio Platforms](https://www.bloomberg.com/news/articles/2020-07-14/google-is-said-in-talks-to-invest-4-billion-in-jio-platforms?sref=MzDxCtkS) (Bloomberg)
+  * [ Walmart leads $1.2 billion investment in India's Flipkart](https://techcrunch.com/2020/07/14/walmart-invests-additional-1-2-billion-in-indias-flipkart-to-increase-stake/) (TechCrunch)
+  * [ Amazon’s new smart shopping cart lets you check out without a cashier](https://www.theverge.com/2020/7/14/21323421/amazon-dash-cart-smart-grocery-shopping-woodland-hills-store-cashierless?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Google Cloud steps up privacy, security with Confidential VMs and Assured Workloads](https://www.zdnet.com/article/google-cloud-steps-up-privacy-security-with-confidential-vms-and-assured-workloads/) (ZDNet)
+  * [ Google Cloud's new BigQuery Omni will let developers query data in GCP, AWS and Azure](https://techcrunch.com/2020/07/14/google-clouds-new-bigquery-omni-will-let-developers-query-data-in-gcp-aws-and-azure/) (TechCrunch)
+
+**Monday, July 13 2020 - Mon. 07/13 – SiriusXM Makes the Biggest Podcast Acquisition Yet**
+
+  * [ SiriusXM Is Buying Stitcher in Deal Worth Up to $325 Million](https://variety.com/2020/digital/news/siriusxm-buys-stitcher-325-million-1234704617/) (Variety)
+  * [ Amazon says it will not ban TikTok from employee phones](https://www.theverge.com/2020/7/10/21320196/amazon-employees-tiktok-uninstall-email-trump-administration-pompeo-ban) (The Verge)
+  * [ For TikTok, an Amazon Ban That Wasn’t, a Wells Fargo Ban That Was](https://www.theinformation.com/articles/for-tiktok-an-amazon-ban-that-wasnt-a-wells-fargo-ban-that-was) (The Information)
+  * [DNC and RNC warn campaigns about using TikTok](https://www.cnn.com/2020/07/10/politics/dnc-warning-tiktok/) (CNN Politics)
+  * [ Google to invest $10 billion in India](https://techcrunch.com/2020/07/13/google-to-invest-10-billion-in-india/) (TechCrunch)
+  * [ Autonomous drone startup Skydio rises $100 million and launches the X2 commercial drone](https://techcrunch.com/2020/07/13/autonomous-drone-startup-skydio-rises-100-million-and-launches-the-x2-commercial-drone/?tpcc=ECTW2020) (TechCrunch)
+  * [ The real reason Apple is warning users about MacBook camera covers](https://www.zdnet.com/article/the-real-reason-apple-is-warning-users-about-macbook-camera-covers/) (ZDNet)
+
+**Friday, July 10 2020 - Fri. 07/10 – Kuo: Apple Silicon Macs Coming THIS Year**
+
+  * [ Kuo: Apple Silicon Macs to Include 13-inch MacBook Pro and MacBook Air This Year, 14.1-inch and 16-inch MacBook Pro Models Next Year](https://www.macrumors.com/2020/07/10/kuo-first-apple-silicon-13-inch-macbook-pro-2020/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
+  * [ Apple Reaches New Stage in Development of AR Devices](https://www.theinformation.com/articles/apple-reaches-new-stage-in-development-of-ar-devices) (The Information)
+  * [ NBCUniversal’s Peacock is unlikely to reach deals with Amazon and Roku by July 15 launch](https://www.cnbc.com/2020/07/09/nbcuniversals-peacock-unlikely-to-be-on-amazon-roku-by-july-15-debut.html) (CNBC)
+  * [PC shipments grew 3-11% in Q2 2020 despite coronavirus](https://venturebeat.com/2020/07/09/pc-shipments-q2-2020/) (VentureBeat)
+
+**Thursday, July 09 2020 - Thu. 07/09 – Apple’s Not Gonna Abandon Thunderbolt**
+
+  * [ Exclusive: Crypto exchange Coinbase readies landmark stock market listing, sources say](https://www.reuters.com/article/us-coinbase-ipo-exclusive/exclusive-cryptocurrency-exchange-coinbase-readies-stock-market-listing-sources-idUSKBN24A21W) (Reuters)
+  * [ Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Apple promises to support Thunderbolt on its new ARM Macs](https://www.theverge.com/circuitbreaker/2020/7/8/21317980/apple-silicon-intel-thunderbolt-arm-macs-support-usb-c?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Nvidia eclipses Intel as most valuable U.S. chipmaker](https://www.reuters.com/article/us-usa-stocks-chips/nvidia-eclipses-intel-as-most-valuable-u-s-chipmaker-idUSKBN2492Z8) (Reuters)
+  * [ Google launches Android 11 Beta 2 with final APIs and behaviors](https://venturebeat.com/2020/07/08/google-android-11-beta-2-final-apis/) (VentureBeat)
+  * [ Musk Says Tesla Is ‘Very Close’ to Developing Fully Autonomous Vehicles](https://www.bloomberg.com/news/articles/2020-07-09/musk-says-tesla-may-crack-full-autonomy-puzzle-this-year?sref=MzDxCtkS) (Bloomberg)
+  * [ Microsoft's plan to make video calls less miserable](https://www.axios.com/microsoft-video-chat-eee1ada2-a0fe-4a54-8df1-2c08f2985faa.html) (Axios)
+
+**Wednesday, July 08 2020 - Wed. 07/08 – Facebook Fails Its Own Audit**
+
+  * [ Facebook Fails to Appease Organizers of Ad Boycott](https://www.nytimes.com/2020/07/07/technology/facebook-ad-boycott-civil-rights.html) (NYTimes)
+  * [ Facebook Decisions Were ‘Setbacks for Civil Rights,’ Audit Finds](https://www.nytimes.com/2020/07/08/technology/facebook-civil-rights-audit.html) (NYTimes)
+  * [ Exclusive: Apple is working on QR Code payments for Apple Pay, iOS 14 code reveals](https://9to5mac.com/2020/07/07/exclusive-apple-is-working-on-qr-code-payments-for-apple-pay-ios-14-code-reveals/) (9to5Mac)
+  * [ Thunderbolt 4: A supercharged port upgrade with 8K monitor support](https://www.digitaltrends.com/computing/thunderbolt-4-intel-tiger-lake/) (Digital Trends)
+  * [ Qualcomm’s new Snapdragon 865 Plus is its most powerful mobile chip, designed for gaming](https://www.theverge.com/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Samsung’s Galaxy Note 20 event confirmed for August 5th](https://www.theverge.com/2020/7/7/21316609/samsung-galaxy-unpacked-note-20-ultra-fold-2-event-date-august-5-announcement?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Twitter is working on a new subscription platform, hints job listing](https://www.theverge.com/2020/7/8/21317266/twitter-subscription-platform-codename-gryphon-job-listing?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Android 11's official launch appears set for September 8th](https://www.androidpolice.com/2020/07/08/android-11s-official-launch-appears-set-for-september-8th/?scrolla=5eb6d68b7fedc32c19ef33b4) (Android Police)
+  * [ Mmhmm turns your boring Zoom call into a Weekend Update-style TV show](https://www.theverge.com/2020/7/7/21314035/mmhmm-personal-video-presence-beta-phil-libin-sequoia-app) (The Verge)
+
 **Tuesday, July 07 2020 - Tue. 07/07 – Will The US Government Ban TikTok?**
 
   * [ TikTok to pull out of Hong Kong](https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html) (Axios)
