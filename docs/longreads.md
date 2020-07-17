@@ -2,6 +2,40 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, July 17**
+  * [ Some of Reddit's Wildest Relationship Stories Are Lies. I'd Know – I Wrote Them](https://www.vice.com/en_uk/article/4ay4vn/reddit-relationships-fake-stories-authors) (Motherboard)
+  * [ Google’s secretive ATAP lab is imagining the future of smart devices](https://www.fastcompany.com/90525392/googles-secretive-atap-lab-is-imagining-the-future-of-smart-devices) (Fast Company)
+  * [ Inside Peacock’s Ambitious Plan to Crash a Crowded Streaming Field](https://variety.com/2020/tv/features/peacock-launch-streaming-comcast-nbcuniversal-1234697590/) (Variety)
+  * [ Everything you need to know about Palantir, the secretive company coming for all your data](https://www.vox.com/recode/2020/7/16/21323458/palantir-ipo-hhs-protect-peter-thiel-cia-intelligence) (Recode)
+  * [ Sale of the Century: The Inside Story of Ethereum’s 2014 Premine](https://www.coindesk.com/sale-of-the-century-the-inside-story-of-ethereums-2014-premine) (Coindesk)
+  * [ Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b) (MondayNote)
+
+**Friday, July 10**
+  * [ How Prosperity Transformed the Falklands](https://www.newyorker.com/magazine/2020/07/06/how-prosperity-transformed-the-falklands) (The New Yorker)
+  * [ Our Ghost-Kitchen Future](https://www.newyorker.com/news/letter-from-silicon-valley/our-ghost-kitchen-future) (The New Yorker)
+  * [Is Anyone Watching Quibi?](https://www.vulture.com/2020/07/is-anyone-watching-quibi.html) (Vulture)
+  * [ How Wirecard Went From Tech Star to Bankrupt](https://www.wsj.com/articles/wirecard-bankruptcy-scandal-missing-$2billion-11593703379?mod=djemalertNEWS) (WSJ)
+  * [DE-ESCALATING SOCIAL MEDIA](https://nickpunt.com/blog/deescalating-social-media/) (NickPunt.com)
+  * [ Algorithms are now commodities](http://shape-of-code.coding-guidelines.com/2020/07/05/algorithms-are-now-commodities/) (The Shape of Code)
+  * [Hacker News thread about the above](https://news.ycombinator.com/item?id=23746534) (Hacker News)
+
+**Thursday, July 02**
+  * [ Mirror Wanted to Be the Next iPhone. Instead, It’s Selling to Lululemon.](https://marker.medium.com/mirror-wanted-to-be-the-next-iphone-instead-its-selling-to-lululemon-2dc2ebe65431) (Marker)
+  * [ There are more streaming choices than ever — why are prices going up?](https://www.theverge.com/21310442/tv-streaming-youtube-fubo-price-increases-carrier-fees-disputes-costs-cable-television?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Apple’s Relentless Strategy, Execution, and Point of View](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26) (Learn By Shipping)
+  * [ Strategy Behind Blockbuster Grubhub Deal: Don’t Deliver](https://www.wsj.com/articles/strategy-behind-blockbuster-grubhub-deal-dont-deliver-11593266407?mod=djemalertNEWS) (WSJ)
+  * [ Networks of self-driving trucks are becoming a reality in the US](https://www.vox.com/recode/2020/7/1/21308539/self-driving-autonomous-trucks-ups-freight-network?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter) (recode)
+  * [ Did a Chinese Hack Kill Canada’s Greatest Tech Company?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel?cmpid=socialflow-twitter-business&utm_campaign=socialflow-organic&utm_source=twitter&utm_content=business&utm_medium=social&sref=MzDxCtkS) (Bloomberg Businessweek)
+  * [ Disney's Developed Movie-Quality Face-Swapping Technology That Promises to Change Filmmaking](https://gizmodo.com/disneys-developed-movie-quality-face-swapping-technolog-1844202003?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
+
+**Friday, June 26**
+  * [ How India’s Jio Won Facebook’s Heart](https://www.theinformation.com/articles/how-indias-jio-won-facebooks-heart) (The Information)
+  * [ How a “crazy Dutch guy” won the online food delivery war](https://siliconcanals.com/news/crazy-dutch-won-online-food-delivery-war/) (Silicon Canals)
+  * [ How Uber Turned a Promising Bikeshare Company Into Literal Garbage](https://www.vice.com/en_us/article/5dz94x/uber-acquisition-jump-bikeshare-destroyed-thousands-of-bikes) (Vice)
+  * [ The Credit-Card Fees Merchants Hate, Banks Love and Consumers Pay](https://www.wsj.com/articles/the-credit-card-fees-merchants-hate-banks-love-and-consumers-pay-11592731800?mod=djemalertNEWS) (WSJ)
+  * [Top composers used to head to Hollywood. Now they’re into games](https://www.wired.co.uk/article/video-game-composers) (Wired)
+  * [Reddit turns 15: The dramatic moments that shaped the internet's front page](https://mashable.com/article/reddit-history-15th-anniversary/) (Mashable)
+
 **Friday, June 19**
   * [ Why venture capital doesn’t build the things we really need](https://www.technologyreview.com/2020/06/17/1003318/why-venture-capital-doesnt-build-the-things-we-really-need/) (MIT Technology Review)
   * [Brilliant Hardware in the Valley of the Software Slump](https://craigmod.com/essays/software_slump/) (Craigmod.com)
