@@ -2,6 +2,62 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, September 04**
+  * [ Cash App’s Surge During Covid-19 Pandemic Fuels Square Stock](https://www.wsj.com/articles/cash-apps-surge-during-covid-19-pandemic-fuels-square-stock-11599039003?mod=djemalertNEWS) (WSJ)
+  * [The Digital Future of Tabletop Games](https://a16z.com/2020/09/01/tabletop-games-go-digital/) (A16Z)
+  * [ Robot Boats Leave Autonomous Cars in Their Wake](https://www.wsj.com/articles/robot-boats-leave-autonomous-cars-in-their-wake-11598673601?mod=djemalertNEWS) (WSJ)
+  * [ Tech Startup, Trying to Be Amazon for Farms, Runs Into Ag Giants](https://www.wsj.com/articles/tech-startup-trying-to-be-amazon-for-farms-runs-into-ag-giants-11598811850) (WSJ)
+  * [ Inside Fitbit’s Plan to Detect Covid Symptoms With a New Wearable](https://onezero.medium.com/inside-fitbits-plan-to-detect-covid-symptoms-with-a-new-wearable-f9888dd2b7f6) (OneZero)
+  * [ How I hacked my Lego NES into a real console](https://www.inputmag.com/gaming/how-i-transformed-my-lego-nes-into-a-real-console-using-cheap-hdmi-display-nes-classic) (Input)
+
+**Friday, August 28**
+  * [ The Anti-Facebook: 12 Years In, Facebook's Cofounder Dustin Moskovitz's Slow-Burn Second Act Asana Finally Has Its Moment](https://www.forbes.com/sites/alexkonrad/2020/08/26/asana-facebook-cofounder-dustin-moskovitz-slow-burn-second-act/#42bcb6f87adc) (Forbes)
+  * [ Palantir: On Business, Cults, and Politics](https://diff.substack.com/p/palantir-on-business-cults-and-politics) (The Diff)
+  * [ Belarus Turned Off the Internet. Its Citizens Hot-Wired It.](https://gizmodo.com/belarus-turned-off-the-internet-its-citizens-hot-wired-1844853575?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
+  * [ The Event Industry Is Being Confronted By Its Napster Moment](https://skift.com/2020/08/26/the-event-industry-is-being-confronted-by-its-napster-moment/) (Skift)
+  * [ Amazon and FedEx Push to Put Delivery Robots on Your Sidewalk](https://www.wired.com/story/amazon-fedex-delivery-robots-your-sidewalk/) (Wired)
+  * [The Conscience of Silicon Valley](https://www.gq.com/story/jaron-lanier-tech-oracle-profile) (GQ)
+
+**Friday, August 21**
+  * [ MONUMENTAL FAILURE - How Tulsa, Oklahoma, almost won Elon Musk using the language he knows best: memes](https://www.theverge.com/21375891/tesla-tulsa-cybertruck-factory-elon-musk-statue-memes) (The Verge)
+  * [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/) (TidBits)
+  * [ The Inside Story Of Robinhood’s Billionaire Founders, Option Kid Cowboys And The Wall Street Sharks That Feed On Them](https://www.forbes.com/sites/jeffkauflin/2020/08/19/the-inside-story-of-robinhoods-billionaire-founders-option-kid-cowboys-and-the-wall-street-sharks-that-feed-on-them/#776ef64a268d) (Forbes)
+  * [ Sex, lies, and video games: Inside Roblox’s war on porn](https://www.fastcompany.com/90539906/sex-lies-and-video-games-inside-roblox-war-on-porn) (Fast Company)
+  * [ Why the Facebookening of Oculus VR is bad for users, devs, competition](https://arstechnica.com/gaming/2020/08/why-the-facebookening-of-oculus-vr-is-bad-for-users-devs-competition/) (Ars Technica)
+  * [ Microsoft Flight Simulator review: clear skies with some light chop](https://www.polygon.com/reviews/2020/8/19/21374936/microsoft-flight-simulator-review-pc) (Polygon)
+  * [Why Microsoft's new Flight Simulator should make Google and Amazon nervous](https://www.protocol.com/microsoft-flight-simulator-2020) (Protocol)
+
+**Friday, August 14**
+  * [The Secret SIMs Used By Criminals to Spoof Any Number](https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted) (Motherboard)
+  * [How We Got the Favicon](https://thehistoryoftheweb.com/how-we-got-the-favicon/) (The History of the Web)
+  * [ The Black Internet Gold Rush That Wiped Away $75 Million in 18 Months](https://level.medium.com/the-black-internet-gold-rush-that-wiped-away-75-million-in-18-months-7c6be78ddc95) (Level)
+  * [ A college kid’s fake, AI-generated blog fooled tens of thousands. This is how he made it.](https://www.technologyreview.com/2020/08/14/1006780/ai-gpt-3-fake-blog-reached-top-of-hacker-news/) (Technology Review)
+  * [ The Return of Anonymous](https://www.theatlantic.com/technology/archive/2020/08/hacker-group-anonymous-returns/615058/) (The Atlantic)
+
+**Friday, August 07**
+  * [ Pinduoduo: Vertically Integrated Social Commerce](https://turner.substack.com/p/pinduoduo-and-vertically-integrated) (Turner Novak's Substack)
+  * [The New Network](https://thebulwark.com/the-new-network/) (The Bulwark)
+  * [ The Vigilante Hunting Down Cheaters in Video Games](https://www.vice.com/en_us/article/bv857z/gamerdoc-catching-banning-cheaters-hackers-overwatch-valorant) (Motherboard)
+  * [ The Next 'Mafia'? Mapping The Alumni Of Square](https://www.protocol.com/newsletters/pipeline/square-founders-alumni-mafia?rebelltitem=1#rebelltitem1) (Protocol)
+  * [Dan Rose Kindle Tweet Thread](https://twitter.com/drose_999/status/1287944667414196225)
+  * [ How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](https://www.nytimes.com/2020/08/03/technology/tiktok-bytedance-us-china.html) (NYTimes)
+
+**Friday, July 31**
+  * [Philosophers On GPT-3 (updated with replies by GPT-3)](http://dailynous.com/2020/07/30/philosophers-gpt-3/) (Daily Nous)
+  * [ Independence, autonomy, and too many small teams](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/) (Kislay Verma)
+  * [Tech Sector Feeling COVID-19’s Economic Pain](https://www.hiringlab.org/2020/07/30/tech-sector-covid19-impact/) (Indeed Hiring Lab)
+  * [ The Gig Economy Is Failing. Say Hello to the Hustle Economy.](https://onezero.medium.com/the-gig-economy-is-failing-say-hello-to-the-hustle-economy-13ae3aa91954) (OneZero)
+  * [ Car Companies Want to Monitor Your Every Move With Emotion-Detecting AI](https://www.vice.com/en_us/article/m7jpmp/car-companies-want-to-monitor-your-every-move-with-emotion-detecting-ai) (Motherboard)
+
+**Friday, July 24**
+  * [ Robinhood Has Lured Young Traders, Sometimes With Devastating Results](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html) (NYTimes)
+  * [ Robinhood and How to Lose Money](https://themargins.substack.com/p/robinhood-and-how-to-lose-money) (The Margins)
+  * [ Want to buy a parrot? Please login via Facebook.](https://restofworld.org/2020/bangladesh-economy-runs-on-facebook/) (Rest Of World)
+  * [ The Inside Story of How a Sleep Tracker Became the Hottest Device of the Pandemic](https://marker.medium.com/amp/p/e308a6cb5fbe?source=social.tw&__twitter_impression=true&s=09) (Marker)
+  * [ How Harvard’s Star Computer-Science Professor Built a Distance-Learning Empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire) (The New Yorker)
+  * [ The case for and against banning TikTok](https://www.vox.com/the-goods/2020/7/23/21334871/tiktok-ban-us-trump-china?scrolla=5eb6d68b7fedc32c19ef33b4) (Vox)
+  * [ The App of the Summer Is Just a Random-Number Generator](https://www.theatlantic.com/technology/archive/2020/07/randonautica-app-tiktok-body-reddit-quantum/614401/?scrolla=5eb6d68b7fedc32c19ef33b4) (The Atlantic)
+
 **Friday, July 17**
   * [ Some of Reddit's Wildest Relationship Stories Are Lies. I'd Know – I Wrote Them](https://www.vice.com/en_uk/article/4ay4vn/reddit-relationships-fake-stories-authors) (Motherboard)
   * [ Google’s secretive ATAP lab is imagining the future of smart devices](https://www.fastcompany.com/90525392/googles-secretive-atap-lab-is-imagining-the-future-of-smart-devices) (Fast Company)
