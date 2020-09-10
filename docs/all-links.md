@@ -5,7 +5,6 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 **Thursday, September 10 2020 - Thu. 09/10 – “Campus” Is Facebook, But For College Kids (Insert Joke Here)**
   * [ Facebook reinvents Facebook with the launch of Campus for college students](https://www.theverge.com/2020/9/10/21429159/facebook-campus-app-college-students?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [ Former NSA chief Keith Alexander has joined Amazon’s board of directors](https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [ Former NSA chief Keith Alexander has joined Amazon’s board of directors](https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [ Motorola’s second-gen foldable Razr adds 5G, better cameras, and a chance at redemption](https://www.theverge.com/2020/9/9/21422138/motorola-razr-foldable-update-5g-cameras-processor-battery-flip-phone-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [ Bose announces $279 QuietComfort Earbuds and $179 Sport Earbuds](https://www.theverge.com/2020/9/10/21429672/bose-quietcomfort-sports-earbuds-announced-features-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [ MICROSOFT SURFACE DUO REVIEW: DOUBLE TROUBLES](https://www.theverge.com/21428763/microsoft-surface-duo-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
