@@ -2,6 +2,202 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, October 07 2020 - Wed 10/07 – The House Antitrust Report**
+
+  * [ House Democrats say Facebook, Amazon, Alphabet, Apple enjoy ‘monopoly power’ and recommend big changes](https://www.cnbc.com/2020/10/06/house-democrats-say-facebook-amazon-alphabet-apple-enjoy-monopoly-power.html) (CNBC)
+  * [ House Lawmakers Condemn Big Tech’s ‘Monopoly Power’ and Urge Their Breakups](https://www.nytimes.com/2020/10/06/technology/congress-big-tech-monopoly-power.html) (NYTimes)
+  * [ Facebook completely bans QAnon and labels it a ‘militarized social movement’](https://www.theverge.com/2020/10/6/21504887/facebook-qanon-ban-all-apps-pages-groups-instagram-accounts?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ SK Hynix Launches World's First DDR5 DRAM Modules Rated At 4.8 Gbps And Beyond](https://hothardware.com/news/sk-hynix-launches-worlds-first-ddr5-dram-modules) (HotHardware)
+  * [ Shogun raises $35M to help brands take on Amazon with faster and better sites of their own](https://techcrunch.com/2020/10/07/shogun-raises-35m-to-help-brands-take-on-amazon-with-faster-and-better-sites-of-their-own/) (TechCrunch)
+  * [ This extremely slippery VR treadmill could be your next home gym](https://www.theverge.com/2020/10/7/21504797/virtuix-omni-one-vr-treadmill-announce-crowdfunding) (The Verge)
+
+**Tuesday, October 06 2020 - G Suite Is No More! (But Don’t Worry)**
+
+  * [ G Suite is now Google Workspace](https://techcrunch.com/2020/10/06/g-suite-is-now-google-workspace/) (TechCrunch)
+  * [ Apple Stops Selling Rival Earphones, Speakers Ahead of Launches](https://www.bloomberg.com/news/articles/2020-10-05/apple-stops-selling-rival-earphones-speakers-ahead-of-launches?sref=sZAFdZwV) (Bloomberg)
+  * [ Facebook's Portal adds support for Netflix, Zoom and other features](https://techcrunch.com/2020/10/06/facebooks-smart-display-portal-adds-support-for-netflix-zoom-and-other-features/) (TechCrunch)
+  * [ AT&T kills DSL, leaves tens of millions of homes without fiber Internet](https://arstechnica.com/tech-policy/2020/10/life-in-atts-slow-lane-millions-left-without-fiber-as-company-kills-dsl/) (Ars Technica)
+  * [Cooler Screens raises $80M to bring interactive screens into cooler aisles](https://techcrunch.com/2020/10/05/cooler-screens-series-c/) (TechCrunch)
+  * [ Security flaw left ‘smart’ chastity sex toy users at risk of permanent lock-in](https://techcrunch.com/2020/10/06/qiui-smart-chastity-sex-toy-security-flaw/) (TechCrunch)
+
+**Monday, October 05 2020 - Mon. 10/05 – Nvidia’s Zoom-Killer, “Maxine”**
+
+  * [ Nvidia unveils Maxine, a managed cloud AI videoconferencing service](https://venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/) (VentureBeat)
+  * [ Nvidia says its AI can fix some of the biggest problems in video calls](https://www.theverge.com/2020/10/5/21502003/nvidia-ai-videoconferencing-maxine-platform-face-gaze-alignment-gans-compression-resolution) (The Verge)
+  * [ Facebook Says Government Breakup of Instagram, WhatsApp Would Be ‘Complete Nonstarter’](https://www.wsj.com/articles/facebook-says-government-breakup-of-instagram-whatsapp-would-be-complete-nonstarter-11601803800?mod=djemalertNEWS) (WSJ)
+  * [ Google defers 30% in-app commission in India to April 2022 after protests](https://economictimes.indiatimes.com/tech/internet/google-defers-move-to-levy-30-fee-to-april-2022/articleshow/78484208.cms) (The Economic Times India)
+  * [ Google delays mandating Play Store payments rule in India to April 2022](https://techcrunch.com/2020/10/04/google-policy-cut-india-paytm-mini-app-store/) (TechCrunch)
+  * [ Ethereum Dapp Volumes Hit $120 Billion in Third Quarter](https://decrypt.co/43736/ethereum-dapp-volumes-hit-120-billion-in-third-quarter) (Decrypt)
+  * [What Is DeFi?](https://www.coindesk.com/what-is-defi) (CoinDesk)
+  * [ States are finally starting to use the Covid-tracking tech Apple and Google built — here’s why](https://www.cnbc.com/2020/10/03/covid-app-exposure-notification-apple-google.html) (CNBC)
+  * [ Clinical Trials Hit by Ransomware Attack on Health Tech Firm](https://www.nytimes.com/2020/10/03/technology/clinical-trials-ransomware-attack-drugmakers.html) (NYTimes)
+
+**Friday, October 02 2020 - Fri. 10/02 – Tesla Smashes Its Previous Delivery Record**
+
+  * [ Tesla delivered 139,300 vehicles in the third quarter, smashing its previous record](https://www.theverge.com/2020/10/2/21498558/tesla-q3-2020-vehicle-delivery-numbers-record-breaking) (The Verge)
+  * [ HP’s new Spectre x360 14 laptop has a 3:2 aspect ratio plus a Thunderbolt 4 port hiding in the corner](https://www.theverge.com/2020/10/2/21497532/hp-spectre-x360-14-13-envy-intel-tiger-lake-price-specs-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Facebook will start surfacing some public group discussions in people’s News Feeds and search results](https://www.theverge.com/2020/10/1/21495497/facebook-groups-public-search-relevant-discussion-moderation-update?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Startup IonQ drastically ups the quantum computing ante](https://fortune.com/2020/10/01/ionq-quantum-computer-most-powerful-honeywell-ibm-google/) (Fortune)
+
+**Thursday, October 01 2020 - Thu. 10/01 – New Surface Laptop Go: Smaller Display, $549**
+
+  * [ Microsoft’s new $549 Surface Laptop Go aims to compete with Chromebooks](https://www.theverge.com/21496684/microsoft-surface-laptop-go-price-release-date-specs?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Microsoft updates the Surface Pro X with a new processor option](https://www.engadget.com/microsoft-surface-pro-x-2020-sq2-processor-130041584.html) (Engadget)
+  * [ Google will spend $1 billion to pay publishers for news showcase](https://www.axios.com/google-will-spend-1-billion-to-pay-publishers-for-news-showcase-501feeae-0e3e-4822-8711-1c64052e27f1.html) (Axios)
+  * [ Improved Google Photos editor is rolling out now on Android](https://www.theverge.com/2020/9/30/21495793/google-photos-editing-tools-app-update-machine-learning-suggestions-android?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ The new Chromecast with Google TV won’t officially support Stadia at launch](https://www.theverge.com/2020/9/30/21492682/new-chromecast-google-tv-stadia-support-launch?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Palantir closes below first trade after NYSE debut](https://www.cnbc.com/2020/09/30/palantir-goes-public-pltr-starts-trading-on-the-nyse.html) (CNBC)
+  * [Six Figures in 6 days](https://tr.af/6) (tr.af)
+
+**Wednesday, September 30 2020 - Wed. 09/30 – The New Pixel Phones, Chromecast and More From Today’s Google Event**
+
+  * [ Here’s what the new Chromecast’s Google TV software looks like](https://www.theverge.com/2020/9/29/21494298/chromecast-google-tv-preview-android-features) (The Verge)
+  * [ Google launches Nest Audio speaker, successor to Google Home, available Oct. 5 for $99](https://9to5google.com/2020/09/30/nest-audio-google-speaker-launch/) (9to5Google)
+  * [Google's Pixel 5 includes 5G and an ultrawide camera for $699](https://www.engadget.com/google-pixel-5-5g-182238671.html) (Engadget)
+  * [ Facebook introduces cross-app communication between Messenger and Instagram, plus other features](https://techcrunch.com/2020/09/30/facebook-introduces-cross-app-communication-between-messenger-and-instagram-plus-other-features/) (TechCrunch)
+  * [ Microsoft’s Bing Will Have Key Slot on Some New Android Phones](https://www.bloomberg.com/news/articles/2020-09-29/microsoft-s-bing-wins-search-slots-in-google-s-android-auction?sref=sZAFdZwV) (Bloomberg)
+  * [ Rally raises $17M to expand a platform that lets you invest in (but not buy) collectibles](https://techcrunch.com/2020/09/29/rally-raises-17m-to-expand-a-platform-that-lets-you-invest-in-but-not-buy-collectibles/) (TechCrunch)
+
+**Tuesday, September 29 2020 - With Amazon One, Amazon Wants You To Pay With Your Palm**
+
+  * [ Amazon will now let you pay with your palm in its stores](https://www.vox.com/recode/2020/9/29/21492351/amazon-one-hand-scan-payments-palm-checkout-whole-foods?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
+  * [ Google Demands 30% Cut From App Developers in Its Play Store](https://www.nytimes.com/2020/09/28/technology/google-play-store-30-percent.html) (NYTimes)
+  * [ Judge suggests Apple vs Epic should go to jury, trial expected in July 2021](https://appleinsider.com/articles/20/09/28/judge-suggests-apple-vs-epic-should-go-to-jury-trial-expected-in-july-2021) (Apple Insider)
+  * [ Google Meet brings noise cancellation to Android and iOS, adds attendance reports for schools](https://9to5google.com/2020/09/28/google-meet-noise-cancellation/) (9to5Google)
+  * [ Zoom's earliest investors are betting millions on a better Zoom for schools](https://techcrunch.com/2020/09/23/class-for-zoom-earliest-investors-are-betting-millions/) (TechCrunch)
+  * [ The world’s first foldable PC is now available to order from Lenovo](https://www.theverge.com/2020/9/29/21473735/lenovo-thinkpad-x1-fold-foldable-pc-nano-thinkbook-5g-tiger-lake-intel-evo?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Disney+ now lets you binge watch with friends, even when you're not together](https://www.cnn.com/2020/09/29/media/disney-groupwatch-streaming/) (CNN Business)
+  * [ Netflix Price Hike Is “Probable” Soon, But It Won’t Slow Company’s Roll, Analyst Says](https://deadline.com/2020/09/netflix-price-hike-is-probable-soon-but-it-wont-slow-companys-roll-analyst-says-1234586234/) (Deadline)
+
+**Monday, September 28 2020 - Mon. 09/28 – Roku’s New $130 Streambar and Updated $100 Roku Ultra**
+
+  * [ Roku’s Streambar is a compact soundbar with built-in streaming smarts](https://www.theverge.com/2020/9/28/21459521/roku-streambar-soundbar-compact-streaming-bluetooth-spotify-connect-tv-audio?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Roku Unveils Redesigned $100 Ultra Streaming Box, Will Add Ability to Stream HBO Max via Apple AirPlay](https://variety.com/2020/digital/uncategorized/roku-ultra-hbo-max-roku-channel-airplay-1234784968/) (Variety)
+  * [ Dell updated its 13-inch XPS laptops with 11th-gen Intel CPUs](https://www.engadget.com/dell-xps-laptops-11th-gen-intel-cpus-130009045.html) (Engadget)
+  * [ TikTok Wins Reprieve From U.S. Ban](https://www.nytimes.com/2020/09/27/technology/tiktok-ban-ruling-app.html) (NYTimes)
+  * [ Prepare for the ‘iPhone 12 mini,’ suggest recent leaks](https://www.theverge.com/2020/9/25/21455617/iphone-12-2020-rumors-lineup-mini-max-pro-specs) (The Verge)
+  * [ LinkedIn launches Stories, plus Zoom, BlueJeans and Teams video integrations as part of wider redesign](https://techcrunch.com/2020/09/24/linkedin-launches-stories-plus-zoom-bluejeans-and-teams-video-integrations-as-part-of-wider-redesign/) (TechCrunch)
+  * [ SpaceX’s Starlink satellites could make US Army navigation hard to jam](https://www.technologyreview.com/2020/09/28/1008972/us-army-spacex-musk-starlink-satellites-gps-unjammable-navigation/) (MIT Technology Review)
+  * [ Amazon Prime Day set for Oct 13 and 14 after coronavirus delayed original summer date](https://www.cnbc.com/2020/09/28/amazon-prime-day-is-october-13-and-14.html) (CNBC)
+  * [ The original FarmVille on Facebook is shutting down at the end of the year](https://www.theverge.com/2020/9/28/21459607/original-farmville-facebook-shut-down-flash-zynga?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+**Saturday, September 26 2020 - (Bonus) TikTok's Secret Sauce With Eugene Wei and A16Z's 16 Minutes Podcast**
+
+  * [ **TikTok and the Sorting Hat**](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) (Eugene's original essay)
+
+**Friday, September 25 2020 - Fri. 09/25 – Amazon Announces The Luna Cloud Gaming Service**
+
+  * [ A closer look at Luna, Amazon's cloud gaming service](https://www.engadget.com/luna-amazon-cloud-gaming-interview-pwa-apple-173948922.html?guccounter=1) (Engadget)
+  * [ Amazon announces all-new Echo, Echo Dot, Echo Dot with Clock](https://www.cnbc.com/2020/09/24/amazon-announces-all-new-echo-echo-dot-echo-dot-with-clock.html) (CNBC)
+  * [ AMAZON’S NEW ECHO SHOW 10 MOVES TO LOOK AT YOU](https://www.theverge.com/2020/9/24/21454117/amazon-new-echo-show-10-alexa-smart-display-moving-screen-price-specs-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Ring’s latest security camera is a drone that flies around inside your house](https://www.theverge.com/2020/9/24/21453709/ring-always-home-cam-indoor-drone-security-camera-price-specs-features-amazon?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Amazon’s Bizarre Home Drone Flies Around Inside Your House](https://www.wired.com/story/ring-always-home-cam/) (Wired)
+  * [ Apple Buys Startup That Creates Radio-Like Stations for Podcasts](https://www.bloomberg.com/news/articles/2020-09-24/apple-buys-startup-that-creates-radio-like-stations-for-podcasts?sref=MzDxCtkS) (Bloomberg)
+
+**Thursday, September 24 2020 - Thu. 09/24 – The Rebel Alliance Forming To Battle App Stores**
+
+  * [ Epic, Spotify and others ally against Apple and Google app policies](https://www.engadget.com/epic-spotify-and-others-form-alliance-against-app-store-dominance-135026221.html) (Engadget)
+  * [ New Microsoft Office on the way for people who don't want a subscription](https://www.windowscentral.com/new-microsoft-office-way-people-who-dont-want-subscription) (Windows Central)
+  * [ The Samsung Galaxy S20 FE brings some flagship specs at a $699 price](https://www.theverge.com/2020/9/23/21451701/samsung-galaxy-s20-fe-price-release-date-specs-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Google Maps gets a COVID-19 layer](https://techcrunch.com/2020/09/23/google-maps-gets-a-covid-19-layer/) (TechCrunch)
+  * [ Sneaker Platform Goat Group Raises $100 Million to Fund Expansion Plans](https://www.wsj.com/articles/sneaker-platform-goat-group-raises-100-million-to-fund-expansion-plans-11600857901?mod=djemalertNEWS) (WSJ)
+  * [ How a marked-up term sheet and messy rollout threw TikTok deal into disarray](https://www.reuters.com/article/us-usa-tiktok-bytedance-oracle-focus-exc-idUSKCN26E2S9) (Reuters)
+  * [ THE GAMING INDUSTRY KEEPS FAILING MISERABLY AT SELLING ITS MOST IMPORTANT PRODUCTS](https://www.theverge.com/21451144/sony-ps5-preorder-microsoft-xbox-series-x-nvidia-rtx-3080-mess?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+**Wednesday, September 23 2020 - Wed. 09/23 – Microsoft “Exclusively” Licenses GPT-3**
+
+  * [ Microsoft challenges Twilio with the launch of Azure Communications Services](https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/) (TechCrunch)
+  * [ Azure Orbital launches Microsoft into cloud-based space race with Amazon](https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/) (GeekWire)
+  * [ Microsoft Teams is getting virtual commutes and Headspace meditation](https://venturebeat.com/2020/09/22/microsoft-teams-virtual-commute-headspace-meditation/) (VentureBeat)
+  * [ Google launches a work-tracking tool and Airtable rival, Tables](https://techcrunch.com/2020/09/22/google-launches-a-work-tracking-tool-and-airtable-rival-tables/) (TechCrunch)
+  * [Swift language tools now available for Windows 10](https://www.imore.com/swift-language-tools-now-available-windows) (iMore)
+  * [ Kuo: Mini-LED Displays to Debut in Apple's Next iPad Pro](https://www.macrumors.com/2020/09/23/kuo-mini-led-ipad-pro/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
+  * [ Tesla CEO Elon Musk says company can build a $25,000 self-driving car within three years](https://www.cnbc.com/2020/09/22/elon-musk-at-battery-day-tesla-deliveries-to-rise-30percent-to-40percent-in-2020.html) (CNBC)
+  * [ Elon Musk promises $25,000 Tesla and says Model S 'Plaid' is coming soon](https://www.cnn.com/2020/09/22/business/tesla-elon-musk-battery-day/index.html) (CNN)
+  * [Pinterest officially launches new Story Pins format in beta](https://techcrunch.com/2020/09/23/pinterest-story-pins/) (TechCrunch)
+  * [ Why Spotify Has So Many Bizarre, Generic Artists Like ‘White Noise Baby Sleep’](https://onezero.medium.com/why-spotify-has-so-many-bizarre-generic-artists-like-white-noise-baby-sleep-c9ce09dc9002) (OneZero)
+
+**Tuesday, September 22 2020 - Tue. 09/22 – Quibi Is “Exploring Options”**
+
+  * [ Quibi Explores Strategic Options Including Possible Sale](https://www.wsj.com/articles/quibi-explores-strategic-options-including-a-possible-sale-11600707806?mod=djemalertNEWS) (WSJ)
+  * [ Justice Department expected to brief state attorneys general this week on imminent Google antitrust lawsuit](https://www.washingtonpost.com/technology/2020/09/21/google-antitrust-state-ags/) (Washington Post)
+  * [ PSA: New Apple Watch Owners Have to Return Entire Device for Ill-Fitting Solo Loop or Braided Solo Loop](https://www.macrumors.com/2020/09/21/entire-apple-watch-returned-solo-band-bad-fit/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
+  * [ A $50 Phone is Ambani's Weapon to Dominate India Telecom Market](https://www.bloomberg.com/news/articles/2020-09-22/reliance-is-said-to-plan-big-smartphone-push-after-google-deal?sref=MzDxCtkS) (Bloomberg)
+  * [ SEC, OCC Issue First Regulatory Clarifications for Stablecoins](https://www.coindesk.com/occ-banks-can-hold-some-stablecoin-reserves) (CoinDesk)
+  * [ CIA’s new tech recruiting pitch: More patents, more profits](https://www.technologyreview.com/2020/09/21/1008654/cias-new-tech-recruiting-pitch-more-patents-more-profits/) (MIT Technology Review)
+  * [ You can now stream your Xbox One games to your Android phone for free](https://www.theverge.com/2020/9/21/21448979/microsoft-new-xbox-app-mobile-android-remote-play-beta?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Microsoft to Buy Bethesda for $7.5 Billion to Boost Xbox](https://www.bloomberg.com/news/articles/2020-09-21/microsoft-to-buy-bethesda-studios-for-7-5-billion-to-boost-xbox?sref=MzDxCtkS) (Bloomberg)
+  * [ Microsoft to acquire Elder Scrolls, Fallout, other hit games in $7.5B deal for Bethesda Softworks parent](https://www.geekwire.com/2020/microsoft-acquire-elder-scrolls-fallout-hit-games-7-5b-deal-bethesda-softworks/) (GeekWire)
+  * [ Watch a demo of Royole’s new folding phone, on sale today for roughly $1,500](https://www.theverge.com/2020/9/22/21450343/royole-flexpai-2-folding-phone-price-specs-release-date-china) (The Verge)
+
+**Monday, September 21 2020 - Mon. 09/21 – ByteDance Says It Won. Trump Says Not So Fast. TikTok Continues… For Now.**
+
+  * [ Trump Blesses Oracle’s TikTok Deal, Delays App Store Ban](https://www.bloomberg.com/news/articles/2020-09-19/trump-says-he-s-approved-oracle-deal-for-u-s-tiktok-operations?sref=MzDxCtkS) (Bloomberg)
+  * [TikTok deal hit by confusion over who will own and control the app](https://www.ft.com/content/c077eed2-44a5-43f7-b0c4-5531a451fdc1) (FT)
+  * [ Judge halts Trump administration order banning WeChat from Apple and Google app stores](https://www.cnbc.com/2020/09/20/judge-halts-trump-administration-order-banning-wechat-from-app-stores.html) (CNBC)
+  * [ Microsoft purchases Bethesda Softworks in industry-changing acquisition [Updated]](https://arstechnica.com/gaming/2020/09/microsoft-purchases-bethesda-softworks-in-industry-changing-acquisition/) (ArsTechnica)
+  * [With $100M in funding, Playco is already a mobile gaming unicorn](https://techcrunch.com/2020/09/21/playco-launch-funding/) (TechCrunch)
+  * [ Nikola Founder Trevor Milton Resigns as Executive Chairman Amid Fraud Allegations](https://www.wsj.com/articles/nikola-chairman-steps-down-as-company-faces-probe-11600672351?mod=hp_lead_pos3) (WSJ)
+  * [ Nikola’s chairman steps down, stock crashes following allegations of fraud](https://techcrunch.com/2020/09/21/nikolas-chairman-steps-down-stock-crashes-following-allegations-of-fraud/) (TechCrunch)
+  * [ Amazon details its low-bandwidth Sidewalk neighborhood network, coming to Echo and Tile devices soon](https://techcrunch.com/2020/09/21/amazon-details-its-low-bandwidth-sidewalk-neighborhood-network-coming-to-echo-and-tile-devices-soon/) (TechCrunch)
+
+**Friday, September 18 2020 - Fri. 09/18 – WeChat Officially Banned On Sunday. TikTok Only Kinda Banned.**
+
+  * [ Trump to block downloads of TikTok, WeChat on Sunday](https://www.cnbc.com/2020/09/18/trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-tell-reuters.html) (CNBC)
+  * [ Google pulls India's Paytm app from Play Store for repeat policy violations](https://techcrunch.com/2020/09/18/google-pulls-indias-paytm-app-from-play-store-for-repeat-policy-violations/) (TechCrunch)
+  * [iOS 14 default app settings automatically reset to Mail and Safari after reboot](https://9to5mac.com/2020/09/17/ios-14-default-app-settings/) (9to5Mac)
+  * [ Apple is making Shazam a bigger part of your iPhone](https://www.theverge.com/2020/9/17/21444506/apple-ios-14-2-beta-shazam-identify-music-phone-apps-headphones?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Facebook is cracking down on groups that give health advice and promote violence](https://www.cnbc.com/2020/09/17/facebook-to-limit-the-spread-of-groups-tied-to-violence-and-health-advice.html) (CNBC)
+
+**Thursday, September 17 2020 - Thu. 09/17 – PS5 Details Revealed. But Good Luck Pre-Ordering!**
+
+  * [ PlayStation 5 preorders: Sony reveals release date and price](https://venturebeat.com/2020/09/16/playstation-5-sony-reveals-release-date-and-price/) (VentureBeat)
+  * [ The PS5 will launch on November 12th for $499.99](https://www.theverge.com/2020/9/16/21277234/ps5-playstation-5-price-release-date-sony?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Sony confirms PS5’s first-party launch lineup and free game upgrade plans for PS4 titles](https://www.theverge.com/2020/9/16/21440554/sony-ps5-launch-games-free-upgrades-ps4-spiderman-miles-morales-horizon-forbidden-west?utm_medium=email&utm_campaign=The%20PS5%20is%20priced%20the%20Oculus%20Quest%202%20launched%20and%20the%20GoPro%20Hero%209%20reviewed&utm_content=The%20PS5%20is%20priced%20the%20Oculus%20Quest%202%20launched%20and%20the%20GoPro%20Hero%209%20reviewed+CID_21e75f08a4782c253d1c68cc2cd250d4&utm_source=cm_email&utm_term=Sony%20confirms%20PS5s%20first-party%20launch%20lineup%20and%20free%20game%20upgrade%20plans%20for%20PS4%20titles) (The Verge)
+  * [ Oracle’s TikTok Bid Leaves Open Some U.S. Security Concerns](https://www.bloomberg.com/news/articles/2020-09-16/oracle-s-tiktok-bid-leaves-u-s-security-concerns-unaddressed?sref=MzDxCtkS) (Bloomberg)
+  * [ Pro Rata Newsletter](https://www.axios.com/newsletters/axios-pro-rata-085a7385-4ca7-4128-8a6f-7b9f61c84743.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (Dan Primack/Axios)
+  * [ Snowflake IPO Spurs Flood of Wealth for Silicon Valley Elite](https://www.bloomberg.com/news/articles/2020-09-16/snowflake-ipo-creates-flood-of-wealth-for-silicon-valley-royalty?utm_source=flipboard&utm_medium=bd&cmpId=flipboard&sref=MzDxCtkS) (Bloomberg)
+  * [‘Helping people discover information’: How Red Ventures grew into a giant](https://digiday.com/media/red-ventures-grew-into-a-giant/) (Digiday)
+  * [ Sit Like an Apple Engineer in This 70s-Era British Office Chair](https://www.gearpatrol.com/tech/a34032310/sit-like-an-apple-engineer-in-this-70s-era-british-office-chair/) (Gear Patrol)
+
+**Wednesday, September 16 2020 - Wed. 09/16 – Facebook Unveils The Oculus Quest 2**
+
+  * [Oculus Quest 2 delivers standalone VR with sharper 90Hz screens for $299](https://www.engadget.com/oculus-quest-2-vr-299-171715370.html) (Engadget)
+  * [ OCULUS QUEST 2 REVIEW: BETTER, CHEAPER VR](https://www.theverge.com/21437674/oculus-quest-2-review-features-photos?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Snowflake is largest software IPO ever](https://www.axios.com/snowflake-ipo-32d8ea90-d19f-46ce-b633-b6fb69a7aeec.html) (Axios)
+  * [ Amazon Music Joins Podcasting Fray](https://www.wsj.com/articles/amazon-music-joins-podcasting-fray-11600261201?mod=djemalertNEWS) (WSJ)
+  * [ Driver Charged in Uber’s Fatal 2018 Autonomous Car Crash](https://www.nytimes.com/2020/09/15/technology/uber-autonomous-crash-driver-charged.html) (NYTimes)
+  * [ Spotify says Apple One bundle is a 'threat to collective freedom'](https://appleinsider.com/articles/20/09/15/spotify-says-apple-one-bundle-is-a-threat-to-collective-freedom) (Apple Insider)
+  * [ Apple accuses Epic of ‘starting a fire and pouring gasoline on it’ in new Fortnite filing](https://www.theverge.com/2020/9/16/21439347/fortnite-epic-apple-preliminary-injunction-opposition-brief?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Apple surprised iPhone users with a next-day iOS 14 release. App developers are pissed.](https://mashable.com/article/apple-iphone-ios-14-app-developers-release/) (Mashable)
+  * [ Exclusive: AT&T considers cellphone plans subsidized by ads](https://www.reuters.com/article/us-at-t-ceo-interview-exclusive-idUSKBN2663HK) (Reuters)
+  * [ AT&T Plans Lower-Priced Version of HBO Max With Advertising](https://www.bloomberg.com/news/articles/2020-09-15/at-t-plans-a-lower-priced-version-of-hbo-max-with-advertising?sref=MzDxCtkS) (Bloomberg)
+
+**Tuesday, September 15 2020 - Tue. 09/15 – The Apple “Time Flies” Event**
+
+  * [Techmeme Headline Rundown of the Apple Event](https://www.techmeme.com/200915/h1420)
+  * [ Sony Cuts PlayStation 5 Forecast by 4 Million Due to Chip Woes](https://www.bloomberg.com/news/articles/2020-09-15/sony-is-said-to-cut-ps5-forecast-by-4-million-due-to-chip-woes?sref=MzDxCtkS) (Bloomberg)
+  * [ Sen. Hawley calls for US to reject Oracle’s TikTok deal](https://www.theverge.com/2020/9/14/21437034/oracle-tiktok-deal-hawley-mnuchin-cfius-approval-trump?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ We’re Heading Toward the Worst Possible Outcome on TikTok](https://nymag.com/intelligencer/2020/09/were-heading-toward-the-worst-possible-outcome-on-tiktok.html) (Intelligencer)
+  * [ Google to launch Pixel 5, new Chromecast, and smart speaker on September 30th](https://www.theverge.com/2020/9/14/21436388/google-pixel-5-chromecast-speaker-launch-september-30th?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ Microsoft pulls underwater data center back to the surface to assess benefits of deep-sea cloud](https://www.geekwire.com/2020/microsoft-pulls-underwater-data-center-back-surface-assess-benefits-deep-sea-cloud/) (GeekWire)
+
+**Monday, September 14 2020 - Mon. 09/14 – Has Oracle Saved TikTok (In The US)?**
+
+  * [ Oracle Wins Bid for TikTok in U.S., Beating Microsoft](https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821?mod=djemalertNEWS) (WSJ)
+  * [ It’s Official- NVIDIA Acquires Arm For $40 Billion To Create What Could Be A Computing Juggernaut](https://www.forbes.com/sites/patrickmoorhead/2020/09/13/its-officialnvidia-acquires-arm-for-40b-to-create-what-could-be-a-computing-juggernaut/#7200166b4973) (Forbes)
+  * [ Verizon to Buy TracFone in Deal Valued at Up to $7 Billion](https://www.wsj.com/articles/verizon-to-buy-wireless-reseller-tracfone-for-6-25-billion-11600085613?mod=djemalertNEWS) (WSJ)
+  * [ Airtable raises $185M and launches new low-code and automation features](https://techcrunch.com/2020/09/14/airtable-raises-185m-and-launches-new-low-code-and-automation-features/) (TechCrunch)
+  * [ Feds proudly announce seizure of ‘counterfeit Apple AirPods’ that are actually OnePlus Buds](https://www.theverge.com/2020/9/13/21435637/us-cbp-counterfeit-airpods-oneplus-buds-mixup?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [ The LG Wing’s twisting screen offers a new spin on the dual-screen smartphone](https://www.theverge.com/2020/9/14/21433087/lg-wing-5g-twisting-dual-screen-smartphone-android-announcement-carriers?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+**Friday, September 11 2020 - Fri. 09/11 – Microsoft Says The Hackers Are Coming For The Election**
+
+  * [ Russia, China and Iran launched cyberattacks on presidential campaigns, Microsoft says](https://www.nbcnews.com/tech/security/russian-china-iran-launched-cyberattacks-presidential-campaigns-microsoft-says-n1239803) (NBC News)
+  * [ Epic says that Sign in with Apple for Fortnite will still work after all](https://www.imore.com/apple-reverses-course-will-still-allow-sign-apple-fortnite) (iMore)
+  * [ ‘Apple One’ subscription bundle confirmed by Apple Music for Android ahead of Sept. 15 event](https://9to5google.com/2020/09/10/apple-one-music-unified-subscription-apk-insight/) (9to5Google)
+  * [ A $200 Million Seed Valuation for Roam Shows Investor Frenzy for Note-Taking Apps](https://www.theinformation.com/articles/a-200-million-seed-valuation-for-roam-shows-investor-frenzy-for-note-taking-apps) (The Information)
+  
 **Thursday, September 10 2020 - Thu. 09/10 – “Campus” Is Facebook, But For College Kids (Insert Joke Here)**
   * [ Facebook reinvents Facebook with the launch of Campus for college students](https://www.theverge.com/2020/9/10/21429159/facebook-campus-app-college-students?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [ Former NSA chief Keith Alexander has joined Amazon’s board of directors](https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
