@@ -2,6 +2,39 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, October 02**
+  * [ What Opening Day for Asana and Palantir Says About Private Tech Stock Values](https://www.theinformation.com/articles/what-opening-day-for-asana-and-palantir-says-about-private-tech-stock-values) (The Information)
+  * [ Techie Software Soldier Spy](https://nymag.com/intelligencer/2020/09/inside-palantir-technologies-peter-thiel-alex-karp.html) (Intelligencer)
+  * [ Sourcegraph: Devs are managing 100x more code now than they did in 2010](https://arstechnica.com/gadgets/2020/10/sourcegraph-devs-are-managing-100x-more-code-now-than-they-did-in-2010/) (Ars Technica)
+  * [ HOTorNOT shaped the social web as we know it](https://mashable.com/feature/hotornot-history-20-year-anniversary/) (Mashable)
+  * [ Inside Facebook’s quadruple play: How the company is finally melding its apps](https://www.fastcompany.com/90555442/facebook-messenger-instagram-whatsapp-zuckerberg-privacy-integration) (Fast Company)
+  * [ HYPE MANOF THE CENTURY](https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china) (The Verge)
+
+
+**Friday, September 25**
+  * [ Huang’s Law Is the New Moore’s Law, and Explains Why Nvidia Wants Arm](https://www.wsj.com/articles/huangs-law-is-the-new-moores-law-and-explains-why-nvidia-wants-arm-11600488001?mod=djemalertNEWS) (WSJ)
+  * [ How Nvidia’s CEO Cooked Up America’s Biggest Semiconductor Company](https://www.wsj.com/articles/how-nvidias-ceo-cooked-up-americas-biggest-semiconductor-company-11600184856?mod=djemalertNEWS) (WSJ)
+  * [ This Deal Helped Turn Google Into an Ad Powerhouse. Is That a Problem?](https://www.nytimes.com/2020/09/21/technology/google-doubleclick-antitrust-ads.html) (NYTimes)
+  * [ The Supply of Disinformation Will Soon Be Infinite](https://www.theatlantic.com/ideas/archive/2020/09/future-propaganda-will-be-computer-generated/616400/?scrolla=5eb6d68b7fedc32c19ef33b4) (The Atlantic)
+  * [ Why iPhone users are suddenly going wild creating custom looks for their home screens](https://www.cnbc.com/2020/09/21/ios-14-drives-aesthetic-iphone-home-screen-trend.html) (CNBC)
+
+
+**Friday, September 18**
+  * [ Exclusive: The Billionaire Who Wanted To Die Broke . . . Is Now Officially Broke](https://www.forbes.com/sites/stevenbertoni/2020/09/15/exclusive-the-billionaire-who-wanted-to-die-brokeis-now-officially-broke/#11a5ad443a2a) (Forbes)
+  * [‘Interactive entertainment is the standard bearer of the entertainment business’](https://www.protocol.com/take-two-strauss-zelnick) (Protocol)
+  * [ Remote Work Is Killing the Hidden Trillion-Dollar Office Economy](https://marker.medium.com/remote-work-is-killing-the-hidden-trillion-dollar-office-economy-5800af06b007) (Marker)
+  * [ Your Teenage Email Account Is a Lost Time Capsule](https://onezero.medium.com/your-teenage-email-account-is-a-lost-time-capsule-a7627d53c466) (One Zero)
+  * [ Why the Apple II Didn’t Support Lowercase Letters](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters) (Vintage Computing And Gaming)
+  * [ This unheard Steve Jobs tape is part of an amazing trove of tech history](https://www.fastcompany.com/90541084/this-unheard-steve-jobs-tape-is-part-of-an-amazing-trove-of-tech-history?partner=feedburner&utm_source=feedly&utm_medium=webfeeds&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\)) (Fast Company)
+
+
+**Friday, September 11**
+  * [ Apple's Rising Class of Leaders Will Shape a Post-Tim Cook Era](https://www.bloomberg.com/news/articles/2020-09-11/apple-s-successors-for-ceo-tim-cook-other-top-executives?sref=MzDxCtkS) (Bloomberg)
+  * [ Your Phone Wasn’t Built for the Apocalypse](https://www.theatlantic.com/technology/archive/2020/09/camera-phone-wildfire-sky/616279/?scrolla=5eb6d68b7fedc32c19ef33b4) (The Atlantic)
+  * [ Esports Pros Have ‘Dream’ Jobs—but Game Publishers Have All the Power](https://www.wired.com/story/esports-pros-labor-game-publishers-power/) (Wired)
+  * [ How Netflix's Reed Hastings Rewrote the Hollywood Script](https://www.forbes.com/sites/dawnchmielewski/2020/09/07/how-netflixs-reed-hastings-rewrote-the-hollywood-script/#7d62fff215df) (Forbes)
+  * [ I was skeptical about attending Burning Man in VR, but it’s great](https://www.fastcompany.com/90547369/i-was-skeptical-about-attending-burning-man-in-vr-but-its-great?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\)) (Fast Company)
+
 **Friday, September 04**
   * [ Cash App’s Surge During Covid-19 Pandemic Fuels Square Stock](https://www.wsj.com/articles/cash-apps-surge-during-covid-19-pandemic-fuels-square-stock-11599039003?mod=djemalertNEWS) (WSJ)
   * [The Digital Future of Tabletop Games](https://a16z.com/2020/09/01/tabletop-games-go-digital/) (A16Z)
