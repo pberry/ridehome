@@ -2,6 +2,79 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, January 07**
+  * [CES 2022 was the best auto show in years](https://www.cnet.com/roadshow/news/ces-2022-car-roundup-bmw-cadillac-chevy-chrysler-hyundai-mercedes-sony/) (CNET)
+  * [Can You Really Tell the Difference Between 4K and 8K?](https://gizmodo.com/can-you-really-tell-the-difference-between-4k-and-8k-1848150141?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
+  * [The Pixel Art Revolution Will Be Televised](https://www.wired.com/story/modern-pixel-art-games/) (Wired)
+  * [Banks Tiptoe Toward Their Cloud-Based Future](https://www.nytimes.com/2022/01/03/business/wall-street-cloud-computing.html) (NYTimes)
+  * [The Danger of Leaving Weather Prediction to AI](https://www.wired.com/story/weather-forecasting-artifical-intelligence/) (Wired)
+  * [Wordle Is a Love Story](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html) (NYTimes)
+
+
+**Wednesday, December 29**
+  * [How Discord, Born From an Obscure Game, Became a Social Hub for Young People](https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html) (NYTimes)
+  * [Here’s why streaming services are always duking it out over channels](https://www.theverge.com/2021/12/20/22846634/youtube-tv-disney-streaming-channels-dispute-espn-fx?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+  * [How Shopify Outfoxed Amazon to Become the Everywhere Store](https://www.bloomberg.com/news/features/2021-12-23/shopify-amazon-retail-rivalry-heats-up-with-covid-sparked-online-shopping-booma?sref=Szq5ylDR) (Bloomberg Businessweek)
+  * [We Are at the Dawn of the Age of Physics-Supplied Energy](https://www.wired.co.uk/article/replacing-fossils-fuels) (Wired)
+
+
+**Friday, December 17**
+  * [THE METAVERSE IS ALREADY HERE — AND IT’S FULL OF POKEMON, SAYS NIANTIC CEO JOHN HANKE](https://www.theverge.com/22832490/niantic-ceo-john-hanke-metaverse-pokemon-go-ar-vr-podcast-decoder-interview?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [The ‘To the Moon’ Crash Is Coming](https://www.vice.com/en/article/7kbx9b/the-to-the-moon-crash-is-coming) (Motherboard)
+  * [Strange, horny game ads are flooding social media. I accidentally became obsessed](https://www.theguardian.com/culture/2021/dec/15/strange-horny-game-ads-are-flooding-social-media-i-accidentally-became-obsessed) (The Guardian)
+  * [MATTER’S PLAN TO SAVE THE SMART HOME](https://www.theverge.com/22787729/matter-smart-home-standard-apple-amazon-google) (The Verge)
+  * [Computers Revolutionized Chess. Magnus Carlsen Wins by Being Human](https://www.wsj.com/articles/magnus-carlsen-ian-nepomniachtchi-world-chess-championship-computer-analysis-11639003641?mod=djemalertNEWS) (WSJ)
+
+
+**Friday, December 10**
+  * [Pokémon and the First Wave of Digital Nostalgia](https://www.newyorker.com/culture/infinite-scroll/pokemon-and-the-first-wave-of-digital-nostalgia) (The New Yorker)
+  * [Half a Billion in Bitcoin, Lost in the Dump](https://www.newyorker.com/magazine/2021/12/13/half-a-billion-in-bitcoin-lost-in-the-dump?currentPage=all) (The New Yorker)
+  * [Amazon is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes](https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html) (CNBC)
+  * [HOW AN EXCEL TIKTOKER MANIFESTED HER WAY TO MAKING SIX FIGURES A DAY](https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast) (The Verge)
+  * [Three Steps To The Future](https://www.ben-evans.com/presentations) (Ben Evans' 2022 Slide Deck)
+  * [On “Succession,” Jeremy Strong Doesn’t Get the Joke](https://www.newyorker.com/magazine/2021/12/13/on-succession-jeremy-strong-doesnt-get-the-joke) (The New Yorker)
+
+
+**Friday, December 03**
+*  [Can a Digital Reality Be Jacked Directly Into Your Brain?](https://www.wired.com/story/brain-computer-interfaces-digital-reality/)  (Wired)
+*  [Metaverse Real Estate Piles Up Record Sales in Sandbox and Other Virtual Realms](https://www.wsj.com/articles/metaverse-real-estate-piles-up-record-sales-in-sandbox-and-other-virtual-realms-11638268380?mod=e2tw)  (WSJ)
+*  [World’s first living robots can now reproduce, scientists say](https://www.cnn.com/2021/11/29/americas/xenobots-self-replicating-robots-scn/index.html)  (CNN)
+*  [Planetary scientists are starting to get stirred up by Starship’s potential](https://arstechnica.com/science/2021/12/planetary-scientists-are-starting-to-get-stirred-up-by-starships-potential/)  (ArsTechnica)
+*  [‘Oregon Trail’ at 50: How Three Teachers Created the Computer Game That Inspired — and Diverted — Generations of Students](https://www.the74million.org/article/oregon-trail-at-50-how-three-teachers-created-the-computer-game-that-inspired-and-diverted-generations-of-students/)  (the74million.org)
+*  [Why the Beatles’ ‘Get Back’ May Stand as the Best Rock Doc Ever](https://variety.com/2021/music/opinion/get-back-beatles-essential-rock-documentary-peter-jackson-1235120784/)  (Column) (Variety)
+
+**Friday, December 03**
+  * [Can a Digital Reality Be Jacked Directly Into Your Brain?](https://www.wired.com/story/brain-computer-interfaces-digital-reality/) (Wired)
+  * [Metaverse Real Estate Piles Up Record Sales in Sandbox and Other Virtual Realms](https://www.wsj.com/articles/metaverse-real-estate-piles-up-record-sales-in-sandbox-and-other-virtual-realms-11638268380?mod=e2tw) (WSJ)
+  * [World's first living robots can now reproduce, scientists say](https://www.cnn.com/2021/11/29/americas/xenobots-self-replicating-robots-scn/index.html) (CNN)
+  * [Planetary scientists are starting to get stirred up by Starship’s potential](https://arstechnica.com/science/2021/12/planetary-scientists-are-starting-to-get-stirred-up-by-starships-potential/) (ArsTechnica)
+  * [‘Oregon Trail’ at 50: How Three Teachers Created the Computer Game That Inspired — and Diverted — Generations of Students](https://www.the74million.org/article/oregon-trail-at-50-how-three-teachers-created-the-computer-game-that-inspired-and-diverted-generations-of-students/) (the74million.org)
+  * [Why the Beatles’ ‘Get Back’ May Stand as the Best Rock Doc Ever](https://variety.com/2021/music/opinion/get-back-beatles-essential-rock-documentary-peter-jackson-1235120784/) (Column) (Variety)
+
+
+**Friday, November 19**
+  * [The most influential man on the internet](https://maxread.substack.com/p/the-most-influential-man-on-the-internet) (ReadMax)
+  * [Visions of a U.S. Computer Chip Boom Have Cities Hustling](https://www.nytimes.com/2021/11/17/technology/samsung-semiconductor-chip-production.html?partner=slack&smid=sl-share) (NYTimes)
+  * [The Video Game History Book I Mentioned](https://amzn.to/3DCBNrk)
+  * [GAMECUBE AT 20: NINTENDO INSIDERS ON THE FAILED CONSOLE THAT CHANGED THE INDUSTRY](https://www.videogameschronicle.com/features/gamecube-at-20/) (Video Games Chronicle)
+  * [How Xbox outgrew the console: inside Phil Spencer’s multi-billion dollar gamble](https://www.gq-magazine.co.uk/culture/article/xbox-phil-spencer-todd-howard-interview) (GQ)
+  * [Who Knows Anthony Bourdain?](https://www.eater.com/22747424/anthony-bourdain-biography-laurie-woolever-book-review) (Eater)
+
+
+**Friday, November 12**
+  * [The 10,000 Faces That Launched an NFT Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution/) (Wired)
+  * [The Metaverse and (near-)infinite economic growth](https://noahpinion.substack.com/p/the-metaverse-and-near-infinite-economic) (Noahpinion)
+  * [Chip Shortage Creates New Power Players](https://www.nytimes.com/2021/11/08/technology/computer-chip-shortage.html) (NYTimes)
+  * [The Craziest Sports Story of 2021 Is FC Sheriff](https://grantwahl.substack.com/p/the-craziest-sports-story-of-2021) (Futbol With Grant Wahl)
+
+
+**Friday, November 05**
+  * [Hackers are stealing data today so quantum computers can crack it in a decade](https://www.technologyreview.com/2021/11/03/1039171/hackers-quantum-computers-us-homeland-security-cryptography/) (TechnologyReview.com)
+  * [The Booming Underground Market for Bots That Steal Your 2FA Codes](https://www.vice.com/en/article/y3vz5k/booming-underground-market-bots-2fa-otp-paypal-amazon-bank-apple-venmo) (Motherboard)
+  * [Farewell Offshoring, Outsourcing. Pandemic Rewrites CEO Playbook.](https://www.wsj.com/articles/pandemic-rewrites-ceo-rulebookputting-reliability-before-efficiency-11635779679?mod=hp_lead_pos5) (WSJ)
+  * [Silicon Valley wants to power the U.S. war machine](https://www.fastcompany.com/90686262/silicon-valley-wants-to-power-the-u-s-war-machine) (Fast Company)
+  * [The Metaverse Takes Manhattan](https://www.nytimes.com/2021/11/05/technology/nft-nyc-metaverse.html) (NYTimes)
+
 **Friday, October 29**
   * [MARK ZUCKERBERG ON WHY FACEBOOK IS REBRANDING TO META](https://www.theverge.com/22749919/mark-zuckerberg-facebook-meta-company-rebrand) (The Verge)
   * [What the metaverse will (and won’t) be, according to 28 experts](https://www.fastcompany.com/90678442/what-is-the-metaverse) (Fast Company)
