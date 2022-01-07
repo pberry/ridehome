@@ -2,7 +2,8 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 * [Show Links by Day 2022](all-links-2022.md)
 * [Show Links by Day Pre 2022](all-links.md)
-* [Long reads](longreads.md)
+* [Long reads 2022](longreads-2022.md)
+* [Long reads Pre 2022](longreads.md)
 * [Coronavirus Morning report](coronavirus-daily-briefing.md)
 
 **Posts**
