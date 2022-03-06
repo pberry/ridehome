@@ -2,6 +2,38 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 04**
+  * [How shunning Russia could offer the U.S. tech giants an easy win](https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067) (Politico)
+  * [Tech Companies Are Reopening Their Offices, but Tech Work Has Changed Forever](https://www.wsj.com/articles/tech-companies-reopen-their-offices-facebook-google-11646365155?mod=djemalertNEWS) (WSJ)
+  * [The Role Of Turkish Drones In Ukraine's War](https://www.ndtv.com/world-news/the-role-of-turkish-drones-in-ukraines-war-2799563) (NDTV)
+  * [These women are staking their claim to Web3 and the metaverse](https://www.fastcompany.com/90722634/women-web3-metaverse) (Fast Company)
+  * [The ‘Incredible Treasure Chest’ of Homestar Runner](https://www.vulture.com/article/homestar-runner-krister-johnson-interview.html) (Vulture)
+
+
+**Friday, February 25**
+  * [A moment of clarity](https://noahpinion.substack.com/p/a-moment-of-clarity?utm_source=url) (Noapinion Substack)
+  * [Web3 Developers Have Found a Functioning Metaverse. It’s ‘Minecraft’.](https://www.vice.com/en/article/wxd4w5/web3-developers-have-discovered-a-functioning-metaverse-its-minecraft) (Vice)
+  * [CAN THE LAW KEEP UP WITH CRYPTO?](https://www.theverge.com/22944579/crypto-bitcoin-internet-law-nft-tiktok-dances-tonya-evans-interview?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Crypto Scammers’ New Target: Dating Apps](https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html?partner=slack&smid=sl-share) (NYTimes)
+  * [Amazon’s sprawling grocery business has become an ‘expensive hobby’ with a cloudy future](https://www.cnbc.com/2022/02/19/amazons-sprawling-grocery-business-has-become-an-expensive-hobby.html) (CNBC)
+
+
+**Friday, February 18**
+  * [The World Needs What Intel Makes. Can It Make a Comeback?](https://www.nytimes.com/2022/02/17/technology/intel-ceo-patrick-gelsinger.html) (NYTimes)
+  * [Free your mind: Meditation could be VR's next killer app](https://www.protocol.com/entertainment/calm-tripp-evolvr-vr-meditation) (Protocol)
+  * [No one cares about your redesign](https://www.garbageday.email/p/no-one-cares-about-your-redesign?r=1dhmw&utm_source=url) (Garbage Day)
+  * [If Russia Invades Ukraine, TikTok Will See It Up Close](https://www.wired.com/story/russia-ukraine-military-photos-video/) (Wired)
+  * [Francis Ford Coppola’s $100 Million Bet](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather) (GQ)
+
+
+**Friday, February 11**
+  * [Flexport Is Silicon Valley’s Solution To The Supply Chain Mess—Why Do Insiders Hope It Sinks?](https://www.forbes.com/sites/alexkonrad/2022/02/07/flexport-is-silicon-valleys-solution-to-the-supply-chain-mess-why-do-insiders-hope-it-sinks/?sh=7d2dcf392753) (Forbes)
+  * [How Telegram Became the Anti-Facebook](https://www.wired.com/story/how-telegram-became-anti-facebook/) (Wired)
+  * [Sony's AI Drives a Race Car Like a Champ](https://www.wired.com/story/sony-ai-drives-race-car-champ/) (Wired)
+  * [Russia’s drone army contains heaps of Western electronics. Can the U.S. cut them off?](https://www.washingtonpost.com/technology/2022/02/11/russian-military-drones-ukraine/) (Washington Post)
+  * [The Little Streaming Comedy Platform That Couldn’t](https://www.vulture.com/article/seeso-oral-history.html?utm_source=tw&utm_medium=s1&utm_campaign=vulture) (Vulture)
+  * [Amazon’s Lord of the Rings Series Rises: Inside The Rings of Power](https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look) (Vanity Fair)
+
 **Friday, February 04**
   * [HOW ONE COMPANY TOOK OVER THE NFT TRADE](https://www.theverge.com/2022/2/2/22914081/open-sea-nft-marketplace-web3-fundraising-finzer-a16z?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [The Unnerving Rise of Video Games that Spy on You](https://www.wired.com/story/video-games-data-privacy-artificial-intelligence/) (Wired)
@@ -9,7 +41,6 @@ _This collection is no longe being updated regularly. I still update it from tim
   * [Startup Investors Cut Valuations Amid Tech Stock Rout, Dismal IPOs](https://www.wsj.com/articles/red-hot-startup-market-starts-to-chill-as-investors-turn-on-tech-stocks-11643718783?mod=djemalertNEWS) (WSJ)
   * [How IBM’s Watson Went From the Future of Health Care to Sold Off for Parts](https://slate.com/technology/2022/01/ibm-watson-health-failure-artificial-intelligence.html?utm_medium=social&utm_campaign=traffic&utm_source=article&utm_content=twitter_share) (Slate)
   * [Don’t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft) (Luttig's Learnings)
-
 
 **Friday, January 28**
   * [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) (Folding Ideas on YouTube)
