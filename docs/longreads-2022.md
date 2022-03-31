@@ -2,6 +2,30 @@
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 25**
+  * [LAPSUS$: How a Sloppy Extortion Gang Became One of the Most Prolific Hacking Groups](https://www.vice.com/en/article/3abedn/who-is-lapsus-hacking-gang) (Motherboard/Vice)
+  * [The Man Behind Ethereum Is Worried About Crypto's Future](https://time.com/6158182/vitalik-buterin-ethereum-profile/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits) (Time)
+  * [There's something off about ApeCoin](https://www.platformer.news/p/theres-something-off-about-apecoin?s=w) (Platformer)
+  * [Of Course We’re Living in a Simulation](https://www.wired.com/story/living-in-a-simulation/?src=longreads) (Wired)
+  * [Nicolas Cage Can Explain It All](https://www.gq.com/story/nicolas-cage-april-cover-profile) (GQ)
+
+
+**Friday, March 18**
+  * [Substack’s Ideology](https://every.to/divinations/substack-s-ideology) (Divinations)
+  * [A Big Bet to Kill the Password for Good](https://www.wired.com/story/fido-alliance-ios-android-password-replacement/) (Wired)
+  * [Razzlekhan: The Untold Story Of How A YouTube Rapper Became A Suspect In A $4 Billion Bitcoin Fraud](https://www.forbes.com/sites/cyrusfarivar/2022/03/17/razzlekhan-bitcoin-heather-morgan/?sh=6c0511ec15f8) (Forbes)
+  * [Six months in, El Salvador’s bitcoin gamble is crumbling](https://restofworld.org/2022/el-salvador-bitcoin/) (Rest Of World)
+  * [The neon shortage is a bad sign](https://www.vox.com/recode/22983468/neon-shortage-chips-semiconductors-russia-ukraine) (Recode)
+  * [Beating Japan at Its Own (Video) Game: A Smash Hit From China](https://www.nytimes.com/2022/03/16/business/genshin-impact-china-japan.html) (NYTimes)
+
+
+**Friday, March 11**
+  * [The Great Tech Hub Exodus Didn't Quite Happen](https://www.wired.com/story/pandemic-remote-working-fail/) (Wired)
+  * [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/) (Nautilus)
+  * [Will Transformers Take Over Artificial Intelligence?](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/) (Quanta Magazine)
+  * [The rise of Canva, the $40 billion design juggernaut](https://www.fastcompany.com/90721894/canva-design-platform-most-innovative-companies) (Fast Company)
+  * [AngelList: A Venture Constellation](https://www.readthegeneralist.com/briefing/angellist) (The Generalist)
+
 **Friday, March 04**
   * [How shunning Russia could offer the U.S. tech giants an easy win](https://www.politico.com/news/2022/03/04/u-s-tech-russia-money-00014067) (Politico)
   * [Tech Companies Are Reopening Their Offices, but Tech Work Has Changed Forever](https://www.wsj.com/articles/tech-companies-reopen-their-offices-facebook-google-11646365155?mod=djemalertNEWS) (WSJ)
