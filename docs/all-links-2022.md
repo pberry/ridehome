@@ -289,7 +289,13 @@
 
 **Thursday, August 18 2022 - Thu. 08/18 – Does Mark Zuckerberg Have No Taste?**
 
-No show links for this episode ¯\_(ツ)_/¯
+*  [Apple Targets Sept. 7 for iPhone 14 Launch in Flurry of New Devices](https://www.bloomberg.com/news/articles/2022-08-17/apple-targets-sept-7-for-iphone-14-launch-in-flurry-of-devices?sref=Szq5ylDR)  (Bloomberg)
+*  [Netflix’s Ad-Supported Plan Will Block Downloads of Shows, Films](https://www.bloomberg.com/news/articles/2022-08-17/netflix-s-ad-supported-plan-will-block-downloads-of-shows-films?sref=Szq5ylDR)  (Bloomberg)
+*  [VPNs on iOS are a scam](https://www.michaelhorowitz.com/VPNs.on.iOS.are.scam.php)  (Michael Horowitz)
+*  [U.S. Streaming Tops Cable TV Viewing for First Time, Nielsen Says](https://variety.com/2022/digital/news/streaming-tops-cable-tv-viewing-nielsen-1235344466/)  (Variety)
+*  [Windows 11’s widgets can now trigger notifications on your taskbar](https://www.theverge.com/2022/8/17/23309429/microsoft-windows-11-widgets-notifications-taskbar?scrolla=5eb6d68b7fedc32c19ef33b4)  (The Verge)
+*  [Cameo Now Lets You Have 10-Minute Calls With Celebs](https://gizmodo.com/cameo-live-calls-celebs-1849425448?scrolla=5eb6d68b7fedc32c19ef33b4)  (Gizmodo)
+*  [Does Mark Zuckerberg Not Understand How Bad His Metaverse Looks?](https://www.forbes.com/sites/paultassi/2022/08/17/does-mark-zuckerberg-not-understand-how-bad-his-metaverse-looks/?sh=1b132adf37d4)  (Forbes)
 
 
 **Wednesday, August 17 2022 - Wed. 08/17 – “Anti Party” Technology**
@@ -1045,7 +1051,9 @@ No show links for this episode ¯\_(ツ)_/¯
 
 **Friday, May 13 2022 - Fri. 05/13 – Elon Puts Twitter Bid On “Hold,” But Is “Still Committed”**
 
-No show links for this episode ¯\_(ツ)_/¯
+*  [Elon Musk says Twitter deal ‘on hold’ after spam / fake account report](https://www.theverge.com/2022/5/13/23070306/elon-musk-twitter-deal-on-hold-spam-inauthentic-accounts)  (The Verge)
+*  [Terraform Again Halts Blockchain Behind UST Stablecoin, Luna](https://www.bloomberg.com/news/articles/2022-05-13/terraform-again-halts-blockchain-behind-ust-stablecoin-luna?sref=Szq5ylDR)  (Bloomberg)
+*  [Ex-Meta crypto chief David Marcus launches Bitcoin payments startup backed by a16z and Paradigm ](https://techcrunch.com/2022/05/12/ex-facebook-crypto-chief-david-marcus-debuts-his-next-play-a-bitcoin-payments-startup-backed-by-a16z-and-paradigm/) (TechCrunch)
 
 
 **Thursday, May 12 2022 - Thu. 05/12 – The Everything Everywhere All At Once File Overflows**
