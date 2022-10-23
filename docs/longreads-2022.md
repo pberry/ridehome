@@ -1,6 +1,147 @@
 {% include_relative _includes/longreads-header.md %}
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+**Friday, October 21**
+  * [Technology that lets us “speak” to our dead relatives has arrived. Are we ready?](https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/) (MIT Technology Review)
+  * [How Gamers Beat NFTs](https://www.bloomberg.com/news/features/2022-10-17/how-gamers-beat-nfts?sref=Szq5ylDR) (Bloomberg)
+  * [The Hottest App Right Now? One Where Teens Have to Say Nice Things About Each Other](https://www.wsj.com/articles/the-hottest-app-right-now-one-where-teens-have-to-say-nice-things-about-each-other-11665940854?mod=djemalertNEWS) (WSJ)
+  * [I Turned My Home Into a Fortress of Surveillance](https://www.theatlantic.com/technology/archive/2022/10/home-security-surveillance-system-cameras/671760/) (The Atlantic)
+
+
+**Friday, October 14**
+  * [WhatsApp is now a spammers’ paradise in India](https://restofworld.org/2022/india-whatsapp-spam/) (Rest of World)
+  * [The GIF Is on Its Deathbed](https://www.theatlantic.com/technology/archive/2022/10/using-reaction-gifs-over-tumblr-giphy/671680/?scrolla=5eb6d68b7fedc32c19ef33b4) (The Atlantic)
+  * [Can Kickstarter’s new CEO help the company get its mojo back?](https://www.fastcompany.com/90793881/can-kickstarters-new-ceo-help-the-company-get-its-mojo-back?partner=rss) (Fast Company)
+  * [The computer errors from outer space](https://www.bbc.com/future/article/20221011-how-space-weather-causes-computer-errors) (BBC Future)
+  * [How the Glengarry Glen Ross “Coffee Is for Closers” Scene Got Made](https://www.vanityfair.com/hollywood/2022/10/how-the-glengarry-glen-ross-coffee-is-for-closers-scene-got-made) (Vanity Fair)
+
+
+**Friday, October 07**
+  * [Even After $100 Billion, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere?sref=Szq5ylDR) (Bloomberg)
+  * [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) (Jay Alammar)
+  * [Swiss Dropout Worth $14 Billion Moves Startup Away From Porn](https://www.bloomberg.com/news/articles/2022-10-03/checkout-com-s-billionaire-founder-moves-startup-away-from-porn?sref=Szq5ylDR) (Bloomberg)
+  * [The Next Big Battle Between Google and Apple Is for the Soul of Your Car](https://www.wsj.com/articles/the-next-big-battle-between-google-and-apple-is-for-the-soul-of-your-car-11664596817?mod=djemalertNEWS) (WSJ)
+  * [How To Download All of Wikipedia onto a USB Flash Drive in 2022](https://planetofthepaul.com/wikipedia-download-usb-flash/) (Planet of the Paul)
+  * [A Canticle for Leibowitz](https://en.wikipedia.org/wiki/A_Canticle_for_Leibowitz) (Wikipedia)
+
+
+**Friday, September 30**
+*  [Google is trying to reinvent search — by being more than a search engine](https://www.theverge.com/2022/9/28/23375691/google-search-multisearch-visual-keywords)  (The Verge)
+*  [Twitter Is in This Mess Because Jack Dorsey Was Too Busy Being a Bitcoin Influencer](https://www.bloomberg.com/news/articles/2022-09-29/twitter-twtr-s-elon-musk-mess-exposes-jack-dorsey-s-flaws?sref=Szq5ylDR)  (Bloomberg)
+*  [Here’s Why Movie Dialogue Has Gotten More Difficult To Understand (And Three Ways To Fix It)](https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/)  (SlashFilm)
+*  [Someone is pretending to be me.](https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/)  (Connor Tumbleson)
+
+**Friday, September 23**
+  * [The Sneaky Genius of Apple’s AirPods Empire](https://www.bloomberg.com/news/features/2022-09-22/apple-airpods-sales-bode-well-for-vr-headset?sref=Szq5ylDR) (Bloomberg)
+  * [How a Quebec Lithium Mine May Help Make Electric Cars Affordable](https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html?partner=slack&smid=sl-share) (NYTimes)
+  * [Unauthorized Shein boutiques are popping up across Mexico](https://restofworld.org/2022/women-unofficial-shein-boutiques-mexico/) (Rest of World)
+  * [College Dropout Turns Thiel Fellowship Into a $2 Billion Figma Fortune](https://www.bloomberg.com/news/articles/2022-09-16/college-dropout-turns-thiel-fellowship-into-a-2-billion-fortune?sref=Szq5ylDR) (Bloomberg)
+  * [Why Do All These 20-Somethings Have Closed Captions Turned On?](https://www.wsj.com/articles/why-do-all-these-20-somethings-have-closed-captions-turned-on-11663386473?mod=djemalertNEWS) (WSJ)
+
+
+**Friday, September 16**
+*  [The AI Unbundling](https://stratechery.com/2022/the-ai-unbundling/)  (Stratechery)
+*  [Deere Invests Billions in Self-Driving Tractors, Smart Crop Sprayers](https://www.wsj.com/articles/deere-invests-billions-in-self-driving-tractors-smart-crop-sprayers-11662904802?mod=djemalertNEWS)  (WSJ)
+*  [The Collectors Who Save Video-Game History from Oblivion](https://www.newyorker.com/tech/annals-of-technology/the-collectors-who-save-video-game-history-from-oblivion)  (The New Yorker)
+*  [The Enduring Allure of Choose Your Own Adventure Books](https://www.newyorker.com/magazine/2022/09/19/the-enduring-allure-of-choose-your-own-adventure-books)  (The New Yorker)
+
+
+**Friday, September 09**
+  * [With Stable Diffusion, you may never believe what you see online again](https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/) (ArsTechnica)
+  * [They built a Minecraft crypto empire. Then it all came crashing down](https://restofworld.org/2022/minecraft-nft-ban-critterz/) (Rest of World)
+  * [Inside the World's First No-Coiner Conference](https://decrypt.co/109218/inside-the-worlds-first-no-coiner-conference) (Decrypt)
+  * [Just a Few People Crowned Some of YouTube’s Earliest Hits](https://www.theatlantic.com/technology/archive/2022/09/youtube-homepage-editor-google-algorithm-book-excerpt/671339/?scrolla=5eb6d68b7fedc32c19ef33b4) (The Atlantic)
+  * [The super-rich ‘preppers’ planning to save themselves from the apocalypse](https://www.theguardian.com/news/2022/sep/04/super-rich-prepper-bunkers-apocalypse-survival-richest-rushkoff?CMP=Share_iOSApp_Other) (The Guardian)
+  * [Apple's features graveyard: Once heavily marketed, now gone](https://appleinsider.com/articles/22/08/30/apples-features-graveyard-once-heavily-marketed-now-gone) (Apple Insider)
+  * [The ‘deaditors’ of Wikipedia](https://www.haykranen.nl/2018/06/15/the-deaditors-of-wikipedia/) (HayKranen.nl)
+
+
+**Friday, September 02**
+*  [An Apple Watch for Your 5-Year-Old? More Parents Say Yes.](https://www.nytimes.com/2022/09/01/technology/apple-watch-children-kids.html)  (NYTimes)
+*  [Interview: Vitalik Buterin, creator of Ethereum](https://noahpinion.substack.com/p/interview-vitalik-buterin-creator)  (Noahpinion)
+*  [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)  (Waxy.org)
+*  [The Rise of Tech Blogs in the Mid-2000s](https://niritweissblatt.medium.com/the-rise-of-tech-blogs-in-the-mid-2000s-77abe3b26c9f)  (Nirit Weiss-Blatt)
+*  [Kids Yell “Poop” At Alexa, And These Musicians Profit](https://www.buzzfeednews.com/article/katienotopoulos/alexa-play-the-poop-song)  (BuzzFeed)
+*  [AMAZON’S THE LORD OF THE RINGS: THE RINGS OF POWER IS SMALL-SCREEN HIGH FANTASY DONE RIGHT](https://www.theverge.com/23329415/the-lord-of-the-rings-of-power-review-amazon-prime?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)  (The Verge)
+
+
+**Friday, August 26**
+  * [The Crypto World Can’t Wait for ‘the Merge’](https://www.nytimes.com/2022/08/26/technology/crypto-ethereum-the-merge.html) (NYTimes)
+  * [Ethereum Overhaul Risks Creating a New Class of Kingpins](https://www.bloomberg.com/news/articles/2022-08-20/ethereum-overhaul-risks-creating-a-new-class-of-crypto-kingpins?sref=Szq5ylDR) (Bloomberg)
+  * [TikTok, Hospitals And Tutoring Apps: The Many Tentacles Of Chinese Tech Giant ByteDance](https://www.forbes.com/sites/alexandralevine/2022/08/24/tiktok-parent-bytedance-companies/?sh=5bc4788a6d23) (Forbes)
+  * [After the Zodiac Killer's '340' Cipher Stumped the FBI, Three Amateurs Made a Breakthrough](https://www.popularmechanics.com/science/math/a40601672/zodiac-killer-340-cipher-solution-fbi/?src=longreads) (Popular Mechanics)
+  * [‘BlackBerry’: Story of Doomed Smartphone Company Casts Jay Baruchel & Glenn Howerton, XYZ Films Boards Sales for TIFF (EXCLUSIVE)](https://variety.com/2022/film/global/blackberry-movie-smartphone-jay-baruchel-1235347842/) (Variety)
+
+
+**Friday, August 19**
+  * [Browser Startups Take Aim at Google Chrome, Apple Safari](https://www.wsj.com/articles/browsers-are-back-in-the-antitrust-hot-seat-11660815001?mod=e2tw) (WSJ)
+  * [The Crypto Geniuses Who Vaporized a Trillion Dollars](https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html) (Intelligencer)
+  * [Streaming Is Starting to Look A Lot Like Cable TV](https://www.bloomberg.com/news/newsletters/2022-08-14/streaming-is-starting-to-look-a-lot-like-cable-tv?sref=Szq5ylDR) (Lucas Shaw/Bloomberg)
+  * [Woman Pictured In The Viral 'Girl Explaining' Meme Explains The Origins And Her Reaction To Sudden Internet Fame](https://news.knowyourmeme.com/news/woman-pictured-in-the-viral-girl-explaining-meme-explains-the-origins-and-her-reaction-to-sudden-internet-fame) (Know Your Meme News)
+  * [How Nokia Ringtones Became The First Viral Earworms](https://www.theverge.com/c/23290332/nokia-ringtones-music-history) (The Verge)
+
+
+**Friday, August 12**
+  * [How Did Two Unknown Latin Music Operators Make $23 Million From YouTube? The IRS Says They Stole It](https://www.billboard.com/pro/youtube-fraud-royalties-scam-irs-latin-chenel-yenddi-mediamuv-adrev/) (Billboard)
+  * [Tornado Cash Crackdown Shows Limits of Regulating Cryptocurrency Services](https://www.wsj.com/articles/tornado-cash-crackdown-shows-limits-of-regulating-cryptocurrency-services-11660220579?mod=djemalertNEWS) (WSJ)
+  * [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/) (ArsTechnica)
+  * [New – AWS Private 5G – Build Your Own Private Mobile Network](https://aws.amazon.com/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/) (AWS Blog)
+  * [The High-Stakes Race to Engineer New Psychedelic Drugs](https://www.wired.com/story/race-to-engineer-new-psychedelic-drugs/) (Wired)
+  * [The End of Manual Transmission](https://www.theatlantic.com/technology/archive/2022/08/stick-shift-manual-transmission-cars/671078/) (The Atlantic)
+
+
+**Friday, August 05**
+  * [The endless search for a crypto use case](https://networked.substack.com/p/the-endless-search-for-a-crypto-use) (Networked substack)
+  * [It’s paintbrushes at dawn as artists feel the pressure of AI-generated art](https://techcrunch.com/2022/08/02/ai-art-generated/) (TechCrunch)
+  * [CNN Exclusive: FBI investigation determined Chinese-made Huawei equipment could disrupt US nuclear arsenal communications](https://www.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html) (CNN)
+  * [THE UNSUNG INVENTOR WHO CHASED THE LED RAINBOW](https://spectrum.ieee.org/yellow-led-inventor) (ieee Spectrum)
+
+
+**Friday, July 29**
+  * [The Buy Now, Pay Later Juggernaut Is About to Be Tested](https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business?sref=Szq5ylDR) (Bloomberg)
+  * [F.T.C. Chair Upends Antitrust Standards With Meta Lawsuit](https://www.nytimes.com/2022/07/28/technology/ftc-lina-khan-meta.html) (NYTimes)
+  * [Who Is Collecting Data from Your Car?](https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car) (The Markup)
+  * [TikTok and the Fall of the Social-Media Giants](https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants) (The New Yorker)
+  * [RollerCoaster Tycoon taught me to be a ruthless capitalist](https://www.polygon.com/23220766/rollercoaster-tycoon-retrospective?utm_campaign=polygon&utm_content=chorus&utm_medium=social&utm_source=twitter) (Polygon)
+
+
+**Friday, July 22**
+  * [Chiplets helped save AMD. They might also help save Moore’s law and head off an energy crisis.](https://www.protocol.com/enterprise/amd-intel-chiplets-moores-law) (Protocol)
+  * [Meta’s next big bet: The ‘metaversity’](https://www.protocol.com/enterprise/metaverse-in-education-morehouse-meta) (Protocol)
+  * [Amazon C.E.O. Andy Jassy Breaks From the Bezos Way](https://www.nytimes.com/2022/07/18/technology/amazon-ceo-andy-jassy.html?partner=slack&smid=sl-share) (NYTimes)
+  * [The Great Fiction of AI](https://www.theverge.com/c/23194235/ai-fiction-writing-amazon-kindle-sudowrite-jasper) (The Verge)
+  * [The Re-Reinvention of the Travel Agent](https://skift.com/2022/07/20/the-re-reinvention-of-the-travel-agent/) (Skift)
+
+
+**Friday, July 15**
+  * [How Three Arrows Capital Blew Up and Set Off a Crypto Contagion](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac?sref=Szq5ylDR) (Bloomberg)
+  * [The Standards Innovation Paradox](https://mignano.medium.com/the-standards-innovation-paradox-e14cab521391) (Michael Mignano Medium)
+  * S[iberia or Japan? Expert Google Maps Players Can Tell at a Glimpse. ](https://www.nytimes.com/2022/07/07/business/geoguessr-google-maps.html?partner=slack&smid=sl-share)(NYTimes)
+  * [Advanced E.V. Batteries Move From Labs to Mass Production](https://www.nytimes.com/2022/07/12/business/electric-vehicle-batteries.html?partner=slack&smid=sl-share) (NYTimes)
+  * [How the Webb sends its hundred-megapixel images a million miles back to Earth ](https://techcrunch.com/2022/07/12/how-james-webb-space-telescope-jwst-sends-images-to-earth/)(TechCrunch)
+  * [The Webb Space Telescope’s Profound Data Challenges](https://spectrum.ieee.org/james-webb-telescope-communications) (iee Spectrum)
+
+
+**Thursday, July 07**
+  * [Keeping Phones Running in Wartime Pushes Kyivstar to the Limit](https://www.bloomberg.com/news/articles/2022-07-04/keeping-phones-running-in-wartime-pushes-kyivstar-to-the-limit?sref=Szq5ylDR) (Bloomberg)
+  * [The Metaverse in 2040](https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/) (Pew Research Center)
+  * [Not Just a Tennis Podcast, but Rather ‘The’ Tennis Podcast](https://www.nytimes.com/2022/06/28/sports/tennis/tennis-podcast-wimbledon.html?partner=slack&smid=sl-shar) (NYTimes)
+  * [Inside a Superfan's Secret Friendship With Eddie Van Halen](https://www.rollingstone.com/music/music-features/eddie-van-halen-secret-friendship-emails-1367678/) (Rolling Stone)
+
+
+**Thursday, June 30**
+  * [Did Razzlekhan and Dutch Pull Off History’s Biggest Crypto Heist?](https://www.bloomberg.com/news/features/2022-06-30/how-the-world-s-biggest-bitcoin-btc-hack-at-bitfinex-got-botched?sref=Szq5ylDR) (Bloomberg)
+  * [Cyber Pirates Prowling Ship Controls Threaten Another Big Shock](https://www.bloomberg.com/news/articles/2022-06-28/cyber-pirates-prowling-ship-controls-threaten-another-big-shock?sref=Szq5ylDR) (Bloomberg)
+  * [The Accidental Media Critics of YouTube](https://www.nytimes.com/2022/06/29/magazine/youtube-critics.html?partner=slack&smid=sl-share) (NYTimes Magazine)
+  * [HOW ONE OF GAMING’S MOST INTIMIDATING GENRES SPAWNED A LEGION OF HITS](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
+
+**Friday, June 24**
+  * [Web3 Use Cases: Today](https://www.notboring.co/p/web3-use-cases-today) (Not Boring)
+  * [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases) (Evan Conrad)
+  * [How Russia’s vaunted cyber capabilities were frustrated in Ukraine](https://www.washingtonpost.com/opinions/2022/06/21/russia-ukraine-cyberwar-intelligence-agencies-tech-companies/) (Washington Post)
+  * [Self-Driving Big Rigs Are Coming. Is America Ready?](https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823) (WSJ)
+  * [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making) (Game Developer)
 
 **Friday, June 17**
   * [What Should You Do With Your Options During a Downturn?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn) (Every)
