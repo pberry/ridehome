@@ -1,3 +1,743 @@
+**Thursday, December 29 2022 - Thu. 12/29 – Someone Tell Zuck About This ABBA Avatar Concert**
+
+  * [Alameda Research wallets swap several crypto tokens for bitcoin](https://www.theblock.co/post/198193/alameda-research-wallets-swap-several-crypto-tokens-for-bitcoin) (The Block)
+  * [U.S. charges fraud in Mango crypto manipulation case](https://www.reuters.com/legal/us-charges-accused-mango-crypto-manipulator-with-fraud-2022-12-27/) (Reuters)
+  * [Crypto Trader’s Fraud Charges Show DeFi Isn’t Outside the Law](https://www.bloomberg.com/news/articles/2022-12-28/crypto-trader-s-fraud-charges-over-mango-exploit-show-defi-isn-t-outside-the-law?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon Has Discussed a Stand-Alone Sports App as Andy Jassy Doubles Down on Prime Video](https://www.theinformation.com/articles/amazon-plans-a-stand-alone-sports-app-as-andy-jassy-doubles-down-on-prime-video?rc=64g9cw) (The Information)
+  * [Tech stocks got whacked in 2022 — but one server maker soared almost 90%, beating all its peers](https://www.cnbc.com/2022/12/28/supermicro-almost-doubled-in-value-in-2022-as-tech-stocks-plunge.html) (CNBC)
+  * [ABBA’s successful avatar show in London offers a glimpse at a daring new direction for live music](https://www.cnbc.com/2022/12/29/abba-voyage-avatar-show-in-london-offers-glimpse-of-future-for-live-music.html) (CNBC)
+
+
+
+**Tuesday, December 27 2022 - Tue. 12/27 – Is The Sun Setting On SOL?**
+
+  * [Solana’s Top NFT Projects DeGods and Y00ts to Migrate Chains](https://www.coindesk.com/web3/2022/12/26/solanas-top-nft-projects-degods-and-y00ts-to-migrate-chains/) (CoinDesk)
+  * [Apple’s business under growing threat from China’s Covid wave](https://www.ft.com/content/ae7ab334-e769-4035-bab1-b1f42031723e) (Financial Times)
+  * [Study finds AI assistants help developers produce code that's more likely to be buggy](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/) (The Register)
+  * [IRS Delays $600 Tax Reporting Rule for Venmo, Etsy Sellers](https://www.bloomberg.com/news/articles/2022-12-23/irs-delays-600-tax-report-threshold-for-venmo-etsy-sellers?sref=Szq5ylDR) (Bloomberg)
+  * [American Bargain Hunters Flock to a New Online Platform Forged in China](https://www.wsj.com/articles/american-bargain-hunters-flock-to-a-new-online-platform-forged-in-china-11671851837?mod=djemalertNEWS) (WSJ)
+
+
+
+**Thursday, December 22 2022 - Thu. 12/22 – Caroline Drops A Dime**
+
+  * [Two Bankman-Fried colleagues plead guilty to fraud](https://www.washingtonpost.com/business/2022/12/21/caroline-ellison-fraud-charges/) (Washington Post)
+  * [Twitter adds BTC and ETH price indexes to search function](https://cointelegraph.com/news/twitter-quietly-adds-btc-and-eth-price-indexes-to-search-function) (CoinTelegraph)
+  * [A New Chat Bot Is a ‘Code Red’ for Google’s Search Business](https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html) (NYTimes)
+  * [YouTube Paying Roughly $2 Billion a Year for NFL Sunday Ticket](https://www.wsj.com/articles/youtube-cements-its-tv-shift-with-nfl-sunday-ticket-deal-11671711836?mod=djemalertNEWS) (WSJ)
+  * [FCC proposes record $300 million fine against auto warranty robocall campaign](https://www.cyberscoop.com/fcc-robocall-fine-autowarranty/) (CyberScoop)
+
+
+
+**Wednesday, December 21 2022 - Wed. 12/21 – YouTube Sunday Ticket?**
+
+  * [Google’s YouTube in Talks for Rights to NFL Sunday Ticket](https://www.wsj.com/articles/nfl-in-advanced-talks-with-googles-youtube-for-sunday-ticket-rights-deal-11671579236?mod=djemalertNEWS) (WSJ)
+  * [Anker’s Eufy breaks its silence on security cam security](https://www.theverge.com/2022/12/20/23519772/anker-eufy-security-camera-statement-december-19-2022) (The Verge)
+  * [Kuo: Apple to Cancel or Postpone 2024 iPhone SE 4 ](https://www.macrumors.com/2022/12/20/apple-to-cancel-or-postpone-iphone-se-4/)(MacRumors)
+  * [Slow fade for Google and Meta's ad dominance](https://www.axios.com/2022/12/20/google-meta-duopoly-online-advertising) (Axios)
+  * [OpenAI releases Point-E, an AI that generates 3D models](https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/) (TechCrunch)
+  * [‘South Park’ Creators Trey Parker and Matt Stone Land $20 Million in Funding for Their Deepfake VFX Studio](https://variety.com/2022/digital/news/trey-parker-matt-stone-deep-voodoo-deepfake-funding-1235466563/) (Variety)
+
+
+
+**Tuesday, December 20 2022 - Tue. 12/20 – An Old Crypto Mystery Resurfaces**
+
+  * [Amazon Agrees to Settle EU Antitrust Cases, Avoiding Fines](https://www.wsj.com/articles/amazon-agrees-to-settle-eu-antitrust-cases-avoiding-fines-11671538014?mod=djemalertNEWS) (WSJ)
+  * [Bitcoin Addresses Tied to Defunct Canadian Crypto Exchange QuadrigaCX Wake Up](https://www.coindesk.com/policy/2022/12/19/bitcoin-addresses-tied-to-defunct-canadian-crypto-exchange-quadrigacx-wake-up/) (CoinDesk)
+  * [TikTok’s new feature will tell you why a particular video appeared in your For You feed](https://techcrunch.com/2022/12/20/tiktoks-tell-you-why-a-particular-video-appeared-in-for-you-feed/) (TechCrunch)
+  * [Apple to start making MacBooks in Vietnam by mid-2023](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-start-making-MacBooks-in-Vietnam-by-mid-2023) (NikkeiAsia)
+  * [Netflix’s Ad-Supported Tier Was Its Least Popular Plan, Analytics Firm Estimates](https://www.wsj.com/articles/netflixs-ad-supported-tier-was-its-least-popular-plan-in-launch-month-analytics-firm-estimates-11671539939?mod=djemalertNEWS) (WSJ)
+  * [More than two million users have flocked to Mastodon since Elon Musk took over Twitter](https://www.theverge.com/2022/12/20/23518325/mastodon-monthly-active-users-twitter-elon-musk) (The Verge)
+  * [Magna to Buy Veoneer Vehicle Safety Unit for $1.5 Billion](https://www.bloomberg.com/news/articles/2022-12-20/magna-to-buy-veoneer-vehicle-safety-unit-for-1-5-billion?sref=Szq5ylDR) (Bloomberg)
+  * [Silicon Valley start-ups race for debt deals in funding crunch](https://www.ft.com/content/d12a4baa-53c6-4256-b125-d25622f9555f) (FT)
+  * [Coinbase’s Value Is $1 Billion Below ‘Joke’ Token Dogecoin’s](https://www.bloomberg.com/news/articles/2022-12-19/coinbase-s-value-now-1-billion-below-joke-token-dogecoin-s?srnd=premium&sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Monday, December 19 2022 - Mon. 12/19 – Elon’s Voted Himself Off The Twitter Island?**
+
+  * [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors) (The Verge)
+  * [Google is letting businesses try out client-side encryption for Gmail](https://www.theverge.com/2022/12/16/23513243/google-gmail-client-side-encryption-beta-enterprise) (The Verge)
+  * [Binance.US to Buy Voyager Assets in $1.022 Billion Deal](https://www.bloomberg.com/news/articles/2022-12-19/binance-us-to-buy-voyager-digital-s-assets-for-1-022-billion?sref=Szq5ylDR) (Bloomberg)
+  * [Bankman-Fried is ready to ‘face the music,’ prison official says](https://www.washingtonpost.com/nation/2022/12/17/sbf-prison-bahamas/) (Washington Post)
+  * [Apple Scales Back High-End Mac Pro Plans, Weighs Production Move to Asia](https://www.bloomberg.com/news/newsletters/2022-12-18/when-will-apple-aapl-release-the-apple-silicon-mac-pro-with-m2-ultra-chip-lbthco9u?sref=Szq5ylDR) (Bloomberg)
+  * [Facebook’s Meta Will Devote 20% of Costs to Metaverse Next Year](https://www.bloomberg.com/news/articles/2022-12-19/facebook-s-meta-to-keep-investing-in-reality-labs-next-year?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Saturday, December 17 2022 - (Bonus) Is This The Moment For Twitter Alternatives With @gabor and @BigTechnology**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, December 16 2022 - Fri. 12/16 – I Lied. More Twitter News Today.**
+
+  * [Twitter suspends Mastodon’s account and bans links to Mastodon servers](https://techcrunch.com/2022/12/15/elon-musk-suspends-mastodon-twitter-account-over-elonjet-tracking/) (TechCrunch)
+  * [Twitter suspends journalists who have been covering Elon Musk and the company](https://www.nbcnews.com/tech/social-media/twitter-suspends-journalists-covering-elon-musk-company-rcna62032) (NBCNews)
+  * [Accountant That Vetted Binance Reserves Halts Crypto Work](https://www.bloomberg.com/news/articles/2022-12-16/mazars-to-pause-all-work-for-crypto-clients-binance-says-lbqbamw7?sref=Szq5ylDR) (Bloomberg)
+  * [Netflix lets advertisers take their money back after missing viewership targets](https://digiday.com/future-of-tv/netflix-lets-advertisers-take-their-money-back-after-missing-viewership-targets/) (Digiday)
+
+
+
+**Thursday, December 15 2022 - Thu. 12/15 – This Again?**
+
+  * [Twitter Suspends the Accounts Tracking Musk’s Jet and The Man Behind It](https://www.bloomberg.com/news/articles/2022-12-14/twitter-suspends-account-that-tracked-elon-musk-s-private-jet?sref=Szq5ylDR) (Bloomberg)
+  * [Twitter Suspends Over 25 Accounts That Track Billionaires’ Private Planes](https://www.nytimes.com/2022/12/14/technology/twitter-private-jet-accounts-suspended.html) (NYTimes)
+  * [Elon Musk offloads another $3.6bn of Tesla stock](https://www.ft.com/content/d6177c0a-b2a7-4de2-ac18-1a6126054666?shareType=nongift) (FT)
+  * [FTX Investor Impact: Timeline of Realized Cryptocurrency Gains and Losses Shows FTX Hit Investor Wallets Less Than Previous Crises](https://blog.chainalysis.com/reports/ftx-investor-impact-less-than-previous-crises/) (Chainalysis)
+  * [2022 will go down as the worst year for U.S. IPOs since 1990.](https://www.axios.com/newsletters/axios-pro-rata-60addead-f8de-4ab4-b6cd-bc10cdee76c9.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (Axios Pro Rata)
+  * [Mobile games market to decline for first time in over a decade](https://www.ft.com/content/395ebc6d-4b0c-4e66-903d-5b64a95649a3) (FT)
+  * [Creating the ultimate smart map with new map data initiative launched by Linux Foundation](https://venturebeat.com/virtual/creating-the-ultimate-smart-map-with-new-map-data-initiative-launched-by-linux-foundation/) (VentureBeat)
+  * [1 big thing: The "battery belt" widens](https://www.axios.com/newsletters/axios-whats-next) (Axios)
+  * [The electric car Battery Belt is reshaping America’s heartland](https://www.axios.com/2022/08/17/electric-cars-vehicles-batteries-battery-belt-biden) (Axios)
+
+
+
+**Wednesday, December 14 2022 - Wed. 12/14 – Apple To Allow Third-Party App Stores**
+
+  * [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe?sref=Szq5ylDR) (Bloomberg)
+  * [Tesla’s latest update adds Steam games and Apple Music](https://www.theverge.com/2022/12/13/23508269/tesla-holiday-update-steam-apple-music-support-light-show-mode) (The Verge)
+  * [Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs](https://www.nytimes.com/2022/12/13/technology/elon-musk-twitter-shakeup.html) (NYTimes)
+  * [Twitter is considering forcing users to let the company sell their data and phone numbers to advertisers, in potential breach of Apple rules](https://www.businessinsider.com/twitter-plans-to-force-users-to-share-data-with-advertisers-2022-12?op=1) (Insider)
+  * [Binance CEO Zhao Warns Bumpy Road Ahead in Message to His Staff](https://www.bloomberg.com/news/articles/2022-12-14/binance-ceo-zhao-warns-bumpy-road-ahead-in-message-to-his-staff?sref=Szq5ylDR) (Bloomberg)
+  * [Instagram Challenges BeReal and Adds Notes Short-Message Feature](https://www.wsj.com/articles/instagram-challenges-bereal-and-adds-notes-short-message-feature-11670945979?mod=djemalertNEWS) (WSJ)
+  * [Lawmakers unveil bipartisan bill that aims to ban TikTok in the U.S.](https://www.cnbc.com/2022/12/13/lawmakers-unveil-bipartisan-bill-that-aims-to-ban-tiktok-in-the-us.html) (CNBC)
+
+
+
+**Tuesday, December 13 2022 - Tue. 12/13 – SBF Arrested And Charged**
+
+  * [Federal prosecutors, SEC unveil charges against Sam Bankman-Fried](https://www.washingtonpost.com/technology/2022/12/13/sam-bankman-fried-ftx-hearing-bahamas-live/) (Washington Post)
+  * [FTX founder Sam Bankman-Fried arrested in the Bahamas after U.S. files criminal charges](https://www.cnbc.com/2022/12/12/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas-after-us-files-criminal-charges.html) (CNBC)
+  * [Jim Edwards thread summarizing the SEC complaint](https://twitter.com/Jim_Edwards/status/1602625628972490752)
+  * [Binance CEO addresses USDC outflows: 'feel free to withdraw any other stablecoin'](https://www.theblock.co/post/194398/binance-ceo-usdc-outflow) (The Block)
+  * [AI art apps are cluttering the App Store’s Top Charts following Lensa AI’s success](https://techcrunch.com/2022/12/12/ai-art-apps-are-cluttering-the-app-stores-top-charts-following-lensa-ais-success/) (TechCrunch)
+  * [Elon says Twitter will remove all legacy verifications ‘in a few months’](https://techcrunch.com/2022/12/12/elon-says-twitter-will-remove-all-legacy-verifications-in-a-few-months/) (TechCrunch)
+  * [Radeon 7900 XTX and XT review: Faster, hotter, and cheaper than the RTX 4080](https://arstechnica.com/gadgets/2022/12/review-amds-radeon-rx-7900-gpus-are-great-4k-gaming-gpus-with-caveats/) (ArsTechnica)
+  * [Rise of Open-Source Intelligence Tests U.S. Spies](https://www.wsj.com/articles/rise-of-open-source-intelligence-tests-u-s-spies-11670710806?mod=djemalertNEWS) (WSJ)
+
+
+
+**Monday, December 12 2022 - Mon. 12/12 – The New Xiaomi 13 Flagships**
+
+  * [The Xiaomi 13 series launches as true Qualcomm Snapdragon 8 Gen 2 darling](https://www.androidpolice.com/xiaomi-13-pro-series-launch/) (Android Police)
+  * [Binance Is Trying to Calm Investors, but Its Finances Remain a Mystery](https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351?mod=djemalertNEWS) (WSJ)
+  * ['Abnormal' Altcoin Trading on Binance 'Just Market Behavior,' Says CEO](https://decrypt.co/116917/abnormal-altcoin-trading-on-binance-just-market-behavior-says-ceo) (Decrypt)
+  * [US Prosecutors Look to Charge Binance, Executives on Possible Money Laundering Violations: Reuters ](https://www.coindesk.com/business/2022/12/12/us-prosecutors-look-to-charge-binance-and-cz-for-possible-money-laundering-violations-reuters/)(Coindesk)
+  * [Twitter Blue to Relaunch Monday, With Blue Check Mark, Higher iOS Price, Company Says](https://www.cnet.com/news/social-media/twitter-blue-to-relaunch-monday-with-blue-check-mark-higher-ios-price-company-says/) (CNET)
+  * [US Says Scientists Make Breakthrough in Nuclear Fusion Energy](https://www.bloomberg.com/news/articles/2022-12-12/nuclear-fusion-energy-breakthrough-made-by-scientists-in-us?sref=Szq5ylDR) (Bloomberg)
+  * [The New Chatbots Could Change the World. Can You Trust Them?](https://www.nytimes.com/2022/12/10/technology/ai-chat-bot-chatgpt.html) (NYTimes)
+  * [Why Google Missed ChatGPT](https://www.bigtechnology.com/p/why-google-missed-chatgpt) (Big Technology)
+
+
+
+**Saturday, December 10 2022 - (TWTR SPC) 2022 Year End Review And Look Ahead To 2023**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, December 09 2022 - Fri. 10/09 – FTC Sues To Block The Microsoft/Activision Deal**
+
+  * [Twin complaints signal new FTC strategy to rein in tech industry](https://www.washingtonpost.com/technology/2022/12/08/ftc-sues-microsoft-over-activision/) (Washington Post)
+  * [FTX founder Sam Bankman-Fried agrees to testify at U.S. House hearing on Tuesday](https://www.cnbc.com/2022/12/09/sam-bankman-fried-agrees-to-testify-before-house.html) (CNBC)
+  * [We Couldn’t Have Made It Through This Year Without the Saluting Emoji](https://www.rollingstone.com/culture/culture-news/saluting-face-best-emoji-2022-1234642464/) (Rolling Stone)
+
+
+
+**Thursday, December 08 2022 - Thu. 12/08 – Explaining Those Lensa Magic Avatars**
+
+  * [Apple Plans New Encryption System to Ward Off Hackers and Protect iCloud Data](https://www.wsj.com/articles/apple-plans-new-encryption-system-to-ward-off-hackers-and-protect-icloud-data-11670435635?mod=djemalertNEWS) (WSJ)
+  * [@matthew_d_green's twitter thread on Apple's new encryption push](https://twitter.com/matthew_d_green/status/1600567604015497216)
+  * [FTX Founder Sam Bankman-Fried Is Said to Face Market Manipulation Inquiry](https://www.nytimes.com/2022/12/07/business/ftx-sbf-crypto-market-investigation.html) (NYTimes)
+  * [Coinbase CEO Sees Revenue Falling 50% or More on Crypto Rout](https://www.bloomberg.com/news/articles/2022-12-07/coinbase-crypto-ceo-brian-armstrong-sees-revenue-falling-by-half-in-2022?sref=Szq5ylDR) (Bloomberg)
+  * [AI selfies — and their critics — are taking the internet by storm](https://www.washingtonpost.com/technology/2022/12/08/lensa-ai-portraits/) (Washington Post)
+  * [Ask these questions before you make your Lensa Magic Avatars](https://www.techradar.com/news/ask-these-questions-before-you-make-your-lensa-magic-avatars) (TechRadar)
+  * [Dyson's Air Purifying Headphones Will Cost $949](https://gizmodo.com/dyson-air-purifying-headphones-filter-price-release-dat-1849831922) (Gizmodo)
+
+
+
+**Wednesday, December 07 2022 - Wed. 12/07 – SBF Tried To Give Taylor Swift $100M? (She Said No)**
+
+  * [Microsoft says it will bring Call of Duty to Nintendo](https://www.washingtonpost.com/video-games/2022/12/06/call-duty-nintendo-microsoft-sony-xbox/) (Washington Post)
+  * [FTX held talks with Taylor Swift over $100mn sponsorship deal](https://www.ft.com/content/2b0601e2-d371-404d-8531-227f11d4a83f) (FT)
+  * [Tim Cook says Apple will use chips built in the U.S. at Arizona factory](https://www.cnbc.com/2022/12/06/tim-cook-says-apple-will-use-chips-built-in-the-us-at-arizona-factory.html) (CNBC)
+  * [Telegram drops SIM requirement for sign-ups, adds Global Auto-Delete timers](https://9to5google.com/2022/12/06/telegram-drops-sim-requirement-sign-ups/) (9to5Google)
+  * [SpaceX unveils ‘Starshield,’ a military variation of Starlink satellites](https://www.cnbc.com/2022/12/05/spacex-unveils-starshield-a-military-variation-of-starlink-satellites.html) (CNBC)
+  * [Twitter’s Rivals Try to Capitalize on Musk-Induced Chaos](https://www.nytimes.com/2022/12/07/technology/twitter-rivals-alternative-platforms.html) (NYTimes)
+  * [Apple Scales Back Self-Driving Car and Delays Debut Until 2026](https://www.bloomberg.com/news/articles/2022-12-06/apple-scales-back-self-driving-car-and-delays-launch-until-2026?sref=Szq5ylDR) (Bloomberg)
+  * [Google Faces a Serious Threat From ChatGPT](https://www.bloomberg.com/opinion/articles/2022-12-07/chatgpt-should-worry-google-and-alphabet-why-search-when-you-can-ask-ai?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Tuesday, December 06 2022 - Tue. 12/06 – Is Elon’s Neuralink Cruel To Animals?**
+
+  * [Elon Musk’s Neuralink is reportedly facing a federal probe on animal welfare grounds](https://www.theverge.com/2022/12/6/23496043/neuralink-animal-welfare-federal-probe-department-of-agriculture) (The Verge)
+  * [Exclusive: Musk’s Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/) (Reuters)
+  * [Google Pixel 7 just got a bunch of exciting features — here’s what’s new](https://www.tomsguide.com/news/google-pixel-7-just-got-a-bunch-of-exciting-features-heres-whats-new) (Tom's Guide)
+  * [Microsoft Raising Prices on New, First-Party Games Built for Xbox Series X|S to $70 in 2023](https://www.ign.com/articles/microsoft-raising-prices-new-first-party-games-xbox-series-70-2023-redfall-starfield) (IGN)
+  * [@sama's Tweets about ChatGPT](https://twitter.com/sama/status/1599668808285028353)
+  * [Google Search brings continuous scrolling to desktop](https://www.theverge.com/2022/12/6/23495973/google-search-desktop-continuous-scrolling) (The Verge)
+  * [Facebook threatens to ban news from platform if U.S. bill passes](https://www.marketwatch.com/story/facebook-threatens-to-ban-news-from-platform-if-u-s-bill-passes-11670275220) (MarketWatch)
+  * [TSMC triples Arizona chip investment to $40bn](https://www.ft.com/content/f098bf3f-1ec6-4433-b4e2-fc1acde05628) (FT)
+
+
+
+**Monday, December 05 2022 - Mon. 12/05 – Stack Overflow Bans ChatGPT**
+
+  * [Kuo: Apple Headset Shipments Potentially Delayed Until Second Half of 2023](https://www.macrumors.com/2022/12/04/kuo-apple-headset-2h23-mass-shipments/) (MacRumors)
+  * [Foxconn sees COVID-hit China plant back at full output in late Dec-early Jan -source](https://www.reuters.com/world/china/foxconn-expects-full-production-covid-hit-china-plant-late-december-early-2022-12-05/) (Reuters)
+  * [Rackspace rocked by ‘security incident’ that has taken out hosted Exchange services](https://www.theregister.com/2022/12/03/rackspace_security_incident_hosted_exchange/) (The Register)
+  * [AI-generated answers temporarily banned on coding Q&A site Stack Overflow](https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers) (The Verge)
+  * [Crypto broker Genesis owes Winklevoss exchange’s customers $900mn](https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974) (Financial Times)
+  * [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html) (Intelligencer)
+
+
+
+**Friday, December 02 2022 - Fri. 12/02 – Will 2023 Be The Year Of The Headset Wars?**
+
+  * [Apple Renames Mixed-Reality Software ‘xrOS’ in Sign Headset Is Approaching](https://www.bloomberg.com/news/articles/2022-12-01/apple-mixed-reality-headset-rivaling-meta-set-to-run-xros-operating-system?sref=Szq5ylDR) (Bloomberg)
+  * [Kanye West isn’t buying Parler after all](https://techcrunch.com/2022/12/01/kanye-west-isnt-buying-parler-after-all/) (TechCrunch)
+  * [Andreessen Horowitz's buzzy tech publication Future is shutting down](https://www.businessinsider.com/a16z-future-closes-staff-exit-2022-11?op=1) (Insider)
+  * [Payments giant Stripe jumps into Web3 with tool that helps companies turn cash to crypto](https://fortune.com/crypto/2022/12/01/stripe-web3-new-tool-cash-to-crypto-payments/) (Fortune Crypto)
+  * [AWS launches Application Composer, a low-code tool for building serverless apps](https://techcrunch.com/2022/12/01/aws-launches-application-composer-a-low-code-tool-for-building-serverless-apps/) (TechCrunch)
+  * [No more airplane mode? EU to allow calls on flights](https://www.bbc.com/news/technology-63786591) (BBC News)
+  * [Silicon Valley startup beaming electricity wirelessly raises $30 million](https://www.reuters.com/technology/silicon-valley-startup-beaming-electricity-wirelessly-raises-30-million-2022-12-02/) (Reuters)
+
+
+
+**Thursday, December 01 2022 - Thu. 12/01 – Elon And Apple Bury The Hatchet?**
+
+  * [FTX Missing Billions Remain Mystery After Bankman-Fried Grilling](https://www.bloomberg.com/news/articles/2022-11-30/bankman-fried-denies-trying-to-commit-fraud-at-fallen-ftx-empire?sref=Szq5ylDR) (Bloomberg)
+  * [Elon Musk Meets With Apple CEO Tim Cook Amid Claims of Twitter App Store Dispute [Updated]](https://www.macrumors.com/2022/11/30/elon-musk-tim-cook-meeting-apple-park/) (MacRumors)
+  * [Musk at Twitter has 'huge work' ahead to comply with EU rules, warns bloc](https://techcrunch.com/2022/11/30/elon-musk-twitter-eu-dsa-warning/) (TechCrunch)
+  * [While everyone waits for GPT-4, OpenAI is still fixing its predecessor](https://www.technologyreview.com/2022/11/30/1063878/openai-still-fixing-gpt3-ai-large-language-model/) (MIT Technology Review)
+  * [Musk’s Neuralink Hopes to Implant Computer in Human Brain in Six Months](https://www.bloomberg.com/news/articles/2022-12-01/musk-s-neuralink-hopes-for-human-trials-approval-within-six-months?sref=Szq5ylDR) (Bloomberg)
+  * [Disney Made a Movie Quality AI Tool That Automatically Makes Actors Look Younger (or Older) ](https://gizmodo.com/disney-ai-art-vfx-visual-effects-de-age-younger-older-1849835548)(Gizmodo)
+  * [TSMC Plans to Make More Advanced Chips in US at Urging of Apple](https://www.bloomberg.com/news/articles/2022-12-01/tsmc-plans-to-make-more-advanced-chips-in-us-at-urging-of-apple?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Wednesday, November 30 2022 - Wed. 11/30 – Am I On Your Spotify Wrapped This Year?**
+
+  * [China’s Zhengzhou, home to world’s largest iPhone factory, ends Covid lockdown. Other cities do the same](https://www.cnn.com/2022/11/30/tech/china-apple-foxconn-zhengzhou-lifts-lockdown-hnk-intl/) (CNN Business)
+  * [India Becomes Biggest Smartwatch Market in Q3 2022](https://www.counterpointresearch.com/india-becomes-biggest-smartwatch-market-q3-2022/) (Counterpoint)
+  * [Amazon Security Lake is a standards-based data lake for security data](https://techcrunch.com/2022/11/29/awss-new-amazon-security-lake-is-a-standards-based-data-lake-for-security-data/) (TechCrunch)
+  * [Amazon Kindle Scribe review: absolutely adequate](https://www.theverge.com/23484927/amazon-kindle-scribe-e-reader-notetaking-pen-review) (The Verge)
+  * [Apple Music reveals top music in 2022 and listener charts](https://apnews.com/article/technology-entertainment-music-elton-john-cd536b3a09f22565bbeb26fe0d75d03a) (AP News)
+  * [Gorilla Glass Victus 2 could save your big phone from disastrous falls on concrete](https://www.techradar.com/news/gorilla-glass-victus-2-could-save-your-big-phone-from-disastrous-falls-on-concrete) (TechRadar)
+  * [Sony is getting into the metaverse with a new motion-tracking system](https://www.theverge.com/2022/11/30/23485732/sony-mocopi-motion-capture-metaverse-vr-avatar-announcement-price?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+
+
+
+**Tuesday, November 29 2022 - Tue. 11/29 – Is Elon Going To War With Apple?**
+
+  * [Elon Musk Claims Apple Has 'Mostly Stopped' Offering Ads on Twitter and Is Making Moderation Demands](https://www.macrumors.com/2022/11/28/elon-musk-apple-stopped-twitter-ads/) (MacRumors)
+  * [Why some tech CEOs are rooting for Musk](https://www.platformer.news/p/why-some-tech-ceos-are-rooting-for) (Platformer)
+  * [Twitter’s $5bn-a-year business hit as Elon Musk clashes with advertisers](https://www.ft.com/content/126219c4-5ac0-4c8b-996c-307c24a4cd61) (Financial Times)
+  * [Binance clarifies initial $1 billion recovery fund deposit came from own assets](https://www.theblock.co/post/189897/binance-clarifies-recovery-fund-deposits) (The Block)
+  * [Amazon’s Create With Alexa generates unique animated children’s stories on Echo Show](https://www.engadget.com/amazon-create-with-alexa-ai-stories-echo-show-140001353.html) (Engadget)
+  * [Google partners with med tech company to develop AI breast cancer screening tools](https://www.theverge.com/2022/11/28/23481967/google-partners-icad-med-tech-ai-breast-cancer-screening) (The Verge)
+  * [Special Series Part 3: AI Could Transform Medical Imaging — So Why Don’t We See It More?](https://news.crunchbase.com/ai-robotics/venture-funding-ai-health-care-series/?utm_source=cb_daily&utm_medium=email&utm_campaign=20221124&utm_content=intro&utm_term=content&utm_source=cb_daily&utm_medium=email&utm_campaign=20221128) (Crunchbase News)
+
+
+
+**Monday, November 28 2022 - Mon. 11/28 – The China Protests**
+
+  * [Twitter grapples with Chinese spam obscuring news of protests](https://www.washingtonpost.com/technology/2022/11/27/twitter-china-spam-protests/) (Washington Post)
+  * [US Bans Huawei, ZTE Telecom Equipment on Data-Security Risk](https://www.bloomberg.com/news/articles/2022-11-25/fcc-bans-huawei-zte-telecom-equipment-from-sale-in-us-lawwfpb3?sref=Szq5ylDR) (Bloomberg)
+  * [Crypto Lender BlockFi Filing for Bankruptcy and Conducting Major Layoffs as FTX Contagion Claims Another: Source](https://decrypt.co/115744/crypto-lender-blockfi-files-bankruptcy-ftx-contagion-claims-another) (Decrypt)
+  * [Binance releases proof-of-reserves system, starting with bitcoin](https://www.theblock.co/post/189946/binance-releases-proof-of-reserves-system-starting-with-bitcoin) (The Block)
+  * [WhatsApp rolls out a feature that makes it easier to message yourself](https://techcrunch.com/2022/11/28/whatsapp-rolls-out-a-feature-that-makes-it-easier-to-message-yourself/) (WhatsApp)
+  * [A bot that watched 70,000 hours of Minecraft could unlock AI’s next big thing](https://www.technologyreview.com/2022/11/25/1063707/ai-minecraft-video-unlock-next-big-thing-openai-imitation-learning/) (MIT Technology Review)
+  * [Special Series Launch: The Promises And Perils Of A Decade Of AI Funding](https://news.crunchbase.com/ai-robotics/ai-venture-cybersecurity-health-care-series-launch/) (Crunchbase News)
+
+
+
+**Thursday, November 24 2022 - (Bonus) Internet From Space! With The Internet Society**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
+**Wednesday, November 23 2022 - Wed. 11/23 – Foxconn Riots?**
+
+  * [Violent Protests Erupt at Apple’s Main iPhone Plant in China](https://www.bloomberg.com/news/articles/2022-11-23/violent-protests-erupt-at-apple-s-biggest-iphone-plant-in-china?sref=Szq5ylDR) (Bloomberg)
+  * [Windows Subsystem for Linux generally available via Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-generally-available-via-microsoft-store/) (BleepingComputer)
+  * [Advertisers are dropping Twitter. Musk can’t afford to lose any more.](https://www.washingtonpost.com/technology/2022/11/22/twitter-advertiser-exodus-musk/) (Washington Post)
+  * [Nest Wifi Pro review: better, faster, shinier](https://www.theverge.com/23473181/google-nest-wifi-pro-review) (The Verge)
+
+
+
+**Tuesday, November 22 2022 - Tue. 11/22 – The Alexa Deathwatch Is Real**
+
+  * [Crypto Brokerage Genesis Is Said to Warn of Bankruptcy Without Funding](https://www.bloomberg.com/news/articles/2022-11-21/crypto-firm-genesis-warns-of-possible-bankruptcy-without-funding?sref=Szq5ylDR) (Bloomberg)
+  * [Hedge funds left with billions stranded on FTX](https://www.ft.com/content/125630d9-a967-439f-bc23-efec0b4cdeca) (FT)
+  * [Exclusive: Bankman-Fried's FTX, parents bought Bahamas property worth $121 million](https://www.reuters.com/technology/exclusive-bankman-frieds-ftx-parents-bought-bahamas-property-worth-121-mln-2022-11-22/) (Reuters)
+  * [Elon Musk says Twitter is done with layoffs and ready to hire again](https://www.theverge.com/2022/11/21/23472025/elon-musk-twitter-hiring-again-ending-layoffs) (The Verge)
+  * [Amazon is gutting its voice assistant, Alexa. Employees describe a division in crisis and huge losses on 'a wasted opportunity.'](https://www.businessinsider.com/amazon-alexa-job-layoffs-rise-and-fall-2022-11) (Insider)
+  * [Apple Says Your iPhone's Usage Data is Anonymous, but New Tests Say That's Not True](https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619) (Gizmodo)
+
+
+
+**Monday, November 21 2022 - Mon. 11/21 – More Crypto Trouble?**
+
+  * [Grayscale won’t share proof of reserves, citing ‘security concerns’](https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns) (The Block)
+  * [Grayscale refuses to share proof of reserves due to ‘security concerns’ as shares trade at a 45% discount to bitcoin](https://www.cnbc.com/2022/11/21/grayscale-wont-share-proof-of-reserves-due-to-security-concerns.html) (CNBC)
+  * [Disney Shocker: Bob Iger Returning as CEO, Bob Chapek Exits](https://www.hollywoodreporter.com/business/business-news/disney-bob-iger-returning-ceo-bob-chapek-exits-1235266823/) (The Hollywood Reporter)
+  * [SwiftKey is unexpectedly back on iOS](https://www.theverge.com/2022/11/18/23467204/swiftkey-ios-iphone-app-store-return-back-microsoft) (The Verge)
+  * [Twitter’s Broken Its Copyright Strike System, Users Are Uploading Full Movies](https://www.forbes.com/sites/paultassi/2022/11/21/twitters-broken-its-copyright-strike-system-users-are-uploading-full-movies/?sh=d00ad647cc42) (Forbes)
+  * [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/) (Kite.com)
+  * [Meet Unstable Diffusion, the group trying to monetize AI porn generators](https://techcrunch.com/2022/11/17/meet-unstable-diffusion-the-group-trying-to-monetize-ai-porn-generators/) (TechCrunch)
+
+
+
+
+**Friday, November 18 2022 - Fri. 11/18 – Twitter: Not Dead At The Time Of This Posting**
+
+  * [Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter](https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline) (The Verge)
+  * [Tweet thread on why @peterclowes left Twitter](https://twitter.com/peterclowes/status/1593458225533313025)
+  * [Masayoshi Son owes $4.7bn to SoftBank following tech rout](https://www.ft.com/content/4e709f78-48fc-4713-8904-cf1d8588116c) (FT)
+  * [End of an Era: Facebook Takes Sexuality, Religion, Address, and Politics Off of Your Profile](https://gizmodo.com/facebook-cuts-interested-in-religion-address-politics-1849796195) (Gizmodo)
+
+
+
+**Thursday, November 17 2022 - Thu. 11/17 – A Deepfake Detector**
+
+  * [New FTX Boss Condemns Management of the Crypto Exchange During Sam Bankman-Fried's Tenure ](https://www.coindesk.com/business/2022/11/17/new-ftx-boss-condemns-management-of-the-crypto-exchange-during-sam-bankman-frieds-tenure/)(CoinDesk)
+  * [Built-in Discord voice chat is now rolling out to all Xbox users](https://www.engadget.com/xbox-november-update-discord-twitch-181425153.html) (Engadget)
+  * [Apple Kicks Off Major League Soccer Plans With Pricing & Launch Details](https://deadline.com/2022/11/apple-major-league-soccer-price-launch-details-1235174066/) (Deadline)
+  * [Bending Spoons acquires Evernote, marking the end of an era](https://techcrunch.com/2022/11/16/bending-spoons-acquires-evernote-marking-the-end-of-an-era/) (TechCrunch)
+  * [Google rolls out new features across Maps, Search and Shopping](https://techcrunch.com/2022/11/17/google-new-features-across-maps-search-shopping/) (TechCrunch)
+  * [Intel unveils real-time deepfake detector, claims 96% accuracy rate](https://venturebeat.com/ai/intel-unveils-real-time-deepfake-detector-claims-96-accuracy-rate/) (VentureBeat)
+  * [Cloud computing: Microsoft and Nvidia are building a 'massive' AI supercomputer. Here's why](https://www.zdnet.com/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/) (ZDNet)
+  * [Microsoft and Nvidia team up to build massive cloud AI supercomputer](https://www.siliconrepublic.com/machines/microsoft-and-nvidia-team-up-to-build-massive-ai-cloud-supercomputer) (SiliconRepublic)
+
+
+
+**Wednesday, November 16 2022 - Wed. 11/16 – The Tesla Of Home Appliances**
+
+  * [Qualcomm’s Snapdragon 8 Gen 2 gives us a glimpse of 2023’s Android flagships](https://www.theverge.com/2022/11/15/23458241/qualcomm-snapdragon-8-gen-2-chipset-processor-x70-5g-dynamic-spatial-audio) (The Verge)
+  * [DuckDuckGo’s App Tracking Protection beta is now available to all Android users](https://www.theverge.com/2022/11/16/23462053/duckduckgo-app-tracking-tool-beta-android-users) (The Verge)
+  * [Netflix's new feature lets subscribers kick devices off their accounts](https://techcrunch.com/2022/11/15/netflix-new-manage-access-and-devices-feature/) (TechCrunch)
+  * [Musk issues ultimatum to staff: Commit to ‘hardcore’ Twitter or take severance](https://www.washingtonpost.com/technology/2022/11/16/musk-twitter-email-ultimatum-termination/) (Washington Post)
+  * [Induction cooking heats up with a $20M cash injection for Impulse](https://techcrunch.com/2022/11/15/impulse-series-a/) (TechCrunch)
+  * [Protocol, the tech-news focused website, will shutter and lay off its entire staff](https://www.cnn.com/2022/11/15/media/protocol/) (CNN Business)
+
+
+
+**Tuesday, November 15 2022 - Tue. 11/15 – “An Excel File Full Of The Howling Of Ghosts”**
+
+  * [Musk Publicly Punishes Twitter Engineers Who Call Him Out Online](https://www.bloomberg.com/news/articles/2022-11-14/musk-publicly-punishes-twitter-engineers-who-call-him-out-online?sref=Szq5ylDR) (Bloomberg)
+  * [Is Elon Musk’s Twitter about to fall out of the GDPR’s one-stop shop?](https://techcrunch.com/2022/11/14/is-elon-musks-twitter-about-to-fall-out-of-the-gdprs-one-stop-shop/) (TechCrunch)
+  * [FTX’s Balance Sheet Was Bad](https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon Is Said to Plan to Lay Off Thousands of Employees](https://www.nytimes.com/2022/11/14/technology/amazon-layoffs.html) (NYTimes)
+  * [Nike to Open Its Own Virtual Sneaker Store and Trading Platform](https://www.bloomberg.com/news/articles/2022-11-14/nike-nke-to-open-swoosh-a-virtual-sneaker-store-and-trading-platform?sref=Szq5ylDR) (Bloomberg)
+  * [Nike Launches Web3 Platform Offering Virtual Apparel and Other NFT-Based Products](https://cryptonews.com/news/nike-launches-web3-platform-offering-virtual-apparel-and-other-nft-based-products.htm) (CryptoNews)
+  * [Here’s what it’s like to use Apple’s Emergency SOS via satellite](https://www.theverge.com/2022/11/15/23457970/iphone-14-emergency-sos-satellite-ios-16) (The Verge)
+
+
+
+**Monday, November 14 2022 - Mon. 11/14 – Paging Jonah Hill For The SBF Movie**
+
+  * [Twitter reportedly cut thousands of contractors without warning](https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk) (The Verge)
+  * [SpaceX just bought a big ad campaign on Twitter for Starlink](https://www.cnbc.com/2022/11/14/spacex-just-bought-a-big-ad-campaign-on-twitter-for-starlink.html) (CNBC)
+  * [Binance Starts Recovery Fund for Crypto Projects Facing Liquidity Crisis](https://www.coindesk.com/business/2022/11/14/binance-starts-recovery-fund-for-crypto-projects-facing-liquidity-crisis/) (CoinDesk)
+  * [Exclusive: Jeff Bezos says he will give most of his money to charity](https://www.cnn.com/2022/11/14/business/jeff-bezos-charity/) (CNN Business)
+  * [Nearly half of Meta job cuts were in tech, reorg underway - execs say](https://www.reuters.com/technology/nearly-half-meta-job-cuts-were-tech-execs-say-2022-11-11/) (Reuters)
+  * [Meta Quest Pro review: get me out of here](https://www.theverge.com/23451629/meta-quest-pro-vr-headset-horizon-review) (The Verge)
+
+
+
+**Friday, November 11 2022 - Fri. 11/11 – A Summary Of This Crazy Week**
+
+  * [Sam Bankman-Fried steps down as FTX CEO as his crypto exchange files for bankruptcy](https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html) (CNBC)
+  * [FTX US Warns of Trading Halt Hours After Bankman-Fried Says It's '100% Liquid'](https://www.coindesk.com/business/2022/11/10/ftx-us-warns-of-trading-halt-hours-after-bankman-fried-says-its-100-liquid/) (CoinDesk)
+  * [Crypto Lender BlockFi Pauses Withdrawals in Wake of FTX Collapse](https://www.coindesk.com/business/2022/11/10/crypto-lender-blockfi-pauses-withdrawals-in-wake-of-ftx-collapse/) (CoinDesk)
+  * [Does Twitter Have Any Employees Left Who Remember That The Company Is Under A Strict Consent Decree With The FTC?](https://www.techdirt.com/2022/11/10/does-twitter-have-any-employees-left-who-remember-that-the-company-is-under-a-strict-consent-decree-with-the-ftc/) (TechDirt)
+
+
+
+**Thursday, November 10 2022 - Thu. 11/10 – Binance Lets FTX Dangle**
+
+  * [Binance Walks Away From Deal to Rescue FTX](https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=djemalertNEWS) (WSJ)
+  * [SBF Tweet Storm This Morning](https://twitter.com/sbf_ftx/status/1590709166515310593)
+  * [FTX’s Collapse Spurs $10 Billion Drop in Decentralized Finance](https://www.bloomberg.com/news/articles/2022-11-09/ftx-s-collapse-spurs-10-billion-drop-in-decentralized-finance?sref=Szq5ylDR) (Bloomberg)
+  * [Twitter begins to roll out, then kills, grey checkmarks for high-profile accounts](https://techcrunch.com/2022/11/09/twitter-begins-to-roll-out-grey-checkmarks-for-high-profile-accounts/) (TechCrunch)
+  * [Apple will spend $450 million with Globalstar and others to enable emergency satellite texting](https://www.cnbc.com/2022/11/10/apple-spending-450-million-with-globalstar-others-for-satellite-texting.html) (CNBC)
+  * [‘Hey, GitHub!’ will let programmers code with just their voice](https://www.theverge.com/2022/11/9/23449175/hey-github-voice-copilot-code-programming-system) (The Verge)
+  * [Amazon Becomes World’s First Public Company to Lose $1 Trillion in Market Value](https://www.bloomberg.com/news/articles/2022-11-09/amazon-hits-unwelcome-milestone-with-1-trillion-in-value-lost?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Wednesday, November 09 2022 - Wed. 11/09 – CZ & SBF Make FTX Go Boom?**
+
+  * [Meta confirms 11,000 layoffs, amounting to 13% of its workforce](https://techcrunch.com/2022/11/09/meta-confirms-11000-layoffs-amounting-to-13-of-its-workforce/) (TechCrunch)
+  * [TikTok slashes global revenue targets by at least $2bn](https://www.ft.com/content/c4ce8f13-bec0-4cde-a885-7857f0bbb733) (Financial Times)
+  * [Twitter’s solution for ruining verification is another check mark](https://www.theverge.com/2022/11/8/23448184/twitter-verification-official-checkmark-gray-blue) (The Verge)
+  * [Disney+ reaches 164.2M subscribers as it prepares for ad-supported tier launch](https://techcrunch.com/2022/11/08/disney-reports-fourth-quarter-results-2022/) (TechCrunch)
+  * [The Story of Sam Bankman-Fried’s Backroom Deal With Binance’s CZ](https://www.coindesk.com/layer2/2022/11/08/the-story-of-sam-bankman-frieds-backroom-deal-with-binances-cz/) (CoinDesk)
+  * [Lucas Nuzzi (Twitter Thread)](https://twitter.com/LucasNuzzi/status/1590122590206824448)
+  * [FTX Venture Investors Fear Total Wipeout in Binance Rescue Deal](https://www.theinformation.com/articles/ftx-venture-investors-fear-total-wipeout-in-binance-rescue-deal?rc=64g9cw) (The Information)
+
+
+
+**Tuesday, November 08 2022 - Tue. 11/08 – FTX: You Ok, Bro?**
+
+  * [Binance to Sell Rest of FTX Token Holdings as Alameda CEO Defends Firm's Financial Condition](https://www.coindesk.com/business/2022/11/06/binance-sells-holdings-of-ftx-token-as-alameda-ceo-defends-firms-financial-condition/) (CoinDesk)
+  * [Musk discusses putting all of Twitter behind a paywall](https://www.platformer.news/p/musk-discusses-putting-all-of-twitter) (Platformer)
+  * [Mysterious company with government ties plays key internet role](https://www.washingtonpost.com/technology/2022/11/08/trustcor-internet-addresses-government-connections/) (Washington Post)
+  * [OpenSea Breaks Silence on NFT Royalties, But Creators Don't Like What They Hear](https://decrypt.co/113698/opensea-breaks-silence-on-nft-royalties-but-creators-dont-like-what-they-hear) (Decrypt)
+  * [Apple’s Brain Drain Hinders Efforts to Pick Its Next Jony Ive](https://www.bloomberg.com/news/articles/2022-11-08/who-will-replace-evans-hankey-as-jony-ive-s-successor-as-apple-s-design-chief?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Monday, November 07 2022 - Mon. 11/07 – Meta Layoffs Incoming?**
+
+  * [Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794?mod=djemalertNEWS) (WSJ)
+  * [Apple Issues iPhone 14 Pro Shipment Warning Ahead of Holiday Shopping Season](https://www.macrumors.com/2022/11/06/apple-warns-of-lower-iphone-14-pro-shipments/) (MacRumors)
+  * [Apple’s Next Change for Siri: Dropping ‘Hey’ From ‘Hey Siri’ Trigger](https://www.bloomberg.com/news/newsletters/2022-11-06/apple-s-next-change-for-siri-dropping-the-hey-in-hey-siri-trigger-phrase-la5gup9j?sref=Szq5ylDR) (Bloomberg)
+  * [Airbnb to Make Cleaning Fees Clearer on Searches After Customer Complaints](https://www.wsj.com/articles/airbnb-cleaning-fees-rates-departure-11667779247?mod=djemalertNEWS) (WSJ)
+  * [Elon Musk Appears To Threaten Advertisers Wary Of His Twitter Takeover](https://www.huffpost.com/entry/elon-musk-advertisers-twitter-takeover_n_63668d58e4b06f38ded50364) (HuffingtonPost)
+
+
+
+**Friday, November 04 2022 - Fri. 11/04 – The Twitter Layoffs**
+
+  * [Elon Musk’s Twitter layoffs are starting](https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4) (The Verge)
+  * [Substack targets Twitter with launch of discussions feature, Substack Chat](https://techcrunch.com/2022/11/03/substack-targets-twitter-with-launch-of-discussions-feature-substack-chat/) (TechCrunch)
+  * [Amazon pauses hiring for corporate workforce](https://www.cnbc.com/2022/11/03/amazon-pauses-hiring-for-corporate-workforce.html) (CNBC)
+  * [DALL-E API released by OpenAI in public beta, potential boon for app builders](https://venturebeat.com/ai/dall-e-api-released-by-openai-in-public-beta/) (VentureBeat)
+  * [With Netflix’s ads tier, you never know what you’re going to get](https://www.theverge.com/2022/11/3/23438971/netflix-basic-with-ads-what-you-cant-watch-padlock) (The Verge)
+
+
+
+**Thursday, November 03 2022 - Thu. 11/03 – How About Some Non-Twitter News?**
+
+  * [TikTok tells European users its staff in China get access to their data](https://www.theguardian.com/technology/2022/nov/02/tiktok-tells-european-users-its-staff-in-china-get-access-to-their-data) (The Guardian)
+  * [WhatsApp officially launches its new discussion group feature, Communities](https://techcrunch.com/2022/11/03/whatsapp-officially-launches-its-new-discussion-group-feature-communities/) (TechCrunch)
+  * [Gmail to add a new package tracking feature ahead of holiday shopping season](https://techcrunch.com/2022/11/02/gmail-to-add-a-new-package-tracking-feature-ahead-of-holiday-shopping-season/) (TechCrunch)
+  * [Meta’s Instagram Plans NFT Minting, Trading Tools](https://decrypt.co/113395/metas-instagram-plans-nft-minting-trading-tools) (Decrypt)
+  * [Patreon’s long-awaited video hosting feature is finally rolling out to creators](https://www.theverge.com/2022/11/3/23434877/patreon-video-hosting-product-launch-vimeo-youtube) (The Verge)
+  * [Elon Musk Aims to Start Charging for Twitter Verification Next Week](https://www.bloomberg.com/news/articles/2022-11-02/musk-to-begin-charging-for-twitter-verification-as-soon-as-monday?sref=Szq5ylDR) (Bloomberg)
+  * [Stripe Cuts Headcount by 14%, Prepares for ‘Leaner Times’](https://www.bloomberg.com/news/articles/2022-11-03/stripe-cutting-headcount-by-14-as-it-readies-for-leaner-times?sref=Szq5ylDR) (Bloomberg)
+  * [DOJ takes aim at Adobe's $20 billion deal](https://www.politico.com/news/2022/11/02/doj-review-adobe-20-billion-figma-deal-00064671) (Politico)
+
+
+
+**Wednesday, November 02 2022 - Wed. 11/02 – PlayStation VR2 Deets Revealed**
+
+  * [PlayStation VR2 launches on February 22nd for $549.99](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games) (The Verge)
+  * [Elon Musk to charge verified Twitter users to give ‘power to the people’](https://www.siliconrepublic.com/business/elon-musk-twitter-verified-blue-tick-subscription-advertising) (SiliconRepublic)
+  * [Elon Musk’s Twitter is working on paid-video feature with ‘high’ risk](https://www.washingtonpost.com/technology/2022/11/01/elon-musk-twitter-paywalled-video/) (Washington Post)
+  * [Tumblr will now allow nudity but not explicit sex](https://www.theverge.com/2022/11/1/23435516/tumblr-porn-ban-modified-nudity-allowed-sexually-explicit-depictions-banned) (The Verge)
+  * [Twitch opens Guest Star up so anyone can run their own talk show not](https://techcrunch.com/2022/11/01/twitch-guest-star-wide-release/) (TechCrunch)
+  * [U.S. banks processed roughly $1.2 billion in ransomware payments in 2021, according to federal report ](https://www.cnbc.com/2022/11/01/us-banks-process-roughly-1point2-billion-in-ransomware-payments-in-2021.html)(CNBC)
+  * [Rewind wants to revamp how you remember, with millions from a16z](https://techcrunch.com/2022/11/01/rewind-wants-to-revamp-how-you-remember-with-millions-from-a16z/) (TechCrunch)
+
+
+
+**Tuesday, November 01 2022 - Tue. 11/01 – Twilight Of The Blue-Checks?**
+
+  * [Scoop: Musk team working to reboot Vine this year](https://www.axios.com/2022/10/31/vine-tiktok-twitter-musk-team-reboot) (Axios)
+  * [Jack Dorsey just saved Elon Musk about $1 billion by rolling over his shares of Twitter into a stake in the new private company](https://www.businessinsider.com/jack-dorsey-saves-elon-musk-1billion-rolling-over-twitter-shares-2022-10?op=1) (Insider)
+  * [YouTube’s Primetime Channels bring streaming movies and TV into the YouTube app](https://www.theverge.com/2022/11/1/23433617/youtube-primetime-channels-streaming-tv-movies) (The Verge)
+  * [Amazon Prime now comes with a full music catalog of 100 million songs and ad-free podcasts](https://techcrunch.com/2022/11/01/amazon-prime-now-comes-with-a-full-music-catalog-of-100-million-songs-and-ad-free-podcasts/) (TechCrunch)
+  * [Uber Shares Jump as Strong Ridership Eases Inflation Worries](https://www.bloomberg.com/news/articles/2022-11-01/uber-beats-sales-estimates-on-strong-ridership-driver-supply?sref=Szq5ylDR) (Bloomberg)
+  * [PlayStation Plus has lost nearly 2 million subscribers since its revamp](https://www.videogameschronicle.com/news/playstation-plus-has-lots-nearly-2-million-subscribers-since-its-revamp/) (VGC)
+
+
+
+**Monday, October 31 2022 - Mon. 10/31 – Would You Pay $20/Month For Twitter Blue?**
+
+  * [Elon Musk wastes no time changing Twitter](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes) (The Verge)
+  * [Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription) (The Verge)
+  * [The 20 Richest Tech Billionaires Have Lost Nearly Half a Trillion Dollars This Year](https://www.wsj.com/articles/the-20-richest-tech-billionaires-have-lost-nearly-half-a-trillion-dollars-this-year-11666981428?mod=djemalertNEWS) (WSJ)
+  * [Apple Gears Up to Launch Its Next Crop of Macs Early Next Year](https://www.bloomberg.com/news/newsletters/2022-10-30/when-will-apple-s-aapl-m2-macbook-pro-mac-mini-and-mac-pro-go-on-sale-l9vemkyg?sref=Szq5ylDR) (Bloomberg)
+  * [India's Central Bank to Start Wholesale CBDC Pilot Nov. 1](https://www.coindesk.com/policy/2022/10/31/indias-central-bank-to-start-wholesale-cbdc-pilot-nov-1/) (CoinDesk)
+  * [You’re Going To Have To Pay To Use Some Fancy Colors In Photoshop Now](https://kotaku.com/photoshop-pantone-color-plugin-adobe-creative-cloud-1849714742) (Kotaku)
+
+
+
+
+
+**Friday, October 28 2022 - Fri. 10/28 – It Actually Happened**
+
+  * [How Twitter Will Change as a Private Company](https://www.nytimes.com/2022/10/28/technology/twitter-changes.html) (NYTimes)
+  * [Amazon stock sinks 13% on weak fourth-quarter guidance](https://www.cnbc.com/2022/10/27/amazon-amzn-earnings-q3-2022.html) (CNBC)
+  * [Apple reports strong quarter but expects sales slump](https://www.siliconrepublic.com/business/apple-earnings-fourth-quarter-2022-iphone-mac-ipad-tim-cook) (Silicon Republic)
+  * [YouTube redesign gives long-form videos, Shorts and Live videos their own tabs on channel pages](https://techcrunch.com/2022/10/27/youtube-redesign-gives-long-form-videos-shorts-and-live-videos-their-own-tabs-on-channel-pages/) (TechCrunch)
+
+
+
+**Thursday, October 27 2022 - Thu. 10/27 – Meta (Insert Bomb Emoji Here)**
+
+  * [Meta Tumbles as Sales Forecast Shows Depth of Ad-Market Weakness](https://www.bloomberg.com/news/articles/2022-10-26/meta-gives-tepid-revenue-forecast-as-ad-weakness-persists?sref=Szq5ylDR) (Bloomberg)
+  * [Meta Plummets 25% as Zuckerberg’s Plea for ‘Patience’ Falls Flat](https://www.bloomberg.com/news/articles/2022-10-26/meta-s-zuckerberg-asks-for-patience-as-costs-spook-investors?sref=Szq5ylDR) (Bloomberg)
+  * [It’s Official: Meta Is a Disaster](https://nymag.com/intelligencer/2022/10/meta-earnings-company-formerly-known-as-facebook-is-a-mess.html) (Intelligencer)
+  * [Mark Zuckerberg Is Going To Kill His Company](https://ez.substack.com/p/mark-zuckerberg-is-going-to-kill) (Ed Zitron's Where's Your Ed At)
+  * [Ford, VW-backed Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/) (TechCrunch)
+  * [Samsung's Third-Quarter Profit Plunges Amid Chip Market Woes](https://www.cnet.com/tech/mobile/samsungs-third-quarter-profit-plunges-amid-chip-market-woes/) (CNET)
+  * [Google's new service helps Web3 developers build for blockchain-based platforms](https://www.zdnet.com/article/googles-new-service-helps-web3-developers-build-for-blockchain-based-platforms/) (ZDNet)
+  * [Elon Musk Is In Twitter’s Office and Will Address Staff Friday](https://www.bloomberg.com/news/articles/2022-10-26/musk-calls-himself-chief-twit-as-twitter-deal-nears-close?sref=Szq5ylDR) (Bloomberg)
+  * [Elon Musk, on Eve of Twitter Deal Close, Promises Advertisers It Won’t Become a ‘Free-for-All Hellscape’ ](https://variety.com/2022/digital/news/elon-musk-twitter-advertisers-open-letter-1235415748/)(Variety)
+
+
+
+**Wednesday, October 26 2022 - Wed. 10/26 – Meta Calls Apple On Its "Rentier Capitalism"**
+
+  * [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Spotify says Apple is ‘choking competition’ and ruining its audiobook store](https://www.theverge.com/2022/10/25/23423384/spotify-apple-competitive-behavior-antitrust-commission-audiobooks?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Spotify Boosts Subscribers and Revenue, Says 2023 Price Increases Likely](https://www.wsj.com/articles/spotify-spot-q3-earnings-report-2022-11666728321?mod=djemalertNEWS) (WSJ)
+  * [Microsoft Plunges on Forecast for Lackluster Azure Growth](https://www.bloomberg.com/news/articles/2022-10-25/microsoft-shares-plunge-on-forecast-for-lackluster-azure-growth?sref=Szq5ylDR) (Bloomberg)
+  * [Twitter Asks: Where Have All the Tweeters Gone?](https://gizmodo.com/twitter-losing-heavy-tweeters-as-elon-acquisition-looms-1849701365?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
+  * [Alphabet misses on earnings as YouTube shrinks; company will cut headcount growth by half in Q4](https://www.cnbc.com/2022/10/25/alphabet-googl-q3-2022-earnings-.html) (CNBC)
+  * [Intel unit Mobileye prices IPO above range to raise $861 mln](https://www.reuters.com/markets/asia/intel-unit-mobileye-prices-ipo-above-range-raise-861-mln-source-2022-10-25/) (Reuters)
+  * [Developers Complain About Gambling Ads Appearing in Their App Store Listings](https://www.macrumors.com/2022/10/25/app-store-gambling-ads-complaints/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
+  * [First on CNN: LinkedIn knows there are fake accounts on its site. Now it wants to help users spot them](https://www.cnn.com/2022/10/25/tech/linkedin-bot-fake-accounts-new-features/) (CNN Business)
+  * [The billion-dollar tech unicorn is becoming rare again](https://www.washingtonpost.com/technology/2022/10/26/end-of-tech-unicorn-start-ups/) (The Washington Post)
+
+
+
+**Tuesday, October 25 2022 - Tue. 10/25 – “Extractive Rentier Capitalists”**
+
+  * [App Store guidelines updated with new rules for apps with NFT and ad managers](https://9to5mac.com/2022/10/24/app-store-guidelines-updated-nft-ad-managers/) (9to5Mac)
+  * [Apple is raising the price of Apple Music, Apple TV+ and Apple One from today](https://9to5mac.com/2022/10/24/apple-music-tv-prices-going-up/) (9to5Mac)
+  * [Project Volterra launches today as the 'Windows Dev Kit 2023' with 32GB RAM and costs less than a Mac mini](https://www.windowscentral.com/software-apps/windows-11/project-volterra-launches-today-as-the-windows-dev-kit-2023-with-32gb-ram-and-costs-less-than-a-mac-mini) (Windows Central)
+  * [Meta shareholder writes critical open letter saying company needs to slash headcount and stop spending so much money on ‘metaverse’](https://www.cnbc.com/2022/10/24/altimeter-capitals-brad-gerstner-calls-on-meta-to-slash-headcount.html) (CNBC)
+  * [Shutterstock will start selling AI-generated stock imagery with help from OpenAI](https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Microsoft Surface Laptop 5 (13.5-inch) review: a few steps forward and one big step back](https://www.theverge.com/23421698/microsoft-surface-laptop-5-review-13-5-inch?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Microsoft Surface Pro 9 (SQ3) review: Windows on Arm is not ready](https://www.theverge.com/23421326/microsoft-surface-pro-9-arm-qualcomm-sq3-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [iPadOS 16’s Stage Manager is not the future of multitasking you were hoping for](https://www.theverge.com/23420280/ipados-16-stage-manager-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+
+
+**Monday, October 24 2022 - Mon. 10/24 – Investing In Chinese Tech Means Investing One Man’s Whims?**
+
+  * [China Stocks Crater in US as Alibaba Leads $130 Billion Wipeout](https://www.bloomberg.com/news/articles/2022-10-24/alibaba-jd-com-tumble-in-us-as-xi-asserts-full-control-in-china?sref=Szq5ylDR) (Bloomberg)
+  * [TSMC: the Taiwanese chipmaker caught up in the tech cold war](https://www.ft.com/content/bae9756a-3bce-4595-b6c9-8082fd735aa0) (Financial Times)
+  * [Elon Musk’s Twitter Takeover Debt to Be Held by Banks Amid Turbulent Markets](https://www.wsj.com/articles/elon-musks-twitter-takeover-debt-to-be-held-by-banks-amid-turbulent-markets-11666377716?mod=djemalertNEWS) (WSJ)
+  * [These artists found out their work was used to train AI. Now they’re furious](https://www.cnn.com/2022/10/21/tech/artists-ai-images/) (CNN Business)
+  * [The iPad Lineup Is Perplexing — Here’s How Apple Could Fix It](https://www.bloomberg.com/news/newsletters/2022-10-23/should-i-buy-the-new-ipad-pro-what-s-new-about-apple-s-base-model-ipad-l9lejqfk?sref=Szq5ylDR) (Bloomberg)
+  * [Bono on the birth of U2, that iTunes album and Live Aid: ‘There’s only one thing I can see when I watch it: the mullet’](https://www.theguardian.com/music/2022/oct/22/bono-memoir-birth-of-u2-itunes-album-live-aid-mullet) (The Guardian)
+
+
+
+
+**Friday, October 21 2022 - Fri. 10/21 – What If Uncle Sam Let’s Elon Off The Hook?**
+
+  * [Documents detail plans to gut Twitter’s workforce](https://www.washingtonpost.com/technology/2022/10/20/musk-twitter-acquisition-staff-cuts/) (Washington Post)
+  * [Twitter Tumbles as US Weighs Security Reviews for Musk Deals](https://www.bloomberg.com/news/articles/2022-10-21/us-weighs-security-reviews-for-musk-deals-including-twitter-buy?sref=Szq5ylDR) (Bloomberg)
+  * [TikTok Parent ByteDance Planned To Use TikTok To Monitor The Physical Location Of Specific American Citizens](https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/?sh=174f5786c2db) (Forbes)
+  * [OpenAI, Valued at Nearly $20 Billion, in Advanced Talks with Microsoft For More Funding](https://www.theinformation.com/articles/openai-valued-at-nearly-20-billion-in-advanced-talks-with-microsoft-for-more-funding?rc=64g9cw) (The Information)
+  * [Snap plunges more than 25% on third-quarter revenue miss](https://www.cnbc.com/2022/10/20/snap-earnings-q3-2022.html) (CNBC)
+
+
+
+**Thursday, October 20 2022 - Thu. 10/20 – A Day Of Reviews**
+
+  * [Aptos Token Plummets 40% After APT Airdrop for 'Early Network Participants'](https://decrypt.co/112368/aptos-token-plummetsapt-airdrop-early-network-participants) (Decrypt)
+  * [Android 13 (Go edition) announced with Material You, Google Play System Updates, and more](https://9to5google.com/2022/10/19/android-13-go-edition/) (9to5Google)
+  * [The next generation of Thunderbolt seems nice but less necessary than ever](https://www.theverge.com/2022/10/19/23411752/intel-thunderbolt-next-generation-usb-4-version-2-specs?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Intel Core i9-13900K review: an AMD Zen 4 beater](https://www.theverge.com/23410428/intel-core-i9-13900k-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Uber rolls out ad business to reach more riders](https://www.ft.com/content/20dded9d-98f7-4b47-9528-8eb72ef62d31) (FT)
+  * [I Tried the $1,500 Quest Pro and Saw the Best of the Metaverse](https://www.nytimes.com/2022/10/19/technology/personaltech/quest-pro-review-metaverse.html) (NYTimes)
+
+
+
+**Wednesday, October 19 2022 - Wed. 10/19 – What Even IS Apple’s iPad Strategy?**
+
+  * [Netflix adds more than 2.4 million subscribers, reveals details about password-sharing crackdown](https://www.cnbc.com/2022/10/18/netflix-nflx-earnings-q3-2022.html) (CNBC)
+  * [The New Netflix Age Has Arrived](https://puck.news/the-new-netflix-age-has-arrived/?_cio_id=f6c6060685df01a6dd0c&utm_campaign=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_content=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_medium=email_action&utm_source=customer.io) (Puck/Julia Alexander)
+  * [The iPad’s erratic odyssey continues](https://sixcolors.com/post/2022/10/the-ipads-erratic-odyssey-continues/) (Jason Snell/Six Colors)
+  * [Jack Dorsey-Founded Bluesky Unveils Roadmap for Decentralized Social Networks ](https://decrypt.co/112332/jack-dorsey-founded-bluesky-unveils-roadmap-for-decentralized-social-network)(Decrypt)
+  * [AI content platform Jasper raises $125M at a $1.5B valuation](https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/) (TechCrunch)
+
+
+
+**Tuesday, October 18 2022 - Tue. 10/18 – It’s AI Vs. The Metaverse, And AI Seems To Be Winning**
+
+  * [Apple introduces next-generation iPad Pro, supercharged by the M2 chip](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/) (Apple Newsroom)
+  * [Apple announces new 11-inch and 12.9-inch iPad Pro with M2 chip, Apple Pencil hover feature](https://9to5mac.com/2022/10/18/apple-new-m2-ipad-pro/) (9to5Mac)
+  * [Apple Announces 10th-Generation iPad With Complete Redesign, 10.9-Inch Display, USB-C, and More ](https://www.macrumors.com/2022/10/18/apple-announces-10th-generation-ipad/?scrolla=5eb6d68b7fedc32c19ef33b4)(MacRumors)
+  * [Meta gets final order to sell Giphy from UK antitrust watchdog](https://techcrunch.com/2022/10/18/meta-giphy-acquisition-cma-sale-order/) (TechCrunch)
+  * [Microsoft becomes latest tech firm to cut staff](https://www.axios.com/2022/10/18/microsoft-layoffs-latest-tech-firm-cuts) (Axios)
+  * [Exclusive: Amazon’s attrition costs $8 billion annually according to leaked documents. And it gets worse.](https://www.engadget.com/amazon-attrition-leadership-ctsmd-201800110.html) (Engadget)
+  * [Intel Eyes Significantly Lower Valuation in IPO of Mobileye Unit](https://www.wsj.com/articles/intel-eyes-significantly-lower-valuation-in-ipo-of-mobileye-unit-11666037700?mod=djemalertNEWS) (WSJ)
+  * [Stability AI Raises Seed Round at $1 Billion Value](https://www.bloomberg.com/news/articles/2022-10-17/digital-media-firm-stability-ai-raises-funds-at-1-billion-value?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Monday, October 17 2022 - Mon. 10/17 – Kanye To Elon: Hold My Beer**
+
+  * [Kanye West is buying ‘free speech platform’ Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Kanye West to buy social media app Parler](https://www.reuters.com/technology/parler-be-acquired-by-kanye-west-2022-10-17/?taid=634d380f3457710001cffa1c&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter) (The Verge)
+  * [Decentralized Solana-based trading platform Mango reportedly hit by $100 million exploit](https://fortune.com/crypto/2022/10/11/mango-markets-trading-platform-on-solana-seemingly-hit-by-exploit/) (Fortune)
+  * [Biden declares economic war on the Chinese semiconductor industry](https://noahpinion.substack.com/p/biden-declares-economic-war-on-the?utm_source=email) (Noahpinion)
+  * [With New Crackdown, Biden Wages Global Campaign on Chinese Technology](https://www.nytimes.com/2022/10/13/us/politics/biden-china-technology-semiconductors.html) (NYTimes)
+  * [American Executives in Limbo at Chinese Chip Companies After U.S. Ban](https://www.wsj.com/articles/american-executives-in-limbo-at-chinese-chip-companies-after-u-s-ban-11665912757?mod=djemalertNEWS) (WSJ)
+  * [Meet the Army of Robots Coming to Fill In for Scarce Workers](https://www.wsj.com/articles/meet-the-army-of-robots-coming-to-fill-in-for-scarce-workers-11665806451?mod=djemalertNEWS) (WSJ)
+
+
+
+**Friday, October 14 2022 - Fri. 10/14 – Meta Lied About Legs?**
+
+  * [Netflix’s ad tier will cost $6.99 a month and launch in November](https://www.theverge.com/2022/10/13/23402725/netflix-basic-with-ads?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Meta Avatar Legs Demo ‘Created By Motion Capture’, Not Live VR](https://uploadvr.com/meta-avatar-legs-connect/) (UploadVR)
+  * [Facebook's Legs Video Was A Lie](https://kotaku.com/zuckerberg-facebook-meta-legs-feet-video-vr-staged-fake-1849656315?scrolla=5eb6d68b7fedc32c19ef33b4) (Kotaku)
+  * [Apple Card to Offer Savings Account for Daily Cash](https://www.macrumors.com/2022/10/13/apple-card-savings-account/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
+
+
+
+**Thursday, October 13 2022 - Thu. 10/13 – The End Of The Office Era**
+
+  * [Signal will remove support for SMS text messages on Android](https://www.bleepingcomputer.com/news/technology/signal-will-remove-support-for-sms-text-messages-on-android/) (BleepingComputer)
+  * [Microsoft Office will become Microsoft 365 in major brand overhaul](https://www.theverge.com/2022/10/13/23402155/microsoft-office-microsoft-365-rename-branding-changes?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [FCC poised to ban all U.S. sales of new Huawei and ZTE equipment](https://www.axios.com/2022/10/13/fcc-ban-huawei-zte-equipment) (Axios)
+  * [Microsoft’s Army Goggles Left US Soldiers With Nausea, Headaches in Test](https://www.bloomberg.com/news/articles/2022-10-13/microsoft-s-us-army-version-of-hololens-goggles-gave-soldiers-nausea-headaches?sref=Szq5ylDR) (Bloomberg)
+  * [TikTok Parent ByteDance Sets Sights on Spotify With Music-Streaming Expansion](https://www.wsj.com/articles/tiktok-parent-bytedance-plans-music-streaming-expansion-11665602937?mod=djemalertNEWS) (WSJ)
+  * [I made $200,000 last year ghostwriting tweets for superstar VCs. It takes me 5 hours a week. Here's how I found my clients and built a booming side hustle from scratch.](https://www.businessinsider.com/twitter-ghostwriter-silicon-valley-vc-venture-founder-san-francisco-2022-10) (Insider)
+
+
+
+**Wednesday, October 12 2022 - Wed. 10/12 – Meta’s VR Event; Microsoft’s Surface Event**
+
+  * [The Meta Quest Pro costs $1,499 and ships October 25th](https://www.theverge.com/2022/10/11/23397328/meta-quest-pro-vr-headset-price-release-shipping?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [What happened to the virtual reality gaming revolution?](https://arstechnica.com/gaming/2022/10/what-happened-to-the-virtual-reality-gaming-revolution/) (Ars Technica)
+  * [It’s painful how hellbent Mark Zuckerberg is on convincing us that VR is a thing](https://techcrunch.com/2022/10/11/its-painful-how-hellbent-mark-zuckerberg-is-on-convincing-us-that-vr-is-a-thing/) (TechCrunch)
+  * [Zuckerberg’s $1,499 Headsets Won’t Help Meta](https://www.bloomberg.com/opinion/articles/2022-10-11/zuckerberg-s-1-499-headsets-won-t-help-meta?sref=Szq5ylDR) (Bloomberg)
+  * [Surface Pro 9 lets you pick between Intel or Arm 5G and new color options](https://www.theverge.com/2022/10/12/23400261/surface-pro-9-price-release-date-specs-hands-on?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Microsoft's (barely) refreshed Surface Laptop 5 starts at $1,000](https://www.engadget.com/microsofts-refreshed-surface-laptop-5-starts-at-1000-dollars-specs-price-140007592.html) (Engadget)
+  * [Microsoft’s Surface Studio 2 Plus ships with an RTX 3060 for $4,299](https://www.theverge.com/2022/10/12/23400291/microsoft-surface-studio-2-plus-release-date-price-specs?scrolla=5eb6d68b7fedc32c19ef33b) (The Verge)
+  * [Microsoft brings DALL-E 2 to the masses with Designer and Image Creator](https://techcrunch.com/2022/10/12/microsoft-brings-dall-e-2-to-the-masses-with-designer-and-image-creator/) (TechCrunch)
+  * [Microsoft’s Adaptive Accessories finally have a release date](https://www.theverge.com/2022/10/12/23400273/microsoft-adaptive-accessories-release-date-accessibility-kit?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+
+
+**Tuesday, October 11 2022 - Tue. 10/11 – Odds And Sods**
+
+  * [America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now](https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354?mod=djemalertNEWS) (WSJ)
+  * [Google selects Coinbase to take cloud payments with cryptocurrencies and will use its custody tool](https://www.cnbc.com/2022/10/11/google-selects-coinbase-to-take-cloud-payments-with-cryptocurrencies.html) (CNBC)
+  * [Chips, canvases, and chats: Google Workspace’s plan to crush Office](https://www.theverge.com/2022/10/11/23397341/google-workspace-meet-aparna-pappu?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Google is trying to make Chromebooks built for cloud gaming](https://www.engadget.com/google-cloud-gaming-chromebooks-asus-lenovo-acer-130030080.html) (Engadget)
+  * [It's Lonely in the Metaverse: DappRadar Data Suggests Decentraland Has 38 ‘Daily Active’ Users in $1.3B Ecosystem](https://www.coindesk.com/web3/2022/10/07/its-lonely-in-the-metaverse-decentralands-38-daily-active-users-in-a-13b-ecosystem/) (CoinDesk)
+  * [You Hated Your Cable Package. Your Streaming Services Are Bringing It Back.](https://www.wsj.com/articles/streaming-service-bundle-cable-11665151236?mod=djemalertNEWS) (WSJ)
+  * [‘The Owner of This iPhone Was in a Severe Car Crash’—or Just on a Roller Coaster](https://www.wsj.com/articles/the-owner-of-this-iphone-was-in-a-severe-car-crashor-just-on-a-roller-coaster-11665314944?mod=djemalertNEWS) (WSJ)
+  * [How to change the AirTags battery](https://appleinsider.com/articles/21/05/03/how-to-change-the-battery-in-airtag) (AppleInsider)
+
+
+
+**Friday, October 07 2022 - Fri. 10/07 – What Is It With These Dang Bridges?**
+
+  * [Binance-linked blockchain hit by $570 million crypto hack](https://www.reuters.com/technology/hackers-steal-around-100-million-cryptocurrency-binance-linked-blockchain-2022-10-07/) (Reuters)
+  * [The Elon Musk vs. Twitter trial is on hold until October 28th](https://www.theverge.com/2022/10/6/23391749/elon-musk-twitter-trial-stay-close-deal-judge-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge](https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Amazon Abandons Home Delivery Robot Tests in Latest Cost Cuts](https://www.bloomberg.com/news/articles/2022-10-06/amazon-abandons-autonomous-home-delivery-robot-in-latest-cut?sref=Szq5ylDR) (Bloomberg)
+  * [Samsung Details GDDR7 and 1,000-Layer V-NAND Plans](https://www.tomshardware.com/news/samsung-details-gddr7-1000-later-vnand-plans) (Tom's Hardware)
+
+
+
+**Thursday, October 06 2022 - Thu. 10/06 – The Made By Google Event**
+
+  * [Google unveils Pixel 7 Pro with Tensor G2 processor, 5x telephoto, starts at $899](https://9to5google.com/2022/10/06/google-announces-pixel-7-pro-specs/) (9to5Google)
+  * [Google gets serious about wearables with the Pixel Watch](https://techcrunch.com/2022/10/06/google-gets-serious-about-wearables-with-the-pixel-watch/?tpcc=tcplustwitter) (TechCrunch)
+  * [Elon Musk’s deposition delayed as he wrangles with Twitter over deal](https://www.ft.com/content/2d7a5359-5de7-42ad-b5ba-955d35d127cd) (Financial Times)
+  * [Former Uber Security Chief Found Guilty of Hiding Hack From Authorities](https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html) (NYTimes)
+  * [Former Uber security chief convicted of covering up 2016 data breach](https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/) (Washington Post)
+  * [Google answers Meta’s video-generating AI with its own, dubbed Imagen Video](https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/) (TechCrunch)
+
+
+
+**Wednesday, October 05 2022 - Wed. 10/05 – Elon Wants Twitter Now. We Think. Who KNOWS ANYMORE!!??**
+
+  * [Musk Revives $44 Billion Twitter Bid, Aiming to Avoid Trial](https://www.bloomberg.com/news/articles/2022-10-04/musk-proposes-to-proceed-with-twitter-deal-at-54-20-a-share?sref=Szq5ylDR) (Bloomberg)
+  * [Elon Musk says Twitter will eventually be part of ‘X, the everything app’](https://www.marketwatch.com/story/elon-musk-says-twitter-will-eventually-be-part-of-x-the-everything-app-11664926184?mod=mw_latestnews) (MarketWatch)
+  * [Musk offers to proceed with Twitter deal](https://www.axios.com/2022/10/04/elon-musk-twitter-settlement) (Axios)
+  * [Lawyers Lose Out on Millions in Twitter-Musk Legal Fees](https://www.bloomberg.com/news/articles/2022-10-05/pity-the-lawyers-millions-lost-on-twitter-musk-legal-fees?sref=Szq5ylDR) (Bloomberg)
+  * [Tesla is now building Model 3 and Model Y vehicles without ultrasonic sensors](https://techcrunch.com/2022/10/04/tesla-is-now-building-model-3-and-model-y-vehicles-without-ultrasonic-sensors/) (TechCrunch)
+  * [DDoS attack on 'Overwatch 2' servers prevents fans from playing the game on launch day](https://www.engadget.com/ddos-attack-overwatch-2-050328450.html) (Engadget)
+  * [Chess Investigation Finds That U.S. Grandmaster ‘Likely Cheated’ More Than 100 Times](https://www.wsj.com/articles/chess-cheating-hans-niemann-report-magnus-carlsen-11664911524?mod=djemalertNEWS) (WSJ)
+
+
+
+**Tuesday, October 04 2022 - Tue. 10/04 – The End Of Lightning**
+
+  * [EU Passes Law to Switch iPhone to USB-C by End of 2024](https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
+  * [Xiaomi’s 12T Pro launches with high-resolution 200-megapixel camera](https://www.theverge.com/2022/10/4/23386776/xiaomi-12t-pro-200-megapixel-camera-108mp-price-release-date-specs-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Google debuts new Nest Doorbell Wired, Nest Wifi Pro and launches fully new Google Home app preview](https://www.zdnet.com/home-and-office/smart-home/google-debuts-new-nest-doorbell-wired-nest-wifi-pro-and-launches-preview-program-for-an-entirely-new-google-home-app/) (ZDNet)
+  * [YouTube is asking some users to purchase a Premium subscription to watch in 4K](https://techcrunch.com/2022/10/03/youtube-is-asking-some-users-to-purchase-a-premium-subscription-to-watch-in-4k/) (TechCrunch)
+  * [Meta launches AI software tools to ease switching between Nvidia, AMD chips](https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/) (Reuters)
+  * [Walgreens Turns to Prescription-Filling Robots to Free Up Pharmacists](https://www.wsj.com/articles/walgreens-turns-to-prescription-filling-robots-to-free-up-pharmacists-11664713243?mod=djemalertNEWS) (WSJ)
+
+
+
+**Monday, October 03 2022 - Mon. 10/03 – Kim Kardashian In Crypto Trouble**
+
+  * [Kim Kardashian pays over $1 million to settle SEC charges linked to a crypto promo on her Instagram](https://www.cnbc.com/2022/10/03/kim-kardashian-settles-sec-charges-instagram-crypto-promotion.html) (CNBC)
+  * [Celsius Network founder withdrew $10mn ahead of bankruptcy](https://www.ft.com/content/5f7c9eab-ca5f-4425-91be-5781313c9723) (FT)
+  * [Sony Betting Big on Next VR Headset With Increased Production Plan](https://www.bloomberg.com/news/articles/2022-10-03/sony-psvr2-headset-production-plan-2-million-units-by-march-2023?sref=Szq5ylDR) (Bloomberg)
+  * [Social Media Company Liability Draws Supreme Court Scrutiny](https://www.bloomberg.com/news/articles/2022-10-03/social-media-company-liability-draws-us-supreme-court-scrutiny?sref=Szq5ylDR) (Bloomberg)
+  * [Texas Social-Media Law on Web Censorship Upheld by Federal Appeals Court](https://www.bloomberg.com/news/articles/2022-09-16/texas-social-media-law-upheld-by-federal-appeals-court?sref=Szq5ylDR) (Bloomberg)
+  * [Tech companies are gaming out responses to the Texas social media law](https://www.washingtonpost.com/technology/2022/10/01/texas-social-media-impact/) (Washington Post)
+
+
+
+
+**Friday, September 30 2022 - Fri. 09/30 – Google Shutters Stadia**
+
+  * [Google is shutting down Stadia](https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Meta to Cut Headcount for First Time, Slash Budgets Across Teams](https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring?sref=Szq5ylDR) (Bloomberg)
+  * [TripActions reportedly files to go public at $12 billion valuation](https://techcrunch.com/2022/09/29/tripactions-ipo/) (TechCrunch)
+  * [Jack Dorsey tried to get Elon Musk on Twitter’s board but directors were too ‘risk averse,’ texts reveal](https://www.cnbc.com/2022/09/29/dorsey-wanted-musk-on-twitter-board-but-directors-were-risk-averse.html) (CNBC)
+  * [Elon Musk’s Text Exchanges Show Twitter Deal Going Off The Rails](https://bigtechnology.substack.com/p/elon-musks-text-exchanges-show-twitter) (Big Technology)
+  * [How Elon Musk, Jack Dorsey, and Parag Agrawal cratered the Twitter deal, in texts](https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts) (The Verge)
+
+
+
+**Thursday, September 29 2022 - Thu. 09/29 – A Kindle You Can Write On**
+
+  * [The OG App promised an ad-free Instagram feed then got pulled from App Store](https://techcrunch.com/2022/09/27/og-app-promises-you-an-ad-free-instagram-feed/) (TechCrunch)
+  * [The 11 biggest announcements at Amazon’s hardware launch event](https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa) (The Verge)
+  * [Amazon’s Kindle Scribe is an E Ink tablet for reading and writing](https://www.theverge.com/2022/9/28/23375663/amazon-kindle-scribe-e-ink-tablet-stylus-event-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Here are all of the new features and updates coming to Google Maps](https://techcrunch.com/2022/09/28/new-features-and-updates-coming-google-maps/) (TechCrunch)
+  * [SWIFT Partners With Crypto Data Provider Chainlink on Cross-Chain Protocol in TradFi Play](https://www.coindesk.com/business/2022/09/28/swift-partners-with-crypto-data-provider-chainlink-on-cross-chain-protocol-in-tradfi-play/) (CoinDesk)
+  * [Meta’s new text-to-video AI generator is like DALL-E for video](https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+
+
+
+**Wednesday, September 28 2022 - Wed. 09/28 – iPhone Recession Warning Signal?**
+
+  * [Apple Ditches iPhone Production Increase After Demand Falters](https://www.bloomberg.com/news/articles/2022-09-28/apple-iphone-14-sales-not-strong-enough-to-trigger-production-boost?sref=Szq5ylDR) (Bloomberg)
+  * [The latest iPadOS 16 beta brings Stage Manager to older iPad Pro models](https://www.engadget.com/apple-ipad-os-16-stage-manager-for-older-i-pads-171218520.html) (Engadget)
+  * [Intel’s 13th Gen processors arrive October 20th with $589 flagship Core i9-13900K](https://www.theverge.com/2022/9/27/23374386/intel-13th-gen-processors-release-date-price-raptor-lake?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Intel Arc A770 graphics card to launch October 12 for $329](https://www.pcgamer.com/intel-arc-a770-price-release-date/) (PCGamer)
+  * [NFT Trading Volumes Collapse 97% From January Peak](https://www.bloomberg.com/news/articles/2022-09-28/nft-volumes-tumble-97-from-2022-highs-as-frenzy-fades-chart?sref=Szq5ylDR) (Bloomberg)
+  * [Twitter says Elon Musk’s own data scientists did not back up bots claims](https://www.ft.com/content/3ca2e577-0115-40d7-b4ae-96e800e8c0eb) (Financial Times)
+  * [Turnstile is Cloudflare’s latest attempt to rid the web of CAPTCHAs](https://www.theverge.com/2022/9/28/23367035/cloudflare-turnstile-captcha-bot-blocker-beta) (The Verge)
+  * [How To Watch Tesla’s AI Day](https://www.forbes.com/sites/qai/2022/09/27/how-to-watch-teslas-ai-day/?sh=587bcb475aea) (Forbes)
+
+
+
+**Tuesday, September 27 2022 - Tue. 09/27 – The First Meaningful AR Product To Hit These Shores?**
+
+  * [Crypto Exchange FTX Wins Bankrupt Firm Voyager’s Assets](https://www.bloomberg.com/news/articles/2022-09-27/crypto-exchange-ftx-said-to-win-bankrupt-firm-voyager-s-assets?sref=Szq5ylDR) (Bloomberg)
+  * [‘Smash and grab’: Meta uncovers Russia's ‘largest and most complex’ info op since the war began](https://www.protocol.com/bulletins/meta-russia-china-takedowns) (Protocol)
+  * [Meta makes it easier to switch between Facebook and Instagram accounts](https://www.cnbc.com/2022/09/26/facebook-and-instagram-users-can-now-easily-switch-between-accounts.html) (CNBC)
+  * [Nreal’s $379 AR glasses launch in the US today](https://www.theverge.com/2022/9/27/23373228/nreal-air-ar-glasses-streaming-video-us-launch-pricing-amazon?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [If you still miss Google Reader, Substack has a new web-based RSS client](https://www.theverge.com/2022/9/26/23372911/substack-reader-web-desktop-rss-client-google-reader?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+  * [Walmart enters the metaverse with Roblox experiences aimed at younger shoppers](https://www.cnbc.com/2022/09/26/walmart-enters-the-metaverse-with-roblox.html) (CNBC)
+  * [Neal Stephenson’s Lamina1 drops white paper on building the open metaverse](https://venturebeat.com/games/neal-stephensons-lamina1-drops-white-paper-on-building-the-open-metaverse/) (GamesBeat)
+
+
+
+**Monday, September 26 2022 - Mon. 09/26 – Darth Vader’s Voice Is AI Now**
+
+  * [UK Police arrests teen believed to be behind Uber, Rockstar hacks](https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/) (BleepingComputer)
+  * [One Week with the iPhone 14 Pro Max: Apple’s Not-So-Dynamic Island](https://www.bloomberg.com/news/newsletters/2022-09-25/should-i-buy-the-iphone-14-pro-max-if-i-have-an-iphone-13-wait-until-iphone-15-l8he7uvv?sref=Szq5ylDR) (Bloomberg)
+  * [Cloudflare launches an eSIM to secure mobile devices](https://techcrunch.com/2022/09/26/cloudflare-launches-an-esim-to-secure-mobile-devices/) (TechCrunch)
+  * [TikTok Seen Moving Toward U.S. Security Deal, but Hurdles Remain](https://www.nytimes.com/2022/09/26/technology/tiktok-national-security-china.html) (NYTimes)
+  * [Artist receives first known US copyright registration for latent diffusion AI art](https://arstechnica.com/information-technology/2022/09/artist-receives-first-known-us-copyright-registration-for-generative-ai-art/) (ArsTechnica)
+  * [James Earl Jones Steps Back From Voicing Darth Vader, Signs Off on Using Archived Recordings to Recreate Voice With A.I.](https://variety.com/2022/digital/news/james-earl-jones-darth-vader-retiring-star-wars-ai-1235382827/) (Variety)
+  * [Darth Vader’s Voice Emanated From War-Torn Ukraine](https://www.vanityfair.com/hollywood/2022/09/darth-vaders-voice-emanated-from-war-torn-ukraine) (Variety)
+
 **Friday, September 23 2022 - Fri. 09/23 – Are DAO’s NOT A Liability Shield?**
 
   * [CFTC Penalizes Blockchain Protocol $250K, Files Action Against Successor DAO](https://www.coindesk.com/policy/2022/09/22/cftc-penalizes-blockchain-protocol-250k-files-action-against-successor-dao/) (CoinDesk)
