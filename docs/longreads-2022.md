@@ -1,6 +1,106 @@
 {% include_relative _includes/longreads-header.md %}
 
 _This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
+
+**Thursday, December 22**
+  * [How TikTok Became a Diplomatic Crisis](https://www.nytimes.com/2022/12/20/magazine/tiktok-us-china-diplomacy.html) (NYTimes)
+  * [How the algorithm tipped the balance in Ukraine](https://www.washingtonpost.com/opinions/2022/12/19/palantir-algorithm-data-ukraine-war/) (Washington Post)
+  * [Bob Gottlieb Is the Last of the Publishing Giants The 91-year-old editor waits for his 87-year-old star writer, Robert Caro, to turn in his book.](https://www.vulture.com/article/bob-gottlieb-robert-caro-turn-every-page-profile.html?utm_medium=s1&utm_source=tw&utm_campaign=vulture) (Vulture)
+
+
+**Friday, December 16**
+*  [Spotify’s grand plan to monetize developers via its open source Backstage project](https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/)  (TechCrunch)
+*  [YouTube Stars Cash In Video Rights for Millions of Dollars](https://www.wsj.com/articles/youtube-stars-cash-in-video-rights-for-millions-of-dollars-11670883441?mod=djemalertNEWS)  (WSJ)
+*  [ChatGPT and the Imagenet moment](https://www.ben-evans.com/benedictevans/2022/12/14/ChatGPT-imagenet)  (Ben Evans)
+
+
+**Friday, December 16**
+  * [Spotify’s grand plan to monetize developers via its open source Backstage project](https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/) (TechCrunch)
+  * [YouTube Stars Cash In Video Rights for Millions of Dollars](https://www.wsj.com/articles/youtube-stars-cash-in-video-rights-for-millions-of-dollars-11670883441?mod=djemalertNEWS) (WSJ)
+  * [ChatGPT and the Imagenet moment](https://www.ben-evans.com/benedictevans/2022/12/14/ChatGPT-imagenet) (Ben Evans)
+
+
+**Friday, December 09**
+*  [How AI That Powers Chatbots and Search Queries Could Discover New Drugs](https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795?mod=djemalertNEWS)  (WSJ)
+*  [The Hype Around Esports Is Fading as Investors and Sponsors Dry Up](https://www.bloomberg.com/news/articles/2022-12-08/the-hype-around-esports-is-fading-as-investors-and-sponsors-flee?sref=Szq5ylDR)  (Bloomberg)
+*  [Programmable Ink](https://www.inkandswitch.com/inkbase/)  (InkAndSwitch)
+*  [How CoinDesk’s FTX scoop left a hole in its corporate overlord](https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis)  (The Verge)
+*  [Enter the wind tunnel](https://ade3.medium.com/driving-conformity-49ffb2b1ff9f)  (Driving Conformity)
+*  [36 Hours - Wellington, New Zealand](https://www.nytimes.com/interactive/2022/12/08/travel/things-to-do-wellington.html)  (NYTimes)
+
+
+**Friday, December 09**
+  * [How AI That Powers Chatbots and Search Queries Could Discover New Drugs](https://www.wsj.com/articles/how-ai-that-powers-chatbots-and-search-queries-could-discover-new-drugs-11670428795?mod=djemalertNEWS) (WSJ)
+  * [The Hype Around Esports Is Fading as Investors and Sponsors Dry Up](https://www.bloomberg.com/news/articles/2022-12-08/the-hype-around-esports-is-fading-as-investors-and-sponsors-flee?sref=Szq5ylDR) (Bloomberg)
+  * [Programmable Ink](https://www.inkandswitch.com/inkbase/) (InkAndSwitch)
+  * [How CoinDesk’s FTX scoop left a hole in its corporate overlord](https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis) (The Verge)
+  * [Enter the wind tunnel](https://ade3.medium.com/driving-conformity-49ffb2b1ff9f) (Driving Conformity)
+  * [36 Hours - Wellington, New Zealand](https://www.nytimes.com/interactive/2022/12/08/travel/things-to-do-wellington.html) (NYTimes)
+
+
+**Friday, December 02**
+  * [Generative AI: autocomplete for everything](https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything) (Noahpinion)
+  * [Your Creativity Won’t Save Your Job From AI](https://www.theatlantic.com/newsletters/archive/2022/12/why-the-rise-of-ai-is-the-most-important-story-of-the-year/672308/) (The Atlantic)
+  * [The Grown-Up Art of Andor](https://newrepublic.com/article/169206/grown-up-art-andor) (The New Republic)
+  * [A French Village’s Radical Vision of a Good Life with Alzheimer’s](https://www.newyorker.com/culture/annals-of-inquiry/a-french-villages-radical-vision-of-a-good-life-with-alzheimers) (New Yorker)
+
+
+**Wednesday, November 23**
+  * [The Tiny and Nightmarishly Efficient Future of Drone Warfare](https://www.theatlantic.com/technology/archive/2022/11/russia-ukraine-war-drones-future-of-warfare/672241/) (The Atlantic)
+  * [Robert Iger Returns to Disney Facing Radically Different Streaming Landscape](https://www.wsj.com/articles/robert-iger-returns-to-disney-facing-radically-different-streaming-landscape-11669150125?mod=djemalertNEWS) (WSJ)
+  * [America has an earthquake early-warning system now — on your phone](https://www.washingtonpost.com/technology/2022/11/14/earthquake-early-warning/) (Washington Post)
+  * [The Weird-Looking, Fuel-Efficient Planes You Could Be Flying in One Day](https://www.wsj.com/articles/the-weird-looking-fuel-efficient-planes-you-could-be-flying-in-one-day-11667397440) (WSJ)
+
+
+**Friday, November 18**
+*  [Tweet thread from @MosquitoCapital on the many ways Twitter could break](https://twitter.com/mosquitocapital/status/1593541177965678592) 
+*  [Nvidia RTX 4080 review: performance, for a price](https://www.theverge.com/23457556/nvidia-rtx-4080-gpu-graphics-card-benchmark-test-review)  (The Verge)
+*  [1Password wants to ditch passwords without locking you in to one platform](https://www.fastcompany.com/90812818/1password-wants-to-ditch-passwords-without-locking-you-in-to-one-platform)  (Fast Company)
+*  [Why Big Tech Is Throwing $1 Billion at Sucking CO2 From the Air](https://www.cnet.com/science/climate/why-big-tech-is-throwing-1-billion-to-suck-co2-from-the-air/)  (CNET)
+
+
+**Friday, November 18**
+  * [Tweet thread from @MosquitoCapital on the many ways Twitter could break](https://twitter.com/mosquitocapital/status/1593541177965678592)
+  * [Nvidia RTX 4080 review: performance, for a price](https://www.theverge.com/23457556/nvidia-rtx-4080-gpu-graphics-card-benchmark-test-review) (The Verge)
+  * [1Password wants to ditch passwords without locking you in to one platform](https://www.fastcompany.com/90812818/1password-wants-to-ditch-passwords-without-locking-you-in-to-one-platform) (Fast Company)
+  * [Why Big Tech Is Throwing $1 Billion at Sucking CO2 From the Air](https://www.cnet.com/science/climate/why-big-tech-is-throwing-1-billion-to-suck-co2-from-the-air/) (CNET)
+
+
+**Friday, November 11**
+  * [Basically everything on Amazon has become an ad](https://www.vox.com/recode/2022/11/10/23450349/amazon-advertising-everywhere-prime-sponsored-products) (Vox)
+  * [Can Crypto’s Richest Man Stand the Cold?](https://www.bloomberg.com/news/features/2022-06-23/binance-bnb-ceo-moves-to-dubai-as-us-regulators-target-the-crypto-exchange?sref=Szq5ylDR) (Bloomberg)
+  * [Matter is here, but it’s still a long road to the simple smart home](https://www.theverge.com/23440189/matter-launch-event-hands-on-rollout) (The Verge)
+  * [Twitter alternative: how Mastodon is designed to be “antiviral”](https://uxdesign.cc/mastodon-is-antiviral-design-42f090ab8d51) (UXCollective)
+  * [Unfollow? Block? And who gets custody of the WhatsApp groups? How to break up in the digital age](https://www.theguardian.com/lifeandstyle/2022/nov/04/how-to-break-up-in-the-digital-age-whatsapp) (The Guardian)
+
+
+**Friday, November 04**
+*  [Bored Ape Yacht Club tell all: The untold story of the $4 billion crypto startup](https://www.fastcompany.com/90796009/bored-ape-yacht-club-tell-all-the-untold-story-of-the-4-billion-crypto-startup)  (FastCompany)
+*  [The ‘Viral’ Secure Programming Language That’s Taking Over Tech](https://www.wired.com/story/rust-secure-programming-language-memory-safe/)  (Wired)
+*  [The Race to Be Figma for Devs: CodeSandbox vs. StackBlitz](https://thenewstack.io/the-race-to-be-figma-for-devs-codesandbox-vs-stackblitz/)  (TheNewStack)
+*  [The Most Vulnerable Place on the Internet](https://www.wired.co.uk/article/submarine-internet-cables-egypt)  (Wired)
+*  [Inside the weirdly competitive industry of robots writing letters in human handwriting](https://www.fastcompany.com/90801044/inside-the-weirdly-competitive-industry-of-robots-writing-letters-in-human-handwriting)  (FastCompany)
+
+
+**Friday, November 04**
+  * [Bored Ape Yacht Club tell all: The untold story of the $4 billion crypto startup](https://www.fastcompany.com/90796009/bored-ape-yacht-club-tell-all-the-untold-story-of-the-4-billion-crypto-startup) (FastCompany)
+  * [The ‘Viral’ Secure Programming Language That’s Taking Over Tech](https://www.wired.com/story/rust-secure-programming-language-memory-safe/) (Wired)
+  * [The Race to Be Figma for Devs: CodeSandbox vs. StackBlitz](https://thenewstack.io/the-race-to-be-figma-for-devs-codesandbox-vs-stackblitz/) (TheNewStack)
+  * [The Most Vulnerable Place on the Internet](https://www.wired.co.uk/article/submarine-internet-cables-egypt) (Wired)
+  * [Inside the weirdly competitive industry of robots writing letters in human handwriting](https://www.fastcompany.com/90801044/inside-the-weirdly-competitive-industry-of-robots-writing-letters-in-human-handwriting) (FastCompany)
+
+
+**Friday, October 28**
+  * [Smartphone Storage Space Is the New Turf War for Game Makers](https://www.bloomberg.com/news/articles/2022-10-25/smartphone-storage-space-is-the-new-turf-war-for-game-makers?sref=Szq5ylDR) (Bloomberg)
+  * [The First Minute of Every Phone Call Is Torture Now](https://www.theatlantic.com/technology/archive/2022/10/phone-call-greeting-smartphone-technological-error/671910/) (The Atlantic)
+  * [The Try Guys and the Prison of Online Fame](https://www.nytimes.com/2022/10/25/magazine/try-guys-internet-fame.html?smtyp=cur&smid=tw-nytimes) (NYTimes Magazine)
+  * [The Crypto Story](https://www.bloomberg.com/features/2022-the-crypto-story/?sref=Szq5ylDR) (Matt Levine/Bloomberg Businessweek)
+  * [Which AI Creates the Best](https://www.pcmag.com/news/which-ai-creates-the-best-art) (and Most Terrifying) Art? (PC Mag)
+  * [The Fantasy of Instant Delivery Is Imploding](https://www.bloomberg.com/news/features/2022-10-24/gopuff-layoffs-signal-instant-delivery-s-demise?sref=Szq5ylDR) (Bloomberg)
+  * [The beginning of the monster Game of Thrones Twitter Thread](https://twitter.com/rejectedjokes/status/1575550274369777664?s=12&t=Ug37XoK-uxxYl2v5lqIV9w) (Ben Schwartz)
+
+
 **Friday, October 21**
   * [Technology that lets us “speak” to our dead relatives has arrived. Are we ready?](https://www.technologyreview.com/2022/10/18/1061320/digital-clones-of-dead-people/) (MIT Technology Review)
   * [How Gamers Beat NFTs](https://www.bloomberg.com/news/features/2022-10-17/how-gamers-beat-nfts?sref=Szq5ylDR) (Bloomberg)
