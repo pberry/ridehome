@@ -1,5 +1,9 @@
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+
+* [Show Links by Day 2023](all-links-2023.md)
+* [Long reads 2023](longreads-2023.md)
+
 * [Show Links by Day 2022](all-links-2022.md)
 * [Show Links by Day Pre 2022](all-links.md)
 * [Long reads 2022](longreads-2022.md)
