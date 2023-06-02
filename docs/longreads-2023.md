@@ -1,6 +1,46 @@
 {% include_relative _includes/longreads-header.md %}
 
-_This collection is no longe being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+_This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
+**Friday, June 02**
+  * [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over?sref=Szq5ylDR) (Bloomberg)
+  * [A Week With the Wild Children of the A.I. Boom](https://www.nytimes.com/2023/05/31/magazine/ai-start-up-accelerator-san-francisco.html?partner=slack&smid=sl-share) (NYTimes Magazine)
+  * [China Is Drilling a 10,000-Meter-Deep Hole Into the Earth](https://www.bloomberg.com/news/articles/2023-05-31/china-is-drilling-a-10-000-meter-deep-hole-into-earth-s-crust?cmpid=BBD060123_MKT&utm_medium=email&utm_source=newsletter&utm_term=230601&utm_campaign=markets&sref=Szq5ylDR#xj4y7vzkg) (Bloomberg)
+
+**Friday, May 26**
+  * [Meta's ‘Efficiency’ Layoffs Take a Toll on Employee Productivity](https://www.bloomberg.com/news/articles/2023-05-24/meta-caps-rounds-of-job-cuts-offering-staff-a-cold-clarity?sref=Szq5ylDR) (Bloomberg)
+  * [Sergey Brin Has a Secret Plan to Put Airships Back in the Skies](https://www.bloomberg.com/news/features/2023-05-25/inside-google-founder-sergey-brin-s-secret-plan-to-build-airships?sref=Szq5ylDR) (BusinessWeek)
+  * [Some Neural Networks Learn Language Like Humans](https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/) (QuantaMagazine)
+  * [A husband hid $500,000 in bitcoin during a divorce — and got busted by a crypto hunter](https://www.cnbc.com/2023/05/20/bitcoin-in-divorce-how-spouses-hide-assets-crypto-hunters-find-them.html) (CNBC)
+  * [Going for a walk with Shift’s Moonwalker electric shoe-skates](https://techcrunch.com/2023/05/22/going-for-a-walk-with-shifts-moonwalker-electric-shoe-skates/?tpcc=tcplustwitter) (TechCrunch)
+
+
+**Friday, May 19**
+  * [In Battle Over A.I., Meta Decides to Give Away Its Crown Jewels](https://www.nytimes.com/2023/05/18/technology/ai-meta-open-source.html) (NYTimes)
+  * [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) (Wired)
+  * [Cheesier, Saucier, and Drowning in Caviar; How TikTok took over the menu.](https://www.grubstreet.com/article/tiktok-took-over-the-menu.html) (GrubStreet)
+  * [Japan’s sleepy tech scene is ready for a comeback](https://restofworld.org/2023/japan-tech-industry-jobs-growing/) (Rest of World)
+
+
+**Friday, May 12**
+  * [End of the Billable Hour? Law Firms Get On Board With Artificial Intelligence](https://www.wsj.com/articles/end-of-the-billable-hour-law-firms-get-on-board-with-artificial-intelligence-17ebd3f8?mod=djemalertNEWS) (WSJ)
+  * [“We Were Always Playing An Entirely Different Game”: The Ultimate Oral History Of BuzzFeed News](https://www.buzzfeed.com/buzzfeednews/buzzfeed-news-oral-history-2012-2023) (BuzzFeed News)
+  * [Taiwan Is Running Low on a Strategic Asset: Engineers](https://www.nytimes.com/2023/05/11/technology/taiwan-tsmc-microchips.html) (NYTimes)
+  * [The Plot to Steal the Other Secret Inside a Can of Coca-Cola](https://www.bloomberg.com/news/features/2023-05-11/the-plot-to-steal-the-secret-coke-can-liner-formula?sref=Szq5ylDR) (Bloomberg)
+
+
+**Friday, May 05**
+  * [AI Singers Are Unnervingly Good and Already Ubiquitous](https://www.vulture.com/article/ai-singers-drake-the-weeknd-voice-clones.html) (Vulture)
+  * [Is the Federal Government Trying to Kill Off Crypto?](https://nymag.com/intelligencer/2023/05/is-the-federal-government-trying-to-kill-off-crypto.html) (Intelligencer/NYMag)
+  * [Why Chatbots Are Not the Future](https://wattenberger.com/thoughts/boo-chatbots) (Amelia Wattenberger)
+  * [ESPN’s Jimmy Pitaro Will Decide the Fate of Cable Television](https://www.bloomberg.com/news/articles/2023-05-01/espn-s-jimmy-pitaro-and-disney-s-bob-iger-often-chew-over-future-of-espn?sref=Szq5ylDR) (Bloomberg)
+
+
+**Friday, April 28**
+  * [Apple’s Siri Chief Struggles With Turf Wars as New AI Era Begins](https://www.theinformation.com/articles/apples-siri-chief-struggles-as-new-ai-era-begins?rc=64g9cw) (The Information)
+  * [ASML, Europe’s Most Valuable Tech Firm, Is at the Heart of the US-China Chip War](https://www.bloomberg.com/news/articles/2023-04-26/asml-europe-s-most-valuable-tech-firm-to-define-us-china-chip-war?sref=Szq5ylDR) (Bloomberg)
+  * [The Unexpected Reason Apple Is Dominating the U.S. Smartphone Market](https://www.wsj.com/articles/apple-iphone-smartphone-market-dominant-android-7914e6b0?mod=djemalertNEWS) (WSJ)
+  * [35 Ways Real People Are Using A.I. Right Now](https://www.nytimes.com/interactive/2023/04/14/upshot/up-ai-uses.html) (NYTimes)
 
 
 **Friday, April 07**
