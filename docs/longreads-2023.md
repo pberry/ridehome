@@ -2,6 +2,123 @@
 
 _This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, October 13**
+  * [Adobe Is Focused on AI Rather Than Figma With Acquisition in Limbo](https://www.bloomberg.com/news/articles/2023-10-12/adobe-deal-for-figma-in-limbo-with-new-focus-on-ai?sref=Szq5ylDR) (Bloomberg)
+  * [Can EA’s FIFA-Free Soccer Game Win Fans?](https://www.bloomberg.com/features/2023-fc24-ea-sports-fifa/?sref=Szq5ylDR) (Bloomberg)
+  * [Has Bob Iger Lost the Magic?](https://www.bloomberg.com/news/features/2023-10-10/has-bob-iger-lost-the-magic-inside-disney-ceo-s-billion-dollar-crisis?utm_campaign=bw&utm_medium=distro&utm_source=yahooUS&sref=Szq5ylDR) (Bloomberg)
+  * [Why Dizziness Is Still a Mystery](https://www.newyorker.com/culture/annals-of-inquiry/why-dizziness-is-still-a-mystery) (The New Yorker)
+
+
+**Friday, October 06**
+  * [How Will A.I. Learn Next?](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next) (The New Yorker)
+  * [How Bandcamp makes more money than Spotify](https://www.fastcompany.com/90951664/bandcamp-spotify-vinyl-renaissance) (Fast Company)
+  * [Long gone, DEC is still powering the world of computing](https://arstechnica.com/gadgets/2023/10/long-gone-dec-is-still-powering-the-world-of-computing/) (ArsTechnica)
+  * [The Genius Behind Hollywood’s Most Indelible Sets](https://www.nytimes.com/2023/10/05/magazine/jack-fisk-movie-sets.html?partner=slack&smid=sl-share) (NYTimes Magazine)
+
+
+**Friday, September 29**
+  * [The new phone call etiquette: Text first and never leave a voice mail](https://www.washingtonpost.com/technology/2023/09/25/cell-phone-etiquette-call-voicemail/?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (Washington Post)
+  * [Can FTX Be Revived—Without Sam Bankman-Fried?](https://www.wired.com/story/can-ftx-be-revived-without-sam-bankman-fried-sbf/) (Wired)
+  * [Could ‘The Terminator’ really happen? Experts assess Hollywood’s visions of AI.](https://www.washingtonpost.com/technology/interactive/2023/artificial-intelligence-ai-hollywood-movies-characters/?itid=mr_technology_1) (Washington Post)
+  * [‘Nerfball’ introduces Nerf’s smartest foam yet — it detects dart impacts](https://www.theverge.com/2023/9/28/23893892/nerf-nerfball-foam-hit-detection-xo-nano-sport) (The Verge)
+  * [Netflix Prepares to Send Its Final Red Envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html) (NYTimes)
+
+
+**Friday, September 22**
+  * [Amazon’s rumored home projector can turn anything into a screen](https://www.theverge.com/2023/9/21/23884363/amazon-smart-home-projector-alexa-device) (The Verge)
+  * [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/) (Quanta)
+  * [Unraveling The AI-Generated Spiral Art Phenomenon](https://nftnow.com/ai/unraveling-the-ai-generated-spiral-art-phenomenon/) (NFTNow)
+  * [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english) (Lapham's Quarterly)
+
+
+**Friday, September 15**
+  * [Startup That Lets You Instantly Talk in Foreign Language Targets a Nasdaq IPO at $1 Billion Value](https://www.bloomberg.com/news/articles/2023-09-15/translation-startup-from-japan-wants-to-debut-on-nasdaq-at-1-billion-value?sref=Szq5ylDR) (Bloomberg)
+  * [From $1 Billion to Almost Worthless: FaZe Clan Runs Out of Hype](https://www.bloomberg.com/news/articles/2023-09-13/faze-clan-went-from-cool-kids-to-penny-stock-now-its-ceo-is-out?sref=Szq5ylDR) (Bloomberg)
+  * [The Pumpkin Spice Latte just turned 20. This is how we got here.](https://www.washingtonpost.com/food/2023/09/12/starbucks-pumpkin-spice-latte-20-years/) (Washington Post)
+
+
+**Friday, September 08**
+  * [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html) (Vulture)
+  * [What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/) (Wired)
+  * [How artificial intelligence could help us talk to animals](https://www.snexplores.org/article/artificial-intelligence-animal-language-technology) (ScienceNewsExplores)
+
+**Thursday, August 31**
+  * [Despite Cheating Fears, Schools Repeal ChatGPT Bans](https://www.nytimes.com/2023/08/24/business/schools-chatgpt-chatbot-bans.html) (NYTimes)
+  * [A Startup in the New Jersey Suburbs Is Battling the Giants of Silicon Valley](https://www.wsj.com/tech/ai/nvidia-gpu-chips-coreweave-c8782435) (WSJ)
+  * [Where do fonts come from? This one business, mostly](https://thehustle.co/where-do-fonts-come-from/) (The Hustle)
+
+
+**Friday, August 25**
+  * [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/) (The Atlantic)
+  * [Michael Mann Fulfills a 30-Year Journey Directing the Operatic, Thrilling ‘Ferrari’ — And Teases ‘Heat 2’: ‘I Don’t Think About Mortality. I’m Busy’](https://variety.com/2023/film/features/michael-mann-ferrari-interview-venice-festival-heat-2-1235701561/) (Variety)
+
+**Friday, August 18**
+  * [A Rare Look Into the Finances of Elon Musk’s Secretive SpaceX](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b?page=1) (WSJ)
+  * [How the iMac saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple) (The Verge)
+  * [A Living History of The Humble Paper Airplane](https://www.popularmechanics.com/flight/drones/a44112898/history-of-paper-airplanes/) (Popular Mechanics)
+  * [A New Role for Werner Herzog: The Voice of A.I. Poetry](https://www.nytimes.com/2023/08/14/style/werner-herzog-ai-poetry.html?partner=slack&smid=sl-share) (NYTimes)
+
+
+**Friday, August 11**
+  * [Where have all the fitness bands gone?](https://www.theverge.com/23820207/fitness-bands-less-popular-wearables-smartwatches) (The Verge)
+  * [4 Actual Use Cases for Blockchain and AI That Are More Than Just Hype](https://www.coindesk.com/web3/4-actual-use-cases-for-blockchain-and-ai-that-are-more-than-just-hype/?utm_source=flipboard&utm_content=AlexanderFin%2Fmagazine%2FBitcoin%2C+DeFi%2C+NFT+%26+All+Things+Crypto) (CoinDesk)
+  * [The Looming Catalog Crisis](https://www.vulture.com/2023/08/suits-netflix-streaming-hit-lessons.html) (Vulture)
+  * [Paul F. Tompkins Is Getting Back Into It](https://www.vulture.com/article/paul-f-tompkins-interview.html) (Vulture)
+
+**Friday, August 04**
+  * [The Chip Titan Whose Life’s Work Is at the Center of a Tech Cold War](https://www.nytimes.com/2023/08/04/technology/the-chip-titan-whose-lifes-work-is-at-the-center-of-a-tech-cold-war.html) (NYTimes)
+  * [When AI Is Trained on AI-Generated Data, Strange Things Start to Happen](https://futurism.com/ai-trained-ai-generated-data-interview?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (Futurism)
+  * [How “windfall profits” from AI companies could fund a universal basic income](https://www.vox.com/future-perfect/23810027/openai-artificial-intelligence-google-deepmind-anthropic-ai-universal-basic-income-meta?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (Vox)
+  * [How Modelo became America’s new favorite beer](https://www.vox.com/money/2023/8/4/23818909/modelo-bud-light-sales-ab-inbev-constellation-brands-dylan-mulvaney) (Vox)
+
+
+**Friday, July 28**
+  * [Large language models, explained with a minimum of math and jargon](https://www.understandingai.org/p/large-language-models-explained-with) (UnderstandingAI.org)
+  * [The making of ‘Acquired,’ the No. 1 tech podcast sensation](https://www.fastcompany.com/90927453/acquired-number-1-tech-podcast-sensation) (Fast Company)
+  * [Internet cafes introduced Uganda to the internet](https://restofworld.org/2023/internet-cafes-kampala-uganda/) (Rest of World)
+
+**Friday, July 21**
+  * [A $25,000 Prize Still Sits in the Maine Woods. Meteorite Hunters Aren’t Giving Up.](https://www.wsj.com/articles/meteorite-hunters-chase-riches-11801159) (WSJ)
+  * [Fable unveils Showrunner AI to create South Park-like TV shows with you as the star](https://venturebeat.com/games/the-simulation-unveils-showrunner-ai-to-create-south-park-like-tv-shows-with-you-as-the-star/) (VentureBeat)
+  * [The Airstocracy: Six things to know about flying with the superrich.](https://nymag.com/intelligencer/2023/07/what-its-really-like-to-fly-on-a-private-jet.html) (NYMag)
+  * [THE REAL LESSON FROM THE MAKING OF THE ATOMIC BOMB](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/) (The Atlantic)
+
+
+**Friday, July 14**
+  * [Apple, Lionel Messi and the $2.5bn question: What’s next?](https://theathletic.com/4685144/2023/07/13/apple-messi-miami-mls/) (The Athletic)
+
+
+**Friday, July 07**
+  * [What Did People Do Before Smartphones?](https://www.theatlantic.com/technology/archive/2023/07/before-smartphones-boredom/674631/) (The Atlantic)
+  * [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile) (GQ)
+
+
+**Friday, June 30**
+  * [When Will AI Generate a Hollywood Blockbuster? “Give It About Three Years.”](https://www.inverse.com/culture/when-will-ai-make-a-blockbuster-movie) (Inverse)
+  * [These Tech Companies Think They Can ‘Solve’ the Wildfire Crisis](https://www.vice.com/en/article/ak3kg5/these-tech-companies-think-they-can-solve-the-wildfire-crisis?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (Motherboard)
+  * [Who killed Google Reader?](https://www.theverge.com/23778253/google-reader-death-2013-rss-social) (The Verge)
+  * [Mixtape Sites Like DatPiff Propelled Rap. Can They Be Preserved?](https://www.nytimes.com/2023/06/28/arts/music/rap-mixtape-websites-datpiff.html) (NYTimes)
+
+
+**Friday, June 23**
+  * [Dolby Atmos Wants You to Listen Up. (And Down. And Sideways.)](https://www.nytimes.com/2023/06/21/arts/music/dolby-atmos.html) (NYTimes)
+  * [The hottest new perk in tech is freedom](https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp) (Vox)
+  * [This Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (SFGate)
+  * [Meet the Vocal Coach Who’s Helping Timothée Chalamet Sound Like Bob Dylan](https://www.gq.com/story/eric-vetro-hollywood-vocal-coach) (GQ)
+
+
+**Friday, June 16**
+  * [Microsoft’s Sudden AI Dominance Is Scrambling Silicon Valley’s Power Structure](https://www.bloomberg.com/news/features/2023-06-15/microsoft-prepares-to-cash-in-on-openai-partnership-with-copilot?sref=Szq5ylDR) (Bloomberg Businessweek)
+  * [How Nvidia Became ChatGPT’s Brain and Joined the $1 Trillion Club](https://www.bloomberg.com/news/features/2023-06-15/nvidia-s-ai-chips-power-chatgpt-and-multibillion-dollar-surge?sref=Szq5ylDR) (Bloomberg Businessweek)
+  * [How MrBeast Became the Willy Wonka of YouTube](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html) (NYTimes Magazine)
+
+
+**Friday, June 09**
+  * [The Binge Purge TV’s streaming model is broken. It’s also not going away. For Hollywood, figuring that out will be a horror show.](https://www.vulture.com/2023/06/streaming-industry-netflix-max-disney-hulu-apple-tv-prime-video-peacock-paramount.html) (Vulture)
+  * [The Simpsons Is Good Again After 34 seasons, 750 episodes, and a decades-long funk, the show innovated its way back to popularity and relevance.](https://www.vulture.com/article/the-simpsons-is-good-again.html) (Vulture)
+  * [First Impressions of Vision Pro and VisionOS](https://daringfireball.net/2023/06/first_impressions_of_vision_pro_and_visionos) (Daring Fireball)
+
+
 **Friday, June 02**
   * [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over?sref=Szq5ylDR) (Bloomberg)
   * [A Week With the Wild Children of the A.I. Boom](https://www.nytimes.com/2023/05/31/magazine/ai-start-up-accelerator-san-francisco.html?partner=slack&smid=sl-share) (NYTimes Magazine)
