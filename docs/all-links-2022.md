@@ -1,3 +1,7 @@
+{% include_relative _includes/showlinks-header.md %}
+
+_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
 **Thursday, December 29 2022 - Thu. 12/29 – Someone Tell Zuck About This ABBA Avatar Concert**
 
   * [Alameda Research wallets swap several crypto tokens for bitcoin](https://www.theblock.co/post/198193/alameda-research-wallets-swap-several-crypto-tokens-for-bitcoin) (The Block)
