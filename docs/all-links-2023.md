@@ -6,7 +6,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
   * [Microsoft's purchase of Activision Blizzard for Xbox has been fully APPROVED by the UK regulator](https://www.windowscentral.com/gaming/xbox/microsofts-purchase-of-activision-blizzard-for-xbox-fully-approved-by-uk-regulator) (Windows Central)
   * [EU opens probe into Elon Musk’s X over Israel-Hamas war misinformation](https://www.ft.com/content/a4ab23c7-977a-46b1-8d00-33923ceaee89) (Financial Times)
-  * [U.S. VC funding hit lowest level in 6 years in Q3 | A story told in charts](https://venturebeat.com/ai/u-s-vc-funding-hit-lowest-level-in-6-years-in-q3-a-story-told-in-charts/) (VentureBeat)
+  * [U.S. VC funding hit lowest level in 6 years in Q3 \| A story told in charts](https://venturebeat.com/ai/u-s-vc-funding-hit-lowest-level-in-6-years-in-q3-a-story-told-in-charts/) (VentureBeat)
   * [Netflix to Open Stores Where Fans Can Play, Shop and Eat in 2025](https://www.bloomberg.com/news/articles/2023-10-12/netflix-to-open-stores-where-fans-can-play-shop-and-eat-in-2025?sref=Szq5ylDR) (Bloomberg)
 
 
