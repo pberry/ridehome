@@ -2,6 +2,562 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Wednesday, December 27 2023 - Wed. 12/27 – NYT Sues OpenAI**
+
+  * [The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html) (NYTimes)
+  * [Amazon Prime Video will start showing ads on January 29th](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29) (The Verge)
+  * [Apple’s iPhone Design Chief Enlisted by Jony Ive, Sam Altman to Work on AI Devices](https://www.bloomberg.com/news/articles/2023-12-26/apple-iphone-design-head-tang-tan-to-work-with-jony-ive-sam-altman-on-ai-tech?sref=Szq5ylDR) (Bloomberg)
+  * [Big Tech outspends venture capital firms in AI investment frenzy](https://www.ft.com/content/c6b47d24-b435-4f41-b197-2d826cce9532) (Financial Times)
+  * [Anthropic Projects At Least $850 Million in Annualized Revenue Rate Next Year](https://www.theinformation.com/articles/anthropic-projects-at-least-850-million-in-annualized-revenue-rate-next-year?rc=64g9cw) (The Information)
+  * [Microsoft’s game changer feature reinstalls Windows 11 directly via Windows Update](https://www.windowslatest.com/2023/12/26/microsofts-game-changer-feature-reinstalls-windows-11-directly-via-windows-update/) (Windows Latest)
+  * [GM stops Chevy Blazer EV sales after early software problems](https://techcrunch.com/2023/12/23/gm-chevy-blazer-ev-stop-sale/) (TechCrunch)
+  * [How thermal management is changing in the age of the kilowatt chip](https://www.theregister.com/2023/12/26/thermal_management_is_changing/) (The Register)
+
+
+
+**Tuesday, December 26 2023 - Tue. 12/26 – Apple’s AI Strategy Comes Into View**
+
+  * [Apple quietly released an open source multimodal LLM in October](https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/) (VentureBeat)
+  * [Apple Explores A.I. Deals With News Publishers](https://www.nytimes.com/2023/12/22/technology/apple-ai-news-publishers.html) (NYTimes)
+  * [OpenAI Is in Talks to Raise New Funding at Valuation of $100 Billion or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation?sref=Szq5ylDR) (Bloomberg)
+  * [Ubisoft says it's investigating reports of a new security breach](https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/) (BleepingComputer)
+  * [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/) (BleepingComputer)
+  * [Puzzle game ‘Royal Match’ dethrones ‘Candy Crush’ from top of app store](https://www.ft.com/content/1bb1ed54-821e-49bf-b12d-353b98fa9912) (Financial Times)
+  * [Apple Watch battle heralds further patent wrangles](https://www.ft.com/content/7fe859fe-8449-41fe-a4a4-678940d46386) (Financial Times)
+
+
+
+
+**Friday, December 22 2023 - Fri. 12/22 – The Hyperloop Is Dead**
+
+  * [The hyperloop is dead for real this time](https://www.theverge.com/2023/12/21/24011448/hyperloop-one-shut-down-layoff-closing-elon-musk) (The Verge)
+  * [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down) (The Verge)
+  * [Apple’s Newest Headache: An App That Upended Its Control Over Messaging](https://www.nytimes.com/2023/12/22/technology/apple-iphone-beeper-mini.html) (NYTimes)
+  * [Tencent Leads $80 Billion Rout as China Rekindles Crackdown Fear](https://www.bloomberg.com/news/articles/2023-12-22/china-to-curb-excessive-online-games-spending-in-new-tightening?sref=Szq5ylDR) (Bloomberg)
+  * [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.com/news/technology-67663128) (BBC)
+
+
+
+**Thursday, December 21 2023 - Thu. 12/21 – Big Galaxy S24 Spec Leaks; And What Is “Galaxy AI?”**
+
+  * [Leaked Samsung S24 spec sheet offers complete picture of the upcoming lineup](https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak) (The Verge)
+  * [Apple Ramps Up Vision Pro Production, Aiming for Launch by February](https://www.bloomberg.com/news/articles/2023-12-20/when-will-apple-vision-pro-be-available-company-is-aiming-for-february?sref=Szq5ylDR) (Bloomberg)
+  * [Apple loses attempt to halt Apple Watch sales ban](https://www.theverge.com/2023/12/20/24010011/apple-loses-attempt-halt-apple-watch-sales-ban-itc) (The Verge)
+  * [Scoop: Warner Bros. Discovery in talks to merge with Paramount Global](https://www.axios.com/2023/12/20/warner-bros-paramount-merger-discovery-streaming) (Axios)
+  * [Waymo has 7.1 million driverless miles — how does its driving compare to humans?](https://www.theverge.com/2023/12/20/24006712/waymo-driverless-million-mile-safety-compare-human) (The Verge)
+  * [Aston Martin, Porsche Preview Bespoke Apple CarPlay Interfaces](https://www.caranddriver.com/news/a46188510/apple-carplay-next-gen-interface/) (Car And Driver)
+
+
+
+**Wednesday, December 20 2023 - Wed. 12/20 – Sony Has Sold 50 Million PS5s**
+
+  * [Rite Aid Banned From AI Facial Recognition by FTC After Misuse](https://www.bloomberg.com/news/articles/2023-12-19/rite-aid-banned-from-ai-facial-recognition-by-ftc-after-misuse?sref=Szq5ylDR) (Bloomberg)
+  * [PlayStation sales and blockbuster games propel console market back to growth](https://www.ft.com/content/3b89e9f7-e3cf-4e60-bfa4-987af24efa75) (FT)
+  * [ByteDance’s Sales Break $110 Billion to Pass Tencent This Year](https://www.bloomberg.com/news/articles/2023-12-20/tiktok-owner-bytedance-s-revenue-set-to-surpass-china-s-tencent-s-this-year?sref=Szq5ylDR) (ByteDance)
+  * [SSH protects the world’s most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/) (ArsTechnica)
+  * [Microsoft Copilot gets a music creation feature via Suno integration](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/) (TechCrunch)
+  * [Scooter Company Bird Global Files Bankruptcy to Sell Itself](https://www.bloomberg.com/news/articles/2023-12-20/scooter-company-bird-global-files-for-chapter-11-bankruptcy?sref=Szq5ylDR) (Bloomberg)
+  * [What Do AI Companies Want With the Media?](https://nymag.com/intelligencer/2023/12/what-do-ai-companies-want-with-the-media.html) (NYMag)
+
+
+
+**Tuesday, December 19 2023 - Tue. 12/19 – Google Might Owe You Some Money**
+
+  * [Google to Pay $700 Million in Play Store Settlement](https://www.wsj.com/tech/google-to-pay-700-million-in-play-store-settlement-28bed6b6?mod=followamazon) (WSJ)
+  * [102 million people eligible for Google’s $630M lawsuit settlement](https://www.washingtonpost.com/technology/2023/12/19/google-states-settlement-fund/) (Washington Post)
+  * [Figma Grew Fast Even as Executives Failed to Clinch Adobe Deal](https://www.theinformation.com/articles/figma-grew-fast-even-as-executives-failed-to-clinch-adobe-deal?rc=64g9cw) (The Information)
+  * [Adobe Has $6 Billion for AI and Buybacks After Figma Deal Collapses](https://www.bloomberg.com/news/articles/2023-12-18/adobe-figma-collapse-leaves-billions-for-ai-buybacks?sref=Szq5ylDR) (Bloomberg)
+  * [TikTok rolls out an enhanced app experience for tablets and foldables](https://techcrunch.com/2023/12/18/tiktok-rolls-out-an-enhanced-app-experience-for-tablets-and-foldables/) (TickTok)
+  * [Xfinity discloses data breach affecting over 35 million people](https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/) (Bleeping Computer)
+  * [OpenAI Says Board Can Overrule CEO on Safety of New AI Releases](https://www.bloomberg.com/news/articles/2023-12-18/openai-says-board-can-overrule-ceo-on-safety-of-new-ai-releases?sref=Szq5ylDR) (Bloomberg)
+  * [Game preservationists dig for lost apps in TestFlight ‘teraleak’](https://www.theverge.com/2023/12/18/24006406/testflight-teraleak-game-preservationists) (The Verge)
+
+
+
+**Monday, December 18 2023 - Mon. 12/18 – Adobe And Figma Call Off Their Merger**
+
+  * [Adobe, Figma shelve $20 bln deal after hitting regulatory roadblocks](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/) (Reuters)
+  * [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) (9to5Mac)
+  * [EU opens formal DSA investigation into X in wake of Israel-Hamas war](https://www.theverge.com/2023/12/18/24005947/eu-x-twitter-dsa-formal-investigation-hamas-israel-terrorist-attacks) (The Verge)
+  * [Adam Mosseri spells out Threads’ plans for the fediverse](https://www.theverge.com/2023/12/15/24003435/adam-mosseri-threads-fediverse-plans) (The Verge)
+  * [He’s Wanted for Wirecard’s Missing $2 Billion. He’s Now Suspected of Being a Russian Spy.](https://www.wsj.com/world/europe/hes-wanted-for-wirecards-missing-2-billion-hes-now-suspected-of-being-a-russian-spy-61d79ee2?mod=followamazon) (WSJ)
+  * [In Search of Cash, Studios Send Old Shows Back to Netflix](https://www.nytimes.com/2023/12/15/business/media/netflix-licensed-shows.html?unlocked_article_code=1.GU0.EQ0d.eYQujPujiJJB&hpgrp=c-abar&smid=url-share) (NYTimes)
+
+
+**Friday, December 15 2023 - Fri. 12/15 – Did Google Just Kill Geofence Warrants?**
+
+  * [Is This the End of Geofence Warrants?](https://www.eff.org/deeplinks/2023/12/end-geofence-warrants) (The EFF)
+  * [Intel unveils new AI chip to compete with Nvidia and AMD](https://www.cnbc.com/2023/12/14/intel-unveils-gaudi3-ai-chip-to-compete-with-nvidia-and-amd.html) (CNBC)
+  * [Report: Apple has ‘no concrete timeline’ for a foldable iPad, focused on OLED displays instead ](https://9to5mac.com/2023/12/14/foldable-ipad-oled-screens-rumors/)(9to5Mac)
+  * [Marketing Company Claims That It Actually Is Listening to Your Phone and Smart Speakers to Target Ads](https://www.404media.co/cmg-cox-media-actually-listening-to-phones-smartspeakers-for-ads-marketing/) (404Media)
+  * [Cruise slashes 24% of self-driving car workforce in sweeping layoffs](https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/) (TechCrunch)
+  * [Grimes is working on an interactive AI toy for kids. Meet Grok.](https://www.washingtonpost.com/technology/2023/12/14/grok-grimes-curio-toy/) (Washington Post)
+
+
+
+**Thursday, December 14 2023 - Thu. 12/14 – Threads Is Shipping Some Stuff!**
+
+  * [Meta starts testing Threads integration with ActivityPub](https://techcrunch.com/2023/12/13/meta-starts-testing-threads-integration-with-activitypub/) (TechCrunch)
+  * [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival) (The Verge)
+  * [Apple now sells the AirPods Pro USB-C case by itself — for $99](https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available) (The Verge)
+  * [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset) (The Verge)
+  * [Etsy Cuts 11% of Headcount as Competition From Shein and Temu Mounts](https://www.theinformation.com/articles/etsy-cuts-11-of-headcount-as-competition-from-shein-and-temu-mounts?rc=64g9cw) (The Information)
+  * [Polish Hackers Repaired Trains the Manufacturer Artificially Bricked. Now The Train Company Is Threatening Them](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/) (404 Media)
+  * [Cheating Fears Over Chatbots Were Overblown, New Research Suggests](https://www.nytimes.com/2023/12/13/technology/chatbot-cheating-schools-students.html?mwgrp=c-dbar&unlocked_article_code=1.F00.gfIA.8VX698rNLmo_&hpgrp=c-abar&smid=url-share) (NYTimes)
+
+
+
+**Wednesday, December 13 2023 - Wed. 12/13 – Big Tesla Recall**
+
+  * [Apple Makes Security Changes to Protect Users From iPhone Thefts](https://www.wsj.com/tech/personal-tech/apple-iphone-ios-update-stolen-device-protection-698d760e?mod=followamazon) (WSJ)
+  * [Google Offers Enhanced Generative AI Features for Cloud Customers](https://www.bloomberg.com/news/articles/2023-12-13/google-unveils-ai-model-gemini-pro-to-compete-with-microsoft-in-the-cloud?sref=Szq5ylDR) (Bloomberg)
+  * [Tesla Recalls 2 Million Cars to Fix Autopilot Safety Flaws](https://www.bloomberg.com/news/articles/2023-12-13/tesla-autopilot-recall-2-million-cars-need-software-fix?sref=Szq5ylDR) (Bloomberg)
+  * [FCC issues final denial of $885M Starlink subsidy](https://techcrunch.com/2023/12/12/fcc-issues-final-denial-of-885m-starlink-subsidy/) (TechCrunch)
+  * [Musk’s X 2023 Ad Sales Projected to Slump to About $2.5 Billion](https://www.bloomberg.com/news/articles/2023-12-12/musk-s-x-2023-ad-sales-projected-to-slump-to-about-2-5-billion?sref=Szq5ylDR) (Bloomberg)
+  * [EU Deal to Force Uber, Deliveroo Treat Some Drivers as Employees](https://www.bloomberg.com/news/articles/2023-12-13/eu-deal-to-make-uber-deliveroo-treat-some-drivers-as-employees?sref=Szq5ylDR) (Bloomberg)
+  * [OpenAI to Pay Politico Parent Axel Springer for Using Its Content](https://www.wsj.com/business/media/openai-to-pay-politico-parent-axel-springer-for-using-its-content-bdc33332?mod=followamazon) (WSJ)
+  * [Netflix reveals how many hours we spent watching The Night Agent and Queen Charlotte](https://www.theverge.com/2023/12/12/23998533/netflix-what-we-watched-report-data-popular) (The Verge)
+
+
+
+**Tuesday, December 12 2023 - Tue. 12/12 – Epic Win!**
+
+  * [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play) (The Verge)
+  * [Google’s Epic Legal Defeat Threatens $200 Billion App Store Industry](https://www.bloomberg.com/news/articles/2023-12-12/google-s-epic-legal-defeat-threatens-200-billion-app-store-industry?sref=Szq5ylDR) (Bloomberg)
+  * [Exclusive: Apple offers to let rivals access tap-and-go tech in EU antitrust case](https://www.reuters.com/technology/apple-offers-settle-eu-antitrust-charges-apple-pay-sources-say-2023-12-12/) (Reuters)
+  * [Apple iTunes Will Now Redirect Users to Redesigned Apple TV App for Movies, Series](https://variety.com/2023/digital/news/apple-itunes-redirect-apple-tv-app-movies-series-1235833784/) (Variety)
+  * [BeReal adds private groups and Live Photo-like features; Pew estimates 13% of US teens use app ](https://techcrunch.com/2023/12/12/bereal-adds-private-groups-and-live-photo-like-features-pew-estimates-13-of-us-teens-use-app/)(TechCrunch)
+  * [E3, once gaming’s biggest expo, is officially dead](https://www.washingtonpost.com/entertainment/video-games/2023/12/12/e3-permanently-canceled/) (Washington Post)
+
+
+
+**Monday, December 11 2023 - Mon. 12/11 – Here Come The New Open-Source AI Startups**
+
+  * [Mistral, French A.I. Start-Up, Is Valued at $2 Billion in Funding Round](https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html?unlocked_article_code=1.E00.2cuN.39rUj4jY_fao&hpgrp=ar-abar&smid=url-share) (NYTimes)
+  * [Nvidia Sees Vietnam as Potential Second Home, Reports Say](https://www.bloomberg.com/news/articles/2023-12-11/nvidia-sees-vietnam-as-potential-second-home-reports-say?sref=Szq5ylDR) (Bloomberg)
+  * [Apple Is Working on Cleaning Up Its Confusing iPad Lineup](https://www.bloomberg.com/news/newsletters/2023-12-10/apple-aapl-to-fix-confusing-ipad-lineup-with-new-ipad-pro-mid-tier-ipad-air-lpzjekw4?sref=Szq5ylDR) (Bloomberg)
+  * [China’s cyber army is invading critical U.S. services](https://www.washingtonpost.com/technology/2023/12/11/china-hacking-hawaii-pacific-taiwan-conflict/) (Washington Post)
+  * [This A.I. Subculture’s Motto: Go, Go, Go](https://www.nytimes.com/2023/12/10/technology/ai-acceleration.html) (NYTimes)
+
+
+
+**Friday, December 08 2023 - Fri. 12/08 – Did Google Fake The Gemini Demo?**
+
+  * [Google’s Gemini Looks Remarkable, But It’s Still Behind OpenAI](https://www.bloomberg.com/opinion/articles/2023-12-07/google-s-gemini-ai-model-looks-remarkable-but-it-s-still-behind-openai-s-gpt-4?sref=Szq5ylDR) (Bloomberg)
+  * [Early impressions of Google’s Gemini aren’t great](https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/) (TechCrunch)
+  * [Apple to move key iPad engineering resources to Vietnam](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-to-move-key-iPad-engineering-resources-to-Vietnam) (NikkeiAsia)
+  * [Microsoft, OpenAI Are Facing a Potential Antitrust Probe in UK](https://www.bloomberg.com/news/articles/2023-12-08/microsoft-open-ai-tie-up-facing-uk-antitrust-scrutiny?sref=Szq5ylDR) (Bloomberg)
+  * [Google launches NotebookLM powered by Gemini Pro, drops waitlist](https://9to5google.com/2023/12/08/notebooklm-gemini-pro-launch/) (9to5Google)
+
+
+
+**Thursday, December 07 2023 - Thu. 12/07 – Zuck Keeps A Promise**
+
+  * [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta) (The Verge)
+  * [Federal government is using data from push notifications to track contacts](https://www.washingtonpost.com/technology/2023/12/06/push-notifications-surveillance-apple-google/) (Washington Post)
+  * [AMD unveils Instinct MI300X GPU and MI300A APU, claims up to 1.6X lead over Nvidia’s competing GPUs](https://www.tomshardware.com/pc-components/cpus/amd-unveils-instinct-mi300x-gpu-and-mi300a-apu-claims-up-to-16x-lead-over-nvidias-competing-gpus) (Tom's Hardware)
+  * [Meta launches a standalone AI-powered image generator](https://techcrunch.com/2023/12/06/meta-launches-a-standalone-ai-powered-image-generator/) (TechCrunch)
+  * [PlayStation keeps reminding us why digital ownership sucks](https://www.theverge.com/2023/12/5/23989290/playstation-digital-ownership-sucks) (The Verge)
+  * [EXCLUSIVE: Microsoft readies 'groundbreaking' AI-focused Windows release as new leadership takes the helm](https://www.windowscentral.com/software-apps/windows-11/exclusive-microsoft-readies-groundbreaking-ai-focused-windows-release-as-new-leadership-takes-the-helm) (Windows Central)
+  * [Apple launches MLX machine-learning framework for Apple Silicon](https://www.computerworld.com/article/3711408/apple-launches-mlx-machine-learning-framework-for-apple-silicon.html) (ComputerWorld)
+
+
+
+**Thursday, December 07 2023 - Wed. 12/06 – Google’s OpenAI Competitor Announced**
+
+  * [Meet Gemini, the AI That Google Says Is Way, Way Better Than ChatGPT](https://gizmodo.com/google-launches-gemini-ai-bard-pixel-8-preview-1851076747) (Gizmodo)
+  * [Google’s Gemini AI model is coming to the Pixel 8 Pro — and eventually to Android](https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply) (The Verge)
+  * [Google announces the Cloud TPU v5p, its most powerful AI accelerator yet](https://techcrunch.com/2023/12/06/google-announces-the-cloud-tpu-v5p-its-most-powerful-ai-accelerator-yet/) (TechCrunch)
+  * [Governments spying on Apple, Google users through push notifications - US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/) (Reuters)
+  * [Twitch plans to shut down in South Korea on February 27, 2024](https://venturebeat.com/games/twitch-south-korea-shut-down-2024/) (VentureBeat)
+  * [There’s a new iMessage for Android app — and it actually works](https://www.theverge.com/2023/12/5/23987817/beeper-mini-imessage-android-reverse-engineer) (The Verge)
+
+
+
+**Tuesday, December 05 2023 - Tue. 12/05 – 23andMe Hack Just Keeps Getting Worse**
+
+  * [23andMe confirms hackers stole ancestry data on 6.9 million users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/) (TechCrunch)
+  * [A detailed look at the OnePlus 12 ahead of its global launch](https://www.theverge.com/2023/12/5/23988905/oneplus-12-china-launch-price-specs-features) (The Verge)
+  * [Instagram and Facebook Messenger chats are being disconnected this month](https://9to5google.com/2023/12/04/instagram-facebook-messenger-chats-disconnected/) (9to5Google)
+  * [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon Fails To Renew Live UK Premier League Rights As Sky & TNT Maintain Grip On Games](https://deadline.com/2023/12/premier-league-tv-rights-amazon-sky-tnt-1235650921/) (Deadline)
+  * [Gmail’s AI-powered spam detection is its biggest security upgrade in years](https://arstechnica.com/gadgets/2023/12/gmails-ai-powered-spam-detection-is-its-biggest-security-upgrade-in-years/) (ArsTechnica)
+  * [ChatGPT will no longer comply if you ask it to repeat a word 'forever'— after a recent prompt revealed training data and personal info](https://www.businessinsider.com/chatgpt-ai-refuse-to-respond-prompt-asking-repeat-word-forever-2023-12) (Business Insider)
+  * [‘Grand Theft Auto VI’ Coming in 2025, Rockstar Says After Trailer Leak](https://www.bloomberg.com/news/articles/2023-12-04/gta-6-rockstar-releases-new-grand-theft-auto-vi-full-trailer?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Monday, December 04 2023 - Mon. 12/04 – Monster Spotify Layoffs**
+
+  * [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/) (TechCrunch)
+  * [Google Postpones Big AI Launch as OpenAI Zooms Ahead](https://www.theinformation.com/articles/google-postpones-big-ai-launch-as-openai-zooms-ahead?rc=64g9cw) (The Information)
+  * [OpenAI Agreed to Buy $51 Million of AI Chips From a Startup Backed by CEO Sam Altman](https://www.wired.com/story/openai-buy-ai-chips-startup-sam-altman/) (Wired)
+  * [The Robots Will Insider Trade](https://www.bloomberg.com/opinion/articles/2023-11-29/the-robots-will-insider-trade?sref=Szq5ylDR) (Bloomberg)
+  * [Kiss say farewell to live touring, become first US band to go virtual and become digital avatars](https://apnews.com/article/kiss-digital-avatars-end-of-road-finale-37a8ae9905099343c7b41654b2344d0c) (AP)
+
+
+
+**Saturday, December 02 2023 - (Bonus) The Sam Altman Saga Timeline With Alex Konrad Of Forbes**
+
+  * [**_A Secretive $10 Billion Firm Backed By WhatsApp Billionaire Jan Koum Is Quietly Building A Startup Portfolio_**](https://www.forbes.com/sites/alexkonrad/2023/11/26/secretive-firm-backed-by-whatsapp-billionaire-jan-koum-has-10-billion/?sh=1afe778629a2) ** _(Forbes)_**
+
+
+
+**Friday, December 01 2023 - Fri. 12/01 – iPhones To Go All-Action (Button)**
+
+  * [iPhone 16 to Include Action Button Across Entire Lineup](https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/) (MacRumors)
+  * [Apple and Paramount Discuss Bundling Their Streaming Services](https://www.wsj.com/business/media/apple-and-paramount-discuss-bundling-their-streaming-services-226972d1?mod=followamazon) (WSJ)
+  * [Apple fixes two new iOS zero-days in emergency updates](https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-in-emergency-updates/) (Bleeping Computer)
+  * [US judge blocks Montana from banning TikTok use in state](https://www.reuters.com/legal/us-judge-blocks-montana-banning-tiktok-use-state-2023-11-30/) (Reuters)
+  * [Tiger Global’s Biggest Venture Fund Has 18% Loss After Markdowns](https://www.bloomberg.com/news/articles/2023-11-30/tiger-global-s-biggest-venture-fund-has-18-loss-after-markdowns?sref=Szq5ylDR) (Bloomberg)
+  * [Xbox Talking to Partners for Mobile Store, CEO Spencer Says](https://www.bloomberg.com/news/articles/2023-11-30/xbox-talking-to-partners-for-mobile-store-ceo-spencer-says?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Thursday, November 30 2023 - Thu. 11/30 – The Prodigal Son Is Back**
+
+  * [OpenAI Will Add Microsoft as Board Observer, Plans Governance Changes](https://www.bloomberg.com/news/articles/2023-11-30/openai-will-add-microsoft-as-board-observer-plans-governance-changes?sref=Szq5ylDR) (Bloomberg)
+  * [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired) (The Verge)
+  * [Meta’s Threads to Launch in Europe in App’s Biggest Expansion Since Debut](https://www.wsj.com/tech/meta-threads-europe-launch-98448df5?mod=followamazon) (WSJ)
+  * [Meta Platforms' ad-free service targeted in EU consumer complaint](https://www.reuters.com/technology/meta-platforms-paid-ad-free-service-is-targeted-eu-consumer-groups-complaint-2023-11-30/) (Reuters)
+  * [It’s not just electricity — Bitcoin mines burn through a lot of water, too](https://www.theverge.com/2023/11/29/23979858/bitcoin-mine-cryptocurrency-water-use-analysis-energy) (The Verge)
+  * [ChatGPT's training data can be exposed via a "divergence attack"](https://stackdiary.com/chatgpts-training-data-can-be-exposed-via-a-divergence-attack/) (StackDiary)
+  * [Your Unused Gmail Account May Be Permanently Deleted Friday](https://www.wsj.com/tech/personal-tech/google-gmail-deleting-inactive-accounts-a9c70a7b?mod=followamazon) (WSJ)
+
+
+
+**Wednesday, November 29 2023 - Wed. 11/29 – Apple And Goldman Part Ways**
+
+  * [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=followamazon) (WSJ)
+  * [Unity Software with a ‘company reset’ walks away from film VFX and the Wētā Deal.](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/) (FXGuide)
+  * [Stability AI Has Explored Sale as Investor Urges CEO to Resign](https://www.bloomberg.com/news/articles/2023-11-29/stability-ai-has-explored-sale-as-investor-urges-ceo-to-resign?sref=Szq5ylDR) (Bloomberg)
+  * [G.M. to Cut Spending on Cruise Self-Driving Unit](https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html) (NYTimes)
+  * [Amazon Introduces Q, an A.I. Chatbot for Companies](https://www.nytimes.com/2023/11/28/technology/amazon-ai-chatbot-q.html) (NYTimes)
+  * [Inside Spotify Wrapped, an Annual Song of Ourselves](https://www.wsj.com/tech/personal-tech/spotify-wrapped-2023-cc946538?mod=followamazon) (WSJ)
+
+
+
+**Tuesday, November 28 2023 - Tue. 11/28 – NameDrop Is Safe, Despite What Police Say**
+
+  * [AWS enhances AI services with foundation model capabilities for improved performance](https://siliconangle.com/2023/11/27/aws-enhances-ai-services-foundation-model-capabilities-improved-performance/) (SiliconAngle)
+  * [Amazon wants businesses to use its palm-scanning tech to let employees into the office](https://www.cnbc.com/2023/11/28/amazon-rolls-out-palm-scanning-technology-for-office-workers.html) (CNBC)
+  * [US Thanksgiving weekend sales hit record on big discounts, online boost](https://www.reuters.com/business/retail-consumer/us-cyber-monday-sales-hit-record-124-billion-big-discounts-report-2023-11-28/) (Reuters)
+  * [NameDrop is safe. The fearmongering about it is not.](https://www.washingtonpost.com/technology/2023/11/27/namedrop-iphone-ios17-safety/) (Washington Post)
+  * [Google investigating missing files on Drive, caused by desktop app](https://9to5google.com/2023/11/27/google-drive-missing-file-desktop-app-sync/) (9to5Google)
+  * [OpenAI Is Still an $86 Billion Nonprofit](https://www.bloomberg.com/opinion/articles/2023-11-27/openai-is-still-an-86-billion-nonprofit?sref=Szq5ylDR) (Matt Levine/Bloomberg)
+  * [Ikea debuts a trio of affordable smart home sensors](https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs) (The Verge)
+
+
+
+**Monday, November 27 2023 - Mon. 11/27 – ByteDance Retrenches**
+
+  * [AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access](https://siliconangle.com/2023/11/26/aws-debuts-amazon-workspaces-thin-client-device-virtual-desktop-access/) (SiliconAngle)
+  * [Salesforce Inks Deal to Sell on Amazon Web Services’ Marketplace](https://www.bloomberg.com/news/articles/2023-11-27/salesforce-to-sell-software-on-aws-marketplace-in-self-service-purchase-push?sref=Szq5ylDR) (Bloomberg)
+  * [TikTok parent ByteDance to cut 1,000 gaming jobs in strategic shift](https://asia.nikkei.com/Business/China-tech/TikTok-parent-ByteDance-to-cut-1-000-gaming-jobs-in-strategic-shift) (NikkeiAsia)
+  * [US, Britain, other countries ink agreement to make AI 'secure by design'](https://www.reuters.com/technology/us-britain-other-countries-ink-agreement-make-ai-secure-by-design-2023-11-27/) (Reuters)
+  * [Instagram’s Algorithm Delivers Toxic Video Mix to Adults Who Follow Children](https://www.wsj.com/tech/meta-instagram-video-algorithm-children-adult-sexual-content-72874155?mod=followamazon) (WSJ)
+  * [The Biggest Delivery Business in the U.S. Is No Longer UPS or FedEx](https://www.wsj.com/business/amazon-vans-outnumber-ups-fedex-750f3c04?mod=followamazon) (WSJ)
+
+
+
+**Tuesday, November 21 2023 - Tue. 11/21 – The Sam Altman Thing Is Nowhere Near Resolved**
+
+  * [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) (The Verge)
+  * [OpenAI’s Board Approached Anthropic About Merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger?rc=64g9cw) (The Information)
+  * [@eastdakota's Tweet Thread on Microsoft and OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
+  * [Elon Musk Sues Media Matters for ‘Knowingly and Maliciously’ Misrepresenting Amount of Antisemitic Content on X](https://www.thewrap.com/elon-musk-sues-media-matters-x-twitter/) (TheWrap)
+  * [YouTube is reportedly slowing down videos for Firefox users (Update: Statement)](https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/) (AndroidAuthority)
+
+
+
+**Monday, November 20 2023 - Mon. 11/20 – Where We Are With The Sam Altman Drama**
+
+  * [Inside the Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/?gift=bQgJMMVzeo8RHHcE1_KM0WVuODpKll0A708pOI0Ple4&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
+  * [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/) (TechCrunch)
+  * [GM boss Mary Barra’s high-tech bet unraveling after Kyle Vogt departs as CEO of embattled Cruise robotaxi unit](https://fortune.com/2023/11/20/gm-mary-barra-kyle-vogt-cruise-robotaxi-self-driving-cars/) (Fortune)
+  * [Yaccarino On Hot Seat As Ad Execs Urge Twitter CEO To Resign](https://www.forbes.com/sites/johnpaczkowski/2023/11/19/linda-yaccarino-x-twitter-elon-musk-antisemitism-urged-to-resign/?sh=22f2c5893929) (Forbes)
+
+
+
+
+**Friday, November 17 2023 - Fri. 11/17 – Apple Adopts RCS**
+
+  * [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/) (9to5Mac)
+  * [What color bubbles will RCS messages be? Apple confirms the answer](https://9to5mac.com/2023/11/16/apple-confirms-rcs-messages-will-have-green-bubbles/) (9to5Mac)
+  * [IBM pulls adverts from X after report finding they ran next to Nazi content](https://www.ft.com/content/647b4c4d-f4d5-46cd-bc26-8c943b6995e7) (Financial Times)
+  * [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39?mod=followamazon) (WSJ)
+  * [A Quibi-like app called ReelShort hit record downloads and revenue this month](https://techcrunch.com/2023/11/16/a-quibi-like-app-called-reelshort-hit-record-downloads-and-revenue-this-month/) (TechCrunch)
+  * [2023's Apparent Biggest Mobile Game Launch Is Not What You Expect](https://www.gamespot.com/articles/2023s-apparent-biggest-mobile-game-launch-is-not-what-you-expect/1100-6519222/) (GameSpot)
+
+
+
+**Thursday, November 16 2023 - Thu. 11/16 – Microsoft’s Ignite Conference**
+
+  * [Microsoft rebrands Bing Chat to Copilot, to better compete with ChatGPT](https://www.theverge.com/2023/11/15/23960517/microsoft-copilot-bing-chat-rebranding-chatgpt-ai) (The Verge)
+  * [Microsoft officially launches Loop, its Notion competitor](https://www.theverge.com/2023/11/15/23959801/microsoft-loop-launch-notion-competitor) (The Verge)
+  * [Microsoft Unveils Its First Custom-Designed AI, Cloud Chips](https://www.bloomberg.com/news/articles/2023-11-15/microsoft-unveils-its-first-custom-designed-ai-cloud-chips?sref=Szq5ylDR) (Bloomberg)
+  * [YouTube Shorts Challenges TikTok With Music-Making AI for Creators](https://www.wired.com/story/youtube-shorts-challenges-tiktok-with-music-making-ai-for-creators/) (Wired)
+  * [Threads starts testing hashtags…without the hash](https://techcrunch.com/2023/11/15/threads-starts-testing-hashtags-without-the-hash/) (TechCrunch)
+  * [Robots to Outnumber People at UPS’s Massive New Warehouse](https://www.bloomberg.com/news/articles/2023-11-15/ups-jobs-at-new-kentucky-warehouse-go-mostly-to-robots?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Wednesday, November 15 2023 - Wed. 11/15 – Bridging The Great Blue Bubble Divide**
+
+  * [Coming soon: A fix for the Android green-bubble problem](https://www.washingtonpost.com/technology/2023/11/14/imessage-on-android-nothing-sunbird/) (Washington Post)
+  * [Intel fixes high-severity CPU bug that causes “very strange behavior”](https://arstechnica.com/security/2023/11/intel-fixes-high-severity-cpu-bug-that-causes-very-strange-behavior/) (ArsTechnica)
+  * [OpenAI Pauses New ChatGPT Plus Subscriptions Due To Surge In Demand](https://www.searchenginejournal.com/openai-pauses-new-chatgpt-plus-subscriptions-due-to-surge-in-demand/501360/) (Search Engine Journal)
+  * [Apple extends free period for iPhone 14 satellite features](https://9to5mac.com/2023/11/15/apple-extends-free-period-for-iphone-14-satellite-features/) (9to5Mac)
+  * [AI outperforms conventional weather forecasting methods for first time](https://www.ft.com/content/ca5d655f-d684-4dec-8daa-1c58b0674be1) (Financial Times)
+  * [Opal’s second camera is the Tadpole, a tiny webcam for laptops](https://www.theverge.com/23959171/opal-tadpole-webcam-laptops) (The Verge)
+
+
+
+**Tuesday, November 14 2023 - Tue. 11/14 – Google Pays Apple HOW Much?**
+
+  * [Apple Gets 36% of Google Revenue in Search Deal, Expert Says](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says?sref=Szq5ylDR) (Bloomberg)
+  * [For Google Play, Dominating Android World Was ‘Existential’](https://www.bloomberg.com/news/articles/2023-11-14/for-google-play-dominating-the-android-world-was-existential?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon Lays Off 180 Employees In Its Games Division](https://aftermath.site/amazon-lays-off-180-employees-in-its-games-division) (Aftermath)
+  * [FBI struggled to disrupt dangerous casino hacking gang, cyber responders say](https://www.reuters.com/technology/cybersecurity/fbi-struggled-disrupt-dangerous-casino-hacking-gang-cyber-responders-say-2023-11-14/) (Reuters)
+  * [Uber to Test TaskRabbit-Like Service in Florida and Alberta](https://www.bloomberg.com/news/articles/2023-11-13/uber-to-test-taskrabbit-like-service-in-florida-and-alberta?sref=Szq5ylDR) (Bloomberg)
+  * [Uber takes steps to combat unfair driver deactivations](https://techcrunch.com/2023/11/13/uber-takes-steps-to-combat-unfair-driver-deactivations/) (TechCrunch)
+  * [OpenAI’s six-member board will decide ‘when we’ve attained AGI’](https://venturebeat.com/ai/openais-six-member-board-will-decide-when-weve-attained-agi/) (VentureBeat)
+
+
+
+**Monday, November 13 2023 - Mon. 11/13 – Can OpenAI Outrun Everybody?**
+
+  * [OpenAI chief seeks new Microsoft funds to build ‘superintelligence’](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded) (Financial Times)
+  * [Exclusive: Google in talks to invest in AI startup Character.AI](https://www.reuters.com/technology/google-talks-invest-ai-startup-characterai-sources-2023-11-10/) (Reuters)
+  * [Payments app Zelle begins refunds for imposter scams after Washington pressure](https://www.reuters.com/technology/cybersecurity/payments-app-zelle-begins-refunds-imposter-scams-after-washington-pressure-2023-11-13/) (Reuters)
+  * [Key Witness at Sam Bankman-Fried Trial to Launch New Crypto Exchange](https://www.wsj.com/finance/currencies/key-witness-at-sam-bankman-fried-trial-to-launch-new-crypto-exchange-80d1edce?mod=followamazon) (WSJ)
+  * [Apple Is Taking Extra Care With ‘Ambitious’ iOS 18 Update](https://www.bloomberg.com/news/newsletters/2023-11-12/apple-aapl-plans-ambitious-ios-18-and-macos-15-updates-seeks-to-squash-bugs-lovjlsf6?sref=Szq5ylDR) (Bloomberg)
+  * [Sony PlayStation Portal Review](https://www.pcmag.com/reviews/sony-playstation-portal) (PCMag)
+
+
+
+**Friday, November 10 2023 - Fri. 11/10 – The Humane Ai Pin Is The Star Trek Combadge**
+
+  * [Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/) (Wired)
+  * [Introducing Humane Ai Pin](https://vimeo.com/882968794) (The Humane Launch Video)
+  * [In a U.S. First, a Commercial Plant Starts Pulling Carbon From the Air](https://www.nytimes.com/2023/11/09/climate/direct-air-capture-carbon.html?partner=slack&smid=sl-share) (NYTimes)
+
+
+
+**Thursday, November 09 2023 - Thu. 11/09 – The First AI Wearable**
+
+  * [Exclusive leak: all the details about Humane’s AI Pin, which costs $699 and has OpenAI integration](https://www.theverge.com/2023/11/8/23953022/humane-ai-pin-price-specs-leak) (The Verge)
+  * [Disney+, Hulu Merged App to Launch Next Month for Bundle Subscribers, Bob Iger Says](https://variety.com/2023/digital/news/disney-hulu-merged-app-launch-december-1235784927/) (Variety)
+  * [No More Phone Number Swaps: Signal Messaging App Now Testing Usernames](https://www.pcmag.com/news/no-more-phone-number-swaps-signal-messaging-app-now-testing-usernames) (PCMag)
+  * [The Overwatch League is officially dead: Activision Blizzard is 'transitioning' away from its groundbreaking esports league as teams reportedly vote to withdraw](https://www.pcgamer.com/the-overwatch-league-is-officially-dead-blizzard-is-transitioning-away-from-its-groundbreaking-esports-league-as-teams-reportedly-vote-to-withdraw/) (PC Gamer)
+  * [Court rules automakers can record and intercept owner text messages](https://therecord.media/class-action-lawsuit-cars-text-messages-privacy) (The Record)
+
+
+
+**Wednesday, November 08 2023 - Wed. 11/08 – The First AI Election**
+
+  * [Meta to Require Campaigns to Disclose AI-Altered Political Ads](https://www.wsj.com/tech/ai/meta-to-require-campaigns-to-disclose-ai-altered-political-ads-b421b806?mod=followamazon) (WSJ)
+  * [Microsoft Is Offering to Help US Politicians Crack Down on Deepfakes](https://www.bloomberg.com/news/articles/2023-11-08/microsoft-to-help-crack-down-on-ai-deepfakes-in-us-presidential-elections?sref=Szq5ylDR) (Bloomberg)
+  * [Bing Chat so hungry for GPUs, Microsoft will rent them from Oracle](https://www.theregister.com/2023/11/07/bing_gpu_oracle/) (The Register)
+  * [Coatue Cuts Value of OpenSea Stake by 90% as Fund’s Returns Sag](https://www.theinformation.com/articles/coatue-cuts-value-of-opensea-stake-by-90-as-funds-returns-sag?rc=64g9cw) (The Information)
+  * [Stablecoin Issuer Circle Internet Considering 2024 IPO](https://www.bloomberg.com/news/articles/2023-11-07/stablecoin-issuer-circle-internet-said-to-consider-2024-ipo?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon links One Medical primary care to Prime memberships](https://www.washingtonpost.com/technology/2023/11/08/amazon-prime-health-care-one-medical/) (Washington Post)
+  * [Fortnite just had its biggest day ever, 6 years in](https://www.polygon.com/23948437/fortnite-og-chapter-1-player-record) (Polygon)
+
+
+
+**Tuesday, November 07 2023 - Tue. 11/07 – An App Store, But For GPTs**
+
+  * [OpenAI Launches GPT-4 Turbo](https://techcrunch.com/2023/11/06/openai-launches-gpt-4-turbo-and-launches-fine-tuning-program-for-gpt-4/) (TechCrunch)
+  * [OpenAI is letting anyone create their own version of ChatGPT](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform) (The Verge)
+  * [CRUISE KNEW ITS SELF-DRIVING CARS HAD PROBLEMS RECOGNIZING CHILDREN — AND KEPT THEM ON THE STREETS](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/) (The Intercept)
+  * [WeWork, once valued at $47 billion, files for bankruptcy](https://www.cnbc.com/2023/11/07/wework-files-for-bankruptcy.html) (CNBC)
+  * [Shein Targets Up to $90 Billion Valuation in US IPO, Sources Say](https://www.bloomberg.com/news/articles/2023-11-07/shein-targets-up-to-90-billion-valuation-in-us-ipo-sources-say?sref=Szq5ylDR) (Bloomberg)
+  * [Klarna’s financial glow-up is my favorite story in tech right now](https://techcrunch.com/2023/11/06/klarnas-q3-results-analysis/) (TechCrunch)
+
+
+
+**Monday, November 06 2023 - Mon. 11/06 – Elon “Groks” AI**
+
+  * [Elon Musk debuts ‘Grok’ AI bot to rival ChatGPT, others](https://www.cnbc.com/2023/11/05/elon-musk-debuts-grok-ai-bot-to-rival-chatgpt-others-.html) (CNBC)
+  * [AI Pioneer Kai-Fu Lee Builds $1 Billion Startup in Eight Months](https://www.bloomberg.com/news/articles/2023-11-05/kai-fu-lee-s-open-source-01-ai-bests-llama-2-according-to-hugging-face?sref=Szq5ylDR) (Bloomberg)
+  * [Bumble CEO Whitney Wolfe Herd Steps Down](https://www.wsj.com/business/bumble-ceo-whitney-wolfe-herd-steps-down-d688ffad?mod=followamazon) (WSJ)
+  * [Review: Apple’s 16-inch M3 Max MacBook Pro crams Ultra-level speed into a laptop](https://arstechnica.com/gadgets/2023/11/review-apples-16-inch-m3-max-macbook-pro-crams-ultra-level-speed-into-a-laptop/) (ArsTechnica)
+  * [Apple has no plans to make a 27-inch iMac with Apple Silicon](https://www.theverge.com/2023/11/6/23947196/apple-no-27-inch-apple-silicon-imac) (The Verge)
+
+
+
+**Friday, November 03 2023 - Fri. 11/03 – SBF Guilty**
+
+  * [Sam Bankman-Fried found guilty of fraud](https://www.theverge.com/policy/2023/11/2/23943236/sam-bankman-fried-trial-sbf-fraud-guilty) (The Verge)
+  * [Sam Bankman-Fried Was a Grown Up Criminal, Not an Impulsive Man-Child](https://www.nytimes.com/2023/11/03/nyregion/sam-bankman-fried-ftx-trial-cryptocurrency.html) (NYTimes)
+  * [Starlink achieves cash-flow breakeven, says SpaceX CEO Musk](https://www.reuters.com/technology/elon-musk-says-starlink-has-achieved-breakeven-cash-flow-2023-11-02/) (Reuters)
+  * [Musk's xAI set to launch first AI model to select group](https://www.reuters.com/technology/musks-xai-set-launch-first-ai-model-select-group-2023-11-03/) (Reuters)
+  * [Amazon Boosted Junk Ads, Deleted Messages to Thwart Antitrust Probe, FTC Says](https://www.bloomberg.com/news/articles/2023-11-02/amazon-boosted-junk-ads-hid-messages-with-signal-ftc-says?sref=Szq5ylDR) (Bloomberg)
+  * [Google AdSense moving to per-impression payments in 2024](https://9to5google.com/2023/11/02/google-adsense-payments-2024/) (9to5Google)
+
+
+
+**Thursday, November 02 2023 - Thu. 11/02 – Silicon Mesa?**
+
+  * [Disney Says It Will Take Full Control of Hulu](https://www.nytimes.com/2023/11/01/business/media/disney-hulu-purchase.html) (NYTimes)
+  * [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/) (Wired)
+  * [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/) (Stratechery)
+  * [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning) (The Verge)
+  * [‘Our secret weapon’: how a university bolstered Phoenix’s rise as US chip capital](https://www.ft.com/content/32c5707b-3e18-4f24-ac2e-dcd1e9f72133) (Financial Times)
+
+
+
+**Wednesday, November 01 2023 - Wed. 11/01 – WeWork To The Deadpool?**
+
+  * [LinkedIn’s new AI chatbot wants to help you get a job](https://www.cnbc.com/2023/11/01/linkedins-new-ai-chatbot-wants-to-help-you-get-a-job-.html) (CNBC)
+  * [Netflix, Pushing Into AVOD Fray, Plans New Ad Formats, ‘Crown’ Sponsorship Deals](https://variety.com/2023/tv/news/netflix-advertising-binge-viewing-crown-squid-game-1235775477/) (Variety)
+  * [WeWork Plans to File for Bankruptcy as Early as Next Week](https://www.wsj.com/articles/wework-plans-to-file-for-bankruptcy-as-early-as-next-week-1fdcb6a5?mod=followamazon) (WSJ)
+  * [DeepMind’s latest AlphaFold model is more useful for drug discovery](https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/) (TechCrunch)
+  * [Google DeepMind boss hits back at Meta AI chief over ‘fearmongering’ claim](https://www.cnbc.com/2023/10/31/google-deepmind-boss-hits-back-at-meta-ai-chief-over-fearmongering-claim.html) (CNBC)
+  * [What the executive order means for openness in AI](https://www.aisnakeoil.com/p/what-the-executive-order-means-for) (AI Snake Oil)
+
+
+
+**Tuesday, October 31 2023 - Tue. 10/31 – The New M3 Chips And Macs**
+
+  * [Apple ‘Scary Fast’ Mac launch event: the 4 biggest announcements](https://www.theverge.com/2023/10/30/23938867/apple-m3-imac-macbook-pro-biggest-announcements-m3) (The Verge)
+  * [Apple officially unveils M3, M3 Pro, and M3 Max: 3 nanometer, Dynamic Caching GPU, more](https://9to5mac.com/2023/10/30/m3-pro-max/) (9to5Mac)
+  * [Apple M3 Pro Chip Has 25% Less Memory Bandwidth Than M1/M2 Pro](https://www.macrumors.com/2023/10/31/apple-m3-pro-less-memory-bandwidth/) (MacRumors)
+  * [Nvidia’s $5 Billion of China Orders in Limbo After Latest U.S. Curbs](https://www.wsj.com/tech/nvidias-5-billion-of-china-orders-in-limbo-after-latest-u-s-curbs-1928f399?mod=followamazon) (WSJ)
+  * [X Says It Is Worth $19 Billion, Down From $44 Billion Last Year](https://www.nytimes.com/2023/10/30/technology/x-twitter-19-billion-dollars.html) (NYTimes)
+  * [Artists Lose First Round of Copyright Infringement Case Against AI Art Generators](https://www.hollywoodreporter.com/business/business-news/artists-copyright-infringement-case-ai-art-generators-1235632929/) (TRH)
+  * [Google Brain cofounder says Big Tech companies are lying about the risks of AI wiping out humanity because they want to dominate the market](https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10?op=1) (Insider)
+
+
+
+**Monday, October 30 2023 - Mon. 10/30 – AI Guardrails**
+
+  * [Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards) (The Verge)
+  * [Exclusive: G7 to agree AI code of conduct for companies](https://www.reuters.com/technology/g7-agree-ai-code-conduct-companies-g7-document-2023-10-29/) (Reuters)
+  * [New Version Of ChatGPT Gives Access To All GPT-4 Tools At Once](https://www.searchenginejournal.com/new-version-of-chatgpt-gives-access-to-all-gpt-4-tools-at-once/499607/) (Search Engine Journal)
+  * [Google Commits $2 Billion in Funding to AI Startup Anthropic](https://www.wsj.com/tech/ai/google-commits-2-billion-in-funding-to-ai-startup-anthropic-db4d4c50?mod=followamazon) (WSJ)
+  * [Meta to Offer Ad-Free Facebook, Instagram Subscriptions in Europe](https://www.bloomberg.com/news/articles/2023-10-30/meta-to-offer-ad-free-facebook-instagram-subscriptions-in-europe?sref=Szq5ylDR) (Bloomberg)
+  * [Google can turn ANC earbuds into a heart rate monitor with no extra hardware](https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/) (9to5Google)
+  * [Stacking Boxes? Treating Cancer? AI Needs to Learn Physics First](https://www.wsj.com/tech/ai/artificial-intelligence-physics-informed-ai-acaa932f?mod=followamazon) (WSJ)
+
+
+**Friday, October 27 2023 - Fri. 10/27 – SBF Takes The Stand**
+
+  * [Microsoft: Octo Tempest is one of the most dangerous financial hacking groups](https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/) (BleepingComputer)
+  * [FTX’s Sam Bankman-Fried previews legal defence at fraud trial](https://www.ft.com/content/5ced698a-be40-48f4-8678-234a14686752) (FT)
+  * [Cruise pauses all driverless robotaxi operations to ‘rebuild public trust’](https://techcrunch.com/2023/10/26/cruise-pauses-all-driverless-robotaxi-operations-to-rebuild-public-trust/) (TechCrunch)
+  * [OpenAI forms team to study ‘catastrophic’ AI risks, including nuclear threats](https://techcrunch.com/2023/10/26/openai-forms-team-to-study-catastrophic-risks-including-nuclear-threats/) (TechCrunch)
+
+
+
+**Thursday, October 26 2023 - Thu. 10/26 – A Complete AirPods Revamp**
+
+  * [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings) (The Verge)
+  * [Apple Plans AirPods Overhaul With New Low- and High-End Models, USB-C Headphones](https://www.bloomberg.com/news/articles/2023-10-25/apple-airpods-plans-4th-generation-low-end-3rd-generation-pro-and-usb-c-max?sref=Szq5ylDR) (Bloomberg)
+  * [Apple TV+, Apple Arcade, and Apple News+ Receiving Price Increases](https://www.macrumors.com/2023/10/25/apple-services-price-increases/) (MacRumors)
+  * [SPOTIFY IS CHANGING ITS ROYALTY MODEL TO CRUSH STREAMING FRAUD AND INTRODUCE A MINIMUM PAYMENT THRESHOLD. ITS PLAN? TO SHIFT $1 BILLION IN PAYOUTS TOWARDS ‘WORKING ARTISTS’ OVER THE NEXT 5 YEARS.](https://www.musicbusinessworldwide.com/spotify-is-changing-its-royalty-model-to-crush-streaming-fraud/) (MusicBusinessWorldwide)
+  * [X is officially rolling out audio and video calls](https://www.theverge.com/2023/10/25/23932371/x-audio-video-calls-elon-musk) (The Verge)
+  * [The Apple Watch’s double tap gesture points at a new way to use wearables](https://www.theverge.com/23928706/double-tap-apple-watch-series-9-ultra-2) (The Verge)
+
+
+
+**Wednesday, October 25 2023 - Wed. 10/25 – Boo! Tech Earnings Snuck Up On Us!**
+
+  * [Meta sued by 42 attorneys general alleging Facebook, Instagram features are addictive and target kids](https://www.cnbc.com/2023/10/24/bipartisan-group-of-ags-sue-meta-for-addictive-features.html) (CNBC)
+  * [California DMV immediately suspends Cruise’s robotaxi permit](https://techcrunch.com/2023/10/24/dmv-immediately-suspends-cruises-robotaxi-permit-in-california/) (TechCrunch)
+  * [Qualcomm turns to Wi-Fi to take wireless earbuds and headphones to the next level](https://www.theverge.com/2023/10/24/23930039/qualcomm-snapdragon-sound-s7-pro-announced-earbuds-wifi) (The Verge)
+  * [Controversial Chip in Huawei Phone Produced on ASML Machine](https://www.bloomberg.com/news/articles/2023-10-25/controversial-chip-in-huawei-phone-was-produced-on-asml-machine?sref=Szq5ylDR) (Bloomberg)
+  * [Can Sam Bankman-Fried argue his way out of trouble?](https://www.ft.com/content/61861ac4-20be-442b-8939-217ef8cbd0d2) (FT)
+
+
+
+**Tuesday, October 24 2023 - Tue. 10/24 – Nvidia Is Gunning For Intel**
+
+  * [Exclusive: Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/) (Reuters)
+  * [1Password detects “suspicious activity” in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/) (ArsTechnica)
+  * [Xreal’s Air 2 glasses put a big screen on your face and ship in the US next month](https://www.theverge.com/2023/10/24/23928925/xreal-air-2-pro-ar-glasses-pricing-availability-preorders-open) (The Verge)
+  * [‘Pause Ads’ Creep Onto Hulu, Peacock and Max as Streamers Seek New Revenue](https://variety.com/2023/tv/news/pause-ads-hulu-max-peacock-streaming-1235764850/) (Variety)
+  * [Matter 1.2 is a big move for the smart home standard](https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices) (The Verge)
+  * [I tested a $6,000 automower for four months. Here's why I'm fully invested](https://www.zdnet.com/article/i-tested-a-6000-automower-for-four-months-heres-why-im-fully-invested/) (ZDNet)
+  * [Life360 Sued for Selling Location Data](https://themarkup.org/privacy/2023/06/01/life360-sued-for-selling-location-data) (The Markup)
+
+
+
+**Monday, October 23 2023 - Mon. 10/23 – Apple Caught Flat-Footed By Generative AI?**
+
+  * [Inside Apple’s Big Plan to Bring Generative AI to All Its Devices](https://www.bloomberg.com/news/newsletters/2023-10-22/what-is-apple-doing-in-ai-revamping-siri-search-apple-music-and-other-apps-lo1ffr7p?sref=Szq5ylDR) (Bloomberg)
+  * [Okta shares fall 11% after company says client files were accessed by hackers via its support system](https://www.cnbc.com/2023/10/20/okta-shares-fall-after-company-says-client-files-were-accessed-by-hackers-via-its-support-system.html) (CNBC)
+  * [Web Summit CEO Cosgrave Quits After Israel Controversy](https://www.bloomberg.com/news/articles/2023-10-21/web-summit-ceo-cosgrave-steps-down-after-israel-controversy?sref=Szq5ylDR) (Bloomberg)
+  * [China launches investigation into iPhone maker Foxconn, says state media](https://www.ft.com/content/e6abcb86-1c80-4914-ae54-c7df94d7a9e0) (Financial Times)
+  * [Worldcoin to pay orb operators in WLD rather than USDC](https://www.theblock.co/post/258862/worldcoin-to-pay-orb-operators-in-wld-rather-than-usdc) (The Block)
+  * [Worldcoin to cease paying Orb operators in USDC as early as November](https://cointelegraph.com/news/worldcoin-cease-usdc-payments-native-token-wld) (CoinTelegraph)
+  * [Tinder now lets mom pick your next date](https://www.theverge.com/2023/10/23/23928363/tinder-matchmaker-dating-app-feature-recommendations) (The Verge)
+  * [Teens Want Parents to Track Their Phones and Monitor Their Every Move](https://www.wsj.com/tech/personal-tech/track-my-phone-teens-feel-safer-when-parents-monitor-7ad437ff?mod=followamazon) (WSJ)
+
+
+
+**Friday, October 20 2023 - Fri. 10/20 – Net Neutrality Is Probably Coming Back**
+
+  * [U.S. Treasury Seeks to Name Crypto Mixers as 'Money Laundering Concern'](https://www.coindesk.com/policy/2023/10/19/us-treasury-seeks-to-name-crypto-mixers-as-money-laundering-concern/) (CoinDesk)
+  * [SEC Drops Charges Against Ripple CEO Garlinghouse, Chairman Larsen](https://www.coindesk.com/policy/2023/10/19/sec-drops-charges-against-ripple-ceo-garlinghouse-chairman-larsen/) (CoinDesk)
+  * [FCC greenlights superfast Wi-Fi tethering for AR and VR headsets](https://www.theverge.com/2023/10/19/23923015/fcc-6ghz-approval-very-low-power-devices-apple-google-meta) (The Verge)
+  * [FCC begins second quest for net neutrality](https://techcrunch.com/2023/10/19/fcc-begins-second-quest-for-net-neutrality/) (TechCrunch)
+  * [AMD challenges Nvidia’s RTX 4080 with its new RX 7900M laptop GPU](https://www.pcworld.com/article/2110531) (PCWorld)
+  * [FaZe Clan acquired by GameSquare](https://digiday.com/marketing/faze-clan-acquired-by-gamesquare/) (Digiday)
+
+
+
+**Thursday, October 19 2023 - Thu. 10/19 – A Setback For OpenAI?**
+
+  * [Chainalysis says some reports might be overestimating crypto's role in terrorist financing](https://www.theblock.co/post/258284/chainalysis-says-some-reports-might-be-overestimating-cryptos-role-in-terrorist-financing) (The Block)
+  * [NY Attorney General sues Gemini, Genesis and DCG for allegedly defrauding crypto investors of over $1B](https://techcrunch.com/2023/10/19/ny-attorney-general-sues-gemini-genesis-and-dcg-for-defrauding-crypto-investors-of-over-1b/) (TechCrunch)
+  * [WhatsApp will soon let you stay logged in to two accounts at once](https://www.theverge.com/2023/10/19/23923113/whatsapp-stay-logged-in-two-accounts-meta) (The Verge)
+  * [Netflix Plans Price Increase as Password-Sharing Crackdown Boosts Subscriber Growth](https://www.wsj.com/business/earnings/netflix-nflx-q3-earnings-report-2023-565748d5?mod=followamazon) (WSJ)
+  * [Nokia to cut up to 14,000 jobs after 69% profit plunge](https://www.cnbc.com/2023/10/19/nokia-to-cut-up-to-14000-jobs-after-profit-plunges-.html) (CNBC)
+  * [Authors sue Meta, Microsoft, Bloomberg in latest AI copyright clash](https://www.reuters.com/legal/litigation/authors-sue-meta-microsoft-bloomberg-latest-ai-copyright-clash-2023-10-18/) (Reuters)
+  * [OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback](https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback?rc=64g9cw) (The Information)
+  * [How to turn off FaceTime video reactions in iOS 17 and macOS Sonoma](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-facetime-video-reactions-in-ios-17-and-macos-sonoma) (AppleInsider)
+
+
+
+**Wednesday, October 18 2023 - Wed. 10/18 – For Elon, The War On Bots Never Ends**
+
+  * [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk) (The Verge)
+  * [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer) (The Verge)
+  * [IRS Will Offer Free (But Limited) Direct E-Filing Next Year](https://www.pcmag.com/news/irs-will-offer-free-but-limited-direct-e-filing-next-year) (PCMag)
+  * [Microsoft is preparing to bring on Amazon as a customer of its 365 cloud tools in a $1 billion megadeal, according to an internal document](https://www.businessinsider.com/microsoft-prepares-amazon-customer-365-cloud-tools-2023-10?op=1) (Insider)
+  * [Amazon says it has 10,000 Rivian electric vans in its delivery fleet](https://www.reuters.com/business/autos-transportation/amazon-says-it-has-10000-rivian-electric-vans-its-delivery-fleet-2023-10-18/) (Reuters)
+  * [‘Wait, Netflix Has Games?’ Streaming Giant Plans New Videogames Based on Its Hit Shows](https://www.wsj.com/business/media/netflix-deepens-videogame-push-ripping-page-from-its-hollywood-script-40a8d72c?mod=followamazon) (WSJ)
+  * [Tongue Twisted: Adams Taps AI to Make City Robocalls in Languages He Doesn’t Speak](https://www.thecity.nyc/2023/10/16/adams-taps-ai-robocalls-languages-he-doesnt-speak/) (The City)
+
+
+
+**Tuesday, October 17 2023 - Tue. 10/17 – Is LinkedIn… Good Now?**
+
+  * [Apple unveils brand new 'affordable' Apple Pencil that costs $79 and has a USB-C port](https://www.imore.com/ipad/apple-unveils-brand-new-affordable-apple-pencil-that-costs-dollar79) (iMore)
+  * [Actively exploited Cisco 0-day with maximum 10 severity gives full network control](https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/) (ArsTechnica)
+  * [Social Media Users Accuse Facebook and Instagram of Suppressing Pro-Palestinian Posts](https://www.nytimes.com/2023/10/16/world/middleeast/israel-hamas-war-facebook-instagram.html) (NyTimes)
+  * [Israel orders freeze on crypto accounts in bid to block funding for Hamas](https://www.ft.com/content/e03a370b-777f-46c2-8576-d1cee731efe2) (FinancialTimes)
+  * [Web Summit derailed by founder’s public fight with those supporting Israel in Hamas war](https://techcrunch.com/2023/10/16/websummit-derailed-by-founders-public-fight-with-those-supporting-israel-in-hamas-conflict/?guccounter=1) (TechCrunch)
+  * [Microsoft-owned LinkedIn lays off nearly 700 employees — read the memo here](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html) (CNBC)
+  * [Twitch launches stories for streamers](https://techcrunch.com/2023/10/16/twitch-launches-stories-streamers/) (TechCrunch)
+  * [Influencers and CEOs take their brands to LinkedIn](https://www.ft.com/content/5302f80a-dc7f-47f5-9f97-2607a9758294) (FT)
+  * [Meta's $299 Ray-Ban smart glasses may be the most useful gadget I've tested all year](https://www.zdnet.com/article/meta-ray-ban-smart-glasses-review/) (ZDNet)
+
+
+
+**Tuesday, October 17 2023 - Mon. 10/16 – Nikola Tesla’s Dream Now A Reality**
+
+  * [Apple Renews Top Ranks With Wave of Executive Promotions](https://www.bloomberg.com/news/newsletters/2023-10-15/apple-october-2023-executive-promotions-new-vps-of-retail-software-operations-lnrh4t94?sref=Szq5ylDR) (Bloomberg)
+  * [A New Protocol Vulnerability Will Haunt the Web for Years](https://www.wired.com/story/http-2-rapid-reset-flaw/) (Wired)
+  * [Goldman Sachs Wants Out of Consumer Lending. Employees Say It Can’t Happen Fast Enough.](https://www.wsj.com/finance/goldman-sachs-wants-out-of-consumer-lending-employees-say-it-cant-happen-fast-enough-17e98a30?mod=followamazon) (WSJ)
+  * [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) (Simon Willison's Blog)
+  * [Minecraft has sold over 300 million copies](https://www.theverge.com/2023/10/15/23916349/minecraft-mojang-sold-300-million-copies-live-2023) (The Verge)
+  * [Microsoft’s Activision Buy Extends Nadella’s Decade of Deals](https://www.wsj.com/tech/microsofts-activision-deal-gets-green-light-from-u-k-regulator-95fd688a?mod=followamazon) (WSJ)
+  * [I’m Charging My Toothbrush With Wireless Power Over Distance—and It’s a Trip](https://www.wired.com/story/wi-charge-hands-on-wireless-power-over-distance/) (Wired)
+
+
 **Friday, October 13 2023 - Fri. 10/13 – The Activision Acquisition Goes Through**
 
   * [Microsoft's purchase of Activision Blizzard for Xbox has been fully APPROVED by the UK regulator](https://www.windowscentral.com/gaming/xbox/microsofts-purchase-of-activision-blizzard-for-xbox-fully-approved-by-uk-regulator) (Windows Central)

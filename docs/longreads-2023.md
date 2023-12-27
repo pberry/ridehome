@@ -2,6 +2,59 @@
 
 _This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, December 22**
+  * [The Race to Fill Crypto’s FTX-Shaped Hole](https://www.wired.co.uk/article/ftx-new-crypto-exchanges-backpack?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (Wired)
+  * [As the AI era begins, Reddit is leaning into its humanity](https://www.fastcompany.com/90997770/reddit-steve-huffman-interview-ai-ipo-2024?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (Fast Company)
+  * [Tolkien Estate Wins Court Order to Destroy Fan’s ‘Lord of the Rings’ Sequel](https://www.nytimes.com/2023/12/21/arts/lord-of-the-rings-sequel-lawsuit.html?partner=slack&smid=sl-share) (NYTimes)
+
+**Friday, December 15**
+  * [OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check](https://www.wired.com/story/openai-ilya-sutskever-ai-safety/) (Wired)
+  * [Tesla Autopilot Recall Threatens Its Defense in Lawsuits Over Crashes](https://www.bloomberg.com/news/articles/2023-12-15/tesla-recall-threatens-its-defense-in-autopilot-crash-lawsuits?sref=Szq5ylDR) (Bloomberg)
+  * [Microsoft’s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime](https://www.wired.com/story/microsoft-digital-crime-unit-2023/) (Wired)
+
+
+**Friday, December 08**
+  * [The real research behind the wild rumors about OpenAI’s Q* project](https://arstechnica.com/ai/2023/12/the-real-research-behind-the-wild-rumors-about-openais-q-project/) (ArsTechnica)
+  * [AI and Mass Spying](https://www.schneier.com/blog/archives/2023/12/ai-and-mass-spying.html) (Schneier On Security)
+  * [The race to 5G is over — now it’s time to pay the bill](https://www.theverge.com/23991136/5g-network-att-verizon-tmobile-cost-competition) (The Verge)
+  * [In the Hall v. Oates legal feud, fans don’t want to play favorites](https://www.nbcnews.com/pop-culture/music/hall-v-oates-legal-feud-fans-dont-want-play-favorites-rcna127631?cid=sm_npd_nn_tw_ma&taid=656d1681163989000166569d&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter) (NBCNews)
+
+
+**Friday, December 01**
+  * [ChatGPT is winning the future — but what future is that?](https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future) (The Verge)
+  * [This Nvidia Cofounder Could Have Been Worth $70 Billion. Instead He Lives Off The Grid](https://www.forbes.com/sites/phoebeliu/2023/11/26/this-nvidia-cofounder-could-have-been-worth-70-billion-instead-he-lives-off-the-grid/?sh=35cbb2846aae) (Forbes)
+  * [Anduril Builds a Tiny, Reusable Fighter Jet That Blows Up Drones](https://www.bloomberg.com/news/articles/2023-12-01/anduril-roadrunner-drone-killer-could-change-tactics-in-iraq-syria?sref=Szq5ylDR) (Bloomberg)
+  * [The Real Story Behind Shane MacGowan’s ‘Boys of the N.Y.P.D. Choir’](https://www.nytimes.com/2023/12/01/nyregion/shane-mcgowan-nypd-choir.html?partner=slack&smid=sl-share) (NYTimes)
+
+
+**Friday, November 17**
+  * [Inside Marques Brownlee’s tech review studio: The YouTube star on gadgets, growth, and staying chill ](https://www.fastcompany.com/90978935/marques-brownlee-mkbhd-youtube-tech-review)(Fast Company)
+  * [A Coder Considers the Waning Days of the Craft](https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft?currentPage=all) (New Yorker)
+
+
+**Friday, November 10**
+  * [AI is about to completely change how you use computers](https://www.gatesnotes.com/AI-agents) (GatesNotes)
+  * [Elon Musk’s Brain Implant Startup Is Ready to Start Surgery](https://www.bloomberg.com/news/features/2023-11-07/elon-musk-s-neuralink-brain-implant-startup-is-ready-to-start-surgery?sref=Szq5ylDR) (Bloomberg)
+  * [Inside an OnlyFans empire: Sex, influence and the new American Dream](https://www.washingtonpost.com/technology/interactive/2023/onlyfans-bryce-adams-top-earners-creator-economy/) (Washington Post)
+
+
+**Friday, November 03**
+  * [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics) (The Verge)
+  * [Joe Rogan’s big decision](https://www.theverge.com/2023/11/1/23942287/joe-rogan-spotify-youtube-elon-musk) (The Verge)
+
+
+**Friday, October 27**
+  * [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/) (Wired)
+  * [“Math is hard” — if you are an LLM – and why that matters](https://garymarcus.substack.com/p/math-is-hard-if-you-are-an-llm-and) (Gary Marcus Blog)
+  * [The poster’s guide to the internet of the future](https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads) (The Verge)
+
+
+
+**Friday, October 20**
+  * [An Industry Insider Drives an Open Alternative to Big Tech’s A.I.](https://www.nytimes.com/2023/10/19/technology/allen-institute-open-source-ai.html) (NYTimes)
+  * [‘Oof’: Sam Bankman-Fried’s Trial Reveals Inside Details of How FTX Died](https://www.nytimes.com/2023/10/20/technology/sam-bankman-fried-trial-ftx-collapse.html) (NYTimes)
+  * [Computers Are Learning to Smell](https://www.theatlantic.com/technology/archive/2023/10/ai-scent-digitizing-smell/675608/) (The Atlantic)
+
 **Friday, October 13**
   * [Adobe Is Focused on AI Rather Than Figma With Acquisition in Limbo](https://www.bloomberg.com/news/articles/2023-10-12/adobe-deal-for-figma-in-limbo-with-new-focus-on-ai?sref=Szq5ylDR) (Bloomberg)
   * [Can EA’s FIFA-Free Soccer Game Win Fans?](https://www.bloomberg.com/features/2023-fc24-ea-sports-fifa/?sref=Szq5ylDR) (Bloomberg)
