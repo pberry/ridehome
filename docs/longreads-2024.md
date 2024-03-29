@@ -2,6 +2,20 @@
 
 _This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, March 29**
+  * [How We’ll Reach a 1 Trillion Transistor GPU](https://spectrum.ieee.org/trillion-transistor-gpu) (IEEE Spectrum)
+  * [How Jesse Plemons Came to Star in, Well, Pretty Much Everything](https://www.texasmonthly.com/arts-entertainment/jesse-plemons-star-everything/) (Texas Monthly)
+
+**Friday, March 22**
+  * [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/) (Wired)
+  * [China’s Super-Cheap EVs Offer Hope for Average American Buyers](https://www.bloomberg.com/news/articles/2024-03-18/chinese-ev-affordability-frightens-ford-gm-us-automakers?sref=Szq5ylDR) (Bloomberg Businessweek)
+  * [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change) (The Verge)
+
+**Friday, March 15**
+  * [Can Reddit Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/) (Wired)
+  * [One Big Reason Gen Z Is Still on Facebook: To Save Money](https://www.nytimes.com/2024/03/14/business/gen-z-facebook-marketplace.html?unlocked_article_code=1.ck0.JcH1.GvY7REICEC3B&smid=url-share) (NYTimes)
+  * [How Nvidia beat everyone else in the AI race](https://www.vox.com/money/2024/3/7/24092309/nvidia-stock-earnings-valuation-ai-explainer?utm_source=flipboard&utm_content=tech%2Fmagazine%2FTech+Longreads) (Vox)
+
 **Friday, March 08**
   * [The Nvidia Chips Inside Powerful AI Supercomputers](https://www.wsj.com/tech/ai/nvidia-chip-technology-artificial-intelligence-006e29d4?st=s1329ktjxk0q7vv&reflink=desktopwebshare_permalink) (WSJ)
   * [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzA5Nzg3NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExMTY2Mzk5LCJpYXQiOjE3MDk3ODc2MDAsImp0aSI6IjliZWI1MmRjLTVlNTEtNGMxMC04NGI2LTFkNGM4ZWEzYzUyOCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDI0LzAzLzA3L2FpLWRhdGEtY2VudGVycy1wb3dlci8ifQ.wqy9LpWJmz3tpAjhvXDkiSHZbNYW-ikg6B44j9dGk0Q) (Washington Post)

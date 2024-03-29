@@ -3,6 +3,181 @@
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
 
+**Friday, March 29 2024 - Fri. 03/29 – SBF To The Hoosegow**
+
+  * [Bankman-Fried sentenced to 25 years for multi-billion dollar FTX fraud](https://www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/) (Reuters)
+  * [Elon Musk’s X Is Testing ‘Adult Content’ Groups for Users](https://www.bloomberg.com/news/articles/2024-03-28/elon-musk-s-x-is-testing-adult-content-groups-for-users?sref=Szq5ylDR) (Bloomberg)
+  * [Apple Sues Former Employee for Leaking iPhone's Journal App and More](https://www.macrumors.com/2024/03/28/apple-sues-former-employee-for-alleged-leaking/) (MacRumors)
+  * [Apple Plans New iPad Pro for May as Production Ramps Up Overseas](https://www.bloomberg.com/news/articles/2024-03-28/when-is-the-new-ipad-pro-ipad-air-coming-out-apple-plans-early-may-launch?sref=Szq5ylDR) (Bloomberg)
+  * [Reddit shares plunge almost 25% in two days, finish the week below first day close](https://www.cnbc.com/2024/03/28/reddit-shares-on-a-two-day-tumble-after-post-ipo-high.html) (CNBC)
+
+
+
+**Thursday, March 28 2024 - Thu. 03/28 – Claude 3 Opus Surpasses GPT-4 For The First Time**
+
+  * [“The king is dead”—Claude 3 surpasses GPT-4 on Chatbot Arena for the first time](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/) (ArsTechnica)
+  * [Amazon spends $2.75 billion on AI startup Anthropic in its largest venture investment yet](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html) (CNBC)
+  * [Amazon Bets $150 Billion on Data Centers Required for AI Boom](https://www.bloomberg.com/news/articles/2024-03-28/amazon-bets-150-billion-on-data-centers-required-for-ai-boom?sref=Szq5ylDR) (Bloomberg)
+  * [OpenAI’s app store draws investors and students seeking artificial aids](https://www.ft.com/content/7ca691f9-e4c7-46e8-bbc2-fe95464934f8) (FT)
+  * [Oregon’s governor signs right-to-repair law that bans ‘parts pairing’](https://www.theverge.com/2024/3/27/24097042/right-to-repair-law-oregon-sb1596-parts-pairing-tina-kotek-signed) (The Verge)
+  * [Take-Two Buys Gearbox From Embracer, Confirms Development on New Borderlands Game](https://www.ign.com/articles/take-two-buys-gearbox-from-embracer-confirms-development-on-new-borderlands-game) (IGN)
+  * [The A.I. Boom Makes Millions for an Unlikely Industry Player: Anguilla](https://www.nytimes.com/2024/03/22/business/artificial-intelligence-anguilla.html?action=click&pgtype=Article&state=default&module=styln-artificial-intelligence&variant=show&region=BELOW_MAIN_CONTENT&block=storyline_flex_guide_recirc) (NYTimes)
+
+
+
+**Wednesday, March 27 2024 - Wed. 03/27 – Hulu Comes To Disney+; WWDC Gets A Date**
+
+  * [Hulu on Disney+ Launches Out of Beta With Marketing Push to Grow Subscribers](https://www.hollywoodreporter.com/business/digital/hulu-on-disney-plus-launch-out-of-beta-1235860522/) (The Hollywood Reporter)
+  * [The Disney Plus-Hulu merger is way more than a streaming bundle](https://www.theverge.com/2024/3/27/24112747/disney-plus-hulu-tile-app-streaming) (The Verge)
+  * [Apple Announces WWDC 2024 Event for June 10 to 14](https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/) (MacRumors)
+  * [Recent ‘MFA Bombing’ Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/) (KrebsonSecurity)
+  * [Databricks launches DBRX, challenging Big Tech in the open source AI race](https://venturebeat.com/ai/databricks-launches-dbrx-challenging-big-tech-in-open-source-ai-race/) (VentureBeat)
+  * [Databricks open-sources its own large language model, DBRX](https://siliconangle.com/2024/03/27/databricks-open-sources-large-language-model/) (SiliconAngle)
+  * [Databricks spent $10M on new DBRX generative AI model, but it can’t beat GPT-4](https://techcrunch.com/2024/03/27/databricks-spent-10m-on-a-generative-ai-model-that-still-cant-beat-gpt-4/) (TechCrunch)
+  * [Intel shares Microsoft's new AI PC definition, launches AI PC Acceleration Programs and Core Ultra Meteor Lake NUC developer kits at AI conference](https://www.tomshardware.com/pc-components/cpus/intel-shares-new-ai-pc-definition-launches-ai-pc-acceleration-programs-and-core-ultra-meteor-lake-nuc-developer-kits-at-ai-conference) (Tom's Hardware)
+  * [The Fight for AI Talent: Pay Million-Dollar Packages and Buy Whole Teams](https://www.wsj.com/tech/ai/the-fight-for-ai-talent-pay-million-dollar-packages-and-buy-whole-teams-c370de2b?st=qpp0le0u0ui0z9h&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
+**Tuesday, March 26 2024 - Tue. 03/26 – Musical Chairs As Microsoft Reorganizes Itself Around AI**
+
+  * [Microsoft has a new Windows and Surface chief](https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri) (The Verge)
+  * [Canva Strikes Biggest Acquisition Yet in Chase to Take on Adobe](https://www.bloomberg.com/news/articles/2024-03-26/canva-acquires-affinity-design-suite-in-push-to-rival-adobe?sref=Szq5ylDR) (Bloomberg)
+  * [US sanctions APT31 hackers behind critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-apt31-hackers-behind-critical-infrastructure-attacks/) (BleepingComputer)
+  * [OpenAI shows off first examples of third-party creators using Sora](https://venturebeat.com/ai/openai-shows-off-first-examples-of-third-party-creators-using-sora/) (VentureBeat)
+  * [OpenAI Courts Hollywood in Meetings With Film Studios, Directors](https://www.bloomberg.com/news/articles/2024-03-22/openai-courts-hollywood-in-meetings-with-film-studios-directors?sref=Szq5ylDR) (Bloomberg)
+  * [Reddit options launch draws bulls, as shares soar](https://www.reuters.com/technology/reddit-options-launch-draws-bulls-shares-extend-gains-2024-03-25/) (Reuters)
+  * [IPO Window Cracks Open and Silicon Valley Sees Some Daylight](https://www.bloomberg.com/news/newsletters/2024-03-25/ipo-window-cracks-open-and-silicon-valley-sees-some-daylight?sref=Szq5ylDR) (Bloomberg)
+  * [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads) (The Verge)
+  * [Elon Musk’s Starlink Terminals Are Falling Into the Wrong Hands](https://www.bloomberg.com/news/features/2024-03-25/elon-musk-s-spacex-sees-starlink-black-market-trade-grow-worldwide?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Monday, March 25 2024 - Mon. 03/25 – The Wheels Of DMA Justice Move Fast**
+
+  * [EU probes Apple, Meta and Alphabet under landmark new law](https://www.ft.com/content/22ce95a6-e473-4102-a330-f7d02cfb6fd1) (Financial Times)
+  * [Stability AI Founder Emad Mostaque Plans To Resign As CEO, Sources Say](https://www.forbes.com/sites/kenrickcai/2024/03/22/stability-ai-founder-emad-mostaque-plans-to-resign-as-ceo-sources-say/?sh=43e844415239) (Forbes)
+  * [Fewer people are using Elon Musk’s X as the platform struggles to attract and keep users, according to analysts](https://www.nbcnews.com/tech/tech-news/fewer-people-using-elon-musks-x-struggles-keep-users-rcna144115) (NBCNews)
+  * [Spotify adds video learning courses in latest experiment](https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso) (The Verge)
+  * [Sources: iOS 18 Lets Apps Be Placed Anywhere on Home Screen Grid](https://www.macrumors.com/2024/03/24/ios-18-home-screen-app-icon-customization/) (MacRumors)
+  * [Justice Department Risks Picking the Wrong Fight With Apple](https://www.bloomberg.com/news/newsletters/2024-03-24/how-strong-is-the-justice-department-case-against-apple-it-could-be-stronger-lu5ii64n?sref=Szq5ylDR) (Bloomberg)
+  * [Thiel, Bezos and Zuckerberg join parade of insiders selling tech stocks](https://www.ft.com/content/3bcc3949-0bf6-4f41-bc46-57cbb0df3a7f) (Financial Times)
+
+
+
+**Friday, March 22 2024 - Fri. 03/22 – Apple Antitrust Suit Fallout**
+
+  * [Apple CarPlay is anticompetitive, too, US lawsuit alleges](https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key) (The Verge)
+  * [U.S. versus Apple: A first reaction](https://sixcolors.com/post/2024/03/u-s-versus-apple-a-first-reaction/) (Six Colors)
+  * [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/) (ArsTechnica)
+  * [Threads’ fediverse beta opens to share your posts on Mastodon, too](https://www.theverge.com/2024/3/21/24107881/threads-fediverse-beta-launch-mastodon) (The Verge)
+  * [Microsoft Agreed to Pay Inflection $650 Million While Hiring Its Staff](https://www.theinformation.com/articles/microsoft-agreed-to-pay-inflection-650-million-while-hiring-its-staff?rc=64g9cw) (The Information)
+
+
+
+**Thursday, March 21 2024 - Thu. 03/21 – The DOJ Sues Apple**
+
+  * [U.S. Sues Apple, Alleges Tech Giant Exploits Illegal Monopoly](https://www.wsj.com/tech/apple-antitrust-lawsuit-16066694?mod=e2twd) (WSJ)
+  * [Reddit prices IPO at $34 per share in first major social media offering since 2019](https://www.cnbc.com/2024/03/20/reddit-prices-ipo-at-34-per-share-sources-say.html) (CNBC)
+  * [The Epic Games Store is coming to Android](https://9to5google.com/2024/03/20/epic-games-store-android-2/) (9to5Google)
+  * [Apple Faces Legal Protest From Meta, Microsoft, X, Spotify and Match](https://www.wsj.com/tech/apple-faces-legal-protest-from-meta-microsoft-x-and-match-7fe41d0f?st=00q4vuz6hozmvet&reflink=desktopwebshare_permalink) (WSJ)
+  * [Carvana makes U-turn away from financial abyss](https://www.ft.com/content/6308b1a1-e85a-4642-b11e-6809130e0e35?shareType=nongift) (Financial Times)
+  * [Amazon’s New Focus: Fending Off Rivals Temu and Shein](https://www.wsj.com/business/retail/amazons-new-focus-fending-off-rivals-temu-and-shein-5c6ac205) (WSJ)
+  * [Watch Neuralink’s First Human Subject Demonstrate His Brain-Computer Interface](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/) (Wired)
+
+
+
+**Wednesday, March 20 2024 - Wed. 03/20 – Microsoft Hires DeepMind Co-Founder And Rocks The AI Community**
+
+  * [Microsoft Hires DeepMind Co-Founder Suleyman to Run Consumer AI](https://www.bloomberg.com/news/articles/2024-03-19/microsoft-hires-deepmind-co-founder-suleyman-to-run-consumer-ai?sref=Szq5ylDR) (Bloomberg)
+  * [Microsoft bets on start-ups to extend AI lead with hiring of Inflection chief](https://www.ft.com/content/1045edfb-f06b-4162-bab9-e2f019f5dec4) (Financial Times)
+  * [Intel to receive $8.5bn in US funding for high-end chip manufacturing](https://www.ft.com/content/189d42b8-88f4-424e-b2e9-fff595c40329) (Financial Times)
+  * [Stardew Valley’s 1.6 update smashes its Steam player record](https://www.theverge.com/2024/3/20/24106601/stardew-valley-steam-player-record-number) (The Verge)
+  * [A ChatGPT for Music Is Here. Inside Suno, the Startup Changing Everything](https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/) (Rolling Stone)
+
+
+
+**Tuesday, March 19 2024 - Tue. 03/19 – Nvidia Developer Event**
+
+  * [Nvidia CEO Jensen Huang announces new AI chips: ‘We need bigger GPUs’](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html) (CNBC)
+  * [Nvidia launches NIM to make it smoother to deploy AI models into production](https://techcrunch.com/2024/03/18/nvidia-launches-a-set-of-microservices-for-optimized-inferencing/) (TechCrunch)
+  * [Nvidia enlists humanoid robotics’ biggest names for new AI platform, GR00T](https://techcrunch.com/2024/03/18/nvidia-enlists-humanoid-robotics-biggest-names-for-new-ai-platform-gr00t/) (TechCrunch)
+  * [Nvidia announces Earth-2 digital twin to forecast planet’s climate change](https://venturebeat.com/games/nvidia-announces-earth-2-digital-twin-to-forecast-planets-climate-change/) (VentureBeat)
+  * [Google researchers unveil ‘VLOGGER’, an AI that can bring still photos to life](https://venturebeat.com/ai/google-researchers-unveil-vlogger-an-ai-that-can-bring-still-photos-to-life/) (VentureBeat)
+  * [Stability AI brings a new dimension to video with Stable Video 3D](https://venturebeat.com/ai/stability-ai-brings-a-new-dimension-to-video-with-stable-video-3d/) (VentureBeat)
+  * [DOJ to Push for TikTok Divestiture in Senate Briefings](https://www.bloomberg.com/news/articles/2024-03-18/biden-officials-to-brief-wary-senators-on-tiktok-sale-push?sref=Szq5ylDR) (Bloomberg)
+  * [Playtron: the startup hoping to Steam Deck-ify the world](https://www.theverge.com/24090470/playtron-gaming-os-linux-handhelds-exclusive) (The Verge)
+
+
+
+**Monday, March 18 2024 - Mon. 03/18 – Apple To Partner With Google For AI On iOS?**
+
+  * [Apple Is in Talks to Let Google Gemini Power iPhone AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools?sref=Szq5ylDR) (Bloomberg)
+  * [Apple researchers achieve breakthroughs in multimodal AI as company ramps up investments ](https://venturebeat.com/ai/apple-researchers-achieve-breakthroughs-in-multimodal-ai-as-company-ramps-up-investments/)(VentureBeat)
+  * [xAI open-sources base model of Grok, but without any training code](https://techcrunch.com/2024/03/17/xai-open-sources-base-model-of-grok-but-without-any-training-code/) (TechCrunch)
+  * [Musk’s Grok AI goes open source](https://venturebeat.com/ai/musks-grok-ai-goes-open-source/) (VentureBeat)
+  * [Massive ‘Apex Legends’ Hack Disrupts NA Finals, Raises Serious Security Concerns](https://www.forbes.com/sites/paultassi/2024/03/17/massive-apex-legends-hack-disrupts-na-finals-raises-serious-security-questions/?sh=4adc2fa36ea0) (Forbes)
+  * [Sony Hits Pause on PSVR2 Production as Unsold Inventory Piles Up](https://www.bloomberg.com/news/articles/2024-03-18/sony-hits-pause-on-psvr2-production-as-unsold-inventory-piles-up?sref=Szq5ylDR) (Bloomberg)
+
+
+**Friday, March 15 2024 - Fri. 03/15 – Apple’s Quiet AI Acquisition**
+
+  * [Apple Buys Canadian AI Startup as It Races to Add Features](https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features?sref=Szq5ylDR) (Bloomberg)
+  * [FCC scraps old speed benchmark, says broadband should be at least 100Mbps](https://arstechnica.com/tech-policy/2024/03/fcc-scraps-old-speed-benchmark-says-broadband-should-be-at-least-100mbps/) (ArsTechnica)
+  * [Spotify says its iPhone app updates in the EU are getting held up by Apple](https://www.theverge.com/2024/3/14/24100944/spotify-ios-app-update-eu-apple-dma) (The Verge)
+  * [Pornhub Disables Website in Texas Over Age-Verification Law](https://variety.com/2024/digital/news/pornhub-texas-blocked-age-verification-law-1235942280/) (Variety)
+
+
+
+**Thursday, March 14 2024 - Thu. 03/14 – Who Wants TikTok?**
+
+  * [House passes TikTok bill that could ban app in the U.S., spawning Senate support](https://www.washingtonpost.com/technology/2024/03/13/tiktok-ban-passes-house-vote/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEwMzAyNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExNjg0Nzk5LCJpYXQiOjE3MTAzMDI0MDAsImp0aSI6IjJjOTkwZDhmLTdjZjAtNDEyMC1hNWVkLTI1NmM1YmJlOWQ4ZiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDMvMTMvdGlrdG9rLWJhbi1wYXNzZXMtaG91c2Utdm90ZS8ifQ.23FNxNpGz4ua8Sh7AaxWOFdo5itmy00LnbLWuEdChdo) (The Washington Post)
+  * [Microsoft has added the GPT-4 Turbo LLM to the free version of Copilot](https://www.neowin.net/news/microsoft-has-added-the-gpt-4-turbo-llm-to-the-free-version-of-copilot/) (Neowin)
+  * [Microsoft says new AI security chatbot pricing model lets customers ‘buy what they need’](https://www.cnbc.com/2024/03/13/microsoft-uses-compute-units-to-charge-customers-for-security-copilot.html) (CNBC)
+  * [Microsoft Teams is finally moving to a single app for personal and work](https://www.theverge.com/2024/3/13/24099723/microsoft-teams-unified-app-personal-work-accounts) (The Verge)
+  * [Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability](https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/) (VentureBeat)
+  * [MusicWatch Reports Results of 2023 Annual Music Study: Record Numbers of Music Streamers and Paid Subscribers](https://musicwatchinc.com/blog/musicwatch-reports-results-of-2023-annual-music-study/) (Music Watch)
+  * [Google's Gen AI Search Threatens Publishers With $2B Annual Ad Revenue Loss](https://www.adweek.com/programmatic/googles-gen-ai-search-threatens-publishers-with-2b-annual-ad-revenue-loss/) (AdWeek)
+
+
+
+**Wednesday, March 13 2024 - Wed. 03/13 – TikTok On The Brink?**
+
+  * [TikTok bill, racing toward House passage, faces a minefield in the Senate](https://www.washingtonpost.com/technology/2024/03/12/tik-tok-bill-house-vote/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEwMjE2MDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExNTk4Mzk5LCJpYXQiOjE3MTAyMTYwMDAsImp0aSI6ImQ0NGRlMTBhLWU1MDItNGVkMi04NDhkLTg0MjI0ZjkwMWRkMiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDMvMTIvdGlrLXRvay1iaWxsLWhvdXNlLXZvdGUvIn0.NUDKFifHBGN3muaIq285CD5q_B08XOeIufG2FPivz7U) (Washington Post)
+  * [How TikTok Was Blindsided by U.S. Bill That Could Ban It](https://www.wsj.com/tech/how-tiktok-was-blindsided-by-a-u-s-bill-that-could-ban-it-7201ac8b?st=d6kekmuuzb55o6m) (WSJ)
+  * [World’s first major act to regulate AI passed by European lawmakers](https://www.cnbc.com/2024/03/13/european-lawmakers-endorse-worlds-first-major-act-to-regulate-ai.html) (CNBC)
+  * [Stripe in ‘no rush’ to go public as cash flow turns positive](https://www.ft.com/content/63f33d03-fc82-4383-b64f-dc3ca52c6e5f) (FT)
+  * [Arm unveils first chip design to power self-driving cars](https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354) (FT)
+  * [AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI](https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/) (ZDNet)
+  * [Spotify adds music videos in some countries](https://techcrunch.com/2024/03/13/spotify-adds-music-videos-in-some-countries/) (TechCrunch)
+  * [Perplexity brings Yelp data to its chatbot](https://www.theverge.com/2024/3/12/24098728/perplexity-chatbot-yelp-suggestions-data-ai) (The Verge)
+
+
+
+**Tuesday, March 12 2024 - Tue. 03/12 – Is TikTok Coming For Instagram?**
+
+  * [Apple will allow users to download apps directly from a developer’s website, in latest EU App Store rule change](https://9to5mac.com/2024/03/12/iphone-app-store-changes-web-distribution-more/) (9to5Mac)
+  * [The IRS launches Direct File, a pilot program for free online tax filing available in 12 states](https://apnews.com/article/irs-direct-file-taxes-98dbc44cc764972991072efbf40f2291) (AP)
+  * [Crypto Product Inflows Soar to Record High, CoinShares Says](https://www.bloomberg.com/news/articles/2024-03-11/crypto-product-inflows-soar-to-record-high-coinshares-says?sref=Szq5ylDR) (Bloomberg)
+  * [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban) (The Verge)
+  * [Gold-Medalist Coders Build an AI That Can Do Their Job for Them](https://www.bloomberg.com/news/articles/2024-03-12/cognition-ai-is-a-peter-thiel-backed-coding-assistant?sref=Szq5ylDR) (Bloomberg)
+  * [Exclusive: Tiktok is working on a new Photo Sharing platform to compete with Instagram](https://thespandroid.blogspot.com/2024/03/Tiktok-Photo-Sharing-Platform.html) (The SpAndroid)
+  * [TikTok's growth rate has collapsed. 'Life' may be getting in the way for its younger users.](https://www.businessinsider.com/tiktok-growth-collapsed-life-getting-in-way-2024-3) (Business Insider)
+
+
+
+**Monday, March 11 2024 - Mon. 03/11 – Your Car Is Spying On You, Example 212**
+
+  * [Epic says Apple will reinstate developer account, clearing path for Epic Games Store on iPhone](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/) (9to5Mac)
+  * [Sam Altman returns to OpenAI's board](https://www.axios.com/2024/03/08/sam-altman-returns-to-openai-board) (Axios)
+  * [Sam Altman rejoins OpenAI’s board after investigation into sudden firing](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results) (The Verge)
+  * [OpenAI’s Sam Altman Returns to Board After Probe Clears Him](https://www.bloomberg.com/news/articles/2024-03-08/openai-s-altman-returns-to-board-after-probe-clears-him?sref=Szq5ylDR) (Bloomberg)
+  * [Elon Musk says xAI will open-source Grok this week](https://techcrunch.com/2024/03/11/elon-musk-says-xai-will-open-source-grok-this-week/) (TechCrunch)
+  * [Reddit to raise nearly $750 million in upcoming IPO](https://www.cnbc.com/2024/03/11/reddit-to-raise-nearly-750-million-in-upcoming-ipo.html) (CNBC)
+  * [Telegram hits 900mn users and nears profitability as founder considers IPO](https://www.ft.com/content/8d6ceb0d-4cdb-4165-bdfa-4b95b3e07b2a) (Financial Times)
+  * [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html?unlocked_article_code=1.b00.WNY6.1fEAGvGKLlWF&smid=url-share) (NYTimes)
+
+
 **Monday, March 11 2024 - Mon. 03/11 – Your Car Is Spying On You, Example 212**
 
   * [Epic says Apple will reinstate developer account, clearing path for Epic Games Store on iPhone](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/) (9to5Mac)
