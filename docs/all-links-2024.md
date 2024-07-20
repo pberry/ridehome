@@ -2,6 +2,823 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, July 19 2024 - Fri. 07/19 – The Big CrowdStrike Outage Explained**
+
+  * [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue) (The Verge)
+  * [Global IT Collapse Puts Cyber Firm CrowdStrike in Spotlight](https://www.bloomberg.com/news/articles/2024-07-19/global-it-collapse-puts-cyber-firm-crowdstrike-in-spotlight?sref=Szq5ylDR) (Bloomberg)
+  * [Samsung halts Galaxy Buds 3 Pro shipments over quality issues](https://www.theverge.com/2024/7/19/24201787/samsung-halts-galaxy-buds-3-pro-shipments-quality-issues) (The Verge)
+  * [OpenAI debuts mini version of its most powerful model yet](https://www.cnbc.com/2024/07/18/openai-4o-mini-model-announced.html) (CNBC)
+  * [OpenAI's 4o-mini brings big brains on a budget.](https://bensbites.beehiiv.com/p/openais-4omini-brings-big-brains-budget?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-mini-models-are-insane) (Ben's Bites)
+  * [Netflix Q2 Profits Surge 44% to $2.15 Billion As Streamer Adds 8 Million Subscribers](https://www.thewrap.com/netflix-earnings-q2-2024/) (The Wrap)
+
+
+
+**Thursday, July 18 2024 - Thu. 07/18 – Crypto Exchange Hacks Are Back**
+
+  * [WazirX Hacked for $230M, Largely in SHIB, as Elliptic Says North Korea Behind Attack](https://www.coindesk.com/business/2024/07/18/crypto-exchange-wazirx-sees-230m-in-suspicious-withdrawals-largely-100m-in-shib-token/) (CoinDesk)
+  * [$235 million lost by WazirX in North Korea-linked breach](https://www.elliptic.co/blog/235-million-lost-by-wazirx-in-north-korea-linked-breach) (Elliptic)
+  * [Meta explores stake in Ray-Ban maker EssilorLuxottica](https://www.ft.com/content/4da37b6a-b241-4090-9445-467087694ab7) (FT)
+  * [Reality Comes to Meta’s Reality Labs](https://www.theinformation.com/articles/reality-comes-to-metas-reality-labs?utm_source=threads&utm_medium=organic_social&utm_campaign=article_post&rc=64g9cw) (The Information)
+  * [Scoop: Meta won't offer future multimodal AI models in EU](https://www.axios.com/2024/07/17/meta-future-multimodal-ai-models-eu) (Axios)
+  * [Apple says its OpenELM model doesn’t power Apple Intelligence amid YouTube controversy](https://9to5mac.com/2024/07/17/apple-intelligence-openelm-training-youtube/) (9to5Mac)
+  * [Apple, Nvidia, Anthropic Used Thousands of Swiped YouTube Videos to Train AI](https://www.proofnews.org/apple-nvidia-anthropic-used-thousands-of-swiped-youtube-videos-to-train-ai/) (Proof)
+  * [Leaked Docs Show What Phones Cellebrite Can (and Can’t) Unlock](https://www.404media.co/leaked-docs-show-what-phones-cellebrite-can-and-cant-unlock/) (404 Media)
+
+
+
+**Wednesday, July 17 2024 - Wed. 07/17 – Sorry, More Politics…**
+
+  * [Trump on Taxes, Tariffs, Jerome Powell and More](https://www.bloomberg.com/features/2024-trump-interview/?sref=Szq5ylDR) (Bloomberg)
+  * [Exclusive: Google-backed software developer GitLab explores sale, sources say](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/) (Reuters)
+  * [Mistral releases Codestral Mamba for faster, longer code generation](https://venturebeat.com/ai/mistral-releases-codestral-mamba-for-faster-longer-code-generation/) (VentureBeat)
+  * [Giant Pixel 9 leak gives us our first real-world look at the Fold, faster charging specs, and more ](https://www.androidauthority.com/google-pixel-9-pro-fold-ncc-3461263/)(AndroidAuthority)
+  * [Samsung’s new image-generating AI tool is a little too good](https://www.theverge.com/2024/7/17/24199005/samsung-galaxy-ai-z-fold-6-sketch-to-image) (The Verge)
+
+
+
+**Tuesday, July 16 2024 - Tue. 07/16 – A VC VP Pick**
+
+  * [J.D. Vance Is Trump’s Pick for Vice President](https://www.wired.com/story/jd-vance-trump-vice-president/) (Wired)
+  * [It’s never been easier for the cops to break into your phone](https://www.theverge.com/24199357/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-quantico-mdtf) (The Verge)
+  * [Microsoft Investigated by UK Over Ex-Inflection Staff Hires](https://www.bloomberg.com/news/articles/2024-07-16/microsoft-gets-uk-merger-probe-over-ex-inflection-staff-hires?sref=Szq5ylDR) (Bloomberg)
+  * [Record labels sue Verizon for not disconnecting pirates’ Internet service](https://arstechnica.com/tech-policy/2024/07/record-labels-sue-verizon-for-not-disconnecting-pirates-internet-service/) (ArsTechnica)
+  * [Microsoft’s new AI system ‘SpreadsheetLLM’ unlocks insights from spreadsheets, boosting enterprise productivity](https://venturebeat.com/ai/microsofts-new-ai-system-spreadsheetllm-unlocks-insights-from-spreadsheets-boosting-enterprise-productivity/) (VentureBeat)
+  * [Apple releases public betas for iOS 18, macOS, and more](https://www.theverge.com/2024/7/15/24198912/ios-18-public-beta-now-available-iphone-apple-intelligence-siri-software-update) (The Verge)
+
+
+
+**Monday, July 15 2024 - Mon. 07/15 – Google To Make Its Biggest Acquisition Ever?**
+
+  * [Google Near $23 Billion Deal for Cybersecurity Startup Wiz](https://www.wsj.com/business/deals/google-near-23-billion-deal-for-cybersecurity-startup-wiz-622edf1a?st=e3qv18l6e2p40rb&reflink=desktopwebshare_permalink) (WSJ)
+  * [Zero to Billions: The Startup on the Verge of the Biggest Tech Exit in Years](https://www.wsj.com/tech/how-startup-wiz-went-from-zero-to-a-possible-23-billion-sale-to-google-in-four-years-edb7c02b?st=b1zr4z5mkodia67&reflink=desktopwebshare_permalink) (WSJ)
+  * [AT&T says criminals stole phone records of ‘nearly all’ customers in new data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) (TechCrunch)
+  * [AT&T Paid a Hacker $370,000 to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/) (Wired)
+  * [HP's new OmniBook Ultra beats every single Copilot+ PC on the market in TOPS, and it runs on an AMD Ryzen AI 300 processor](https://www.windowscentral.com/hardware/laptops/hps-new-omnibook-ultra-beats-every-single-copilot-pc-on-the-market-in-tops-and-it-runs-on-an-amd-ryzen-ai-300-processor) (Windows Central)
+  * [Apple’s India Sales Surge 33% to Record in Shift From China](https://www.bloomberg.com/news/articles/2024-07-15/apple-sales-in-india-surge-33-to-8-billion-as-chinese-market-slows?sref=Szq5ylDR) (Bloomberg)
+  * [India clings to cheap feature phones as brands struggle to tap new smartphone buyers](https://techcrunch.com/2024/07/13/india-clings-to-cheap-feature-phones-as-brands-struggle-to-tap-new-smartphone-buyers/) (TechCrunch)
+
+
+**Thursday, July 11 2024 - Thu. 07/11 – Samsung’s Foldable Event**
+
+  * [Galaxy Z Fold 6 goes official with 7 years of updates, wider displays, starting at $1,899](https://9to5google.com/2024/07/10/samsung-galaxy-z-fold-6-price-specs-release-date/) (9to5Google)
+  * [Galaxy Z Flip 6 starts at $1,099 with battery, cover display, and camera upgrades](https://9to5google.com/2024/07/10/galaxy-z-flip-6-price-specs-release-date/) (9to5Google)
+  * [Apple Avoids EU Antitrust Threat With Tap-and-Pay Probe Settlement](https://www.bloomberg.com/news/articles/2024-07-11/apple-avoids-eu-antitrust-threat-with-tap-and-pay-probe-settlement?sref=Szq5ylDR) (Bloomberg)
+  * [Apple’s Vision Pro Won’t Cross 500,000 Sales This Year, IDC Says](https://www.bloomberg.com/news/articles/2024-07-11/apple-s-vision-pro-won-t-cross-500-000-sales-this-year-idc-says?sref=Szq5ylDR) (Bloomberg)
+  * [Has Artificial Intelligence Co-opted the Sparkle Emoji?](https://www.bloomberg.com/news/newsletters/2024-07-10/openai-google-adobe-and-more-have-embraced-the-sparkle-emoji-for-ai?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Wednesday, July 10 2024 - Wed. 07/10 – Why Everyone Is Fleeing OpenAI’s Board**
+
+  * [Microsoft and Apple drop OpenAI seats amid antitrust scrutiny](https://www.ft.com/content/ecfa69df-5d1c-4177-9b14-a3a73072db12) (FT)
+  * [Microsoft gives up observer seat on OpenAI board](https://www.axios.com/2024/07/10/microsoft-openai-board-seat-observer) (Axios)
+  * [Google Is No Longer Claiming to Be Carbon Neutral](https://www.bloomberg.com/news/articles/2024-07-08/google-is-no-longer-claiming-to-be-carbon-neutral?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon Says It Reached a Climate Goal Seven Years Early](https://www.nytimes.com/2024/07/10/business/energy-environment/amazon-clean-energy-climate-change.html) (NYTimes)
+  * [Microsoft is hiking the price of Xbox Game Pass Ultimate and launching a new ‘Standard’ tier](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription) (The Verge)
+  * [This $1.5 Billion AI Company Is Building A ‘General Purpose Brain’ For Robots](https://www.forbes.com/sites/rashishrivastava/2024/07/09/this-15-billion-ai-company-is-building-a-general-purpose-brain-for-robots/) (Forbes)
+  * [Andreessen Horowitz Is Building a Stash of More Than 20,000 GPUs to Win AI Deals](https://www.theinformation.com/articles/andreessen-horowitz-is-building-a-stash-of-more-than-20-000-gpus-to-win-ai-deals?rc=64g9cw) (The Information)
+
+
+
+**Tuesday, July 09 2024 - Tue. 07/09 – The New Nothing Phone Costs Practically Nothing**
+
+  * [Nothing’s CMF Devices Prove Yet Again Cheap Doesn't Have to Mean Boring](https://www.wired.com/story/cmf-phone-1-cmf-watch-pro-2-cmf-buds-pro-2/) (Wired)
+  * [Amazon announces new $79 Echo Spot alarm clock](https://www.cnbc.com/2024/07/08/amazon-new-echo-spot-alarm-clock-price-release-date.html) (CNBC)
+  * [OpenAI and Arianna Huffington are working together on an ‘AI health coach’ ](https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health)(The Verge)
+  * [Spotify is going to let you leave comments on podcast episodes](https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments) (The Verge)
+  * [Qualcomm, Microsoft Lean on AI Hype to Spur PC Market Revival](https://www.bloomberg.com/news/articles/2024-07-08/qualcomm-microsoft-lean-on-ai-hype-to-spur-pc-market-revival?sref=Szq5ylDR) (Bloomberg)
+  * [After 41 years Microsoft quietly adds spellchecking and autocorrect to Windows Notepad](https://www.tomshardware.com/software/after-41-years-microsoft-quietly-adds-spellchecking-and-autocorrect-to-windows-notepad) (Tom Hardware)
+  * [Japan declares victory in effort to end government use of floppy disks](https://www.reuters.com/world/asia-pacific/japan-declares-victory-effort-end-government-use-floppy-disks-2024-07-03/) (Reuters)
+
+
+
+**Monday, July 08 2024 - Mon. 07/08 – Thinner And Bigger Watches**
+
+  * [What’s Next for the Apple Watch: Bigger Screens But a Similar Look](https://www.bloomberg.com/news/newsletters/2024-07-07/apple-watch-series-10-ultra-3-details-bigger-screens-blood-pressure-challenge-lybjqp0q?sref=Szq5ylDR) (Bloomberg)
+  * [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/) (Reuters)
+  * [In a major update, Proton adds privacy-safe document collaboration to Drive, its freemium E2EE cloud storage service](https://techcrunch.com/2024/07/03/in-major-update-proton-adds-privacy-safe-document-collaboration-to-drive-its-freemium-e2ee-cloud-storage-service/) (TechCrunch)
+  * [AI industry needs to earn $600 billion per year to pay for massive hardware spend — fears of an AI bubble intensify in wake of Sequoia report](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-industry-needs-to-earn-dollar600-billion-per-year-to-pay-for-massive-hardware-spend-fears-of-an-ai-bubble-intensify-in-wake-of-sequoia-report) (Tom's Hardware)
+  * [noplace, a mashup of Twitter and Myspace for Gen Z, hits No. 1 on the App Store](https://techcrunch.com/2024/07/03/noplace-a-mashup-of-twitter-and-myspace-for-gen-z-hits-no-1-on-the-app-store/) (TechCrunch)
+
+
+
+**Wednesday, July 03 2024 - Wed. 07/03 – Walking Back AI Products**
+
+  * [Figma Disables AI App Design Tool After It Copied Apple’s Weather App](https://www.404media.co/figma-disables-ai-app-design-tool-after-it-copied-apples-weather-app/) (404 Media)
+  * [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy) (The Verge)
+  * [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact ](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement?sref=Szq5ylDR)(Bloomberg)
+  * [Meta drops ‘3D Gen’ bomb: AI-powered 3D asset creation at lightning speed](https://venturebeat.com/ai/meta-drops-3d-gen-bomb-ai-powered-3d-asset-creation-at-lightning-speed/) (VentureBeat)
+  * [Investors Pour $27.1 Billion Into A.I. Start-Ups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html?unlocked_article_code=1.4U0.WCUL.e85ATEy_MaJv&smid=url-share) (NYTimes)
+
+
+
+**Tuesday, July 02 2024 - Tue. 07/02 – Single Points Of Failure For Cyberattacks**
+
+  * [Fintech company Wise says some customers affected by Evolve Bank data breach](https://techcrunch.com/2024/07/01/fintech-company-wise-says-some-customers-affected-by-evolve-bank-data-breach/) (TechCrunch)
+  * [CDK Global Hack Shows Risk of One Software Vendor Dominating an Industry](https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d?st=l5gbcjsgkhkaz9g&reflink=desktopwebshare_permalink) (WSJ)
+  * [Supreme Court orders new look at social media laws in Texas and Florida](https://www.cbsnews.com/news/supreme-court-social-media-laws-florida-texas/) (CBSNews)
+  * [Exclusive: Nvidia set to face French antitrust charges, sources say](https://www.reuters.com/technology/french-antitrust-regulators-preparing-nvidia-charges-sources-say-2024-07-01/) (Reuters)
+  * [YouTube now lets you request removal of AI-generated content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/) (TechCrunch)
+  * [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection) (The Verge)
+
+
+
+**Monday, July 01 2024 - Mon. 07/01 – Now Brussels Sprouts For Meta**
+
+  * [Meta's pay or consent model in crosshairs for breaching EU tech rules](https://www.reuters.com/technology/meta-charged-with-failing-comply-with-eu-tech-rules-2024-07-01/) (Reuters)
+  * [Kuo: Apple to begin mass production of AirPods with cameras by 2026](https://9to5mac.com/2024/06/30/airpods-with-cameras-report-production/) (9to5Mac)
+  * [‘Boring’ Bitcoin Sends Weekend Trading Volume to All-Time Lows](https://www.bloomberg.com/news/articles/2024-06-29/-boring-bitcoin-sends-weekend-trading-volume-to-all-time-lows?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxOTcxNzU3NSwiZXhwIjoxNzIwMzIyMzc1LCJhcnRpY2xlSWQiOiJTRk9ZQjdUMEcxS1cwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.mtRj0JgTxI24aUP0t5kXMWC-IguD7bG59iLMHTz5alI&sref=Szq5ylDR) (Bloomberg)
+  * [Amazon’s Bargain Store Would Use Same Trade ‘Loophole’ as Temu, Shein](https://www.theinformation.com/articles/amazons-bargain-store-would-use-same-trade-loophole-as-temu-shein?rc=64g9cw) (The Information)
+  * [Chinese AI models storm Hugging Face's LLM chatbot benchmark leaderboard — Alibaba runs the board as major US competitors have worsened](https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-llms-storm-hugging-faces-chatbot-benchmark-leaderboard-alibaba-runs-the-board-as-major-us-competitors-have-worsened) (Tom's Hardware)
+  * [Surface Laptop review: Microsoft’s best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review) (The Verge)
+
+
+**Friday, June 28 2024 - Fri 06/28 – The Real King Of All Media Is… YouTube?**
+
+  * [Amazon Is Investigating Perplexity Over Claims of Scraping Abuse](https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/) (Wired)
+  * [OpenAI’s China Block to Reshape AI Scene as Big Players Pounce](https://www.bloomberg.com/news/articles/2024-06-26/openai-s-china-block-to-reshape-ai-scene-as-big-players-like-alibaba-pounce?sref=Szq5ylDR) (Bloomberg)
+  * [OpenAI Wants AI to Help Humans Train AI](https://www.wired.com/story/openai-rlhf-ai-training/) (Wired)
+  * [An AI version of Al Michaels will deliver Olympic recaps on Peacock](https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps) (The Verge)
+
+
+
+**Thursday, June 27 2024 - Thu. 06/27 – Add Consultants To The List Of Big Winners Of AI So Far**
+
+  * [Bitcoin Falls After U.S. Sends $240M Worth of Silk Road-Related BTC to Coinbase](https://www.coindesk.com/markets/2024/06/26/bitcoin-falls-after-us-sends-240m-worth-of-silk-road-related-btc-to-coinbase/) (Coindesk)
+  * [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages) (The Verge)
+  * [Amazon To Launch Temu-Like Discount Section With Direct Shipping From China](https://www.theinformation.com/articles/amazon-to-launch-temu-like-discount-section-with-direct-shipping-from-china?rc=64g9cw) (The Information)
+  * [Amazon Hits $2 Trillion in Value as AI Frenzy Fuels Rally](https://www.bloomberg.com/news/articles/2024-06-26/amazon-amzn-hits-2-trillion-market-value-as-ai-frenzy-fuels-rally?sref=Szq5ylDR) (Bloomberg)
+  * [Figma announces big redesign with AI](https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides) (The Verge)
+  * [Webtoon Entertainment to debut on Nasdaq as latest Korean cultural export success](https://www.ft.com/content/e362807c-701a-4bc2-9918-58d3bb940e05) (Financial Times)
+  * [The A.I. Boom Has an Unlikely Early Winner: Wonky Consultants](https://www.nytimes.com/2024/06/26/technology/ai-consultants.html) (NYTimes)
+
+
+
+**Wednesday, June 26 2024 - Wed. 06/26 – An eInk Phone That Might Be Worth Buying?**
+
+  * [OpenAI’s ChatGPT for Mac app is now available to everyone](https://9to5mac.com/2024/06/25/openais-chatgpt-for-mac-app-is-now-available-to-everyone/) (9to5Mac)
+  * [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529) (Search Engine Land)
+  * [Waymo ditches the waitlist and opens up its robotaxis to everyone in San Francisco](https://www.theverge.com/2024/6/25/24184814/waymo-waitlist-robotaxi-san-francisco-app-ride) (The Verge)
+  * [Tech Investor Sean Parker Leads Rescue of Struggling AI Startup](https://www.wsj.com/tech/ai/tech-investor-sean-parker-leads-rescue-of-struggling-ai-startup-0d2e2b3b?st=jfan79zfnwpi8h1) (WSJ)
+  * [‘No Bot is Themselves Anymore:’ Character.ai Users Report Sudden Personality Changes to Chatbots](https://www.404media.co/character-ai-chatbot-changes-filters-roleplay/) (404 Media)
+  * [The Boox Palma is an amazing gadget I didn’t even know I wanted](https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader) (The Verge)
+
+
+
+**Tuesday, June 25 2024 - Tue. 06/25 – AI Music Startups Get The Napster Treatment**
+
+  * [Major record labels sue AI company behind ‘BBL Drizzy’](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) (The Verge)
+  * [EU charges Microsoft with antitrust violations over Teams](https://www.ft.com/content/eb83bb45-84b3-4c58-9589-684029d23243) (FT)
+  * [Apple Spurned Idea of iPhone AI Partnership With Meta Months Ago](https://www.bloomberg.com/news/articles/2024-06-24/apple-spurned-idea-of-iphone-ai-partnership-with-meta-months-ago?sref=Szq5ylDR) (Bloomberg)
+  * [Uber Is Locking Out NYC Drivers Mid-Shift to Lower Minimum Pay](https://www.bloomberg.com/news/articles/2024-06-24/uber-is-locking-out-new-york-city-drivers-mid-shift-to-lower-minimum-pay?sref=Szq5ylDR) (Bloomberg)
+  * [Google Develops Challenger to Meta’s Chatbots and Character.AI](https://www.theinformation.com/articles/google-develops-challenger-to-metas-chatbots-and-character-ai?rc=64g9cw) (The Information)
+  * [Amazon is secretly working on a ChatGPT killer](https://www.businessinsider.com/amazon-chatgpt-rival-codenamed-metis-2024-6) (Business Insider)
+  * [Etched is building an AI chip that only runs one type of model](https://techcrunch.com/2024/06/25/etched-is-building-an-ai-chip-that-only-runs-transformer-models/?guccounter=1) (TechCrunch)
+  * [EvolutionaryScale lands $142 mln to advance AI in biology](https://www.reuters.com/technology/evolutionaryscale-lands-142-mln-advance-ai-biology-2024-06-25/) (Reuters)
+
+
+
+**Monday, June 24 2024 - Mon. 06/24 – Apple The First To Run Afoul Of The DMA**
+
+  * [Brussels accuses Apple of breaking EU ‘gatekeeper’ rules](https://www.ft.com/content/898338c2-b9fd-4494-be3f-75b7c669c705) (FT)
+  * [Apple is first company charged with violating EU’s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling) (The Verge)
+  * [Apple Won’t Roll Out AI Tech In EU Market Over Regulatory Concerns](https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns?sref=Szq5ylDR) (Bloomberg)
+  * [Apple, Meta Have Discussed an AI Partnership](https://www.wsj.com/tech/ai/apple-meta-have-discussed-an-ai-partnership-cc57437e?st=tddq3k6copeubhe&reflink=desktopwebshare_permalink) (WSJ)
+  * [Delivery Drivers Got Higher Wages. Now They’re Getting Fewer Orders.](https://www.wsj.com/business/hospitality/delivery-drivers-got-higher-wages-now-theyre-getting-fewer-orders-d2e416c0?st=zp353cyeu6io50w&reflink=desktopwebshare_permalink) (WSJ)
+  * [AI Doesn’t Kill Jobs? Tell That to Freelancers](https://www.wsj.com/tech/ai/ai-replace-freelance-jobs-51807bc7?st=975axoj0iy7ga6n&reflink=desktopwebshare_permalink) (WSJ)
+  * [‘Little Tech’ brings a big flex to Sacramento](https://www.politico.com/newsletters/california-playbook/2024/06/21/little-tech-brings-a-big-flex-to-sacramento-00164369) (Politico)
+
+
+
+**Friday, June 21 2024 - Fri. 06/21 – Kaspersky Banned By The US Government**
+
+  * [US bans sale of Kaspersky software citing security risk from Russia](https://techcrunch.com/2024/06/20/us-bans-kaspersky-software-security-risk-russia/) (TechCrunch)
+  * [Anthropic claims its latest model is best-in-class](https://techcrunch.com/2024/06/20/anthropic-claims-its-latest-model-is-best-in-class/) (TechCrunch)
+  * [Anthropic’s Claude 3.5 Sonnet wows AI power users: ‘this is wild’](https://venturebeat.com/ai/anthropics-claude-3-5-sonnet-wows-ai-power-users-this-is-wild/) (VentureBeat)
+  * [New iOS 18 API brings AirPods setup experience to third-party accessories](https://9to5mac.com/2024/06/20/ios-18-api-setup-accessories/) (9to5Mac)
+  * [SpaceX unveils backpack-sized ‘Starlink Mini’ satellite internet antenna for $599](https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html) (CNBC)
+
+
+
+**Thursday, June 20 2024 - Ilya Sutskever’s New AI Startup**
+
+  * [Ilya Sutskever Has a New Plan for Safe Superintelligence](https://www.bloomberg.com/news/articles/2024-06-19/openai-co-founder-plans-new-ai-focused-research-lab?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxODgxNjU5NywiZXhwIjoxNzE5NDIxMzk3LCJhcnRpY2xlSWQiOiJTRkM3ODJUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI5MTM4NzMzNDcyQkY0QjlGQTg0OTI3QTVBRjY1QzBCRiJ9.9s8N3QuUytwRVZ6dzDwZ6tPOGDsV8u05fpTrUdlHcXg&sref=Szq5ylDR) (Bloomberg)
+  * [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/) (Wired)
+  * [For Apple’s AI Push, China Is a Missing Piece](https://www.wsj.com/tech/ai/for-apples-ai-push-china-is-a-missing-piece-7d2b0ec6?st=vlewtrmejtak0pk&reflink=desktopwebshare_permalink) (WSJ)
+  * [Xreal’s new gadget is a phone-sized Android tablet just for your AR glasses](https://www.theverge.com/2024/6/18/24180298/xreal-beam-pro-ar-glasses-usb-c-launch) (The Verge)
+  * [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/) (TechCrunch)
+
+
+
+**Wednesday, June 19 2024 - Wed. 06/18 – Apple Pumping The Breaks On The Vision Pro?**
+
+  * [Apple Suspends Work on Next Vision Pro, Focused on Releasing Cheaper Model in Late 2025](https://www.theinformation.com/articles/apple-suspends-work-on-next-high-end-headset-focused-on-releasing-cheaper-model-in-late-2025?rc=64g9cw) (The Information)
+  * [Former Snap engineer launches Butterflies, a social network where AIs and humans coexist](https://techcrunch.com/2024/06/18/former-snap-engineer-launches-butterflies-a-social-network-where-ais-and-humans-coexist/) (TechCrunch)
+  * [The Framework Laptop 13 is about to become one of the world’s first RISC-V laptops](https://www.theverge.com/2024/6/18/24181278/framework-laptop-risc-v-laptop-isa-arm-amd-intel-x86) (The Verge)
+  * [Here are all of the Copilot+ PCs with Snapdragon X chips that were released today](https://www.engadget.com/here-are-all-of-the-copilot-pcs-with-snapdragon-x-chips-that-were-released-today-104404765.html) (Engadget)
+  * [ASUS VivoBook S 15 Copilot+ PC Review: Is the Snapdragon X Elite hype real?](https://www.windowscentral.com/hardware/laptops/asus-vivobook-s-15-copilot-pc-review) (Windows Central)
+
+
+
+**Tuesday, June 18 2024 - Tue. 06/18 – Adobe’s Time In The Woodshed**
+
+  * [US sues Adobe for ‘deceiving’ subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel) (The Verge)
+  * [Apple to settle ‘tap-and-go’ payments probe with EU](https://www.ft.com/content/fb939c62-4e24-4ffa-8125-b60120c4776e) (FT)
+  * [Apple discontinuing Apple Pay Later, ahead of new features launching this fall](https://9to5mac.com/2024/06/17/apple-pay-later-united-states-ending/) (9to5Mac)
+  * [Threads finally launches its API for developers](https://techcrunch.com/2024/06/18/threads-finally-launches-its-api-for-developers/) (TechCrunch)
+  * [Tether Announces a New Synthetic Dollar That Is Backed by Gold](https://www.bloomberg.com/news/articles/2024-06-17/tether-announces-a-new-synthetic-dollar-that-is-backed-by-gold?sref=Szq5ylDR) (Bloomberg)
+  * [A Robotaxi Business Is A Dream For Elon Musk–But Already A Reality For Waymo](https://www.forbes.com/sites/alanohnsman/2024/06/17/a-robotaxi-business-is-a-dream-for-elon-muskbut-already-a-reality-for-waymo/) (Forbes)
+  * [Can You Replace Google Search With Reddit? I Tried It for a Week](https://www.wsj.com/tech/personal-tech/can-you-replace-google-search-with-reddit-i-tried-it-for-a-week-ea1f36c5?st=dnyht7vzp8jzvng&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
+**Monday, June 17 2024 - Mon. 06/17 – Thinner And Lighter It Is**
+
+  * [Apple’s Slow Rollout of Intelligence Features Will Stretch Into 2025](https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w?sref=Szq5ylDR) (Bloomberg)
+  * [Kuo: Apple Watch Series 10 to Get Larger Screen and Thinner Design](https://www.macrumors.com/2024/06/17/kuo-apple-watch-series-10-larger-screen-thinner/) (MacRumors)
+  * [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/) (TechCrunch)
+  * [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test) (Restaurant Business Online)
+  * [AI took their jobs. Now they get paid to make it sound human](https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human) (BBC)
+  * [AI in finance is like ‘moving from typewriters to word processors’](https://www.ft.com/content/c35ce925-d7b3-4920-a431-c4ca1aa33503) (Financial Times)
+
+
+
+**Friday, June 14 2024 - Fri. 06/14 – Now Microsoft Delays Recall**
+
+  * [Microsoft’s all-knowing Recall AI feature is being delayed](https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay) (The Verge)
+  * [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works) (The Verge)
+  * [Luma AI debuts ‘Dream Machine’ for realistic video generation, heating up AI media race](https://venturebeat.com/ai/luma-ai-debuts-dream-machine-for-realistic-video-generation-heating-up-ai-media-race/) (VentureBeat)
+  * [As streaming becomes more expensive, Tubi cashes in on the value of free](https://www.latimes.com/entertainment-arts/business/story/2024-06-13/amid-streaming-inflation-tubi-cashes-in-on-the-value-of-free-fox) (Los Angeles Times)
+
+
+
+**Thursday, June 13 2024 - Thu. 06/13 – The Excel World Championships**
+
+  * [Apple to ‘Pay’ OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash?sref=Szq5ylDR) (Bloomberg)
+  * [OpenAI’s Annualized Revenue Doubles to $3.4 Billion Since Late 2023](https://www.theinformation.com/articles/openais-annualized-revenue-doubles-to-3-4-billion-since-late-2023?rc=64g9cw) (The Information)
+  * [Perplexity was planning revenue-sharing deals with publishers when it came under media fire](https://www.semafor.com/article/06/12/2024/perplexity-was-planning-revenue-sharing-deals-with-publishers) (Semafor)
+  * [You’ll soon be able to join Discord calls directly from your PS5](https://www.theverge.com/2024/6/13/24177548/discord-ps5-integration-calls-from-console) (The Verge)
+  * [Nintendo Switch Update 18.1.0 Pulls X/Twitter Support, Bringing It In-Line With PlayStation and Xbox](https://www.ign.com/articles/nintendo-switch-update-1810-pulls-xtwitter-support-bringing-it-in-line-with-playstation-and-xbox) (IGN)
+  * [Samsung’s Galaxy Watch FE is its new entry-level smartwatch](https://www.theverge.com/2024/6/13/24176939/samsung-galaxy-watch-fe-price-specs) (The Verge)
+  * [Spreadsheet Superstars](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship) (The Verge)
+
+
+
+**Wednesday, June 12 2024 - Wed. 06/12 – Elon Pulls His OpenAI Lawsuit**
+
+  * [Elon Musk drops suit against OpenAI and Sam Altman](https://www.cnbc.com/2024/06/11/elon-musk-drops-suit-against-openai-and-sam-altman.html) (CNBC)
+  * [X is officially making likes (mostly) private for everyone](https://www.engadget.com/x-is-officially-making-likes-mostly-private-for-everyone-035837613.html) (Engadget)
+  * [Apple quietly improves Mac virtualization in macOS 15 Sequoia](https://arstechnica.com/gadgets/2024/06/apple-quietly-improves-mac-virtualization-in-macos-15-sequoia/) (ArsTechnica)
+  * [Microsoft is killing off GPT Builder in Copilot Pro for consumers, just three months after broad availability ](https://www.xda-developers.com/microsoft-killing-gpt-builder-copilot-pro-consumers-availability/)(XDA Developers)
+  * [OpenAI ex-employees worry about company’s control over their millions of dollars in shares](https://www.cnbc.com/2024/06/11/openai-insider-stock-sales-are-raising-concern-among-ex-employees-.html) (CNBC)
+  * [Photo-sharing app BeReal acquired by Voodoo for €500mn](https://www.ft.com/content/2c1d3fa8-e3a8-48e3-b252-9b4059876412) (FT)
+  * [First Came ‘Spam.’ Now, With A.I., We’ve Got ‘Slop’](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html?unlocked_article_code=1.zE0.r6qY.VuSWO62oB07C&smid=url-share) (NYTimes)
+  * [Raleigh smart walkie-talkie startup Relay raises $35M from investors](https://www.axios.com/local/raleigh/2024/06/10/raleigh-smart-walkie-talkie-startup-relay-raises-35m-from-investors) (Axios)
+
+
+
+**Tuesday, June 11 2024 - Tue. 06/11 – Did Apple Nail AI, Or Just Do AI In An Apple Way?**
+
+  * [Apple’s AI promise: “Your data is never stored or made accessible to Apple”](https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/) (ArsTechnica)
+  * [How will Apple’s new AI change your phone? I asked Tim Cook.](https://www.washingtonpost.com/opinions/2024/06/11/tim-cook-apple-interview/) (Washington Post)
+  * [Thoughts on #WWDC24](https://citizenagency.craft.me/wwdc24) (Chris Messina)
+  * [Apple’s Push to Infuse Devices With AI Will Take Years to Pay Off](https://www.bloomberg.com/news/newsletters/2024-06-11/will-apple-intelligence-features-boost-iphone-sales-it-may-take-years?sref=Szq5ylDR) (Bloomberg)
+  * [Spotify to Introduce More Expensive Subscription Tier for Music Lovers](https://www.bloomberg.com/news/articles/2024-06-11/spotify-to-introduce-more-expensive-subscription-tier-for-music-lovers?sref=Szq5ylDR) (Bloomberg)
+  * [Mistral secures €600mn funding as valuation soars to almost €6bn](https://www.ft.com/content/7a70a8a6-4a2a-47c5-8483-d0b829f32ae6) (Financial Times)
+  * [Raspberry Pi shares jump more than a third on first day of trading](https://www.ft.com/content/6419f805-01e8-4900-9da7-7e4fc8504a81) (Financial Times)
+  * [The Smart, Cheap Fix for Slow, Dumb Traffic Lights](https://www.wsj.com/tech/personal-tech/google-green-light-traffic-light-optimization-992e4252?st=eixmtwxmuylup7x&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
+**Monday, June 10 2024 - Mon. 06/10 – The WWDC 2024 Keynote**
+
+  * [**Miro.com**](https://www.miro.com/)
+  * [**Shopify.com/ride**](https://www.shopify.com/ride)
+
+
+
+
+**Friday, June 07 2024 - Fri. 06/07 – It’s Backlash Day**
+
+  * [Here’s Everything Apple Plans to Show at Its AI-Focused WWDC Event](https://www.bloomberg.com/news/articles/2024-06-07/apple-wwdc-2024-what-to-expect-ai-ipados-18-macos-15-siri-updates-more?sref=Szq5ylDR) (Bloomberg)
+  * [Apple to Debut Passwords App in Challenge to 1Password, LastPass](https://www.bloomberg.com/news/articles/2024-06-06/apple-to-debut-passwords-app-in-challenge-to-1password-lastpass?sref=Szq5ylDR) (Bloomberg)
+  * [Adobe responds to vocal uproar over new Terms of Service language](https://venturebeat.com/ai/adobe-responds-to-vocal-uproar-over-new-terms-of-service-language/) (VentureBeat)
+  * [Adobe terms clarified: Will never own your work, or use it for AI training](https://9to5mac.com/2024/06/07/adobe-terms-clarified/) (9to5Mac)
+  * [A PR disaster: Microsoft has lost trust with its users, and Windows Recall is the straw that broke the camel's back](https://www.windowscentral.com/software-apps/windows-11/microsoft-has-lost-trust-with-its-users-windows-recall-is-the-last-straw) (WindowsCentral)
+  * [A social app for creatives, Cara grew from 40k to 650k users in a week because artists are fed up with Meta’s AI policies](https://techcrunch.com/2024/06/06/a-social-app-for-creatives-cara-grew-from-40k-to-650k-users-in-a-week-because-artists-are-fed-up-with-metas-ai-policies/) (TechCrunch)
+
+
+
+**Thursday, June 06 2024 - Thu. 06/06 – Regulators Stirring On AI**
+
+  * [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html?unlocked_article_code=1.xk0.Ynfh.VR9THK54Llzm&smid=url-share) (NYTimes)
+  * [FTC Opens Antitrust Probe of Microsoft AI Deal](https://www.wsj.com/tech/ai/ftc-opens-antitrust-probe-of-microsoft-ai-deal-29b5169a?st=1s8cbt84lkt6pf9&reflink=desktopwebshare_permalink) (WSJ)
+  * [US antitrust enforcer says ‘urgent’ scrutiny needed over Big Tech’s control of AI](https://www.ft.com/content/97b45759-36e0-4f5b-9c6a-ae0580f9a29b) (Financial Times)
+  * [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning) (The Verge)
+  * [‘This Is Going to Be Painful’: How a Bold A.I. Device Flopped](https://www.nytimes.com/2024/06/06/technology/humane-ai-pin.html) (NYTimes)
+  * [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline) (The Verge)
+  * [Stability AI releases a sound generator](https://techcrunch.com/2024/06/05/stability-ai-releases-a-sound-generator/) (TechCrunch)
+  * [Ikea Is Hiring Roblox Players To Run Its Virtual Store](https://www.thegamer.com/ikea-hiring-roblox-players-run-virtual-in-game-store/) (The Gamer)
+
+
+
+**Wednesday, June 05 2024 - Wed. 06/05 – An Open Letter To OpenAI**
+
+  * [OpenAI Insiders Warn of a ‘Reckless’ Race for Dominance](https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html?u2g=i&unlocked_article_code=1.xE0.qXLu.0XwdynmvKcft&smid=url-share) (NYTimes)
+  * [Apple Made Once-Unlikely Deal With Sam Altman to Catch Up in AI](https://www.bloomberg.com/news/articles/2024-06-05/why-is-apple-aapl-teaming-up-with-openai-both-companies-need-each-other?sref=Szq5ylDR) (Bloomberg)
+  * [Twitch is raising US subscription prices for the first time](https://www.engadget.com/twitch-is-raising-us-subscription-prices-for-the-first-time-193204538.html) (Engadget)
+  * [Quest v66 Update "Significantly" Reduces Quest 3 Passthrough Distortion & Warping](https://www.uploadvr.com/quest-v66-update-significantly-reduces-passthrough-distortion/) (UploadVR)
+  * [How an upstart is using its Nvidia ties to challenge cloud computing giants](https://www.ft.com/content/f4085e30-da81-40f0-8217-507268743f71) (Financial Times)
+
+
+
+**Tuesday, June 04 2024 - Tue. 06/04 – Wait. Why More Layoffs?**
+
+  * [Intel CEO Takes Aim at Nvidia in Fight for AI Chip Dominance](https://www.bloomberg.com/news/articles/2024-06-04/intel-ceo-fires-back-at-nvidia-in-battle-for-ai-chip-leadership?sref=Szq5ylDR) (Bloomberg)
+  * [E*Trade Considers Kicking Meme-Stock Leader Keith Gill Off Platform](https://www.wsj.com/finance/regulation/e-trade-considers-kicking-meme-stock-leader-keith-gill-off-platform-f2003ec4?st=evc7mrhoiqh8i6y&reflink=desktopwebshare_permalink) (WSJ)
+  * [Microsoft is laying off hundreds in its Azure cloud business, sources say](https://www.businessinsider.com/microsoft-cuts-azure-jobs-cloud-2024-6) (BusinessInsider)
+  * [Microsoft cuts jobs in Azure, HoloLens, and other units in latest move to control costs](https://www.geekwire.com/2024/microsoft-cuts-jobs-in-azure-hololens-and-other-units-in-latest-move-to-control-costs/) (GeekWire)
+  * [Instagram confirms test of ‘unskippable’ ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/) (TechCrunch)
+  * [Samsung sues Oura preemptively to block smart ring patent claims](https://www.theverge.com/2024/6/3/24170479/samsung-galaxy-ring-oura-lawsuit-smart-ring-patents) (The Verge)
+  * [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date) (The Verge)
+
+
+
+**Monday, June 03 2024 - Mon. 06/03 – An AI To Game With**
+
+  * [Nvidia’s G-Assist is an AI chatbot that guides you through games and optimizes your PC](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot) (The Verge)
+  * [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans) (The Verge)
+  * [Perplexity will research and write reports](https://www.theverge.com/2024/5/30/24167986/perplexity-ai-research-pages-school-report) (The Verge)
+  * [X tweaks rules to formally allow adult content](https://techcrunch.com/2024/06/03/x-tweaks-rules-to-formally-allow-adult-content/) (TechCrunch)
+  * [The Opaque Investment Empire Making OpenAI’s Sam Altman Rich](https://www.wsj.com/tech/ai/openai-sam-altman-investments-004fc785?st=nxsp082grdda4b2&reflink=desktopwebshare_permalink) (WSJ)
+
+
+**Friday, May 31 2024 - Fri. 05/31 – Why Not Just Kill Siri?**
+
+  * [OpenAI has a has a new version of ChatGPT just for universities](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html) (Engadget)
+  * [OpenAI Is Rebooting Its Robotics Team](https://www.forbes.com/sites/kenrickcai/2024/05/30/openai-robotics-team/?sh=3451337f4f33) (Forbes)
+  * [OpenAI finds Russian and Chinese groups used its tech for propaganda campaigns](https://www.washingtonpost.com/technology/2024/05/30/openai-disinfo-influence-operations-china-russia/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE3MDQxNjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE4NDIzOTk5LCJpYXQiOjE3MTcwNDE2MDAsImp0aSI6IjZmZmEwZWIxLWJiZDItNDBmMi05ZTQ1LWZjYTI3N2U5ODE0MyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDUvMzAvb3BlbmFpLWRpc2luZm8taW5mbHVlbmNlLW9wZXJhdGlvbnMtY2hpbmEtcnVzc2lhLyJ9.lZy8-t9Wf1mDTHueMt7j0kCTV8XAifSEbK8hmsBd3bk) (Washington Post)
+  * [Apple Plans AI-Based Siri Overhaul to Control Individual App Functions](https://www.bloomberg.com/news/articles/2024-05-30/apple-ios-18-siri-ai-update-will-let-users-control-features-in-apps-with-voice?sref=Szq5ylDR) (Bloomberg)
+  * [Exclusive: TikTok preparing a US copy of the app’s core algorithm, sources say](https://www.reuters.com/technology/tiktok-preparing-us-copy-apps-core-algorithm-sources-say-2024-05-30/) (Reuters)
+  * [Spotify offers Car Thing refunds as it faces lawsuit over bricking the streaming device](https://techcrunch.com/2024/05/30/spotify-begins-offering-car-thing-refunds-as-it-faces-lawsuit-over-bricking-the-streaming-device/) (TechCrunch)
+
+
+
+**Thursday, May 30 2024 - Thu. 05/30 – Biggest Botnet Ever?**
+
+  * [US dismantles 911 S5 botnet used for cyberattacks, arrests admin](https://www.bleepingcomputer.com/news/security/us-dismantles-911-s5-residential-proxy-botnet-used-for-cyberattacks-arrests-admin/) (BleepingComputer)
+  * [Exclusive: The Atlantic, Vox Media ink licensing, product deals with OpenAI](https://www.axios.com/2024/05/29/atlantic-vox-media-openai-licensing-deal) (Axios)
+  * [OpenAI CEO Cements Control as He Secures Apple Deal](https://www.theinformation.com/articles/openai-ceo-cements-control-as-he-secures-apple-deal?rc=64g9cw) (The Information)
+  * [Internal divisions linger at OpenAI after November’s attempted coup](https://www.ft.com/content/ccbdff7c-ede3-4d62-968d-189fb0205075) (Financial Times)
+  * [Amazon to Expand US Drone Service After Getting Regulator’s Nod](https://www.bloomberg.com/news/articles/2024-05-30/amazon-to-expand-us-drone-service-after-getting-regulator-s-nod?sref=Szq5ylDR) (Bloomberg)
+  * [Apple Signals That It’s Working on TV+ App for Android Phones](https://www.bloomberg.com/news/articles/2024-05-29/apple-signals-that-it-s-working-on-tv-app-for-android-phones?sref=Szq5ylDR) (Bloomberg)
+  * [Google announces Fitbit Ace LTE for kids with Wear OS, Pixel Watch 2 specs](https://9to5google.com/2024/05/29/google-fitbit-ace-lte-announcement/) (9to5Google)
+  * [The Spacetop G1 Arrives This Fall. We Try the AR Laptop With No Screen](https://www.wired.com/story/sightful-spacetop-g1-augmented-reality-laptop/) (Wired)
+
+
+
+**Wednesday, May 29 2024 - Wed. 05/29 – Did The Secret Sauce Of Google Search Just Leak?**
+
+  * [An Anonymous Source Shared Thousands of Leaked Google Search API Documents with Me; Everyone in SEO Should See Them](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/) (SparkToro.com)
+  * [Ex-OpenAI Director Says Board Learned of ChatGPT Launch on Twitter](https://www.bloomberg.com/news/articles/2024-05-28/ex-openai-director-says-board-learned-of-chatgpt-launch-on-twitter?sref=Szq5ylDR) (Bloomberg)
+  * [Anthropic hires former OpenAI safety lead to head up new team](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/) (TechCrunch)
+  * [YouTube’s free games catalog ‘Playables’ rolls out to all users](https://techcrunch.com/2024/05/28/youtubes-free-games-catalog-playables-rolls-out-to-all-users/) (TechCrunch)
+  * [How the U.S. ignored a chance to make TikTok safer](https://www.washingtonpost.com/technology/2024/05/29/tiktok-cfius-proposal-rejected/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE2OTU1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE4MzM3NTk5LCJpYXQiOjE3MTY5NTUyMDAsImp0aSI6ImUwZTU4ZDU2LWI1ZjYtNGZkOS04NGI0LTRkMGRkZjBhMzBhNiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDUvMjkvdGlrdG9rLWNmaXVzLXByb3Bvc2FsLXJlamVjdGVkLyJ9.DgdWa2wf7yaiVFuybiYvMOw8ajrXfWXkSg-vejF8S8Y) (Washington Post)
+  * [Food delivery apps rack up $20bn in losses in fierce battle for diners](https://www.ft.com/content/675f5c8b-6029-4393-8eba-d6f00327e090) (Financial Times)
+
+
+
+**Tuesday, May 28 2024 - Tue. 05/28 – GPT5 Still A Year Out?**
+
+  * [OpenAI Says It Has Begun Training a New Flagship A.I. Model](https://www.nytimes.com/2024/05/28/technology/openai-gpt4-new-model.html) (NYTimes)
+  * [Elon Musk’s xAI raises $6 billion to fund its race against ChatGPT and all the rest](https://www.theverge.com/2024/5/27/24165619/elon-musk-xai-startup-6-billion-funding) (The Verge)
+  * [Apple Bets That Its Giant User Base Will Help It Win in AI](https://www.bloomberg.com/news/newsletters/2024-05-26/apple-ios-18-macos-15-ai-features-project-greymatter-privacy-openai-deal-lwni63s3?sref=Szq5ylDR) (Bloomberg)
+  * [Google adds AI-powered features to Chromebook](https://techcrunch.com/2024/05/28/google-adds-ai-powered-features-to-chromebook/) (TechCrunch)
+  * [The future of financial analysis: How GPT-4 is disrupting the industry, according to new research](https://venturebeat.com/ai/the-future-of-financial-analysis-how-gpt-4-is-disrupting-the-industry-according-to-new-research/) (VentureBeat)
+  * [AI Is Driving ‘the Next Industrial Revolution.’ Wall Street Is Cashing In.](https://www.wsj.com/finance/stocks/ai-is-driving-the-next-industrial-revolution-wall-street-is-cashing-in-8cc1b28f?st=exh7wuk9josoadj&reflink=desktopwebshare_permalink) (WSJ)
+  * [What Happened to Our Ad-Free TV?](https://www.nytimes.com/2024/05/26/business/media/ads-tv-streaming.html?unlocked_article_code=1.u00.-NgX._JWeWd_10adI&smid=url-share) (NYTimes)
+
+
+
+**Friday, May 24 2024 - Fri. 05/24 – Now ETH Gets An ETF**
+
+  * [US SEC approves exchange applications to list spot ether ETFs](https://www.reuters.com/technology/us-sec-approves-exchange-applications-list-spot-ether-etfs-2024-05-23/) (Reuters)
+  * [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024) (The Verge)
+  * [Google's AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5) (Business Insider)
+  * [Save $200+ on your upgrade to The Information Pro](https://www.theinformation.com/articles/meta-is-working-on-a-paid-version-of-its-ai-assistant?rc=64g9cw) (The Information)
+  * [The Daylight DC1 is a $729 attempt to build a calmer computer](https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper) (The Verge)
+
+
+
+**Thursday, May 23 2024 - Thu. 05/23 – Nvidia: Still Killing It**
+
+  * [Nvidia shares pass $1,000 for first time on AI-driven sales surge](https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html) (CNBC)
+  * [Nvidia’s Business Is Booming. Here’s What Could Slow It Down.](https://www.wsj.com/tech/ai/nvidias-business-is-booming-heres-what-could-slow-it-down-fd5ffa14?st=mgh7tc8mdth9tl7&reflink=desktopwebshare_permalink) (WSJ)
+  * [OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show](https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE2MzUwNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE3NzMyNzk5LCJpYXQiOjE3MTYzNTA0MDAsImp0aSI6ImU2NWY2NTJmLTA2YzktNGFiOS05ZjUwLTNkZTBmZTYzZThjNSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDUvMjIvb3BlbmFpLXNjYXJsZXR0LWpvaGFuc3Nvbi1jaGF0Z3B0LWFpLXZvaWNlLyJ9.f-ocMS2qhjTBNAcnpWT0wbIwizUXdK4TlTLd7_2vL_E) (Washington Post)
+  * [OpenAI, WSJ Owner News Corp Strike Content Deal Valued at Over $250 Million](https://www.wsj.com/business/media/openai-news-corp-strike-deal-23f186ba?st=4hpdl1olm5kmdil&reflink=desktopwebshare_permalink) (WSJ)
+  * [Crypto Lobby Wins: House Passes FIT21 as Democrats Deride Historic Regulatory Framework](https://decrypt.co/231930/crypto-lobby-wins-house-passes-fit21) (Decrypt)
+  * [Elon Musk Wants to Make X's Likes Private to Hide Your Favorite 'Edgy' Content](https://gizmodo.com/elon-musk-twitter-x-likes-private-enjoy-edgy-content-1851493872) (Gizmodo)
+  * [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant) (The Verge)
+
+
+
+**Wednesday, May 22 2024 - Wed. 05/22 – Humane Already To The Deadpool?**
+
+  * [Microsoft’s new Copilot AI agents act like virtual employees to automate tasks](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents) (The Verge)
+  * [Microsoft is bringing ‘Windows Volumetric Apps’ to Meta Quest headsets](https://www.theverge.com/2024/5/21/24161817/microsoft-windows-volumetric-apps-meta-quest-api) (The Verge)
+  * [Wearable AI Startup Humane Explores Potential Sale, Sources Say](https://www.bloomberg.com/news/articles/2024-05-22/wearable-ai-startup-humane-is-said-to-explore-potential-sale?sref=Szq5ylDR) (Bloomberg)
+  * [Google Search’s New AI Overviews Will Soon Have Ads](https://www.wired.com/story/google-search-ai-overviews-ads/) (Wired)
+  * [Amazon plans to give Alexa an AI overhaul — and a monthly subscription price](https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html) (CNBC)
+  * [AI Is a Black Box. Anthropic Figured Out a Way to Look Inside](https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/) (Wired)
+
+
+
+**Tuesday, May 21 2024 - Tue. 05/21 – Now You’ve Pissed Off Scar-Jo**
+
+  * [The new, faster Surface Pro is Microsoft’s all-purpose AI PC](https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai) (The Verge)
+  * [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite) (The Verge)
+  * [Microsoft unveils Copilot+ PCs with generative AI capabilities baked in](https://www.engadget.com/microsoft-unveils-copilot-pcs-with-generative-ai-capabilities-baked-in-170445370.html) (Engadget)
+  * [Recall is Microsoft’s key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event) (The Verge)
+  * [Scarlett Johansson says she was 'shocked, angered' when she heard OpenAI's voice that sounded like her ](https://www.nbcnews.com/tech/tech-news/scarlett-johansson-shocked-angered-openai-voice-rcna153180)(NBCNews)
+  * [Midler v. Ford Motor Co.](https://en.wikipedia.org/wiki/Midler_v._Ford_Motor_Co.) (Wikipedia)
+
+
+
+**Monday, May 20 2024 - Mon. 05/20 – That GPT Voice Is NOT Scar-Jo**
+
+  * [OpenAI to Pull Johansson Soundalike Sky’s Voice From ChatGPT](https://www.bloomberg.com/news/articles/2024-05-20/openai-to-pull-johansson-soundalike-sky-s-voice-from-chatgpt?sref=Szq5ylDR) (Bloomberg)
+  * [What We Lose When ChatGPT Sounds Like Scarlett Johansson](https://www.nytimes.com/2024/05/20/movies/chatgpt-4o-scarlett-johansson-her.html) (NYTimes)
+  * [Apple Needs to Evolve to Compete in the Artificial Intelligence Era](https://www.bloomberg.com/news/newsletters/2024-05-19/what-is-apple-doing-in-ai-summaries-cloud-and-on-device-llms-openai-deal-lwdj5pkz?sref=Szq5ylDR) (Bloomberg)
+  * [OpenAI’s Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/) (Wired)
+  * [As clicks dry up for news sites, could Apple’s news app be a lifeline?](https://www.semafor.com/article/05/19/2024/as-clicks-dry-up-for-news-sites-could-apples-news-app-be-a-lifeline) (Semafor)
+  * [Countries wooing corporate digital nomads hope to make them stay](https://www.ft.com/content/6fa06cf8-1724-4b0d-a3c2-59dcbafbdebd) (FT)
+
+
+
+**Friday, May 17 2024 - Fri. 05/17 – Reddit Embraces Its AI Role**
+
+  * [OpenAI strikes deal to bring Reddit content to ChatGPT](https://www.reuters.com/markets/deals/openai-strikes-deal-bring-reddit-content-chatgpt-2024-05-16/) (Reuters)
+  * [OpenAI strikes Reddit deal to train its AI on your posts](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising) (The Verge)
+  * [Grand Theft Auto VI is launching in fall 2025](https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025) (The Verge)
+  * [iPhone 16 Pro Max to get new battery that could last longer](https://appleinsider.com/articles/24/05/17/iphone-16-pro-max-to-get-new-battery-that-could-last-longer) (AppleInsider)
+  * [ChatGPT now lets you import files directly from Google Drive, Microsoft OneDrive](https://venturebeat.com/ai/chatgpt-now-lets-you-import-files-directly-from-google-drive-microsoft-onedrive/) (VentureBeat)
+  * [Twitter is officially X.com now](https://www.theverge.com/2024/5/17/23829098/twitter-x-com-url-links-switch) (The Verge)
+
+
+
+**Thursday, May 16 2024 - Thu. 05/16 – Instagram Founder To Anthropic**
+
+  * [EU launches probe into Meta over social media addiction in children](https://www.ft.com/content/3978c96a-21b4-469f-bca9-1b1055bb3a6f) (Financial Times)
+  * [Instagram’s co-founder is Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai) (The Verge)
+  * [Android will be able to detect if your phone has been snatched](https://www.theverge.com/2024/5/15/24157068/android-15-ai-theft-detection-lock-privacy-security) (The Verge)
+  * [Microsoft’s AI Push Imperils Climate Goal as Carbon Emissions Jump 30%](https://www.bloomberg.com/news/articles/2024-05-15/microsoft-s-ai-investment-imperils-climate-goal-as-emissions-jump-30?sref=Szq5ylDR) (Bloomberg)
+  * [Microsoft Asks Hundreds of China-Based AI Staff to Consider Relocating Amid U.S.-China Tensions](https://www.wsj.com/tech/ai/microsoft-asks-hundreds-of-china-based-ai-staff-to-relocate-amid-u-s-china-tensions-b626ff8c?st=5hewt0npk1e448n&reflink=desktopwebshare_permalink) (WSJ)
+  * [Stability AI, Facing Cash Crunch, Discusses Sale](https://www.theinformation.com/articles/stability-ai-facing-cash-crunch-discusses-sale?rc=64g9cw) (The Information)
+  * [Netflix ad-supported tier has 40 million monthly users, nearly double previous count ](https://www.cnbc.com/2024/05/15/netflix-ad-tier-has-40-million-users.html)(CNBC)
+
+
+
+**Wednesday, May 15 2024 - Wed. 05/15 – Google’s I/O Announces.**
+
+  * [Google rolls out AI Overviews in US with more countries coming soon](https://searchengineland.com/google-rolls-out-ai-overviews-in-us-with-more-countries-coming-soon-440418) (SearchEngineLand)
+  * [Can Google Give A.I. Answers Without Breaking the Web?](https://www.nytimes.com/2024/05/14/technology/google-ai-answers.html) (NYTimes)
+  * [Google's Project Astra uses your phone's camera and AI to find noise makers, misplaced items and more.](https://www.engadget.com/googles-project-astra-uses-your-phones-camera-and-ai-to-find-noise-makers-misplaced-items-and-more-172642329.html?guccounter=1) (Engadget)
+  * [OpenAI co-founder Ilya Sutskever says he will leave the startup](https://www.cnbc.com/2024/05/14/openai-co-founder-ilya-sutskever-says-he-will-leave-the-startup.html) (CNBC)
+  * [TikTok creators sue U.S. government over potential ban](https://www.washingtonpost.com/technology/2024/05/14/tiktok-creators-lawsuit-ban/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE1NjU5MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE3MDQxNTk5LCJpYXQiOjE3MTU2NTkyMDAsImp0aSI6ImE3NWVmZmFhLWYwYTMtNGYxZi04NjUzLWU2NGE2YjA4YzAzNCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDUvMTQvdGlrdG9rLWNyZWF0b3JzLWxhd3N1aXQtYmFuLyJ9.kZgVRfoz-zCN-zqHn59syGhQ6Osta2TRT98S8KWrrq8) (Washington Post)
+  * [Humanity Protocol Becomes Crypto’s New Digital Identity Unicorn](https://www.bloomberg.com/news/articles/2024-05-15/humanity-protocol-becomes-crypto-s-new-digital-identity-unicorn?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Tuesday, May 14 2024 - Tue. 05/14 – GPT-4o**
+
+  * [OpenAI debuts GPT-4o ‘omni’ model now powering ChatGPT](https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/) (TechCrunch)
+  * [OpenAI debuts new model with enhanced real-time voice abilities](https://www.axios.com/2024/05/13/openai-google-chatgpt-ai) (Axios)
+  * [Tom Warren's PS5 sales Tweet](https://twitter.com/tomwarren/status/1790279052806304013)
+  * [Comcast to Launch Peacock, Netflix and Apple TV+ Bundle at a ‘Vastly Reduced Price’](https://variety.com/2024/tv/news/peacock-netflix-apple-tv-plus-bundle-streaming-comcast-1236002375/) (Variety)
+  * [The new Apple iPad Air is great — but it’s not the one to get](https://www.theverge.com/24155407/apple-ipad-air-review-2024) (The Verge)
+  * [Apple iPad Pro (2024) review: the best kind of overkill](https://www.theverge.com/24155440/apple-ipad-pro-2024-review) (The Verge)
+
+
+
+**Monday, May 13 2024 - Mon. 05/13 – The Solar Storm Is Real (Ask Farmers)**
+
+  * [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/) (404Media)
+  * [Website-design firm Squarespace to go private in $6.9 billion deal with Permira](https://www.reuters.com/markets/deals/squarespace-go-private-all-cash-deal-valued-69-bln-2024-05-13/) (Reuters)
+  * [British tech firm Raspberry Pi lines up £500m float](https://www.thetimes.co.uk/article/british-tech-firm-raspberry-pi-lines-up-500m-float-gbp5n378d) (The Times)
+  * [Microsoft set to face EU competition charges over Teams software](https://www.ft.com/content/ce8a6602-dece-4313-b1a5-4e6f3354f99d) (Financial Times)
+  * [Google’s Waymo Crosses 50,000 Paid Driverless Rides Per Week](https://www.theinformation.com/briefings/googles-waymo-crosses-50-000-paid-driverless-rides-per-week?rc=64g9cw) (The Information)
+  * [Apple Nears Deal With OpenAI to Put ChatGPT on iPhone](https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone?sref=Szq5ylDR) (Bloomberg)
+  * [Apple, Netflix Amazon Want to Change How They Pay Hollywood Stars](https://www.bloomberg.com/news/newsletters/2024-05-12/apple-netflix-amazon-want-to-change-how-they-pay-hollywood-stars?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Friday, May 10 2024 - Fri. 05/10 – Apple Apologizes For The “Crush” Ad**
+
+  * [Apple apologizes for iPad ‘Crush’ ad that ‘missed the mark’](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology) (The Verge)
+  * [Apple doesn’t understand why you use technology](https://www.theverge.com/2024/5/9/24152987/apple-crush-ad-piano-ipad) (The Verge)
+  * [Microsoft Plans Mobile-Game Store, Vying With Apple, Google](https://www.bloomberg.com/news/articles/2024-05-09/microsoft-to-launch-mobile-game-store-vying-with-apple-google?sref=Szq5ylDR) (Bloomberg)
+  * [Apple to Power AI Tools With In-House Server Chips This Year](https://www.bloomberg.com/news/articles/2024-05-09/apple-to-power-ios-18-ai-features-with-in-house-server-mac-chips-this-year?sref=Szq5ylDR) (Bloomberg)
+  * [ElevenLabs previews music-generating AI model](https://venturebeat.com/ai/elevenlabs-previews-music-generating-ai-model/) (VentureBeat)
+
+
+
+**Thursday, May 09 2024 - Thu. 05/09 – The Weird Apple Ad Backlash**
+
+  * [Google DeepMind unveils AI model for living cells](https://www.ft.com/content/77bf38b7-114d-44c8-956e-1e39e39ecb52) (FT)
+  * [Microsoft’s Xbox Is Planning More Cuts After Studio Closings](https://www.bloomberg.com/news/articles/2024-05-08/xbox-studio-closures-microsoft-plans-more-cost-cutting-measures-after-layoffs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxNTE5ODUzNywiZXhwIjoxNzE1ODAzMzM3LCJhcnRpY2xlSWQiOiJTRDZOSzZEV1gyUFMwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.Ae8Wc_YmUJla6VHol8aa5AIVOUAmdYTiRnQ2nKph6NY&sref=Szq5ylDR) (Bloomberg)
+  * [Stack Overflow bans users en masse for rebelling against OpenAI partnership — users banned for deleting answers to prevent them being used to train ChatGPT](https://www.tomshardware.com/tech-industry/artificial-intelligence/stack-overflow-bans-users-en-masse-for-rebelling-against-openai-partnership-users-banned-for-deleting-answers-to-prevent-them-being-used-to-train-chatgpt) (TomsHardware)
+  * [Alphabet Progressing in Talks to Buy HubSpot, Sources Say](https://www.bloomberg.com/news/articles/2024-05-09/google-parent-alphabet-is-said-to-progress-in-talks-with-hubspot?sref=Szq5ylDR) (Bloomberg)
+  * [That Weird Apple Ad "Crush!"](https://www.youtube.com/watch?v=ntjkwIXWtrc&t=1s)
+
+
+
+**Wednesday, May 08 2024 - Wed. 05/08 – Bethesda Bloodbath**
+
+  * [Microsoft Closes Redfall Developer Arkane Austin, Hi-Fi Rush Developer Tango Gameworks, and More in Devastating Cuts at Bethesda](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda) (IGN)
+  * [US revokes licences for supply of chips to China’s Huawei](https://www.ft.com/content/cf965960-b083-49ee-bae1-6ce95fe872a3) (Financial Times)
+  * [Exclusive: In Tesla Autopilot probe, US prosecutors focus on securities, wire fraud](https://www.reuters.com/business/autos-transportation/tesla-autopilot-probe-us-prosecutors-focus-securities-wire-fraud-2024-05-08/) (Reuters)
+  * [Google’s New $500 Pixel 8A Smartphone Will Get 7 Years of Software Updates](https://www.wired.com/story/google-pixel-8a/) (Wired)
+  * [OpenAI Is Readying a Search Product to Rival Google, Perplexity](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxNTEyODMzNywiZXhwIjoxNzE1NzMzMTM3LCJhcnRpY2xlSWQiOiJTRDRaTlFUMVVNMFcwMCIsImJjb25uZWN0SWQiOiJCQUY2MTkxMzA2NTk0RjNEOTI1MTc2MjdBQkQ3NzM1NSJ9.MWqse1xdzhsj7mDmrd8Ihpzm8p8Pc6lvxHSU5khNmNs&sref=Szq5ylDR) (Bloomberg)
+  * [TikTok Sues U.S. Government Over Law Forcing Sale or Ban](https://www.nytimes.com/2024/05/07/business/tiktok-ban-appeal.html) (NYTimes)
+  * [FTX Has Billions More Than Needed to Pay Bankruptcy Victims](https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-victims?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Tuesday, May 07 2024 - Tue. 05/07 – The Spring Apple Event**
+
+  * [Apple Is Developing AI Chips for Data Centers, Seeking Edge in Arms Race](https://www.wsj.com/tech/ai/apple-is-developing-ai-chips-for-data-centers-seeking-edge-in-arms-race-0bedd2b2?st=9j32erlx4h9rk2t&reflink=desktopwebshare_permalink) (WSJ)
+  * [Nintendo Teases Long-Awaited Switch Successor as Profit Slides](https://www.bloomberg.com/news/articles/2024-05-07/nintendo-braces-for-profit-decline-while-users-await-next-switch?sref=Szq5ylDR) (Bloomberg)
+  * [Meet MAI-1: Microsoft Readies New AI Model to Compete With Google, OpenAI](https://www.theinformation.com/articles/meet-mai-1-microsoft-readies-new-ai-model-to-compete-with-google-openai?rc=64g9cw) (The Information)
+  * [Amazon’s Delivery Drones Won’t Fly in Arizona’s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/) (Wired)
+  * [China hacked Ministry of Defence, Sky News learns](https://news.sky.com/story/china-hacked-ministry-of-defence-sky-news-learns-13130757) (SkyNews)
+
+
+
+**Monday, May 06 2024 - Mon. 05/06 – AI Generated Books, Music Videos And… Fighter Pilots?**
+
+  * [Jack Dorsey departs Bluesky board](https://techcrunch.com/2024/05/05/jack-dorsey-says-hes-no-longer-on-the-bluesky-board/) (TechCrunch)
+  * [YouTube's AI-powered 'Jump Ahead' feature rolling out widely to Premium users](https://www.androidauthority.com/youtube-premium-jump-ahead-3440015/) (AndroidAuthority)
+  * [Farewell, dunks? Threads launches quote controls for all users](https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/) (TechCrunch)
+  * [AI-Voiced Audiobooks Top 40,000 Titles on Audible](https://www.bloomberg.com/news/newsletters/2024-05-02/audible-s-test-of-ai-voiced-audiobooks-tops-40-000-titles?sref=Szq5ylDR) (Bloomberg)
+  * [An AI-controlled fighter jet took the Air Force leader for a historic ride. What that means for war](https://apnews.com/article/artificial-intelligence-fighter-jets-air-force-6a1100c96a73ca9b7f41cbd6a2753fda) (AP)
+  * [Hugging Face launches LeRobot open source robotics code library](https://venturebeat.com/automation/hugging-face-launches-lerobot-open-source-robotics-code-library/) (VentureBeat)
+  * [Washed Out’s new music video was created with AI. Is it a watershed moment for Sora?](https://www.latimes.com/entertainment-arts/business/story/2024-05-02/first-major-music-artist-uses-openai-sora-to-create-music-video) (LATimes)
+
+
+
+**Friday, May 03 2024 - Fri. 05/03 – Apple Earnings Underline Their Predicament**
+
+  * [Apple Sales Fall as iPhone, China Businesses Remain Sluggish](https://www.wsj.com/tech/apple-aapl-q2-earnings-report-2024-d633673b) (WSJ)
+  * [FDA Qualifies Apple’s AFib History feature as an MDDT](https://www.myhealthyapple.com/fda-qualifies-afib-history-mddt/) (MyHealthyApple)
+  * [Hubble Network makes Bluetooth connection with a satellite for the first time](https://techcrunch.com/2024/05/02/hubble-network-connects-a-bluetooth-chip-to-a-satellite-for-the-first-time/) (TechCrunch)
+  * [Coinbase’s First-Quarter Profit, Revenue Top Forecasts](https://www.bloomberg.com/news/articles/2024-05-02/coinbase-s-first-quarter-profit-revenue-top-forecasts?sref=Szq5ylDR) (Bloomberg)
+  * [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget) (The Verge)
+
+
+
+**Thursday, May 02 2024 - Thu. 05/02 – TikTok Can Jam Again**
+
+  * [TikTok and Universal Music Group Settle Royalty Dispute With New Licensing Agreement](https://variety.com/2024/music/news/tiktok-universal-music-group-settle-royalty-dispute-licensing-agreement-1235987271/) (Variety)
+  * [UnitedHealthcare CEO says ‘maybe a third’ of US citizens were affected by recent hack](https://techcrunch.com/2024/05/01/united-healthcare-ceo-says-maybe-a-third-of-u-s-citizens-were-affected-by-recent-hack/) (TechCrunch)
+  * [UnitedHealth CEO tells lawmakers the company paid hackers a $22 million ransom](https://www.cnbc.com/2024/05/01/unitedhealth-ceo-says-company-paid-hackers-22-million-ransom.html) (CNBC)
+  * [Google lays off hundreds of ‘Core’ employees, moves some positions to India and Mexico](https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html) (CNBC)
+  * [Amazon-backed Anthropic launches iPhone app and business tier to compete with OpenAI’s ChatGPT ](https://www.cnbc.com/2024/05/01/anthropic-iphone-ai-app-business-plan-to-compete-with-openai-announced.html)(CNBC)
+  * [In Latest Stunt, Airbnb Lists the ‘Up’ House. It Floats.](https://www.nytimes.com/2024/05/01/business/airbnb-up-house-shrek-listings.html) (NYTimes)
+  * [Google’s Payments to Apple Reached $20 Billion in 2022, Antitrust Court Documents Show](https://www.bloomberg.com/news/articles/2024-05-01/google-s-payments-to-apple-reached-20-billion-in-2022-cue-says?sref=Szq5ylDR) (Bloomberg)
+  * [Microsoft Concern Over Google’s Lead Drove OpenAI Investment](https://www.bloomberg.com/news/articles/2024-05-01/microsoft-concern-about-google-s-lead-drove-investment-in-openai?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Wednesday, May 01 2024 - Wed. 05/01 – An Elon Catchup**
+
+  * [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.theverge.com/2024/4/30/24140638/binance-founder-changpeng-zhao-sentence-money-laundering) (The Verge)
+  * [Rabbit R1, a thing that should just be an app, actually is just an Android app (Updated)](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/) (Android Authority)
+  * [Powerful New Chatbot Disappears as Mysteriously as It Arrived](https://gizmodo.com/everything-we-know-about-the-mysterious-new-gpt2-chatbo-1851445512) (Gizmodo)
+  * [Tesla conducting more layoffs, including entire Supercharger team](https://electrek.co/2024/04/29/tesla-conducting-more-layoffs-including-entire-supercharger-team/) (Electrek)
+
+
+
+**Tuesday, April 30 2024 - Tue. 04/30 – Underbaked Hardware Releases**
+
+  * [FCC fines AT&T, Sprint, T-Mobile, and Verizon nearly $200 million for illegally sharing location data](https://www.theverge.com/2024/4/29/24144599/fcc-fine-att-sprint-verizon-t-mobile-location-data) (The Verge)
+  * [Meta Risks EU Fines Over Kremlin Lies on Facebook, Instagram](https://www.bloomberg.com/news/articles/2024-04-30/meta-risks-eu-fines-over-kremlin-lies-on-facebook-instagram?sref=Szq5ylDR) (Bloomberg)
+  * [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1) (Maciej Pocwierz)
+  * [Copilot Workspace is GitHub’s take on AI-powered software engineering](https://techcrunch.com/2024/04/29/copilot-workspace-is-githubs-take-on-ai-powered-software-engineering/) (TechCrunch)
+  * [Peacock Hikes Subscription Prices Ahead of 2024 Paris Olympics](https://www.hollywoodreporter.com/business/business-news/peacock-price-hike-2024-paris-olympics-1235885906/) (The Hollywood Reporter)
+  * [Rabbit R1 Review](https://www.youtube.com/watch?v=ddTV12hErTc) (MKBHD)
+  * [Marques Brownlee slams another AI product as “barely reviewable” after Humane AI Pin controversy ](https://www.dexerto.com/tech/marques-brownlee-slams-another-ai-product-as-barely-reviewable-after-humane-ai-pin-controversy-2669843/)(Dexerto)
+
+
+
+**Monday, April 29 2024 - Mon. 04/29 – AI Strategies**
+
+  * [Apple Intensifies Talks With OpenAI for iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features?sref=Szq5ylDR) (Bloomberg)
+  * [Apple Rivals Retool to Challenge the iPhone and Vision Pro](https://www.bloomberg.com/news/newsletters/2024-04-28/apple-rivals-retool-to-compete-with-iphone-and-vision-pro-ios-18-and-ai-details-lvjhucsv?sref=Szq5ylDR) (Bloomberg)
+  * [Investors Cheer AI Spending Boom in Big Tech—Just Not at Meta](https://www.wsj.com/tech/ai/investors-cheer-ai-spending-boom-in-big-techjust-not-at-meta-42af2528?st=y2gblo94iii3y5e&reflink=desktopwebshare_permalink) (WSJ)
+  * [The Financial Times and OpenAI strike content licensing deal](https://www.ft.com/content/33328743-ba3b-470f-a2e3-f41c3a366613) (Financial Times)
+  * [Apple users are being locked out of their Apple IDs with no explanation](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/) (9to5Mac)
+  * [AI is making Meta's apps basically unusable](https://www.fastcompany.com/91113437/ai-making-meta-apps-basically-unusable) (Fast Company)
+
+
+
+**Friday, April 26 2024 - Fri. 04/26 – Net Neutrality Is Back**
+
+  * [F.C.C. Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html) (NYTimes)
+  * [Google parent announces first-ever dividend; beats on sales, profit; shares soar](https://www.reuters.com/technology/google-parent-alphabet-announces-first-ever-divided-20-cents-per-share-2024-04-25/) (Reuters)
+  * [OpenAI’s Sam Altman and Other Tech Leaders to Serve on AI Safety Board](https://www.wsj.com/tech/ai/openais-sam-altman-and-other-tech-leaders-to-serve-on-ai-safety-board-7dc47b78?st=xggtkj1be488ozw&reflink=desktopwebshare_permalink) (WSJ)
+  * [Exclusive: ByteDance prefers TikTok shutdown in US if legal options fail, sources say](https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/) (Reuters)
+  * [The Onion Is Sold by G/O Media](https://www.nytimes.com/2024/04/25/business/media/the-onion-sold.html) (NYTimes)
+
+
+**Thursday, April 25 2024 - Thu. 04/25 – Zuck Is Disappointing Wall Street Again**
+
+  * [Zuckerberg Asks for Patience as Meta’s AI Push Spooks Market](https://www.bloomberg.com/news/articles/2024-04-24/meta-projects-higher-spending-weaker-revenue-amid-ai-push?sref=Szq5ylDR) (Bloomberg)
+  * [Zuckerberg says it will take Meta years to make money from generative AI](https://www.theverge.com/2024/4/24/24139591/meta-q1-2024-earnings-ai-mark-zuckerberg) (The Verge)
+  * [TSMC aims to produce ultra-advanced 1.6-nm chips by 2026](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-aims-to-produce-ultra-advanced-1.6-nm-chips-by-2026) (NikkeiAsia)
+  * [Six-Month-Old AI Coding Startup Valued at $2 Billion by Founders Fund](https://www.theinformation.com/articles/six-month-old-ai-coding-startup-valued-at-2-billion-by-founders-fund?utm_source=threads&utm_medium=organic_social&utm_campaign=article_post&rc=64g9cw) (The Information)
+  * [Google Meet will let you transfer calls between web and phone with ‘Switch here’](https://9to5google.com/2024/04/24/google-meet-switch-transfer/) (9to5Google)
+  * [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt) (The Verge)
+  * [Rabbit R1 hands-on: Already more fun and accessible than the Humane AI Pin](https://www.engadget.com/rabbit-r1-hands-on-already-more-fun-and-accessible-than-the-humane-ai-pin-163622560.html) (Engadget)
+  * [Rabbit’s R1 is a little AI gadget that grows on you](https://techcrunch.com/2024/04/24/rabbits-r1-is-a-little-ai-gadget-that-grows-on-you/) (TechCrunch)
+
+
+
+**Wednesday, April 24 2024 - Wed. 04/24 – What Now For TikTok?**
+
+  * [Senate passes TikTok ban bill, sending it to President Biden’s desk](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid) (The Verge)
+  * [TikTok Ban Looms With Biden Poised to Start 270-Day Countdown](https://www.bloomberg.com/news/articles/2024-04-24/tiktok-s-us-ban-looms-as-biden-prepares-to-sign-law-with-a-270-day-sale-deadline?sref=Szq5ylDR) (Bloomberg)
+  * [How the TikTok ban could survive a court challenge](https://www.platformer.news/tiktok-ban-bill-senate-legal-challenge-first-amendment/) (Platformer)
+  * [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable) (The Verge)
+  * [The Ray-Ban Meta Smart Glasses get video calling, Apple Music, and a new style](https://www.theverge.com/2024/4/23/24138228/ray-ban-meta-smart-glasses-wearables-ai-apple-music) (The Verge)
+  * [Meta’s A.I. Assistant Is Fun to Use, but It Can’t Be Trusted](https://www.nytimes.com/2024/04/24/technology/personaltech/meta-ai-facebook-instagram-chatbot.html?unlocked_article_code=1.m00.mkuO.Wzo7ukfzI6lA&smid=url-share) (NYTimes)
+
+
+
+**Tuesday, April 23 2024 - Tue. 04/23 – Microsoft’s Own LLMs and Perplexity’s Big Raise**
+
+  * [Microsoft launches Phi-3, its smallest AI model yet](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model) (The Verge)
+  * [Meta Expands Its Mixed Reality Beyond the Quest Headsets](https://www.cnet.com/tech/computing/meta-opens-up-its-vr-os-to-third-party-headsets/) (CNET)
+  * [Meta wants to be the Microsoft of headsets](https://www.theverge.com/2024/4/22/24137284/meta-license-horizon-os-quest-headset-lenovo-asus) (The Verge)
+  * [China Smartphone Sales Remain in Black on Huawei, HONOR, Xiaomi Outperformance](https://www.counterpointresearch.com/insights/china-smartphone-q1-2024/) (Counterpoint)
+  * [AI Search Startup Perplexity Valued at $1 Billion in Funding Round](https://www.bloomberg.com/news/articles/2024-04-23/ai-search-startup-perplexity-valued-at-1-billion-in-funding-round?sref=Szq5ylDR) (Bloomberg)
+  * [Adobe’s new Firefly model makes it easier to use Photoshop’s AI tools](https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image) (The Verge)
+  * [If TikTok Is Such a Threat, Show Us the Receipts](https://www.bloomberg.com/opinion/articles/2024-04-23/if-tiktok-is-such-a-threat-show-us-the-receipts?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Monday, April 22 2024 - Mon. 04/22 – TikTok Back On The Chopping Block?**
+
+  * [TikTok ‘ban’ passes in the House again, moving to the Senate in foreign aid package](https://www.theverge.com/2024/4/20/24135163/tiktok-ban-divest-bytedance-house-foreign-aid-package) (The Verge)
+  * [Tesla lowers price of ‘Full Self-Driving’ to $8,000, down from $12,000](https://electrek.co/2024/04/21/tesla-lowers-price-of-full-self-driving-to-8000-down-from-12000/) (Electrek)
+  * [Tinder gets a ‘Share My Date’ feature for users to send date plans to their curious friends ](https://techcrunch.com/2024/04/21/tinder-gets-a-share-my-date-feature-for-users-to-send-date-plans-to-their-curious-friends/)(TechCrunch)
+  * [Americans’ New TV Habit: Subscribe. Watch. Cancel. Repeat.](https://www.nytimes.com/2024/04/20/business/media/streaming-subscription-jumping.html?unlocked_article_code=1.mE0.gkYN.ZVETPZsd24_K&smid=url-share) (NYTimes)
+  * [The little smart home platform that could](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation) (The Verge)
+  * [The future of AI gadgets is just phones](https://www.theverge.com/2024/4/21/24134967/ai-gadgets-humane-pin-android-pixel-gemini) (The Verge)
+
+
+
+**Friday, April 19 2024 - Fri. 04/19 – All The News About Llama 3**
+
+  * [Meta’s battle with ChatGPT begins now](https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival) (The Verge)
+  * [Meta, in Its Biggest A.I. Push, Places Smart Assistants Across Its Apps](https://www.nytimes.com/2024/04/18/technology/meta-ai-assistant-push.html) (NYTimes)
+  * [Meta gives the Quest 2 its second permanent price cut in four months](https://www.engadget.com/meta-gives-the-quest-2-its-second-permanent-price-cut-in-four-months-184511096.html) (Engadget)
+  * [Cool or creepy? Microsoft's VASA-1 is a new AI model that turns photos into 'talking faces'](https://www.tomsguide.com/ai/ai-image-video/microsoft-wants-your-photos-to-talk-vasa-1-is-a-new-ai-model-to-turn-images-into-talking-faces) (Tom's Guide)
+  * [China Orders Apple to Remove Popular Messaging Apps](https://www.wsj.com/tech/apple-removes-whatsapp-threads-from-china-app-store-on-government-orders-a0c02100) (WSJ)
+
+
+
+**Thursday, April 18 2024 - Thu. 04/18 – Game Emulators On iOS And The Atlas Robot Lives!**
+
+  * [Google fires 28 employees after sit-in protest over Israel cloud contract](https://www.theverge.com/2024/4/17/24133700/google-fires-28-employees-protest-israel-cloud-contract) (The Verge)
+  * [Consumer Financial Protection Bureau fines BloomTech for false claims](https://techcrunch.com/2024/04/17/consumer-financial-protection-bureau-fines-bloomtech-for-false-claims/) (TechCrunch)
+  * [Third-party iPhone app store AltStore PAL is now live in Europe](https://www.theverge.com/24100464/altstore-pal-dma-eu-launch-delta-nintendo-emulator-clip-clipboard-manager) (The Verge)
+  * [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram) (The Verge)
+  * [US Air Force confirms first successful AI dogfight](https://www.theverge.com/2024/4/18/24133870/us-air-force-ai-dogfight-test-x-62a) (The Verge)
+  * [Sony might have perfected Mini LED TVs with its new 2024 lineup](https://www.theverge.com/2024/4/17/24132829/sony-2024-bravia-9-8-7-3-mini-led-oled-tv) (The Verge)
+  * [Boston Dynamics’ Atlas humanoid robot goes electric](https://techcrunch.com/2024/04/17/boston-dynamics-atlas-humanoid-robot-goes-electric/) (TechCrunch)
+
+
+
+**Wednesday, April 17 2024 - Wed. 04/17 – Copilots Or The Biggest Model Wins? The Competing AI Visions.**
+
+  * [T-Mobile, Verizon workers get texts offering $300 for SIM swaps](https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/) (BleepingComputer)
+  * [Microsoft’s AI Copilot Is Starting to Automate the Coding Industry](https://www.bloomberg.com/news/articles/2024-04-17/microsoft-s-ai-copilot-is-starting-to-automate-the-coding-industry?sref=Szq5ylDR) (Bloomberg)
+  * [Mistral, an OpenAI Rival in Europe, in Talks to Raise Capital at a $5 Billion Valuation](https://www.theinformation.com/articles/mistral-an-openai-rival-in-europe-in-talks-to-raise-capital-at-a-5-billion-valuation?rc=64g9cw) (The Information)
+  * [Invitation-Only Audio Social Network Is the Hot New App in Tech Circles](https://www.bloomberg.com/news/articles/2024-04-16/audio-social-network-airchat-takes-off-with-the-tech-set?sref=Szq5ylDR) (Bloomberg)
+  * [Musk’s Starlink Cracks Down on Growing Black Market](https://www.wsj.com/world/africa/elon-musk-spacex-starlink-satellite-access-crackdown-e09f3e4e) (WSJ)
+  * [Amazon Prime Memberships in US Gain 8% to New High After Lull](https://www.bloomberg.com/news/articles/2024-04-16/amazon-prime-memberships-in-us-gain-8-to-new-high-after-lull?sref=Szq5ylDR) (Bloomberg)
+  * [Atlas shrugged: Boston Dynamics retires its hydraulic humanoid robot](https://techcrunch.com/2024/04/16/atlas-shrugged-boston-dynamics-retires-its-humanoid-robot/) (TechCrunch)
+
+
+
+**Tuesday, April 16 2024 - Tue. 04/16 – What Should An AI Wearable Be: AI Pin Or Limitless Pendant?**
+
+  * [Microsoft to invest $1.5bn in Abu Dhabi AI group G42](https://www.ft.com/content/930a1c17-2e84-4ddb-8e72-4e4a1b833c40) (Financial Times)
+  * [To Keep Viewers, Disney Plans a New Streaming Concept: Old-Style TV Channels](https://www.theinformation.com/articles/to-keep-viewers-disney-plans-a-new-streaming-concept-old-style-tv-channels?rc=64g9cw) (The Information)
+  * [YouTube cracking down on third-party apps that block ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/) (9to5Google)
+  * [YouTube Accounted for Nearly 10% of All TV Viewing in March, Nielsen Says](https://www.thewrap.com/nielsen-march-2024-gauge-report-youtube-ratings/) (TheWrap)
+  * [Oh the Humanity](https://www.sandofsky.com/humane/) (Sandofsky.com)
+  * [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings) (The Verge)
+
+
+
+**Monday, April 15 2024 - Mon. 04/15 – Onshoring And Halving**
+
+  * [Samsung boosts Joe Biden’s chipmaking ambitions with Texas plant upgrade](https://www.ft.com/content/4124eb79-ea40-411d-85df-0235774e316b) (Financial Times)
+  * [Exclusive: Google Pixel 9 series to get emergency satellite connectivity, new modem](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) (Android Authority)
+  * [Bitcoin ‘Halving’ Will Deal a $10 Billion Blow to Crypto Miners](https://www.bloomberg.com/news/articles/2024-04-14/bitcoin-halving-will-deal-a-10-billion-blow-to-crypto-miners?sref=Szq5ylDR) (Bloomberg)
+  * [ChatGPT essay cheats are a menace to us all](https://www.ft.com/content/cde75f58-20b9-460c-89fb-e64fe06e24b9) (Financial Times)
+  * [Naval Ravikant’s Airchat is a social app built around talk, not text](https://techcrunch.com/2024/04/13/airchat-launch/?guccounter=1) (TechCrunch)
+  * [4TB SD cards are arriving in 2025 for your cameras and laptops](https://www.theverge.com/2024/4/12/24128325/4tb-sd-card-western-digital-camera-laptops-storage) (The Verge)
+
+
+
+**Friday, April 12 2024 - Fri. 04/12 – OpenAI Is The Biggest Drama Startup Since Twitter**
+
+  * [US government urges Sisense customers to reset credentials after hack](https://techcrunch.com/2024/04/11/cisa-government-sisense-reset-credentials-cyberattack/) (TechCrunch)
+  * [Google One VPN will be discontinued, Pixel VPN remains with upgrade coming](https://9to5google.com/2024/04/11/google-one-vpn-discontinued/) (9to5Google)
+  * [X’s Premium users can no longer hide their blue checks](https://www.theverge.com/2024/4/11/24127906/x-premium-users-can-no-longer-hide-their-blue-checks) (The Verge)
+  * [Apple Plans to Overhaul Entire Mac Line With AI-Focused M4 Chips](https://www.bloomberg.com/news/articles/2024-04-11/apple-aapl-readies-m4-chip-mac-line-including-new-macbook-air-and-mac-pro?sref=Szq5ylDR) (Bloomberg)
+  * [OpenAI Researchers, Including Ally of Sutskever, Fired for Alleged Leaking](https://www.theinformation.com/articles/openai-researchers-including-ally-of-sutskever-fired-for-alleged-leaking?rc=64g9cw) (The Information)
+  * [Is Google's AI Actually Discovering 'Millions of New Materials?'](https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/) (404 Media)
+
+
+
+**Thursday, April 11 2024 - Thu. 04/11 – Humane AI Pin Reviews**
+
+  * [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/) (TechCrunch)
+  * [Spotify Plans New Remixing Tools for the TikTok Generation](https://www.wsj.com/business/media/spotify-to-let-users-play-dj-competing-with-remixes-on-tiktok-da35e25c?st=itygp9ombqkqnok&reflink=desktopwebshare_permalink) (WSJ)
+  * [Adobe Is Buying Videos for $3 Per Minute to Build AI Model](https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model?sref=Szq5ylDR) (Bloomberg)
+  * [Humane AI Pin review: not even close](https://www.theverge.com/24126502/humane-ai-pin-review) (The Verge)
+
+
+
+**Wednesday, April 10 2024 - Wed. 04/10 – A Bunch Of Datapoints**
+
+  * [Google Launches Coding AIs That Could Rival Microsoft's Github Copilot](https://www.pcmag.com/news/google-launches-gemini-coding-ai-could-rival-microsoft-github-copilot) (PCMag)
+  * [Apple's new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work) (AppleInsider)
+  * [Apple’s India iPhone Output Hits $14 Billion in China Shift](https://www.bloomberg.com/news/articles/2024-04-10/apple-s-india-iphone-output-hits-14-billion-in-pivot-from-china?sref=Szq5ylDR) (Bloomberg)
+  * [ByteDance Profit Jumps 60%, Taking It Past Archrival Tencent](https://www.bloomberg.com/news/articles/2024-04-10/bytedance-profit-jumps-60-taking-it-past-archrival-tencent?sref=Szq5ylDR) (Bloomberg)
+  * [Exclusive: EU's new tech laws are working; small browsers gain market share](https://www.reuters.com/technology/eus-new-tech-laws-are-working-small-browsers-gain-market-share-2024-04-10/) (Reuters)
+  * [Survey shows that teenagers are using more VR devices in the US](https://9to5mac.com/2024/04/09/survey-teenagers-using-more-vr-devices/) (9to5Mac)
+  * [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink) (The Verge)
+
+
+
+**Tuesday, April 09 2024 - Tue. 04/09 – Google’s New AI Chips**
+
+  * [Google Expands In-House Chip Efforts in Costly AI Battle](https://www.wsj.com/tech/google-expands-in-house-chip-efforts-in-costly-ai-battle-3121c852?st=6010gt7v4bee9ve&reflink=desktopwebshare_permalink) (WSJ)
+  * [Google Shows AI Model Is Enterprise-Ready After Gemini Mishaps](https://www.bloomberg.com/news/articles/2024-04-09/google-shows-ai-model-is-enterprise-ready-after-gemini-mishaps?sref=Szq5ylDR) (Bloomberg)
+  * [Gmail adding voice input, Gemini for Google Chat, Meet ‘Translate for me,’ & more](https://9to5google.com/2024/04/09/google-workspace-cloud-next-2024/) (9to5Google)
+  * [Google rolling out Find My Device network for Android](https://9to5google.com/2024/04/08/find-my-device-network-launch/) (9to5Google)
+  * [Microsoft is confident Windows on Arm could finally beat Apple](https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite) (The Verge)
+  * [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/) (TechCrunch)
+  * [How Tech Giants Cut Corners to Harvest Data for A.I.](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html?unlocked_article_code=1.iU0.13An.q-QvpzP7nvQ_&smid=url-share) (NYTimes)
+
+
+**Friday, April 05 2024 - Fri. 04/05 – Apple Layoffs!**
+
+  * [Apple Cut at Least 600 Workers When Car, Screen Projects Stopped](https://www.bloomberg.com/news/articles/2024-04-04/apple-cut-at-least-600-workers-when-car-screen-projects-stopped?sref=Szq5ylDR) (Bloomberg)
+  * [China will use AI to disrupt elections in the US, South Korea and India, Microsoft warns](https://www.theguardian.com/technology/2024/apr/05/china-using-ai-disrupt-elections) (The Guardian)
+  * [Disney+ will crack down on password sharing in June](https://www.cnn.com/2024/04/04/media/disney-password-crackdown/) (CNN)
+  * [Inside Big Tech's underground race to buy AI training data](https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/) (Reuters)
+  * [YouTube Says OpenAI Training Sora With Its Videos Would Break Rules](https://www.bloomberg.com/news/articles/2024-04-04/youtube-says-openai-training-sora-with-its-videos-would-break-the-rules?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Thursday, April 04 2024 - Thu. 04/04 – How About A TRUE iRobot?**
+
+  * [Apple Explores Home Robotics as Potential ‘Next Big Thing’ After Car Fizzles](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts?sref=Szq5ylDR) (Bloomberg)
+  * [Google considers charging for AI-powered search in big change to business model](https://www.ft.com/content/2f4bfeb4-6579-4819-9f5f-b3a46ff59ed1) (FT)
+  * [X’s ‘complimentary’ Premium push gives people blue checks they didn’t ask for](https://www.theverge.com/2024/4/3/24120602/x-free-premium-verified-blue-checkmark) (The Verge)
+  * [Washington state judge blocks use of AI-enhanced video as evidence in possible first-of-its-kind ruling](https://www.nbcnews.com/news/us-news/washington-state-judge-blocks-use-ai-enhanced-video-evidence-rcna141932) (NBCNews)
+  * [Amazon Sellers Plagued by Surge in Scam Returns](https://www.wsj.com/business/retail/amazon-sellers-plagued-by-surge-in-scam-returns-04c86665?st=3qfqf9plarzoiyw&reflink=desktopwebshare_permalink) (WSJ)
+  * [Business Schools Are Going All In on AI](https://www.wsj.com/tech/ai/generative-ai-mba-business-school-13199631?st=q9pvcayy61q3q7w) (WSJ)
+  * [Rock band Kiss sells rights for $300mn to firm behind Abba hologram show](https://www.ft.com/content/2ececa9a-d9de-409b-9561-a77a923709fa) (FT)
+
+
+
+**Wednesday, April 03 2024 - Wed. 04/03 – Quantum Computing Breakthrough?**
+
+  * [Microsoft and Quantinuum say they’ve ushered in the next era of quantum computing](https://techcrunch.com/2024/04/03/microsoft-and-quantinuum-say-theyve-ushered-in-the-next-era-of-quantum-computing/) (TechCrunch)
+  * [AI-generated songs are getting longer, not necessarily better](https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds) (The Verge)
+  * [Top musicians among hundreds warning against replacing human artists with AI](https://www.axios.com/2024/04/02/musicians-letter-ai-replace-artists) (Axios)
+  * [TSMC Facilities to Resume Production Overnight After Quake](https://www.bloomberg.com/news/articles/2024-04-03/tsmc-evacuates-production-lines-after-major-taiwan-quake?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon’s Grocery Stores to Drop Just Walk Out Checkout Tech](https://www.theinformation.com/articles/amazons-grocery-stores-to-drop-just-walk-out-checkout-tech?rc=64g9cw) (The Information)
+  * [Venture capital reckons with the end of ‘megafund’ era](https://www.ft.com/content/db1f795d-05c9-4623-9578-29ab2d263346) (Financial Times)
+
+
+
+**Tuesday, April 02 2024 - Tue. 04/02 – Amazon To Enter The AI Group Chat**
+
+  * [AT&T resets account passcodes after millions of customer records leak online](https://techcrunch.com/2024/03/30/att-reset-account-passcodes-customer-data/) (TechCrunch)
+  * [Exclusive: Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/) (Reuters)
+  * [Amazon scrambles for its place in the AI race](https://www.theverge.com/2024/3/29/24116056/amazon-ai-race-anthropic-olympus-claude) (The Verge)
+  * [Gen-AI Search Engine Perplexity Has a Plan to Sell Ads](https://www.adweek.com/media/gen-ai-search-engine-perplexity-has-a-plan-to-sell-ads/) (Adweek)
+  * [The AI Industry Is Steaming Toward A Legal Iceberg](https://www.wsj.com/tech/ai/the-ai-industry-is-steaming-toward-a-legal-iceberg-5d9a6ac1?st=bjo8oos1i0vcfp7&reflink=desktopwebshare_permalink) (WSJ)
+  * [Microsoft and OpenAI Plot $100 Billion Stargate AI Supercomputer](https://www.theinformation.com/articles/microsoft-and-openai-plot-100-billion-stargate-ai-supercomputer?rc=64g9cw) (The Information)
+
+
 
 **Friday, March 29 2024 - Fri. 03/29 – SBF To The Hoosegow**
 
