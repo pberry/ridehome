@@ -2,6 +2,180 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+
+**Friday, December 27 2024 - Fri. 12/27 – A New “Definition” Of AGI**
+
+  * [Microsoft and OpenAI Wrangle Over Terms of Their Blockbuster Partnership](https://www.theinformation.com/articles/microsoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership?rc=64g9cw) (The Information)
+  * [Microsoft and OpenAI’s Secret AGI Definition](https://www.theinformation.com/articles/microsoft-and-openais-secret-agi-definition?rc=64g9cw) (The Information)
+  * [DeepSeek-V3, ultra-large open-source AI, outperforms Llama and Qwen on launch](https://venturebeat.com/ai/deepseek-v3-ultra-large-open-source-ai-outperforms-llama-and-qwen-on-launch/) (VentureBeat)
+
+
+
+**Monday, December 23 2024 - Mon. 12/23 – The Revenge Of Google Glass?**
+
+  * [Apple Explores a Face ID Doorbell and Lock Device in Smart Home Push](https://www.bloomberg.com/news/newsletters/2024-12-22/apple-explores-amazon-ring-doorbell-competitor-with-face-id-airpods-heart-rate?sref=Szq5ylDR) (Bloomberg)
+  * [Meta to add display to Ray-Bans as race over smart glasses intensifies](https://www.ft.com/content/77bd9117-0a2d-4bd7-9248-4dd288f695a4) (FT)
+  * [Palantir and Anduril join forces with tech groups to bid for Pentagon contracts](https://www.ft.com/content/6cfdfe2b-6872-4963-bde8-dc6c43be5093) (FT)
+  * [Tether Sees $10 Billion in Net Profits for 2024](https://www.bloomberg.com/news/articles/2024-12-21/tether-sees-10-billion-in-net-profits-for-2024?sref=Szq5ylDR) (Bloomberg)
+  * [Britannica Didn’t Just Survive. It’s an A.I. Company Now.](https://www.nytimes.com/2024/12/20/business/dealbook/britannica-artificial-intelligence.html?unlocked_article_code=1.jE4.CJAC.0AVrDGq1mMzP&smid=url-share) (NYTimes)
+
+
+
+**Friday, December 20 2024 - Fri. 12/20 – Gemini Flash Thinking**
+
+  * [Google reveals AI ‘reasoning’ model that ‘explicitly shows its thoughts’](https://www.theverge.com/2024/12/19/24325169/google-ai-reasoning-model-gemini-flash-2-thinking) (The Verge)
+  * [FAA Bans Drone Flights in Parts of New Jersey](https://www.bloomberg.com/news/articles/2024-12-19/us-aviation-regulator-bans-drone-flights-in-parts-of-new-jersey?sref=Szq5ylDR) (Bloomberg)
+  * [Instagram teases AI editing tools that will completely reimagine your videos](https://www.theverge.com/2024/12/19/24325015/instagram-ai-video-editing-tool-meta-movie-gen-teaser) (The Verge)
+  * [Waymo still doing better than humans at preventing injuries and property damage](https://www.theverge.com/2024/12/19/24324492/waymo-injury-property-damage-insurance-data-swiss-re) (The Verge)
+  * [New physics sim trains robots 430,000 times faster than reality](https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/) (ArsTechnica)
+
+
+
+**Thursday, December 19 2024 - Thu. 12/19 – 1800CHATGPT**
+
+  * [Apple hits out at Meta's numerous interoperability requests](https://www.reuters.com/technology/apple-slams-metas-numerous-interoperability-requests-2024-12-18/) (Reuters)
+  * [OpenAI makes ChatGPT available for phone calls and texts](https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html) (CNBC)
+  * [Apple Halts Effort to Build iPhone Hardware Subscription Service](https://www.bloomberg.com/news/articles/2024-12-18/apple-halts-long-running-effort-to-build-iphone-hardware-subscription-service?sref=Szq5ylDR) (Bloomberg)
+  * [Smart ring start-up Ōura raises $200mn as valuation leaps to $5.2bn](https://www.ft.com/content/48a9d56d-73e5-448a-8254-8aaa02954270) (Financial Times)
+  * [Oura closes $200M round, bringing its valuation to $5.2B](https://techcrunch.com/2024/12/19/oura-closes-200m-round-bringing-its-valuation-to-5-2b/) (TechCrunch)
+  * [3 Changes That Would Make Samsung's Galaxy Ring So Much Better](https://www.cnet.com/tech/mobile/3-changes-that-would-make-samsungs-galaxy-ring-so-much-better/) (CNET)
+  * [PS5 Pro deep dive reaction: GPU and RT improvements, PSSR and Sony's new AMD Amethyst partnership](https://www.eurogamer.net/digitalfoundry-2024-ps5-pro-deep-dive) (EuroGamer)
+  * [Inside India's 'Silicon Valley'](https://www.businessinsider.com/india-silicon-valley-bengaluru-under-pressure-2024-12) (BusinessInsider)
+
+
+
+**Wednesday, December 18 2024 - Wed. 12/18 – Is Your Home Internet Router About To Be Banned?**
+
+  * [U.S. Weighs Ban on Chinese-Made Router in Millions of American Homes](https://www.wsj.com/politics/national-security/us-ban-china-router-tp-link-systems-7d7507e6?st=SEX5iL&reflink=desktopwebshare_permalink) (WSJ)
+  * [Nvidia's new $249 AI development board promises 67 TOPS at half the price of the previous 40 TOPS model](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-new-usd249-ai-development-board-that-does-67-tops) (TomsHardware)
+  * [Nvidia’s $249 dev kit promises cheap, small AI power](https://www.theverge.com/2024/12/17/24323450/nvidia-jetson-orin-nano-super-developer-kit-software-update-ai-artificial-intelligence-maker-pc) (The Verge)
+  * [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1) (Financial Times)
+  * [Grubhub to pay $25 million for misleading customers, restaurants, drivers](https://www.reuters.com/legal/grubhub-pay-25-million-misleading-customers-restaurants-drivers-2024-12-17/) (Reuters)
+  * [‘Red One’ Becomes Most-Watched Prime Video Film Debut Ever With 50 Million Viewers After Modest Theatrical Run](https://variety.com/2024/film/news/red-one-prime-video-50-million-viewers-1236251153/) (Variety)
+  * [Here’s a Hollywood Twist: Streaming Success Runs Through Theaters](https://www.nytimes.com/2024/12/17/business/media/streaming-movies-theaters.html) (NYTimes)
+  * [Instagram Expected to Generate 50% of Meta’s US Ad Sales in 2025](https://www.bloomberg.com/news/articles/2024-12-18/instagram-expected-to-generate-50-of-meta-s-us-ad-sales-in-2025?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Tuesday, December 17 2024 - Tue. 12/17 – TikTok CEO Dines With Trump**
+
+  * [Trump meets with TikTok CEO as video app challenges potential ban](https://www.nbcnews.com/tech/social-media/trump-meets-tiktok-ceo-video-app-challenges-potential-ban-rcna184450) (NBCNews)
+  * [TikTok Asks Supreme Court to Block Law Banning Its U.S. Operations](https://www.nytimes.com/2024/12/16/us/politics/tiktok-ban-supreme-court-first-amendment.html) (NYTimes)
+  * [Google DeepMind unveils a new video model to rival Sora](https://techcrunch.com/2024/12/16/google-deepmind-unveils-a-new-video-model-to-rival-sora/) (TechCrunch)
+  * [FTC issues rules requiring hotels, ticket sellers to reveal ‘junk fees’](https://www.washingtonpost.com/business/2024/12/17/ftc-cracks-down-on-junk-fees/) (WashingtonPost)
+  * [Waymo to begin testing in Tokyo, its first international destination](https://www.cnbc.com/2024/12/16/waymo-to-begin-testing-in-tokyo-its-first-international-destination-.html) (CNBC)
+  * [His Startup Is Now Worth $62 Billion. It Gave Away Its First Product Free. ](https://www.wsj.com/tech/ali-ghodsi-databricks-ceo-ai-4a1043aa?st=F4GpJJ&reflink=desktopwebshare_permalink)(WSJ)
+  * [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in) (The Verge)
+
+
+
+**Monday, December 16 2024 - Mon. 12/16 – The Coming Battle Of Elon v. Sam**
+
+  * [Meta Urges California Attorney General to Stop OpenAI From Becoming For-Profit](https://www.wsj.com/tech/ai/elon-musk-open-ai-lawsuit-response-c1f415f8?st=GeiGcV&reflink=desktopwebshare_permalink) (WSJ)
+  * [OpenAI hits back at Elon Musk's lawsuit in court filing](https://www.axios.com/2024/12/13/elon-musk-openai-altman-lawsuit-filing-nonprofit) (Axios)
+  * [Sam Altman reckons with a growing threat to OpenAI: Elon Musk](https://www.ft.com/content/61a5f0b0-2633-4e27-813a-ac1a8ad29599) (Financial Times)
+  * [Apple’s New Vision for Computing Is a Giant Foldable iPad](https://www.bloomberg.com/news/newsletters/2024-12-15/apple-working-on-giant-foldable-ipad-revamped-mouse-longer-range-airtag-2?sref=Szq5ylDR) (Bloomberg)
+  * [Europe signs €10.6bn Iris² satellite deal in bid to rival Elon Musk’s Starlink](https://www.ft.com/content/8e75ed31-0c72-4160-b406-1ca6aa36a84f) (Financial Times)
+  * [Chip groups Arm and Qualcomm square off in high-stakes US trial](https://www.ft.com/content/fa569924-bbde-4c59-b8da-8dbab782a60a) (Financial Times)
+
+**Friday, December 13 2024 - Fri. 12/13 – Gemini As The New Android/OS?**
+
+  * [I saw Google’s plan to put Android on your face](https://www.theverge.com/2024/12/12/24319528/google-android-xr-samsung-project-moohan-smart-glasses) (The Verge)
+  * [Google’s NotebookLM AI podcast hosts can now talk to you, too](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus) (The Verge)
+  * [Google says its breakthrough quantum chip can’t break modern cryptography](https://www.theverge.com/2024/12/12/24319879/google-willow-cant-break-rsa-cryptography) (The Verge)
+  * [Liquid Set to Raise $250 Million to Build AI Inspired by Tiny Worm Brains](https://www.bloomberg.com/news/articles/2024-12-13/liquid-ai-raising-250-million-to-build-ai-inspired-by-worm-brains?sref=Szq5ylDR) (Bloomberg)
+
+
+
+**Thursday, December 12 2024 - Thu. 12/12 – The “Killer App” For Vision Pro?**
+
+  * [The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk) (The Verge)
+  * [Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming model](https://simonwillison.net/2024/Dec/11/gemini-2/) (Simon Willison's Blog)
+  * [FCC Opens Entire 6-GHz Band to Very-Low-Power Device Operations](https://www.tvtechnology.com/news/fcc-opens-entire-6-ghz-band-to-very-low-power-device-operations) (TV Tech)
+  * [The Vision Pro’s ultrawide Mac display is very close to being a killer app](https://www.theverge.com/2024/12/11/24301921/vision-pro-ultrawide-mac-display-visionos-2-2-killer-app) (The Verge)
+  * [China’s Instagram-Style Xiaohongshu Crosses $1 Billion in Profit](https://www.bloomberg.com/news/articles/2024-12-12/china-s-instagram-style-xiaohongshu-crosses-1-billion-in-profit?sref=Szq5ylDR) (Bloomberg)
+  * [Harvard Is Releasing a Massive Free AI Training Dataset Funded by OpenAI and Microsoft](https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/) (Wired)
+  * [US chipmaking boom in doubt after Biden’s defeat](https://www.ft.com/content/e478dd6c-6dad-4795-9610-1098c2d33d88) (Financial Times)
+
+
+
+**Wednesday, December 11 2024 - Wed. 12/11 – Gemini 2.0**
+
+  * [GM to refocus autonomous driving development on personal vehicles](https://investor.gm.com/news-releases/news-release-details/gm-refocus-autonomous-driving-development-personal-vehicles) (GM Investor Relations)
+  * [GM Calls It Quits on Mary Barra’s $50 Billion Robotaxi Dream](https://www.bloomberg.com/news/articles/2024-12-10/gm-to-wind-down-robotaxi-operations-once-championed-by-ceo-barra?sref=Szq5ylDR) (Bloomberg)
+  * [Apple’s Next Ultra Smartwatch Will Be Able to Send Texts Via Satellite](https://www.bloomberg.com/news/articles/2024-12-10/apple-plans-apple-watch-ultra-3-next-year-with-satellite-texting-and-5g?sref=Szq5ylDR) (Bloomberg)
+  * [Google Rolls Out Faster Gemini AI Model to Power Agents](https://www.bloomberg.com/news/articles/2024-12-11/google-rolls-out-faster-gemini-ai-model-to-power-agents?sref=Szq5ylDR) (Bloomberg)
+  * [Google’s new Trillium AI chip delivers 4x speed and powers Gemini 2.0](https://venturebeat.com/ai/google-new-trillium-ai-chip-delivers-4x-speed-and-powers-gemini-2-0/) (VentureBeat)
+  * [Gemini 2.0, Google’s newest flagship AI, can generate text, images, and speech](https://techcrunch.com/2024/12/11/gemini-2-0-googles-newest-flagship-ai-can-generate-text-images-and-speech/) (TechCrunch)
+  * [Google unveils AI coding assistant ‘Jules,’ promising autonomous bug fixes and faster development cycles](https://venturebeat.com/ai/google-unveils-ai-coding-assistant-jules-promising-autonomous-bug-fixes-and-faster-development-cycles/) (VentureBeat)
+  * [Google unveils Project Mariner: AI agents to use the web for you](https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you/) (TechCrunch)
+
+
+
+**Tuesday, December 10 2024 - Tue. 12/10 – Amazon Autos**
+
+  * [You Can Buy a Car on Amazon Now](https://www.wired.com/story/buy-a-car-on-amazon-hyundai/) (Wired)
+  * [US finalizes $6.1 bln Micron chip-making subsidy](https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/) (Reuters)
+  * [Memory chip maker Micron’s $6.1 billion grant confirmed by Commerce Dept.](https://www.washingtonpost.com/business/2024/12/10/micron-grant-chips-and-science-act/) (Washington Post)
+  * [OpenAI-Backed Language Tutor Startup Doubles Value to $1 Billion](https://www.bloomberg.com/news/articles/2024-12-10/openai-backed-language-tutor-startup-doubles-value-to-1-billion?sref=Szq5ylDR) (Bloomberg)
+  * [Solos challenges Meta’s Ray-Bans with $299 ChatGPT smart glasses](https://www.theverge.com/2024/12/10/24317805/solos-airgo-vision-chatgpt-ai-smart-glasses-price-availability) (The Verge)
+  * [Microsoft Unveils Zero-Water Data Centers to Reduce AI Climate Impac](https://www.bloomberg.com/news/articles/2024-12-09/microsoft-unveils-zero-water-data-centers-to-reduce-ai-climate-impact?sref=Szq5ylDR)t (Bloomberg)
+  * [Bluesky teases paid subscription, Bluesky+, in new mockup](https://techcrunch.com/2024/12/09/bluesky-teases-paid-subscription-bluesky-in-new-mockup/) (TechCrunch)
+  * [I just went hands-on with Sora — the good, the bad, and the wow](https://www.tomsguide.com/ai/ai-image-video/i-just-went-hands-on-with-sora-the-good-the-bad-and-the-wow) (Tom's Guide)
+
+
+
+**Monday, December 09 2024 - Mon. 12/09 – OpenAI Releases Sora**
+
+  * [Sora is here](https://openai.com/index/sora-is-here/) (OpenAI)
+  * [OpenAI’s controversial Sora is finally launching today. Will it truly disrupt Hollywood?](https://www.latimes.com/entertainment-arts/business/story/2024-12-09/openais-controversial-text-to-video-tool-sora-is-widely-released) (LATimes)
+  * [OpenAI releases Sora, its buzzy AI video-generation tool](https://www.cnbc.com/2024/12/09/openai-releases-sora-its-buzzy-ai-video-generation-tool.html) (CNBC)
+  * [Appeals Court Upholds U.S. Ban of TikTok](https://www.wsj.com/politics/policy/tik-tok-congress-ban-court-ruling-1f0d6837?st=CAPdii&reflink=desktopwebshare_permalink) (WSJ)
+  * [Nvidia Hit With China Probe in Global Tech War Escalation](https://www.bloomberg.com/news/articles/2024-12-09/china-targets-nvidia-for-potential-breaches-of-anti-monopoly-law?sref=Szq5ylDR) (Bloomberg)
+  * [Apple, Sony Discuss Teaming Up on Gaming Controllers for Vision Pro](https://www.bloomberg.com/news/newsletters/2024-12-08/apple-sony-talk-playstation-vr-ps-vr2-hand-controller-support-for-vision-pro?sref=Szq5ylDR) (Blooomberg)
+  * [Quantum Computing Inches Closer to Reality After Another Google Breakthrough](https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html) (NYTimes)
+  * [Google Debuts New Quantum Chip, Error Correction Breakthrough, and Roadmap Details](https://www.hpcwire.com/2024/12/09/google-debuts-new-quantum-chip-error-correction-breakthrough-and-roadmap-details/) (HPCWire)
+
+
+
+**Friday, December 06 2024 - Fri. 12/06 – Santa Sam Makes His First Delivery**
+
+  * [OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model](https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier) (The Verge)
+  * [Trump Names David Sacks as White House AI and Crypto Czar](https://www.bloomberg.com/news/articles/2024-12-06/trump-names-david-sacks-as-white-house-ai-and-crypto-czar?sref=Szq5ylDR) (Bloomberg)
+  * [Here’s everything new Samsung’s Android 15 update, One UI 7, and the full changelog [Gallery] ](https://9to5google.com/samsung-one-ui-7-android-15-update-changelog-everything-new/)(9to5Google)
+  * [OpenAI seeks to unlock investment by ditching ‘AGI’ clause with Microsoft](https://www.ft.com/content/2c14b89c-f363-4c2a-9dfc-13023b6bce65) (Financial Times)
+  * [The Surface Studio is dead? — Microsoft ends production on $4,500 Surface Studio 2+ as stock dwindles](https://www.windowscentral.com/hardware/surface/the-surface-studio-is-dead-microsoft-ends-production-on-surface-studio-2-as-stock-dwindles) (Windows Central)
+  * [Hawk Tuah memecoin dumps 90% amid backlash over controversial launch](https://cointelegraph.com/news/hawk-tuah-memecoin-dumps-90-percent-outrage-token-launch-insider) (Cointelegraph)
+  * [What Pat Gelsinger’s exit means for Intel and the US Chips Act](https://www.ft.com/content/b9f847c6-eeb2-40f1-96fa-6ac6e647a7bf) (Financial Times)
+
+
+
+**Thursday, December 05 2024 - Thu. 12/05 – Bitcoin $100k!**
+
+  * [Crypto Trading Volume Surged to $10 Trillion for the First Time in November](https://www.bloomberg.com/news/articles/2024-12-04/crypto-trading-volume-surged-to-10-trillion-for-the-first-time-in-november?sref=Szq5ylDR) (Bloomberg)
+  * [Trump Picks Paul Atkins to Run the S.E.C.](https://www.nytimes.com/2024/12/04/business/trump-sec-paul-atkins.html) (NYTimes)
+  * [Trump Taps Vance Aide Gail Slater as Top DOJ Antitrust Cop](https://www.bloomberg.com/news/articles/2024-12-04/trump-taps-vance-aide-gail-slater-as-top-doj-antitrust-cop?sref=Szq5ylDR) (Bloomberg)
+  * [Amazon announces Nova, a new family of multimodal AI models](https://techcrunch.com/2024/12/03/amazon-announces-nova-a-new-family-of-multimodal-ai-models/) (TechCrunch)
+  * [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/) (Simon Willison's Blog)
+  * [DeepMind’s Genie 2 can generate interactive worlds that look like video games](https://techcrunch.com/2024/12/04/deepminds-genie-2-can-generate-interactive-worlds-that-look-like-video-games/) (TechCrunch)
+  * [Google Introduces A.I. Agent That Aces 15-Day Weather Forecasts](https://www.nytimes.com/2024/12/04/science/google-ai-weather-forecast.html) (NYTimes)
+  * [Key leaders behind Google’s viral NotebookLM are leaving to create their own startup](https://techcrunch.com/2024/12/04/key-leaders-behind-googles-viral-notebooklm-are-leaving-to-create-their-own-startup/) (TechCrunch)
+  * [Waymo to expand to Miami, aims to launch robotaxi service there in 2026](https://www.cnbc.com/2024/12/05/waymo-announces-robotaxi-expansion-to-miami.html) (CNBC)
+
+
+
+**Wednesday, December 04 2024 - Wed. 12/04 – Spotify Wrapped 2024 Has NotebookLM Baked In**
+
+  * [U.S. officials urge Americans to use encrypted apps amid unprecedented cyberattack](https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694) (NBCNews)
+  * [Ubisoft shutting down XDefiant in 2025, laying off half of its team](https://www.polygon.com/gaming/490491/ubsioft-xdefiant-shutting-down) (Polygon)
+  * [Spotify Wrapped 2024 adds an AI podcast powered by Google’s NotebookLM](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-adds-an-ai-podcast-powered-by-googles-notebooklm/) (TechCrunch)
+  * [Smart Home Market Becomes Apple’s Next Strategic Target; New HomePod with Display Set to Be Key Product in Apple’s Smart Home Strategy](https://medium.com/@mingchikuo/smart-home-market-becomes-apples-next-strategic-target-new-homepod-with-display-set-to-be-key-c92f44760a7c) (Ming-Chi Kuo)
+  * [Google’s new generative AI video model is now available](https://www.theverge.com/2024/12/4/24312938/google-veo-generative-ai-video-model-available-preview) (The Verge)
+  * [AWS announces Aurora DSQL, a new distributed SQL database that promises virtually unlimited scalability](https://techcrunch.com/2024/12/03/aws-announces-aurora-dsql-a-new-distributed-sql-database-that-promises-virtually-unlimited-scalability/) (TechCrunch)
+  * [Kindle Scribe 2 review in progress: Is slightly useful AI worth the extra cash?](https://www.engadget.com/mobile/tablets/kindle-scribe-2-review-in-progress-is-slightly-useful-ai-worth-the-extra-cash-140018638.html) (Engadget)
+
+
+
 **Tuesday, December 03 2024 - Tue. 12/03 – Where Does Intel Go From Here?**
 
   * [Exclusive: Intel's CEO-shortlist candidates include former board member Lip-Bu Tan, sources say](https://www.reuters.com/business/intels-ceo-shortlist-candidates-include-former-board-member-lip-bu-tan-sources-2024-12-03/) (Reuters)

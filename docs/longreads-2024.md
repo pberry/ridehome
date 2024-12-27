@@ -2,6 +2,117 @@
 
 _This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Friday, December 27**
+  * [Video Games Can’t Afford to Look This Good](https://www.nytimes.com/2024/12/26/arts/video-games-graphics-budgets.html?unlocked_article_code=1.kU4.kZgi.GhLcvDdLUkB1) (NYTimes)
+  * [Hawk Tuah Wasn’t What It Seemed](https://www.theatlantic.com/technology/archive/2024/12/hawk-tuah-rise-and-fall/681177/) (The Atlantic)
+  * [The Paper Passport Is Dying](https://www.wired.com/story/the-paper-passport-is-dying/) (Wired)
+  * [You Need to Create a Secret Password With Your Family](https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/) (Wired)
+
+
+**Friday, December 13**
+  * [The Cult of Claude](https://www.nytimes.com/2024/12/13/technology/claude-ai-anthropic.html) (NYTimes)
+  * [How WhatsApp ate the world](https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/?utm_source=bsky) (Rest Of World)
+
+
+**Friday, December 06**
+  * [He Was Going to Save Intel. He Destroyed $150 Billion of Value Instead.](https://www.wsj.com/tech/intel-ceo-pat-gelsinger-chips-bd4d61f9?st=4aRF9J&reflink=desktopwebshare_permalink) (WSJ)
+  * [Friend or Faux](https://www.theverge.com/c/24300623/ai-companions-replika-openai-chatgpt-assistant-romance) (The Verge)
+  * [When a Telescope Is a National-Security Risk](https://www.theatlantic.com/science/archive/2024/12/vera-rubin-telescope-spy-satellite/680814/) (The Atlantic)
+
+
+**Wednesday, November 27**
+  * [Should You Still Learn to Code in an A.I. World?](https://www.nytimes.com/2024/11/24/business/computer-coding-boot-camps.html) (NYTimes)
+  * [Bad influence](https://www.theverge.com/2024/11/26/24303161/amazon-influencers-lawsuit-copyright-clean-aesthetic-girl-sydney-nicole-gifford-alyssa-sheil) (The Verge)
+
+
+**Friday, November 22**
+  * [Here’s some cool stuff you can do with Bluesky](https://www.theverge.com/24295933/bluesky-social-network-custom-how-to) (The Verge)
+  * [How Mark Zuckerberg has fully rebuilt Meta around Llama](https://fortune.com/2024/11/19/zuckerberg-meta-ai-openai-llama/?sge246) (Fortune)
+  * [Are the robots finally coming?](https://ig.ft.com/ai-robots/) (FT)
+
+
+**Friday, November 15**
+  * [Not even Spotify is safe from AI slop](https://www.theverge.com/2024/11/14/24294995/spotify-ai-fake-albums-scam-distributors-metadata) (The Verge)
+  * [Klarna’s Seb Siemiatkowski — from burger flipping to billionaire club](https://www.ft.com/content/b5068a36-f4ed-43ec-97e1-57b0de37e6ab) (Financial Times)
+  * [Inside the Billion-Dollar Startup Bringing AI Into the Physical World](https://www.wired.com/story/physical-intelligence-ai-robotics-startup/) (Wired)
+
+
+**Friday, November 08**
+  * [Your TV set has become a digital billboard. And it’s only getting worse.](https://arstechnica.com/gadgets/2024/08/tv-industrys-ads-tracking-obsession-is-turning-your-living-room-into-a-store/?utm_source=flipboard&utm_content=tech%2Fmagazine%2FTech+Longreads) (ArsTechnica)
+  * [What I Learned From Destroying Myself at the NYC Marathon](https://nymag.com/intelligencer/article/nyc-marathon-what-i-learned.html?src=longreads) (Intelligencer)
+
+
+**Friday, November 01**
+  * [Meta’s AI Abundance](https://stratechery.com/2024/metas-ai-abundance/) (Stratechery)
+  * [After Era of Bloat, Veteran Video-Game Developers Are Going Smaller](https://www.bloomberg.com/news/articles/2024-10-30/after-era-of-bloat-veteran-video-game-developers-are-going-smaller?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczMDI5Mzg1NCwiZXhwIjoxNzMwODk4NjU0LCJhcnRpY2xlSWQiOiJTTTY2U0lEV1JHRzAwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.7EsoDulKRWQ_my3FkAj5uCQn7KwoxAghs5qa4JI4V1k&sref=Szq5ylDR) (Bloomberg)
+
+
+**Friday, October 25**
+  * [The mystifying, acrimonious battle between Arm and Qualcomm](https://www.ft.com/content/015ddc85-09ac-447d-bdb9-6db5ced01889) (Financial Times)
+  * [Who Gets the TikTok in the Divorce? The Messy Fight Over Valuable Social Media Accounts](https://www.wsj.com/lifestyle/relationships/tiktok-influencers-marriage-divorce-youtube-instagram-a73c0e34?st=bMg7v1&reflink=desktopwebshare_permalink) (WSJ)
+
+
+**Friday, October 11**
+  * [Google’s Nobel Haul Puts Spotlight on Changing Focus of Scientific Research](https://www.bloomberg.com/news/newsletters/2024-10-11/google-s-nobel-haul-puts-spotlight-on-changing-focus-of-scientific-research?sref=Szq5ylDR) (Bloomberg)
+  * [The Miraculous Resurrection of Notre-Dame](https://www.gq.com/story/the-miraculous-resurrection-of-notre-dame?src=longreads) (GQ)
+
+**Friday, October 04**
+  * [Saving Cyberpunk 2077: How CD Projekt Red recovered from one of video games' most disastrous launches ](https://www.eurogamer.net/saving-cyberpunk-2077-how-cd-projekt-red-recovered-from-one-of-video-games-most-disastrous-launches)(EuroGamer)
+  * [The Flying Car Is Finally Here. It’s Slightly Illegal.](https://nymag.com/intelligencer/article/flying-car-lift-hexa-pivotal-blackfly-evtol.html) (Intelligencer)
+
+
+
+**Friday, September 27**
+  * [McDonald’s touchscreen kiosks were feared as job killers. Instead, something surprising happened](https://www.cnn.com/2024/09/20/business/self-service-kiosks-mcdonalds-shake-shack/index.html) (CNN)
+  * [Apple Rolls Back Its Big Plans to Release Movies in Theaters](https://www.bloomberg.com/news/articles/2024-09-27/apple-movies-won-t-be-coming-to-theaters-anytime-soon?sref=Szq5ylDR) (Bloomberg)
+  * [The 27-Year-Old Economic Adviser for Gen Z](https://www.wsj.com/personal-finance/kyla-scanlon-economy-vibecession-interest-rates-30444e05) (WSJ)
+
+
+**Friday, September 20**
+  * [American Vulcan - Palmer Luckey](https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril?utm_source=flipboard&utm_content=tech%2Fmagazine%2FTech+Longreads) (TabletMag)
+  * [The Death of the Minivan](https://www.theatlantic.com/technology/archive/2024/09/minivan-suv-family-car/679919/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=twitter) (The Atlantic)
+
+
+**Friday, September 13**
+  * [Intel Has Only Tough Options After Its Long and Stinging Fall From Grace](https://www.bloomberg.com/news/articles/2024-09-11/intel-has-only-bad-options-as-gelsinger-s-spending-plan-falls-short?sref=Szq5ylDR) (Bloomberg)
+
+
+**Friday, September 06**
+  * [Waymo’s Robot Taxis Are Almost Mainstream. Can They Now Turn a Profit?](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html?unlocked_article_code=1.IU4.Bdvx.MzHRSkd4JTk6&smid=url-share) (NYTimes)
+  * [When the Bitcoin Scammers Came for Me](https://www.theatlantic.com/ideas/archive/2024/09/bitcoin-scams-lonely-americans/679700/) (The Atlantic)
+  * [Among the Idlers](https://www.curbed.com/article/nyc-idling-law-citizen-air-complaint-program.html) (Curbed)
+
+**Friday, August 30**
+  * [Sunk cost (the Open Sea story)](https://www.theverge.com/24161573/opensea-crypto-nfts-workplace-rise-fall) (The Verge)
+  * [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/) (eieio.games)
+  * [I Watched Footage of Jerry Lewis’s Unreleased 1972 Holocaust Film](https://newrepublic.com/article/185434/watched-footage-jerry-lewis-unreleased-1972-holocaust-film) (The New Republic)
+  * [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell) (AnandTech)
+
+**Friday, August 23**
+  * [New Breed of EV Promises 700 Miles per Charge (Just Add Gas)](https://www.bloomberg.com/news/articles/2024-08-13/new-electric-vehicle-promises-700-miles-per-charge?sref=Szq5ylDR) (Bloomberg)
+  * [Popping the Bubble of Noise-Cancelling Headphones](https://www.newyorker.com/culture/infinite-scroll/popping-the-bubble-of-noise-cancelling-headphones) (The New Yorker)
+
+**Friday, August 16**
+  * [Inside the Snowflake-Databricks Rivalry, and Why Both Fear Microsoft](https://www.bloomberg.com/news/articles/2024-08-14/inside-the-snowflake-databricks-rivalry-and-why-both-fear-microsoft?sref=Szq5ylDR) (Bloomberg)
+  * [The Little Streamer That Could](https://www.nytimes.com/2024/08/13/business/media/tubi-movies-tv-streaming.html) (NYTimes)
+  * [Your Air Conditioner Is Lying to You](https://www.theatlantic.com/science/archive/2024/08/air-conditioning-eco-mode-money-saver/679413/?utm_source=twitter&utm_medium=social&utm_campaign=social) (The Atlantic)
+
+
+**Friday, August 09**
+  * [Why are so many car YouTubers quitting?](https://www.theverge.com/2024/8/7/24214600/car-youtube-quit-donut-car-throttle-hoonigan) (The Verge)
+  * [Moscow’s Spies Were Stealing US Tech — Until the FBI Started a Sabotage Campaign](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126) (Politico Magazine)
+
+**Friday, August 02**
+  * [A $500 Open Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/) (Wired)
+  * [The AI Keeps Score](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig) (The Verge)
+
+
+**Friday, July 26**
+  * [Airbnb Hosts Want Guests to Come to Them Directly](https://www.bloomberg.com/news/articles/2024-07-22/airbnb-hosts-look-to-cut-the-platform-out-in-mid-term-rentals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcyMTY0NzY4OSwiZXhwIjoxNzIyMjUyNDg5LCJhcnRpY2xlSWQiOiJTSDBVS0tUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.RiLrIINswxMTYS_HdDgu47gmX9HmQlIR_MnBQJM7yWQ&sref=Szq5ylDR) (Bloomberg)
+  * [Physicists may now have a way to make element 120 – the heaviest ever](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/) (New Scientist)
+  * [He says he invented Flamin’ Hot Cheetos. He didn’t, said Frito-Lay. Now he’s suing](https://www.latimes.com/california/story/2024-07-23/flamin-hot-cheetos-lawsuit-filed-over-origin-claims) (LATimes)
+
+
 **Friday, July 19**
   * [A One-Man Telemundo on TikTok](https://www.nytimes.com/2024/07/18/business/media/carlos-espina-tiktok.html) (NYTimes)
   * [Pooping on the Moon Is a Messy Business](https://www.wired.com/story/pooping-on-the-moon-is-a-messy-business/?src=longreads) (Wired)
