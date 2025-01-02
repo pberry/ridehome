@@ -13,6 +13,8 @@ pbkey = config["Main"]["pinboardkey"]
 rhfeed = feedparser.parse('https://techmeme.com/techmeme-ride-home-feed')
 
 for post in rhfeed.entries:
+	# if post is made on a Friday
+
 	cleanPost = post.summary.replace('\n', '')
 	soup = BeautifulSoup(cleanPost, 'html.parser')
 	postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
@@ -22,5 +24,5 @@ for post in rhfeed.entries:
 			# print (paragraph)
 			print ("**" + postPubTime + "**")
 			print (html2text.html2text(str(paragraph.next_sibling)))
-			print("[All long reads](https://pberry.github.io/ridehome/longreads.html)")
+			# print("[All long reads](https://pberry.github.io/ridehome/longreads.html)")
 	
