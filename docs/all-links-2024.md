@@ -3,6 +3,17 @@
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
 
+**Monday, December 30 2024 - Mon. 12/30 – Welcome To A USB-C Life**
+
+  * [AT&T, Verizon Say Networks Now Clear After Salt Typhoon Hack](https://www.bloomberg.com/news/articles/2024-12-28/at-t-says-its-network-is-now-clear-after-salt-typhoon-hack?sref=Szq5ylDR) (Bloomberg)
+  * [Trump Asks Supreme Court to Pause Law Threatening TikTok Ban](https://www.bloomberg.com/news/articles/2024-12-27/trump-urges-supreme-court-to-pause-law-threatening-tiktok-ban?sref=Szq5ylDR) (Bloomberg)
+  * [Biden administration proposes new cybersecurity rules to limit impact of healthcare data leaks](https://www.reuters.com/technology/cybersecurity/biden-administration-proposes-new-cybersecurity-rules-limit-impact-healthcare-2024-12-27/) (Reuters)
+  * [Banks Want In on Tether’s Billions in Stablecoin Profits](https://www.bloomberg.com/news/articles/2024-12-28/banks-want-in-on-tether-s-billions-in-stablecoin-profits?sref=Szq5ylDR) (Bloomberg)
+  * [‘Grand Theft Auto VI’ set to break records despite gaming slowdown](https://www.ft.com/content/1413cdb1-aee9-422f-8b78-15aa0bf40dca) (FT)
+  * [The USB-C charging mandate arrives in the EU — here’s what that means](https://www.theverge.com/24330106/usb-c-common-charger-directive-explained-europe) (The Verge)
+
+
+
 **Friday, December 27 2024 - Fri. 12/27 – A New “Definition” Of AGI**
 
   * [Microsoft and OpenAI Wrangle Over Terms of Their Blockbuster Partnership](https://www.theinformation.com/articles/microsoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership?rc=64g9cw) (The Information)
