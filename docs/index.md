@@ -2,11 +2,12 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 **Recent Stuff**
 
-* [Show Links by Day 2024](all-links-2024.md)
+* [Show Links by Day 2025](all-links-2025.md)
 * [Long reads 2024](longreads-2024.md)
 
 
 **Older Stuff**
+* [Show Links by Day 2024](all-links-2024.md)
 * [Show Links by Day 2023](all-links-2023.md)
 * [Show Links by Day 2022](all-links-2022.md)
 * [Show Links by Day Pre 2022](all-links.md)
