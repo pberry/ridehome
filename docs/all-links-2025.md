@@ -2,9 +2,27 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+**Monday, December 08 2025 - Netflix Faces Hostility**
+
+  * [Paramount Skydance launches hostile bid for WBD ‘to finish what we started,’ CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html) (CNBC)
+  * [Trump Warns Netflix-Warner Deal May Pose Antitrust ‘Problem’](https://www.bloomberg.com/news/articles/2025-12-07/trump-says-netflix-warner-bros-deal-will-need-review) (Bloomberg)
+  * [Netflix and the Hollywood End Game (Stratechery)](https://stratechery.com/2025/netflix-and-the-hollywood-end-game/)
+  * [Apple Rocked by Executive Departures, With Chip Chief at Risk of Leaving Next](https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next) (Bloomberg)
+  * [Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/) (Reuters)
+  * [SpaceX in Talks for $800 Billion Valuation Ahead of Potential 2026 IPO](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191?st=nNAurx&reflink=desktopwebshare_permalink) (WSJ)
+  * [An Empirical 100 Trillion Token Study with OpenRouter](https://openrouter.ai/state-of-ai) (OpenRouter)
+
+
+
 **Friday, December 05 2025 - The Albanian Army Wins!**
 
-No show links for this episode ¯\_(ツ)_/¯
+  * [Netflix agrees $83bn takeover of Warner Bros Discovery](https://www.ft.com/content/6532be94-c0bf-4101-8126-f249aa6be3c5) (FT)
+  * [New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html) (NYTimes)
+  * [X hit with $140 million EU fine for breaching content rules, TikTok settles ](https://www.reuters.com/sustainability/boards-policy-regulation/eu-fines-x-140-mln-breaching-online-content-rules-tiktok-settles-with-2025-12-05/)(Reuters)
+  * [Apple Departures Point to Challenges for iPhone’s Dominance](https://www.wsj.com/tech/apple-departures-point-to-challenges-for-iphones-dominance-32d7cdf7?st=gRFqtH&reflink=desktopwebshare_permalink) (WSJ)
+  * [Chatbots are now rivaling social networks as a core layer of internet infrastructure](https://the-decoder.com/chatbots-are-now-rivaling-social-networks-as-a-core-layer-of-internet-infrastructure/) (The Decoder)
+  * [Alleged Insider Nets $1 Million On Polymarket In 24 Hours](https://www.forbes.com/sites/boazsobrado/2025/12/04/alleged-insider-nets-1-million-on-polymarket-in-24-hours/) (Forbes)
+
 
 
 **Thursday, December 04 2025 - Meta To Abandon The Metaverse?**
@@ -51,9 +69,25 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
-**Wednesday, November 26 2025 - Polymarket Is Street Legal**
+**Friday, November 28 2025 - (BNS) Susan Lyne Part 2**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Thursday, November 27 2025 - (BNS) Susan Lyne Part 1**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
+**Wednesday, November 26 2025 - Polymarket Is Street Legal**
+
+  * [Trump aims to boost AI innovation, build platform to harness government data](https://www.reuters.com/business/trump-aims-boost-ai-innovation-build-platform-harness-government-data-2025-11-24/) (Reuters)
+  * [Polymarket Secures CFTC Approval for Regulated U.S. Return](https://www.coindesk.com/business/2025/11/25/polymarket-secures-cftc-approval-for-regulated-u-s-return) (CoinDesk)
+  * [In Las Vegas, Kalshi Is King](https://www.theinformation.com/articles/las-vegas-kalshi-king?rc=i9gkgs) (The Information)
+  * [Google must double AI serving capacity every 6 months to meet demand, AI infrastructure boss tells employees](https://www.cnbc.com/2025/11/21/google-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html) (CNBC)
+  * [Amazon’s Starlink competitor is launching with ‘world’s fastest satellite internet antenna’](https://www.theverge.com/news/827783/amazon-leo-ultra-antenna-enterprise-preview) (The Verge)
+  * [RAM prices are so out of control that stores are selling it like lobster](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center) (The Verge)
+
 
 
 **Tuesday, November 25 2025 - Is OpenAI In Trouble?**
@@ -78,7 +112,13 @@ No show links for this episode ¯\_(ツ)_/¯
 
 **Friday, November 21 2025 - The iOS Walls Are Crumbling In The Garden**
 
-No show links for this episode ¯\_(ツ)_/¯
+  * [Google cracked Apple’s AirDrop and is adding it to Pixel phones](https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10) (The Verge)
+  * [Altman Memo Forecasts ‘Rough Vibes’ Due to Resurgent Google](https://www.theinformation.com/articles/openai-ceo-braces-possible-economic-headwinds-catching-resurgent-google?rc=i9gkgs) (The Information)
+  * [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) (TechCrunch)
+  * [Americans' Social Media Use 2025](https://www.pewresearch.org/internet/2025/11/20/americans-social-media-use-2025/) (Pew Research Center)
+  * [IBM, Cisco outline plans for networks of quantum computers by early 2030s](https://www.reuters.com/business/media-telecom/ibm-cisco-outline-plans-networks-quantum-computers-by-early-2030s-2025-11-20/) (Reuters)
+  * [IBM, Cisco to collaborate on ‘internet’ of quantum computers](https://www.siliconrepublic.com/machines/ibm-cisco-to-collaborate-on-internet-of-quantum-computers) (Silicon Republic)
+
 
 
 **Thursday, November 20 2025 - Who Gets To Regulate AI?**
@@ -124,9 +164,20 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Now Tech Moguls Want to Build Data Centers in Outer Space](https://www.wsj.com/tech/now-tech-moguls-want-to-build-data-centers-in-outer-space-a8d08b4b?st=aK2n8a&reflink=article_copyURL_share) (WSJ)
 
 
-**Friday, November 14 2025 - OpenAI Enters The Group Chat**
+
+**Saturday, November 15 2025 - (Portfolio Profile) Hypercubic.AI**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, November 14 2025 - OpenAI Enters The Group Chat**
+
+  * [ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan](https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/) (TechCrunch)
+  * [Amazon and Microsoft Back Effort That Would Restrict Nvidia’s Exports to China](https://www.wsj.com/tech/amazon-and-microsoft-back-effort-that-would-restrict-nvidias-exports-to-china-21e29e01?st=A8NkxM&reflink=desktopwebshare_permalink) (WSJ)
+  * [OpenAI, Apple Lose Bid to Toss Musk xAI Suit Over Competition ](https://www.bloomberg.com/news/articles/2025-11-13/openai-apple-lose-bid-to-toss-musk-xai-suit-over-competition)(Bloomberg)
+  * [AI startup Cursor raises $2.3 billion funding round at $29.3 billion valuation](https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html) (CNBC)
+  * [You know those fake USPS texts? Google says it's found who's behind them](https://www.fastcompany.com/91440304/fake-ups-texts-google-suit) (Fast Company)
+
 
 
 **Thursday, November 13 2025 - Valve Takes On Consoles And VR**
@@ -170,9 +221,21 @@ No show links for this episode ¯\_(ツ)_/¯
   * [AI models given $10K to compete in first-of-its-kind crypto-trading competition — and most crashed and burned](https://nypost.com/2025/11/08/business/ai-models-given-10k-to-compete-in-first-of-its-kind-crypto-trading-competition-and-most-crashed-and-burned/) (NYPost)
 
 
-**Friday, November 07 2025 - Elon’s $1T Deal**
+
+**Saturday, November 08 2025 - (BNS) Jimmy Wales**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, November 07 2025 - Elon’s $1T Deal**
+
+  * [Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package](https://www.wsj.com/business/autos/elon-musk-tesla-pay-package-vote-9abd5a73?st=V4mPW6&reflink=desktopwebshare_permalink) (WSJ)
+  * [Lawsuits Blame ChatGPT for Suicides and Harmful Delusions](https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html?unlocked_article_code=1.zU8.Nd--.vak5P2CV73BJ&smid=url-share) (NYTimes)
+  * [‘Grand Theft Auto VI’ Is Postponed Again — to November 2026 ](https://www.bloomberg.com/news/articles/2025-11-06/-grand-theft-auto-vi-is-postponed-again-to-november-2026)(Bloomberg)
+  * [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) (CNBC)
+  * [Texas sues Roblox for 'putting paedophiles and profits' over safety](https://www.bbc.com/news/articles/cy0kd4kk0kqo) (BBC)
+  * ['It's organized crime': TikTok Shop says it's fighting a new wave of AI scammers](https://www.businessinsider.com/tiktok-shop-exec-ai-is-powerful-tool-for-ecommerce-fraud-2025-11) (Business Insider)
+
 
 
 **Thursday, November 06 2025 - Gemini To Power The New Siri?**
@@ -218,9 +281,20 @@ No show links for this episode ¯\_(ツ)_/¯
   * [For Podcasters, a Voice Clone Is a Double-Edged Sword](https://www.nytimes.com/2025/10/31/arts/podcast-ai-voices-clones.html) (NYTimes)
 
 
-**Friday, October 31 2025 - Amazon Didn’t Scare Investors**
+
+**Saturday, November 01 2025 - (BNS) Cohesity CEO Sanjay Poonen**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, October 31 2025 - Amazon Didn’t Scare Investors**
+
+  * [Amazon cloud records 20% sales growth, topping estimates](https://www.cnbc.com/2025/10/30/aws-q3-2025-earnings-report-amazon-cloud.html) (CNBC)
+  * [Microsoft seemingly just revealed that OpenAI lost $11.5B last quarter ](https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/)(The Register)
+  * [Sora now lets you pay extra to make more AI videos ](https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens)(The Verge)
+  * [Nvidia to Invest Up to $1 Billion in AI Startup Poolside](https://www.bloomberg.com/news/articles/2025-10-30/nvidia-to-invest-up-to-1-billion-in-ai-startup-poolside) (Bloomberg)
+  * [Nvidia Is Accelerating Its Investing Spree in AI Startups](https://www.bloomberg.com/news/articles/2025-10-29/nvidia-is-accelerating-its-ai-startup-investing-spree) (Bloomberg)
+
 
 
 **Thursday, October 30 2025 - Wall Street: Spend! (But Not Too Much…)**
@@ -264,6 +338,17 @@ No show links for this episode ¯\_(ツ)_/¯
   * [‘Do not trust your eyes’: AI generates surge in expense fraud](https://www.ft.com/content/0849f8fe-2674-4eae-a134-587340829a58) (FT)
 
 
+
+**Friday, October 24 2025 - (BNS) Baratunde Thurston**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
+**Thursday, October 23 2025 - (BNS) Hugging Face Founder Clément Delangue**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
 **Wednesday, October 22 2025 - OpenAI’s Browser: ChatGPT Atlas**
 
   * [OpenAI’s AI-powered browser, ChatGPT Atlas, is here](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent) (The Verge)
@@ -298,7 +383,14 @@ No show links for this episode ¯\_(ツ)_/¯
 
 **Friday, October 17 2025 - Skills For Claude As A New AI Paradigm?**
 
-No show links for this episode ¯\_(ツ)_/¯
+  * [Anthropic turns to ‘skills’ to make Claude more useful at work](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents) (The Verge)
+  * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) (Simon Willison)
+  * [Steam just broke its concurrent user record with 41.6 million gamers](https://www.tweaktown.com/news/108287/steam-just-broke-its-concurrent-user-record-with-41-6-million-gamers/index.html) (TweakTown)
+  * [Nintendo Aims to Make 25 Million Switch 2s to Set Gaming History ](https://www.bloomberg.com/news/articles/2025-10-17/nintendo-switch-2-production-plan-25-million-units-by-march-2026)(Bloomberg)
+  * [Wikipedia Says AI Is Causing a Dangerous Decline in Human Visitors ](https://www.404media.co/wikipedia-says-ai-is-causing-a-dangerous-decline-in-human-visitors/)(404media)
+  * [Uber Launches Data Tasks as Option for Some US Drivers to Earn Money](https://www.bloomberg.com/news/articles/2025-10-16/uber-giving-some-us-drivers-option-to-earn-money-from-tasks-like-uploading-menus) (Bloomberg)
+  * [Apple and F1 reach 5-year media deal, bringing all races to Apple TV streaming in the U.S.](https://www.cnbc.com/2025/10/17/apple-f1-media-deal-streaming.html) (CNBC)
+
 
 
 **Thursday, October 16 2025 - A $300 Trillion Oopsie**
@@ -334,9 +426,21 @@ No show links for this episode ¯\_(ツ)_/¯
   * [OpenAI Keeps Doing Deals](https://www.bloomberg.com/opinion/newsletters/2025-10-13/openai-keeps-doing-deals) (Matt Levine)
 
 
-**Friday, October 10 2025 - China’s Getting Tetchy Again**
+
+**Monday, October 13 2025 - (BNS) Jennifer Hyman Of Rent The Runway**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, October 10 2025 - China’s Getting Tetchy Again**
+
+  * [China blacklists major chip research firm TechInsights following report on Huawei](https://www.cnbc.com/2025/10/10/china-blacklists-major-chip-ai-research-firm-techinsights-analyzed-report-huawei.html) (CNBC)
+  * [OpenAI’s Sora hit 1 million downloads in less than five days](https://www.cnbc.com/2025/10/09/openais-sora-downloads.html) (CNBC)
+  * [OpenAI Is Catching Up To Anthropic in AI Coding](https://www.theinformation.com/articles/openai-catching-anthropic-ai-coding?rc=i9gkgs) (The Information)
+  * [Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’](https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/) (Wired)
+  * [It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic](https://www.theregister.com/2025/10/09/its_trivially_easy_to_poison/) (The Register)
+  * [Kalshi, a Prediction Market, Raises Funds and Expands Overseas ](https://www.nytimes.com/2025/10/10/business/dealbook/kalshi-prediction-market-fundraising.html)(NYTimes)
+
 
 
 **Thursday, October 09 2025 - Intel Punches Back**
@@ -382,9 +486,20 @@ No show links for this episode ¯\_(ツ)_/¯
   * [US and investors gambling on unproven nuclear technology, warn experts](https://www.ft.com/content/8a18e722-3efa-404e-9f2a-709eed877f18) (FT)
 
 
-**Friday, October 03 2025 - Apple Blocks ICEBlock**
+
+**Saturday, October 04 2025 - (BNS) How Snowflake Wrote The GTM Playbook**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, October 03 2025 - Apple Blocks ICEBlock**
+
+  * [Apple takes down ICE tracking apps after pressure from Bondi DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi) (Fox Business)
+  * [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) (TechCrunch)
+  * [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa) (Financial Times)
+  * [OpenAI wraps $6.6 billion share sale at $500 billion valuation ](https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html)(CNBC)
+  * [OpenAI’s invite-only video generation app Sora tops Apple’s App Store](https://www.cnbc.com/2025/10/03/openai-sora-apple-app-store.html) (CNBC)
+
 
 
 **Thursday, October 02 2025 - Apple To Bench The Vision Pro?**
@@ -433,9 +548,20 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
-**Friday, September 26 2025 - Is TikTok US Only Worth $14B?**
+**Saturday, September 27 2025 - (BNS) You're Not Killing It. Nobody Is Killing It. VC Legend Jerry Colonna**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, September 26 2025 - Is TikTok US Only Worth $14B?**
+
+  * [Trump signs executive order supporting proposed deal to put TikTok under US ownership](https://apnews.com/article/trump-tiktok-china-framework-deal-fff6094ef7012840ec726fcf2cb68aef) (AP)
+  * [TikTok Being Sold for a Song](https://spyglass.org/tiktok-sale-price-is-silly/) (Spyglass)
+  * [Amazon agrees largest ever civil penalty in $2.5bn settlement with US regulators](https://www.ft.com/content/69df3776-3286-40ea-8a9e-8f08a1314aa8) (Financial Times)
+  * [Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/) (TechCrunch)
+  * [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse) (The Verge)
+  * [Meta launches ‘Vibes,’ a short-form video feed of AI slop](https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/) (TechCrunch)
+
 
 
 **Thursday, September 25 2025 - Get Paid To Train AI On Your Phone Calls?**
@@ -484,9 +610,17 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
-**Friday, September 19 2025 - (CORRECT) OpenAI’s Hardware Plans Worry Apple**
+**Saturday, September 20 2025 - (BNS) Datadog Founder Olivier Pomel**
 
 No show links for this episode ¯\_(ツ)_/¯
+
+
+**Friday, September 19 2025 - (CORRECT) OpenAI’s Hardware Plans Worry Apple**
+
+  * [⁠⁠Nvidia in talks for $500mn investment in UK self-driving start-up Wayve⁠⁠](https://www.ft.com/content/cec76ea1-2cc1-4da3-a9e9-1d76aaa50afc) (FT)
+  * [⁠⁠Google Injects Gemini Into Chrome as AI Browsers Go Mainstream ⁠⁠](https://www.wired.com/story/google-gemini-ai-chrome-browser/)(Wired)
+  * [⁠⁠Software update shoves ads onto Samsung’s pricey fridges ⁠⁠](https://arstechnica.com/gadgets/2025/09/samsung-forces-ads-onto-fridges-is-a-bad-sign-for-other-appliances/)(ArsTechnica)
+
 
 
 **Thursday, September 18 2025 - Nvidia And Intel Get Together**
@@ -532,10 +666,19 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, September 13 2025 - (BNS) John Borthwick Of Betaworks**
+
+No show links for this episode ¯\_(ツ)_/¯
+
 
 **Friday, September 12 2025 - OpenAI And Microsoft Make Up And Make Nice?**
 
-No show links for this episode ¯\_(ツ)_/¯
+  * [OpenAI and Microsoft reach tentative deal to revise partnership](https://www.axios.com/2025/09/11/open-ai-microsoft-agreement-deal) (Axios)
+  * [OpenAI Takes Big Steps Toward Its Long-Planned Reorganization](https://www.nytimes.com/2025/09/11/technology/openai-microsoft-deal.html) (NYTimes)
+  * [OpenAI & Microsoft Agree to Agree, Tentatively](https://spyglass.org/openai-microsoft-agree-to-agree-tentatively/) (Spyglass)
+  * [Apple Watch hypertension alerts feature receives FDA clearance ](https://9to5mac.com/2025/09/11/apple-watch-hypertension-alerts-feature-receives-fda-clearance/)(9to5Mac)
+  * [Albania appoints AI bot as minister to tackle corruption](https://www.reuters.com/technology/albania-appoints-ai-bot-minister-tackle-corruption-2025-09-11/) (Reuters)
+
 
 
 **Thursday, September 11 2025 - Oh THAT $300B Contract With OpenAI…**
@@ -582,6 +725,11 @@ No show links for this episode ¯\_(ツ)_/¯
   * [ElevenLabs to Let Staff Sell Shares at $6.6 Billion Valuation](https://www.bloomberg.com/news/articles/2025-09-08/elevenlabs-to-let-staff-sell-shares-at-6-6-billion-valuation) (Bloomberg)
   * [AI Generated 'Boring History' Videos Are Flooding YouTube and Drowning Out Real History](https://www.404media.co/ai-generated-boring-history-videos-are-flooding-youtube-and-drowning-out-real-history/) (404Media)
 
+
+
+**Saturday, September 06 2025 - (BNS) Tech:NYC CEO Julie Samuels**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, September 05 2025 - Now OpenAI Wants To Find You A Job**
@@ -805,6 +953,11 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, August 09 2025 - (BNS) Could AI Spending Blow Up The Economy? With Paul Kedrosky**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
 **Friday, August 08 2025 - Fri. 08/08 – GPT-5 Fallout**
 
   * [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/) (Simon Willison)
@@ -977,6 +1130,10 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, July 19 2025 - (BNS) Leap Labs**
+
+No show links for this episode ¯\_(ツ)_/¯
+
 
 **Friday, July 18 2025 - Fri. 07/18 – ChatGPT Agent**
 
@@ -1035,6 +1192,9 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, July 12 2025 - Mega Omnibus Episode**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, July 11 2025 - Fri. 07/11 – Grok: Let Me See What Elon Thinks**
@@ -1243,6 +1403,10 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, June 14 2025 - Omnibus 06/09**
+
+No show links for this episode ¯\_(ツ)_/¯
+
 
 **Friday, June 13 2025 - Fri. 06/13 – Stablecoins Everywhere**
 
@@ -1394,6 +1558,11 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Monday, May 26 2025 - (Bonus) Calmwave Profile**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
 **Friday, May 23 2025 - Fri. 05/23 – Tim Apple’s Very Bad Week**
 
   * [Trump says a 25% tariff ‘must be paid by Apple’ on iPhones not made in the U.S.](https://www.cnbc.com/2025/05/23/trump-tariff-apple-iphones-not-made-in-the-us.html) (CNBC)
@@ -1449,6 +1618,11 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Sunday, May 18 2025 - (Bonus) World Cup Of Entrepreneurs Part 2**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
 **Friday, May 16 2025 - Fri. 05/16 – Bribing Is The Oldest Form Of Hacking**
 
   * [Apple blocks Fortnite’s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic) (The Verge)
@@ -1459,6 +1633,10 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Next-gen CarPlay, branded CarPlay Ultra, starts rolling out today](https://9to5mac.com/2025/05/15/next-gen-carplay-ultra-available-today/) (9to5Mac)
 
 
+
+**Thursday, May 15 2025 - (Bonus) World Cup Of Entrepreneurs Part 1**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Wednesday, May 14 2025 - Wed. 05/14 – Airbnb’s Midlife Transformation**
@@ -1550,6 +1728,11 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Maker of AI ‘vibe coding’ app Cursor hits $9bn valuation](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2) (Financial Times)
   * [Reports: US losing edge in AI talent pool](https://www.semafor.com/article/05/02/2025/us-losing-edge-in-ai-talent-pool-reports-say) (Semafor)
 
+
+
+**Saturday, May 03 2025 - Omnibus Week Of 04/28**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, May 02 2025 - Fri. 05/02 – GTA 6 Delayed To 2026**
@@ -1783,6 +1966,10 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, April 05 2025 - (BNS) The Legality Of The AI Stuff**
+
+No show links for this episode ¯\_(ツ)_/¯
+
 
 **Friday, April 04 2025 - Fri. 04/04 – Has Intel Found A Way Out?**
 
@@ -1832,6 +2019,16 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Apple Readies Its Biggest Push Into Health Yet With New AI Doctor](https://www.bloomberg.com/news/newsletters/2025-03-30/apple-readies-biggest-push-into-health-yet-with-revamped-app-ai-doctor-service-m8vl97k2?sref=Szq5ylDR) (Bloomberg)
   * [Crypto’s Trumpian Embrace Is Leaving Bitcoin’s Big Rival Behind](https://www.bloomberg.com/news/articles/2025-03-29/crypto-s-trumpian-embrace-is-leaving-bitcoin-s-big-rival-behind?sref=Szq5ylDR) (Bloomberg)
 
+
+
+**Sunday, March 30 2025 - Me On The Big Technology Podcast Talking This Week In Tech**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
+**Saturday, March 29 2025 - (Essay) Silicon Valley's "Sovereign Tech Stack" Problem**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, March 28 2025 - Fri. 03/28 – CoreWeave’s Weak IPO**
@@ -2007,6 +2204,9 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, March 08 2025 - (Omnibus) Week Of 03/03/2025**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, March 07 2025 - Fri. 03/07 – “AI Wrappers” No Longer A Pejorative**
@@ -2127,7 +2327,7 @@ No show links for this episode ¯\_(ツ)_/¯
 
 **Friday, February 21 2025 - The 2,000th Episode Spectacular**
 
-
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Thursday, February 20 2025 - Thu. 02/20 – Microsoft’s Quantum Breakthrough**
@@ -2232,6 +2432,11 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, February 08 2025 - (Omnibus) Week Of 02/03/2025**
+
+No show links for this episode ¯\_(ツ)_/¯
+
+
 **Friday, February 07 2025 - Fri. 02/07 – UK Backdoor Into iPhones?**
 
   * [U.K. orders Apple to let it spy on users’ encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/) (Washington Post)
@@ -2288,6 +2493,11 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Stablecoins are finding product-market fit in emerging markets](https://techcrunch.com/2025/01/31/stablecoins-are-finding-product-market-fit-in-emerging-markets/) (TechCrunch)
   * [That AI-restored Beatles song won Grammy for Best Rock Performance](https://www.theverge.com/news/604970/beatles-ai-restored-song-now-and-then-grammy-win) (The Verge)
 
+
+
+**Saturday, February 01 2025 - (BNS) Terra Trust And How To Build In Uncertain Times**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, January 31 2025 - Fri. 01/31 – Zuck’s Complaints About Leaks… Leaks**
@@ -2395,6 +2605,10 @@ No show links for this episode ¯\_(ツ)_/¯
 
 
 
+**Saturday, January 18 2025 - (BNS) Senator Ron Wyden On TikTok, AI, Regulation And His New Book**
+
+No show links for this episode ¯\_(ツ)_/¯
+
 
 **Friday, January 17 2025 - Fri. 01/17 – TikTok Loses In The Supreme Court**
 
@@ -2452,6 +2666,10 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Xiaohongshu, China’s answer to Instagram, hits no. 1 on the App Store as TikTok faces US shutdown ](https://techcrunch.com/2025/01/13/xiaohongshu-chinas-answer-to-instagram-hits-no-1-on-the-app-store-as-tiktok-faces-us-shutdown/)(TechCrunch)
 
 
+
+**Saturday, January 11 2025 - (BNS) Simon Willison And SWYX Tell Us Where AI Is In 2025**
+
+No show links for this episode ¯\_(ツ)_/¯
 
 
 **Friday, January 10 2025 - Fri. 01/10 – The Controversies Continue**
@@ -2530,3 +2748,7 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors](https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors) (The Verge)
 
 
+
+**Wednesday, January 01 2025 - With Christina Warren**
+
+No show links for this episode ¯\_(ツ)_/¯
