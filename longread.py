@@ -1,3 +1,4 @@
+#!/Users/pberry/src/ridehome/env/bin/python
 # -*- coding: utf-8 -*-
 import feedparser
 import html2text
