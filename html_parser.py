@@ -70,10 +70,10 @@ def find_links_section(html):
     if result:
         return result
 
-    # Fallback: if no Links section, try single <ul>
+    # Fallback: if no Links section, return first <ul> (assume it's show links)
     soup = BeautifulSoup(html, 'html5lib')
     uls = soup.find_all("ul")
-    if len(uls) == 1:
+    if uls:
         return uls[0]
 
     return None

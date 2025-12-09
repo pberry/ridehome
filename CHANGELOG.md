@@ -10,17 +10,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - New test file `test_html_parser.py` with test-driven approach for HTML content parsing
 - Implemented `find_links_section()` function to extract links from HTML content
   - Handles standard pattern: "Links:" paragraph followed by `<ul>` element
-  - Fallback behavior: returns single `<ul>` when no "Links:" paragraph exists
-  - Safety check: returns `None` when multiple `<ul>` blocks exist (prevents ambiguity)
+  - Fallback behavior: returns first `<ul>` when no "Links:" paragraph exists (assumes it's show links)
 - Comprehensive test coverage for HTML parsing edge cases:
   - Test for explicit "Links:" section extraction
   - Test for single `<ul>` fallback behavior
-  - Test for multiple `<ul>` blocks (returns None)
+  - Test for multiple `<ul>` blocks (returns first `<ul>` as showlinks)
   - Test for plain text content (no HTML tags)
   - Test for timestamp pattern matching (ensures "15:35 Longreads" doesn't match)
   - Test for intro paragraph vs standalone header (ensures standalone header is matched)
+  - Test for paragraphs ending with period (filters out intro paragraphs)
   - Test for structural matching (paragraph followed by `<ul>`, not just shortest text)
   - Test for multiple paragraphs with `<ul>` next sibling (chooses shortest)
+  - Test for no "Links:" header but has "Weekend Longreads" header (returns first `<ul>`)
   - Test for Weekend Longreads section extraction
   - Test for Friday episodes with both regular links AND Weekend Longreads (ensures correct section is found)
 - **RSS Pattern Extraction Script** (`extract_rss_patterns.py`)
@@ -41,7 +42,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Technical Notes
 - Using BeautifulSoup with html5lib parser for HTML processing
 - Properly handles NavigableString vs Tag distinction in DOM traversal
-- All tests passing (10/10)
+- All tests passing (12/12)
 - Test coverage focuses on `<content:encoded>` HTML parsing, which is created by humans and highly inconsistent
 
 ### RSS Analysis Findings
@@ -97,6 +98,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - Solution: Combine both approaches - find paragraphs with `<ul>` next sibling, then choose shortest
   - Added test case: `test_multiple_paragraphs_with_ul_chooses_shortest`
   - Verified fix extracts correct Weekend Longreads section for November 26, 2025 episode (3 longreads, not 6 regular links)
+
+- **November 26, 2025 Showlinks Bug** - No "Links:" header regression
+  - Problem: Previous fix for longreads broke showlinks for episodes without explicit "Links:" header
+  - November 26 has no "Links:" paragraph, just intro followed by first `<ul>` with 6 regular links
+  - Old `find_links_section()` fallback only returned `<ul>` if exactly 1 exists → returned None for multiple `<ul>`
+  - This caused "No show links for this episode" message when 6 links actually existed
+  - Solution: Changed fallback to return first `<ul>` when no "Links:" header (assumes it's show links)
+  - Period filtering: Intro paragraphs ending with '.' are naturally filtered out by shortest-paragraph heuristic
+  - Added test cases: `test_paragraph_ending_with_period_is_not_section_header`, `test_returns_first_ul_when_multiple_ul_blocks_and_no_links_paragraph`, `test_returns_first_ul_when_no_links_header_but_has_longreads_header`
+  - Verified fix: November 26 now correctly shows 6 showlinks AND 3 longreads
 
 ### In Progress
 - Additional test coverage for edge cases (Sponsors section, more real-world samples)

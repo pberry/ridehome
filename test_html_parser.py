@@ -39,8 +39,8 @@ class TestLinksExtraction(unittest.TestCase):
         self.assertIsNotNone(result)
         self.assertEqual(result.name, 'ul')
 
-    def test_returns_none_when_multiple_ul_blocks_and_no_links_paragraph(self):
-        """Given HTML with multiple <ul> blocks and no 'Links:' paragraph, should return None"""
+    def test_returns_first_ul_when_multiple_ul_blocks_and_no_links_paragraph(self):
+        """Given HTML with multiple <ul> blocks and no 'Links:' paragraph, return first <ul>"""
         html = '''
             <p>Some intro text</p>
             <ul>
@@ -54,7 +54,36 @@ class TestLinksExtraction(unittest.TestCase):
 
         result = find_links_section(html)
 
-        self.assertIsNone(result)
+        # Return first <ul> when no explicit header (assume it's the show links)
+        self.assertIsNotNone(result)
+        self.assertEqual(result.name, 'ul')
+        items = result.find_all('li')
+        self.assertEqual(len(items), 1)
+        self.assertIn('First list item', items[0].get_text())
+
+    def test_returns_first_ul_when_no_links_header_but_has_longreads_header(self):
+        """When no 'Links:' header but has other section headers, return first <ul> as showlinks"""
+        # Real bug from November 26, 2025 - no explicit Links header
+        html = '''
+            <p><em><strong>Intro mentioning the Weekend Longreads Suggestions.</strong></em></p>
+            <ul>
+                <li><a href="https://example.com/link1">Regular Link 1</a></li>
+                <li><a href="https://example.com/link2">Regular Link 2</a></li>
+            </ul>
+            <p>Weekend Longreads Suggestions:</p>
+            <ul>
+                <li><a href="https://example.com/longread1">Longread 1</a></li>
+            </ul>
+        '''
+
+        result = find_links_section(html)
+
+        # Should return first <ul> (the show links), not None
+        self.assertIsNotNone(result)
+        self.assertEqual(result.name, 'ul')
+        links = result.find_all('a')
+        self.assertEqual(len(links), 2)
+        self.assertIn('Regular Link 1', links[0].get_text())
 
 
 class TestEdgeCases(unittest.TestCase):
@@ -183,6 +212,29 @@ State of the software engineering job market in 2025 (The Pragmatic Engineer)
         links = result.find_all('a')
         # Should find 3 longreads, not 6 regular links
         self.assertEqual(len(links), 3)
+        self.assertIn('Longread 1', links[0].get_text())
+
+    def test_paragraph_ending_with_period_is_not_section_header(self):
+        """Paragraphs ending with '.' are intro text, not section headers - filter them out"""
+        # Real bug from November 26, 2025 - intro ends with period, header ends with colon
+        html = '''
+            <p><em><strong>Intro mentioning the Weekend Longreads Suggestions.</strong></em></p>
+            <ul>
+                <li><a href="https://example.com/link1">Regular Link 1</a></li>
+                <li><a href="https://example.com/link2">Regular Link 2</a></li>
+            </ul>
+            <p>Weekend Longreads Suggestions:</p>
+            <ul>
+                <li><a href="https://example.com/longread1">Longread 1</a></li>
+            </ul>
+        '''
+
+        result = find_section(html, pattern="Weekend Longreads|Longreads Suggestions")
+
+        # Should skip intro ending with '.' and match header ending with ':'
+        self.assertIsNotNone(result)
+        links = result.find_all('a')
+        self.assertEqual(len(links), 1)
         self.assertIn('Longread 1', links[0].get_text())
 
 
