@@ -2127,7 +2127,7 @@ No show links for this episode ¯\_(ツ)_/¯
 
 **Friday, February 21 2025 - The 2,000th Episode Spectacular**
 
-No show links for this episode ¯\_(ツ)_/¯
+
 
 
 **Thursday, February 20 2025 - Thu. 02/20 – Microsoft’s Quantum Breakthrough**
@@ -2529,9 +2529,4 @@ No show links for this episode ¯\_(ツ)_/¯
   * [Number of US venture capital firms falls as cash flows to tech’s top investors](https://www.ft.com/content/7a787423-9466-4e55-8c0e-8811cfe44dd3) (Financial Times)
   * [Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors](https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors) (The Verge)
 
-
-
-**Wednesday, January 01 2025 - With Christina Warren**
-
-No show links for this episode ¯\_(ツ)_/¯
 
