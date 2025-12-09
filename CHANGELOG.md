@@ -7,6 +7,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- **Year Wrapped Report Generator** (`year_wrapped.py`)
+  - Spotify Wrapped-style year-end statistics report for any year
+  - Command-line interface: `python3 year_wrapped.py 2025` or `python3 year_wrapped.py --year 2024`
+  - Supports years 2022-2025 (all available data files)
+  - **Dual output format:**
+    - Console output with colored ASCII report
+    - Automatically generates markdown file at `docs/{year}-wrapped.md`
+  - Statistics generated:
+    - Episode counts and year coverage percentage (accounts for leap years)
+    - Total links shared with per-episode averages
+    - Top 10 sources for daily links and longreads with medal emojis (🥇🥈🥉)
+    - Big tech company mention counts with ASCII bar charts
+  - Tracks 10 major tech companies: Apple, Meta, Google, Netflix, OpenAI, Amazon, Anthropic, Microsoft, Tesla, Nvidia
+  - Error handling for missing files and invalid years
+  - Year-specific insights in markdown (e.g., "2024 saw Apple dominate headlines", "2025 was the year of AI dominance")
+  - Generated all historical wrapped reports: 2022, 2023, 2024, 2025
+  - Cross-year analysis: 2024 dominated by Apple (458 mentions) → 2025 shifted to OpenAI (364 mentions) showing AI narrative takeover
 - New test file `test_html_parser.py` with test-driven approach for HTML content parsing
 - Implemented `find_links_section()` function to extract links from HTML content
   - Handles standard pattern: "Links:" paragraph followed by `<ul>` element
