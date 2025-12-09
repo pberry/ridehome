@@ -1,14 +1,13 @@
+#!/Users/pberry/src/ridehome/env/bin/python
 # -*- coding: utf-8 -*-
 
 
 import feedparser
 import html2text
-import re
 import time
-from bs4 import BeautifulSoup
-from bs4.diagnose import diagnose
+from html_parser import find_links_section
 
-feedUrl = 'https://rss.art19.com/techmeme-ridehome'
+feedUrl = 'https://feeds.megaphone.fm/ridehome'
 #feedUrl = 'https://rss.art19.com/coronavirus-daily-briefing'
 rhfeed = feedparser.parse(feedUrl)
 
@@ -22,29 +21,36 @@ for post in rhfeed.entries:
 		podTitle = podTitleArray[0]
 
 	print ("\n**" + postPubTime + " - " + podTitle + "**\n")
-	cleanPost = post.summary.replace('\n', '')
-	soup = BeautifulSoup(cleanPost, 'html5lib')
-	linksBlock = soup.find_all("p", string=re.compile("Links(:*)$|Stories:$"))
 	
-	# check to see if we found anything
-	# specifically at least one paragraph stating Links were coming and that the following ul contains a tags
-	# this is a horrible way to do things but it's working so far
-	if len(linksBlock) > 0 and len(linksBlock[0].next_sibling.find_all('li')) > 0:
-		ul = str(linksBlock[0].next_sibling)
-		html = html2text.html2text(ul)
-		print (html)
-	else:
-		uls = soup.find_all("ul")
-		if len(uls) == 1:
-			print(html2text.html2text(str(uls[0])))
+	# Try to get HTML content from content:encoded first, fall back to summary
+	htmlContent = ""
+	if hasattr(post, 'content') and len(post.content) > 0:
+		# Look for HTML content (text/html type) first
+		html_content = None
+		for content_block in post.content:
+			if content_block.get('type', '').lower() in ['text/html', 'html']:
+				html_content = content_block.value
+				break
+		
+		if html_content:
+			htmlContent = html_content
 		else:
-			print("No show links for this episode ¯\_(ツ)_/¯\n")
-	linksBlock = soup.find_all("p", string=re.compile("^Sponsors(:*)(\ *)$"))
-	if len(linksBlock) > 0 and len(linksBlock[0].next_sibling.find_all('li')) > 0:
-		ul = str(linksBlock[0].next_sibling)
-		html = html2text.html2text(ul)
-		#print ("**Sponsors:**\n")
-		#print (html)
-	#print("[Subscribe to the ad-free Premium Feed inside your podcast app here!](https://kimberlite.fm/ridehome/)\n")
-	#print("[All show links](https://pberry.github.io/ridehome/all-links.html)")
+			# Fall back to first content block
+			htmlContent = post.content[0].value
+	elif hasattr(post, 'summary'):
+		htmlContent = post.summary
+	else:
+		print("No content found for this episode\n")
+		continue
+	
+	cleanPost = htmlContent.replace('\n', '')
+
+	# Use shared HTML parser to find links section
+	links_ul = find_links_section(cleanPost)
+
+	if links_ul:
+		html = html2text.html2text(str(links_ul))
+		print(html)
+	else:
+		print("No show links for this episode ¯\\_(ツ)_/¯\n")
 

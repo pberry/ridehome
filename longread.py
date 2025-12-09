@@ -1,28 +1,40 @@
 # -*- coding: utf-8 -*-
-import configparser
 import feedparser
 import html2text
-import re
 import time
-from bs4 import BeautifulSoup
+from html_parser import find_section
 
-config = configparser.ConfigParser()
-config.read('config.cfg')
-pbkey = config["Main"]["pinboardkey"]
-
-rhfeed = feedparser.parse('https://techmeme.com/techmeme-ride-home-feed')
+rhfeed = feedparser.parse('https://feeds.megaphone.fm/ridehome')
 
 for post in rhfeed.entries:
-	# if post is made on a Friday
+	# Extract HTML content from content:encoded first, fall back to summary
+	htmlContent = ""
+	if hasattr(post, 'content') and len(post.content) > 0:
+		# Look for HTML content (text/html type) first
+		html_content = None
+		for content_block in post.content:
+			if content_block.get('type', '').lower() in ['text/html', 'html']:
+				html_content = content_block.value
+				break
 
-	cleanPost = post.summary.replace('\n', '')
-	soup = BeautifulSoup(cleanPost, 'html.parser')
-	postPubTime = time.strftime("%A, %B %d" ,post.published_parsed)
+		if html_content:
+			htmlContent = html_content
+		else:
+			# Fall back to first content block
+			htmlContent = post.content[0].value
+	elif hasattr(post, 'summary'):
+		htmlContent = post.summary
+	else:
+		continue
 
-	for paragraph in soup.find_all('p'):
-		if "Longreads" in paragraph.text or "Suggestions:" in paragraph.text:
-			# print (paragraph)
-			print ("**" + postPubTime + "**")
-			print (html2text.html2text(str(paragraph.next_sibling)))
-			# print("[All long reads](https://pberry.github.io/ridehome/longreads.html)")
+	cleanPost = htmlContent.replace('\n', '')
+	postPubTime = time.strftime("%A, %B %d", post.published_parsed)
+
+	# Try to find Longreads or Suggestions sections
+	# Use specific pattern to avoid matching timestamps like "15:35 Longreads"
+	longreads_ul = find_section(cleanPost, pattern="Weekend Longreads|Longreads Suggestions")
+
+	if longreads_ul:
+		print("**" + postPubTime + "**")
+		print(html2text.html2text(str(longreads_ul)))
 	
