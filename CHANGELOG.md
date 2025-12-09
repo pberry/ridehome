@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.0.0] - 2025-12-09
+
 ### Added
 - **Year Wrapped Report Generator** (`year_wrapped.py`)
   - Spotify Wrapped-style year-end statistics report for any year
@@ -126,6 +128,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - Added test cases: `test_paragraph_ending_with_period_is_not_section_header`, `test_returns_first_ul_when_multiple_ul_blocks_and_no_links_paragraph`, `test_returns_first_ul_when_no_links_header_but_has_longreads_header`
   - Verified fix: November 26 now correctly shows 6 showlinks AND 3 longreads
 
-### In Progress
-- Additional test coverage for edge cases (Sponsors section, more real-world samples)
-- Integration tests for complete end-to-end workflow
+---
+
+**Release Highlights:** This major release represents a complete overhaul of the HTML parsing system with comprehensive test coverage, bug fixes for real-world RSS feed edge cases, and a brand new Year Wrapped report generator. The project now has proper documentation (CLAUDE.md) and follows strict TDD methodology.
