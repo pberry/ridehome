@@ -21,11 +21,20 @@ pip install feedparser html2text beautifulsoup4 html5lib
 
 ### Running Scripts
 ```bash
-# Extract show links for all episodes
-./showlinks.py > docs/all-links-2025.md
+# Update show links (default behavior)
+./extract.py
 
-# Extract Friday longreads
-./longread.py > docs/longreads-2025.md
+# Update Friday longreads
+./extract.py --type longreads
+
+# Update both show links and longreads
+./extract.py --type all
+
+# Print show links to stdout (legacy behavior)
+./extract.py --print > docs/all-links-2025.md
+
+# Print longreads to stdout (legacy behavior)
+./extract.py --type longreads --print > docs/longreads-2025.md
 
 # Generate year-end Wrapped report (Spotify Wrapped style)
 python3 year_wrapped.py 2025          # For 2025
@@ -49,7 +58,8 @@ python3 test_html_parser.py TestLinksExtraction.test_extracts_ul_after_links_par
 
 ### Core Flow: RSS → HTML Parser → Markdown Output
 
-1. **Feed Parsing** (`showlinks.py`, `longread.py`)
+1. **Feed Parsing** (`extract.py`)
+   - Unified extractor for both show links and longreads
    - Fetches RSS from `https://feeds.megaphone.fm/ridehome`
    - Extracts HTML from `<content:encoded>` field (preferred) or falls back to `<summary>`
    - HTML content is **created by humans** and **highly inconsistent** across 2,221 episodes
@@ -110,7 +120,7 @@ python3 test_html_parser.py TestLinksExtraction.test_extracts_ul_after_links_par
 1. Check if there's already a test case for your scenario in `test_html_parser.py`
 2. If not, add a test case FIRST (TDD approach)
 3. Run tests after ANY changes: `python3 test_html_parser.py`
-4. Verify against real RSS feed data: `python3 showlinks.py | head -50`
+4. Verify against real RSS feed data: `./extract.py --print | head -50`
 
 **Common pitfalls:**
 - BeautifulSoup's `.next_sibling` can return `NavigableString` (whitespace) - must skip to find actual `Tag`
