@@ -6,6 +6,41 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.2.0] - 2025-12-09
+
+### Changed
+- **Merged duplicate scripts into unified `extract.py`** - Eliminated 90%+ code duplication
+  - **New unified script:** `extract.py` replaces both `showlinks.py` and `longread.py`
+  - **Breaking change:** Old scripts deleted; use `extract.py` instead
+  - **Backward compatible output:** Print mode produces identical output to old scripts
+  - **New CLI interface:**
+    - `./extract.py` - Update showlinks (default behavior)
+    - `./extract.py --type longreads` - Update longreads
+    - `./extract.py --type all` - Update both in single run
+    - `./extract.py --print` - Print showlinks to stdout (legacy pipe behavior)
+    - `./extract.py --type longreads --print` - Print longreads to stdout
+  - **Configuration-driven design:** Type-specific behavior defined in `CONFIGS` dict
+    - Output file prefix (`all-links` vs `longreads`)
+    - Header template file (`showlinks-header.md` vs `longreads-header.md`)
+    - Entry type for parsing (`showlinks` vs `longreads`)
+    - Format options (podcast title inclusion, year display, spacing)
+  - **Shared functions:**
+    - `extract_html_content()` - HTML extraction from feed entries
+    - `format_entry()` - Type-agnostic entry formatting
+    - `print_mode()` - Stdout output
+    - `update_mode()` - File update workflow
+    - `insert_entries()` - Markdown file insertion
+  - **Type-specific behavior:**
+    - Show links: Uses `find_links_section()`, includes podcast title, double newline spacing
+    - Longreads: Uses `find_section()` with pattern, date-only header, single newline spacing
+  - **Testing:** Validated output matches old scripts byte-for-byte in print mode
+  - **Documentation:** Updated CHANGELOG.md and CLAUDE.md to reference `extract.py` throughout
+
+### Removed
+- **Deleted duplicate scripts:** `showlinks.py` and `longread.py`
+  - Replaced by unified `extract.py` with `--type` flag
+  - All functionality preserved with improved interface
+
 ## [1.1.0] - 2025-12-09
 
 ### Added
