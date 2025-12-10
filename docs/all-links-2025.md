@@ -2,6 +2,18 @@
 
 _This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+ <!-- AUTO-GENERATED CONTENT BELOW -->
+
+**Tuesday, December 09 2025 - Nvidia Back In China… Maybe**
+
+  * [Trump greenlights Nvidia H200 AI chip sales to China if U.S. gets 25% cut, says Xi responded positively](https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html) (CNBC)
+  * [China set to limit access to Nvidia’s H200 chips despite Trump export approval](https://www.ft.com/content/c4e81a67-cd5b-48b4-9749-92ecf116313d) (FT)
+  * [Sam Altman’s Sprint to Correct OpenAI’s Direction and Fend Off Google](https://www.wsj.com/tech/ai/openai-sam-altman-google-code-red-c3a312ad?st=krzBaj&reflink=desktopwebshare_permalink) (WSJ)
+  * [From Llamas to Avocados: Meta’s shifting AI strategy is causing internal confusion](https://www.cnbc.com/2025/12/09/meta-avocado-ai-strategy-issues.html) (CNBC)
+  * [Pebble Is Making a $75 Smart Ring](https://www.wired.com/story/pebble-index-ring/) (Wired)
+
+
+
 **Monday, December 08 2025 - Netflix Faces Hostility**
 
   * [Paramount Skydance launches hostile bid for WBD ‘to finish what we started,’ CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html) (CNBC)

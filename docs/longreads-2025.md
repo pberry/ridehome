@@ -2,6 +2,8 @@
 
 _This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
+ <!-- AUTO-GENERATED CONTENT BELOW -->
+
 **Friday, December 05**
   * [18,000 Reasons It’s So Hard to Build a Chip Factory in America](https://www.nytimes.com/2025/12/04/business/tsmc-phoenix-fab.html) (NYTimes)
   * [In Arizona Desert, Taiwanese Families Create Community and Build a Factor](https://www.nytimes.com/2025/12/04/business/tsmc-phoenix-little-taipei.html) (NYTimes)

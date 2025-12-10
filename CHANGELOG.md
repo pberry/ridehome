@@ -6,6 +6,53 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.1.0] - 2025-12-09
+
+### Added
+- **Automated Markdown File Updates** - Eliminated manual copy/paste workflow
+  - New `--update` flag for both `showlinks.py` and `longread.py`
+  - **Usage:** `./showlinks.py --update` and `./longread.py --update`
+  - **What it does:**
+    - Detects new episodes since last update by comparing to top date in existing file
+    - Prompts user with preview of new entries before writing
+    - Automatically inserts new entries in reverse chronological order
+    - Maintains file structure (preserves headers, markers, manual edits)
+    - Idempotent - safe to run multiple times per day
+  - **New module:** `file_updater.py` with shared utilities
+    - `parse_top_date()` - Extracts most recent date from markdown files
+    - `find_new_entries()` - Filters feed entries to only new ones (date-only comparison, ignores timestamps)
+    - `infer_year_from_context()` - Extracts year from file path (e.g., `all-links-2025.md` → 2025)
+    - `group_entries_by_year()` - Groups entries by year for multi-year support
+  - **Multi-year file handling:**
+    - Automatically detects year boundaries (e.g., Dec 2025 → Jan 2026)
+    - Creates new yearly files when needed (e.g., `all-links-2026.md`)
+    - Updates multiple year files in single run
+    - Proper headers for new files (Jekyll includes, deprecation notice, marker)
+  - **Longreads enhancement:** Year now added to date format
+    - Old format: `**Friday, December 05**`
+    - New format: `**Friday, December 05 2025**`
+    - Year inferred from RSS feed `published_parsed` data
+    - Backward compatible - stdout mode preserves old format
+  - **File markers:** Added `<!-- AUTO-GENERATED CONTENT BELOW -->` to delineate safe insertion zones
+  - **Test coverage:** 16 passing unit tests in `test_file_updater.py`
+    - Date parsing (showlinks with year, longreads with/without year)
+    - New entry detection and filtering
+    - Year inference and multi-year grouping
+    - Edge cases (missing files, missing markers, malformed dates)
+  - **Backward compatibility:** Original stdout behavior preserved
+    - `./showlinks.py` → outputs all entries to stdout (unchanged)
+    - `./longread.py` → outputs all entries to stdout without year (unchanged)
+
+### Technical Implementation
+- **Date comparison fix:** Compares dates only (ignores timestamps)
+  - Problem: File stores midnight (00:00:00), feed has specific times (17:31:00)
+  - Solution: Convert to `.date()` before comparison
+  - Prevents false positives (same-day entries at different times)
+- **Shared module pattern:** Follows existing `html_parser.py` approach
+  - DRY principle - both scripts use same detection logic
+  - Easier to maintain and test
+  - Consistent behavior across showlinks and longreads
+
 ## [1.0.0] - 2025-12-09
 
 ### Added

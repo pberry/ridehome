@@ -350,7 +350,7 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
     md += f"**The Ride Home covered {coverage:.1f}% of {year}**, bringing tech news to thousands of listeners.\n\n"
 
-    md += f"---\n\n_Generated {datetime.now().strftime('%B %Y')} | Data source: docs/all-links-{year}.md and docs/longreads-{year}.md_\n"
+    md += f"---\n\n_Generated {datetime.now().strftime('%D')}_ | _Data source: docs/all-links-{year}.md and docs/longreads-{year}.md_\n"
 
     return md
 

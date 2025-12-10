@@ -5,14 +5,16 @@
 import feedparser
 import html2text
 import time
+import argparse
+import os
+from datetime import datetime
 from html_parser import find_links_section
+from file_updater import parse_top_date, find_new_entries, group_entries_by_year
 
-feedUrl = 'https://feeds.megaphone.fm/ridehome'
-#feedUrl = 'https://rss.art19.com/coronavirus-daily-briefing'
-rhfeed = feedparser.parse(feedUrl)
 
-for post in rhfeed.entries:
-	postPubTime = time.strftime("%A, %B %d %Y" ,post.published_parsed)
+def format_entry(post):
+	"""Format a single feed entry as markdown. Returns (header, content) or (None, None) if no links."""
+	postPubTime = time.strftime("%A, %B %d %Y", post.published_parsed)
 	podTitle = ""
 	podTitleArray = post.title.split(' - ')
 	if len(podTitleArray) > 1:
@@ -20,8 +22,8 @@ for post in rhfeed.entries:
 	else:
 		podTitle = podTitleArray[0]
 
-	print ("\n**" + postPubTime + " - " + podTitle + "**\n")
-	
+	header = f"**{postPubTime} - {podTitle}**"
+
 	# Try to get HTML content from content:encoded first, fall back to summary
 	htmlContent = ""
 	if hasattr(post, 'content') and len(post.content) > 0:
@@ -31,7 +33,7 @@ for post in rhfeed.entries:
 			if content_block.get('type', '').lower() in ['text/html', 'html']:
 				html_content = content_block.value
 				break
-		
+
 		if html_content:
 			htmlContent = html_content
 		else:
@@ -40,17 +42,161 @@ for post in rhfeed.entries:
 	elif hasattr(post, 'summary'):
 		htmlContent = post.summary
 	else:
-		print("No content found for this episode\n")
-		continue
-	
+		return (None, None)
+
 	cleanPost = htmlContent.replace('\n', '')
 
 	# Use shared HTML parser to find links section
 	links_ul = find_links_section(cleanPost)
 
 	if links_ul:
-		html = html2text.html2text(str(links_ul))
-		print(html)
+		content = html2text.html2text(str(links_ul))
+		return (header, content)
 	else:
-		print("No show links for this episode ¯\\_(ツ)_/¯\n")
+		return (None, None)
+
+
+def print_mode(feed_entries):
+	"""Original behavior: print all entries to stdout"""
+	for post in feed_entries:
+		header, content = format_entry(post)
+		if header and content:
+			print(f"\n{header}\n")
+			print(content)
+		else:
+			postPubTime = time.strftime("%A, %B %d %Y", post.published_parsed)
+			print(f"\n**{postPubTime}**")
+			print("No show links for this episode ¯\\_(ツ)_/¯\n")
+
+
+def update_mode(feed_entries):
+	"""Update mode: detect new entries and update markdown file(s)"""
+	if not feed_entries:
+		print("No entries in feed")
+		return
+
+	# Determine current year file path
+	latest_year = feed_entries[0].published_parsed.tm_year
+	file_path = f"docs/all-links-{latest_year}.md"
+
+	# Parse top date from existing file
+	top_date = parse_top_date(file_path, entry_type='showlinks')
+
+	if top_date is None and os.path.exists(file_path):
+		print(f"Error: No AUTO-GENERATED marker found in {file_path}")
+		print("Please add '<!-- AUTO-GENERATED CONTENT BELOW -->' marker to the file.")
+		return
+
+	# Find new entries
+	new_entries = find_new_entries(feed_entries, top_date)
+
+	if not new_entries:
+		print("No new entries found")
+		return
+
+	# Group new entries by year
+	entries_by_year = group_entries_by_year(new_entries)
+
+	# Format entries for each year
+	all_formatted = {}  # year -> list of (header, content) tuples
+	total_count = 0
+
+	for year, year_entries in sorted(entries_by_year.items(), reverse=True):
+		formatted = []
+		for post in year_entries:
+			header, content = format_entry(post)
+			if header and content:
+				formatted.append((header, content))
+		if formatted:
+			all_formatted[year] = formatted
+			total_count += len(formatted)
+
+	if not all_formatted:
+		print("No new entries with links found")
+		return
+
+	# Show prompt
+	if len(all_formatted) == 1:
+		# Single year
+		year = list(all_formatted.keys())[0]
+		file_path = f"docs/all-links-{year}.md"
+		print(f"Found {total_count} new entries for {year}:")
+		for header, _ in all_formatted[year][:3]:
+			print(f"  - {header}")
+		if len(all_formatted[year]) > 3:
+			print(f"  ... and {len(all_formatted[year]) - 3} more")
+		response = input(f"\nAdd them to {file_path}? [y/N] ").strip().lower()
+	else:
+		# Multiple years
+		print(f"Found entries for multiple years:")
+		for year in sorted(all_formatted.keys(), reverse=True):
+			count = len(all_formatted[year])
+			print(f"  - {year}: {count} entries")
+		response = input(f"\nUpdate all files? [y/N] ").strip().lower()
+
+	if response != 'y':
+		print("Cancelled")
+		return
+
+	# Insert entries for each year
+	for year, formatted_entries in all_formatted.items():
+		year_file_path = f"docs/all-links-{year}.md"
+		year_top_date = parse_top_date(year_file_path, entry_type='showlinks')
+		create_new = (year_top_date is None and not os.path.exists(year_file_path))
+
+		insert_entries(year_file_path, formatted_entries, create_if_missing=create_new)
+		print(f"✓ Added {len(formatted_entries)} entries to {year_file_path}")
+
+
+def insert_entries(file_path, formatted_entries, create_if_missing=False):
+	"""Insert formatted entries above the AUTO-GENERATED marker"""
+	if create_if_missing and not os.path.exists(file_path):
+		# Create new file with header
+		header = """{% include_relative _includes/showlinks-header.md %}
+
+_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+
+ <!-- AUTO-GENERATED CONTENT BELOW -->
+
+"""
+		with open(file_path, 'w', encoding='utf-8') as f:
+			f.write(header)
+
+	# Read existing file
+	with open(file_path, 'r', encoding='utf-8') as f:
+		content = f.read()
+
+	# Find marker
+	marker = '<!-- AUTO-GENERATED CONTENT BELOW -->'
+	if marker not in content:
+		raise ValueError(f"Marker not found in {file_path}")
+
+	# Split at marker
+	before_marker, after_marker = content.split(marker, 1)
+
+	# Format new entries as markdown
+	new_content = ""
+	for header, entry_content in formatted_entries:
+		new_content += f"{header}\n\n{entry_content}\n\n"
+
+	# Reconstruct file: before marker + marker + new content + after marker
+	updated_content = before_marker + marker + "\n\n" + new_content + after_marker.lstrip('\n')
+
+	# Write back
+	with open(file_path, 'w', encoding='utf-8') as f:
+		f.write(updated_content)
+
+
+if __name__ == '__main__':
+	parser = argparse.ArgumentParser(description='Extract show links from The Ride Home RSS feed')
+	parser.add_argument('--update', action='store_true', help='Update markdown file with new entries')
+	args = parser.parse_args()
+
+	feedUrl = 'https://feeds.megaphone.fm/ridehome'
+	rhfeed = feedparser.parse(feedUrl)
+
+	if args.update:
+		update_mode(rhfeed.entries)
+	else:
+		print_mode(rhfeed.entries)
 

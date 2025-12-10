@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a Python-based RSS feed parser that extracts links from "The Ride Home" podcast feed and generates static markdown pages for a GitHub Pages site. The project parses inconsistent HTML content from RSS feeds and categorizes links into two types: daily show links and Friday "Weekend Longreads" suggestions.
 
-**Status:** No longer actively updated. The podcast now has its own official website and RSS feed.
+**Status:** Actively updated.
 
 ## Key Commands
 
@@ -156,3 +156,8 @@ python3 test_html_parser.py TestLinksExtraction.test_extracts_ul_after_links_par
 - Original test suite was scrapped and restarted from scratch using strict TDD
 - Old tests are in `trash/` directory
 - Current test suite is based on real RSS feed bugs, not hypothetical scenarios
+
+**After Task Completion:**
+1. Updated CHANGELOG.md to give context for what was done.
+2. Use normal semantic versioning to determing what kind of bump is needed to the version number.
+3. Always leave an Unreleased area
