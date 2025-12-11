@@ -4,6 +4,27 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Thursday, December 11 2025 - Disney Invests In OpenAI**
+
+  * [Disney Inks Blockbuster OpenAI Deal to Bring More Than 200 Characters to Sora Video Platform, Will Invest $1 Billion in AI Company](https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/) (Variety)
+  * [Disney to Invest $1 Billion in OpenAI, License Suite of Characters for Sora in Landmark Deal](https://www.thewrap.com/disney-sora-openai-licensing-deal/) (The Wrap)
+  * [Oracle Can’t Escape OpenAI’s Shadow](https://www.wsj.com/tech/ai/oracle-cant-escape-openais-shadow-ed90ae19) (WSJ)
+  * [Spotify tests more personalized, AI-powered ‘Prompted Playlists’ ](https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/)(TechCrunch)
+  * [Bezos and Musk Race to Bring Data Centers to Space](https://www.wsj.com/tech/bezos-and-musk-race-to-bring-data-centers-to-space-faa486ee?st=fZ9i5V&reflink=desktopwebshare_permalink) (WSJ)
+  * [MCP has already taken the industry by storm, and now Anthropic is giving it away.](https://www.theverge.com/ai-artificial-intelligence/841156/ai-companies-aaif-anthropic-mcp-model-context-protocol) (The Verge)
+
+
+
+**Wednesday, December 10 2025 - Algorithmic Pricing?**
+
+  * [Instagram Will Start Letting You Pick What Shows Up in Your Reels](https://www.wired.com/story/instagram-lets-you-pick-what-shows-up-in-reels/) (Wired)
+  * [Same Product, Same Store, but on Instacart, Prices Might Differ ](https://www.nytimes.com/2025/12/09/business/instacart-algorithmic-pricing.html?unlocked_article_code=1.7U8.D3oN.PK4SkK01idO0&smid=url-share)(NYTimes)
+  * [SpaceX to Pursue 2026 IPO Raising Far Above $30 Billion](https://www.bloomberg.com/news/articles/2025-12-09/spacex-said-to-pursue-2026-ipo-raising-far-above-30-billion) (Bloomberg)
+  * [DeepSeek is Using Banned Nvidia Chips in Race to Build Next Model](https://www.theinformation.com/articles/deepseek-using-banned-nvidia-chips-race-build-next-model?rc=i9gkgs) (The Information)
+  * [Boom Supersonic raises $300M to build natural gas turbines for Crusoe data centers](https://techcrunch.com/2025/12/09/boom-supersonic-raises-300m-to-build-natural-gas-turbines-for-crusoe-data-centers/) (TechCrunch)
+
+
+
 **Tuesday, December 09 2025 - Nvidia Back In China… Maybe**
 
   * [Trump greenlights Nvidia H200 AI chip sales to China if U.S. gets 25% cut, says Xi responded positively](https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html) (CNBC)
