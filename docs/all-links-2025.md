@@ -4,6 +4,16 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Friday, December 12 2025 - GPT-5.2 As OpenAI’s Attempt To Change The Narrative**
+
+  * [OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) (Wired)
+  * [GPT-5.2 is OpenAI’s latest move in the agentic AI battle](https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt) (The Verge)
+  * [Trump threatens funding for states over AI regulations](https://www.reuters.com/world/trump-says-he-will-sign-order-curbing-state-ai-laws-2025-12-11/) (Reuters)
+  * [Broadcom beats on earnings and revenue, says AI chip sales will double in current quarter](https://www.cnbc.com/2025/12/11/broadcom-avgo-q4-earnings-2025.html) (CNBC)
+  * [Disney Accuses Google of Using AI to Engage in Copyright Infringement on ‘Massive Scale’](https://variety.com/2025/digital/news/disney-google-ai-copyright-infringement-cease-and-desist-letter-1236606429/) (Variety)
+
+
+
 **Thursday, December 11 2025 - Disney Invests In OpenAI**
 
   * [Disney Inks Blockbuster OpenAI Deal to Bring More Than 200 Characters to Sora Video Platform, Will Invest $1 Billion in AI Company](https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/) (Variety)
