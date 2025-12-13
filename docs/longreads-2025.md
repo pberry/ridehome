@@ -4,6 +4,13 @@ _This collection is no longer being updated regularly. I still update it from ti
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Friday, December 12 2025**
+  * [Want This Hearing Aid? Well, Who Do You Know?](https://www.wired.com/story/hearing-aid-startup-ai-fortell/) (Wired)
+  * [Tech bros head to etiquette camp as Silicon Valley levels up its style](https://www.washingtonpost.com/technology/2025/12/07/tech-startup-founders-etiquette/) (The Washington Post)
+  * [Why AGI Will Not Happen](https://timdettmers.com/2025/12/10/why-agi-will-not-happen/) (Tim Dettmer)
+
+
+
 **Friday, December 05**
   * [18,000 Reasons It’s So Hard to Build a Chip Factory in America](https://www.nytimes.com/2025/12/04/business/tsmc-phoenix-fab.html) (NYTimes)
   * [In Arizona Desert, Taiwanese Families Create Community and Build a Factor](https://www.nytimes.com/2025/12/04/business/tsmc-phoenix-little-taipei.html) (NYTimes)
