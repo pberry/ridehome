@@ -6,6 +6,31 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+- **SQLite Database + Datasette Support** - Complete dual-output system (markdown + database)
+  - **One-time import:** `load_db.py` script imports existing markdown into SQLite
+    - 6,152 showlinks imported from all-links-*.md files (2022-2025)
+    - 649 longreads imported from longreads-*.md files (2022-2025)
+    - Total: 6,801 links in database
+  - **Schema:** Single `links` table with hybrid date storage
+    - TEXT dates (ISO format: YYYY-MM-DD) for human-readable queries
+    - INTEGER dates (Unix timestamps) for efficient calculations
+    - Columns: date, title, url, source, link_type, episode_date
+    - Unique index on (url, date) prevents duplicates
+  - **Database modules:**
+    - `db_schema.py` - Schema creation with indexes
+    - `markdown_parser.py` - Parse markdown bullets into structured data
+    - `db_writer.py` - Insert with duplicate detection & date conversion
+    - `load_db.py` - CLI for one-time imports
+  - **Extract.py integration:** Dual output to markdown AND SQLite
+    - `./extract.py` now writes to both docs/*.md and ridehome.db
+    - `--skip-db` flag to update markdown only (backward compatibility)
+    - Works for both showlinks and longreads
+    - Graceful error handling (markdown updates succeed even if DB fails)
+  - **Testing:** 11 unit tests for markdown parsing (100% pass rate)
+  - **Documentation:** Detailed requirements in `.claude/requirements-sqlite-datasette.md`
+  - **Next step:** Datasette configuration (metadata, canned queries) - manual setup
+
 ## [1.2.0] - 2025-12-09
 
 ### Changed
