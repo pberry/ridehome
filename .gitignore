@@ -1,4 +1,8 @@
 env/
+
+# SQLite database
+ridehome.db
+ridehome.db-journal
 __pycache__/
 .claude
 trash
