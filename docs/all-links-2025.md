@@ -4,6 +4,42 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Wednesday, December 17 2025 - Now It’s Amazon’s Turn To Invest In OpenAI**
+
+  * [OpenAI’s ChatGPT Updated to Make Images Better and Faster](https://www.bloomberg.com/news/articles/2025-12-16/openai-s-chatgpt-updated-to-make-images-better-and-faster) (Bloomberg)
+  * [ChatGPT Images just got a major upgrade — and it could change how we all create](https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-just-got-a-major-upgrade-and-it-could-change-how-we-all-create) (TechRadar)
+  * [OpenAI in Talks to Raise At Least $10 Billion From Amazon and Use Its AI Chips](https://www.theinformation.com/articles/openai-talks-raise-least-10-billion-amazon-use-ai-chips?rc=i9gkgs) (The Information)
+  * [Coursera to buy Udemy, creating $2.5 billion firm to target AI training](https://www.reuters.com/business/coursera-udemy-merge-deal-valuing-combined-firm-25-billion-2025-12-17/) (Reuters)
+  * [Warner Rejects Paramount’s Hostile Bid, Saying Netflix Deal Still Superior](https://www.wsj.com/business/media/warner-rejects-paramounts-hostile-bid-saying-netflix-deal-still-superior-3fda76ee?st=K3F1pk&reflink=desktopwebshare_permalink) (WSJ)
+  * [Waymo Seeking Over $15 Billion Near $100 Billion Valuation](https://www.bloomberg.com/news/articles/2025-12-16/waymo-seeks-to-raise-funds-at-valuation-near-100-billion) (Bloomberg)
+  * [Waymo in talks to raise funds at $100bn valuation](https://www.ft.com/content/1cbb934a-f8c8-45a0-a300-efbd4ed8aaca) (FT)
+  * [U.S. Threatens Penalties Against European Tech Firms Amid Regulatory Fight](https://www.nytimes.com/2025/12/16/business/economy/us-eu-tech-penalties.html) (NYTimes)
+  * [Google wants its AI assistant CC to replace your morning scroll](https://www.theverge.com/news/845280/google-cc-morning-briefing-gemini-ai-agent) (The Verge)
+  * [Betting on prediction markets has exploded over past two years](https://www.ft.com/content/bc300579-4b19-4f82-b232-e537e992c310) (FT)
+
+
+
+**Tuesday, December 16 2025 - The Pivot To AI Datacenters**
+
+  * [U.S.-U.K. Trade Deal Hits Stumbling Block](https://www.nytimes.com/2025/12/13/business/economy/trump-uk-trade-deal-tariffs.html) (NYTimes)
+  * [AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html) (CNBC)
+  * [CoreWeave’s Staggering Fall From Market Grace Highlights AI Bubble Fears](https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321?st=SfvtwL&reflink=desktopwebshare_permalink) (WSJ)
+  * [Ford is starting a battery storage business to power data centers and the grid](https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/) (TechCrunch)
+  * [AI has the entertainment industry torn between keeping up and keeping talent happy.](https://www.bloomberg.com/features/2025-ai-hollywood/) (BloombergBusinessweek)
+
+
+
+**Monday, December 15 2025 - The Roomba Hits The Wall**
+
+  * [Roomba Maker iRobot Files for Bankruptcy and Will Go Private ](https://www.bloomberg.com/news/articles/2025-12-15/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years)(Bloomberg)
+  * [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/) (TechCrunch)
+  * [Investors seek protection from risk of AI debt bust](https://www.ft.com/content/c5f9380e-df86-42a9-a387-a0d5e04ad45f) (FT)
+  * [Kindle’s New AI Feature Can Answer Questions About Your Books (Whether Authors Want It or Not) ](https://www.pcmag.com/news/kindles-new-ai-feature-can-answer-questions-about-your-books-whether-authors)(PCMag)
+  * [AI image generators are getting better by getting worse](https://www.theverge.com/column/843883/ai-image-generators-better-worse) (The Verge)
+  * [Inside the Invitation-Only Stock Market for the Wealthy](https://www.wsj.com/finance/investing/private-stock-market-growth-bb71bde1?st=QDBNby&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Friday, December 12 2025 - GPT-5.2 As OpenAI’s Attempt To Change The Narrative**
 
   * [OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) (Wired)
