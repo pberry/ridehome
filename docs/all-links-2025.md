@@ -4,6 +4,17 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Friday, December 19 2025 - TikTok Sold (Again) (?)**
+
+  * [Scoop: TikTok signs deal for U.S. unit after yearslong saga](https://www.axios.com/2025/12/18/tiktok-sale) (Axios)
+  * [TikTok U.S. Deal to Close Next Month: Oracle and Silver Lake Confirmed in Buyer Consortium](https://www.hollywoodreporter.com/business/digital/tiktok-sale-done-oracle-silver-lake-buyers-1236454493/) (The Hollywood Reporter)
+  * [Pa. high court rules that police can access Google searches without a warrant](https://therecord.media/google-searches-police-access-without-warrant-pennsylvania-court-ruling) (The Record)
+  * [Meta Is Developing a New AI Image and Video Model Code-Named ‘Mango’](https://www.wsj.com/tech/ai/meta-developing-new-ai-image-and-video-model-code-named-mango-16e785c7?st=BwUmJw&reflink=desktopwebshare_permalink) (WSJ)
+  * [YouTube Shuts Down Channels Using AI To Create Fake Movie Trailers Watched By Millions](https://deadline.com/2025/12/youtube-terminates-screen-culture-kh-studio-fake-ai-trailer-1236652506/) (Deadline)
+  * [Riot Has a Secret Plan to Remake Its ‘League of Legends’ Game ](https://www.bloomberg.com/news/articles/2025-12-18/riot-has-a-secret-plan-to-remake-its-league-of-legends-game?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2NjA5NjE4NCwiZXhwIjoxNzY2NzAwOTg0LCJhcnRpY2xlSWQiOiJUN0hLMzhLR1pBSzYwMCIsImJjb25uZWN0SWQiOiJGRUIzODlCNUI2ODI0RTY0QjY5MENEODE1RTBDREZGRCJ9.UPpzbjNqabzTLwz-1lVVBK4cfd1jmlT9gxz17gLhVrA)(Bloomberg)
+
+
+
 **Thursday, December 18 2025 - China’s EUV Machine?**
 
   * [China may have reverse engineered EUV lithography tool in covert lab, report claims — employees given fake IDs to avoid secret project being detected, prototypes expected in 2028](https://www.tomshardware.com/tech-industry/semiconductors/china-may-have-reverse-engineered-euv-lithography-tool-in-covert-lab-report-claims-employees-given-fake-ids-to-avoid-secret-project-being-detected-prototypes-expected-in-2028) (Tom's Hardware)
