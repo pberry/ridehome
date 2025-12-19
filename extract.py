@@ -9,9 +9,13 @@ import html2text
 import time
 import argparse
 import os
+import re
 from datetime import datetime
+from bs4 import BeautifulSoup
 from html_parser import find_links_section, find_section
 from file_updater import parse_top_date, find_new_entries, group_entries_by_year, infer_year_from_context
+from db_schema import create_schema
+from db_writer import insert_links
 
 
 # Configuration for each extraction type
@@ -63,10 +67,67 @@ def extract_html_content(post):
 	return htmlContent.replace('\n', '')
 
 
+def extract_links_from_ul(ul_element, episode_date):
+	"""
+	Extract structured link data from BeautifulSoup <ul> element.
+
+	Args:
+		ul_element: BeautifulSoup Tag object representing <ul>
+		episode_date: datetime object for the episode
+
+	Returns:
+		List of dicts with keys: date, title, url, source, episode_date
+	"""
+	links = []
+
+	if not ul_element:
+		return links
+
+	for li in ul_element.find_all('li'):
+		# Find <a> tag
+		a_tag = li.find('a')
+		if not a_tag or not a_tag.get('href'):
+			continue
+
+		title = a_tag.get_text(strip=True)
+		url = a_tag['href']
+
+		# Extract source from text after link (usually in parentheses)
+		# Pattern: <a>...</a> (Source) or <a>...</a>(Source)
+		text_after_link = li.get_text()
+		source = None
+
+		# Try to find source in parentheses after the link title
+		# Example: "Title text (Source)" or "Title text(Source)"
+		pattern = r'\(([^\)]+)\)\s*$'
+		match = re.search(pattern, text_after_link)
+		if match:
+			source = match.group(1).strip()
+
+		links.append({
+			'date': episode_date,
+			'title': title,
+			'url': url,
+			'source': source,
+			'episode_date': episode_date
+		})
+
+	return links
+
+
 def format_entry(post, config, include_year=None):
 	"""
 	Format a single feed entry as markdown for given type.
 	Returns (header, content) or (None, None) if no matching content.
+	"""
+	header, content, _ = format_entry_with_links(post, config, include_year)
+	return (header, content)
+
+
+def format_entry_with_links(post, config, include_year=None):
+	"""
+	Format a single feed entry as markdown AND extract structured links.
+	Returns (header, content, links) where links is a list of dicts.
 	"""
 	# Determine whether to include year
 	if include_year is None:
@@ -93,7 +154,7 @@ def format_entry(post, config, include_year=None):
 	# Extract HTML content
 	cleanPost = extract_html_content(post)
 	if not cleanPost:
-		return (None, None)
+		return (None, None, [])
 
 	# Find relevant section based on type
 	if config['entry_type'] == 'showlinks':
@@ -101,13 +162,18 @@ def format_entry(post, config, include_year=None):
 	elif config['entry_type'] == 'longreads':
 		content_ul = find_section(cleanPost, pattern="Weekend Longreads|Longreads Suggestions")
 	else:
-		return (None, None)
+		return (None, None, [])
 
 	if content_ul:
 		content = html2text.html2text(str(content_ul))
-		return (header, content)
+
+		# Extract structured links from the <ul> element
+		episode_date = datetime(*post.published_parsed[:6])
+		links = extract_links_from_ul(content_ul, episode_date)
+
+		return (header, content, links)
 	else:
-		return (None, None)
+		return (None, None, [])
 
 
 def print_mode(feed_entries, config):
@@ -127,8 +193,8 @@ def print_mode(feed_entries, config):
 			print("No show links for this episode ¯\\_(ツ)_/¯\n")
 
 
-def update_mode(feed_entries, config):
-	"""Update mode: detect new entries and update markdown file(s)"""
+def update_mode(feed_entries, config, skip_db=False):
+	"""Update mode: detect new entries and update markdown file(s) and database"""
 	if not feed_entries:
 		print("No entries in feed")
 		return
@@ -161,14 +227,16 @@ def update_mode(feed_entries, config):
 
 	# Format entries for each year (always include year in update mode)
 	all_formatted = {}  # year -> list of (header, content) tuples
+	all_db_links = []  # Collect all links for database insertion
 	total_count = 0
 
 	for year, year_entries in sorted(entries_by_year.items(), reverse=True):
 		formatted = []
 		for post in year_entries:
-			header, content = format_entry(post, config, include_year=True)
+			header, content, links = format_entry_with_links(post, config, include_year=True)
 			if header and content:
 				formatted.append((header, content))
+				all_db_links.extend(links)  # Collect links for DB
 		if formatted:
 			all_formatted[year] = formatted
 			total_count += len(formatted)
@@ -216,6 +284,28 @@ def update_mode(feed_entries, config):
 		insert_entries(year_file_path, formatted_entries, config, create_if_missing=create_new)
 		print(f"✓ Added {len(formatted_entries)} {config['no_content_message']} to {year_file_path}")
 
+	# Insert links into database (unless --skip-db flag is set)
+	if not skip_db and all_db_links:
+		try:
+			# Determine link type from config
+			link_type = 'showlink' if config['entry_type'] == 'showlinks' else 'longread'
+
+			# Create/open database
+			db_conn = create_schema('ridehome.db')
+
+			# Insert links
+			inserted, duplicates = insert_links(db_conn, all_db_links, link_type)
+
+			db_conn.close()
+
+			if inserted > 0:
+				print(f"✓ Added {inserted} links to database (ridehome.db)")
+			if duplicates > 0:
+				print(f"  ({duplicates} duplicates skipped in database)")
+		except Exception as e:
+			print(f"⚠ Warning: Failed to update database: {e}")
+			print("  Markdown files were updated successfully")
+
 
 def insert_entries(file_path, formatted_entries, config, create_if_missing=False):
 	"""Insert formatted entries above the AUTO-GENERATED marker"""
@@ -256,7 +346,7 @@ def insert_entries(file_path, formatted_entries, config, create_if_missing=False
 		f.write(updated_content)
 
 
-def process_type(feed_entries, extract_type, print_only=False):
+def process_type(feed_entries, extract_type, print_only=False, skip_db=False):
 	"""Process a single extraction type"""
 	if extract_type not in CONFIGS:
 		print(f"Error: Unknown type '{extract_type}'")
@@ -267,7 +357,7 @@ def process_type(feed_entries, extract_type, print_only=False):
 	if print_only:
 		print_mode(feed_entries, config)
 	else:
-		update_mode(feed_entries, config)
+		update_mode(feed_entries, config, skip_db=skip_db)
 
 	return True
 
@@ -296,6 +386,11 @@ Examples:
 		action='store_true',
 		help='Print to stdout instead of updating files'
 	)
+	parser.add_argument(
+		'--skip-db',
+		action='store_true',
+		help='Skip database updates (only update markdown files)'
+	)
 	args = parser.parse_args()
 
 	# Parse RSS feed
@@ -310,8 +405,8 @@ Examples:
 			exit(1)
 
 		print("=== Processing showlinks ===")
-		process_type(rhfeed.entries, 'showlinks', print_only=False)
+		process_type(rhfeed.entries, 'showlinks', print_only=False, skip_db=args.skip_db)
 		print("\n=== Processing longreads ===")
-		process_type(rhfeed.entries, 'longreads', print_only=False)
+		process_type(rhfeed.entries, 'longreads', print_only=False, skip_db=args.skip_db)
 	else:
-		process_type(rhfeed.entries, args.type, print_only=args.print)
+		process_type(rhfeed.entries, args.type, print_only=args.print, skip_db=args.skip_db)
