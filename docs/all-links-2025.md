@@ -4,6 +4,16 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Thursday, December 18 2025 - China’s EUV Machine?**
+
+  * [China may have reverse engineered EUV lithography tool in covert lab, report claims — employees given fake IDs to avoid secret project being detected, prototypes expected in 2028](https://www.tomshardware.com/tech-industry/semiconductors/china-may-have-reverse-engineered-euv-lithography-tool-in-covert-lab-report-claims-employees-given-fake-ids-to-avoid-secret-project-being-detected-prototypes-expected-in-2028) (Tom's Hardware)
+  * [Trump media group agrees $6bn merger with Google-backed fusion energy company](https://www.ft.com/content/1e1978d5-535b-4241-872f-38db778df694?utm_social_post_id=626593619&utm_social_handle_id=10977192) (FT)
+  * [Coinbase adds prediction markets and stock trading in push to be one-stop trading app](https://www.cnbc.com/2025/12/17/coinbase-prediction-markets-stock-trading-stablecoins.html) (CNBC)
+  * [OpenAI Has Discussed Raising Tens of Billions at Valuation Around $750 Billion](https://www.theinformation.com/articles/openai-discussed-raising-tens-billions-valuation-around-750-billion?rc=i9gkgs) (The Information)
+  * [Amazon Caught North Korean IT Worker By Tracing Keystroke Data ](https://www.bloomberg.com/news/newsletters/2025-12-17/amazon-caught-north-korean-it-worker-by-tracing-keystroke-data)(Bloomberg)
+
+
+
 **Wednesday, December 17 2025 - Now It’s Amazon’s Turn To Invest In OpenAI**
 
   * [OpenAI’s ChatGPT Updated to Make Images Better and Faster](https://www.bloomberg.com/news/articles/2025-12-16/openai-s-chatgpt-updated-to-make-images-better-and-faster) (Bloomberg)
