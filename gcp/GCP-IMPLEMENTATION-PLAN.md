@@ -93,28 +93,9 @@ bq mk \
   --location=$REGION \
   --description="The Ride Home podcast links data" \
   ridehome
-
-# Create links table
-bq mk \
-  --table \
-  ridehome.links \
-  id:STRING,date:DATE,date_unix:INT64,title:STRING,url:STRING,source:STRING,link_type:STRING,episode_date:DATE,episode_date_unix:INT64,created_at:TIMESTAMP
 ```
 
-**Configure table partitioning** (for query optimization):
-```bash
-# Recreate table with partitioning (optimizes date-range queries)
-bq rm -f -t ridehome.links
-
-bq mk \
-  --table \
-  --time_partitioning_field=date \
-  --clustering_fields=link_type,source \
-  ridehome.links \
-  schema.json
-```
-
-**Create schema.json**:
+**Create schema.json** (for table definition):
 ```bash
 cat > schema.json <<EOF
 [
@@ -130,7 +111,11 @@ cat > schema.json <<EOF
   {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
 ]
 EOF
+```
 
+**Create table with partitioning and clustering**:
+```bash
+# Create table with optimal configuration from the start
 bq mk \
   --table \
   --time_partitioning_field=date \
@@ -138,6 +123,11 @@ bq mk \
   ridehome.links \
   schema.json
 ```
+
+**Why partitioning and clustering?**
+- **Partitioning by date**: Splits table by date - queries like "links in December 2024" only scan that partition
+- **Clustering by link_type, source**: Sorts data for faster filtering - "show me all longreads from TechCrunch" is faster
+- **Cost savings**: Only scans relevant partitions/clusters, not entire table
 
 **Verify**:
 ```bash
