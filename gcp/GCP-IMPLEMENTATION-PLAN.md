@@ -84,29 +84,33 @@ BigQuery is Google's serverless data warehouse. Unlike traditional databases:
 **Commands**:
 ```bash
 # Create dataset (database equivalent)
+# Note: Use dataset name only (not $PROJECT_ID:ridehome) because:
+# - Project IDs can contain dashes (ridehome-poc)
+# - Dataset names cannot contain dashes
+# - bq uses default project from gcloud config
 bq mk \
   --dataset \
   --location=$REGION \
   --description="The Ride Home podcast links data" \
-  $PROJECT_ID:ridehome
+  ridehome
 
 # Create links table
 bq mk \
   --table \
-  $PROJECT_ID:ridehome.links \
+  ridehome.links \
   id:STRING,date:DATE,date_unix:INT64,title:STRING,url:STRING,source:STRING,link_type:STRING,episode_date:DATE,episode_date_unix:INT64,created_at:TIMESTAMP
 ```
 
 **Configure table partitioning** (for query optimization):
 ```bash
 # Recreate table with partitioning (optimizes date-range queries)
-bq rm -f -t $PROJECT_ID:ridehome.links
+bq rm -f -t ridehome.links
 
 bq mk \
   --table \
   --time_partitioning_field=date \
   --clustering_fields=link_type,source \
-  $PROJECT_ID:ridehome.links \
+  ridehome.links \
   schema.json
 ```
 
@@ -131,13 +135,13 @@ bq mk \
   --table \
   --time_partitioning_field=date \
   --clustering_fields=link_type,source \
-  $PROJECT_ID:ridehome.links \
+  ridehome.links \
   schema.json
 ```
 
 **Verify**:
 ```bash
-bq show $PROJECT_ID:ridehome.links
+bq show ridehome.links
 ```
 
 **What you learned**:
@@ -182,7 +186,7 @@ bq load \
   --source_format=CSV \
   --skip_leading_rows=1 \
   --replace \
-  $PROJECT_ID:ridehome.links \
+  ridehome.links \
   links_export.csv \
   schema.json
 ```
@@ -1069,7 +1073,7 @@ gcloud logging read "resource.type=cloud_run_revision" --limit 20
 
 **BigQuery insert errors**:
 ```bash
-bq show --format=prettyjson $PROJECT_ID:ridehome.links
+bq show --format=prettyjson ridehome.links
 ```
 
 **Cost exceeds expectations**:
