@@ -6,3 +6,17 @@ ridehome.db-journal
 __pycache__/
 .claude
 trash
+
+# GCP secrets and credentials (DO NOT COMMIT)
+gcp/service-account-key.json
+gcp/.env.local
+gcp/terraform.tfvars
+.gcp-project-id
+**/service-account*.json
+
+# CSV exports (generated data)
+*_export.csv
+links_export.csv
+
+# Docker
+.dockerignore

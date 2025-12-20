@@ -1,0 +1,5 @@
+BILLING_ACCOUNT_ID="0155DC-D27C18-7F4848" 
+PROJECT_ID="135004189212"
+
+gcloud billing projects link $PROJECT_ID \
+  --billing-account=$BILLING_ACCOUNT_ID
