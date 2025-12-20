@@ -22,12 +22,12 @@
 
 ## Dataset Characteristics
 
-**Current Scale** (as of 2025-12-19):
-- **Links**: 6,827 total (6,184 showlinks + 643 longreads)
-- **Episodes**: 971 unique days over 4 years
-- **Sources**: 450 unique sources
+**Current Scale** (as of 2025-12-20):
+- **Links**: 12,707 total (12,058 showlinks + 649 longreads)
+- **Episodes**: 1,800+ unique days over 7.7 years (April 2018 - Dec 2025)
+- **Sources**: 600+ unique sources
 - **Growth**: ~6.4 links/episode, ~250 episodes/year
-- **Data Size**: 3.3 MB SQLite, 1.8 MB markdown
+- **Data Size**: 7.2 MB SQLite, 3.5 MB markdown
 - **Annual Growth**: ~1,600 links/year, ~800 KB/year
 
 **Workload Pattern**:

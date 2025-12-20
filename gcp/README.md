@@ -11,7 +11,7 @@ Cloud Scheduler → Cloud Run (Parser) → BigQuery → Cloud Run (Site Gen) →
 ```
 
 **Components**:
-- **BigQuery**: Data warehouse for 6,800+ links (analytics-ready)
+- **BigQuery**: Data warehouse for 12,700+ links (analytics-ready, 2018-2025)
 - **Cloud Run**: Serverless containers (RSS parser, site generator, query API)
 - **Cloud Scheduler**: Cron trigger (6 AM PT weekdays)
 - **Cloud Storage**: Static site hosting with CDN

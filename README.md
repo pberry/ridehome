@@ -121,10 +121,10 @@ Tests are based on real RSS feed edge cases and parsing bugs discovered over 4 y
 ## Data
 
 **Current Stats** (as of Dec 2025):
-- **6,827 links** extracted (6,184 showlinks + 643 longreads)
-- **971 episodes** parsed (Jan 2022 - Dec 2025)
-- **450 unique sources** identified
-- **4 years** of data
+- **12,707 links** extracted (12,058 showlinks + 649 longreads)
+- **1,800+ episodes** parsed (April 2018 - Dec 2025)
+- **600+ unique sources** identified
+- **7.7 years** of data
 
 ---
 
