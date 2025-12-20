@@ -1,63 +1,88 @@
-📊 Analyzing The Ride Home - 2021 Data...
+# 🎧 The Ride Home - 2021 Wrapped
 
-ℹ️  Note: Longreads not available for 2021 (feature started in 2022)
+_A year in tech news, curated daily by [The Ride Home podcast](https://www.ridehome.info/podcast/techmeme-ride-home/)_
 
-======================================================================
-                   🎧 THE RIDE HOME - 2021 WRAPPED 🎧                   
-======================================================================
+---
 
-📅 EPISODES & DATES
-----------------------------------------------------------------------
-   Daily Show Episodes:         264 days
-   Friday Longreads Episodes:     0 Fridays
-   TOTAL EPISODES:              264 episodes
+## 📅 Episodes & Coverage
 
-🔗 LINKS SHARED
-----------------------------------------------------------------------
-   Daily Show Links:           1657 links
-   Weekend Longreads:             0 links
-   TOTAL LINKS:                1657 links
-   Average per daily episode:   6.3 links
-   Average per Friday episode:  0.0 links
+| Metric | Count |
+|--------|-------|
+| **Daily Show Episodes** | 264 days |
+| **Friday Longreads Episodes** | 0 Fridays |
+| **Total Episodes** | **264 episodes** |
+| **Year Coverage** | **72.3%** of 2021 |
 
-📰 TOP 10 SOURCES - DAILY SHOW LINKS
-----------------------------------------------------------------------
-    1. The Verge                                      297 links
-    2. Bloomberg                                      155 links
-    3. CNBC                                           112 links
-    4. TechCrunch                                      99 links
-    5. WSJ                                             90 links
-    6. Engadget                                        35 links
-    7. NYTimes                                         34 links
-    8. Reuters                                         33 links
-    9. Financial Times                                 31 links
-   10. Tech Crunch                                     30 links
+---
 
-📚 TOP 10 SOURCES - WEEKEND LONGREADS
-----------------------------------------------------------------------
+## 🔗 Links Shared
 
-🏢 BIG TECH COMPANY MENTIONS
-----------------------------------------------------------------------
-   Apple         465 mentions  █████████████████████████████████████████████████████████████████████████████████████████████
-   Google        217 mentions  ███████████████████████████████████████████
-   Amazon        174 mentions  ██████████████████████████████████
-   Microsoft     165 mentions  █████████████████████████████████
-   Tesla          48 mentions  █████████
-   Netflix        43 mentions  ████████
-   Nvidia         32 mentions  ██████
-   Meta           31 mentions  ██████
-   OpenAI          9 mentions  █
+| Category | Links | Average per Episode |
+|----------|-------|---------------------|
+| **Daily Show Links** | 1,657 | 6.3 links/episode |
+| **Weekend Longreads** | 0 | 0.0 links/episode |
+| **TOTAL** | **1,657** | - |
 
-======================================================================
-                     🎉 YEAR IN REVIEW COMPLETE 🎉                      
-======================================================================
+---
 
-💡 FUN FACTS
-----------------------------------------------------------------------
-   🏆 Most mentioned company: Apple (465 times)
-   📰 Top daily news source: The Verge (297 links)
-   📅 Year coverage: 72.3% of 2021
+## 📰 Top 10 Sources - Daily Show Links
 
-======================================================================
+| Rank | Source | Links |
+|------|--------|-------|
+| 🥇 | **The Verge** | 297 |
+| 🥈 | **Bloomberg** | 155 |
+| 🥉 | **CNBC** | 112 |
+| 4 | TechCrunch | 99 |
+| 5 | WSJ | 90 |
+| 6 | Engadget | 35 |
+| 7 | NYTimes | 34 |
+| 8 | Reuters | 33 |
+| 9 | Financial Times | 31 |
+| 10 | Tech Crunch | 30 |
 
-✅ Markdown report saved to: docs/2021-wrapped.md
+---
+
+## 📚 Top 10 Sources - Weekend Longreads
+
+| Rank | Source | Articles |
+|------|--------|----------|
+
+---
+
+## 🏢 Big Tech Company Mentions
+
+The tech companies that dominated headlines in 2021:
+
+| Company | Mentions | Chart |
+|---------|----------|-------|
+| 🏆 **Apple** | **465** | █████████████████████████████████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **217** | ███████████████████████████████████████████ |
+| 📦 **Amazon** | **174** | ██████████████████████████████████ |
+| 💼 **Microsoft** | **165** | █████████████████████████████████ |
+| 🚗 **Tesla** | **48** | █████████ |
+| 🎬 **Netflix** | **43** | ████████ |
+| 🎮 **Nvidia** | **32** | ██████ |
+| 👤 **Meta** | **31** | ██████ |
+| 🤖 **OpenAI** | **9** | █ |
+
+---
+
+## 💡 Fun Facts
+
+- 🏆 **Most Mentioned Company:** Apple dominated with 465 mentions
+- 📰 **Top Daily News Source:** The Verge with 297 links
+- 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
+- 📅 **Consistency:** 264 daily episodes means coverage on most weekdays throughout the year
+- 🎯 **Quality Curation:** 1,657 total links from premium sources
+
+---
+
+## 📈 Key Takeaways
+
+**2021 in tech** featured 1,657 curated links across 264 episodes, bringing the most important tech news to listeners.
+
+**The Ride Home covered 72.3% of 2021**, bringing tech news to thousands of listeners.
+
+---
+
+_Generated 12/20/25_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_

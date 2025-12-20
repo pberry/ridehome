@@ -8,10 +8,10 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Metric | Count |
 |--------|-------|
-| **Daily Show Episodes** | 337 days |
-| **Friday Longreads Episodes** | 55 Fridays |
-| **Total Episodes** | **392 episodes** |
-| **Year Coverage** | **92.3%** of 2022 |
+| **Daily Show Episodes** | 246 days |
+| **Friday Longreads Episodes** | 0 Fridays |
+| **Total Episodes** | **246 episodes** |
+| **Year Coverage** | **67.4%** of 2022 |
 
 ---
 
@@ -19,9 +19,9 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
-| **Daily Show Links** | 2,058 | 6.1 links/episode |
-| **Weekend Longreads** | 240 | 4.4 links/episode |
-| **TOTAL** | **2,298** | - |
+| **Daily Show Links** | 1,610 | 6.5 links/episode |
+| **Weekend Longreads** | 0 | 0.0 links/episode |
+| **TOTAL** | **1,610** | - |
 
 ---
 
@@ -29,16 +29,16 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **The Verge** | 300 |
-| 🥈 | **Bloomberg** | 248 |
-| 🥉 | **TechCrunch** | 174 |
-| 4 | WSJ | 126 |
-| 5 | CNBC | 87 |
-| 6 | NYTimes | 63 |
-| 7 | The Block | 53 |
-| 8 | Washington Post | 48 |
-| 9 | Engadget | 47 |
-| 10 | CoinDesk | 45 |
+| 🥇 | **The Verge** | 242 |
+| 🥈 | **Bloomberg** | 195 |
+| 🥉 | **TechCrunch** | 143 |
+| 4 | WSJ | 98 |
+| 5 | CNBC | 74 |
+| 6 | NYTimes | 49 |
+| 7 | The Block | 40 |
+| 8 | Washington Post | 39 |
+| 9 | Engadget | 37 |
+| 10 | CoinDesk | 35 |
 
 ---
 
@@ -46,16 +46,6 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **Bloomberg** | 22 |
-| 🥈 | **WSJ** | 18 |
-| 🥉 | **Wired** | 16 |
-| 4 | NYTimes | 15 |
-| 5 | The Verge | 12 |
-| 6 | The Atlantic | 8 |
-| 7 | Forbes | 7 |
-| 8 | Fast Company | 5 |
-| 9 | Washington Post | 4 |
-| 10 | The Guardian | 4 |
 
 ---
 
@@ -65,35 +55,34 @@ The tech companies that dominated headlines in 2022:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **488** | █████████████████████████████████████████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **310** | ██████████████████████████████████████████████████████████████ |
-| 👤 **Meta** | **174** | ██████████████████████████████████ |
-| 💼 **Microsoft** | **151** | ██████████████████████████████ |
-| 📦 **Amazon** | **137** | ███████████████████████████ |
-| 🎬 **Netflix** | **95** | ███████████████████ |
-| 🚗 **Tesla** | **45** | █████████ |
-| 🎮 **Nvidia** | **38** | ███████ |
-| 🤖 **OpenAI** | **24** | ████ |
+| 🏆 **Apple** | **337** | ███████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **230** | ██████████████████████████████████████████████ |
+| 👤 **Meta** | **130** | ██████████████████████████ |
+| 📦 **Amazon** | **120** | ████████████████████████ |
+| 💼 **Microsoft** | **108** | █████████████████████ |
+| 🎬 **Netflix** | **64** | ████████████ |
+| 🚗 **Tesla** | **33** | ██████ |
+| 🎮 **Nvidia** | **33** | ██████ |
+| 🤖 **OpenAI** | **20** | ████ |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 488 mentions
-- 📰 **Top Daily News Source:** The Verge with 300 links
-- 📖 **Top Longreads Source:** Bloomberg (22 articles)
-- 📊 **Links Per Episode:** An average of 6.1 daily links kept listeners informed
-- 📅 **Consistency:** 337 daily episodes means coverage on most weekdays throughout the year
-- 🎯 **Quality Curation:** 2,298 total links from premium sources
+- 🏆 **Most Mentioned Company:** Apple dominated with 337 mentions
+- 📰 **Top Daily News Source:** The Verge with 242 links
+- 📊 **Links Per Episode:** An average of 6.5 daily links kept listeners informed
+- 📅 **Consistency:** 246 daily episodes means coverage on most weekdays throughout the year
+- 🎯 **Quality Curation:** 1,610 total links from premium sources
 
 ---
 
 ## 📈 Key Takeaways
 
-**2022 in tech** featured 2,298 curated links across 392 episodes, bringing the most important tech news to listeners.
+**2022 in tech** featured 1,610 curated links across 246 episodes, bringing the most important tech news to listeners.
 
-**The Ride Home covered 92.3% of 2022**, bringing tech news to thousands of listeners.
+**The Ride Home covered 67.4% of 2022**, bringing tech news to thousands of listeners.
 
 ---
 
-_Generated December 2025 | Data source: docs/all-links-2022.md and docs/longreads-2022.md_
+_Generated 12/20/25_ | _Data source: docs/all-links-2022.md and docs/longreads-2022.md_
