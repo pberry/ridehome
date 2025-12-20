@@ -24,7 +24,18 @@ def load_showlinks(conn, docs_dir='docs'):
         Tuple of (total_inserted, total_duplicates)
     """
     docs_path = Path(docs_dir)
-    showlinks_files = sorted(docs_path.glob('all-links-*.md'))
+
+    # Load master archive first (2018-2021 historical data)
+    master_file = docs_path / 'all-links.md'
+    showlinks_files = []
+
+    if master_file.exists():
+        showlinks_files.append(master_file)
+        print("Found master archive: all-links.md (2018-2021)")
+
+    # Then load yearly files (2022+)
+    yearly_files = sorted(docs_path.glob('all-links-2*.md'))
+    showlinks_files.extend(yearly_files)
 
     total_inserted = 0
     total_duplicates = 0

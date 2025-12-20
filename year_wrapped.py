@@ -84,27 +84,31 @@ def generate_wrapped_report(year):
     # Check if files exist
     if not all_links_path.exists():
         print(f"❌ Error: File not found: {all_links_path}")
-        print(f"   Available years: 2022, 2023, 2024, 2025")
+        print(f"   Available years: 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025")
         sys.exit(1)
 
-    if not longreads_path.exists():
-        print(f"❌ Error: File not found: {longreads_path}")
-        print(f"   Available years: 2022, 2023, 2024, 2025")
-        sys.exit(1)
-
-    # Parse both files
+    # Parse daily links (required)
     print(f"📊 Analyzing The Ride Home - {year} Data...\n")
-
     daily_data = parse_markdown_file(all_links_path)
-    longreads_data = parse_markdown_file(longreads_path)
+
+    # Parse longreads (optional, only available 2022+)
+    has_longreads = longreads_path.exists()
+    if has_longreads:
+        longreads_data = parse_markdown_file(longreads_path)
+    else:
+        print(f"ℹ️  Note: Longreads not available for {year} (feature started in 2022)\n")
+        longreads_data = {'dates': [], 'links': [], 'sources': []}
 
     # Read full content for company mentions
     with open(all_links_path, 'r', encoding='utf-8') as f:
         daily_content = f.read()
-    with open(longreads_path, 'r', encoding='utf-8') as f:
-        longreads_content = f.read()
 
-    combined_content = daily_content + "\n" + longreads_content
+    if has_longreads:
+        with open(longreads_path, 'r', encoding='utf-8') as f:
+            longreads_content = f.read()
+        combined_content = daily_content + "\n" + longreads_content
+    else:
+        combined_content = daily_content
 
     # Company tracking
     companies_to_track = [

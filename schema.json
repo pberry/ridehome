@@ -1,0 +1,12 @@
+[
+  {"name": "id", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "date", "type": "DATE", "mode": "REQUIRED"},
+  {"name": "date_unix", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "title", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "url", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "source", "type": "STRING", "mode": "NULLABLE"},
+  {"name": "link_type", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "episode_date", "type": "DATE", "mode": "REQUIRED"},
+  {"name": "episode_date_unix", "type": "INT64", "mode": "REQUIRED"},
+  {"name": "created_at", "type": "TIMESTAMP", "mode": "NULLABLE"}
+]
