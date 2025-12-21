@@ -8,10 +8,10 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Metric | Count |
 |--------|-------|
-| **Daily Show Episodes** | 271 days |
+| **Daily Show Episodes** | 237 days |
 | **Friday Longreads Episodes** | 46 Fridays |
-| **Total Episodes** | **317 episodes** |
-| **Year Coverage** | **74.2%** of 2025 |
+| **Total Episodes** | **283 episodes** |
+| **Year Coverage** | **64.9%** of 2025 |
 
 ---
 
@@ -19,7 +19,7 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
-| **Daily Show Links** | 1,484 | 5.5 links/episode |
+| **Daily Show Links** | 1,484 | 6.3 links/episode |
 | **Weekend Longreads** | 101 | 2.2 links/episode |
 | **TOTAL** | **1,585** | - |
 
@@ -29,16 +29,16 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **Bloomberg** | 223 |
-| 🥈 | **The Verge** | 178 |
-| 🥉 | **TechCrunch** | 127 |
-| 4 | WSJ | 104 |
-| 5 | CNBC | 81 |
-| 6 | FT | 62 |
-| 7 | NYTimes | 52 |
-| 8 | The Information | 51 |
-| 9 | Reuters | 50 |
-| 10 | Financial Times | 37 |
+| 🥇 | **Bloomberg** | 258 |
+| 🥈 | **The Verge** | 185 |
+| 🥉 | **TechCrunch** | 136 |
+| 4 | WSJ | 109 |
+| 5 | CNBC | 84 |
+| 6 | FT | 65 |
+| 7 | NYTimes | 61 |
+| 8 | Reuters | 52 |
+| 9 | The Information | 51 |
+| 10 | Financial Times | 40 |
 
 ---
 
@@ -46,16 +46,6 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **NYTimes** | 9 |
-| 🥈 | **The Verge** | 9 |
-| 🥉 | **Wired** | 8 |
-| 4 | Bloomberg | 8 |
-| 5 | WSJ | 6 |
-| 6 | Financial Times | 4 |
-| 7 | FT | 3 |
-| 8 | The Information | 2 |
-| 9 | CNBC | 2 |
-| 10 | The New Yorker | 2 |
 
 ---
 
@@ -65,26 +55,25 @@ The tech companies that dominated headlines in 2025:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **OpenAI** | **384** | ████████████████████████████████████████████████████████████████████████████ |
-| 🍎 **Apple** | **294** | ██████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **241** | ████████████████████████████████████████████████ |
-| 👤 **Meta** | **208** | █████████████████████████████████████████ |
-| 💼 **Microsoft** | **139** | ███████████████████████████ |
-| 🎮 **Nvidia** | **135** | ███████████████████████████ |
-| 📦 **Amazon** | **95** | ███████████████████ |
-| 🤖 **Anthropic** | **81** | ████████████████ |
-| 🎬 **Netflix** | **37** | ███████ |
-| 🚗 **Tesla** | **20** | ████ |
+| 🏆 **OpenAI** | **356** | ███████████████████████████████████████████████████████████████████████ |
+| 🍎 **Apple** | **277** | ███████████████████████████████████████████████████████ |
+| 🔍 **Google** | **234** | ██████████████████████████████████████████████ |
+| 👤 **Meta** | **197** | ███████████████████████████████████████ |
+| 💼 **Microsoft** | **133** | ██████████████████████████ |
+| 🎮 **Nvidia** | **121** | ████████████████████████ |
+| 📦 **Amazon** | **91** | ██████████████████ |
+| 🤖 **Anthropic** | **80** | ████████████████ |
+| 🎬 **Netflix** | **35** | ███████ |
+| 🚗 **Tesla** | **19** | ███ |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** OpenAI dominated with 384 mentions - AI clearly defined the tech narrative
-- 📰 **Top Daily News Source:** Bloomberg with 223 links
-- 📖 **Top Longreads Source:** NYTimes (9 articles)
-- 📊 **Links Per Episode:** An average of 5.5 daily links kept listeners informed
-- 📅 **Consistency:** 271 daily episodes means coverage on most weekdays throughout the year
+- 🏆 **Most Mentioned Company:** OpenAI dominated with 356 mentions - AI clearly defined the tech narrative
+- 📰 **Top Daily News Source:** Bloomberg with 258 links
+- 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
+- 📅 **Consistency:** 237 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,585 total links from premium sources
 
 ---
@@ -93,8 +82,8 @@ The tech companies that dominated headlines in 2025:
 
 **2025 was the year of AI dominance in tech news.** OpenAI's overwhelming lead in mentions reflects the industry's obsession with artificial intelligence. The top companies all invested heavily in AI, making it the defining narrative of the year.
 
-**The Ride Home covered 74.2% of 2025**, bringing tech news to thousands of listeners.
+**The Ride Home covered 64.9% of 2025**, bringing tech news to thousands of listeners.
 
 ---
 
-_Generated 12/19/25_ | _Data source: docs/all-links-2025.md and docs/longreads-2025.md_
+_Generated 12/21/25_ | _Data source: docs/all-links-2025.md and docs/longreads-2025.md_

@@ -9,8 +9,8 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 | Metric | Count |
 |--------|-------|
 | **Daily Show Episodes** | 244 days |
-| **Friday Longreads Episodes** | 0 Fridays |
-| **Total Episodes** | **244 episodes** |
+| **Friday Longreads Episodes** | 47 Fridays |
+| **Total Episodes** | **291 episodes** |
 | **Year Coverage** | **66.8%** of 2023 |
 
 ---
@@ -20,8 +20,8 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
 | **Daily Show Links** | 1,534 | 6.3 links/episode |
-| **Weekend Longreads** | 0 | 0.0 links/episode |
-| **TOTAL** | **1,534** | - |
+| **Weekend Longreads** | 174 | 3.7 links/episode |
+| **TOTAL** | **1,708** | - |
 
 ---
 
@@ -74,7 +74,7 @@ The tech companies that dominated headlines in 2023:
 - 📰 **Top Daily News Source:** The Verge with 251 links
 - 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
 - 📅 **Consistency:** 244 daily episodes means coverage on most weekdays throughout the year
-- 🎯 **Quality Curation:** 1,534 total links from premium sources
+- 🎯 **Quality Curation:** 1,708 total links from premium sources
 
 ---
 
@@ -86,4 +86,4 @@ The tech companies that dominated headlines in 2023:
 
 ---
 
-_Generated 12/20/25_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_
+_Generated 12/21/25_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_

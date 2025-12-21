@@ -9,8 +9,8 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 | Metric | Count |
 |--------|-------|
 | **Daily Show Episodes** | 180 days |
-| **Friday Longreads Episodes** | 0 Fridays |
-| **Total Episodes** | **180 episodes** |
+| **Friday Longreads Episodes** | 51 Fridays |
+| **Total Episodes** | **231 episodes** |
 | **Year Coverage** | **49.3%** of 2019 |
 
 ---
@@ -20,8 +20,8 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
 | **Daily Show Links** | 1,312 | 7.3 links/episode |
-| **Weekend Longreads** | 0 | 0.0 links/episode |
-| **TOTAL** | **1,312** | - |
+| **Weekend Longreads** | 310 | 6.1 links/episode |
+| **TOTAL** | **1,622** | - |
 
 ---
 
@@ -46,6 +46,16 @@ _A year in tech news, curated daily by [The Ride Home podcast](https://www.rideh
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **The Verge** | 16 |
+| 🥈 | **Wired** | 14 |
+| 🥉 | **The Atlantic** | 14 |
+| 4 | NYTimes | 13 |
+| 5 | Fast Company | 10 |
+| 6 | OneZero | 9 |
+| 7 | Forbes | 9 |
+| 8 | Bloomberg Businessweek | 8 |
+| 9 | Ars Technica | 7 |
+| 10 | TechCrunch | 7 |
 
 ---
 
@@ -55,32 +65,34 @@ The tech companies that dominated headlines in 2019:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **304** | ████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **237** | ███████████████████████████████████████████████ |
-| 📦 **Amazon** | **183** | ████████████████████████████████████ |
-| 💼 **Microsoft** | **97** | ███████████████████ |
-| 🎬 **Netflix** | **50** | ██████████ |
-| 🚗 **Tesla** | **22** | ████ |
+| 🏆 **Apple** | **333** | ██████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **263** | ████████████████████████████████████████████████████ |
+| 📦 **Amazon** | **205** | █████████████████████████████████████████ |
+| 💼 **Microsoft** | **102** | ████████████████████ |
+| 🎬 **Netflix** | **56** | ███████████ |
+| 🚗 **Tesla** | **23** | ████ |
 | 🎮 **Nvidia** | **7** | █ |
+| 👤 **Meta** | **2** |  |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 304 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 333 mentions
 - 📰 **Top Daily News Source:** The Verge with 194 links
+- 📖 **Top Longreads Source:** The Verge (16 articles)
 - 📊 **Links Per Episode:** An average of 7.3 daily links kept listeners informed
 - 📅 **Consistency:** 180 daily episodes means coverage on most weekdays throughout the year
-- 🎯 **Quality Curation:** 1,312 total links from premium sources
+- 🎯 **Quality Curation:** 1,622 total links from premium sources
 
 ---
 
 ## 📈 Key Takeaways
 
-**2019 in tech** featured 1,312 curated links across 180 episodes, bringing the most important tech news to listeners.
+**2019 in tech** featured 1,622 curated links across 231 episodes, bringing the most important tech news to listeners.
 
 **The Ride Home covered 49.3% of 2019**, bringing tech news to thousands of listeners.
 
 ---
 
-_Generated 12/20/25_ | _Data source: docs/all-links-2019.md and docs/longreads-2019.md_
+_Generated 12/21/25_ | _Data source: docs/all-links-2019.md and docs/longreads-2019.md_
