@@ -21,13 +21,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - Before: 781 links parseable (2018-2021 only)
     - After: 1,430 links parseable (2018-2025 complete)
   - **Script:** `normalize_longreads_bullets.py`
+- **Deprecated master archive file** - Eliminated redundant all-links.md
+  - **Previous:** Master archive (all-links.md) contained 2018-2021 data + yearly files for 2022-2025
+  - **Now:** All data in yearly files (all-links-2018.md through all-links-2025.md)
+  - **Moved:** all-links.md → trash/ (archived)
+  - **Updated:** load_db.py now loads only yearly files
+  - **Benefits:** No duplicate processing, cleaner import (8 files vs 9), same total data (12,058 showlinks)
 
 ### Added
 - **SQLite Database + Datasette Support** - Complete dual-output system (markdown + database)
   - **One-time import:** `load_db.py` script imports existing markdown into SQLite
-    - 6,152 showlinks imported from all-links-*.md files (2022-2025)
-    - 649 longreads imported from longreads-*.md files (2022-2025)
-    - Total: 6,801 links in database
+    - 12,058 showlinks imported from all-links-*.md files (2018-2025)
+    - 1,736 longreads imported from longreads-*.md files (2018-2025)
+    - Total: 13,794 links in database
   - **Schema:** Single `links` table with hybrid date storage
     - TEXT dates (ISO format: YYYY-MM-DD) for human-readable queries
     - INTEGER dates (Unix timestamps) for efficient calculations
