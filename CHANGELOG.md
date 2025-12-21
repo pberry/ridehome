@@ -6,6 +6,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+- **Solarized Light theme for GitHub Pages** - Custom visual design replacing default Jekyll styling
+  - **Base theme:** minima (clean, technical foundation)
+  - **Color scheme:** Solarized Light palette for readability and technical aesthetic
+    - Background: Warm off-white (#fdf6e3)
+    - Text: Muted gray-blue (#657b83)
+    - Links: Blue (#268bd2) with distinct visited state (violet #6c71c4)
+    - Accent colors: Full Solarized palette for code, tables, emphasis
+  - **Typography:** System font stack for performance, generous line-height (1.6-1.8) for readability
+  - **Link-focused design:** Clear visual hierarchy, underlines with transparency, hover states
+  - **Table styling:** Clean borders and alternating rows for Wrapped stats pages
+  - **Configuration:**
+    - `docs/_config.yml` - Jekyll theme configuration
+    - `docs/assets/css/style.scss` - Complete Solarized Light stylesheet
+    - `docs/Gemfile` - Local development dependencies
+  - **Benefits:** Distinctive identity, improved readability, maintains focus on links content
+  - **No animations or images** - Clean, technical presentation
+
 ## [1.2.1] - 2025-12-21
 
 ### Changed
