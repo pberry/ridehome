@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Changed
+- **Standardized date format in longreads files** - All 8 longreads-*.md files (2018-2025) now use consistent date format
+  - **New format:** `**Friday, December 28 2018 - Fri. 12/28**` (matches all-links files)
+  - **Previous formats were inconsistent:**
+    - 2018-2021: `**Friday, December 28**` (missing year and abbreviated suffix)
+    - 2022-2025: `## December 22, 2022` (heading format, missing day of week)
+  - **Updated:** 393 dates across 8 files using automated Python script (`update_longreads_dates.py`)
+  - **Benefits:** Improved consistency across all documentation, easier date parsing
+
 ### Added
 - **SQLite Database + Datasette Support** - Complete dual-output system (markdown + database)
   - **One-time import:** `load_db.py` script imports existing markdown into SQLite
