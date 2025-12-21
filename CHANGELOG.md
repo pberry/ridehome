@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.2.1] - 2025-12-21
+
 ### Changed
 - **Standardized date format in longreads files** - All 8 longreads-*.md files (2018-2025) now use consistent date format
   - **New format:** `**Friday, December 28 2018 - Fri. 12/28**` (matches all-links files)
