@@ -1,0 +1,13 @@
+# Site settings
+title: The Ride Home - Link Archive
+description: Daily tech news links from The Ride Home podcast
+
+# Build settings
+theme: minima
+
+# Minima theme customization
+minima:
+  date_format: "%b %-d, %Y"
+
+# Solarized Light color scheme
+# Base: clean, technical, readable

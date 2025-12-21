@@ -6,3 +6,8 @@ ridehome.db-journal
 __pycache__/
 .claude
 trash
+
+# Jekyll build artifacts
+docs/_site/
+docs/.jekyll-cache/
+docs/Gemfile.lock
