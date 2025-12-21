@@ -14,6 +14,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
     - 2022-2025: `## December 22, 2022` (heading format, missing day of week)
   - **Updated:** 393 dates across 8 files using automated Python script (`update_longreads_dates.py`)
   - **Benefits:** Improved consistency across all documentation, easier date parsing
+- **Normalized bullet format in longreads files** - Fixed database parsing compatibility
+  - **Previous issue:** 2022-2025 longreads used dash bullets (`-`) while 2018-2021 used asterisks (`*`)
+  - **Fix:** Converted 649 dash bullets to asterisks for consistency
+  - **Impact:** `markdown_parser.py` now successfully parses ALL longreads files
+    - Before: 781 links parseable (2018-2021 only)
+    - After: 1,430 links parseable (2018-2025 complete)
+  - **Script:** `normalize_longreads_bullets.py`
 
 ### Added
 - **SQLite Database + Datasette Support** - Complete dual-output system (markdown + database)
