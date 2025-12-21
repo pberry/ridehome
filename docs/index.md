@@ -1,20 +1,10 @@
-_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/show/techmeme-ride-home/) now has a proper web site and [RSS feed](https://rss.art19.com/techmeme-ridehome)._
+[The Ride Home](https://www.ridehome.info/show/techmeme-ride-home/) now has a proper web site and [RSS feed](https://rss.art19.com/techmeme-ridehome)._
 
 **Recent Stuff**
 
 * [Show Links by Day 2025](all-links-2025.md)
 * [Long reads 2025](longreads-2025.md)
-
-**Wrapped!**
-
-* [2025](2025-wrapped.md)
-* [2024](2024-wrapped.md)
-* [2023](2023-wrapped.md)
-* [2022](2022-wrapped.md)
-* [2021](2021-wrapped.md)
-* [2020](2020-wrapped.md)
-* [2019](2019-wrapped.md)
-* [2018](2018-wrapped.md)
+* [2025 Wrapped](2025-wrapped.md)
 
 **Older Stuff**
 
@@ -28,6 +18,21 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 * [Long reads 2024](longreads-2024.md)
 * [Long reads 2023](longreads-2023.md)
 * [Long reads 2022](longreads-2022.md)
+* [Long reads 2021](longreads-2021.md)
+* [Long reads 2020](longreads-2020.md)
+* [Long reads 2019](longreads-2019.md)
+* [Long reads 2018](longreads-2018.md)
 * [Long reads Pre 2022](longreads.md)
 * [Coronavirus Morning report](coronavirus-daily-briefing.md)
+
+**Wrapped Archive**
+
+* [2024](2024-wrapped.md)
+* [2023](2023-wrapped.md)
+* [2022](2022-wrapped.md)
+* [2021](2021-wrapped.md)
+* [2020](2020-wrapped.md)
+* [2019](2019-wrapped.md)
+* [2018](2018-wrapped.md)
+
 

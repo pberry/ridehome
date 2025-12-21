@@ -1,6 +1,6 @@
 {% include_relative _includes/showlinks-header.md %}
 
-_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
+[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
 
 
 **Wednesday, December 29 2021 - Wed. 12/29 – Has Your LastPass Password Been Compromised?**
