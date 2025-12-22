@@ -1,6 +1,4 @@
-# 🎧 The Ride Home - 2025 Wrapped
-
-_A year in tech news, curated daily by [The Ride Home podcast](https://www.ridehome.info/podcast/techmeme-ride-home/)_
+{% include_relative _includes/wrapped-header.md %}
 
 ---
 
