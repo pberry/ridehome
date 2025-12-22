@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Friday, December 28 2018 - Fri. 12/28**
 
   * [Instagram briefly switched to a horizontal feed and people freaked out](https://www.theverge.com/2018/12/27/18157632/instagram-feed-horizontally-scrolling-stories-test-roll-out-app) (The Verge)
