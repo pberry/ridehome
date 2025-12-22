@@ -6,7 +6,7 @@
 
 **Friday, December 28 2018 - Fri. 12/28**
 
-  * [Instagram briefly switched to a horizontal feed and people freaked out](https://www.The Verge.com/2018/12/27/18157632/instagram-feed-horizontally-scrolling-stories-test-roll-out-app) (The Verge)
+  * [Instagram briefly switched to a horizontal feed and people freaked out](https://www.theverge.com/2018/12/27/18157632/instagram-feed-horizontally-scrolling-stories-test-roll-out-app) (The Verge)
   * [Epic Games, the creator of Fortnite, banked a $3 billion profit in 2018](https://techcrunch.com/2018/12/27/epic-fortnite-3-billion-profit/) (TechCrunch)
   * [Exclusive: Foxconn to begin assembling top-end Apple iPhones in India in 2019 - source](https://www.reuters.com/article/us-apple-india-exclusive-idUSKCN1OQ0M6) (Reuters)
   * [Tesla Taps Ellison, HR Expert to Prove Musk Is Reined In](https://www.bloomberg.com/news/articles/2018-12-28/tesla-adds-ellison-walgreens-executive-to-board-after-sec-deal?srnd=markets-vp) (Bloomberg)
@@ -20,7 +20,7 @@
   * [With Tech Expansion, Austin Is Still Weird. It’s Just More Wired Now, Too.](https://www.nytimes.com/2018/12/25/us/austin-apple-hub-silicon-hills.html) (NYTimes)
   * [Pushed Even Further: US Newsrooms View Mobile Alerts as a Standalone Platform](https://www.cjr.org/tow_center_reports/newsrooms-view-mobile-alerts-as-standalone-platform.php/) (CJR)
   * [Movie Theaters Bounce Back: What’s Behind the 2018 Rebound](https://variety.com/2018/film/news/box-office-2018-review-theaters-bounce-back-1203095729/) (Variety)
-  * [Watch the trailer for Black Mirror: Bandersnatch, releasing Friday 28th on Netflix](https://www.The Verge.com/2018/12/27/18157399/black-mirror-netflix-special-bandersnatch-trailer-release-date) (The Verge)
+  * [Watch the trailer for Black Mirror: Bandersnatch, releasing Friday 28th on Netflix](https://www.theverge.com/2018/12/27/18157399/black-mirror-netflix-special-bandersnatch-trailer-release-date) (The Verge)
 
 **Wednesday, December 26 2018 - Wed. 12/26**
 
@@ -41,22 +41,22 @@
 
 **Thursday, December 20 2018 - Thu. 12/20**
 
-  * [Apple confirms some iPad Pros ship slightly bent, but says it’s normal](https://www.The Verge.com/2018/12/19/18148957/apple-ipad-bend-pro-2018-shipping-manufacturing-confirmed) (The Verge)
+  * [Apple confirms some iPad Pros ship slightly bent, but says it’s normal](https://www.theverge.com/2018/12/19/18148957/apple-ipad-bend-pro-2018-shipping-manufacturing-confirmed) (The Verge)
   * [Justice Department charges Chinese nationals in ‘extensive’ global hacking campaign](https://www.cnbc.com/2018/12/20/doj-china-national-security-law-enforcement-action.html) (CNBC)
   * [Uber's self-driving cars return to public roads after fatal crash](https://www.cnet.com/news/ubers-self-driving-cars-return-to-public-roads-after-fatal-crash/?ftag=COS-05-10aaa0b&linkId=61372821) (CNET)
   * [Drones cause holiday chaos at one of London's busiest airports](https://www.engadget.com/2018/12/20/drone-delays-gatwick-airport/) (Engadget)
   * [Gatwick Airport: Drones ground flights](https://www.bbc.com/news/uk-england-sussex-46623754) (BBC News)
   * [Pinterest Readies Itself for Early 2019 IPO](https://www.wsj.com/articles/pinterest-readies-itself-for-early-2019-ipo-11545251368) (WSJ)
-  * [FORTNITE KEEPS STEALING DANCES — AND NO ONE KNOWS IF IT’S ILLEGAL](https://www.The Verge.com/2018/12/20/18149869/fortnite-dance-emote-lawsuit-milly-rock-floss-carlton) (The Verge)
+  * [FORTNITE KEEPS STEALING DANCES — AND NO ONE KNOWS IF IT’S ILLEGAL](https://www.theverge.com/2018/12/20/18149869/fortnite-dance-emote-lawsuit-milly-rock-floss-carlton) (The Verge)
 
 **Wednesday, December 19 2018 - Wed. 12/19**
 
   * [As Facebook Raised a Privacy Wall, It Carved an Opening for Tech Giants](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html) (NYTimes)
   * [ELON MUSK UNVEILS THE BORING COMPANY’S CAR-FLINGING TUNNEL](https://www.wired.com/story/elon-musk-boring-company-car-flinging-tunnel/) (Wired)
   * [Elon Musk unveils his company’s first tunnel in Hawthorne, and it’s not a smooth ride](https://www.latimes.com/local/lanow/la-me-ln-elon-musk-tunnel-20181218-story.html) (LATimes)
-  * [Apple tweaks iOS animation in China in attempt to avoid sales ban](https://www.The Verge.com/2018/12/19/18148645/apple-iphone-ios-12-1-2-china-sales-ban-qualcomm) (The Verge)
+  * [Apple tweaks iOS animation in China in attempt to avoid sales ban](https://www.theverge.com/2018/12/19/18148645/apple-iphone-ios-12-1-2-china-sales-ban-qualcomm) (The Verge)
   * [Zwift, which turns indoor cycling workouts into multiplayer games, raises $120M](https://techcrunch.com/2018/12/19/zwift-which-turns-indoor-cycling-workouts-into-multiplayer-games-raises-120m/) (TechCrunch)
-  * [This free online tool uses AI to quickly remove the background from images](https://www.The Verge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop) (The Verge)
+  * [This free online tool uses AI to quickly remove the background from images](https://www.theverge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop) (The Verge)
   * [Apple Accidentally Reveals Radical New iPhone](https://www.forbes.com/sites/gordonkelly/2018/12/18/apple-iphone-xs-max-xr-upgrade-price-cost-iphone-xi-touch-id-face-id/#890137a3b0df) (Forbes)
 
 **Tuesday, December 18 2018 - Tue. 12/18**
@@ -65,9 +65,9 @@
   * [Google will make it easier for people without accounts to collaborate on G Suite documents](https://techcrunch.com/2018/12/17/google-will-make-it-easier-for-people-without-accounts-to-collaborate-on-g-suite-documents/) (TechCrunch)
   * [Facebook still hasn’t launched a big privacy feature that Mark Zuckerberg promised more than seven months ago](https://www.recode.net/2018/12/17/18140062/facebook-clear-history-update-privacy-targeting-data-collection) (Recode)
   * [AT&T's 5G network is live, if you're in the right city](https://www.cnet.com/news/at-ts-5g-network-is-live-if-you-live-in-the-right-city/) (CNET)
-  * [Audi pulls the curtain back on its self-driving car program](https://www.The Verge.com/2018/12/18/18144506/audi-self-driving-car-volkswagen-luminar-lidar) (The Verge)
+  * [Audi pulls the curtain back on its self-driving car program](https://www.theverge.com/2018/12/18/18144506/audi-self-driving-car-volkswagen-luminar-lidar) (The Verge)
   * [Amazon Targets Unprofitable Items, With a Sharper Focus on the Bottom Line](https://www.wsj.com/articles/amazon-targets-unprofitable-items-with-a-sharper-focus-on-the-bottom-line-11544965201) (WSJ)
-  * [This tank of a phone has lasted me a week on one charge](https://www.The Verge.com/circuitbreaker/2018/12/18/18146061/doogee-s80-hands-on-battery-life-mah-capacity) (The Verge)
+  * [This tank of a phone has lasted me a week on one charge](https://www.theverge.com/circuitbreaker/2018/12/18/18146061/doogee-s80-hands-on-battery-life-mah-capacity) (The Verge)
 
 **Monday, December 17 2018 - Mon. 12/17**
 
@@ -76,12 +76,12 @@
   * [Colin Kroll, 34, HQ Trivia and Vine Co-Founder, Is Found Dead](https://www.nytimes.com/2018/12/16/nyregion/hq-trivia-overdose-colin-kroll.html) (NYTimes)
   * [We Broke Into A Bunch Of Android Phones With A 3D-Printed Head](https://www.forbes.com/sites/thomasbrewster/2018/12/13/we-broke-into-a-bunch-of-android-phones-with-a-3d-printed-head/#2a2c65713307) (Forbes)
   * [Robinhood Will Retool Checking Product Following Scrutiny](https://www.bloomberg.com/news/articles/2018-12-15/robinhood-will-retool-checking-product-following-scrutiny) (Bloomberg)
-  * [Apple hires designer Andrew Kim away from Tesla](https://www.The Verge.com/2018/12/17/18144421/apple-designer-andrew-kim-tesla-microsoft-xbox-one-s-hololens) (The Verge)
+  * [Apple hires designer Andrew Kim away from Tesla](https://www.theverge.com/2018/12/17/18144421/apple-designer-andrew-kim-tesla-microsoft-xbox-one-s-hololens) (The Verge)
   * [My Talk at Google](https://www.youtube.com/watch?v=3V39TpBSCWQ&t=) (Me)
 
 **Friday, December 14 2018 - Fri. 12/14**
 
-  * [Bitcoin scammers send bomb threats worldwide, causing evacuations](https://www.The Verge.com/2018/12/13/18139724/bitcoin-bomb-threat-scam-email-us-police-department-investigation-evacuations) (The Verge)
+  * [Bitcoin scammers send bomb threats worldwide, causing evacuations](https://www.theverge.com/2018/12/13/18139724/bitcoin-bomb-threat-scam-email-us-police-department-investigation-evacuations) (The Verge)
   * [Facebook bug exposed up to 6.8M users’ unposted photos to apps](https://techcrunch.com/2018/12/14/facebook-photo-bug/) (TechCrunch)
   * [Irish regulator to investigate Facebook after new data leak](https://www.ft.com/content/d796b5a8-ffc1-11e8-ac00-57a2a826423e) (Financial Times)
   * [Apple Says China iPhone Ban Would Force Settlement With Qualcomm](https://www.bloomberg.com/news/articles/2018-12-14/apple-says-china-iphone-ban-would-force-settlement-with-qualcomm) (Bloomberg)
@@ -101,7 +101,7 @@
   * [A look at the Apple Watch’s ECG, from someone who needs it](https://arstechnica.com/gadgets/2018/12/an-ecg-on-your-wrist-apples-new-heart-monitoring-software/) (Ars Technica)
   * [Apple now has dozens of doctors on staff, showing it's serious about health tech](https://www.cnbc.com/2018/12/12/apple-has-dozens-of-doctors-on-staff.html) (CNBC)
   * [POSTMATES' QUEST TO BUILD THE DELIVERY ROBOT OF THE FUTURE](https://www.wired.com/story/postmates-delivery-robot-serve/) (Wired)
-  * [YouTube Rewind 2018 is officially the most disliked video on YouTube](https://www.The Verge.com/2018/12/13/18137894/youtube-rewind-2018-dislike-shane-dawson-logan-paul-pewdiepie-mkbhd-philip-defranco) (The Verge)
+  * [YouTube Rewind 2018 is officially the most disliked video on YouTube](https://www.theverge.com/2018/12/13/18137894/youtube-rewind-2018-dislike-shane-dawson-logan-paul-pewdiepie-mkbhd-philip-defranco) (The Verge)
 
 **Wednesday, December 12 2018 - Wed. 12/12**
 
@@ -135,7 +135,7 @@
   * [Apple acquired Platoon, a platform for musicians to create and distribute work](https://techcrunch.com/2018/12/07/apple-platoon/) (TechCrunch)
   * [Investor Frenzy for Scooter Startups Cools](https://www.wsj.com/articles/scooter-startups-cool-fundraising-wheels-1544356923?ns=prod/accounts-wsj) (WSJ)
   * [Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html) (NYTimes)
-  * [Samsung’s A8s is its first phone with an Infinity-O hole-punch display](https://www.The Verge.com/circuitbreaker/2018/12/10/18134119/samsung-a8s-infinity-o-display-features-specs-news) (The Verge)
+  * [Samsung’s A8s is its first phone with an Infinity-O hole-punch display](https://www.theverge.com/circuitbreaker/2018/12/10/18134119/samsung-a8s-infinity-o-display-features-specs-news) (The Verge)
 
 **Friday, December 07 2018 - Fri. 12/7**
 
@@ -147,8 +147,8 @@
 **Thursday, December 06 2018 - Thu. 12/6**
 
   * [Canada arrests Huawei’s global chief financial officer in Vancouver](https://www.theglobeandmail.com/canada/article-canada-has-arrested-huaweis-global-chief-financial-officer-in/) (The Globe and Mail)
-  * [Microsoft is rebuilding its Edge browser on Chrome and bringing it to the Mac](https://www.The Verge.com/2018/12/6/18128648/microsoft-edge-chrome-chromium-browser-changes) (The Verge)
-  * [Google is shutting down Allo](https://www.The Verge.com/2018/12/5/18127540/google-kills-allo-end-date) (The Verge)
+  * [Microsoft is rebuilding its Edge browser on Chrome and bringing it to the Mac](https://www.theverge.com/2018/12/6/18128648/microsoft-edge-chrome-chromium-browser-changes) (The Verge)
+  * [Google is shutting down Allo](https://www.theverge.com/2018/12/5/18127540/google-kills-allo-end-date) (The Verge)
   * [Ride-hail firm Lyft races to leave Uber behind in IPO chase](https://www.reuters.com/article/us-lyft-ipo/ride-hailing-firm-lyft-inc-files-for-ipo-idUSKBN1O51AA?il=0) (Reuters)
   * [These Confidential Charts Show Why Facebook Bought WhatsApp](https://www.buzzfeednews.com/article/charliewarzel/why-facebook-bought-whatsapp) (Buzzfeed)
   * [Firefly Nets $21.5 Million Seed Round To Boost Ride-Hail Driver Revenues With On-Car Ads](https://news.crunchbase.com/news/firefly-nets-21-5-million-seed-round-to-boost-ride-hail-driver-revenues-with-on-car-ads/) (Crunchbase News)
@@ -160,8 +160,8 @@
   * [Note by Damian Collins MP](https://www.parliament.uk/documents/commons-committees/culture-media-and-sport/Note-by-Chair-and-selected-documents-ordered-from-Six4Three.pdf) (UK Parliament)
   * [Qualcomm announces the Snapdragon 855 and its news under-display fingerprint sensor](https://techcrunch.com/2018/12/04/qualcomm-announces-the-snapdragon-855-and-its-new-under-display-fingerprint-sensor/) (TechCrunch)
   * [Qualcomm announces first ultrasonic fingerprint reader: Headed to the Galaxy S10?](https://www.cnet.com/news/qualcomm-announces-first-ultrasonic-fingerprint-reader-headed-to-the-galaxy-s10/) (CNET)
-  * [Fortnite’s Minecraft-like creative mode launches tomorrow](https://www.The Verge.com/2018/12/5/18127222/fortnite-creative-mode-season-7-release-date) (The Verge)
-  * [RIDING IN WAYMO ONE, THE GOOGLE SPINOFF’S FIRST SELF-DRIVING TAXI SERVICE](https://www.The Verge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app) (The Verge)
+  * [Fortnite’s Minecraft-like creative mode launches tomorrow](https://www.theverge.com/2018/12/5/18127222/fortnite-creative-mode-season-7-release-date) (The Verge)
+  * [RIDING IN WAYMO ONE, THE GOOGLE SPINOFF’S FIRST SELF-DRIVING TAXI SERVICE](https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app) (The Verge)
   * [The story behind Netflix’s $100 million ‘Friends’ deal](https://www.recode.net/2018/12/4/18126596/friends-netflix-warnermedia-att-hulu-apple-deal) (Recode)
 
 **Tuesday, December 04 2018 - Tue. 12/4**
@@ -170,17 +170,17 @@
   * [Microsoft is building a Chromium-powered web browser that will replace Edge on Windows 10](https://www.windowscentral.com/microsoft-building-chromium-powered-web-browser-windows-10) (Windows Central)
   * [What is Windows Lite? It's Microsoft's Chrome OS Killer](https://www.petri.com/what-is-windows-core-os-its-microsofts-chromebook-os-killer) (Petri.com)
   * [NVIDIA's new AI turns videos of the real world into virtual landscapes](https://www.engadget.com/2018/12/03/nvidia-ai-video-to-video-synthesis/) (Engadget)
-  * [MOTOROLA AND NOKIA’S NEW PHONES MAKE $350 LOOK LIKE $1,000](https://www.The Verge.com/2018/12/3/18120022/motorola-one-nokia-71-phone-specs-price-review) (The Verge)
+  * [MOTOROLA AND NOKIA’S NEW PHONES MAKE $350 LOOK LIKE $1,000](https://www.theverge.com/2018/12/3/18120022/motorola-one-nokia-71-phone-specs-price-review) (The Verge)
   * [Your 4K Netflix Streaming Is on a Collision Course With Your ISP's Data Caps](https://motherboard.vice.com/en_us/article/qvqzd5/your-4k-netflix-streaming-is-on-a-collision-course-with-your-isp-data-caps?utm_source=reddit.com) (Motherboard)
 
 **Monday, December 03 2018 - Mon. 12/3**
 
-  * [Tumblr will ban all adult content on December 17th](https://www.The Verge.com/2018/12/3/18123752/tumblr-adult-content-porn-ban-date-explicit-changes-why-safe-mode) (The Verge)
+  * [Tumblr will ban all adult content on December 17th](https://www.theverge.com/2018/12/3/18123752/tumblr-adult-content-porn-ban-date-explicit-changes-why-safe-mode) (The Verge)
   * [Apple Will Wait Until at Least 2020 to Release a 5G iPhone](https://www.bloomberg.com/news/articles/2018-12-03/apple-is-said-to-miss-rapid-5g-takeoff-sitting-out-tech-shift) (Bloomberg)
   * [Kuo: ‘All-new design’ AirPods in 2020, wireless charging model in first quarter 2019](https://9to5mac.com/2018/12/02/kuo-all-new-design-airpods-in-2020-wireless-charging-model-in-first-quarter-2019/) (9to5Mac)
   * [Uber Exploring Deal to Buy Bird or Lime](https://www.theinformation.com/articles/uber-exploring-deal-to-buy-bird-or-lime) (The Information)
   * [Tencent Music Moves Forward With IPO After Delay](https://www.wsj.com/articles/tencent-music-moves-forward-with-ipo-after-delay-1543846991) (WSJ)
-  * [Microsoft PowerPoint is getting real-time captions and subtitles for presentations](https://www.The Verge.com/2018/12/3/18123475/microsoft-powerpoint-captions-subtitles-real-time-feature) (The Verge)
+  * [Microsoft PowerPoint is getting real-time captions and subtitles for presentations](https://www.theverge.com/2018/12/3/18123475/microsoft-powerpoint-captions-subtitles-real-time-feature) (The Verge)
   * [The first self-driving car you use will most likely carry your groceries, not you](https://www.vox.com/the-goods/2018/11/30/18120000/self-driving-cars-autonomous-vehicles-groceries) (Vox)
   * [How to Reset All of Your Browsers Back to Square One](https://gizmodo.com/how-to-reset-all-of-your-browsers-back-to-square-one-1830765020) (Gizmodo)
 
@@ -199,7 +199,7 @@
   * [New Parents Complain Amazon Baby-Registry Ads Are Deceptive](https://www.wsj.com/articles/new-parents-complain-amazon-ads-are-deceptive-1543417201) (WSJ)
   * [An Amazon revolt could be brewing as the tech giant exerts more control over brands](https://www.recode.net/2018/11/29/18023132/amazon-brand-policy-changes-marketplace-control-one-vendor) (Recode)
   * [Google Assistant gets visual lyrics and more in big holiday update](https://www.engadget.com/2018/11/29/google-assistant-visual-lyrics-big-update/) (Engadget)
-  * [YouTube is rolling out its Instagram-like Stories feature to more creators](https://www.The Verge.com/2018/11/29/18117670/youtube-stories-creators-subscribers-instagram-philip-defranco) (The Verge)
+  * [YouTube is rolling out its Instagram-like Stories feature to more creators](https://www.theverge.com/2018/11/29/18117670/youtube-stories-creators-subscribers-instagram-philip-defranco) (The Verge)
   * [Facebook Considered Charging for Access to User Data](https://www.wsj.com/articles/facebook-considered-charging-for-access-to-user-data-1543454648?tesla=y) (WSJ)
   * [WTF is happening to crypto?](https://techcrunch.com/2018/11/20/wtf-is-happening-to-crypto/) (TechCrunch)
 
@@ -207,7 +207,7 @@
 
   * [8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation](https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown) (BuzzFeed)
   * [Big Tech Expands Footprint in Health](https://www.wsj.com/articles/amazon-starts-selling-software-to-mine-patient-health-records-1543352136) (WSJ)
-  * [Project Fi is now Google Fi, and it will work with iPhones and most Android devices](https://www.The Verge.com/2018/11/28/18115264/google-fi-iphone-android-project-official) (The Verge)
+  * [Project Fi is now Google Fi, and it will work with iPhones and most Android devices](https://www.theverge.com/2018/11/28/18115264/google-fi-iphone-android-project-official) (The Verge)
   * [Waymo taps former NTSB chair to oversee safety of self-driving ride-share fleet](https://www.cnbc.com/2018/11/27/waymo-taps-former-ntsb-chair-to-oversee-safety-of-self-driving-fleet.html) (CNBC)
   * [YouTube to Make New Originals Available for Free, Ad-Supported Viewing With ‘Single Slate’ Strategy](https://variety.com/2018/digital/news/youtube-originals-strategy-free-ad-supported-shows-scripted-1203037846/) (Variety)
   * [Laurene Powell Jobs’s Emerson Collective bought Pop-Up Magazine Productions](https://www.recode.net/2018/11/27/18114661/laurene-powell-jobs-emerson-collective-pop-up-magazine-productions) (Recode)
@@ -239,16 +239,16 @@
   * [It's Official: Once Mighty FAANG Stocks Have All Entered a Bear Market](http://fortune.com/2018/11/19/faang-stocks-entered-bear-market/) (Fortune)
   * [Silicon Valley wages have dropped for all except highest-paying jobs: report](https://www.mercurynews.com/2018/11/18/silicon-valley-wages-have-dropped-for-all-except-highest-paying-jobs-report/) (The Mercury News)
   * [Bitcoin drops 12% to below $5,000](https://www.cnbc.com/2018/11/19/bitcoin-skids-to-a-13-month-low-nearing-5000.html) (CNBC)
-  * [Tumblr was removed from Apple’s App Store over child pornography issues](https://www.The Verge.com/2018/11/20/18104366/tumblr-ios-app-child-pornography-removed-from-app-store) (The Verge)
+  * [Tumblr was removed from Apple’s App Store over child pornography issues](https://www.theverge.com/2018/11/20/18104366/tumblr-ios-app-child-pornography-removed-from-app-store) (The Verge)
   * [Video games could be a short-term answer to science’s gender problem](https://theconversation.com/video-games-could-be-a-short-term-answer-to-sciences-gender-problem-105328) (The Conversation)
   * [“The space bar trick” is the most amazing feature in iOS 12, and the internet just realized it](https://www.fastcompany.com/90270338/the-space-bar-trick-is-the-most-amazing-feature-in-ios-12-and-the-internet-just-realized-it) (Fast Company)
 
 **Monday, November 19 2018 - Mon. 11/19**
 
-  * [Skype calling now available on Alexa](https://www.The Verge.com/2018/11/19/18102670/skype-alexa-calling-integration-features-microsoft-amazon) (The Verge)
+  * [Skype calling now available on Alexa](https://www.theverge.com/2018/11/19/18102670/skype-alexa-calling-integration-features-microsoft-amazon) (The Verge)
   * [Tweet Storm on Where Tumblr's Gone](https://twitter.com/bluechoochoo/status/1063836783257866240) (@bluechoochoo)
   * [With Facebook at ‘War,’ Zuckerberg Adopts More Aggressive Style](https://www.wsj.com/articles/with-facebook-at-war-zuckerberg-adopts-more-aggressive-style-1542577980) (WSJ)
-  * [Tim Cook defends multibillion-dollar Google search deal despite Apple’s privacy focus](https://www.The Verge.com/2018/11/19/18102403/apple-google-search-deal-tim-cook-axios-on-hbo-interview) (The Verge)
+  * [Tim Cook defends multibillion-dollar Google search deal despite Apple’s privacy focus](https://www.theverge.com/2018/11/19/18102403/apple-google-search-deal-tim-cook-axios-on-hbo-interview) (The Verge)
   * [Apple Suppliers Suffer With Uncertainty Around iPhone Demand](https://www.wsj.com/articles/apple-suppliers-suffer-as-it-struggles-to-forecast-iphone-demand-1542618587) (WSJ)
   * [Bitcoin Cash Declares War: Why Coming Hard Fork Could Mean Another Split](https://www.coindesk.com/bitcoin-cash-declares-war-why-this-could-mean-another-split) (CoinDesk)
   * [One Day After the Bitcoin Cash Hard Fork: Takeaways and Latest Developments](https://bitcoinmagazine.com/articles/one-day-after-bitcoin-cash-hard-fork-takeaways-and-latest-developments/#1542409994) (Bitcoin Magazine)
@@ -259,12 +259,12 @@
   * [Microsoft’s Building a Disc-Less Xbox One for Release in 2019](https://www.thurrott.com/xbox/192184/microsofts-building-a-disc-less-xbox-one-for-release-in-2019) (Thurrott.com)
   * [Facebook Morale Takes a Tumble Along With Stock Price](https://www.wsj.com/articles/facebook-morale-takes-a-tumble-along-with-stock-price-1542200400?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) (WSJ)
   * [‘I Don’t Really Want to Work for Facebook.’ So Say Some Computer Science Students.](https://www.nytimes.com/2018/11/15/technology/jobs-facebook-computer-science-students.html) (NYTimes)
-  * [Major SMS security lapse is a reminder to use authenticator apps instead](https://www.The Verge.com/2018/11/16/18098286/vovox-security-breach-two-factor-authentication-2fa-codes-exposed) (The Verge)
+  * [Major SMS security lapse is a reminder to use authenticator apps instead](https://www.theverge.com/2018/11/16/18098286/vovox-security-breach-two-factor-authentication-2fa-codes-exposed) (The Verge)
 
 **Thursday, November 15 2018 - Thu. 11/15**
 
   * [Delay, Deny and Deflect: How Facebook’s Leaders Fought Through Crisis](https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html) (NYTimes)
-  * [Google Maps will let you chat with businesses](https://www.The Verge.com/2018/11/14/18095863/google-maps-business-chat-rcs-messaging-feelings) (The Verge)
+  * [Google Maps will let you chat with businesses](https://www.theverge.com/2018/11/14/18095863/google-maps-business-chat-rcs-messaging-feelings) (The Verge)
   * [Uber continues to lose money as it scales scooters, bikes and other newer businesses](https://techcrunch.com/2018/11/14/uber-q3-2018-continues-to-lose-money-as-it-works-to-scale-scooters-bikes-and-other-newer-businesses/) (TechCrunch)
   * [Amazon Go competitor Standard Cognition raises $40 million to expand its cashierless store solution](https://venturebeat.com/2018/11/15/amazon-go-competitor-standard-cognition-raises-40-million-to-expand-its-cashierless-store-solution/) (VentureBeat)
   * [PewDiePie's Tumultuous Reign as YouTube King Is Almost Over](https://www.bloomberg.com/news/articles/2018-11-15/youtube-king-pewdiepie-surrenders-crown-to-indian-record-label) (Bloomberg)
@@ -275,7 +275,7 @@
   * [Exclusive: Snap reveals U.S. subpoenas on IPO disclosures](https://www.reuters.com/article/us-snap-sec-exclusive/exclusive-snap-reveals-u-s-subpoenas-on-ipo-disclosures-idUSKCN1NJ04O) (Reuters)
   * [Ford partners with Walmart and Postmates to test autonomous grocery delivery](https://techcrunch.com/2018/11/14/ford-partners-with-walmart-and-postmates-to-test-autonomous-grocery-delivery/) (TechCrunch)
   * [A STARTUP IS SETTING DRONES FREE BY TYING THEM TO THE GROUND](https://www.wired.com/story/startup-setting-drones-free-tying-them-to-the-ground/) (Wired)
-  * [Amazon’s HQ2 stunt could come back to haunt it](https://www.The Verge.com/2018/11/14/18093726/amazon-hq2-backlash-giveaway-public-records) (The Verge)
+  * [Amazon’s HQ2 stunt could come back to haunt it](https://www.theverge.com/2018/11/14/18093726/amazon-hq2-backlash-giveaway-public-records) (The Verge)
   * [This time, Amazon has gone too far: Jeff Bezos's company is profiting and taxpayers are paying the price](http://www.nydailynews.com/opinion/ny-oped-this-time-amazon-has-gone-too-far-20181113-story.html) (NYDailyNews)
   * [Uber launches rider loyalty Rewards like credits & upgrades 9 cities](https://techcrunch.com/2018/11/14/uber-rewards/) (TechCrunch)
   * [Amazon's Microwave With Alexa Makes Life Marginally Better](https://www.buzzfeednews.com/article/nicolenguyen/amazonbasics-microwave-with-alexa-review) (BuzzFeed)
@@ -286,7 +286,7 @@
   * [Amazon HQ2 decision: Amazon splits prize between Crystal City and New York](https://www.washingtonpost.com/local/amazon-hq2-decision-amazon-splits-hq2-prize-between-crystal-city-and-new-york/2018/11/12/316d2a32-e2c9-11e8-8f5f-a55347f48762_story.html?utm_term=.1909782fe38d) (The Washington Post)
   * [Pandora brings its Genome technology to podcast recommendations](https://techcrunch.com/2018/11/13/pandora-brings-its-genome-technology-to-podcast-recommendations/) (TechCrunch)
   * [Waymo to Start First Driverless Car Service Next Month](https://www.bloomberg.com/news/articles/2018-11-13/waymo-to-start-first-driverless-car-service-next-month) (Bloomberg)
-  * [Apple confirms its T2 security chip blocks some third-party repairs of new Macs](https://www.The Verge.com/2018/11/12/18077166/apple-macbook-air-mac-mini-t2-chip-security-repair-replacement-tool) (The Verge)
+  * [Apple confirms its T2 security chip blocks some third-party repairs of new Macs](https://www.theverge.com/2018/11/12/18077166/apple-macbook-air-mac-mini-t2-chip-security-repair-replacement-tool) (The Verge)
   * [The Tricky—but Potentially Lucrative—Task of Streaming Videogames](https://www.wsj.com/articles/the-trickybut-potentially-lucrativetask-of-streaming-videogames-1541673000) (WSJ)
   * [Eric Chien 2018 Fism Grand Prix Magic Act](https://www.youtube.com/watch?v=CvzMqIQLiXE) (YouTube)
 
@@ -296,7 +296,7 @@
   * [How One Family Built $8 Billion Startup Far From Silicon Valley](https://www.bloomberg.com/news/articles/2018-11-12/how-one-family-built-8-billion-startup-far-from-silicon-valley) (Bloomberg)
   * [Samsung Electronics to release first foldable smartphone in March: sources](http://english.yonhapnews.co.kr/business/2018/11/12/0504000000AEN20181112003100320.html) (Yonhap News Agency)
   * [Snap’s former No. 2 exec Imran Khan is building an online shopping startup](https://www.recode.net/2018/11/12/18085266/imran-khan-new-startup-commerce-snapchat) (ReCode)
-  * [Facebook quietly launches a TikTok competitor app called Lasso](https://www.The Verge.com/2018/11/9/18080280/facebook-lasso-tiktok-competitor-app) (The Verge)
+  * [Facebook quietly launches a TikTok competitor app called Lasso](https://www.theverge.com/2018/11/9/18080280/facebook-lasso-tiktok-competitor-app) (The Verge)
   * [A Guide to TikTok for Anyone Who Isn’t a Teen](https://slate.com/technology/2018/09/tiktok-app-musically-guide.html) (Slate)
   * [Netflix to Test Lower-Price Plans as It Seeks More Asian Users](https://www.bloomberg.com/news/articles/2018-11-12/netflix-to-test-lower-price-plans-as-it-seeks-more-asian-users) (Bloomberg)
   * [At Netflix, Who Wins When It’s Hollywood vs. the Algorithm?](https://www.wsj.com/articles/at-netflix-who-wins-when-its-hollywood-vs-the-algorithm-1541826015) (WSJ)
@@ -314,8 +314,8 @@
 
 **Thursday, November 08 2018 - Thu. 11/8**
 
-  * [This is Samsung’s foldable smartphone](https://www.The Verge.com/2018/11/7/18072514/samsung-foldable-phone-screen-features-photos-sdc-2018) (The Verge)
-  * [Google says Android will natively support ‘foldables’ to limit fragmentation](https://www.The Verge.com/2018/11/7/18071720/google-android-foldables-fragmentation-displays) (The Verge)
+  * [This is Samsung’s foldable smartphone](https://www.theverge.com/2018/11/7/18072514/samsung-foldable-phone-screen-features-photos-sdc-2018) (The Verge)
+  * [Google says Android will natively support ‘foldables’ to limit fragmentation](https://www.theverge.com/2018/11/7/18071720/google-android-foldables-fragmentation-displays) (The Verge)
   * [Amazon is mailing a printed holiday toy catalog to millions of customers](https://www.cnbc.com/2018/11/06/amazon-begins-mailing-printed-holiday-toy-catalog.html) (CNBC)
   * [Google Plans Large New York City Expansion](https://www.wsj.com/articles/google-plans-large-new-york-city-expansion-1541636579) (WSJ)
   * [The Anchor Tenant](https://avc.com/2018/11/the-anchor-tenant/) (Fred Wilson/AVC)
@@ -328,7 +328,7 @@
 
   * [San Francisco has passed a first-of-its-kind tax on big businesses — like Square and Stripe — to help the homeless](https://www.recode.net/2018/11/7/18065086/san-francisco-prop-c-marc-benioff-jack-dorsey) (Recode)
   * [Scoop: AT&T to cut off some customers' service in piracy crackdown](https://www.axios.com/scoop-att-to-terminate-service-over-piracy-for-first-time-1541465187-749442e3-7b71-4cc7-a694-865779b6fb96.html) (Axios)
-  * [Why robocalls have taken over your phone](https://www.The Verge.com/2018/11/7/18069178/end-robocalls-lawsuits-do-not-call-registry-ftc) (The Verge)
+  * [Why robocalls have taken over your phone](https://www.theverge.com/2018/11/7/18069178/end-robocalls-lawsuits-do-not-call-registry-ftc) (The Verge)
   * [Amazon gained a huge perk from its HQ2 contest that's worth far more than any tax break](https://www.businessinsider.com/amazon-hq2-search-data-2018-11) (Business Insider)
   * [Chinese ‘gait recognition’ tech IDs people by how they walk](https://apnews.com/bf75dd1c26c947b7826d270a16e2658a) (The Associated Press)
   * [RapidSOS, an emergency response data provider, raises $30M as it grows from 10K users to 250M](https://techcrunch.com/2018/11/06/rapidsos-an-emergency-response-data-provider-raises-30m-as-it-grows-from-10k-users-to-250m/) (TechCrunch)
@@ -337,9 +337,9 @@
 **Tuesday, November 06 2018 - Tue. 11/6**
 
   * [Medium Post on Facebook and the Election](https://medium.com/@d1gi/the-2018-facebook-midterms-part-i-recursive-ad-ccountability-ac090d276097) (Jonathan Albright)
-  * [Chrome will soon ad-block an entire website if it shows abusive ads](https://www.The Verge.com/2018/11/5/18063906/chrome-71-update-abusive-ads-blocking-december-2018) (The Verge)
+  * [Chrome will soon ad-block an entire website if it shows abusive ads](https://www.theverge.com/2018/11/5/18063906/chrome-71-update-abusive-ads-blocking-december-2018) (The Verge)
   * [Amazon Plans to Split HQ2 Evenly Between Two Cities](https://www.wsj.com/articles/amazon-plans-to-split-hq2-evenly-between-two-cities-1541446552?mod=hp_lead_pos1) (WSJ)
-  * [APPLE MACBOOK AIR (2018) REVIEW: THE PRESENT OF COMPUTING](https://www.The Verge.com/2018/11/6/18064552/macbook-air-2018-review-retina-keyboard-apple-features-battery-price) (The Verge)
+  * [APPLE MACBOOK AIR (2018) REVIEW: THE PRESENT OF COMPUTING](https://www.theverge.com/2018/11/6/18064552/macbook-air-2018-review-retina-keyboard-apple-features-battery-price) (The Verge)
   * [The 2018 Retina MacBook Air](https://daringfireball.net/2018/11/the_2018_retina_macbook_air) (Daring Fireball)
   * [India's Meesho, which enables social commerce via WhatsApp, raises $50M](https://techcrunch.com/2018/11/05/meesho-raises-50-millon/) (TechCrunch)
   * [PredictHQ exits stealth with $10 million to help Uber and others forecast demand surges](https://venturebeat.com/2018/11/06/predicthq-exits-stealth-with-10-million-to-help-uber-and-others-forecast-demand-surges/) (VentureBeat)
@@ -349,7 +349,7 @@
 
   * [Amazon in Late-Stage Talks With Cities Including Crystal City, Va., Dallas, New York City for HQ2](https://www.wsj.com/articles/amazon-in-late-stage-talks-with-cities-including-crystal-city-va-dallas-new-york-city-for-hq2-1541359441) (WSJ)
   * [Amazon waives $25 minimum spend to offer free Christmas deliveries for all U.S. customers](https://venturebeat.com/2018/11/05/amazon-waives-25-minimum-spend-to-offer-free-christmas-deliveries-for-all-u-s-customers/) (Venture Beat)
-  * [APPLE IPAD PRO REVIEW 2018: THE FASTEST IPAD IS STILL AN IPAD](https://www.The Verge.com/2018/11/5/18062612/apple-ipad-pro-review-2018-screen-usb-c-pencil-price-features) (The Verge)
+  * [APPLE IPAD PRO REVIEW 2018: THE FASTEST IPAD IS STILL AN IPAD](https://www.theverge.com/2018/11/5/18062612/apple-ipad-pro-review-2018-screen-usb-c-pencil-price-features) (The Verge)
   * [Apple’s first 5G iPhone will arrive in 2020](https://www.fastcompany.com/90261969/source-apples-first-5g-iphone-will-arrive-in-2020) (Fast Company)
   * [YOU TOO CAN BUILD YOUR OWN CHIP – FOR ONLY $30 MILLION](https://digitstodollars.com/2018/11/01/you-too-can-build-your-own-chip-for-only-30-million/) (Digits to Dollars)
   * [Newly Public Tech Firms Race Back to Market as IPO Frenzy Continues](https://www.wsj.com/articles/newly-public-tech-firms-race-back-to-market-as-ipo-frenzy-continues-1541336400) (WSJ)
@@ -359,8 +359,8 @@
 **Friday, November 02 2018 - Fri. 11/2**
 
   * [Apple results: A record September quarter with $62.9B revenue](https://sixcolors.com/post/2018/11/reminder-apple-financial-results-released-today/) (Six Colors)
-  * [Apple’s price hike strategy is paying off](https://www.The Verge.com/2018/11/1/18053012/apple-q4-earnings-report-iphone-ipad-macbook-price-bump) (The Verge)
-  * [Flickr will end 1TB of free storage and limit free users to 1,000 photos](https://www.The Verge.com/2018/11/1/18051950/flickr-1000-photo-limit-free-accounts-changes-pro-subscription-smugmug) (The Verge)
+  * [Apple’s price hike strategy is paying off](https://www.theverge.com/2018/11/1/18053012/apple-q4-earnings-report-iphone-ipad-macbook-price-bump) (The Verge)
+  * [Flickr will end 1TB of free storage and limit free users to 1,000 photos](https://www.theverge.com/2018/11/1/18051950/flickr-1000-photo-limit-free-accounts-changes-pro-subscription-smugmug) (The Verge)
   * [Several thoughts from your old pal Jason](https://twitter.com/textfiles/status/1058012283761319936?s=11) (Jason Scott/Twitter)
   * [The Cartoon That Invented Internet Culture Gets a High-Definition Rerelease](http://nymag.com/intelligencer/2018/11/don-hertzfeldts-famous-cartoon-rejected-is-in-hd.html) (Intelligencer)
   * [Private messages from 81,000 hacked Facebook accounts for sale](https://www.bbc.com/news/technology-46065796) (BBC News)
@@ -374,7 +374,7 @@
   * [New MacBook Air threatens both MacBook and MacBook Pro with Function Keys](https://appleinsider.com/articles/18/10/31/new-macbook-air-threatens-both-macbook-and-macbook-pro-with-function-keys) (Apple Insider)
   * [Opinion: The 2018 MacBook Air is the iPhone X’s ASP strategy all over again](https://9to5mac.com/2018/10/31/asp/) (9to5Mac)
   * [Apple's new T2 security chip will prevent hackers from eavesdropping on your microphone](https://techcrunch.com/2018/10/30/apple-t2-security-chip-microphone-eavesdropping/) (TechCrunch)
-  * [WhatsApp found a place to show you ads](https://www.The Verge.com/2018/11/1/18051294/whatsapp-status-advert-instagram-stories) (The Verge)
+  * [WhatsApp found a place to show you ads](https://www.theverge.com/2018/11/1/18051294/whatsapp-status-advert-instagram-stories) (The Verge)
   * [Google My Business Adds Setting For Google Assistant Calls Over Duplex](https://www.seroundtable.com/google-my-business-google-assistant-duplex-26603.html) (Search Engine Roundtable)
   * [Spotify is just $6.8 million away from profitability](https://www.engadget.com/2018/11/01/spotify-2018-q3/) (Engadget)
   * [Liftoff: Mobile users are embracing subscription app economy](https://venturebeat.com/2018/10/31/liftoff-mobile-users-are-embracing-subscription-app-economy/) (Venture Beat)
@@ -384,7 +384,7 @@
   * [Zuckerberg says the future is sharing via 100B messages & 1B Stories/day](https://techcrunch.com/2018/10/30/close-friendsbook/) (TechCrunch)
   * [Scoop: Executive accused of harassment at Alphabet 'X' unit is out](https://www.axios.com/executive-accused-of-harassment-at-alphabet-x-unit-is-out-6f583d1e-91e3-4a8b-ae2b-51fd4517ec74.html) (Axios)
   * [Verizon, AT&T, and T-Mobile Won't Support eSIM Until Later This Year](https://www.macrumors.com/2018/10/30/us-carriers-esim-support-later-this-year/) (MacRumors)
-  * [Gmail for iOS now lets you view all of your accounts in a single inbox](https://www.The Verge.com/2018/10/30/18042328/gmail-ios-accounts-view-google) (The Verge)
+  * [Gmail for iOS now lets you view all of your accounts in a single inbox](https://www.theverge.com/2018/10/30/18042328/gmail-ios-accounts-view-google) (The Verge)
   * [Waymo’s excruciatingly gradual launch process, explained](https://arstechnica.com/cars/2018/10/waymos-excruciatingly-gradual-launch-process-explained/) (Ars Technica)
   * [How Facebook Failed To Build A Better Alexa (Or Siri)](https://www.forbes.com/sites/parmyolson/2018/10/30/on-mute-how-facebook-fell-behind-on-voice-technology/#7978c5df3b50) (Forbes)
   * [Google, Accel and Jay Z invest in life insurance start-up Ethos, valuing it at more than $100 million](https://www.cnbc.com/2018/10/30/google-accel-back-ethos-series-b-funding-round-now-valued-at-100m.html) (CNBC)
@@ -405,7 +405,7 @@
   * [Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies](https://s3.amazonaws.com/public-inspection.federalregister.gov/2018-23241.pdf) (PDF - US Copyright Office, Library of Congress)
   * [Here are the 20 games shipping with the PlayStation Classic](https://techcrunch.com/2018/10/29/here-are-the-20-games-shipping-with-the-playstation-classic) (TechCrunch)
   * [DJI's latest Mavic 2 drone is built for search and rescue](https://www.engadget.com/2018/10/29/dji-mavic-2-enterprise-drone-search-rescue/) (Engadget)
-  * [Two more platforms have suspended Gab in the wake of Pittsburgh shooting](https://www.The Verge.com/2018/10/28/18034126/gab-social-network-stripe-joyent-deplatforming-hate-speech-pittsburgh-shooting) (TechCrunch)
+  * [Two more platforms have suspended Gab in the wake of Pittsburgh shooting](https://www.theverge.com/2018/10/28/18034126/gab-social-network-stripe-joyent-deplatforming-hate-speech-pittsburgh-shooting) (TechCrunch)
   * [On Gab, an Extremist-Friendly Site, Pittsburgh Shooting Suspect Aired His Hatred in Full](https://www.nytimes.com/2018/10/28/us/gab-robert-bowers-pittsburgh-synagogue-shootings.html) (New York Times)
 
 **Friday, October 26 2018 - Fri. 10/26**
@@ -425,7 +425,7 @@
   * [How Google Protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html) (New York Times)
   * [Uber’s Secret Restaurant Empire](https://www.bloomberg.com/news/articles/2018-10-24/uber-s-secret-empire-of-virtual-restaurants) (Bloomberg)
   * [A New Approach to Our Work on Drip](https://www.kickstarter.com/blog/a-new-approach-to-our-work-on-drip) (Kickstarter Blog)
-  * [Kickstarter to End Drip, Fund New Platform with XOXO Festival Creators](https://www.The Verge.com/2018/10/24/18019720/kickstarter-drip-xoxo-andy-baio-mcmillan) (The Verge)
+  * [Kickstarter to End Drip, Fund New Platform with XOXO Festival Creators](https://www.theverge.com/2018/10/24/18019720/kickstarter-drip-xoxo-andy-baio-mcmillan) (The Verge)
   * [The Team Behind XOXO is Taking Over Kickstarter’s Drip Crowdfunding Community](https://techcrunch.com/2018/10/24/xoxo-drip-kickstarter-xoxo-fest/) (TechCrunch)
   * [Older People Are Worse Than Young People at Telling Fact from Opinion](https://www.theatlantic.com/technology/archive/2018/10/older-people-are-worse-than-young-people-at-telling-fact-from-opinion/573739/) (The Atlantic)
   * [Younger Americans Are Better than Older Americans at Telling Factual News Statements from Opinions](http://www.pewresearch.org/fact-tank/2018/10/23/younger-americans-are-better-than-older-americans-at-telling-factual-news-statements-from-opinions/) (Pew Research Center)
@@ -446,9 +446,9 @@
   * [Supermicro CEO Joins Cook in Calling for Bloomberg to Retract Supply Chain Hack Story](https://www.macrumors.com/2018/10/22/supermicro-calls-for-hack-story-retraction/) (MacRumors)
   * [Oculus co-founder is leaving Facebook after cancellation of ‘Rift 2’ headset](https://techcrunch.com/2018/10/22/oculus-co-founder-is-leaving-facebook-after-cancellation-of-rift-2-headset/) (TechCrunch)
   * [Former Facebook engineer quit to build the programming tool he always wanted](https://www.cnbc.com/2018/10/22/andreessen-horowitz-leads-4point5-million-seed-round-in-replit.html) (CNBC)
-  * [Apple iPhone XR Review: Better Than Good Enough](https://www.The Verge.com/2018/10/23/18011306/apple-iphone-xr-review-camera-screen-battery-price) (The Verge)
+  * [Apple iPhone XR Review: Better Than Good Enough](https://www.theverge.com/2018/10/23/18011306/apple-iphone-xr-review-camera-screen-battery-price) (The Verge)
   * [Now Apps Can Track You Even After You Uninstall Them](https://www.bloomberg.com/news/articles/2018-10-22/now-apps-can-track-you-even-after-you-uninstall-them) (Bloomberg)
-  * [Android: A Visual History of Google’s OS On Its 10th Anniversary](https://www.The Verge.com/2011/12/7/2585779/android-10th-anniversary-google-history-pie-oreo-nougat-cupcake) (The Verge)
+  * [Android: A Visual History of Google’s OS On Its 10th Anniversary](https://www.theverge.com/2011/12/7/2585779/android-10th-anniversary-google-history-pie-oreo-nougat-cupcake) (The Verge)
 
 **Monday, October 22 2018 - Mon. 10/22**
 
@@ -467,12 +467,12 @@
   * [Twitter Suspends Pro-Saudi Bots Spreading Propaganda About the Murder of Jamal Khashoggi](https://gizmodo.com/twitter-suspends-pro-saudi-bots-spreading-propaganda-ab-1829859773) (Gizmodo)
   * [Twitter Pulls Down Bot Network That Pushed Pro-Saudi Talking Points about Disappeared Journalist](https://www.nbcnews.com/tech/tech-news/exclusive-twitter-pulls-down-bot-network-pushing-pro-saudi-talking-n921871) (NBC News)
   * [Powerful Executives Have Stepped Away From the Saudis. Not SoftBank's.](https://www.nytimes.com/2018/10/17/business/saudi-investment-conference-masayoshi-son.html) (New York Times)
-  * [Google App Suite Costs as Much as $40 Per Phone Under New EU Android Deal](https://www.The Verge.com/2018/10/19/17999366/google-eu-android-licensing-terms) (The Verge)
+  * [Google App Suite Costs as Much as $40 Per Phone Under New EU Android Deal](https://www.theverge.com/2018/10/19/17999366/google-eu-android-licensing-terms) (The Verge)
   * [Google Wants China. Will Chinese Users Want Google?](https://www.wired.com/story/google-wants-china-will-chinese-users-want-google/) (Wired)
 
 **Thursday, October 18 2018 - Thu. 10/18**
 
-  * [Spotify Premium gets personalized artist radio stations and better search](https://www.The Verge.com/2018/10/18/17992758/spotify-premium-personalized-artist-radio-search-update-2018) (The Verge)
+  * [Spotify Premium gets personalized artist radio stations and better search](https://www.theverge.com/2018/10/18/17992758/spotify-premium-personalized-artist-radio-search-update-2018) (The Verge)
   * [Twitter makes it easier to see enforcement taken on reported tweets](https://techcrunch.com/2018/10/17/twitter-makes-it-easier-to-see-enforcement-taken-on-reported-tweets/) (Tech Crunch)
   * [Facebook Finds Hack Was Done by Spammers, Not Foreign State](https://www.wsj.com/articles/facebook-tentatively-concludes-recent-hack-was-perpetrated-by-spammers-1539821869) (WSJ)
   * [Android Creator’s Startup Essential Products Cuts About 30% of Staff](https://www.bloomberg.com/news/articles/2018-10-17/andy-rubin-s-startup-essential-products-cuts-about-30-of-staff) (Bloomberg)
@@ -481,7 +481,7 @@
 
 **Wednesday, October 17 2018 - Wed. 10/17**
 
-  * [Google will start charging Android device makers a fee for using its apps in Europe](https://www.The Verge.com/2018/10/16/17984074/google-eu-android-licensing-bundle-chrome-search) (The Verge)
+  * [Google will start charging Android device makers a fee for using its apps in Europe](https://www.theverge.com/2018/10/16/17984074/google-eu-android-licensing-bundle-chrome-search) (The Verge)
   * [GitHub launches Actions, its workflow automation tool](https://techcrunch.com/2018/10/16/github-launches-actions-its-workflow-automation-tool/) (Github)
   * [Fortnite, GTA V hackers face legal action for online cheating](https://arstechnica.com/gaming/2018/10/fortnite-gta-v-hackers-face-legal-action-for-online-cheating/?comments=1) (Ars Technica)
   * [It turns out that Facebook could in fact use data collected from its Portal in-home video device to target you with ads](https://www.recode.net/2018/10/16/17966102/facebook-portal-ad-targeting-data-collection) (Recode)
@@ -493,18 +493,18 @@
   * [Cops Told ‘Don’t Look’ at New iPhones to Avoid Face ID Lock-Out](https://motherboard.vice.com/en_us/article/5984jq/cops-dont-look-iphonex-face-id-unlock-elcomsoft) (Motherboard)
   * [The Kindle Paperwhite is ready for the bath](https://www.engadget.com/2018/10/16/the-kindle-paperwhite-is-ready-for-the-bath/) (Engadget)
   * [Google Pixel 3 review: improving on incredible](https://char.gd/blog/2018/google-pixel-3-review-incremental-adds-up) (Charged)
-  * [GOOGLE PIXEL 3 AND 3 XL REVIEW: THE BEST CAMERA GETS A BETTER PHONE](https://www.The Verge.com/2018/10/15/17973484/google-pixel-3-xl-review-camera-features-screen-battery-price-photos) (The Verge)
+  * [GOOGLE PIXEL 3 AND 3 XL REVIEW: THE BEST CAMERA GETS A BETTER PHONE](https://www.theverge.com/2018/10/15/17973484/google-pixel-3-xl-review-camera-features-screen-battery-price-photos) (The Verge)
   * [The Google Pixel 3 XL review](https://techcrunch.com/2018/10/15/google-pixel-3-xl-review/) (TechCrunch)
   * [Google Pixel 3 Review: The Other Way to Make a Killer Phone](https://gizmodo.com/google-pixel-3-review-the-other-way-to-make-a-killer-p-1829749807) (Gizmodo)
   * [Paul G. Allen, Microsoft’s Co-Founder, Is Dead at 65](https://www.nytimes.com/2018/10/15/obituaries/paul-allen-dead.html) (NyTimes)
 
 **Monday, October 15 2018 - Mon. 10/15**
 
-  * [FINALLY: REAL PHOTOSHOP ON THE IPAD](https://www.The Verge.com/2018/10/15/17969754/adobe-photoshop-apple-ipad-creative-cloud) (The Verge)
+  * [FINALLY: REAL PHOTOSHOP ON THE IPAD](https://www.theverge.com/2018/10/15/17969754/adobe-photoshop-apple-ipad-creative-cloud) (The Verge)
   * [Adobe launches new AR and drawing tools](https://techcrunch.com/2018/10/15/adobe-launches-new-ar-and-drawing-tools/) (TechCrunch)
   * [Adobe launches Premiere Rush, a cross-platform video editor](https://venturebeat.com/2018/10/15/adobe-premiere-rush-news/) (Venture Beat)
   * [Apple acquires music analytics startup Asaii](https://www.axios.com/apple-acquires-asaii-music-streaming-analytics-4463b3fc-88c7-42a6-8093-7651edddf579.html) (Axios)
-  * [THE NEW PALM IS A TINY PHONE TO KEEP YOU AWAY FROM YOUR PHONE](https://www.The Verge.com/2018/10/15/17974850/new-palm-smartphone-android-lifemode-time-well-spent-verizon) (The Verge)
+  * [THE NEW PALM IS A TINY PHONE TO KEEP YOU AWAY FROM YOUR PHONE](https://www.theverge.com/2018/10/15/17974850/new-palm-smartphone-android-lifemode-time-well-spent-verizon) (The Verge)
   * [GENOME HACKERS SHOW NO ONE’S DNA IS ANONYMOUS ANYMORE](https://www.wired.com/story/genome-hackers-show-no-ones-dna-is-anonymous-anymore/) (Wired)
   * [Blockchain isn't about democracy and decentralisation – it's about greed](https://www.theguardian.com/technology/2018/oct/15/blockchain-democracy-decentralisation-bitcoin-price-cryptocurrencies) (The Guardian)
   * [Tweetstorm about Google+ from](https://twitter.com/morganknutson/status/1049523067506966529)
@@ -524,7 +524,7 @@
   * [Facebook purged over 800 accounts and pages pushing political messages for profit](https://www.washingtonpost.com/technology/2018/10/11/facebook-purged-over-accounts-pages-pushing-political-messages-profit/?utm_term=.602cd75f280c) (The Washington Post)
   * [Apple inks $600M deal to license IP, acquire assets and talent from Dialog to expand chipmaking in Europe](https://techcrunch.com/2018/10/10/apple-is-paying-300m-in-cash-to-buy-a-part-of-dialog-semiconductor-and-expand-its-chipmaking-in-europe/) (TechCrunch)
   * [Apple buys machine learning AR firm specializing in mixed realities](https://appleinsider.com/articles/18/10/10/apple-buys-machine-learning-ar-firm-specializing-in-mixed-realities) (Apple Insider)
-  * [Samsung hopes these four cameras will save its mid-range phone lineup](https://www.The Verge.com/2018/10/11/17963172/samsung-galaxy-a9-release-date-news-features-four-cameras) (The Verge)
+  * [Samsung hopes these four cameras will save its mid-range phone lineup](https://www.theverge.com/2018/10/11/17963172/samsung-galaxy-a9-release-date-news-features-four-cameras) (The Verge)
   * [Gartner: Microsoft passes Acer to become top 5 PC vendor in the U.S.](https://venturebeat.com/2018/10/10/gartner-microsoft-passes-acer-to-become-top-5-pc-vendor-in-the-u-s/) (Venture Beat)
   * [Apple plans to give away original content for free to device owners as part of new digital TV strategy](https://www.cnbc.com/2018/10/10/apple-plans-to-give-away-original-content-for-free-to-device-owners.html) (CNBC)
   * [Coinbase's Active Customers Drop 80% in Crypto Slump, Study Says](https://www.bloomberg.com/news/articles/2018-10-11/coinbase-s-active-customers-drop-80-in-crypto-slump-study-says) (Bloomberg)
@@ -533,7 +533,7 @@
 
 **Wednesday, October 10 2018 - Wed. 10/10**
 
-  * [Microsoft begins re-releasing Windows 10 October update after fixing file deletion bug](https://www.The Verge.com/2018/10/9/17957506/microsoft-windows-10-october-2018-update-data-deletion-fix) (The Verge)
+  * [Microsoft begins re-releasing Windows 10 October update after fixing file deletion bug](https://www.theverge.com/2018/10/9/17957506/microsoft-windows-10-october-2018-update-data-deletion-fix) (The Verge)
   * [Snapchat becomes the mobile HBO with 12 daily scripted Original shows](https://techcrunch.com/2018/10/10/snapchat-originals/) (TechCrunch)
   * [Snap Is ‘Quickly Running Out of Money,’ Analyst Says](https://www.bloomberg.com/news/articles/2018-10-09/snap-s-cash-drain-is-becoming-a-big-problem-analyst-says) (Bloomberg)
   * [Google Photos adds automated sharing through ‘Live Albums,’ which can stream to Home Hub](https://techcrunch.com/2018/10/09/google-photos-adds-live-albums-an-automated-way-of-sharing-people-pet-photos-with-anyone/) (TechCrunch)
@@ -545,7 +545,7 @@
 
 **Tuesday, October 09 2018 - Tue. 10/9**
 
-  * [First look at Google’s Pixel 3 and 3 XL](https://www.The Verge.com/circuitbreaker/2018/10/9/17955154/google-pixel-3-xl-camera-screen-notch-features-hands-on-photos-video) (The Verge)
+  * [First look at Google’s Pixel 3 and 3 XL](https://www.theverge.com/circuitbreaker/2018/10/9/17955154/google-pixel-3-xl-camera-screen-notch-features-hands-on-photos-video) (The Verge)
   * [Exclusive: iPad Pro Face ID details, 4K HDR video over USB-C, AirPods-like Apple Pencil 2 pairing, more](https://9to5mac.com/2018/10/08/2018-ipad-pro-details-face-id-display/) (9to5Mac)
   * [Google, Exposures, and Breaches; Was Google Wrong?; The Political Considerations](https://stratechery.com/2018/google-exposures-and-breaches-was-google-wrong-the-political-considerations/?utm_source=Memberful&utm_campaign=089e30aac1-daily_update_2018_10_09&utm_medium=email&utm_term=0_d4c7fece27-089e30aac1-110902405) (Stratechery)
   * [Google Drops Out of Pentagon's $10 Billion Cloud Competition](https://www.bloomberg.com/news/articles/2018-10-08/google-drops-out-of-pentagon-s-10-billion-cloud-competition) (Bloomberg)
@@ -556,8 +556,8 @@
 **Monday, October 08 2018 - Mon. 10/8**
 
   * [Facebook launches Portal auto-zooming video chat screens for $199/$349](https://techcrunch.com/2018/10/08/facebook-portal/) (TechCrunch)
-  * [THE NEW AMAZON ECHO SHOW’S IMPROVED SCREEN AND BETTER SPEAKERS AREN’T ENOUGH](https://www.The Verge.com/2018/10/8/17944022/new-amazon-echo-show-review-2018-alexa-speaker-video-camera) (The Verge)
-  * [Microsoft’s xCloud service streams Xbox games to PCs, consoles, and mobile devices](https://www.The Verge.com/2018/10/8/17950878/microsoft-xcloud-game-streaming-xbox-games-features) (The Verge)
+  * [THE NEW AMAZON ECHO SHOW’S IMPROVED SCREEN AND BETTER SPEAKERS AREN’T ENOUGH](https://www.theverge.com/2018/10/8/17944022/new-amazon-echo-show-review-2018-alexa-speaker-video-camera) (The Verge)
+  * [Microsoft’s xCloud service streams Xbox games to PCs, consoles, and mobile devices](https://www.theverge.com/2018/10/8/17950878/microsoft-xcloud-game-streaming-xbox-games-features) (The Verge)
   * [Intel Announces 9th Gen Core CPUs](https://www.anandtech.com/show/13401/intel-9th-gen-cpus-9900k-9700k-9600k) (AnAndTech)
   * [Google Exposed User Data, Feared Repercussions of Disclosing to Public](https://www.wsj.com/articles/google-exposed-user-data-feared-repercussions-of-disclosing-to-public-1539017194?mod=e2twd) (WSJ)
   * [Supply Chain Security is the Whole Enchilada, But Who’s Willing to Pay for It?](https://krebsonsecurity.com/2018/10/supply-chain-security-is-the-whole-enchilada-but-whos-willing-to-pay-for-it/) (Krebs on Security)
@@ -566,7 +566,7 @@
 **Friday, October 05 2018 - Fri. 10/5**
 
   * [Instagram prototypes handling your location history to Facebook](https://techcrunch.com/2018/10/04/instagram-location-history/) (TechCrunch)
-  * [Instagram is testing the ability to share your precise location history with Facebook](https://www.The Verge.com/2018/10/5/17940364/instagram-location-sharing-data-sharing-facebook-test) (The Verge)
+  * [Instagram is testing the ability to share your precise location history with Facebook](https://www.theverge.com/2018/10/5/17940364/instagram-location-sharing-data-sharing-facebook-test) (The Verge)
   * [9 highlights from Snapchat CEO’s 6,000-word leaked memo on survival](https://techcrunch.com/2018/10/04/chat-not-snap/) (TechCrunch)
   * [iMac Pro and 2018 MacBook Pro Systems Must Pass Apple Diagnostics to Function After Certain Repairs](https://www.macrumors.com/2018/10/04/t2-macs-must-pass-diagnostics-for-certain-repairs/) (MacRumors)
   * [Facebook’s Oculus Looking to Invest in Location-Based Virtual Reality (EXCLUSIVE)](https://variety.com/2018/digital/news/facebook-oculus-location-based-virtual-reality-1202969418/) (Variety)
@@ -578,7 +578,7 @@
   * [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) (Bloomberg Businessweek)
   * [Russia cyber-plots: US, UK and Netherlands allege hacking](https://www.bbc.com/news/world-europe-45746837) (BBC News)
   * [Nintendo Plans New Version of Switch Next Year](https://www.wsj.com/articles/nintendo-plans-new-version-of-switch-next-year-1538629322) (WSJ)
-  * [LG V40 THINQ REVIEW: ONE PHONE, FIVE CAMERAS](https://www.The Verge.com/2018/10/3/17933558/lg-v40-thinq-review-cameras-5-features-battery-screen-photo-quality) (The Verge)
+  * [LG V40 THINQ REVIEW: ONE PHONE, FIVE CAMERAS](https://www.theverge.com/2018/10/3/17933558/lg-v40-thinq-review-cameras-5-features-battery-screen-photo-quality) (The Verge)
   * [Verizon’s Severance Offer Goes to About 44,000 Employees](https://www.wsj.com/articles/verizons-severance-offer-goes-to-about-44-000-employees-1538587179?mod=rss_Technology&utm_source=dlvr.it&utm_medium=twitter) (WSJ)
   * [Barnes & Noble names board committee to review possible sale, shares soar](https://www.cnbc.com/2018/10/03/barnes--noble-announces-strategic-review-stock-jumps-more-than-17percent.html) (CNBC)
   * [MoviePass' new funding means it isn't going anywhere just yet](https://www.engadget.com/2018/10/04/moviepass-tickets-cinema-funding-65-million/) (Engadget)
@@ -666,7 +666,7 @@
   * [Amazon just pulled an Apple on the smart home](https://mailchi.mp/iotpodcast/130?e=927612e1b8) (Stacey on IOT newsletter)
   * [Facebook's 'Portal' Video Chat Device to Be Announced Next Week](https://cheddar.com/videos/facebooks-portal-video-chat-device-to-be-announced-next-week) (Cheddar)
   * [Instagram may divide hashtags from captions to end overhashing](https://techcrunch.com/2018/09/20/instagram-hashtags-quiz-stickers-geofencing/) (TechCrunch)
-  * [Instagram is testing a native resharing feature for the feed](https://www.The Verge.com/2018/9/20/17884170/instagram-regram-native-reposting-sharing-feed-test) (The Verge)
+  * [Instagram is testing a native resharing feature for the feed](https://www.theverge.com/2018/9/20/17884170/instagram-regram-native-reposting-sharing-feed-test) (The Verge)
   * [Is This Article Worth Reading? Gmail’s Suggested Reply: ‘Haha, Thanks!’](https://www.wsj.com/articles/very-interesting-awesome-love-it-gmail-users-confront-chipper-smart-reply-1537282569) (WSJ)
 
 **Thursday, September 20 2018 - Thu. 9/20**
@@ -684,7 +684,7 @@
   * [Facebook Is Letting Job Advertisers Target Only Men](https://www.propublica.org/article/facebook-is-letting-job-advertisers-target-only-men) (ProPublica)
   * [Amazon becoming 3rd-biggest digital ad platform](https://www.axios.com/amazon-becoming-3rd-biggest-digital-ad-platform-37338b9c-54f5-42cd-b081-79698e89f559.html) (Axios)
   * [Google Home Mini was the best-selling smart speaker in Q2](https://techcrunch.com/2018/09/19/google-home-mini-was-the-best-selling-smart-speaker-in-q2/) (TechCrunch)
-  * [Sony is launching a PlayStation Classic console this December loaded with 20 games](https://www.The Verge.com/2018/9/19/17877890/sony-playstation-classic-console-20-games-release-date-pricing) (The Verge)
+  * [Sony is launching a PlayStation Classic console this December loaded with 20 games](https://www.theverge.com/2018/9/19/17877890/sony-playstation-classic-console-20-games-release-date-pricing) (The Verge)
   * [Evernote just slashed 54 jobs, or 15 percent of its workforce](https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/)
   * [HQ expands beyond trivia with new ‘Wheel of Fortune’-type game](https://digiday.com/media/hq-expands-beyond-trivia-new-wheel-fortune-game/) (Digiday)
   * [Google Maps for CarPlay in iOS 12 is now available](https://9to5mac.com/2018/09/18/google-maps-for-carplay-in-ios-12-is-now-available/) (9to5Mac)
@@ -696,7 +696,7 @@
   * [The Tweet that got Twitter to bring back the chrono-feed](https://twitter.com/EmmaKinema/status/1041419623386644480) (@EmmaKinema)
   * [Amazon plans to release at least 8 new Alexa-powered devices, including a microwave, an amplifier, and an in-car gadget](https://www.cnbc.com/2018/09/17/amazon-planning-8-new-alexa-devices-microwave-amplifier.html) (CNBC)
   * [Trump Hits China With Tariffs on $200 Billion in Goods, Escalating Trade War](https://www.nytimes.com/2018/09/17/us/politics/trump-china-tariffs-trade.html) (NYTimes)
-  * [APPLE IPHONE XS AND XS MAX REVIEW: SMOOTHED OUT](https://www.The Verge.com/2018/9/18/17871816/apple-iphone-xs-max-review-camera-processor-battery-price) (The Verge)
+  * [APPLE IPHONE XS AND XS MAX REVIEW: SMOOTHED OUT](https://www.theverge.com/2018/9/18/17871816/apple-iphone-xs-max-review-camera-processor-battery-price) (The Verge)
 
 **Monday, September 17 2018 - Mon. 9/17**
 
@@ -704,14 +704,14 @@
   * [Mobile social network Path, once a challenger to Facebook, is closing down](https://techcrunch.com/2018/09/17/rip-path/) (TechCrunch)
   * [Here are over 150 new features and changes in iOS 12 for iPhone and iPad](https://appleinsider.com/articles/18/06/15/here-are-over-150-new-features-and-changes-in-ios-12-for-iphone-and-ipad) (Apple Insider)
   * [Amazon Investigates Employees Leaking Data for Bribes](https://www.wsj.com/articles/amazon-investigates-employees-leaking-data-for-bribes-1537106401) (WSJ)
-  * [Amazon Storefronts is a new retail hub exclusively for US small businesses](https://www.The Verge.com/2018/9/17/17869198/amazon-storefronts-us-small-medium-businesses-featured-products-deals) (The Verge)
+  * [Amazon Storefronts is a new retail hub exclusively for US small businesses](https://www.theverge.com/2018/9/17/17869198/amazon-storefronts-us-small-medium-businesses-featured-products-deals) (The Verge)
   * [Linus Torvalds apologizes for years of being a jerk, takes time off to learn empathy](https://arstechnica.com/gadgets/2018/09/linus-torvalds-apologizes-for-years-of-being-a-jerk-takes-time-off-to-learn-empathy/) (Ars Technica)
   * [AN ORAL HISTORY OF APPLE'S INFINITE LOOP](https://www.wired.com/story/apple-infinite-loop-oral-history/) (Wired)
 
 **Friday, September 14 2018 - Fri. 9/14**
 
   * [Google Employees Are Quitting Over The Company’s Secretive China Search Project](https://www.buzzfeednews.com/article/carolineodonovan/google-project-dragonfly-employees-quitting) (Buzzfeed News)
-  * [Google’s internal political battles keep spilling out into the public](https://www.The Verge.com/2018/9/13/17853192/google-leaked-video-breitbart-2016-election-politics) (The Verge)
+  * [Google’s internal political battles keep spilling out into the public](https://www.theverge.com/2018/9/13/17853192/google-leaked-video-breitbart-2016-election-politics) (The Verge)
   * [The new heart-monitoring capabilities on the Apple Watch aren’t all that](https://qz.com/1389202/the-apple-watch-series-4-health-features-arent-all-that-impressive/)
   * [iPhone XS Max and Apple Watch Series 4 shipping dates now slipping into October](https://9to5mac.com/2018/09/14/iphone-xs-max-and-apple-watch-series-4-shipping-dates-now-slipping-into-october/) (9to5Mac)
   * [Apple Is Deleting Bought Films From iTunes Accounts - And Don't Expect A Refund](https://www.forbes.com/sites/johnarcher/2018/09/13/apple-is-deleting-bought-films-from-itunes-accounts-and-dont-expect-a-refund/#71c897b95f74) (Forbes)
@@ -723,13 +723,13 @@
   * [The iPhone Franchise](https://stratechery.com/2018/the-iphone-franchise/) (Stratechery)
   * [Making sense of the most confusing new iPhone lineup ever](https://www.fastcompany.com/90236094/making-sense-of-the-most-confusing-new-iphone-lineup-ever) (Fast Company)
   * [Inbox, Google’s playground for email innovation, is going bye-bye](https://www.fastcompany.com/90235559/inbox-googles-playground-for-email-innovation-is-going-bye-bye) (Fact Company)
-  * [The Nintendo Switch online service is launching on September 18th](https://www.The Verge.com/2018/9/12/17850516/nintendo-switch-online-service-release-date) (The Verge)
+  * [The Nintendo Switch online service is launching on September 18th](https://www.theverge.com/2018/9/12/17850516/nintendo-switch-online-service-release-date) (The Verge)
   * [How Procore Built The Cloud’s Hottest Unicorn By Bringing Software To Low-Tech Construction Sites](https://www.forbes.com/sites/alexkonrad/2018/09/12/how-procore-built-the-clouds-hottest-unicorn-bringing-software-to-low-tech-construction-sites/) (Forbes)
   * [Where in the World Is Larry Page?](https://www.bloomberg.com/news/features/2018-09-13/larry-page-is-a-no-show-with-google-under-a-harsh-spotlight) (Bloomberg Businessweek)
 
 **Wednesday, September 12 2018 - Wed. 9/12**
 
-  * [EU approves controversial Copyright Directive, including internet ‘link tax’ and ‘upload filter’](https://www.The Verge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved) (The Verge)
+  * [EU approves controversial Copyright Directive, including internet ‘link tax’ and ‘upload filter’](https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved) (The Verge)
   * [European Parliament Passes Copyright Directive Giving Artists Greater Share of Revenue](https://variety.com/2018/digital/global/european-parliament-passes-digital-copyright-law-that-will-give-filmmakers-bigger-piece-of-pie-1202937932/) (Variety)
   * [FCC says it needs more time to review Sprint-T-Mobile deal](https://www.cnbc.com/2018/09/11/fcc-says-it-is-pausing-180-day-shot-clock-on-its-review-of-a-merger-between-t-mobile-and-sprint.html) (CNBC)
   * [Verizon to begin 5G home broadband service sign-ups on Thursday](https://www.axios.com/verizon-to-begin-5g-home-broadband-service-in-october-8744246d-2e3d-4358-a7d7-8d8aa4f57db1.html) (Axios)
@@ -740,7 +740,7 @@
   * [US Judge Rules ICO Frauds Fall Under Securities Law](https://www.coindesk.com/us-judge-rules-ico-frauds-fall-under-securities-law/) (CoinDesk)
   * [Renesas in $6.7 billion deal for IDT to boost chips for self-driving cars](https://www.reuters.com/article/us-idt-m-a-renesas/japans-renesas-says-it-will-buy-u-s-chipmaker-idt-for-6-7-billion-idUSKCN1LR031) (Reuters)
   * [GM's Plan to Test Autonomous Cars in New York City Seems to Have Gone up in Smoke](https://jalopnik.com/gms-plan-to-test-autonomous-cars-in-new-york-city-seems-1828945330?rev=1536613839717&utm_source=jalopnik_twitter&utm_campaign=socialflow_jalopnik_twitter&utm_medium=socialflow) (Jalopnik)
-  * [How to prepare your iPhone for a trade-in program](https://www.The Verge.com/2018/9/11/17805990/sell-my-iphone-trade-in-used-verizon-att-t-mobile-apple-giveback) (The Verge)
+  * [How to prepare your iPhone for a trade-in program](https://www.theverge.com/2018/9/11/17805990/sell-my-iphone-trade-in-used-verizon-att-t-mobile-apple-giveback) (The Verge)
   * [Can Mark Zuckerberg Fix Facebook Before It Breaks Democracy?](https://www.newyorker.com/magazine/2018/09/17/can-mark-zuckerberg-fix-facebook-before-it-breaks-democracy?currentPage=all) (The New Yorker)
   * [Facebook Apologizes For Taking Down Your Horny Burt Reynolds Posts](http://www.vulture.com/2018/09/facebook-apologizes-for-removing-your-burt-reynolds-nudes.html?utm_source=fb&utm_medium=s1&utm_campaign=vulture) (Vulture)
 
@@ -767,7 +767,7 @@
 **Thursday, September 06 2018 - Thu. 9/6**
 
   * [U.S. charges North Korean operative in conspiracy to hack Sony Pictures, banks](https://www.washingtonpost.com/world/national-security/justice-department-to-announce-hacking-charges-against-north-korean-operative-the-charge--stemming-from-the-2014-sony-pictures-case--is-the-first-against-a-pyongyang-spy/2018/09/06/f477bfb2-b1d0-11e8-9a6a-565d92a3585d_story.html?utm_term=.9acd894f5135) (The Washington Post)
-  * [Lyft rolls out its first electric scooters in Denver](https://www.The Verge.com/2018/9/6/17824040/lyft-electric-scooter-denver-dockless-public-transportation) (The Verge)
+  * [Lyft rolls out its first electric scooters in Denver](https://www.theverge.com/2018/9/6/17824040/lyft-electric-scooter-denver-dockless-public-transportation) (The Verge)
   * [You Will Soon Be Able to Control Your Xbox With Alexa and Cortana](https://www.thurrott.com/xbox/xbox-one/172797/you-will-soon-be-able-to-control-your-xbox-with-alexa-and-cortana) (Thurrott)
   * [Walmart partners with delivery logistics platform Bringg on last-mile grocery delivery](https://techcrunch.com/2018/09/06/walmart-partners-with-delivery-logistics-platform-bringg-on-last-mile-grocery-delivery/) (TechCrunch)
   * [The new Roomba could be the end of vacuuming](https://qz.com/1379965/the-new-roomba-could-be-the-end-of-vacuuming/) (Quartz)
@@ -785,8 +785,8 @@
   * [HOW GOOGLE CHROME SPENT A DECADE MAKING THE WEB MORE SECURE](https://www.wired.com/story/chrome-decade-making-the-web-more-secure/) (Wired)
   * [GOOGLE WANTS TO KILL THE URL](https://www.wired.com/story/google-wants-to-kill-the-url) (Wired)
   * [Americans are changing their relationship with Facebook](http://www.pewresearch.org/fact-tank/2018/09/05/americans-are-changing-their-relationship-with-facebook/) (PEW Research)
-  * [Instagram is building a standalone app for shopping](https://www.The Verge.com/2018/9/4/17819766/instagram-shopping-app-e-commerce) (The Verge)
-  * [Snap launches new styles of Spectacles that look more like traditional sunglasses](https://www.The Verge.com/circuitbreaker/2018/9/5/17821016/snap-spectacles-2-styles-nico-veronica-pricing-features) (The Verge)
+  * [Instagram is building a standalone app for shopping](https://www.theverge.com/2018/9/4/17819766/instagram-shopping-app-e-commerce) (The Verge)
+  * [Snap launches new styles of Spectacles that look more like traditional sunglasses](https://www.theverge.com/circuitbreaker/2018/9/5/17821016/snap-spectacles-2-styles-nico-veronica-pricing-features) (The Verge)
   * [Vimeo pivots business from media to tech](https://www.axios.com/vimeo-pivots-business-model-from-media-to-tech-1536090779-1c425d8e-7f04-4511-9daa-b0c1f713c128.html) (Axios)
   * [Vimeo launches stock video marketplace starting at $79 per clip](https://venturebeat.com/2018/09/05/vimeo-launches-stock-video-marketplace-starting-at-79-per-clip/) (Venture Beat)
 
@@ -797,7 +797,7 @@
   * [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics) (Google Cloud)
   * [Major cryptocurrency exchange delists Bitcoin Gold following $18M hack](https://thenextweb.com/cryptocurrency/2018/09/03/bittrex-delists-bitcoin-gold/) (TNW)
   * [2018 iPad Pro redesign is both brilliant and stupid](https://www.cultofmac.com/573105/2018-ipad-pro-redesign-12-9-tablet-10-5/) (Cult of Mac)
-  * [Samsung teases foldable smartphone launch for later this year](https://www.The Verge.com/circuitbreaker/2018/9/4/17817242/samsung-foldable-phone-launch-2018) (The Verge)
+  * [Samsung teases foldable smartphone launch for later this year](https://www.theverge.com/circuitbreaker/2018/9/4/17817242/samsung-foldable-phone-launch-2018) (The Verge)
   * [China's Silicon Valley Threatens to Swallow Up Hong Kong](https://www.bloomberg.com/news/features/2018-08-28/bridge-to-china-s-silicon-valley-may-swallow-up-hong-kong) (Bloomberg)
   * [Clinc is building a voice AI system to replace humans in drive-through restaurants](https://techcrunch.com/video-article/clinc-launches-ai-voice-system-for-drive-through-restaurants/) (TechCrunch)
 
@@ -805,9 +805,9 @@
 
   * [Exclusive: This is ‘iPhone XS’ — design, larger version, and gold colors confirmed](https://9to5mac.com/2018/08/30/2018-iphone-xs-design-larger-version-gold-exclusive/) (9to5Mac)
   * [Exclusive: Apple Watch Series 4 revealed — massive display, dense watch face, more](https://9to5mac.com/2018/08/30/exclusive-apple-watch-series-4/) (9to5Mac)
-  * [Huawei’s AI Cube is a 4G router and Alexa speaker, not a cube](https://www.The Verge.com/circuitbreaker/2018/8/31/17803516/huawei-ai-cube-alexa-speaker-4g-router-amazon-ifa-2018) (The Verge)
+  * [Huawei’s AI Cube is a 4G router and Alexa speaker, not a cube](https://www.theverge.com/circuitbreaker/2018/8/31/17803516/huawei-ai-cube-alexa-speaker-4g-router-amazon-ifa-2018) (The Verge)
   * [Huawei's Google Home clone has Alexa inside](https://www.engadget.com/2018/08/31/huawei-ai-cube-alexa-speaker-hands-on/) (Engadget)
-  * [Scooters will return to San Francisco, but Bird and Lime aren’t invited](https://www.The Verge.com/2018/8/30/17800960/scooters-sf-permits-bird-lime-uber-lyft-scoot-skip) (The Verge)
+  * [Scooters will return to San Francisco, but Bird and Lime aren’t invited](https://www.theverge.com/2018/8/30/17800960/scooters-sf-permits-bird-lime-uber-lyft-scoot-skip) (The Verge)
   * [Mozilla announces Firefox will block trackers by default](https://venturebeat.com/2018/08/30/mozilla-announces-firefox-will-block-trackers-by-default/) (Venture Beat)
   * [Google and Mastercard Cut a Secret Ad Deal to Track Retail Sales](https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales) (Bloomberg)
 
@@ -826,7 +826,7 @@
   * [Dell tempts Pixelbook lovers with premium $599 Inspiron Chromebook 14](https://arstechnica.com/gadgets/2018/08/dell-tempts-pixelbook-lovers-with-premium-599-inspiron-chromebook-14/) (Ars Technica)
   * [Dell shows its fall lineup of Alexa-ready Inspiron, XPS, and Vostro laptops and 2-in-1s](https://venturebeat.com/2018/08/28/dell-shows-its-fall-line-up-of-alexa-ready-inspiron-xps-and-vostro-laptops-and-2-in-1s/) (VentureBeat)
   * [Amazon Plans New Video App, Latest Step Into TV Ad Market](https://www.theinformation.com/articles/amazon-plans-new-video-app-latest-step-into-tv-ad-market) (The Information)
-  * [Google is revamping the Wear OS smartwatch user interface](https://www.The Verge.com/2018/8/29/17793870/google-wear-os-software-update-swiping-assistant-smartwatch) (The Verge)
+  * [Google is revamping the Wear OS smartwatch user interface](https://www.theverge.com/2018/8/29/17793870/google-wear-os-software-update-swiping-assistant-smartwatch) (The Verge)
   * [The rise of giant consumer startups that said no to investor money](https://www.recode.net/2018/8/29/17774878/consumer-startups-business-model-native-mvmt-tuft-needle) (Recode)
   * ['World Computer' Project Dfinity Raises $102 Million](http://fortune.com/2018/08/29/dfinity-world-computer/) (Fortune)
   * [The rise of crypto in higher education](https://blog.coinbase.com/the-rise-of-crypto-in-higher-education-81b648c2466f) (Coinbase Reports)
@@ -835,7 +835,7 @@
 
 **Tuesday, August 28 2018 - Tue. 8/28**
 
-  * [You can now apply to be verified in Instagram](https://www.The Verge.com/2018/8/28/17791450/instagram-verified-request-verification-status) (The Verge)
+  * [You can now apply to be verified in Instagram](https://www.theverge.com/2018/8/28/17791450/instagram-verified-request-verification-status) (The Verge)
   * [Yahoo, Bucking Industry, Scans Emails for Data to Sell Advertisers](https://www.wsj.com/articles/yahoo-bucking-industry-scans-emails-for-data-to-sell-advertisers-1535466959) (WSJ)
   * [Toyota Investing $500 Million in Uber in Driverless-Car Pact](https://www.wsj.com/articles/toyota-investing-500-million-in-uber-in-driverless-car-pact-1535393774) (WSJ)
   * [AutoX is using its self-driving vehicles to deliver groceries](https://techcrunch.com/2018/08/27/autox-is-using-its-self-driving-vehicles-to-deliver-groceries/) (TechCrunch)
@@ -900,7 +900,7 @@
   * [Karma raises $12 million for marketplace that helps restaurants and supermarkets reduce food waste](https://venturebeat.com/2018/08/15/karma-raises-12-million-for-marketplace-that-helps-restaurants-and-supermarkets-reduce-food-waste/) (Venture Beat)
   * [Arm Unveils Client CPU Performance Roadmap Through 2020 - Taking Intel Head On](https://www.anandtech.com/show/13226/arm-unveils-client-cpu-performance-roadmap) (AnAndTech)
   * [How TripAdvisor changed travel](https://www.theguardian.com/news/2018/aug/17/how-tripadvisor-changed-travel) (The Guardian)
-  * [Women are 79 percent more likely to spend money on mobile games](https://www.The Verge.com/2018/8/20/17759522/mobile-games-in-app-purchase-women-female-users-ios-android) (The Verge)
+  * [Women are 79 percent more likely to spend money on mobile games](https://www.theverge.com/2018/8/20/17759522/mobile-games-in-app-purchase-women-female-users-ios-android) (The Verge)
 
 **Friday, August 17 2018 - Fri. 8/17**
 
@@ -919,13 +919,13 @@
   * [Samsung Galaxy Note 9 review: A better Note for most of us](https://www.engadget.com/2018/08/15/samsung-galaxy-note-9-review-s-pen/) (Engadget)
   * [You Can Really Feel the Samsung Note 9's $1000 Price Tag](https://gizmodo.com/samsungs-galaxy-note-9-is-the-best-big-phone-1828348138) (Gizmodo)
   * [Samsung Galaxy Note 9 review: Sleek and new, but too much déjà vu](https://bgr.com/2018/08/15/samsung-galaxy-note-9-review/) (BGR)
-  * [ANDROID 9 PIE REVIEW: THE PREDICTIVE OS](https://www.The Verge.com/2018/8/16/17697648/google-android-9-pie-review-gestures-ai-notifications) (The Verge)
+  * [ANDROID 9 PIE REVIEW: THE PREDICTIVE OS](https://www.theverge.com/2018/8/16/17697648/google-android-9-pie-review-gestures-ai-notifications) (The Verge)
 
 **Wednesday, August 15 2018 - Wed. 8/15**
 
   * [SPECTRE-LIKE FLAW UNDERMINES INTEL PROCESSORS' MOST SECURE ELEMENT](https://www.wired.com/story/foreshadow-intel-secure-enclave-vulnerability) (Wired)
   * [After a year's wait, Amazon and Microsoft bring Alexa and Cortana to each other's devices](https://www.cnet.com/news/amazon-and-microsoft-bring-alexa-and-cortana-to-echo-windows-10-devices-harman-kardon-invoke/) (CNET)
-  * [OneDrive can now automatically backup your PC’s documents, pictures, and desktop folders](https://www.The Verge.com/2018/8/15/17691856/microsoft-onedrive-folder-protection-feature) (The Verge)
+  * [OneDrive can now automatically backup your PC’s documents, pictures, and desktop folders](https://www.theverge.com/2018/8/15/17691856/microsoft-onedrive-folder-protection-feature) (The Verge)
   * [Public Radio Networks to Merge in Big Bet on Podcasts](https://www.wsj.com/articles/public-radio-networks-to-merge-1534330920) (WSJ)
   * [Cash Wildfire Spreads Among Young Tech Companies](https://www.bloomberg.com/view/articles/2018-08-14/cash-wildfire-spreads-among-young-tech-companies) (Bloomberg)
   * [WhatsApp Co-Founder’s ‘Rest and Vest’ Reward From Facebook: $450 Million](https://www.wsj.com/articles/whatsapp-co-founders-rest-and-vest-reward-from-facebook-450-million-1534330920) (WSJ)
@@ -935,7 +935,7 @@
   * [NVIDIA Reveals Next-Gen Turing GPU Architecture](https://www.anandtech.com/show/13214/nvidia-reveals-next-gen-turing-gpu-architecture) (AnandTech)
   * [How an invite-only meeting at Apple's luxury loft in New York set the stage for one of the biggest subscription businesses in the world](https://www.thisisinsider.com/apple-secret-meeting-developers-new-york-subscriptions-app-store-2018-7) (Business Insider)
   * [Banks and Retailers Are Tracking How You Type, Swipe and Tap](https://www.nytimes.com/2018/08/13/business/behavioral-biometrics-banks-security.html) (NYTimes)
-  * [Netflix, Amazon Video, and Xfinity are accidentally re-creating cable TV](https://www.The Verge.com/2018/8/13/17672176/netflix-amazon-prime-video-xfinity-deals-old-media-disruption-recreating-cable) (The Verge)
+  * [Netflix, Amazon Video, and Xfinity are accidentally re-creating cable TV](https://www.theverge.com/2018/8/13/17672176/netflix-amazon-prime-video-xfinity-deals-old-media-disruption-recreating-cable) (The Verge)
   * [Kevin Durant, Will Smith Top the Lineup for a New Venture-Capital Fund for Black Investors](https://www.wsj.com/articles/kevin-durant-will-smith-top-the-lineup-for-a-new-venture-capital-fund-for-black-investors-1534152601?mod=hp_featst_pos2) (WSJ)
 
 **Monday, August 13 2018 - Mon. 8/13**
@@ -963,7 +963,7 @@
 
 **Wednesday, August 08 2018 - Wed. 8/8**
 
-  * [I TRIED MAGIC LEAP AND SAW A FLAWED GLIMPSE OF MIXED REALITY’S AMAZING POTENTIAL](https://www.The Verge.com/2018/8/8/17662040/magic-leap-one-creator-edition-preview-mixed-reality-glasses-launch) (The Verge)
+  * [I TRIED MAGIC LEAP AND SAW A FLAWED GLIMPSE OF MIXED REALITY’S AMAZING POTENTIAL](https://www.theverge.com/2018/8/8/17662040/magic-leap-one-creator-edition-preview-mixed-reality-glasses-launch) (The Verge)
   * [Magic Leap Headset Test Drive: Off Your Phone and Into Your World](https://www.wsj.com/articles/magic-leap-headset-test-drive-off-your-phone-and-into-your-world-1533730080) (WSJ)
   * [Magic Leap’s headset is real, but that may not be enough](https://www.technologyreview.com/s/611628/magic-leaps-headset-is-real-but-that-may-not-be-enough/) (MIT Technology Review)
   * [Patreon buys Memberful but keeps it indie as patronage consolidates](https://techcrunch.com/2018/08/08/patronage-empire/) (TechCrunch)
@@ -1002,7 +1002,7 @@
 
   * [Cisco to acquire Ann Arbor-based Duo Security in $2.35 billion deal](http://www.crainsdetroit.com/article/20180802/news/667546/cisco-to-acquire-ann-arbor-based-duo-security-in-235-billion-deal) (Crain's Detroit Business)
   * [Surface Go review: The ideal cheap Windows tablet... almost](https://www.engadget.com/2018/08/02/surface-go-review/) (Engadget)
-  * [The tiny Microsoft Surface Go is available now, and it’s an overachiever](https://www.The Verge.com/2018/8/2/17641686/microsoft-surface-go-now-shipping-tablet-hands-on-video) (The Verge)
+  * [The tiny Microsoft Surface Go is available now, and it’s an overachiever](https://www.theverge.com/2018/8/2/17641686/microsoft-surface-go-now-shipping-tablet-hands-on-video) (The Verge)
   * [Microsoft Surface Go review: Barely better than a netbook](https://mashable.com/review/microsoft-surface-go-review/#RnCG4CL_nOqk) (Mashable)
   * [The Microsoft Surface Go Is Practically Perfect](https://gizmodo.com/the-microsoft-surface-go-is-practically-perfect-1828045097) (Gizmodo)
   * [RideOS raises $25M to become the traffic control center for self-driving cars](https://techcrunch.com/2018/08/02/rideos-series-b-self-driving-cars/) (TechCrunch)
@@ -1033,7 +1033,7 @@
   * [Grover raises €37M Series A to offer latest tech products as a subscription](https://techcrunch.com/2018/07/30/grover-raises-series-a/) (TechCrunch)
   * [Twitter is prioritizing its network ‘health’ over adding new growth features. Is that the right move?](https://www.recode.net/2018/7/27/17621090/twitter-health-user-growth-q2-earnings-2018-jack-dorsey) (Recode)
   * [Retailers set sights on Facebook, Google ad revenue](https://www.reuters.com/article/us-retail-advertising-insight/retailers-set-sights-on-facebook-google-ad-revenue-idUSKBN1KG0CZ) (Reuters)
-  * [The self-driving cars hitting the road in Texas today are unlike any we’ve seen before](https://www.The Verge.com/2018/7/30/17622540/drive-ai-self-driving-car-ride-share-texas) (The Verge)
+  * [The self-driving cars hitting the road in Texas today are unlike any we’ve seen before](https://www.theverge.com/2018/7/30/17622540/drive-ai-self-driving-car-ride-share-texas) (The Verge)
 
 **Friday, July 27 2018 - Fri. 7/27**
 
@@ -1049,17 +1049,17 @@
 
   * [Departing Facebook Security Officer's Memo: "We Need To Be Willing To Pick Sides"](https://www.buzzfeednews.com/article/ryanmac/facebook-alex-stamos-memo-cambridge-analytica-pick-sides) (BuzzFeed News)
   * [China Said to Quickly Withdraw Approval for New Facebook Venture](https://www.nytimes.com/2018/07/25/business/facebook-china.html) (NYTimes)
-  * [Steam is rolling out its new Discord-like chat features to all users](https://www.The Verge.com/2018/7/24/17609872/steam-chat-new-features-roll-put-discord-like-competition) (The Verge)
-  * [General Motors wants its customers to rent their cars to other people](https://www.The Verge.com/2018/7/24/17609368/general-motors-car-sharing-rent-peer-to-peer-maven-price-gm) (The Verge)
-  * [Why the iPhone can’t compete in India](https://www.The Verge.com/2018/7/25/17611438/iphone-in-india-obstacles-to-success) (The Verge)
+  * [Steam is rolling out its new Discord-like chat features to all users](https://www.theverge.com/2018/7/24/17609872/steam-chat-new-features-roll-put-discord-like-competition) (The Verge)
+  * [General Motors wants its customers to rent their cars to other people](https://www.theverge.com/2018/7/24/17609368/general-motors-car-sharing-rent-peer-to-peer-maven-price-gm) (The Verge)
+  * [Why the iPhone can’t compete in India](https://www.theverge.com/2018/7/25/17611438/iphone-in-india-obstacles-to-success) (The Verge)
   * [Big tech warns of 'Japan's millennium bug' ahead of Akihito's abdication](https://www.theguardian.com/technology/2018/jul/25/big-tech-warns-japan-millennium-bug-y2k-emperor-akihito-abdication) (The Guardian)
 
 **Tuesday, July 24 2018 - Tue. 7/24**
 
   * [Alphabet surges to all-time high as Wall Street says internet giant’s big bets are ‘paying off’ (CNBC)](https://www.cnbc.com/2018/07/24/alphabet-set-to-hit-all-time-high-as-wall-street-says-internet-giants.html)
-  * [Alphabet’s experimental investments in the future continue to cost it a fortune](https://www.The Verge.com/2018/7/23/17604936/alphabet-google-other-bets-waymo-nest-future-investments-costs-fortune) (The Verge)
+  * [Alphabet’s experimental investments in the future continue to cost it a fortune](https://www.theverge.com/2018/7/23/17604936/alphabet-google-other-bets-waymo-nest-future-investments-costs-fortune) (The Verge)
   * [Google CEO Sundar Pichai revealed a jaw-dropping fact about its translation app that shows how much money is still sitting on the table](https://www.businessinsider.com/sundar-pichai-google-translate-143-billion-words-daily-2018-7) (Business Insider)
-  * [Miles is an app that tracks your every move in exchange for deals and discounts](https://www.The Verge.com/2018/7/24/17604438/miles-app-tracking-transportation-deals-discounts) (The Verge)
+  * [Miles is an app that tracks your every move in exchange for deals and discounts](https://www.theverge.com/2018/7/24/17604438/miles-app-tracking-transportation-deals-discounts) (The Verge)
   * [A Few More Details About Microsoft’s Xbox Scarlett Game Streaming Service](https://www.thurrott.com/xbox/163896/details-microsofts-xbox-scarlett-game-streaming-service) (Thurrott.com)
   * [Verizon Is Seeking Google or Apple as 5G TV Provider](https://www.bloomberg.com/news/articles/2018-07-23/verizon-is-said-to-seek-google-or-apple-as-5g-tv-provider) (Bloomberg)
   * [Thinner and Lighter Laptops Have Screwed Us All](https://motherboard.vice.com/en_us/article/9kmkve/thinner-and-lighter-laptops-have-screwed-us-all) (Motherboard)
@@ -1080,7 +1080,7 @@
 
 **Thursday, July 19 2018 - Thu. 7/19**
 
-  * [Facebook says it will begin removing misinformation that leads to violence](https://www.The Verge.com/2018/7/18/17588624/facebook-misinformation-removal-violence-hate-speech-sri-lanka) (The Verge)
+  * [Facebook says it will begin removing misinformation that leads to violence](https://www.theverge.com/2018/7/18/17588624/facebook-misinformation-removal-violence-hate-speech-sri-lanka) (The Verge)
   * [Full transcript: Facebook CEO Mark Zuckerberg on Recode Decode](https://www.recode.net/2018/7/18/17575158/mark-zuckerberg-facebook-interview-full-transcript-kara-swisher) (Recode)
   * [Mark Zuckerberg clarifies: ‘I personally find Holocaust denial deeply offensive, and I absolutely didn’t intend to defend the intent of people who deny that.’](https://www.recode.net/2018/7/18/17588116/mark-zuckerberg-clarifies-holocaust-denial-offensive) (Recode)
   * [REDDIT REINVENTS THE CHAT ROOM WITH COMMUNITY CHAT](https://www.wired.com/story/reddit-introduces-subreddit-chat) (Wired)
@@ -1092,7 +1092,7 @@
 
   * [What Netflix's big miss means for the new tech economy](https://www.axios.com/netflix-big-miss-subscribers-stock-share-growth-40443540-1238-4a0f-a23c-4719030a8948.html) (Axios)
   * [STRIKES, BOYCOTTS, AND OUTAGES MAR AMAZON PRIME DAY](https://www.wired.com/story/strikes-boycotts-and-outages-mar-amazon-prime-day) (Wired)
-  * [Amazon warehouse workers are striking across Europe on Prime Day](https://www.The Verge.com/2018/7/16/17577348/amazon-warehouse-worker-strike-europe-prime-day) (The Verge)
+  * [Amazon warehouse workers are striking across Europe on Prime Day](https://www.theverge.com/2018/7/16/17577348/amazon-warehouse-worker-strike-europe-prime-day) (The Verge)
   * [Andreessen Horowitz Names Connie Chan A General Partner, Ending VC Firm's No-Promotion Policy](https://www.forbes.com/sites/alexkonrad/2018/07/17/andreessen-horowitz-names-connie-chan-a-general-partner-ending-vc-firms-no-promotion-policy/#134b3b131beb) (Forbes)
   * [Top Voting Machine Vendor Admits It Installed Remote-Access Software on Systems Sold to States](https://motherboard.vice.com/en_us/article/mb4ezy/top-voting-machine-vendor-admits-it-installed-remote-access-software-on-systems-sold-to-states) (Motherboard)
   * [VC Firm Social Capital Set Out to Fix Capitalism. Now It’s In Turmoil](https://www.bloomberg.com/news/articles/2018-07-16/vc-firm-social-capital-set-out-to-fix-capitalism-now-it-s-in-turmoil) (Bloomberg)
@@ -1112,11 +1112,11 @@
   * [Top of the Morning](https://www.axios.com/newsletters/axios-pro-rata) (Axios)
   * [AT&T’s no-good week shows why it may regret its Google envy](https://www.fastcompany.com/90202019/atts-no-good-week-shows-why-it-may-regret-its-google-envy) (Fast Company)
   * [Uber begins monitoring U.S. driver background checks continuously](https://www.axios.com/uber-begins-monitoring-us-driver-background-checks-continuously-180d59db-1040-48a7-b9fb-0b6e06ba299f.html) (Axios)
-  * [Unlimited data plans are a mess: here’s how to pick the best one](https://www.The Verge.com/2018/6/28/17507322/best-unlimited-data-plans-verizon-att-tmobile-sprint) (The Verge)
+  * [Unlimited data plans are a mess: here’s how to pick the best one](https://www.theverge.com/2018/6/28/17507322/best-unlimited-data-plans-verizon-att-tmobile-sprint) (The Verge)
 
 **Thursday, July 12 2018 - Thu. 7/12**
 
-  * [APPLE’S NEW MACBOOK PROS HAVE THE LATEST INTEL PROCESSORS AND QUIETER KEYBOARDS](https://www.The Verge.com/2018/7/12/17563640/apple-macbook-pro-touchbar-2018-intel-processor-siri-true-tone) (The Verge)
+  * [APPLE’S NEW MACBOOK PROS HAVE THE LATEST INTEL PROCESSORS AND QUIETER KEYBOARDS](https://www.theverge.com/2018/7/12/17563640/apple-macbook-pro-touchbar-2018-intel-processor-siri-true-tone) (The Verge)
   * [Broadcom reaches deal to acquire CA Technologies for $18.9 billion in cash](https://www.cnbc.com/2018/07/11/ca-technologies-soars-after-reportedly-nearing-deal-with-broadcom.html) (CNBC)
   * [The Race to a Trillion](https://www.aboveavalon.com/notes/2018/7/11/the-race-to-a-trillion) (Above Avalon)
 
@@ -1128,7 +1128,7 @@
 
 **Tuesday, July 10 2018 - Tue. 7/10**
 
-  * [Microsoft’s $399 Surface Go aims to stand out from iPads or Chromebooks](https://www.The Verge.com/2018/7/10/17552250/microsoft-surface-go-tablet-competition-ipad-chromebooks) (The Verge)
+  * [Microsoft’s $399 Surface Go aims to stand out from iPads or Chromebooks](https://www.theverge.com/2018/7/10/17552250/microsoft-surface-go-tablet-competition-ipad-chromebooks) (The Verge)
   * [Microsoft's $399 Surface Go is here to nuke Apple's iPad](https://mashable.com/2018/07/09/microsoft-surface-go-hands-on/#xcj3rj5aBiqZ) (Mashable)
   * [The AI revolution has spawned a new chips arms race](https://arstechnica.com/gadgets/2018/07/the-ai-revolution-has-spawned-a-new-chips-arms-race/) (Ars Technica)
   * [Netflix Binge-Watching Just Got Even Easier: Now It Automatically Downloads New Episodes To Watch Offline](https://www.buzzfeed.com/pranavdixit/netflix-smart-downloads-feature?utm_term=.ho2qvYBMP#.dwRXeVdjZ) (BuzzFeed)
@@ -1140,7 +1140,7 @@
   * [Apple slices into Spotify’s lead in the US music market](https://www.cnbc.com/2018/07/09/apple-slices-into-spotifys-lead-in-the-us-music-market.html) (CNBC)
   * [High-Skilled White-Collar Work? Machines Can Do That, Too](https://www.nytimes.com/2018/07/07/business/economy/algorithm-fashion-jobs.html) (NYTimes)
   * [Federal researchers are using data from Waze and Maryland to try to predict road dangers](https://www.washingtonpost.com/local/trafficandcommuting/federal-researchers-are-using-data-from-waze-and-maryland-to-try-to-predict-road-dangers/2018/07/07/bb40b51c-7ec9-11e8-bb6b-c1cb691f1402_story.html?utm_term=.f2ec00b787d3) (Washington Post)
-  * [The Thanos subreddit is gleefully heading for mass slaughter](https://www.The Verge.com/2018/7/3/17530668/thanos-subreddit-avengers-infinity-war) (The Verge)
+  * [The Thanos subreddit is gleefully heading for mass slaughter](https://www.theverge.com/2018/7/3/17530668/thanos-subreddit-avengers-infinity-war) (The Verge)
 
 **Friday, July 06 2018 - Fri. 7/6**
 
@@ -1162,9 +1162,9 @@
 **Friday, June 29 2018 - Fri. 6/29**
 
   * [Apple is rebuilding Maps from the ground up](https://techcrunch.com/2018/06/29/apple-is-rebuilding-maps-from-the-ground-up/) (TechCrunch)
-  * [Microsoft details secret ‘pocketable’ Surface device in leaked email](https://www.The Verge.com/2018/6/29/17518582/microsoft-surface-dual-screen-andromeda-device-pocketable) (The Verge)
+  * [Microsoft details secret ‘pocketable’ Surface device in leaked email](https://www.theverge.com/2018/6/29/17518582/microsoft-surface-dual-screen-andromeda-device-pocketable) (The Verge)
   * [Digital currency sales hit $13.7 billion in first five months of 2018: report](https://www.reuters.com/article/us-cryptocryptocurrency-token-offerngs/digital-currency-sales-hit-13-7-billion-in-first-five-months-of-2018-report-idUSKBN1JO2XP) (Reuters)
-  * [The NES Classic is back: here’s where you can pick one up](https://www.The Verge.com/2018/6/29/17510528/nintendo-nes-classic-where-to-buy) (The Verge)
+  * [The NES Classic is back: here’s where you can pick one up](https://www.theverge.com/2018/6/29/17510528/nintendo-nes-classic-where-to-buy) (The Verge)
 
 **Thursday, June 28 2018 - Thu. 6/28**
 
@@ -1173,21 +1173,21 @@
   * [Apple Eyes Streaming Bundle for TV, Music and News](https://www.theinformation.com/articles/apple-eyes-streaming-bundle-for-tv-music-and-news) (The Information)
   * [Apple and Samsung End Smartphone Patent Wars](https://www.nytimes.com/2018/06/27/technology/apple-samsung-smartphone-patent.html) (NYTimes)
   * [Bird CEO Explains Why His Scooter Startup Needed $300 Million](https://www.bloomberg.com/news/articles/2018-06-28/bird-ceo-explains-why-his-scooter-startup-needed-300-million) (Bloomberg)
-  * [AT&T more than doubles ‘admin fee’ for every wireless customer](https://www.The Verge.com/2018/6/27/17511500/att-admin-fee-increase-wireless-bill-cover-costs) (The Verge)
+  * [AT&T more than doubles ‘admin fee’ for every wireless customer](https://www.theverge.com/2018/6/27/17511500/att-admin-fee-increase-wireless-bill-cover-costs) (The Verge)
   * [Colossal 128TB SD cards could soon be on the way](https://thenextweb.com/gadgets/2018/06/28/1133426/) (TNW)
 
 **Wednesday, June 27 2018 - Wed. 6/27**
 
   * [Google is retiring the AdWords & DoubleClick brands in a major rebranding aimed at simplification](https://searchengineland.com/google-is-retiring-the-adwords-doubleclick-brands-in-a-major-rebranding-aimed-at-simplification-301073) (Search Engine Land)
   * [Google opens its human-sounding Duplex AI to public testing](https://www.cnet.com/news/google-opens-its-human-sounding-duplex-ai-to-public-testing/?ftag=COS-05-10aaa0b&linkId=53565993) (CNET)
-  * [Google Duplex really works and testing begins this summer](https://www.The Verge.com/2018/6/27/17508728/google-duplex-assistant-reservations-demo) (The Verge)
+  * [Google Duplex really works and testing begins this summer](https://www.theverge.com/2018/6/27/17508728/google-duplex-assistant-reservations-demo) (The Verge)
   * [Facebook tests 30-day keyword snoozing to fight spoilers, triggers](https://techcrunch.com/2018/06/27/facebook-keyword-snooze/) (TechCrunch)
   * [BlackBerry KEY2 review: One of the most unique phones around comes up short of awesome](https://www.androidpolice.com/2018/06/27/blackberry-key2-review-one-unique-phones-around-comes-short-awesome/) (Android Police)
 
 **Tuesday, June 26 2018 - Tue. 6/26**
 
-  * [Uber wins the right to keep operating in London](https://www.The Verge.com/2018/6/26/17500510/uber-london-license-appeal-court-decision) (The Verge)
-  * [Wi-Fi security is starting to get its biggest upgrade in over a decade](https://www.The Verge.com/circuitbreaker/2018/6/26/17501594/wpa3-wifi-security-certification) (The Verge)
+  * [Uber wins the right to keep operating in London](https://www.theverge.com/2018/6/26/17500510/uber-london-license-appeal-court-decision) (The Verge)
+  * [Wi-Fi security is starting to get its biggest upgrade in over a decade](https://www.theverge.com/circuitbreaker/2018/6/26/17501594/wpa3-wifi-security-certification) (The Verge)
   * [Fortnite is generating more revenue than any other free game ever](https://www.recode.net/2018/6/26/17502072/fortnite-revenue-game-growth-318-million) (ReCode)
   * [Intel and the Danger of Integration](https://stratechery.com/2018/intel-and-the-danger-of-integration/) (Ben Thompson/Stratechery)
   * [Steven Sinofsky Tweet Thread on the Above](https://twitter.com/stevesi/status/1011284522179031040)
@@ -1208,14 +1208,14 @@
 **Thursday, June 21 2018 - Thu. 6/21**
 
   * [Why Apple’s AirPower Wireless Charger Is Taking So Long to Make](https://www.bloomberg.com/news/articles/2018-06-21/why-apple-s-airpower-wireless-charger-is-taking-so-long-to-make) (Bloomberg)
-  * [AMAZON FIRE TV CUBE REVIEW: A SMARTER STREAMING BOX](https://www.The Verge.com/2018/6/21/17484412/amazon-fire-tv-cube-review-alexa-echo) (The Verge)
+  * [AMAZON FIRE TV CUBE REVIEW: A SMARTER STREAMING BOX](https://www.theverge.com/2018/6/21/17484412/amazon-fire-tv-cube-review-alexa-echo) (The Verge)
   * [Google turns on ‘Continued Conversation’ in the Google Assistant](https://searchengineland.com/google-turns-on-continued-conversation-in-the-google-assistant-300741) (Search Engine Land)
   * [WHY LYFT IS TRYING TO BECOME THE NEXT SUBSCRIPTION BUSINESS](https://www.wired.com/story/why-lyft-is-trying-to-become-the-next-subscription-business/) (Wired)
 
 **Wednesday, June 20 2018 - Wed. 6/20**
 
   * [Facebook launches gameshows platform with interactive video](https://techcrunch.com/2018/06/19/facebook-gameshows/) (TechCrunch)
-  * [Oppo’s Find X ditches the notch for pop-up cameras](https://www.The Verge.com/circuitbreaker/2018/6/19/17476338/oppo-find-x-phone-announcement-specs-price) (The Verge)
+  * [Oppo’s Find X ditches the notch for pop-up cameras](https://www.theverge.com/circuitbreaker/2018/6/19/17476338/oppo-find-x-phone-announcement-specs-price) (The Verge)
   * [Crypto Exchange Bithumb Halts Withdrawals After $31 Million Hack](https://www.coindesk.com/crypto-exchange-bithumb-halts-services-amid-31-million-hack/) (CoinDesk)
 
 **Tuesday, June 19 2018 - Tue. 6/19**
@@ -1251,7 +1251,7 @@
   * [Intel makes it a three-way race with AMD and Nvidia on graphics chips](https://www.marketwatch.com/story/intel-makes-it-a-three-way-race-with-amd-and-nvidia-on-graphics-chips-2018-06-12) (Marketwatch)
   * [Bitcoin’s Price Was Artificially Inflated Last Year, Researchers Say](https://www.nytimes.com/2018/06/13/technology/bitcoin-price-manipulation.html) (NYTimes)
   * [E-Commerce Might Help Solve the Mystery of Low Inflation](https://www.nytimes.com/2018/06/11/business/economy/inflation-internet.html) (NYTimes)
-  * [Fortnite on the Switch is good enough to make Sony’s cross-play policy look even more stupid](https://www.The Verge.com/2018/6/13/17457738/fortnite-switch-review-ps4-xbox-cross-play) (The Verge)
+  * [Fortnite on the Switch is good enough to make Sony’s cross-play policy look even more stupid](https://www.theverge.com/2018/6/13/17457738/fortnite-switch-review-ps4-xbox-cross-play) (The Verge)
 
 **Tuesday, June 12 2018 - Tue. 6/12**
 
@@ -1268,7 +1268,7 @@
   * [The Scooter Economy](https://stratechery.com/2018/the-scooter-economy/) (Stratechery)
   * [How to understand the financial levers in your business](https://techcrunch.com/2018/04/10/how-to-understand-the-financial-levers-in-your-business/) (TechCrunch)
   * [AT&T-Time Warner Ruling Has Dealmakers Bracing](https://www.nytimes.com/2018/06/10/technology/att-time-warner-ruling.html) (NYTimes)
-  * [In-display fingerprint sensors are here, and they actually work](https://www.The Verge.com/circuitbreaker/2018/6/11/17448214/vivo-x21-ud-in-display-fingerprint-sensor-review) (The Verge)
+  * [In-display fingerprint sensors are here, and they actually work](https://www.theverge.com/circuitbreaker/2018/6/11/17448214/vivo-x21-ud-in-display-fingerprint-sensor-review) (The Verge)
 
 **Friday, June 08 2018 - Fri. 6/8**
 
@@ -1301,7 +1301,7 @@
 
 **Monday, June 04 2018 - Mon. 6/4**
 
-  * [Microsoft confirms it’s acquiring GitHub for $7.5 billion](https://www.The Verge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal) (The Verge)
+  * [Microsoft confirms it’s acquiring GitHub for $7.5 billion](https://www.theverge.com/2018/6/4/17422788/microsoft-github-acquisition-official-deal) (The Verge)
   * [Facebook Gave Device Makers Deep Access to Data on Users and Friends](https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html) (NYTimes)
 
 **Friday, June 01 2018 - Fri. 6/1**
@@ -1309,7 +1309,7 @@
   * [New Arm Cortex-A76 and Mali-G76 target laptop-class performance](https://www.androidauthority.com/arm-cortex-a76-mali-g76-announced-870879/) (Android Authority)
   * [Angry Facebook shareholders challenge Zuckerberg over 'corporate dictatorship'](https://www.theguardian.com/technology/2018/may/31/facebook-shareholder-meeting-mark-zuckerberg) (The Guardian)
   * [Apple Is Set to Unveil AR Upgrade, Software to Manage iPhone Use](https://www.bloomberg.com/news/articles/2018-05-31/apple-to-tout-digital-health-ar-features-at-software-conference) (Bloomberg)
-  * [Apple’s WWDC 2018: iOS 12, macOS, and what else to expect](https://www.The Verge.com/2018/5/31/17409110/apple-wwdc-rumors-ios-12-mac-os-2018-keynote-date) (The Verge)
+  * [Apple’s WWDC 2018: iOS 12, macOS, and what else to expect](https://www.theverge.com/2018/5/31/17409110/apple-wwdc-rumors-ios-12-mac-os-2018-keynote-date) (The Verge)
   * [WWDC 2018: What to expect from Apple’s big event](https://www.macworld.com/article/3275364/ios/wwdc-2018-how-to-watch-what-to-expect.html) (MacWorld)
 
 **Thursday, May 31 2018 - Thu. 5/31**
@@ -1328,7 +1328,7 @@
 
 **Tuesday, May 29 2018 - Tue. 5/29**
 
-  * [Uber adds a panic button in its app](https://www.The Verge.com/2018/5/29/17402172/uber-911-panic-button-app-live-us) (The Verge)
+  * [Uber adds a panic button in its app](https://www.theverge.com/2018/5/29/17402172/uber-911-panic-button-app-live-us) (The Verge)
   * [Uber’s Exit From Southeast Asia Upsets Regulators and Drivers](https://www.nytimes.com/2018/05/28/technology/uber-grab-southeast-asia.html) (New York Times)
   * [Apple’s HomePod Speaker Finally Gets Multi-Room Audio And Stereo Mode](https://www.buzzfeed.com/nicolenguyen/apple-homepod-multi-room-stereo-mode) (Buzzfeed)
   * [Papua New Guinea To Shutdown Facebook](http://news.pngfacts.com/2018/05/papua-new-guinea-to-shutdown-facebook.html) (Post Courier)
@@ -1355,7 +1355,7 @@
 **Wednesday, May 23 2018 - Wed. 5/23**
 
   * [Next Generation iPhone Chips Go Into Production](https://www.bloomberg.com/news/articles/2018-05-23/apple-partner-tsmc-is-said-to-start-making-chips-for-new-iphones) (Bloomberg)
-  * [HTC Announces U12 Plus With Pressure-Sensitive Buttons and Sides](https://www.The Verge.com/2018/5/23/17379244/htc-u12-plus-specs-price-release-date-edge-sense) (The Verge)
+  * [HTC Announces U12 Plus With Pressure-Sensitive Buttons and Sides](https://www.theverge.com/2018/5/23/17379244/htc-u12-plus-specs-price-release-date-edge-sense) (The Verge)
   * [Banned From Amazon: The Shoppers Who Make Too Many Returns](https://www.wsj.com/articles/banned-from-amazon-the-shoppers-who-make-too-many-returns-1526981401) (WSJ)
 
 **Tuesday, May 22 2018 - Tue. 5/22**
@@ -1396,8 +1396,8 @@
 **Tuesday, May 15 2018 - Tue. 5/15**
 
   * [At NYC’s Big Crypto Conference, the Lamborghinis Are Rented and Protests Are Staged](https://www.bloomberg.com/news/articles/2018-05-14/staged-protests-rented-lambos-show-bitcoin-hype-alive-and-well) (Bloomberg)
-  * [Microsoft’s Surface Hub 2 is designed for an office of the future](https://www.The Verge.com/2018/5/15/17352624/microsoft-surface-hub-2-features-launch-date-pricing) (The Verge)
-  * [This nonprofit plans to send millions of Wikipedia pages to the Moon — printed on tiny metal sheets](https://www.The Verge.com/2018/5/15/17353194/lunar-library-wikipedia-moon-arch-foundation-astrobotic-spacex) (The Verge)
+  * [Microsoft’s Surface Hub 2 is designed for an office of the future](https://www.theverge.com/2018/5/15/17352624/microsoft-surface-hub-2-features-launch-date-pricing) (The Verge)
+  * [This nonprofit plans to send millions of Wikipedia pages to the Moon — printed on tiny metal sheets](https://www.theverge.com/2018/5/15/17353194/lunar-library-wikipedia-moon-arch-foundation-astrobotic-spacex) (The Verge)
 
 **Monday, May 14 2018 - Mon. 5/14**
 
@@ -1419,7 +1419,7 @@
   * [Roku Earnings Beat Expectations as Ads, Services Surpass Hardware Revenue](http://variety.com/2018/digital/news/roku-q1-2018-earnings-1202804874/) (Variety)
   * [Free stock trading app Robinhood rockets to a $5.6B valuation with new funding round](https://techcrunch.com/2018/05/10/robinhood-rockets-to-a-5-6b-valuation-with-a-massive-new-funding-round/) (TechCrunch)
   * [Google Grapples With ‘Horrifying’ Reaction to Uncanny AI Tech](https://www.bloomberg.com/news/articles/2018-05-10/google-grapples-with-horrifying-reaction-to-uncanny-ai-tech) (Bloomberg)
-  * [Google’s AI sounds like a human on the phone — should we be worried?](https://www.The Verge.com/2018/5/9/17334658/google-ai-phone-call-assistant-duplex-ethical-social-implications) (The Verge)
+  * [Google’s AI sounds like a human on the phone — should we be worried?](https://www.theverge.com/2018/5/9/17334658/google-ai-phone-call-assistant-duplex-ethical-social-implications) (The Verge)
   * [Alexa and Siri Can Hear This Hidden Command. You Can’t.](https://www.nytimes.com/2018/05/10/technology/alexa-siri-hidden-command-audio-attacks.html) (NYTimes)
   * [Yoshimi Battles The Pink Robots Pt. 1](https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z) (The Flaming Lips)
 
@@ -1440,8 +1440,8 @@
 
 **Monday, May 07 2018 - Mon. 5/7**
 
-  * [Nadella's Microsoft](https://www.The Verge.com/2018/5/7/17324920/microsoft-ceo-satya-nadella-interview-windows-10-build-2018) (The Verge)
-  * [Eight things to expect at Google I/O 2018](https://www.The Verge.com/2018/5/5/17320870/google-io-2018-preview-date-time-android-p-ai-smart-home) (The Verge)
+  * [Nadella's Microsoft](https://www.theverge.com/2018/5/7/17324920/microsoft-ceo-satya-nadella-interview-windows-10-build-2018) (The Verge)
+  * [Eight things to expect at Google I/O 2018](https://www.theverge.com/2018/5/5/17320870/google-io-2018-preview-date-time-android-p-ai-smart-home) (The Verge)
   * [Who’s Winning the Self-Driving Car Race?](https://www.bloomberg.com/news/features/2018-05-07/who-s-winning-the-self-driving-car-race) (Bloomberg)
   * [Why 'Stories' Took Over Your Smartphone](https://www.theatlantic.com/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/) (The Atlantic)
 
@@ -1463,7 +1463,7 @@
 
   * [Cambridge Analytica Closing Operations Following Facebook Data Controversy](https://www.wsj.com/articles/cambridge-analytica-closing-operations-following-facebook-data-controversy-1525284140?mod=searchresults&page=1&pos=2) (WSJ)
   * [Telegram Messaging App Scraps Plans for Public Coin Offering](https://www.wsj.com/articles/telegram-messaging-app-scraps-plans-for-public-coin-offering-1525281933) (WSJ)
-  * [LG’s G7 ThinQ preserves the headphone jack and introduces a notch](https://www.The Verge.com/circuitbreaker/2018/5/2/17304918/lg-g7-thinq-hands-on-specs-headphone-screen-camera) (The Verge)
+  * [LG’s G7 ThinQ preserves the headphone jack and introduces a notch](https://www.theverge.com/circuitbreaker/2018/5/2/17304918/lg-g7-thinq-hands-on-specs-headphone-screen-camera) (The Verge)
   * [Pandora Learns the Cost of Ads, and of Subscriptions](https://www.wired.com/story/pandora-learns-the-cost-of-ads-and-of-subscriptions) (Wired)
   * [Over 30? You're Too Old For Tech Jobs In China](https://www.bloomberg.com/news/features/2018-05-02/china-s-tech-industry-wants-youth-not-experience) (Bloomberg)
   * [Could Artificial Intelligence Predict the Next Avengers: Infinity War?](https://www.wired.com/story/artificial-intelligence-box-office-predictions) (Wired)
@@ -1476,7 +1476,7 @@
 
 **Monday, April 30 2018 - Mon. 4/30**
 
-  * [As controversy swirls, Facebook dials down the swagger on its developer conference](https://www.The Verge.com/2018/4/29/17287794/facebook-f8-preview-2018-developer-conference-cambridge-analytica) (The Verge)
+  * [As controversy swirls, Facebook dials down the swagger on its developer conference](https://www.theverge.com/2018/4/29/17287794/facebook-f8-preview-2018-developer-conference-cambridge-analytica) (The Verge)
   * [Oculus wants to make immersive virtual theater a reality](https://www.cnet.com/news/oculus-wants-to-make-immersive-virtual-theater-a-reality/) (CNET)
   * [Jeff Bezos reveals what it’s like to build an empire and become the richest man in the world — and why he's willing to spend $1 billion a year to fund the most important mission of his life](http://www.businessinsider.com/jeff-bezos-interview-axel-springer-ceo-amazon-trump-blue-origin-family-regulation-washington-post-2018-4?op=1) (Business Insider)
 
@@ -1489,7 +1489,7 @@
 
 **Thursday, April 26 2018 - Thu. 4/26**
 
-  * [Snap’s second-generation Spectacles are more grown up — and more expensive](https://www.The Verge.com/2018/4/26/17279434/snapchat-spectacles-pricing-availability-snap-wearable-camera) (The Verge)
+  * [Snap’s second-generation Spectacles are more grown up — and more expensive](https://www.theverge.com/2018/4/26/17279434/snapchat-spectacles-pricing-availability-snap-wearable-camera) (The Verge)
   * [Inside Nintendo's secretive creative process](https://www.theguardian.com/games/2018/apr/25/nintendo-interview-secret-innovation-lab-ideas-working) (The Guardian)
   * [Sonos Prepares for IPO as Soon as June](https://www.wsj.com/articles/sonos-prepares-for-ipo-as-soon-as-june-1524692085?tesla=y&mod=e2tw) (WSJ)
 
@@ -1514,7 +1514,7 @@
 
 **Friday, April 20 2018 - Fri. 4/20**
 
-  * [Exclusive: Chat is Google's Next Big Fix for Android's Messaging Mess](https://www.The Verge.com/2018/4/19/17252486/google-android-messages-chat-rcs-anil-sabharwal-imessage-texting) (The Verge)
+  * [Exclusive: Chat is Google's Next Big Fix for Android's Messaging Mess](https://www.theverge.com/2018/4/19/17252486/google-android-messages-chat-rcs-anil-sabharwal-imessage-texting) (The Verge)
   * [Apple Can’t Cut Its Dependence on Rival Samsung’s Screens](https://www.wsj.com/articles/apple-struggles-with-effort-to-diversify-screen-suppliers-1524216606) (WSJ)
   * [The Woman Who Gave The Macintosh a Smile](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile) (The New Yorker)
   * [Phone use while driving is still a huge problem, but this is helping](https://www.slashgear.com/do-not-disturb-while-driving-unsafe-car-distraction-survey-2018-18527827/) (SlashGear)
