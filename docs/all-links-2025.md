@@ -1,5 +1,19 @@
 {% include_relative _includes/showlinks-header.md %}
 
+<!-- AUTO-GENERATED CONTENT BELOW -->
+
+**Monday, December 22 2025 - Blackouts Take Waymo Out**
+
+  * [Waymo resumes robotaxi service in San Francisco after blackout chaos — Musk says Tesla car service unaffected](https://www.cnbc.com/2025/12/21/waymo-robotaxi-san-francisco-blackout.html) (CNBC)
+  * [Paramount guarantees Larry Ellison backing in amended WBD bid](https://www.cnbc.com/2025/12/22/wbd-bid-paramount-larry-ellison-backing-bid.html) (CNBC)
+  * [Instacart Scraps All Price Tests After Customer Pushback](https://www.wsj.com/business/retail/instacart-ending-all-item-price-tests-on-its-platform-3c97d68d?st=LP28v5&reflink=desktopwebshare_permalink) (WSJ)
+  * [Spotify Music Library Scraped by Pirate Activist Group](https://www.billboard.com/business/streaming/spotify-music-library-leak-1236143970/) (Billboard)
+  * [ChatGPT will now let you pick how nice it is](https://www.theverge.com/news/848435/openai-chatgpt-characteristics-update-warmth-enthusiasm) (The Verge)
+  * [TPU Mania](https://thechipletter.substack.com/p/tpu-mania) (The Chip Letter)
+  * [Why Nvidia maintains its moat and Gemini won’t kill OpenAI ](https://siliconangle.com/2025/12/21/nvidia-maintains-moat-gemini-wont-kill-openai/)(SiliconANGLE)
+
+
+
 **Friday, December 19 2025 - Fri. 12/19**
 
   * [Scoop: TikTok signs deal for U.S. unit after yearslong saga](https://www.axios.com/2025/12/18/tiktok-sale) (Axios)

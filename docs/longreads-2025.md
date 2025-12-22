@@ -1,5 +1,7 @@
 {% include_relative _includes/longreads-header.md %}
 
+<!-- AUTO-GENERATED CONTENT BELOW -->
+
 **Friday, December 12 2025 - Fri. 12/12**
 
 * [Want This Hearing Aid? Well, Who Do You Know?](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)
