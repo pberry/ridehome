@@ -2238,7 +2238,7 @@
   * [DoorDash preps for IPO, confidentially files documents with SEC](https://www.cnbc.com/2020/02/27/doordash-ipo-company-confidentially-files-documents-with-sec.html) (CNBC)
   * [Nokia to Weigh Strategic Options as Profit Pressure Mounts](https://www.bloomberg.com/news/articles/2020-02-26/nokia-said-to-weigh-strategic-options-as-profit-pressure-mounts) (Bloomberg)
   * [It took Google three years to add Firefox, Edge and Opera support to Google Earth](https://www.ghacks.net/2020/02/27/it-took-google-three-years-to-add-firefox-edge-and-opera-support-to-google-earth/) (Ghacks.net)
-  * [Timex is releasing a GPS smartwatch with 25 days of battery life](https://www.theverge.com/2020/2/27/21155862/timex-smartwatch-gps-fitness-tracker-battery-life?utm_campaign=The Verge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+  * [Timex is releasing a GPS smartwatch with 25 days of battery life](https://www.theverge.com/2020/2/27/21155862/timex-smartwatch-gps-fitness-tracker-battery-life?utm_campaign=The%20Verge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
   * [SAMSUNG GALAXY S20 ULTRA REVIEW: SHUTTER BUG](https://www.theverge.com/2020/2/27/21155012/samsung-galaxy-s20-ultra-review-5g-screen-camera-space-zoom-price) (The Verge)
 
 **Wednesday, February 26 2020 - Wed. 2/26**
@@ -2430,7 +2430,7 @@
   * [BlackBerry’s Android smartphones will stop being sold in August 2020](https://ww.9to5google.com/2020/02/03/blackberry-android-discontinued-2020/) (9to5Google)
   * [Ming-Chi Kuo Says Coronavirus Outbreak Impacting iPhone Supply, Lowers Shipment Forecast](https://www.macrumors.com/2020/02/02/kuo-says-coronavirus-impacting-iphone-supply/) (MacRumors)
   * [Uber Suspends 240 Mexican Accounts to Prevent Coronavirus Spread](https://www.bloomberg.com/news/articles/2020-02-02/uber-suspends-240-mexican-accounts-to-prevent-coronavirus-spread) (Bloomberg)
-  * [Microsoft Teams goes down after Microsoft forgot to renew a certificate](https://www.theverge.com/2020/2/3/21120248/microsoft-teams-down-outage-certificate-issue-status?utm_campaign=The Verge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter) (The Verge)
+  * [Microsoft Teams goes down after Microsoft forgot to renew a certificate](https://www.theverge.com/2020/2/3/21120248/microsoft-teams-down-outage-certificate-issue-status?utm_campaign=The%20Verge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
   * [Alleged leaked video shows off Samsung’s folding Galaxy Z Flip](https://www.theverge.com/2020/2/2/21118894/samsung-galaxy-z-flip-leaked-video) (The Verge)
   * [Disney Takes Tighter Control of Hulu After Disney+ Bundle Revs Up Growth](https://www.bloomberg.com/news/articles/2020-02-03/disney-takes-tighter-control-of-hulu-after-bundle-revs-up-growth) (Bloomberg)
   * [Behind Amazon’s HQ2 Fiasco: Jeff Bezos Was Jealous of Elon Musk](https://www.bloomberg.com/news/articles/2020-02-03/amazon-s-hq2-fiasco-was-driven-by-bezos-envy-of-elon-musk) (Bloomberg)

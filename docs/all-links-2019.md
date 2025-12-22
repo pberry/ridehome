@@ -179,7 +179,7 @@
 
 **Monday, December 02 2019 - Mon. 12/2**
 
-  * [T-Mobile launches 600MHz 5G across the US, but no one can use it until December 6th](https://www.theverge.com/2019/12/2/20991566/tmobile-nationwide-5g-600mhz-launch-samsung-oneplus?utm_campaign=The Verge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+  * [T-Mobile launches 600MHz 5G across the US, but no one can use it until December 6th](https://www.theverge.com/2019/12/2/20991566/tmobile-nationwide-5g-600mhz-launch-samsung-oneplus?utm_campaign=The%20Verge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
   * [4 new iPhones could have 5G in 2020, but not the same kind of 5G](https://mashable.com/article/iphone-2020-5g-mmwave/) (Mashable)
   * [Google and Facebook run into more trouble over data in Europe](https://www.cnn.com/2019/12/02/tech/google-facebook-data-europe/) (CNN Business)
   * [Driving Innovation in Data Portability with a New Photo Transfer Tool](https://about.fb.com/news/2019/12/data-portability-photo-transfer-tool/) (Facebook Newsroom)
@@ -1640,7 +1640,7 @@
 
 **Friday, February 01 2019 - Fri. 2/1**
 
-  * [Apple restores Google's internal iOS apps after certificate misuse punishment](Apple restores Google’s internal iOS apps after certificate misuse punishment) (TechCrunch)
+  * [Apple restores Google's internal iOS apps after certificate misuse punishment](https://techcrunch.com/2019/01/31/apple-google-internal-apps/) (TechCrunch)
   * [Twitter removed some accounts originating in Iran, Russia and Venezuela that targeted U.S. midterm election](https://www.washingtonpost.com/technology/2019/01/31/twitter-removed-some-accounts-originating-iran-russia-venezuela-that-targeted-us-midterms/?utm_term=.34f86ff04110) (The Washington Post)
   * [Vice Media to Reorganize, Lay Off 10 Percent of Staff (Exclusive)](https://www.hollywoodreporter.com/news/vice-media-reorganize-lay-10-percent-staff-1181785) (The Hollywood Reporter)
   * [Why the Outlook for Digital Media Behemoths is Worse than You Think](https://talkingpointsmemo.com/edblog/why-the-outlook-for-digital-behemoths-is-worse-than-you-think) (Talking Points Memo)
