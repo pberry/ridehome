@@ -1,8 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
 **Friday, December 22 2023 - Fri. 12/22**
 
 * [The Race to Fill Crypto’s FTX-Shaped Hole](https://www.wired.co.uk/article/ftx-new-crypto-exchanges-backpack?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads)

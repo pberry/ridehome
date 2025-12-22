@@ -1,10 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
-
 **Friday, December 27 2019 - Fri. 12/27**
   * [Where Are the Tech Zillionaires? San Francisco Faces the I.P.O. Fizzle](https://www.nytimes.com/2019/12/19/technology/tech-IPO-san-francisco.html) (NYTimes)
   * [Netflix was the best-performing stock of the decade, delivering a more than 4,000% return](https://www.cnbc.com/2019/12/23/netflix-was-the-top-stock-of-the-decade-delivering-over-4000percent-return.html) (CNBC)

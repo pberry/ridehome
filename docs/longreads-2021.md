@@ -1,8 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
 **Wednesday, December 29 2021 - Wed. 12/29**
   * [How Discord, Born From an Obscure Game, Became a Social Hub for Young People](https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html) (NYTimes)
   * [Here’s why streaming services are always duking it out over channels](https://www.theverge.com/2021/12/20/22846634/youtube-tv-disney-streaming-channels-dispute-espn-fx?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)

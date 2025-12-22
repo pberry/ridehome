@@ -1,8 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
 **Friday, December 27 2024 - Fri. 12/27**
 
 * [Video Games Can’t Afford to Look This Good](https://www.nytimes.com/2024/12/26/arts/video-games-graphics-budgets.html?unlocked_article_code=1.kU4.kZgi.GhLcvDdLUkB1)

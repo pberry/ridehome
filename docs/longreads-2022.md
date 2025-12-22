@@ -1,8 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
 **Thursday, December 22 2022 - Thu. 12/22**
 
 * [How TikTok Became a Diplomatic Crisis](https://www.nytimes.com/2022/12/20/magazine/tiktok-us-china-diplomacy.html)

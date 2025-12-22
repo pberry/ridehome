@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Wednesday, December 30 2020 - Wed. 12/30**
 
   * [Apple loses copyright battle against security start-up Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/) (Washington Post)

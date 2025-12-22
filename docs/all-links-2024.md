@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Monday, December 30 2024 - Mon. 12/30**
 
   * [AT&T, Verizon Say Networks Now Clear After Salt Typhoon Hack](https://www.bloomberg.com/news/articles/2024-12-28/at-t-says-its-network-is-now-clear-after-salt-typhoon-hack?sref=Szq5ylDR) (Bloomberg)

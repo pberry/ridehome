@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Wednesday, December 29 2021 - Wed. 12/29**
 
   * [LastPass users warned their master passwords are compromised](https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/) (BleepingComputer)

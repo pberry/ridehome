@@ -1,9 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Wednesday, December 30 2020 - Wed. 12/30**
   * [ The Turing Test is obsolete. It’s time to build a new barometer for AI](https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa) (Fast Company)
   * [ Tech Choices Dictate Teen Friendships During Pandemic](https://www.wsj.com/articles/tech-choices-dictate-teen-friendships-during-pandemic-11609246800?mod=djemalertNEWS) (WSJ)

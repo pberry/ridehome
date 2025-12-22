@@ -1,7 +1,5 @@
 {% include_relative _includes/longreads-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
 **Friday, December 28 2018 - Fri. 12/28**
   * [The Devchat.tv podcasts](https://devchat.tv/)
   * [The GPS wars have begun](https://techcrunch.com/2018/12/21/the-gps-wars-have-begun/) (TechCrunch)

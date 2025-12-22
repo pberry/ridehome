@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Wednesday, December 27 2023 - Wed. 12/27**
 
   * [The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html) (NYTimes)

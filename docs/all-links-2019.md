@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Monday, December 30 2019 - Mon. 12/30**
 
   * [IoT vendor Wyze confirms server leak](https://www.zdnet.com/article/iot-vendor-wyze-confirms-server-leak/) (ZDNet)

@@ -1,9 +1,5 @@
 {% include_relative _includes/showlinks-header.md %}
 
-_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._
-
-
-
 **Friday, December 19 2025 - Fri. 12/19**
 
   * [Scoop: TikTok signs deal for U.S. unit after yearslong saga](https://www.axios.com/2025/12/18/tiktok-sale) (Axios)
