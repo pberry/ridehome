@@ -6,6 +6,16 @@ title: Show Links 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Tuesday, December 23 2025 - Drone Ban**
+
+  * [U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://www.wsj.com/politics/national-security/u-s-bans-new-china-made-drones-sparking-outrage-among-pilots-1624e32a?st=G1UuiY&reflink=desktopwebshare_permalink) (WSJ)
+  * [Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’ ](https://gizmodo.com/pentagon-adds-grok-derived-products-to-something-called-the-ai-arsenal-2000702379)(Gizmodo)
+  * [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/) (MacRumors)
+  * [AI debt boom pushes US corporate bond sales close to record](https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06) (Financial Times)
+  * [A $309 Billion Bet Fuels 24/7 Dollar Banking Without Borders ](https://www.bloomberg.com/news/articles/2025-12-19/the-stablecoin-boom-fuels-24-7-dollar-banking-without-borders)(Bloomberg)
+
+
+
 **Monday, December 22 2025 - Blackouts Take Waymo Out**
 
   * [Waymo resumes robotaxi service in San Francisco after blackout chaos — Musk says Tesla car service unaffected](https://www.cnbc.com/2025/12/21/waymo-robotaxi-san-francisco-blackout.html) (CNBC)
