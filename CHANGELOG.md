@@ -6,7 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.3.0] - 2024-12-23
+
 ### Added
+- **Dark mode theme toggle** - Solarized Dark theme with persistent user preference
+  - **Theme switcher button:** Toggle button in top-right of header (☀️/🌙 icons)
+  - **CSS custom properties:** Complete theme system using CSS variables for runtime theme switching
+  - **Solarized Dark palette:** Authentic dark theme with inverted Solarized colors
+    - Background: Deep blue-black (#002b36)
+    - Secondary background: Dark blue-gray (#073642)
+    - Text: Light gray-blue (#839496)
+    - Links: Same blue/cyan/violet accent colors (optimized for both themes)
+  - **Smooth transitions:** 0.3s color transitions for seamless theme switching
+  - **Persistent preference:** Uses localStorage to remember user's theme choice across sessions
+  - **Accessibility:** Proper ARIA labels, keyboard focus states, respects user preferences
+  - **Implementation files:**
+    - `docs/assets/main.scss` - Theme variables and complete stylesheet (replaces style.scss)
+    - `docs/assets/js/theme-toggle.js` - Vanilla JS theme switcher with no dependencies
+    - `docs/_includes/header.html` - Updated header with toggle button
+  - **No flash of unstyled content:** Theme applied immediately on page load before render
+
 - **Solarized Light theme for GitHub Pages** - Custom visual design replacing default Jekyll styling
   - **Base theme:** minima (clean, technical foundation)
   - **Color scheme:** Solarized Light palette for readability and technical aesthetic
