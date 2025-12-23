@@ -27,22 +27,38 @@ $blue:      #268bd2;
 $cyan:      #2aa198;
 $green:     #859900;
 
+/* WCAG AA Accessible Variants */
+// Light theme - darkened for better contrast
+$base00-accessible: #556873;  // Body text: 5.0:1 (was #657b83: 4.13:1)
+$base01-accessible: #485e6a;  // Headings: 6.2:1 (was #586e75: 4.99:1)
+$blue-accessible:   #1c6fa0;  // Links: 4.8:1 (was #268bd2: 3.41:1)
+$violet-accessible: #5858a8;  // Visited: 4.6:1 (was #6c71c4: 4.06:1)
+
+// Dark theme - lightened for better contrast
+$blue-dark-accessible:   #3ca0e6;  // Links: 4.9:1 (was #268bd2: 4.08:1)
+$violet-dark-accessible: #8989d8;  // Visited: 4.6:1 (was #6c71c4: 3.43:1)
+
+// Focus indicator - high contrast for both themes
+$focus-light: #1c6fa0;  // 4.8:1 on light background
+$focus-dark:  #3ca0e6;  // 4.9:1 on dark background
+
 /* Theme Variables - Light Mode (Default) */
 :root {
   --bg-primary: #{$base3};
   --bg-secondary: #{$base2};
-  --text-primary: #{$base00};
-  --text-secondary: #{$base01};
+  --text-primary: #{$base00-accessible};        // WCAG AA: 5.0:1
+  --text-secondary: #{$base01-accessible};      // WCAG AA: 6.2:1
   --text-tertiary: #{$base0};
   --border-color: #{$base1};
-  --link-color: #{$blue};
+  --link-color: #{$blue-accessible};            // WCAG AA: 4.8:1
   --link-hover: #{$cyan};
-  --link-visited: #{$violet};
+  --link-visited: #{$violet-accessible};        // WCAG AA: 4.6:1
   --link-visited-hover: #{$magenta};
-  --accent-blue: #{$blue};
+  --accent-blue: #{$blue-accessible};
   --accent-cyan: #{$cyan};
   --accent-violet: #{$violet};
   --accent-magenta: #{$magenta};
+  --focus-indicator: #{$focus-light};           // WCAG AA: 4.8:1
 }
 
 /* Theme Variables - Dark Mode */
@@ -53,14 +69,15 @@ $green:     #859900;
   --text-secondary: #{$base1};
   --text-tertiary: #{$base00};
   --border-color: #{$base01};
-  --link-color: #{$blue};
+  --link-color: #{$blue-dark-accessible};       // WCAG AA: 4.9:1
   --link-hover: #{$cyan};
-  --link-visited: #{$violet};
+  --link-visited: #{$violet-dark-accessible};   // WCAG AA: 4.6:1
   --link-visited-hover: #{$magenta};
-  --accent-blue: #{$blue};
+  --accent-blue: #{$blue-dark-accessible};
   --accent-cyan: #{$cyan};
   --accent-violet: #{$violet};
   --accent-magenta: #{$magenta};
+  --focus-indicator: #{$focus-dark};            // WCAG AA: 4.9:1
 }
 
 /* Base Layout */
@@ -268,7 +285,7 @@ li a:visited {
 /* Focus states for accessibility */
 a:focus,
 button:focus {
-  outline: 2px solid var(--accent-blue);
+  outline: 2px solid var(--focus-indicator);
   outline-offset: 2px;
 }
 
@@ -323,4 +340,24 @@ button:focus {
   .theme-toggle:active {
     transform: scale(0.95);
   }
+}
+
+/* Skip Navigation Link */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--accent-blue);
+  color: var(--bg-primary);
+  padding: 8px 12px;
+  text-decoration: none;
+  font-weight: 600;
+  z-index: 1000;
+  border-radius: 0 0 4px 0;
+}
+
+.skip-link:focus {
+  top: 0;
+  outline: 2px solid var(--focus-indicator);
+  outline-offset: 2px;
 }

@@ -24,7 +24,7 @@
     }
   }
 
-  // Update toggle button icon
+  // Update toggle button icon and ARIA state
   function updateToggleButton(theme) {
     const icon = document.querySelector('.theme-toggle-icon');
     if (icon) {
@@ -36,6 +36,8 @@
       button.setAttribute('aria-label',
         theme === THEME_DARK ? 'Switch to light mode' : 'Switch to dark mode'
       );
+      // Add aria-pressed to indicate toggle state
+      button.setAttribute('aria-pressed', theme === THEME_DARK ? 'true' : 'false');
     }
   }
 
