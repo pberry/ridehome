@@ -1,5 +1,9 @@
+<script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
 <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+      <span class="theme-toggle-icon">☀️</span>
+    </button>
   </div>
 </header>
