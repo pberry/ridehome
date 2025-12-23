@@ -6,6 +6,51 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.3.1] - 2025-12-23
+
+### Added
+- **Dynamic status section on homepage** - Auto-updating archive statistics and trends
+  - **Real-time metrics:** Shows last update time, total archived links (showlinks + longreads)
+  - **Top sources:** Displays 3 most-linked sources from last 6 months (Bloomberg, The Verge, WSJ)
+  - **Trending topics:** Shows 3 most common topics from last 6 months using keyword categorization
+    - 11 topic categories: AI/ML, Crypto, Gaming, Hardware/Chips, Security, Regulation, etc.
+    - Keyword-based classification with word boundary matching for accuracy
+  - **Automatic updates:** Status regenerates after every `extract.py` run
+  - **Implementation:**
+    - `status_generator.py` - Database queries, topic categorization, HTML generation
+    - `test_status_generator.py` - 17 comprehensive tests (all passing)
+    - Integration in `extract.py` to update homepage after successful runs
+  - **Visual design:** 3-column responsive grid with cards matching Solarized theme
+
+- **Redesigned homepage navigation** - Modern 3-column grid layout replacing bullet lists
+  - **Recent Content section:** 3 featured cards for 2025 show links, longreads, and wrapped
+    - Large clickable cards with titles and descriptions
+    - Hover effects: 4px lift, animated arrow (→), blue border highlight
+    - Full-width cards provide clear call-to-action
+  - **Archive section:** Organized 3-column layout (Show Links | Longreads | Wrapped)
+    - Consolidated from 2 separate sections (Older Stuff + Wrapped Archive)
+    - Year-based lists (2024-2018) in compact columns
+    - Cyan headings for visual distinction from Recent Content
+    - Subtle hover effects: background highlight + left indent
+  - **Responsive design:**
+    - Desktop: 3 columns side-by-side
+    - Tablet: Stacks to single column
+    - Mobile: Optimized padding and font sizes
+
+### Changed
+- **Homepage structure:** Semantic HTML with proper `<nav>` elements and ARIA labels
+  - `<section class="status-section" aria-labelledby="status-heading">`
+  - `<nav class="recent-nav" aria-labelledby="recent-heading">`
+  - `<nav class="archive-nav" aria-labelledby="archive-heading">`
+  - Maintains WCAG AA accessibility with keyboard navigation and screen reader support
+
+### Technical
+- **CSS additions:** 375+ lines of responsive grid styles in `docs/assets/main.scss`
+  - Status section: 3-column cards with hover effects and numbered lists
+  - Recent nav: Featured cards with animations and pseudo-element arrows
+  - Archive nav: 3-column list layout with background hover states
+  - Full responsive breakpoints for tablet (768px) and mobile (480px)
+
 ### Fixed
 - **WCAG 2.1 Level AA compliance achieved** - Critical accessibility improvements
   - **Color contrast fixes:** All text and links now meet WCAG AA requirements (4.5:1+ ratio)

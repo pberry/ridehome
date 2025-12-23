@@ -16,6 +16,7 @@ from html_parser import find_links_section, find_section
 from file_updater import parse_top_date, find_new_entries, group_entries_by_year, infer_year_from_context
 from db_schema import create_schema
 from db_writer import insert_links
+from status_generator import get_status_data, format_status_section, update_homepage
 
 
 # Configuration for each extraction type
@@ -408,5 +409,27 @@ Examples:
 		process_type(rhfeed.entries, 'showlinks', print_only=False, skip_db=args.skip_db)
 		print("\n=== Processing longreads ===")
 		process_type(rhfeed.entries, 'longreads', print_only=False, skip_db=args.skip_db)
+
+		# Update homepage status section after successful update
+		if not args.skip_db:
+			print("\n=== Updating homepage status ===")
+			try:
+				status_data = get_status_data()
+				status_section = format_status_section(status_data)
+				update_homepage(status_section)
+				print("✓ Homepage status updated")
+			except Exception as e:
+				print(f"⚠ Warning: Failed to update homepage status: {e}")
 	else:
 		process_type(rhfeed.entries, args.type, print_only=args.print, skip_db=args.skip_db)
+
+		# Update homepage status section after successful update (unless in print mode or skip-db)
+		if not args.print and not args.skip_db:
+			print("\n=== Updating homepage status ===")
+			try:
+				status_data = get_status_data()
+				status_section = format_status_section(status_data)
+				update_homepage(status_section)
+				print("✓ Homepage status updated")
+			except Exception as e:
+				print(f"⚠ Warning: Failed to update homepage status: {e}")

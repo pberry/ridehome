@@ -361,3 +361,378 @@ button:focus {
   outline: 2px solid var(--focus-indicator);
   outline-offset: 2px;
 }
+
+/* ========================================
+   Status Section - 3-Column Responsive Grid
+   ======================================== */
+
+.status-section {
+  background-color: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 2em 0;
+}
+
+.status-section h2 {
+  margin-top: 0;
+  border-bottom: none;
+  color: var(--text-secondary);
+  font-size: 1.75em;
+}
+
+.status-updated {
+  color: var(--text-tertiary);
+  font-size: 0.9em;
+  margin: 0.5em 0 1.5em 0;
+  font-style: italic;
+}
+
+.status-updated time {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* 3-Column Grid Layout */
+.status-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5em;
+  margin-top: 1.5em;
+}
+
+/* Individual Status Cards */
+.status-card {
+  background-color: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 1.25em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.status-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.status-card h3 {
+  margin-top: 0;
+  margin-bottom: 1em;
+  font-size: 1.1em;
+  color: var(--accent-blue);
+  border-bottom: 2px solid var(--accent-blue);
+  padding-bottom: 0.5em;
+}
+
+.stat-period {
+  font-size: 0.75em;
+  color: var(--text-tertiary);
+  font-weight: 400;
+}
+
+/* Status Lists */
+.status-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1.8;
+}
+
+.status-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5em 0;
+  border-bottom: 1px solid rgba($base1, 0.2);
+  margin-bottom: 0;
+}
+
+.status-list li:last-child {
+  border-bottom: none;
+}
+
+/* Ordered list numbers */
+.status-card ol.status-list {
+  counter-reset: stat-counter;
+}
+
+.status-card ol.status-list li {
+  counter-increment: stat-counter;
+  position: relative;
+  padding-left: 2em;
+}
+
+.status-card ol.status-list li::before {
+  content: counter(stat-counter) ".";
+  position: absolute;
+  left: 0;
+  color: var(--accent-cyan);
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+/* Stat Labels and Values */
+.stat-label {
+  color: var(--text-primary);
+  font-weight: 500;
+  flex: 1;
+}
+
+.stat-value {
+  color: var(--text-secondary);
+  font-weight: 600;
+  white-space: nowrap;
+  margin-left: 0.5em;
+}
+
+.stat-number {
+  font-size: 1.3em;
+  color: var(--accent-blue);
+  font-weight: 700;
+}
+
+/* Responsive: Tablet (2 columns) */
+@media screen and (max-width: 768px) {
+  .status-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25em;
+  }
+
+  .status-card:last-child {
+    grid-column: 1 / -1;
+  }
+}
+
+/* Responsive: Mobile (1 column) */
+@media screen and (max-width: 480px) {
+  .status-section {
+    padding: 1em;
+    margin: 1.5em 0;
+  }
+
+  .status-section h2 {
+    font-size: 1.5em;
+  }
+
+  .status-grid {
+    grid-template-columns: 1fr;
+    gap: 1em;
+  }
+
+  .status-card {
+    padding: 1em;
+  }
+
+  .status-card h3 {
+    font-size: 1em;
+  }
+
+  .status-list li {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25em;
+  }
+
+  .stat-value {
+    margin-left: 0;
+  }
+}
+
+/* ========================================
+   Recent Content - 3-Column Featured Grid
+   ======================================== */
+
+.recent-nav {
+  margin: 3em 0;
+}
+
+.recent-nav h2 {
+  color: var(--text-secondary);
+  font-size: 1.75em;
+  margin-bottom: 1em;
+}
+
+.nav-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5em;
+}
+
+.nav-card {
+  display: block;
+  background-color: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5em;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.nav-card::after {
+  content: "→";
+  position: absolute;
+  top: 1.5em;
+  right: 1.5em;
+  font-size: 1.5em;
+  color: var(--accent-blue);
+  opacity: 0;
+  transition: all 0.2s ease;
+}
+
+.nav-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  border-color: var(--accent-blue);
+}
+
+.nav-card:hover::after {
+  opacity: 1;
+  right: 1.25em;
+}
+
+.nav-card h3 {
+  color: var(--accent-blue);
+  font-size: 1.3em;
+  margin: 0 0 0.5em 0;
+  transition: color 0.2s ease;
+}
+
+.nav-card:hover h3 {
+  color: var(--link-hover);
+}
+
+.nav-description {
+  color: var(--text-primary);
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Responsive: Tablet */
+@media screen and (max-width: 768px) {
+  .nav-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25em;
+  }
+
+  .nav-card::after {
+    top: 1.25em;
+    right: 1.25em;
+  }
+}
+
+/* Responsive: Mobile */
+@media screen and (max-width: 480px) {
+  .recent-nav {
+    margin: 2em 0;
+  }
+
+  .recent-nav h2 {
+    font-size: 1.5em;
+  }
+
+  .nav-card {
+    padding: 1.25em;
+  }
+
+  .nav-card h3 {
+    font-size: 1.15em;
+  }
+
+  .nav-description {
+    font-size: 0.9em;
+  }
+}
+
+/* ========================================
+   Archive - 3-Column List Grid
+   ======================================== */
+
+.archive-nav {
+  margin: 3em 0;
+}
+
+.archive-nav h2 {
+  color: var(--text-secondary);
+  font-size: 1.75em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid var(--bg-secondary);
+  padding-bottom: 0.3em;
+}
+
+.archive-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2em;
+}
+
+.archive-column {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 1.25em;
+}
+
+.archive-column h3 {
+  color: var(--accent-cyan);
+  font-size: 1.1em;
+  margin: 0 0 0.75em 0;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--accent-cyan);
+}
+
+.archive-column ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.archive-column li {
+  margin-bottom: 0.6em;
+}
+
+.archive-column li:last-child {
+  margin-bottom: 0;
+}
+
+.archive-column a {
+  display: block;
+  padding: 0.4em 0.75em;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.archive-column a:hover {
+  background-color: var(--bg-primary);
+  padding-left: 1em;
+}
+
+/* Responsive: Tablet */
+@media screen and (max-width: 768px) {
+  .archive-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+  }
+}
+
+/* Responsive: Mobile */
+@media screen and (max-width: 480px) {
+  .archive-nav {
+    margin: 2em 0;
+  }
+
+  .archive-nav h2 {
+    font-size: 1.5em;
+  }
+
+  .archive-column {
+    padding: 1em;
+  }
+
+  .archive-column h3 {
+    font-size: 1em;
+  }
+}
