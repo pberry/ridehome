@@ -1,3 +1,7 @@
+---
+title: Show Links 2023
+---
+
 {% include_relative _includes/showlinks-header.md %}
 
 **Wednesday, December 27 2023 - Wed. 12/27**

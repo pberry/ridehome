@@ -1,3 +1,7 @@
+---
+title: Weekend Longreads 2018
+---
+
 {% include_relative _includes/longreads-header.md %}
 
 **Friday, December 28 2018 - Fri. 12/28**

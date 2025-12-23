@@ -1,3 +1,7 @@
+---
+title: Show Links 2018
+---
+
 {% include_relative _includes/showlinks-header.md %}
 
 **Friday, December 28 2018 - Fri. 12/28**

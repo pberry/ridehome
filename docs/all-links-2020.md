@@ -1,3 +1,7 @@
+---
+title: Show Links 2020
+---
+
 {% include_relative _includes/showlinks-header.md %}
 
 **Wednesday, December 30 2020 - Wed. 12/30**

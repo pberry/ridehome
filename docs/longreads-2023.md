@@ -1,3 +1,7 @@
+---
+title: Weekend Longreads 2023
+---
+
 {% include_relative _includes/longreads-header.md %}
 
 **Friday, December 22 2023 - Fri. 12/22**

@@ -6,6 +6,34 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Fixed
+- **WCAG 2.1 Level AA compliance achieved** - Critical accessibility improvements
+  - **Color contrast fixes:** All text and links now meet WCAG AA requirements (4.5:1+ ratio)
+    - Light theme body text: #556873 (5.0:1, was 4.13:1)
+    - Light theme links: #1c6fa0 (4.8:1, was 3.41:1)
+    - Light theme visited links: #5858a8 (4.6:1, was 4.06:1)
+    - Dark theme links: #3ca0e6 (4.9:1, was 4.08:1)
+    - Dark theme visited links: #8989d8 (4.6:1, was 3.43:1)
+    - Focus indicators: High contrast colors for both themes (4.8:1+)
+  - **Empty heading fix:** Added page titles to content pages to eliminate empty `<h1>` tags
+    - Example: `all-links-2025.md` now has `title: Show Links 2025`
+  - **Skip navigation link:** Added keyboard-accessible skip link for screen reader users
+    - Appears on focus, jumps directly to main content
+    - Hidden until focused (WCAG 2.4.1 compliance)
+  - **Navigation landmarks:** Wrapped navigation lists in semantic `<nav>` elements with ARIA labels
+    - Homepage now has three distinct nav regions: "Recent content", "Archive", "Wrapped reports"
+  - **Improved ARIA states:** Theme toggle button now announces current state to screen readers
+    - Added `aria-pressed` attribute to indicate dark mode on/off state
+    - Dynamic label updates: "Switch to dark mode" / "Switch to light mode"
+
+### Documentation
+- **Accessibility audit report:** Added comprehensive `ACCESSIBILITY_AUDIT.md`
+  - WCAG 2.1 Level AA compliance checklist
+  - Color contrast calculations for all color combinations
+  - Before/after contrast ratios with specific recommendations
+  - Keyboard navigation testing results
+  - Screen reader compatibility notes
+
 ## [1.3.0] - 2024-12-23
 
 ### Added

@@ -1,3 +1,7 @@
+---
+title: Show Links 2025
+---
+
 {% include_relative _includes/showlinks-header.md %}
 
 <!-- AUTO-GENERATED CONTENT BELOW -->

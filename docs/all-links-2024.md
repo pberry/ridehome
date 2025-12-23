@@ -1,3 +1,7 @@
+---
+title: Show Links 2024
+---
+
 {% include_relative _includes/showlinks-header.md %}
 
 **Monday, December 30 2024 - Mon. 12/30**

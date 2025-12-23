@@ -1,3 +1,7 @@
+---
+title: Weekend Longreads 2021
+---
+
 {% include_relative _includes/longreads-header.md %}
 
 **Wednesday, December 29 2021 - Wed. 12/29**

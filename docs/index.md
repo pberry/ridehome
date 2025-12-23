@@ -1,13 +1,19 @@
 
 [The Ride Home](https://www.ridehome.info/show/techmeme-ride-home/) now has a proper web site and [RSS feed](https://rss.art19.com/techmeme-ridehome).
 
-**Recent Stuff**
+<nav aria-label="Recent content" markdown="1">
+
+## Recent Stuff
 
 * [Show Links by Day 2025](all-links-2025.md)
 * [Long reads 2025](longreads-2025.md)
 * [2025 Wrapped](2025-wrapped.md)
 
-**Older Stuff**
+</nav>
+
+<nav aria-label="Archive" markdown="1">
+
+## Older Stuff
 
 * [Show Links by Day 2024](all-links-2024.md)
 * [Show Links by Day 2023](all-links-2023.md)
@@ -26,7 +32,11 @@
 * [Long reads Pre 2022](longreads.md)
 * [Coronavirus Morning report](coronavirus-daily-briefing.md)
 
-**Wrapped Archive**
+</nav>
+
+<nav aria-label="Wrapped reports" markdown="1">
+
+## Wrapped Archive
 
 * [2024](2024-wrapped.md)
 * [2023](2023-wrapped.md)
@@ -35,5 +45,7 @@
 * [2020](2020-wrapped.md)
 * [2019](2019-wrapped.md)
 * [2018](2018-wrapped.md)
+
+</nav>
 
 
