@@ -1,3 +1,7 @@
+---
+title: Weekend Longreads 2024
+---
+
 {% include_relative _includes/longreads-header.md %}
 
 **Friday, December 27 2024 - Fri. 12/27**

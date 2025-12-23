@@ -1,3 +1,7 @@
+---
+title: Weekend Longreads 2022
+---
+
 {% include_relative _includes/longreads-header.md %}
 
 **Thursday, December 22 2022 - Thu. 12/22**

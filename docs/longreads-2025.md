@@ -1,3 +1,7 @@
+---
+title: Weekend Longreads 2025
+---
+
 {% include_relative _includes/longreads-header.md %}
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
