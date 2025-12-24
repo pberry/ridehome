@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Fixed
+- **Homepage navigation links** - Changed all links from `.md` to `.html` extensions
+  - Jekyll serves markdown files as `.html`, so navigation links must use `.html` extension
+  - Fixed in: Recent Content section (2025 links), Archive section (all years 2018-2024), Wrapped archive (2018-2024)
+  - Affects: `docs/index.md` lines 43-96 (all `href` attributes)
+
 ## [1.3.1] - 2025-12-23
 
 ### Added

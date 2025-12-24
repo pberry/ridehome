@@ -40,15 +40,15 @@
 <nav class="recent-nav" aria-labelledby="recent-heading">
   <h2 id="recent-heading">Recent Content</h2>
   <div class="nav-grid">
-    <a href="all-links-2025.md" class="nav-card">
+    <a href="all-links-2025.html" class="nav-card">
       <h3>Show Links 2025</h3>
       <p class="nav-description">Daily tech news links from The Ride Home podcast</p>
     </a>
-    <a href="longreads-2025.md" class="nav-card">
+    <a href="longreads-2025.html" class="nav-card">
       <h3>Longreads 2025</h3>
       <p class="nav-description">Weekend reading recommendations from Friday episodes</p>
     </a>
-    <a href="2025-wrapped.md" class="nav-card">
+    <a href="2025-wrapped.html" class="nav-card">
       <h3>2025 Wrapped</h3>
       <p class="nav-description">Year in review with top sources and topics</p>
     </a>
@@ -61,39 +61,39 @@
     <div class="archive-column">
       <h3>Show Links</h3>
       <ul>
-        <li><a href="all-links-2024.md">2024</a></li>
-        <li><a href="all-links-2023.md">2023</a></li>
-        <li><a href="all-links-2022.md">2022</a></li>
-        <li><a href="all-links-2021.md">2021</a></li>
-        <li><a href="all-links-2020.md">2020</a></li>
-        <li><a href="all-links-2019.md">2019</a></li>
-        <li><a href="all-links-2018.md">2018</a></li>
+        <li><a href="all-links-2024.html">2024</a></li>
+        <li><a href="all-links-2023.html">2023</a></li>
+        <li><a href="all-links-2022.html">2022</a></li>
+        <li><a href="all-links-2021.html">2021</a></li>
+        <li><a href="all-links-2020.html">2020</a></li>
+        <li><a href="all-links-2019.html">2019</a></li>
+        <li><a href="all-links-2018.html">2018</a></li>
       </ul>
     </div>
     <div class="archive-column">
       <h3>Longreads</h3>
       <ul>
-        <li><a href="longreads-2024.md">2024</a></li>
-        <li><a href="longreads-2023.md">2023</a></li>
-        <li><a href="longreads-2022.md">2022</a></li>
-        <li><a href="longreads-2021.md">2021</a></li>
-        <li><a href="longreads-2020.md">2020</a></li>
-        <li><a href="longreads-2019.md">2019</a></li>
-        <li><a href="longreads-2018.md">2018</a></li>
-        <li><a href="longreads.md">Pre-2018</a></li>
-        <li><a href="coronavirus-daily-briefing.md">COVID-19 Archive</a></li>
+        <li><a href="longreads-2024.html">2024</a></li>
+        <li><a href="longreads-2023.html">2023</a></li>
+        <li><a href="longreads-2022.html">2022</a></li>
+        <li><a href="longreads-2021.html">2021</a></li>
+        <li><a href="longreads-2020.html">2020</a></li>
+        <li><a href="longreads-2019.html">2019</a></li>
+        <li><a href="longreads-2018.html">2018</a></li>
+        <li><a href="longreads.html">Pre-2018</a></li>
+        <li><a href="coronavirus-daily-briefing.html">COVID-19 Archive</a></li>
       </ul>
     </div>
     <div class="archive-column">
       <h3>Wrapped</h3>
       <ul>
-        <li><a href="2024-wrapped.md">2024</a></li>
-        <li><a href="2023-wrapped.md">2023</a></li>
-        <li><a href="2022-wrapped.md">2022</a></li>
-        <li><a href="2021-wrapped.md">2021</a></li>
-        <li><a href="2020-wrapped.md">2020</a></li>
-        <li><a href="2019-wrapped.md">2019</a></li>
-        <li><a href="2018-wrapped.md">2018</a></li>
+        <li><a href="2024-wrapped.html">2024</a></li>
+        <li><a href="2023-wrapped.html">2023</a></li>
+        <li><a href="2022-wrapped.html">2022</a></li>
+        <li><a href="2021-wrapped.html">2021</a></li>
+        <li><a href="2020-wrapped.html">2020</a></li>
+        <li><a href="2019-wrapped.html">2019</a></li>
+        <li><a href="2018-wrapped.html">2018</a></li>
       </ul>
     </div>
   </div>
