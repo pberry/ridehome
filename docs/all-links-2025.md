@@ -6,6 +6,16 @@ title: Show Links 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Wednesday, December 24 2025 - New Tech Trade War**
+
+  * [US bars five Europeans it says pressured tech firms to censor American viewpoints online](https://apnews.com/article/state-department-trump-immigration-rubio-visas-87c8a4692f3184e4f83fdd8ed5093886) (AP)
+  * [OpenAI’s Ads Push Starts Taking Shape](https://www.theinformation.com/articles/openais-ads-push-starts-taking-shape?utm_campaign=article_email&utm_content=article-16306&utm_medium=email&utm_source=sg&rc=i9gkgs) (The Information)
+  * [AST SpaceMobile Launches Biggest Satellite to Challenge SpaceX](https://www.bloomberg.com/news/articles/2025-12-24/ast-spacemobile-launches-biggest-satellite-to-challenge-spacex) (Bloomberg)
+  * [Bitcoin Miners Thrive Off a New Side Hustle: Retooling Their Data Centers for AI](https://www.wsj.com/tech/ai/bitcoin-miners-thrive-off-a-new-side-hustle-retooling-their-data-centers-for-ai-bdc408a9?st=gVmN5m&reflink=desktopwebshare_permalink) (WSJ)
+  * [YouTube Has a Firm Grip on Daytime TV](https://www.nytimes.com/2025/12/23/business/media/youtube-has-a-firm-grip-on-daytime-tv.html?unlocked_article_code=1._E8.OkVe.QXcnwmsajwuM&smid=url-share) (NYTimes)
+
+
+
 **Tuesday, December 23 2025 - Drone Ban**
 
   * [U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://www.wsj.com/politics/national-security/u-s-bans-new-china-made-drones-sparking-outrage-among-pilots-1624e32a?st=G1UuiY&reflink=desktopwebshare_permalink) (WSJ)
