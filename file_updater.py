@@ -108,16 +108,16 @@ def _parse_date_string(date_str, entry_type, year_context=None):
 
         # Try without year (old format)
         try:
-            # Parse without year
-            dt_partial = datetime.strptime(date_str, "%A, %B %d")
-
-            # Use year_context or infer from current year
+            # Determine which year to use
             if year_context is not None:
                 year = year_context
             else:
                 year = datetime.now().year
 
-            dt = dt_partial.replace(year=year)
+            # Parse with year added to avoid Python 3.15 deprecation warning
+            # See: https://github.com/python/cpython/issues/70647
+            date_with_year = f"{date_str} {year}"
+            dt = datetime.strptime(date_with_year, "%A, %B %d %Y")
             return dt
         except ValueError as e:
             print(f"Error parsing longreads date '{date_str}': {e}")

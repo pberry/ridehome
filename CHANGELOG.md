@@ -9,8 +9,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Fixed
 - **Homepage navigation links** - Changed all links from `.md` to `.html` extensions
   - Jekyll serves markdown files as `.html`, so navigation links must use `.html` extension
-  - Fixed in: Recent Content section (2025 links), Archive section (all years 2018-2024), Wrapped archive (2018-2024)
+  - Fixed in: Recent Content section (2025 links), Archive section (all years 2024-2018), Wrapped archive (2024-2018)
   - Affects: `docs/index.md` lines 43-96 (all `href` attributes)
+
+- **Python 3.15 deprecation warning** - Fixed date parsing in `file_updater.py:112`
+  - Changed from parsing without year (`"%A, %B %d"`) to adding year before parsing
+  - Avoids ambiguous leap day parsing and upcoming behavior change in Python 3.15
+  - Reference: https://github.com/python/cpython/issues/70647
+  - All 16 tests still pass
 
 ## [1.3.1] - 2025-12-23
 
