@@ -1,0 +1,47 @@
+# Git files
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Testing
+test_*.py
+tests/
+trash/
+
+# Documentation (not needed in container)
+*.md
+!docs/_includes/*.md
+
+# Database files (not needed in container)
+*.db
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+docs/*.md
+!docs/_includes/
+docs/20*.md
+
+# GCP files not needed in container
+gcp/*.sh
+gcp/*.md
