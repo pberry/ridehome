@@ -10,6 +10,7 @@ Generate status section for homepage showing:
 import sqlite3
 import re
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 from collections import Counter
 
 
@@ -154,15 +155,19 @@ def get_status_data(db_path='ridehome.db'):
     conn.close()
 
     # Parse last run time
+    # SQLite stores timestamps in UTC, convert to Pacific timezone
+    pacific_tz = ZoneInfo("America/Los_Angeles")
     if last_run_str:
         try:
-            # SQLite CURRENT_TIMESTAMP format: "YYYY-MM-DD HH:MM:SS"
-            last_run = datetime.strptime(last_run_str, "%Y-%m-%d %H:%M:%S")
+            # SQLite CURRENT_TIMESTAMP format: "YYYY-MM-DD HH:MM:SS" (UTC)
+            last_run_utc = datetime.strptime(last_run_str, "%Y-%m-%d %H:%M:%S")
+            # Make timezone-aware as UTC, then convert to Pacific
+            last_run = last_run_utc.replace(tzinfo=ZoneInfo("UTC")).astimezone(pacific_tz)
         except ValueError:
             # Fallback if format is different
-            last_run = datetime.now()
+            last_run = datetime.now(pacific_tz)
     else:
-        last_run = datetime.now()
+        last_run = datetime.now(pacific_tz)
 
     return {
         'last_run': last_run,
@@ -183,7 +188,7 @@ def format_status_section(status_data):
     Returns:
         str: HTML formatted status section with semantic markup and accessibility
     """
-    last_run = status_data['last_run'].strftime("%B %d, %Y at %I:%M %p")
+    last_run = status_data['last_run'].strftime("%B %d, %Y at %I:%M %p %Z")
 
     # Build source list
     sources_html = ""

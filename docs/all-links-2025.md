@@ -6,6 +6,16 @@ title: Show Links 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Monday, December 29 2025 - Nvidia Kindacquires Groq**
+
+  * [Nvidia Reaches Technology Licensing Deal With Startup Groq](https://www.bloomberg.com/news/articles/2025-12-24/nvidia-reaches-licensing-deal-with-chip-startup-groq) (Bloomberg)
+  * [Why Nvidia Struck a $20 Billion Megadeal with Groq](https://www.theinformation.com/articles/nvidia-struck-20-billion-megadeal-groq?rc=i9gkgs) (The Information)
+  * [Samsung brings Google Photos to the biggest screen in your home](https://www.androidpolice.com/samsung-brings-google-photos-biggest-screen-home/) (AndroidPolice)
+  * [Accounting body scraps remote exams to combat cheating](https://www.ft.com/content/52e70f3e-d0e8-462c-8ac1-f08a684dfca2) (Financial Times)
+  * [Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?st=6fsdG7&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Wednesday, December 24 2025 - New Tech Trade War**
 
   * [US bars five Europeans it says pressured tech firms to censor American viewpoints online](https://apnews.com/article/state-department-trump-immigration-rubio-visas-87c8a4692f3184e4f83fdd8ed5093886) (AP)

@@ -7,6 +7,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Fixed
+- **Status generator timezone display** - Changed "Last Updated" time to use Pacific timezone
+  - SQLite stores timestamps in UTC, now properly converts to Pacific (America/Los_Angeles)
+  - Displays timezone abbreviation (PST/PDT) in human-readable format
+  - ISO datetime attribute includes correct timezone offset (e.g., `-08:00` for PST)
+  - Uses Python 3.9+ `zoneinfo` module for timezone handling
+  - Affects: `status_generator.py` lines 13, 159-170, 191
+
 - **Homepage navigation links** - Changed all links from `.md` to `.html` extensions
   - Jekyll serves markdown files as `.html`, so navigation links must use `.html` extension
   - Fixed in: Recent Content section (2025 links), Archive section (all years 2024-2018), Wrapped archive (2024-2018)
