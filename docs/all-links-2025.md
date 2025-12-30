@@ -6,6 +6,17 @@ title: Show Links 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Tuesday, December 30 2025 - The End Of Year M&A Rush**
+
+  * [Meta to Buy Manus, an AI Startup With Chinese Roots](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business) (Bloomberg)
+  * [After a Year of Blistering Growth, AI Chip Makers Get Ready for Bigger 2026](https://www.wsj.com/tech/ai/after-a-year-of-blistering-growth-ai-chip-makers-get-ready-for-bigger-2026-d9f62dbd?st=RVHQU9&reflink=desktopwebshare_permalink) (WSJ)
+  * [AI start-ups amass record $150bn funding cushion as bubble fears mount](https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f) (WSJ)
+  * [Microsoft’s Nadella overhauls leadership as he plots AI strategy beyond OpenAI](https://www.ft.com/content/255dbecc-5c57-4928-824f-b3f2d764f635?utm_social_post_id=637360091&utm_social_handle_id=10977192) (FT)
+  * [Waymo and Other Driverless Taxis Move Into a New Era](https://www.bloomberg.com/news/newsletters/2025-12-29/waymo-tesla-driverless-taxis-are-testing-technology-and-business-models) (Bloomberg)
+  * [Listen to This: Some Audiobooks Are Outselling Hardcovers](https://www.wsj.com/tech/personal-tech/listen-to-this-some-audiobooks-are-outselling-hardcovers-179ed593?st=ryAPTh&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Monday, December 29 2025 - Nvidia Kindacquires Groq**
 
   * [Nvidia Reaches Technology Licensing Deal With Startup Groq](https://www.bloomberg.com/news/articles/2025-12-24/nvidia-reaches-licensing-deal-with-chip-startup-groq) (Bloomberg)

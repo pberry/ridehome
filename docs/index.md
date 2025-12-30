@@ -5,13 +5,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2025-12-29T15:21:45-08:00">December 29, 2025 at 03:21 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2025-12-30T09:43:54-08:00">December 30, 2025 at 09:43 AM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,080</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,086</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,736</span></li>
       </ul>
     </div>
@@ -19,18 +19,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(113 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(85 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(66 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(308 links)</span></li>
-        <li><span class="stat-label">Other Tech News</span> <span class="stat-value">(215 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(76 links)</span></li>
+        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(311 links)</span></li>
+        <li><span class="stat-label">Other Tech News</span> <span class="stat-value">(216 links)</span></li>
+        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
   </div>
