@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.3.2] - 2025-12-31
+
 ### Fixed
 - **Status generator timezone display** - Changed "Last Updated" time to use Pacific timezone
   - SQLite stores timestamps in UTC, now properly converts to Pacific (America/Los_Angeles)
