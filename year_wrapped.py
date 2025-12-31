@@ -240,7 +240,7 @@ def generate_markdown_report(stats):
     avg_daily = daily_links / daily_dates if daily_dates > 0 else 0
     avg_longreads = longreads_links / longreads_dates if longreads_dates > 0 else 0
 
-    md = f"""{{% include_relative _includes/wrapped-header.md %}}
+    md = f"""{{% include_relative _includes/wrapped-header.md year="{year}" %}}
 
 ---
 

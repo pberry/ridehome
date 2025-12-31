@@ -1,4 +1,4 @@
-## Year-End Wrapped from The Ride Home Podcast
+## {{ include.year }} Year-End Wrapped from The Ride Home Podcast
 
 _A year in tech news, curated daily by [The Ride Home podcast](https://www.ridehome.info/podcast/techmeme-ride-home/)_
 
