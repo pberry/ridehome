@@ -25,6 +25,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - Reference: https://github.com/python/cpython/issues/70647
   - All 16 tests still pass
 
+- **Longreads date parsing with suffix** - Fixed parsing of dates with abbreviated suffix format
+  - Longreads dates include suffix like `Friday, December 12 2025 - Fri. 12/12`
+  - Parser was failing because suffix contained `/` character, triggering file path detection logic
+  - **Root causes:**
+    1. Suffix ` - Fri. 12/12` wasn't being stripped before date parsing
+    2. File path detection too simple: presence of `/` incorrectly identified date strings as file paths
+  - **Fixes applied:**
+    1. Centralized suffix stripping logic for both showlinks and longreads (DRY principle)
+    2. Improved file path detection: checks for `.md` extension OR (`/` AND not starting with `**`)
+  - Added test: `test_parses_longreads_with_year_and_suffix`
+  - All 17 file_updater tests + 12 html_parser tests pass (29/29)
+  - Resolves: `./extract.py --type longreads` now works correctly
+
 ## [1.3.1] - 2025-12-23
 
 ### Added

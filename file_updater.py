@@ -24,8 +24,14 @@ def parse_top_date(input_str, entry_type='showlinks', year_context=None):
     Returns:
         datetime object or None if no valid date found
     """
-    # Check if input looks like a file path (contains / or ends with .md)
-    if '/' in input_str or input_str.endswith('.md'):
+    # Check if input looks like a file path
+    # Date strings may contain / in abbreviated dates (e.g., "12/12"), so check more carefully
+    is_file_path = (
+        input_str.endswith('.md') or
+        (('/' in input_str or '\\' in input_str) and not input_str.startswith('**'))
+    )
+
+    if is_file_path:
         # Try as file path
         if os.path.isfile(input_str):
             return _parse_top_date_from_file(input_str, entry_type, year_context)
@@ -76,20 +82,17 @@ def _parse_date_string(date_str, entry_type, year_context=None):
     # Remove ** markers
     date_str = date_str.strip('*').strip()
 
-    if entry_type == 'showlinks':
-        # Format: "Monday, December 08 2025 - Title"
-        # Extract date part before the dash
-        if ' - ' in date_str:
-            date_part = date_str.split(' - ')[0].strip()
-        else:
-            date_part = date_str.strip()
+    # Strip suffix after ' - ' (e.g., " - Title" or " - Fri. 12/12")
+    if ' - ' in date_str:
+        date_str = date_str.split(' - ')[0].strip()
 
-        # Parse: "Monday, December 08 2025"
+    if entry_type == 'showlinks':
+        # Format: "Monday, December 08 2025"
         try:
-            dt = datetime.strptime(date_part, "%A, %B %d %Y")
+            dt = datetime.strptime(date_str, "%A, %B %d %Y")
             return dt
         except ValueError as e:
-            print(f"Error parsing showlinks date '{date_part}': {e}")
+            print(f"Error parsing showlinks date '{date_str}': {e}")
             return None
 
     elif entry_type == 'longreads':

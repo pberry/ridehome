@@ -58,6 +58,17 @@ class TestParseDateLongreads(unittest.TestCase):
         self.assertEqual(result.month, 12)
         self.assertEqual(result.day, 5)
 
+    def test_parses_longreads_with_year_and_suffix(self):
+        """Given longreads format with year and abbreviated date suffix, should extract datetime"""
+        date_str = "**Friday, December 12 2025 - Fri. 12/12**"
+
+        result = parse_top_date(date_str, entry_type='longreads')
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.year, 2025)
+        self.assertEqual(result.month, 12)
+        self.assertEqual(result.day, 12)
+
 
 class TestParseTopDateFromFile(unittest.TestCase):
     """Test parsing top date from actual markdown files"""
