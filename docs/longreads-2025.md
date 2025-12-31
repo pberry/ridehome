@@ -6,6 +6,23 @@ title: Weekend Longreads 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Wednesday, December 31 2025**
+  * [2025 letter](https://zhengdongwang.com/2025/12/30/2025-letter.html) (Zhengdong Wang)
+
+
+
+**Wednesday, December 24 2025**
+  * [The Hottest Toy of the Year Is Made by a Tech Startup You’ve Never Heard Of](https://www.wsj.com/business/entrepreneurship/nex-playground-toy-game-console-holiday-shopping-af47125f?st=AJJR5m&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
+**Friday, December 19 2025**
+  * [Inside Mark Zuckerberg’s turbulent bet on AI](https://www.ft.com/content/cd3c6867-2f73-417d-a299-fb91a57bfe08?accessToken=zwAGRh_-e0VwkdPNPGhnL3NBfdOimfuRpXv-CA.MEUCIEqRfFo_Q5VWADnHpabxvVqFHUC3QjI4MjD8iwN4WljgAiEAiU49WPyz1pVXJ_38zMa5Fv_bpYnlZf6Cz-SM3aX2Bvg&sharetype=gift&token=9f2bf9e2-bfd6-41fe-98ac-99cfa4af378f) (FT)
+  * [Economics of Orbital vs Terrestrial Data Centers](https://andrewmccalip.com/space-datacenters) (Andrew McCalip)
+  * [Feeding the Machine](https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies) (The Verge)
+
+
+
 **Friday, December 12 2025 - Fri. 12/12**
 
 * [Want This Hearing Aid? Well, Who Do You Know?](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)

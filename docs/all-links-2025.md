@@ -6,6 +6,17 @@ title: Show Links 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Wednesday, December 31 2025 - Manus, The Hands Of Fate**
+
+  * [How Meta’s Newest Acquisition Target Got Around Worries Over Its Ties to China](https://www.wsj.com/tech/ai/how-metas-newest-acquisition-target-got-around-worries-over-its-ties-to-china-de2d24b6?st=tJxQot&reflink=desktopwebshare_permalink) (WSJ)
+  * [Manus: The Hands of AI Fate](https://spyglass.org/meta-manus-deal/) (Spyglass)
+  * [Musk’s xAI Buys Building to Expand ‘Colossus’ Data Center](https://www.bloomberg.com/news/articles/2025-12-30/musk-s-xai-to-expand-colossus-data-center-information-reports) (Bloomberg)
+  * [OpenAI Is Paying Employees More Than Any Major Tech Startup in History](https://www.wsj.com/tech/ai/openai-is-paying-employees-more-than-any-major-tech-startup-in-history-23472527?st=TtSPxX&reflink=article_copyURL_share) (WSJ)
+  * [AI Trade’s Next Leg Is All About Tech’s ‘Pick-and-Shovel’ Stocks ](https://www.bloomberg.com/news/articles/2025-12-30/ai-trade-s-next-leg-is-all-about-tech-s-pick-and-shovel-stocks)(Bloomberg)
+  * [Samsung’s First Trifold Phone Is Expensive and Half-Baked](https://www.bloomberg.com/news/features/2025-12-30/galaxy-z-trifold-review-samsung-s-new-phone-has-price-usability-issues) (Bloomberg)
+
+
+
 **Tuesday, December 30 2025 - The End Of Year M&A Rush**
 
   * [Meta to Buy Manus, an AI Startup With Chinese Roots](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business) (Bloomberg)
