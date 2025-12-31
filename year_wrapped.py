@@ -240,9 +240,7 @@ def generate_markdown_report(stats):
     avg_daily = daily_links / daily_dates if daily_dates > 0 else 0
     avg_longreads = longreads_links / longreads_dates if longreads_dates > 0 else 0
 
-    md = f"""# 🎧 The Ride Home - {year} Wrapped
-
-_A year in tech news, curated daily by [The Ride Home podcast](https://www.ridehome.info/podcast/techmeme-ride-home/)_
+    md = f"""{{% include_relative _includes/wrapped-header.md %}}
 
 ---
 
