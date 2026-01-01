@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+- **Category pages for AI-categorized links** - Browse all links by topic
+  - New `generate_category_pages.py` script generates static pages for all 12 categories
+  - Each category page organized by year (h2) → month (h3) → links (bullets)
+  - Links sorted newest-first (blog style: December → January, latest dates first)
+  - Jekyll-compatible markdown with front matter and header includes
+  - Output: `docs/categories/[category-slug].md` (e.g., `ai-machine-learning.md`)
+  - Coverage: 13,833 categorized links across 12 categories
+  - Test-driven development: 10 tests covering slug generation, database queries, markdown formatting
+  - Categories: AI/ML (1,809), Hardware/Chips (2,396), Other Tech News (1,988), Regulation/Policy (1,371), Social Media (1,195), Security/Privacy (987), Streaming/Entertainment (848), Crypto/Blockchain (782), Cloud/Enterprise (685), E-commerce/Retail (666), Gaming (621), Automotive/Mobility (485)
+  - Affects: `generate_category_pages.py`, `test_category_pages.py`, `docs/categories/*.md`, `docs/_includes/categories/header.md`
+
 ## [1.4.0] - 2025-12-31
 
 ### Added
