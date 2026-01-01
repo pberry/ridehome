@@ -63,16 +63,16 @@ Topics covered across 1,676 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **AI/Machine Learning** | 462 | 27.6% |
-| 🥈 | **Hardware/Chips** | 304 | 18.1% |
-| 🥉 | **Regulation/Policy** | 200 | 11.9% |
-| 4 | Other Tech News | 186 | 11.1% |
-| 5 | Social Media | 95 | 5.7% |
-| 6 | Security/Privacy | 94 | 5.6% |
-| 7 | Streaming/Entertainment | 88 | 5.3% |
-| 8 | Gaming | 67 | 4.0% |
-| 9 | Cloud/Enterprise | 56 | 3.3% |
-| 10 | Automotive/Mobility | 44 | 2.6% |
+| 🥇 | **[AI/Machine Learning](categories/ai-machine-learning.html)** | 462 | 27.6% |
+| 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 304 | 18.1% |
+| 🥉 | **[Regulation/Policy](categories/regulation-policy.html)** | 200 | 11.9% |
+| 4 | [Other Tech News](categories/other-tech-news.html) | 186 | 11.1% |
+| 5 | [Social Media](categories/social-media.html) | 95 | 5.7% |
+| 6 | [Security/Privacy](categories/security-privacy.html) | 94 | 5.6% |
+| 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 88 | 5.3% |
+| 8 | [Gaming](categories/gaming.html) | 67 | 4.0% |
+| 9 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 56 | 3.3% |
+| 10 | [Automotive/Mobility](categories/automotive-mobility.html) | 44 | 2.6% |
 
 ---
 

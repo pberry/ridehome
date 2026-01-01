@@ -24,6 +24,11 @@ from zoneinfo import ZoneInfo
 PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
+def category_to_slug(category_name):
+    """Convert category name to URL-safe slug."""
+    return category_name.lower().replace('/', '-').replace(' ', '-')
+
+
 def parse_markdown_file(file_path):
     """
     Parse markdown file and extract dates, links, and sources.
@@ -358,14 +363,17 @@ def generate_markdown_report(stats):
 
         for i, (category, count) in enumerate(ai_categories.most_common(10), 1):
             percentage = (count / total_categorized * 100) if total_categorized > 0 else 0
+            category_slug = category_to_slug(category)
+            category_link = f"[{category}](categories/{category_slug}.html)"
+
             if i == 1:
-                md += f"| 🥇 | **{category}** | {count:,} | {percentage:.1f}% |\n"
+                md += f"| 🥇 | **{category_link}** | {count:,} | {percentage:.1f}% |\n"
             elif i == 2:
-                md += f"| 🥈 | **{category}** | {count:,} | {percentage:.1f}% |\n"
+                md += f"| 🥈 | **{category_link}** | {count:,} | {percentage:.1f}% |\n"
             elif i == 3:
-                md += f"| 🥉 | **{category}** | {count:,} | {percentage:.1f}% |\n"
+                md += f"| 🥉 | **{category_link}** | {count:,} | {percentage:.1f}% |\n"
             else:
-                md += f"| {i} | {category} | {count:,} | {percentage:.1f}% |\n"
+                md += f"| {i} | {category_link} | {count:,} | {percentage:.1f}% |\n"
     else:
         md += f"*AI categorization not available for {year}*\n"
 

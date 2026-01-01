@@ -63,16 +63,16 @@ Topics covered across 1,202 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **Other Tech News** | 240 | 20.0% |
-| 🥈 | **Hardware/Chips** | 197 | 16.4% |
-| 🥉 | **Social Media** | 122 | 10.1% |
-| 4 | Regulation/Policy | 102 | 8.5% |
-| 5 | E-commerce/Retail | 92 | 7.7% |
-| 6 | Security/Privacy | 92 | 7.7% |
-| 7 | Streaming/Entertainment | 74 | 6.2% |
-| 8 | Automotive/Mobility | 70 | 5.8% |
-| 9 | Crypto/Blockchain | 59 | 4.9% |
-| 10 | AI/Machine Learning | 53 | 4.4% |
+| 🥇 | **[Other Tech News](categories/other-tech-news.html)** | 240 | 20.0% |
+| 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 197 | 16.4% |
+| 🥉 | **[Social Media](categories/social-media.html)** | 122 | 10.1% |
+| 4 | [Regulation/Policy](categories/regulation-policy.html) | 102 | 8.5% |
+| 5 | [E-commerce/Retail](categories/e-commerce-retail.html) | 92 | 7.7% |
+| 6 | [Security/Privacy](categories/security-privacy.html) | 92 | 7.7% |
+| 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 74 | 6.2% |
+| 8 | [Automotive/Mobility](categories/automotive-mobility.html) | 70 | 5.8% |
+| 9 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 59 | 4.9% |
+| 10 | [AI/Machine Learning](categories/ai-machine-learning.html) | 53 | 4.4% |
 
 ---
 

@@ -63,16 +63,16 @@ Topics covered across 1,864 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **Hardware/Chips** | 315 | 16.9% |
-| 🥈 | **Crypto/Blockchain** | 278 | 14.9% |
-| 🥉 | **Other Tech News** | 228 | 12.2% |
-| 4 | Social Media | 215 | 11.5% |
-| 5 | Regulation/Policy | 154 | 8.3% |
-| 6 | Security/Privacy | 149 | 8.0% |
-| 7 | Streaming/Entertainment | 112 | 6.0% |
-| 8 | AI/Machine Learning | 98 | 5.3% |
-| 9 | Cloud/Enterprise | 90 | 4.8% |
-| 10 | Gaming | 89 | 4.8% |
+| 🥇 | **[Hardware/Chips](categories/hardware-chips.html)** | 315 | 16.9% |
+| 🥈 | **[Crypto/Blockchain](categories/crypto-blockchain.html)** | 278 | 14.9% |
+| 🥉 | **[Other Tech News](categories/other-tech-news.html)** | 228 | 12.2% |
+| 4 | [Social Media](categories/social-media.html) | 215 | 11.5% |
+| 5 | [Regulation/Policy](categories/regulation-policy.html) | 154 | 8.3% |
+| 6 | [Security/Privacy](categories/security-privacy.html) | 149 | 8.0% |
+| 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 112 | 6.0% |
+| 8 | [AI/Machine Learning](categories/ai-machine-learning.html) | 98 | 5.3% |
+| 9 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 90 | 4.8% |
+| 10 | [Gaming](categories/gaming.html) | 89 | 4.8% |
 
 ---
 

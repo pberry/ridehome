@@ -63,16 +63,16 @@ Topics covered across 1,624 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **AI/Machine Learning** | 593 | 36.5% |
-| 🥈 | **Hardware/Chips** | 236 | 14.5% |
-| 🥉 | **Regulation/Policy** | 184 | 11.3% |
-| 4 | Other Tech News | 150 | 9.2% |
-| 5 | Cloud/Enterprise | 90 | 5.5% |
-| 6 | Social Media | 63 | 3.9% |
-| 7 | Streaming/Entertainment | 62 | 3.8% |
-| 8 | Security/Privacy | 60 | 3.7% |
-| 9 | Crypto/Blockchain | 58 | 3.6% |
-| 10 | Gaming | 55 | 3.4% |
+| 🥇 | **[AI/Machine Learning](categories/ai-machine-learning.html)** | 593 | 36.5% |
+| 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 236 | 14.5% |
+| 🥉 | **[Regulation/Policy](categories/regulation-policy.html)** | 184 | 11.3% |
+| 4 | [Other Tech News](categories/other-tech-news.html) | 150 | 9.2% |
+| 5 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 90 | 5.5% |
+| 6 | [Social Media](categories/social-media.html) | 63 | 3.9% |
+| 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 62 | 3.8% |
+| 8 | [Security/Privacy](categories/security-privacy.html) | 60 | 3.7% |
+| 9 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 58 | 3.6% |
+| 10 | [Gaming](categories/gaming.html) | 55 | 3.4% |
 
 ---
 

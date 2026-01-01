@@ -63,16 +63,16 @@ Topics covered across 2,207 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **Hardware/Chips** | 433 | 19.6% |
-| 🥈 | **Other Tech News** | 399 | 18.1% |
-| 🥉 | **Regulation/Policy** | 235 | 10.6% |
-| 4 | Social Media | 182 | 8.2% |
-| 5 | Security/Privacy | 176 | 8.0% |
-| 6 | Streaming/Entertainment | 164 | 7.4% |
-| 7 | Cloud/Enterprise | 162 | 7.3% |
-| 8 | E-commerce/Retail | 146 | 6.6% |
-| 9 | Gaming | 120 | 5.4% |
-| 10 | Automotive/Mobility | 91 | 4.1% |
+| 🥇 | **[Hardware/Chips](categories/hardware-chips.html)** | 433 | 19.6% |
+| 🥈 | **[Other Tech News](categories/other-tech-news.html)** | 399 | 18.1% |
+| 🥉 | **[Regulation/Policy](categories/regulation-policy.html)** | 235 | 10.6% |
+| 4 | [Social Media](categories/social-media.html) | 182 | 8.2% |
+| 5 | [Security/Privacy](categories/security-privacy.html) | 176 | 8.0% |
+| 6 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 164 | 7.4% |
+| 7 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 162 | 7.3% |
+| 8 | [E-commerce/Retail](categories/e-commerce-retail.html) | 146 | 6.6% |
+| 9 | [Gaming](categories/gaming.html) | 120 | 5.4% |
+| 10 | [Automotive/Mobility](categories/automotive-mobility.html) | 91 | 4.1% |
 
 ---
 

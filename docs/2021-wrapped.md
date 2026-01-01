@@ -63,16 +63,16 @@ Topics covered across 1,930 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **Hardware/Chips** | 351 | 18.2% |
-| 🥈 | **Other Tech News** | 287 | 14.9% |
-| 🥉 | **Social Media** | 210 | 10.9% |
-| 4 | Regulation/Policy | 194 | 10.1% |
-| 5 | Crypto/Blockchain | 169 | 8.8% |
-| 6 | Security/Privacy | 168 | 8.7% |
-| 7 | Streaming/Entertainment | 115 | 6.0% |
-| 8 | Cloud/Enterprise | 107 | 5.5% |
-| 9 | E-commerce/Retail | 104 | 5.4% |
-| 10 | Gaming | 88 | 4.6% |
+| 🥇 | **[Hardware/Chips](categories/hardware-chips.html)** | 351 | 18.2% |
+| 🥈 | **[Other Tech News](categories/other-tech-news.html)** | 287 | 14.9% |
+| 🥉 | **[Social Media](categories/social-media.html)** | 210 | 10.9% |
+| 4 | [Regulation/Policy](categories/regulation-policy.html) | 194 | 10.1% |
+| 5 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 169 | 8.8% |
+| 6 | [Security/Privacy](categories/security-privacy.html) | 168 | 8.7% |
+| 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 115 | 6.0% |
+| 8 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 107 | 5.5% |
+| 9 | [E-commerce/Retail](categories/e-commerce-retail.html) | 104 | 5.4% |
+| 10 | [Gaming](categories/gaming.html) | 88 | 4.6% |
 
 ---
 
