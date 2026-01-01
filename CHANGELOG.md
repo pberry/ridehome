@@ -6,7 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+- **AI topic insights in year-end Wrapped reports** - Shows category breakdown for each year
+  - Added TOP TOPICS section to wrapped reports (console and markdown)
+  - Query database for AI category distribution by year
+  - Console output: Top 5 topics with percentages and bar charts
+  - Markdown output: Top 10 topics with medals for top 3
+  - Example (2024): AI/ML 27.6%, Hardware/Chips 18.1%, Regulation/Policy 11.9%
+  - Regenerated all wrapped files (2018-2025) with AI insights
+  - Affects: `year_wrapped.py`, `docs/*-wrapped.md`
+
 ### Changed
+- **Automatic AI categorization in RSS extraction** - New links categorized immediately
+  - `extract.py` now categorizes new links automatically using Claude API
+  - Only categorizes newly inserted links (skips duplicates)
+  - Requires ANTHROPIC_API_KEY environment variable (graceful skip if not set)
+  - Uses efficient retry logic with strict category validation
+  - Cost: ~$0.001 per extraction run (typically 5-10 links per day)
+  - Eliminates need to manually run backfill script for new content
+  - Affects: `extract.py`
+
 - **Database schema includes AI categorization columns** - No migration needed for new databases
   - Incorporated `ai_category`, `ai_categorized_at`, `ai_model` into base schema
   - Added indexes: `idx_links_ai_category`, `idx_links_ai_categorized_at`
