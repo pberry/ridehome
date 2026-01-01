@@ -79,7 +79,7 @@ def generate_category_markdown(grouped_links, category_name):
     lines.append('')
 
     # Include header
-    lines.append('{% include_relative _includes/categories/header.md %}')
+    lines.append('{% include categories/header.md %}')
     lines.append('')
 
     # Years in descending order

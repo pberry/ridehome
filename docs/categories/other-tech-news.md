@@ -2,7 +2,7 @@
 title: Other Tech News
 ---
 
-{% include_relative _includes/categories/header.md %}
+{% include categories/header.md %}
 
 ## 2025
 

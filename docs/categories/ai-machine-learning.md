@@ -2,7 +2,7 @@
 title: AI/Machine Learning
 ---
 
-{% include_relative _includes/categories/header.md %}
+{% include categories/header.md %}
 
 ## 2025
 

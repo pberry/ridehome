@@ -2,7 +2,7 @@
 title: E-commerce/Retail
 ---
 
-{% include_relative _includes/categories/header.md %}
+{% include categories/header.md %}
 
 ## 2025
 
