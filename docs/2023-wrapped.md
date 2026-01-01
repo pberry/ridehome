@@ -47,6 +47,25 @@
 
 ---
 
+## 🎯 Top Topics (AI Categorization)
+
+Topics covered across 1,708 categorized links:
+
+| Rank | Topic | Links | Percentage |
+|------|-------|-------|------------|
+| 🥇 | **AI/Machine Learning** | 399 | 23.4% |
+| 🥈 | **Hardware/Chips** | 277 | 16.2% |
+| 🥉 | **Other Tech News** | 198 | 11.6% |
+| 4 | Social Media | 172 | 10.1% |
+| 5 | Regulation/Policy | 160 | 9.4% |
+| 6 | Crypto/Blockchain | 100 | 5.9% |
+| 7 | Security/Privacy | 100 | 5.9% |
+| 8 | Streaming/Entertainment | 93 | 5.4% |
+| 9 | Gaming | 76 | 4.4% |
+| 10 | Cloud/Enterprise | 50 | 2.9% |
+
+---
+
 ## 🏢 Big Tech Company Mentions
 
 The tech companies that dominated headlines in 2023:
@@ -84,4 +103,4 @@ The tech companies that dominated headlines in 2023:
 
 ---
 
-_Generated 12/21/25_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_
+_Generated 12/31/25_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_

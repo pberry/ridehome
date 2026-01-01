@@ -52,6 +52,25 @@
 
 ---
 
+## 🎯 Top Topics (AI Categorization)
+
+Topics covered across 1,624 categorized links:
+
+| Rank | Topic | Links | Percentage |
+|------|-------|-------|------------|
+| 🥇 | **AI/Machine Learning** | 593 | 36.5% |
+| 🥈 | **Hardware/Chips** | 236 | 14.5% |
+| 🥉 | **Regulation/Policy** | 184 | 11.3% |
+| 4 | Other Tech News | 150 | 9.2% |
+| 5 | Cloud/Enterprise | 90 | 5.5% |
+| 6 | Social Media | 63 | 3.9% |
+| 7 | Streaming/Entertainment | 62 | 3.8% |
+| 8 | Security/Privacy | 60 | 3.7% |
+| 9 | Crypto/Blockchain | 58 | 3.6% |
+| 10 | Gaming | 55 | 3.4% |
+
+---
+
 ## 🏢 Big Tech Company Mentions
 
 The tech companies that dominated headlines in 2025:

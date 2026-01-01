@@ -57,6 +57,25 @@
 
 ---
 
+## 🎯 Top Topics (AI Categorization)
+
+Topics covered across 1,930 categorized links:
+
+| Rank | Topic | Links | Percentage |
+|------|-------|-------|------------|
+| 🥇 | **Hardware/Chips** | 351 | 18.2% |
+| 🥈 | **Other Tech News** | 287 | 14.9% |
+| 🥉 | **Social Media** | 210 | 10.9% |
+| 4 | Regulation/Policy | 194 | 10.1% |
+| 5 | Crypto/Blockchain | 169 | 8.8% |
+| 6 | Security/Privacy | 168 | 8.7% |
+| 7 | Streaming/Entertainment | 115 | 6.0% |
+| 8 | Cloud/Enterprise | 107 | 5.5% |
+| 9 | E-commerce/Retail | 104 | 5.4% |
+| 10 | Gaming | 88 | 4.6% |
+
+---
+
 ## 🏢 Big Tech Company Mentions
 
 The tech companies that dominated headlines in 2021:
@@ -94,4 +113,4 @@ The tech companies that dominated headlines in 2021:
 
 ---
 
-_Generated 12/21/25_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_
+_Generated 12/31/25_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_
