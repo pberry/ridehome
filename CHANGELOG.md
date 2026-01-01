@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Changed
+- **Database schema includes AI categorization columns** - No migration needed for new databases
+  - Incorporated `ai_category`, `ai_categorized_at`, `ai_model` into base schema
+  - Added indexes: `idx_links_ai_category`, `idx_links_ai_categorized_at`
+  - New databases have complete schema from the start
+  - Obsoletes `add_ai_category_columns.py` migration script (removed)
+  - Affects: `db_schema.py`
+
 ### Fixed
 - **AI categorizer strict category enforcement** - Prevents category name variations
   - **Problem:** Claude API was generating transposed category names (e.g., "Privacy/Security" instead of "Security/Privacy", "Retail/E-commerce" instead of "E-commerce/Retail")
