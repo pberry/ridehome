@@ -96,6 +96,23 @@
         <li><a href="2018-wrapped.html">2018</a></li>
       </ul>
     </div>
+    <div class="archive-column">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="categories/ai-machine-learning.html">AI/Machine Learning</a></li>
+        <li><a href="categories/automotive-mobility.html">Automotive/Mobility</a></li>
+        <li><a href="categories/cloud-enterprise.html">Cloud/Enterprise</a></li>
+        <li><a href="categories/crypto-blockchain.html">Crypto/Blockchain</a></li>
+        <li><a href="categories/e-commerce-retail.html">E-commerce/Retail</a></li>
+        <li><a href="categories/gaming.html">Gaming</a></li>
+        <li><a href="categories/hardware-chips.html">Hardware/Chips</a></li>
+        <li><a href="categories/other-tech-news.html">Other Tech News</a></li>
+        <li><a href="categories/regulation-policy.html">Regulation/Policy</a></li>
+        <li><a href="categories/security-privacy.html">Security/Privacy</a></li>
+        <li><a href="categories/social-media.html">Social Media</a></li>
+        <li><a href="categories/streaming-entertainment.html">Streaming/Entertainment</a></li>
+      </ul>
+    </div>
   </div>
 </nav>
 
