@@ -1,4 +1,5 @@
 env/
+.env
 
 # SQLite database
 ridehome.db
@@ -6,6 +7,9 @@ ridehome.db-journal
 __pycache__/
 .claude
 trash
+
+# AI categorization logs
+invalid_categories.log
 
 # Jekyll build artifacts
 docs/_site/
