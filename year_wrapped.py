@@ -13,6 +13,7 @@ Usage:
 
 import re
 import sys
+import sqlite3
 import argparse
 from collections import Counter
 from pathlib import Path
@@ -74,6 +75,36 @@ def count_company_mentions(content, companies):
     return counts
 
 
+def get_ai_categories_for_year(year, db_path='ridehome.db'):
+    """
+    Query database for AI category distribution for a specific year.
+
+    Args:
+        year: Year to query
+        db_path: Path to SQLite database
+
+    Returns:
+        Counter object with category counts
+    """
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    # Query AI categories for the year
+    # Date format in database: "YYYY-MM-DD" (ISO format)
+    cursor.execute("""
+        SELECT ai_category, COUNT(*) as count
+        FROM links
+        WHERE date LIKE ? AND ai_category IS NOT NULL
+        GROUP BY ai_category
+        ORDER BY count DESC
+    """, (f'{year}-%',))
+
+    results = cursor.fetchall()
+    conn.close()
+
+    return Counter(dict(results))
+
+
 def generate_wrapped_report(year):
     """Generate the complete Wrapped report for a specific year"""
 
@@ -117,6 +148,9 @@ def generate_wrapped_report(year):
     ]
 
     company_mentions = count_company_mentions(combined_content, companies_to_track)
+
+    # Get AI category distribution from database
+    ai_categories = get_ai_categories_for_year(year)
 
     # Generate statistics
     daily_dates = len(daily_data['dates'])
@@ -164,6 +198,18 @@ def generate_wrapped_report(year):
     print("-" * 70)
     for i, (source, count) in enumerate(longreads_sources.most_common(10), 1):
         print(f"   {i:>2}. {source:<45} {count:>4} links")
+    print()
+
+    print("🎯 TOP TOPICS (AI Categorization)")
+    print("-" * 70)
+    if ai_categories:
+        total_categorized = sum(ai_categories.values())
+        for i, (category, count) in enumerate(ai_categories.most_common(5), 1):
+            percentage = (count / total_categorized * 100) if total_categorized > 0 else 0
+            bar = "█" * int(percentage / 2) if percentage > 0 else ""
+            print(f"   {i}. {category:<25} {count:>4} links ({percentage:>5.1f}%)  {bar}")
+    else:
+        print(f"   ℹ️  AI categorization not available for {year}")
     print()
 
     print("🏢 BIG TECH COMPANY MENTIONS")
@@ -217,6 +263,7 @@ def generate_wrapped_report(year):
         'longreads_links': longreads_links,
         'daily_sources': daily_sources,
         'longreads_sources': longreads_sources,
+        'ai_categories': ai_categories,
         'company_mentions': sorted_companies,
         'total_days_in_year': total_days_in_year
     }
@@ -231,6 +278,7 @@ def generate_markdown_report(stats):
     longreads_links = stats['longreads_links']
     daily_sources = stats['daily_sources']
     longreads_sources = stats['longreads_sources']
+    ai_categories = stats['ai_categories']
     sorted_companies = stats['company_mentions']
     total_days_in_year = stats['total_days_in_year']
 
@@ -295,6 +343,27 @@ def generate_markdown_report(stats):
             md += f"| 🥉 | **{source}** | {count} |\n"
         else:
             md += f"| {i} | {source} | {count} |\n"
+
+    # Add TOP TOPICS section
+    md += "\n---\n\n## 🎯 Top Topics (AI Categorization)\n\n"
+
+    if ai_categories:
+        total_categorized = sum(ai_categories.values())
+        md += f"Topics covered across {total_categorized:,} categorized links:\n\n"
+        md += "| Rank | Topic | Links | Percentage |\n|------|-------|-------|------------|\n"
+
+        for i, (category, count) in enumerate(ai_categories.most_common(10), 1):
+            percentage = (count / total_categorized * 100) if total_categorized > 0 else 0
+            if i == 1:
+                md += f"| 🥇 | **{category}** | {count:,} | {percentage:.1f}% |\n"
+            elif i == 2:
+                md += f"| 🥈 | **{category}** | {count:,} | {percentage:.1f}% |\n"
+            elif i == 3:
+                md += f"| 🥉 | **{category}** | {count:,} | {percentage:.1f}% |\n"
+            else:
+                md += f"| {i} | {category} | {count:,} | {percentage:.1f}% |\n"
+    else:
+        md += f"*AI categorization not available for {year}*\n"
 
     md += "\n---\n\n## 🏢 Big Tech Company Mentions\n\n"
     md += "The tech companies that dominated headlines in {0}:\n\n".format(year)

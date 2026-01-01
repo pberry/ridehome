@@ -17,6 +17,7 @@ from file_updater import parse_top_date, find_new_entries, group_entries_by_year
 from db_schema import create_schema
 from db_writer import insert_links
 from status_generator import get_status_data, format_status_section, update_homepage
+from claude_categorizer import categorize_with_retry
 
 
 # Configuration for each extraction type
@@ -296,6 +297,45 @@ def update_mode(feed_entries, config, skip_db=False):
 
 			# Insert links
 			inserted, duplicates = insert_links(db_conn, all_db_links, link_type)
+
+			# Categorize newly inserted links with AI
+			if inserted > 0 and os.environ.get('ANTHROPIC_API_KEY'):
+				try:
+					# Get titles that need categorization (newly inserted, no AI category yet)
+					cursor = db_conn.cursor()
+					titles_to_categorize = []
+					for link in all_db_links:
+						cursor.execute('SELECT ai_category FROM links WHERE title = ? LIMIT 1', (link['title'],))
+						result = cursor.fetchone()
+						if result and result[0] is None:
+							titles_to_categorize.append(link['title'])
+
+					if not titles_to_categorize:
+						print("  (All links already categorized)")
+					else:
+						# Categorize with Claude API
+						print(f"🤖 Categorizing {len(titles_to_categorize)} new links with AI...")
+						categorizations = categorize_with_retry(titles_to_categorize, model='claude-3-5-haiku-20241022')
+
+						# Update database with AI categories
+						cursor = db_conn.cursor()
+						categorized_count = 0
+						for title, category in categorizations.items():
+							cursor.execute('''
+								UPDATE links
+								SET ai_category = ?,
+									ai_categorized_at = CURRENT_TIMESTAMP,
+									ai_model = 'claude-3-5-haiku-20241022'
+								WHERE title = ? AND ai_category IS NULL
+							''', (category, title))
+							if cursor.rowcount > 0:
+								categorized_count += 1
+
+						db_conn.commit()
+						print(f"✓ Categorized {categorized_count} links")
+				except Exception as e:
+					print(f"⚠ Warning: AI categorization failed: {e}")
+					print("  Links were saved but not categorized")
 
 			db_conn.close()
 

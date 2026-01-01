@@ -28,9 +28,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(315 links)</span></li>
-        <li><span class="stat-label">Other Tech News</span> <span class="stat-value">(222 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(77 links)</span></li>
+        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(307 links)</span></li>
+        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(116 links)</span></li>
+        <li><span class="stat-label">Other Tech News</span> <span class="stat-value">(85 links)</span></li>
       </ol>
     </div>
   </div>

@@ -6,6 +6,61 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [1.4.0] - 2025-12-31
+
+### Added
+- **AI topic insights in year-end Wrapped reports** - Shows category breakdown for each year
+  - Added TOP TOPICS section to wrapped reports (console and markdown)
+  - Query database for AI category distribution by year
+  - Console output: Top 5 topics with percentages and bar charts
+  - Markdown output: Top 10 topics with medals for top 3
+  - Example (2024): AI/ML 27.6%, Hardware/Chips 18.1%, Regulation/Policy 11.9%
+  - Regenerated all wrapped files (2018-2025) with AI insights
+  - Affects: `year_wrapped.py`, `docs/*-wrapped.md`
+
+### Changed
+- **Automatic AI categorization in RSS extraction** - New links categorized immediately
+  - `extract.py` now categorizes new links automatically using Claude API
+  - Only categorizes newly inserted links (skips duplicates)
+  - Requires ANTHROPIC_API_KEY environment variable (graceful skip if not set)
+  - Uses efficient retry logic with strict category validation
+  - Cost: ~$0.001 per extraction run (typically 5-10 links per day)
+  - Eliminates need to manually run backfill script for new content
+  - Affects: `extract.py`
+
+- **Database schema includes AI categorization columns** - No migration needed for new databases
+  - Incorporated `ai_category`, `ai_categorized_at`, `ai_model` into base schema
+  - Added indexes: `idx_links_ai_category`, `idx_links_ai_categorized_at`
+  - New databases have complete schema from the start
+  - Obsoletes `add_ai_category_columns.py` migration script (removed)
+  - Affects: `db_schema.py`
+
+### Fixed
+- **AI categorizer strict category enforcement** - Prevents category name variations
+  - **Problem:** Claude API was generating transposed category names (e.g., "Privacy/Security" instead of "Security/Privacy", "Retail/E-commerce" instead of "E-commerce/Retail")
+  - **Solution:**
+    1. Enhanced prompt with explicit examples of correct vs incorrect category names
+    2. Replaced silent fallback with retry logic (max 3 attempts with escalating strictness)
+    3. Added `invalid_categories.log` to track attempted invalid categories for review
+  - **Implementation:**
+    - `categorize_with_retry()` wrapper with automatic retry on `InvalidCategoryError`
+    - Stricter prompts on subsequent retries with warning message
+    - Invalid attempts logged with timestamp for pattern analysis
+  - **Results:** 100% valid categories on backfill (13,833 links), zero invalid attempts
+  - Affects: `claude_categorizer.py`, `backfill_ai_categories.py`, `test_backfill.py`
+
+- **Unicode character normalization for JSON parsing** - Handles em-dashes and en-dashes
+  - **Problem:** Titles with em-dashes (—, U+2014) caused JSON parsing failures in Claude API responses
+  - **Error:** `Expecting ',' delimiter` when parsing titles like "A damn stupid thing to do—the origins of C"
+  - **Solution:** Extended `normalize_title()` to convert em-dashes and en-dashes to regular hyphens
+  - **Normalization rules:**
+    - Em-dash (—, U+2014) → hyphen (-)
+    - En-dash (–, U+2013) → hyphen (-)
+    - Smart quotes (' ' " ", U+2018-201D) → straight quotes (' ")
+    - Markdown escapes (\| \. \# etc.) → unescaped characters
+  - All titles now JSON-serializable and parser-safe
+  - Affects: `claude_categorizer.py:normalize_title()`
+
 ## [1.3.2] - 2025-12-31
 
 ### Fixed

@@ -130,19 +130,27 @@ def get_status_data(db_path='ridehome.db'):
     """, (six_months_ago_unix,))
     top_sources = [(row[0], row[1]) for row in cursor.fetchall()]
 
-    # Get all titles from last 6 months for topic categorization
+    # Get topics from last 6 months
+    # Prefer AI categorization when available, fall back to keyword matching
     cursor.execute("""
-        SELECT title
+        SELECT
+            COALESCE(ai_category, 'keyword_fallback') as category,
+            title
         FROM links
         WHERE date_unix >= ?
     """, (six_months_ago_unix,))
 
-    titles = [row[0] for row in cursor.fetchall()]
+    rows = cursor.fetchall()
 
-    # Categorize topics
+    # Count topics
     topic_counts = Counter()
-    for title in titles:
-        topic = categorize_topic(title)
+    for category, title in rows:
+        # Use AI category if available, otherwise use keyword categorization
+        if category != 'keyword_fallback':
+            topic = category
+        else:
+            topic = categorize_topic(title)
+
         if topic:
             topic_counts[topic] += 1
 
