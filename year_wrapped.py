@@ -18,6 +18,10 @@ import argparse
 from collections import Counter
 from pathlib import Path
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+# Pacific timezone for The Ride Home podcast
+PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
 def parse_markdown_file(file_path):
@@ -445,8 +449,8 @@ Available years: 2022, 2023, 2024, 2025
         'year',
         nargs='?',
         type=int,
-        default=datetime.now().year,
-        help='Year to generate report for (default: current year)'
+        default=datetime.now(PACIFIC_TZ).year,
+        help='Year to generate report for (default: current year in Pacific timezone)'
     )
 
     parser.add_argument(
@@ -461,11 +465,12 @@ Available years: 2022, 2023, 2024, 2025
     # Use --year flag if provided, otherwise use positional argument
     year = args.year_flag if args.year_flag else args.year
 
-    # Validate year
-    if year < 2018 or year > datetime.now().year:
+    # Validate year (use Pacific timezone for current year)
+    current_year = datetime.now(PACIFIC_TZ).year
+    if year < 2018 or year > current_year:
         print(f"❌ Error: Year {year} is out of range")
         print(f"   The Ride Home podcast started in 2018")
-        print(f"   Current year is {datetime.now().year}")
+        print(f"   Current year is {current_year} (Pacific time)")
         sys.exit(1)
 
     # Generate console report

@@ -18,8 +18,8 @@
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
 | **Daily Show Links** | 1,534 | 6.3 links/episode |
-| **Weekend Longreads** | 174 | 3.7 links/episode |
-| **TOTAL** | **1,708** | - |
+| **Weekend Longreads** | 171 | 3.6 links/episode |
+| **TOTAL** | **1,705** | - |
 
 ---
 
@@ -44,6 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **Bloomberg** | 15 |
+| 🥈 | **NYTimes** | 14 |
+| 🥉 | **The Verge** | 13 |
+| 4 | Wired | 9 |
+| 5 | The Atlantic | 6 |
+| 6 | Vulture | 6 |
+| 7 | WSJ | 6 |
+| 8 | Vox | 5 |
+| 9 | Fast Company | 4 |
+| 10 | ArsTechnica | 4 |
 
 ---
 
@@ -89,9 +99,10 @@ The tech companies that dominated headlines in 2023:
 
 - 🏆 **Most Mentioned Company:** Apple dominated with 357 mentions
 - 📰 **Top Daily News Source:** The Verge with 251 links
+- 📖 **Top Longreads Source:** Bloomberg (15 articles)
 - 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
 - 📅 **Consistency:** 244 daily episodes means coverage on most weekdays throughout the year
-- 🎯 **Quality Curation:** 1,708 total links from premium sources
+- 🎯 **Quality Curation:** 1,705 total links from premium sources
 
 ---
 

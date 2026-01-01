@@ -11,9 +11,10 @@ import argparse
 import os
 import re
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 from html_parser import find_links_section, find_section
-from file_updater import parse_top_date, find_new_entries, group_entries_by_year, infer_year_from_context
+from file_updater import parse_top_date, find_new_entries, group_entries_by_year, infer_year_from_context, PACIFIC_TZ
 from db_schema import create_schema
 from db_writer import insert_links
 from status_generator import get_status_data, format_status_section, update_homepage
@@ -170,7 +171,10 @@ def format_entry_with_links(post, config, include_year=None):
 		content = html2text.html2text(str(content_ul))
 
 		# Extract structured links from the <ul> element
-		episode_date = datetime(*post.published_parsed[:6])
+		# Convert UTC time from feed to Pacific time
+		entry_time = time.struct_time(post.published_parsed)
+		entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
+		episode_date = entry_dt_utc.astimezone(PACIFIC_TZ).replace(tzinfo=None)
 		links = extract_links_from_ul(content_ul, episode_date)
 
 		return (header, content, links)
@@ -201,8 +205,11 @@ def update_mode(feed_entries, config, skip_db=False):
 		print("No entries in feed")
 		return
 
-	# Determine current year file path
-	latest_year = feed_entries[0].published_parsed.tm_year
+	# Determine current year file path using Pacific timezone
+	# Convert first entry's UTC time to Pacific to get the correct year
+	first_entry_time = time.struct_time(feed_entries[0].published_parsed)
+	first_entry_utc = datetime(*first_entry_time[:6], tzinfo=ZoneInfo("UTC"))
+	latest_year = first_entry_utc.astimezone(PACIFIC_TZ).year
 	file_path = f"docs/{config['output_file_prefix']}-{latest_year}.md"
 
 	# Parse top date from existing file (with year inference for longreads)
@@ -212,10 +219,14 @@ def update_mode(feed_entries, config, skip_db=False):
 	else:
 		top_date = parse_top_date(file_path, entry_type=config['entry_type'])
 
+	# Check if marker exists in file (only error if file exists but marker is missing)
 	if top_date is None and os.path.exists(file_path):
-		print(f"Error: No AUTO-GENERATED marker found in {file_path}")
-		print("Please add '<!-- AUTO-GENERATED CONTENT BELOW -->' marker to the file.")
-		return
+		with open(file_path, 'r', encoding='utf-8') as f:
+			content = f.read()
+		if '<!-- AUTO-GENERATED CONTENT BELOW -->' not in content:
+			print(f"Error: No AUTO-GENERATED marker found in {file_path}")
+			print("Please add '<!-- AUTO-GENERATED CONTENT BELOW -->' marker to the file.")
+			return
 
 	# Find new entries
 	new_entries = find_new_entries(feed_entries, top_date)

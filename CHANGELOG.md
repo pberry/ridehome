@@ -6,6 +6,33 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Fixed
+- **Pacific timezone handling for RSS feed extraction** - Prevents date mismatches on year boundaries
+  - **Problem:** RSS feed times are in UTC but podcast episodes are published in Pacific time. On December 31, 2025 at 11 PM Pacific, the UTC time is January 1, 2026, causing year mismatch when extracting data.
+  - **Solution:**
+    1. Added Pacific timezone conversion to `file_updater.py` using Python's built-in `zoneinfo`
+    2. Convert all feed entry times from UTC to Pacific before comparison
+    3. Use Pacific timezone for determining "current year" in all date operations
+  - **Impact:** Ensures episodes published late on December 31 Pacific time are correctly classified as the current year, not next year
+  - Affects: `file_updater.py`, `extract.py`, `year_wrapped.py`
+
+- **Empty file marker detection in extract.py** - Allows regenerating files from scratch
+  - **Problem:** When a file exists with the AUTO-GENERATED marker but no entries, the script incorrectly reported "marker not found"
+  - **Solution:** Check if marker actually exists in file content before erroring, allowing empty files to be populated
+  - Affects: `extract.py` lines 222-229
+
+### Changed
+- **Regenerated all longreads files (2022-2025) with complete source attributions**
+  - **2025**: All 106 links now have sources (The Verge: 10, NYTimes: 9, Wired: 8, Bloomberg: 8, WSJ: 7)
+  - **2024**: All 120 links now have sources (NYTimes: 11, Wired: 11, Bloomberg: 10, The Verge: 10, WSJ: 9)
+  - **2023**: All 174 links now have sources (various top sources)
+  - **2022**: All 254 links now have sources (various top sources)
+  - Previous files had no source attributions (just bare links)
+  - Regenerated from RSS feed with consistent formatting
+  - Year-end Wrapped reports now show proper source diversity instead of empty tables
+  - Added AUTO-GENERATED markers to 2022-2024 files for future updates
+  - Affects: `docs/longreads-*.md`, `docs/*-wrapped.md`
+
 ## [1.4.0] - 2025-12-31
 
 ### Added

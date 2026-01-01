@@ -44,6 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **NYTimes** | 11 |
+| 🥈 | **The Verge** | 11 |
+| 🥉 | **Bloomberg** | 11 |
+| 4 | Wired | 9 |
+| 5 | WSJ | 8 |
+| 6 | The Atlantic | 5 |
+| 7 | The New Yorker | 5 |
+| 8 | ArsTechnica | 4 |
+| 9 | Bloomberg Businessweek | 4 |
+| 10 | Financial Times | 3 |
 
 ---
 
@@ -89,6 +99,7 @@ The tech companies that dominated headlines in 2024:
 
 - 🏆 **Most Mentioned Company:** Apple dominated with 424 mentions - hardware and services still commanded attention
 - 📰 **Top Daily News Source:** Bloomberg with 249 links
+- 📖 **Top Longreads Source:** NYTimes (11 articles)
 - 📊 **Links Per Episode:** An average of 6.4 daily links kept listeners informed
 - 📅 **Consistency:** 245 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,676 total links from premium sources

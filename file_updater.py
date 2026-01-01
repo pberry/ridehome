@@ -9,7 +9,11 @@ Shared between showlinks.py and longread.py.
 import re
 import os
 from datetime import datetime
+from zoneinfo import ZoneInfo
 import time
+
+# Pacific timezone for The Ride Home podcast (published in Pacific time)
+PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
 def parse_top_date(input_str, entry_type='showlinks', year_context=None):
@@ -115,7 +119,8 @@ def _parse_date_string(date_str, entry_type, year_context=None):
             if year_context is not None:
                 year = year_context
             else:
-                year = datetime.now().year
+                # Use Pacific timezone to determine current year
+                year = datetime.now(PACIFIC_TZ).year
 
             # Parse with year added to avoid Python 3.15 deprecation warning
             # See: https://github.com/python/cpython/issues/70647
@@ -150,17 +155,23 @@ def find_new_entries(feed_entries, top_date=None):
     top_date_only = top_date.date()
 
     for entry in feed_entries:
-        # Convert feed published_parsed to datetime
+        # Convert feed published_parsed (UTC) to Pacific time
         entry_time = time.struct_time(entry['published_parsed'])
-        entry_dt = datetime(*entry_time[:6])
-        entry_date_only = entry_dt.date()
+        entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
+        entry_dt_pacific = entry_dt_utc.astimezone(PACIFIC_TZ)
+        entry_date_only = entry_dt_pacific.date()
 
         # Only include if newer than top_date (compare dates only, not times)
         if entry_date_only > top_date_only:
             new_entries.append(entry)
 
-    # Already in reverse chronological order from feed, but ensure it
-    new_entries.sort(key=lambda e: datetime(*time.struct_time(e['published_parsed'])[:6]), reverse=True)
+    # Sort by Pacific time (newest first)
+    def get_pacific_time(entry):
+        entry_time = time.struct_time(entry['published_parsed'])
+        entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
+        return entry_dt_utc.astimezone(PACIFIC_TZ)
+
+    new_entries.sort(key=get_pacific_time, reverse=True)
 
     return new_entries
 
@@ -181,8 +192,8 @@ def infer_year_from_context(file_path):
     if match:
         return int(match.group(1))
 
-    # Fallback to current year
-    return datetime.now().year
+    # Fallback to current year in Pacific timezone
+    return datetime.now(PACIFIC_TZ).year
 
 
 def group_entries_by_year(entries):

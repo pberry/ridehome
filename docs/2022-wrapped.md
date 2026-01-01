@@ -7,8 +7,8 @@
 | Metric | Count |
 |--------|-------|
 | **Daily Show Episodes** | 246 days |
-| **Friday Longreads Episodes** | 51 Fridays |
-| **Total Episodes** | **297 episodes** |
+| **Friday Longreads Episodes** | 50 Fridays |
+| **Total Episodes** | **296 episodes** |
 | **Year Coverage** | **67.4%** of 2022 |
 
 ---
@@ -18,8 +18,8 @@
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
 | **Daily Show Links** | 1,610 | 6.5 links/episode |
-| **Weekend Longreads** | 254 | 5.0 links/episode |
-| **TOTAL** | **1,864** | - |
+| **Weekend Longreads** | 249 | 5.0 links/episode |
+| **TOTAL** | **1,859** | - |
 
 ---
 
@@ -44,6 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **Bloomberg** | 22 |
+| 🥈 | **WSJ** | 19 |
+| 🥉 | **NYTimes** | 16 |
+| 4 | Wired | 15 |
+| 5 | The Verge | 13 |
+| 6 | The Atlantic | 8 |
+| 7 | Forbes | 7 |
+| 8 | Fast Company | 5 |
+| 9 | The New Yorker | 5 |
+| 10 | Washington Post | 4 |
 
 ---
 
@@ -72,8 +82,8 @@ The tech companies that dominated headlines in 2022:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **337** | ███████████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **230** | ██████████████████████████████████████████████ |
+| 🏆 **Apple** | **338** | ███████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **232** | ██████████████████████████████████████████████ |
 | 👤 **Meta** | **130** | ██████████████████████████ |
 | 📦 **Amazon** | **120** | ████████████████████████ |
 | 💼 **Microsoft** | **108** | █████████████████████ |
@@ -86,17 +96,18 @@ The tech companies that dominated headlines in 2022:
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 337 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 338 mentions
 - 📰 **Top Daily News Source:** The Verge with 242 links
+- 📖 **Top Longreads Source:** Bloomberg (22 articles)
 - 📊 **Links Per Episode:** An average of 6.5 daily links kept listeners informed
 - 📅 **Consistency:** 246 daily episodes means coverage on most weekdays throughout the year
-- 🎯 **Quality Curation:** 1,864 total links from premium sources
+- 🎯 **Quality Curation:** 1,859 total links from premium sources
 
 ---
 
 ## 📈 Key Takeaways
 
-**2022 in tech** featured 1,864 curated links across 297 episodes, bringing the most important tech news to listeners.
+**2022 in tech** featured 1,859 curated links across 296 episodes, bringing the most important tech news to listeners.
 
 **The Ride Home covered 67.4% of 2022**, bringing tech news to thousands of listeners.
 
