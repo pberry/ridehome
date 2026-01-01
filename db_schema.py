@@ -20,7 +20,7 @@ def create_schema(db_path='ridehome.db'):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
-    # Create links table with hybrid date storage
+    # Create links table with hybrid date storage and AI categorization
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS links (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -32,7 +32,10 @@ def create_schema(db_path='ridehome.db'):
             link_type TEXT NOT NULL CHECK(link_type IN ('showlink', 'longread')),
             episode_date TEXT NOT NULL,
             episode_date_unix INTEGER NOT NULL,
-            created_at TEXT DEFAULT CURRENT_TIMESTAMP
+            created_at TEXT DEFAULT CURRENT_TIMESTAMP,
+            ai_category TEXT,
+            ai_categorized_at TIMESTAMP,
+            ai_model TEXT
         )
     ''')
 
@@ -41,6 +44,10 @@ def create_schema(db_path='ridehome.db'):
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_date_unix ON links(date_unix)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_link_type ON links(link_type)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_source ON links(source)')
+
+    # Create indexes for AI categorization queries
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_links_ai_category ON links(ai_category)')
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_links_ai_categorized_at ON links(ai_categorized_at)')
 
     # Create unique constraint to prevent duplicates (URL + date)
     cursor.execute('''
