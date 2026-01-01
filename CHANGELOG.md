@@ -6,6 +6,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+- **Category pages for AI-categorized links** - Browse all links by topic
+  - New `generate_category_pages.py` script generates static pages for all 12 categories
+  - Each category page organized by year (h2) → month (h3) → links (bullets)
+  - Links sorted newest-first (blog style: December → January, latest dates first)
+  - Jekyll-compatible markdown with front matter and header includes
+  - Output: `docs/categories/[category-slug].md` (e.g., `ai-machine-learning.md`)
+  - Coverage: 13,833 categorized links across 12 categories
+  - Test-driven development: 10 tests covering slug generation, database queries, markdown formatting
+  - Categories: AI/ML (1,809), Hardware/Chips (2,396), Other Tech News (1,988), Regulation/Policy (1,371), Social Media (1,195), Security/Privacy (987), Streaming/Entertainment (848), Crypto/Blockchain (782), Cloud/Enterprise (685), E-commerce/Retail (666), Gaming (621), Automotive/Mobility (485)
+  - Affects: `generate_category_pages.py`, `test_category_pages.py`, `docs/categories/*.md`, `docs/_includes/categories/header.md`
+
+### Changed
+- **Regenerated all longreads files (2022-2025) with complete source attributions**
+  - **2025**: All 106 links now have sources (The Verge: 10, NYTimes: 9, Wired: 8, Bloomberg: 8, WSJ: 7)
+  - **2024**: All 120 links now have sources (NYTimes: 11, Wired: 11, Bloomberg: 10, The Verge: 10, WSJ: 9)
+  - **2023**: All 174 links now have sources (various top sources)
+  - **2022**: All 254 links now have sources (various top sources)
+  - Previous files had no source attributions (just bare links)
+  - Regenerated from RSS feed with consistent formatting
+  - Year-end Wrapped reports now show proper source diversity instead of empty tables
+  - Added AUTO-GENERATED markers to 2022-2024 files for future updates
+  - Affects: `docs/longreads-*.md`, `docs/*-wrapped.md`
+
 ### Fixed
 - **Pacific timezone handling for RSS feed extraction** - Prevents date mismatches on year boundaries
   - **Problem:** RSS feed times are in UTC but podcast episodes are published in Pacific time. On December 31, 2025 at 11 PM Pacific, the UTC time is January 1, 2026, causing year mismatch when extracting data.
@@ -20,18 +44,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - **Problem:** When a file exists with the AUTO-GENERATED marker but no entries, the script incorrectly reported "marker not found"
   - **Solution:** Check if marker actually exists in file content before erroring, allowing empty files to be populated
   - Affects: `extract.py` lines 222-229
-
-### Changed
-- **Regenerated all longreads files (2022-2025) with complete source attributions**
-  - **2025**: All 106 links now have sources (The Verge: 10, NYTimes: 9, Wired: 8, Bloomberg: 8, WSJ: 7)
-  - **2024**: All 120 links now have sources (NYTimes: 11, Wired: 11, Bloomberg: 10, The Verge: 10, WSJ: 9)
-  - **2023**: All 174 links now have sources (various top sources)
-  - **2022**: All 254 links now have sources (various top sources)
-  - Previous files had no source attributions (just bare links)
-  - Regenerated from RSS feed with consistent formatting
-  - Year-end Wrapped reports now show proper source diversity instead of empty tables
-  - Added AUTO-GENERATED markers to 2022-2024 files for future updates
-  - Affects: `docs/longreads-*.md`, `docs/*-wrapped.md`
 
 ## [1.4.0] - 2025-12-31
 
