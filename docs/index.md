@@ -61,7 +61,7 @@
     <div class="archive-column">
       <h3>Show Links</h3>
       <ul>
-        <li><a href="all-links-2025.html">2024</a></li>
+        <li><a href="all-links-2025.html">2025</a></li>
         <li><a href="all-links-2024.html">2024</a></li>
         <li><a href="all-links-2023.html">2023</a></li>
         <li><a href="all-links-2022.html">2022</a></li>
@@ -74,6 +74,7 @@
     <div class="archive-column">
       <h3>Longreads</h3>
       <ul>
+        <li><a href="longreads-2025.html">2025</a></li>
         <li><a href="longreads-2024.html">2024</a></li>
         <li><a href="longreads-2023.html">2023</a></li>
         <li><a href="longreads-2022.html">2022</a></li>
