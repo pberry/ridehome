@@ -25,7 +25,6 @@ title: E-commerce/Retail
 ### September
 
 - [Etsy pops 16% as OpenAI announces ChatGPT Instant Checkout for the shopping site](https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html) (CNBC)
-- [Klarna Climbs 15% in Trading Debut After $1.37 Billion IPO](https://www.bloomberg.com/news/articles/2025-09-10/klarna-set-to-trade-after-1-37-billion-ipo-draws-strong-demand) (Bloomberg)
 
 ### August
 
@@ -57,11 +56,6 @@ title: E-commerce/Retail
 ### March
 
 - [Instacart will pay shoppers to take videos of store shelves](https://www.theverge.com/news/637149/instacart-store-view-shoppers-second-store-check) (The Verge)
-- [EToro Files for IPO Showing Commissions Jumped 46% Last Year](https://www.bloomberg.com/news/articles/2025-03-24/etoro-group-files-for-ipo-showing-revenue-tripled-last-year?sref=Szq5ylDR) (Bloomberg)
-- [Ticket reseller StubHub files for an IPO](https://www.axios.com/2025/03/21/stubhub-tickets-ipo) (Axios)
-- [Klarna, nearing IPO, plucks lucrative Walmart fintech partnership from rival Affirm](https://www.cnbc.com/2025/03/17/walmart-klarna-nearing-ipo-wins-fintech-partnership-from-affirm.html) (CNBC)
-- [Klarna to File for $1 Billion-Plus IPO as Soon as Next Week](https://www.bloomberg.com/news/articles/2025-03-06/klarna-set-to-file-for-1-billion-plus-ipo-as-soon-as-next-week?srnd=homepage-americas&sref=Szq5ylDR) (Bloomberg)
-- [Peter Thiel-backed fintech Ramp nearly doubles valuation to $13bn](https://www.ft.com/content/458a96ba-e022-4b06-b028-b4bc41a969b6) (Financial Times)
 
 ### February
 
@@ -83,7 +77,6 @@ title: E-commerce/Retail
 
 ### November
 
-- [Klarna’s Planned IPO Sets the Stage for More Fintech Listings](https://www.bloomberg.com/news/articles/2024-11-21/klarna-s-planned-ipo-sets-the-stage-for-more-fintech-listings?sref=Szq5ylDR) (Bloomberg)
 - [Amazon debuts discount store with everything under $20 to take on Temu and Shein](https://www.cnbc.com/2024/11/13/amazon-haul-discount-storefront-debuts-to-take-on-temu-and-shein-.html) (CNBC)
 
 ### October
@@ -162,7 +155,6 @@ title: E-commerce/Retail
 - [US Thanksgiving weekend sales hit record on big discounts, online boost](https://www.reuters.com/business/retail-consumer/us-cyber-monday-sales-hit-record-124-billion-big-discounts-report-2023-11-28/) (Reuters)
 - [Payments app Zelle begins refunds for imposter scams after Washington pressure](https://www.reuters.com/technology/cybersecurity/payments-app-zelle-begins-refunds-imposter-scams-after-washington-pressure-2023-11-13/) (Reuters)
 - [Amazon links One Medical primary care to Prime memberships](https://www.washingtonpost.com/technology/2023/11/08/amazon-prime-health-care-one-medical/) (Washington Post)
-- [Shein Targets Up to $90 Billion Valuation in US IPO, Sources Say](https://www.bloomberg.com/news/articles/2023-11-07/shein-targets-up-to-90-billion-valuation-in-us-ipo-sources-say?sref=Szq5ylDR) (Bloomberg)
 - [Klarna’s financial glow-up is my favorite story in tech right now](https://techcrunch.com/2023/11/06/klarnas-q3-results-analysis/) (TechCrunch)
 - [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning) (The Verge)
 
@@ -170,7 +162,6 @@ title: E-commerce/Retail
 
 - [Instacart closes up 12% in Nasdaq debut, after first-day rally sputters](https://www.cnbc.com/2023/09/19/instacart-shares-start-trading-on-nasdaq-at-42.html) (CNBC)
 - [Apple and Goldman were planning stock-trading feature for iPhones until markets turned last year](https://www.cnbc.com/2023/09/20/apple-goldman-sachs-were-planning-a-stock-trading-feature-for-iphones.html) (CNBC)
-- [Instacart targets up to $9.3 bln valuation for much-awaited US IPO](https://www.reuters.com/markets/deals/grocery-delivery-app-instacart-aims-up-77-bln-valuation-us-ipo-2023-09-11/) (Reuters)
 
 ### August
 
@@ -248,7 +239,6 @@ title: E-commerce/Retail
 
 - [Walmart enters the metaverse with Roblox experiences aimed at younger shoppers](https://www.cnbc.com/2022/09/26/walmart-enters-the-metaverse-with-roblox.html) (CNBC)
 - [Unauthorized Shein boutiques are popping up across Mexico](https://restofworld.org/2022/women-unofficial-shein-boutiques-mexico/)
-- [Instacart Plans to Focus IPO on Selling Employee Shares](https://www.wsj.com/articles/instacart-plans-to-focus-ipo-on-selling-employee-shares-11663581602?mod=djemalertNEWS) (WSJ)
 - [The Amazon Experience Comes to the NFL](https://www.theringer.com/nfl/2022/9/16/23356030/amazon-nfl-broadcast-kansas-city-chiefs-los-angeles-chargers) (The Ringer)
 
 ### August
@@ -288,14 +278,11 @@ title: E-commerce/Retail
 
 - [In India’s Mobile-Payments Boom, Even Beggars Get QR Codes](https://www.wsj.com/articles/in-indias-mobile-payments-boom-even-beggars-get-qr-codes-11653653383?mod=djemalertNEWS)
 - [The Collison Brothers Built Stripe Into A $95 Billion Unicorn With Eye-Popping Financials. Inside Their Plan To Stay On Top](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/?sh=6e600fbc5a1b)
-- [SoftBank-Backed Fintech Giant Klarna Looks for New Funds at Lower Valuation](https://www.wsj.com/articles/softbank-backed-fintech-giant-klarna-looks-for-new-funds-at-lower-valuation-11652951574?mod=djemalertNEWS) (WSJ)
 - [New York Now Has More Airbnb Listings Than Apartments for Rent](https://www.curbed.com/2022/05/new-york-more-airbnb-listings-apartments-rentals.html?scrolla=5eb6d68b7fedc32c19ef33b4) (Curbed)
 - [Apple Now Letting Developers Automatically Charge for Some Subscription Price Increases](https://www.macrumors.com/2022/05/16/apple-subscription-automatic-increase-charges/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
-- [Instacart Files Confidentially for an IPO That Could Happen This Year](https://www.bloomberg.com/news/articles/2022-05-12/instacart-is-said-to-file-confidentially-for-an-ipo-in-us?sref=Szq5ylDR) (Bloomberg)
 - [Amazon’s surprising new delivery partners: Rural mom-and-pop shops](https://www.vox.com/recode/2022/5/9/23063528/amazon-rural-small-business-delivery-program-hub-partners-usps?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
 - [Fast, Cheap, and Out of Control: Inside Shein’s Sudden Rise](https://www.wired.com/story/fast-cheap-out-of-control-inside-rise-of-shein/)
 - [Cameo lays off close to 90, including senior executives](https://www.protocol.com/bulletins/cameo-layoffs-cto-cpo) (Protocol)
-- [Stripe flexes its fintech muscle with Financial Connections to pull banking data automatically](https://techcrunch.com/2022/05/04/stripe-launches-financial-connections-for-customers-to-pull-banking-data-used-to-power-transactions-automatically/) (TechCrunch)
 - [Uber reports surging revenue as drivers return, but posts massive loss on investments](https://www.cnbc.com/2022/05/04/uber-q1-2022-earnings.html) (CNBC)
 
 ### April
@@ -311,7 +298,6 @@ title: E-commerce/Retail
 - [The Scoop: Inside Fast’s Rapid Collapse](https://newsletter.pragmaticengineer.com/p/the-scoop-fast?s=r)
 - [Millennial Billionaire Ryan Breslow Created Buzz, And Enemies, Attacking Stripe And Shopify. He’s Just Getting Started.](https://www.forbes.com/sites/stevenbertoni/2022/04/04/meet-the-gen-z-billionaire-whos-speaking-his-truth-to-silicon-valley/?sh=387041db6c06&s=09)
 - [Shein Valued at $100 Billion in Funding Round](https://www.wsj.com/articles/shein-valued-at-100-billion-in-funding-round-11649126740?mod=djemalertNEWS) (WSJ)
-- [Fast, the Troubled Fintech Startup, Is Shutting Down](https://www.theinformation.com/articles/fast-the-troubled-fintech-startup-is-shutting-down?rc=64g9cw) (The Information)
 - [Food Delivery Stocks Lose $24 Billion in Just Three Months](https://www.bloomberg.com/news/articles/2022-04-01/food-delivery-stocks-in-the-cold-without-showing-path-to-profit?sref=Szq5ylDR) (Bloomberg)
 - [Online shopping in the middle of the ocean](https://restofworld.org/2022/online-shopping-in-the-middle-of-the-ocean/)
 
@@ -328,7 +314,6 @@ title: E-commerce/Retail
 
 - [Amazon’s sprawling grocery business has become an ‘expensive hobby’ with a cloudy future](https://www.cnbc.com/2022/02/19/amazons-sprawling-grocery-business-has-become-an-expensive-hobby.html)
 - [Amazon sues two companies that allegedly help fill the site with fake reviews](https://www.cnbc.com/2022/02/22/amazon-sues-alleged-fake-reviews-brokers-appsally-rebatest.html) (CNBC)
-- [PrimaryBid raises $190M to double down on making it easier for ordinary people to invest in IPOs and follow-on fundraises](https://techcrunch.com/2022/02/20/primarybid-raises-190m-to-double-down-on-making-it-easier-for-ordinary-people-to-invest-in-ipos-and-follow-on-fundraises/) (TechCrunch)
 - [Sea’s $16 Billion Crash Signals Trouble Beyond India Shutout](https://www.bloomberg.com/news/articles/2022-02-15/sea-s-16-billion-wipeout-portends-trouble-beyond-india-shutout?sref=Szq5ylDR) (Bloomberg)
 - [Gopuff stocks its warehouses with items purchased from Instacart, spending tens of thousands per month on the service](https://www.businessinsider.com/gopuff-instacart-stock-warehouse-ultrafast-delivery-ecosystem-2022-2) (Insider)
 - [Apple announces new Tap to Pay feature that turns iPhones into contactless payment terminals](https://9to5mac.com/2022/02/08/apple-pay-tap-to-pay-iphone-feature-announced/) (9to5Mac)
@@ -359,9 +344,7 @@ title: E-commerce/Retail
 - [Amazon Builds Out Network to Speed Delivery, Handle Holiday Crunch](https://www.wsj.com/articles/amazon-builds-out-network-to-speed-delivery-handle-holiday-crunch-11638181801?mod=djemalertNEWS) (WSJ)
 - [Amazon poised to pass UPS and FedEx to become largest U.S. delivery service by early 2022, exec says](https://www.cnbc.com/2021/11/29/amazon-on-track-to-be-largest-us-delivery-service-by-2022-exec-says.html?utm_term=Autofeed&utm_medium=Social&utm_content=Main&utm_source=Twitter#Echobox=1638198570) (CNBC)
 - [Walmart will be the first retailer to test Twitter’s new livestream shopping platform](https://techcrunch.com/2021/11/22/walmart-will-be-the-first-retailer-to-test-twitters-new-livestream-shopping-platform/) (TechCrunch)
-- [India’s Paytm Tumbles Another 13% After First-Day IPO Flop](https://www.bloomberg.com/news/articles/2021-11-22/paytm-under-scrutiny-after-first-day-flop-followed-record-ipo?sref=Szq5ylDR) (Boomberg)
 - [Desperate Parents Turn to Shopping Bots to Hunt for Hottest Christmas Gifts](https://www.wsj.com/articles/desperate-parents-turn-to-shopping-bots-to-hunt-for-hottest-christmas-gifts-11637417633?mod=djemalertNEWS) (WSJ)
-- [Paytm falls 27% on first trading day after India’s largest IPO](https://techcrunch.com/2021/11/17/india-paytm-makes-market-debut/) (TechCrunch)
 - [Zillow to shutter home buying business and lay off 2,000 employees as its big real estate bet falters](https://www.geekwire.com/2021/zillow-shutter-home-buying-business-lay-off-2k-employees-big-real-estate-bet-falters/) (GeekWire)
 - [Zillow Seeks to Sell 7,000 Homes for $2.8 Billion After Flipping Halt](https://www.bloomberg.com/news/articles/2021-11-01/zillow-selling-7-000-homes-for-2-8-billion-after-flipping-halt?sref=Szq5ylDR) (Bloomberg)
 
@@ -401,7 +384,6 @@ title: E-commerce/Retail
 - [Robinhood surges as much as 81% in second day of wild trading](https://www.cnbc.com/2021/08/04/robinhood-surges-another-13percent-a-day-after-jumping-past-ipo-price.html) (CNBC)
 - [Apple, Affirm to Join on Buy Now, Pay Later for Canadian Purchases](https://www.bloomberg.com/news/articles/2021-08-03/apple-affirm-to-join-on-buy-now-pay-later-for-canada-purchases?sref=Szq5ylDR) (Bloomberg)
 - [Twitter's Dorsey leads $29 bln buyout of lending pioneer Afterpay](https://www.reuters.com/technology/square-buy-australias-afterpay-29-billion-2021-08-01/) (Reuters)
-- [Robinhood Sold IPO Shares to More Than 300,000 of Its Customers](https://www.wsj.com/articles/robinhood-sold-ipo-shares-to-more-than-300-000-of-its-customers-11627767683?mod=djemalertNEWS) (WSJ)
 
 ### July
 
@@ -438,12 +420,8 @@ title: E-commerce/Retail
 
 - [Deliveroo drags on the LSE; closes down 44% on debut](https://techcrunch.com/2021/03/31/deliveroo-prices-its-shares-on-the-lse-at-3-90-at-the-lower-end-of-the-range-with-a-market-cap-of-7-59b/) (TechCrunch)
 - [Cameo Aims to Connect Celebrities With Fans and It’s Now Valued at $1 Billion](https://www.wsj.com/articles/cameo-aims-to-connect-celebrities-with-fans-and-its-now-worth-1-billion-11617096602?mod=djemalertNEWS) (WSJ)
-- [Deliveroo Hit by Investor, Rider Revolt Ahead of London IPO](https://www.bloomberg.com/news/articles/2021-03-25/deliveroo-hit-by-investor-rider-revolt-ahead-of-london-ipo?sref=sZAFdZwV) (Bloomberg)
-- [Trading App Robinhood Says It Filed Confidentially for IPO](https://www.bloomberg.com/news/articles/2021-03-23/robinhood-is-said-to-have-filed-confidentially-for-u-s-ipo?sref=sZAFdZwV) (Bloomberg)
 - [On-demand logistics and fulfillment startup Flowspace raises $31M](https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/) (VentureBeat)
-- [Exclusive: Investors value China's Ant Group at over $200 billion after IPO halt - sources](https://www.reuters.com/article/us-china-ant-group-investors-exclusive-idUSKBN2B80JS) (Reuters)
 - [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f) (Financial Times)
-- [SoftBank-Backed Coupang Prices U.S. IPO Above Target](https://www.bloomberg.com/news/articles/2021-03-11/softbank-backed-coupang-said-to-price-u-s-ipo-above-target?sref=sZAFdZwV) (Bloomberg)
 - [The new Google Pay repeats all the same mistakes of Google Allo](https://arstechnica.com/gadgets/2021/03/the-new-google-pay-repeats-all-the-same-mistakes-of-google-allo/) (Ars Technica)
 - [Amazon shaves app icon mustache that raised eyebrows](https://www.theverge.com/tldr/2021/3/1/22307870/amazon-new-app-icon-mustache-shave-change-design-update?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Instacart’s valuation doubles to $39 billion](https://www.cnbc.com/2021/03/02/instacarts-valuation-doubles-to-39-billion.html) (CNBC)
@@ -452,7 +430,6 @@ title: E-commerce/Retail
 
 ### February
 
-- [Restaurant-Software Provider Toast Prepares for IPO](https://www.wsj.com/articles/restaurant-software-provider-toast-prepares-for-ipo-11613938981?mod=djemalertNEWS) (WSJ)
 - [Google Maps will now let you pay for public transportation and parking through its app](https://www.theverge.com/2021/2/17/22287043/google-maps-pay-parking-public-transportation-cities?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Bumble stock closes up 63% after soaring in market debut](https://www.cnbc.com/2021/02/11/bumble-ipo-bmbl-starts-trading-on-nasdaq.html) (CNBC)
 - [Microsoft approached Pinterest about a takeover](https://www.ft.com/content/f88b8474-e791-4efb-a9f6-54c8222680fe) (Financial Times)
@@ -477,10 +454,8 @@ title: E-commerce/Retail
 - [Hipcamp, ‘Airbnb of the Outdoors,’ Raises $57 Million](https://www.theinformation.com/articles/hipcamp-airbnb-of-the-outdoors-raises-57-million) (The Information)
 - [Local news app News Break raises $115M](https://techcrunch.com/2021/01/07/news-break-funding/) (TechCrunch)
 - [Perfect Corp., developer of virtual beauty app YouCam Makeup, closes $50 million Series C led by Goldman Sachs](https://techcrunch.com/2021/01/06/perfect-corp-developer-of-virtual-beauty-app-youcam-makeup-closes-50-million-series-c-led-by-goldman-sachs/) (TechCrunch)
-- [Fintech startup Oxygen raises $17M in Series A round](https://siliconangle.com/2021/01/04/fintech-startup-oxygen-raises-17m-series-round-digital-banking-app/) (SiliconAngle)
 - [Online clothing reseller Poshmark closes up more than 140% on first day of trading](https://www.cnbc.com/2021/01/14/poshmark-ipo-posh-starts-trading-on-nasdaq.html) (CNBC)
 - [Max Levchin’s Affirm pops nearly 100% in market debut](https://www.cnbc.com/2021/01/13/affirm-ipo-afrm-starts-trading-on-nasdaq.html) (CNBC)
-- [Walmart to create fintech start-up with investment firm behind Robinhood](https://www.cnbc.com/2021/01/11/walmart-to-create-fintech-start-up-with-investment-firm-behind-robinhood.html) (CNBC)
 - [Cameo launches hiring spree following banner year](https://www.axios.com/cameo-executives-hired-26a6673d-4513-4788-aa59-5b1ecdfa11ca.html) (Axios)
 - [Trade-in site Gazelle is ending trade-ins](https://www.theverge.com/2020/12/30/22206779/gazelle-smartphone-used-trade-in-program-shut-down?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
@@ -492,26 +467,21 @@ title: E-commerce/Retail
 - [Opendoor Rides SPAC Deal to Lofty $18 Billion Valuation at Market Debut](https://www.theinformation.com/articles/opendoor-rides-spac-deal-to-lofty-18-billion-valuation-at-market-debut) (The Information)
 - [Real estate software and data analytics company RealPage to be acquired for $10.2 billion](https://venturebeat.com/2020/12/21/real-estate-software-and-data-analytics-company-realpage-to-be-acquired-for-10-2-billion/) (VentureBeat)
 - [Airbnb skyrockets 112% in public market debut, giving it a market cap of $86.5 billion](https://www.cnbc.com/2020/12/10/airbnb-ipo-abnb-starts-trading-on-the-nasdaq.html) (CNBC)
-- [Airbnb shares set to double in IPO — likely to be worth nearly $93 billion](https://www.cnbc.com/2020/12/10/airbnb-ipo-abnb-starts-trading-on-the-nasdaq.html) (CNBC)
 - [DoorDash skyrockets 80% in market debut, opening at $182 per share](https://www.cnbc.com/2020/12/09/doordash-ipo-dash-trading-nyse.html) (CNBC)
 - [Wish plans to price between $22 and $24 per share at up to $14 billion valuation](https://www.cnbc.com/2020/12/07/wish-seeks-to-raise-1point1-billion-in-ipo.html) (CNBC)
-- [Airbnb Boosts IPO Price Range to Between $56 and $60 a Share](https://www.wsj.com/articles/airbnb-boosts-ipo-price-range-to-between-56-and-60-a-share-11607302117?mod=djemalertNEWS) (WSJ)
 - [Stripe to Offer Banking Services in Deal With Goldman Sachs, Citigroup](https://www.wsj.com/articles/stripe-to-offer-banking-services-in-deal-with-goldman-sachs-citigroup-11607007608?mod=djemalertNEWS) (WSJ)
 - [Stripe: Platform of Platforms](https://stratechery.com/2020/stripe-platform-of-platforms/) (Stratechery)
 - [PhonePe raises $700 million, becomes a separate entity](https://techcrunch.com/2020/12/02/phonepe-raises-700-million-becomes-a-separate-entity/) (TechCrunch)
 - [FedEx to Buy ShopRunner in Quest for Closer E-Commerce Ties](https://www.bloomberg.com/news/articles/2020-12-02/fedex-to-buy-shoprunner-in-quest-for-closer-e-commerce-ties?sref=sZAFdZwV) (Bloomberg)
-- [Airbnb seeks valuation of up to $35 billion in its IPO](https://www.cnbc.com/2020/12/01/airbnb-ipo-seeks-valuation-of-up-to-35-billion.html) (CNBC)
 
 ### November
 
-- [DoorDash seeks valuation of up to $32 billion in IPO, double what it was in June](https://www.cnbc.com/2020/11/30/doordash-ipo-seeks-valuation-of-up-to-30-billion.html) (CNBC)
 - [Airbnb, DoorDash Aim for Higher-Than-Expected Valuations Ahead of Debuts](https://www.wsj.com/articles/airbnb-doordash-aim-for-higher-than-expected-valuations-ahead-of-debuts-11606689243?mod=djemalertNEWS) (WSJ)
 - [Payments Startup Stripe in Talks for Funding at $70 Billion Valuation or More](https://www.bloomberg.com/news/articles/2020-11-24/payments-startup-stripe-is-said-in-talks-to-raise-new-funding?sref=sZAFdZwV) (Bloomberg)
 - [Can Shopify Compete With Amazon Without Becoming Amazon?](https://www.nytimes.com/2020/11/24/magazine/shopify.html) (NYTimes Magazine)
 - [BuzzFeed to Acquire HuffPost in Stock Deal With Verizon Media](https://www.wsj.com/articles/buzzfeed-to-acquire-huffpost-in-stock-deal-with-verizon-media-11605808800?mod=djemalertNEWS) (WSJ)
 - [Google Pay gets a major redesign with a new emphasis on personal finance](https://techcrunch.com/2020/11/18/google-pay-gets-a-major-redesign/) (TechCrunch)
 - [Affirm drops S-1, revealing sharply rising revenue on a narrower net loss](https://finledger.com/2020/11/18/affirm-drops-s-1-revealing-sharply-rising-revenue-on-a-narrower-net-loss/) (FinLedger.com)
-- [Robinhood Seeks Advisers for Potential IPO Next Year](https://www.bloomberg.com/news/articles/2020-11-17/robinhood-is-said-to-seek-advisers-for-potential-ipo-next-year?sref=sZAFdZwV) (Bloomberg)
 - [Amazon jumps into the pharmacy business with online prescription fulfillment, free delivery for Prime members](https://www.cnbc.com/2020/11/17/amazon-pharmacy-free-prescription-delivery-for-prime-members.html) (CNBC)
 - [Airbnb files to go public, turned a profit last quarter](https://www.cnbc.com/2020/11/16/airbnb-s-1-ipo-filing-drops.html) (CNBC)
 - [DoorDash files to go public](https://techcrunch.com/2020/11/13/doordash-files-to-go-public/) (TechCrunch)
@@ -535,16 +505,12 @@ title: E-commerce/Retail
 ### August
 
 - [Jeff Wilke, Amazon’s consumer boss and a top lieutenant to Bezos, will step down in 2021](https://www.cnbc.com/2020/08/21/amazons-consumer-boss-jeff-wilke-to-step-down-in-2021.html) (CNBC)
-- [Airbnb files confidential IPO paperwork](https://www.cnbc.com/2020/08/19/airbnb-has-filed-confidential-ipo-paperwork.html) (CNBC)
-- [Airbnb Files Confidentially for IPO With SEC](https://www.wsj.com/articles/airbnb-files-confidentially-for-ipo-with-sec-11597870752?mod=djemalertNEWS) (WSJ)
-- [Online Thrift Shop ThredUp Plans IPO Early Next Year](https://www.bloomberg.com/news/articles/2020-08-20/online-thrift-shop-thredup-is-said-to-plan-ipo-early-next-year?sref=MzDxCtkS) (Bloomberg)
 - [DoorDash launches grocery delivery to compete with Amazon and Instacart](https://www.theverge.com/2020/8/20/21376552/doordash-grocery-delivery-amazon-instacart-compete-launch-california-midwest) (The Verge)
 - [Alibaba posts 124 per cent gain in quarterly profit, sees China retail back to pre-pandemic levels](https://www.scmp.com/tech/e-commerce/article/3098175/alibaba-posts-124-cent-gain-quarterly-profit-amid-chinas-gradual) (SCMP)
 - [The ecommerce surge](https://www.ben-evans.com/benedictevans/2020/8/18/the-ecommerce-surge) (Benedict Evans)
 - [Apple Gives Users More Time to Buy AppleCare After Sales Slow](https://www.bloomberg.com/news/articles/2020-08-17/apple-gives-users-more-time-to-buy-applecare-after-sales-slow?sref=MzDxCtkS) (Bloomberg)
 - [Amazon Bets on Office-Based Work With Expansion in Major Cities](https://www.wsj.com/articles/amazon-bets-on-office-based-work-with-expansion-in-major-cities-11597741203?mod=djemalertNEWS) (WSJ)
 - [Apple Readies Subscription Bundles to Boost Digital Services](https://www.bloomberg.com/news/articles/2020-08-13/apple-readies-apple-one-subscription-bundles-to-boost-services?sref=MzDxCtkS) (Bloomberg)
-- [Airbnb Plans to File Confidentially for IPO in August (WSJ)](https://www.cnbc.com/2020/08/10/spacex-starlink-satellte-production-now-120-per-month.html?__source=twitter%7Cmain)
 - [Amazon and Mall Operator Look at Turning Sears, J.C. Penney Stores Into Fulfillment Centers](https://www.wsj.com/articles/amazon-and-giant-mall-operator-look-at-turning-sears-j-c-penney-stores-into-fulfillment-centers-11596992863?mod=djemalertNEWS) (WSJ)
 - [Pinduoduo: Vertically Integrated Social Commerce](https://turner.substack.com/p/pinduoduo-and-vertically-integrated) (Turner Novak's Substack)
 
@@ -597,7 +563,6 @@ title: E-commerce/Retail
 - [Uber’s CEO, a Seasoned Dealmaker, Pursues His Biggest One Yet](https://www.bloomberg.com/news/articles/2020-05-14/uber-s-ceo-a-seasoned-dealmaker-pursues-his-biggest-one-yet?sref=MzDxCtkS) (Bloomberg)
 - [Founder Of Borders Bookstores, Webvan Returns With Dreams Of Beating Amazon At Food Delivery](https://www.forbes.com/sites/laurendebter/2020/05/12/webvan-borders-founder-louis-borders-online-grocery-home-delivery-service/#3694f4f24968) (Forbes)
 - [US e-commerce sales jump 49% in April, led by online grocery](https://techcrunch.com/2020/05/12/us-e-commerce-sales-jump-49-in-april-led-by-online-grocery/) (TechCrunch)
-- [Online Car Seller Vroom Files Confidentially for IPO](https://www.wsj.com/articles/online-car-seller-vroom-files-confidentially-for-ipo-11589152790) (WSJ)
 - [Vista Equity Partners to invest $1.5B in India's Reliance Jio Partners](https://techcrunch.com/2020/05/07/reliance-jio-platforms-vista-equity-partners/) (TechCrunch)
 - [Instacart’s Frantic Dash From Grocery App to Essential Service](https://www.bloomberg.com/news/features/2020-05-06/instacart-was-overwhelmed-by-coronavirus-overnight) (Bloomberg Businessweek)
 - [Uber to lay off 3,700 employees, about 14% of workforce](https://www.cnbc.com/2020/05/06/uber-to-lay-off-3700-employees-about-14percent-of-workforce.html) (CNBC)
@@ -644,15 +609,12 @@ title: E-commerce/Retail
 
 - [How Monzo brought Silicon Valley’s ‘wild ideas’ to Britain’s staid banking system](https://www.cnbc.com/2020/02/27/how-monzos-tom-blomfield-went-from-silicon-valley-to-starting-a-bank.html) (CNBC)
 - [The bank manager will see you now: is Monzo ready to grow up?](https://www.theguardian.com/money/2019/aug/11/the-bank-manager-will-see-you-now-is-monzo-ready-to-grow-up) (The Guardian)
-- [DoorDash preps for IPO, confidentially files documents with SEC](https://www.cnbc.com/2020/02/27/doordash-ipo-company-confidentially-files-documents-with-sec.html) (CNBC)
 - [Intuit confirms that it is buying Credit Karma for $7.1B in cash and stock](https://techcrunch.com/2020/02/24/intuit-credit-karma/) (TechCrunch)
 - [Inside ‘Amazon Go Grocery’: Tech giant opens first full-sized store without cashiers or checkout lines](https://www.geekwire.com/2020/amazon-goes-bigger-first-amazon-go-grocery-new-seattle-store-using-cashierless-technology/) (GeekWire)
 - [Grab raises up to $856M to boost payments business as rumors swirl of a merger with rival Gojek](https://techcrunch.com/2020/02/25/grab-and-gojek-began-discussing-a-potential-merger-more-than-three-months-ago/) (TechCrunch)
 - [Intuit Near Deal to Buy Credit Karma for $7 Billion](https://www.wsj.com/articles/intuit-near-deal-to-buy-credit-karma-for-7-billion-11582433880) (WSJ)
-- [Fintech startups raised $34B in 2019](https://techcrunch.com/2020/02/22/fintech-startups-raised-34b-in-2019/) (TechCrunch)
 - [Blue Chip Morgan Stanley to Buy Discount Broker E-Trade](https://www.nytimes.com/2020/02/20/business/dealbook/morgan-stanley-etrade.html) (NYTimes)
 - [In India, mom-and-pop stores are proving to be the holy grail for tech startups](https://kr-asia.com/in-india-mom-and-pop-stores-are-proving-to-be-the-holy-grail-for-tech-startups) (KrASIA)
-- [Airbnb Swings to a Loss as Costs Climb Ahead of IPO](https://www.wsj.com/articles/airbnb-swings-to-a-loss-as-costs-climb-ahead-of-ipo-11581443123) (WSJ)
 - [Apple Pay is on pace to account for 10% of all global card transactions](https://qz.com/1799912/apple-pay-on-pace-to-account-for-10-percent-of-global-card-transactions/) (QZ)
 - [Brandless shuts down operations, becoming SoftBank Vision Fund's first failure](https://www.protocol.com/softbank-brandless-shuts-down) (Protocol)
 - [Casper surges nearly 30% in market debut](https://www.cnbc.com/2020/02/06/casper-cspr-ipo-stock-starts-trading-on-the-nyse.html) (CNBC)
@@ -661,12 +623,9 @@ title: E-commerce/Retail
 
 - [Amazon Revenue Jumps on Holiday Sales as Profit Rises](https://www.wsj.com/articles/amazon-beats-earnings-estimates-as-shipping-costs-stabilize-11580419032) (WSJ)
 - [Uber and DoorDash held merger talks after SoftBank push](https://www.ft.com/content/e46a250a-4352-11ea-a43a-c4b328d9061c) (Financial Times)
-- [Online mattress retailer Casper IPO to raise $182.4 million](https://www.cnbc.com/2020/01/27/online-mattress-retailer-casper-ipo-to-raise-182point4-million.html) (CNBC)
 - [Seamless, Grubhub deliver confusion with mistaken restaurant listings](https://www.sfchronicle.com/food/article/SF-restaurant-Kin-Khao-doesn-t-offer-delivery-15005797.php) (The San Francisco Chronicle)
 - [Uber Tests Feature Allowing Some California Drivers to Set Fares](https://www.wsj.com/articles/uber-is-testing-a-feature-that-lets-some-california-drivers-set-fares-11579600801) (WSJ)
-- [Islamic fintechs are on the rise — but how viable is this tailored offering?](https://sifted.eu/articles/islamic-fintechs-europe-survive/) (Sifted)
 - [App stores saw record 204 billion app downloads in 2013, consumer spend of $120 billion](https://techcrunch.com/2020/01/15/app-stores-saw-record-204-billion-app-downloads-in-2019-consumer-spend-of-120-billion/) (TechCrunch)
-- [Visa to acquire Plaid, the fintech powering Venmo and other banking apps, in $5.3 billion deal](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) (CNBC)
 
 ## 2019
 
@@ -715,7 +674,6 @@ title: E-commerce/Retail
 - [SoftBank is reportedly seeking to take control of WeWork through a financing package](https://www.cnbc.com/2019/10/13/softbank-is-seeking-to-take-control-of-wework-wsj.html) (CNBC)
 - [Is Amazon Unstoppable?](https://www.newyorker.com/magazine/2019/10/21/is-amazon-unstoppable?currentPage=all) (The New Yorker)
 - [Jeff Bezos’s Master Plan](https://www.theatlantic.com/magazine/archive/2019/11/what-jeff-bezos-wants/598363/) (The Atlantic)
-- [Postmates’ new IPO delay says something bigger: Wall Street is turning against Silicon Valley](https://www.vox.com/recode/2019/10/8/20903393/postmates-ipo-market-wall-street-silicon-valley-direct-listing-wework-uber-unicorns) (Recode)
 - [Group Nine to Acquire PopSugar, Continuing Wave of Digital Media Tie-Ups](https://www.wsj.com/articles/group-nine-to-acquire-popsugar-continuing-wave-of-digital-media-tie-ups-11570482901) (The WSJ)
 - [Robinhood revives checking with new debit card & 2% interest](https://techcrunch.com/2019/10/08/robinhood-cash-management/) (TechCrunch)
 - [Amazon debuts its first ever Kindle Kids Edition](https://www.cnet.com/news/amazon-debuts-kindle-kids-edition/) (CNET)
@@ -724,8 +682,6 @@ title: E-commerce/Retail
 
 ### September
 
-- [WeWork pulls IPO filing](https://www.cnbc.com/2019/09/30/wework-says-it-will-file-request-to-withdraw-its-ipo-prospectus-after-roadshow-management-turmoil.html) (CNBC)
-- [Peloton slides after opening below IPO price in market debut](https://www.cnbc.com/2019/09/26/peloton-pton-ipo-stock-starts-trading-at-27-per-share.html) (CNBC)
 - [Divvy Homes Raises $43M Series B To Help Renters Become Homeowners](https://news.crunchbase.com/news/divvy-homes-raises-43m-series-b-to-help-renters-become-homeowners/) (Crunchbase News)
 - [WeWork CEO Adam Neumann to step down amid controversy and retain chairman role](https://www.cnbc.com/2019/09/24/wework-ceo-adam-neumann-is-expected-to-step-down-amid-controversy-and-retain-chair-role-wsj-reports.html) (CNBC)
 - [Some WeWork Board Members Seek to Remove Adam Neumann as CEO](https://www.wsj.com/articles/some-wework-board-members-seek-to-remove-adam-neumann-as-ceo-11569171188) (WSJ)
@@ -734,15 +690,10 @@ title: E-commerce/Retail
 - [Airbnb Announces Intention to Become a Publicly-Traded Company During 2020](https://press.airbnb.com/airbnb-announces-intention-to-become-a-publicly-traded-company-during-2020/) (Airbnb)
 - [Datadog Rises 53% in Trading Debut After Rebuffing Cisco](https://www.bloomberg.com/news/articles/2019-09-18/datadog-raises-648-million-in-u-s-ipo-priced-above-target) (Bloomberg)
 - [Automattic raises $300 million at $3 billion valuation from Salesforce Ventures](https://techcrunch.com/2019/09/19/automattic-raises-300-million-at-3-billion-valuation-from-salesforce-ventures/) (TechCrunch)
-- [Fintech Company Stripe Joins Silicon Valley Elite With $35 Billion Valuation](https://www.wsj.com/articles/fintech-company-stripe-joins-silicon-valley-elite-with-35-billion-valuation-11568912443) (WSJ)
-- [WeWork delays IPO after frosty investor response](https://www.reuters.com/article/us-wework-ipo/wework-parent-says-ipo-still-on-despite-setbacks-idUSKBN1W12T6) (Reuters)
 - [SoftBank Backers Rethink Role in Next Vision Fund on WeWork](https://www.bloomberg.com/news/articles/2019-09-16/softbank-backers-rethink-role-in-next-vision-fund-after-wework) (Bloomberg)
 - [Amazon Changed Search Algorithm in Ways That Boost Its Own Products](https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345) (WSJ)
-- [WeWork’s valuation could fall to below $15 billion in IPO, down from $47 billion private valuation](https://www.cnbc.com/2019/09/13/wework-makes-sweeping-corporate-governance-changes-ahead-of-ipo.html) (CNBC)
 - [These brothers just raised $15 million for their startup, Dutchie, a kind of Shopify for cannabis dispensaries](https://techcrunch.com/2019/09/10/these-brothers-just-raised-15-million-for-their-startup-dutchie-a-kind-of-shopify-for-dispensaries/) (TechCrunch)
-- [SoftBank urges WeWork to shelve IPO](http://ft.com/content/111f8e00-d346-11e9-8367-807ebd53ab77) (Financial Times)
 - [Amazon’s Next-Day Delivery Has Brought Chaos And Carnage To America’s Streets — But The World’s Biggest Retailer Has A System To Escape The Blame](https://www.buzzfeednews.com/article/carolineodonovan/amazon-next-day-delivery-deaths) (BuzzFeed News)
-- [WeWork Targets $20 Billion to $30 Billion IPO Value](https://www.bloomberg.com/news/articles/2019-09-05/wework-is-said-to-target-20-billion-to-30-billion-ipo-value) (Bloomberg)
 
 ### August
 
@@ -752,7 +703,6 @@ title: E-commerce/Retail
 - [Amazon offered vendors ‘Amazon’s Choice’ labels in return for ad spending and lower prices](https://digiday.com/retail/amazon-offered-vendors-amazons-choice-labels-return-ad-spending-lower-prices/) (Digiday)
 - [WEWORK ISN’T A TECH COMPANY; IT’S A SOAP OPERA](https://www.theverge.com/2019/8/15/20806366/we-company-wework-ipo-adam-neumann) (The Verge)
 - [WeWTF](https://www.profgalloway.com/wewtf) (ProfGalloway.com)
-- [WeWork files for long-awaited IPO](https://www.axios.com/wework-files-for-long-awaited-ipo-31f810f0-b470-4e0f-b0e6-0fd200ad4632.html) (Axios)
 - [Peer-to-peer boat rental marketplace Boatsetter raises $10M as it looks to grow globally](https://techcrunch.com/2019/08/14/peer-to-peer-boat-rental-marketplace-boatsetter-raises-10m-as-it-looks-to-grow-globally/) (TechCrunch)
 - [Verizon to Sell Tumblr to WordPress.com Owner](https://www.wsj.com/articles/verizon-to-sell-tumblr-to-wordpress-owner-11565640000) (WSJ)
 - [Uber Posts $5.2 Billion Loss and Slowest Ever Growth Rate](https://www.nytimes.com/2019/08/08/technology/uber-earnings.html) (NYTimes)
@@ -787,13 +737,9 @@ title: E-commerce/Retail
 ### April
 
 - [Amazon Has Gone From Neutral Platform to Cutthroat Competitor, Say Open Source Developers](https://onezero.medium.com/open-source-betrayed-industry-leaders-accuse-amazon-of-playing-a-rigged-game-with-aws-67177bc748b7) (OneZero)
-- [Uber unveils IPO with warning it may never make a profit](https://www.reuters.com/article/us-uber-ipo/in-ipo-uber-reveals-91-million-users-but-slowing-growth-idUSKCN1RN2SK) (Reuters)
-- [Alphabet Is Uber IPO’s Surprise Winner With Potential $5 Billion Stake](https://www.forbes.com/sites/jilliandonfro/2019/04/11/alphabet-is-uber-ipos-surprise-winner-with-potential-5-billion-stake/#37f36be03dda) (Forbes)
 - [Uber’s Venture Investors Set for a Windfall](https://www.wsj.com/articles/ubers-venture-investors-set-for-a-windfall-11555032345) (WSJ)
 - [Jeff Bezos challenges retail rivals to outdo Amazon’s $15 minimum wage](https://www.theverge.com/2019/4/11/18305891/amazon-minimum-wage-jeff-bezos-shareholder-letter-2019) (The Verge)
 - [Lemonade picks up $300 million Series D led by SoftBank Group](https://techcrunch.com/2019/04/11/lemonade-picks-up-300-million-series-d-led-by-softbank-group/) (TechCrunch)
-- [Exclusive: Uber plans to sell around $10 billion worth of stock in IPO - sources](https://www.reuters.com/article/us-uber-ipo-exclusive/exclusive-uber-plans-to-sell-around-10-billion-worth-of-stock-in-ipo-sources-idUSKCN1RM03L) (Reuters)
-- [Pinterest sets IPO range at $15-17, valuing it at $10.6B vs previous valuation of $12.3B](https://techcrunch.com/2019/04/08/pinterest-ipo-range/) (TechCrunch)
 - [Jeff Bezos, in divorce settlement, retains 75 percent of the Amazon stock he held with his now ex-wife MacKenzie](https://www.washingtonpost.com/technology/2019/04/04/jeff-bezos-divorce-settlement-retains-percent-amazon-stock-he-held-with-his-now-ex-wife-mackenzie/?utm_term=.5f3d829e7d38) (The Washington Post)
 - [The World’s Greatest Delivery Empire](https://www.bloomberg.com/features/2019-meituan-china-delivery-empire/) (Bloomberg Businessweek)
 - [Walmart Unveils Voice-Activated, Google-Powered Grocery Shopping](https://www.bloomberg.com/news/articles/2019-04-02/walmart-unveils-voice-activated-google-powered-grocery-shopping) (Bloomberg)
@@ -804,12 +750,10 @@ title: E-commerce/Retail
 - [The Enormous Numbers Behind Amazon’s Market Reach](https://www.bloomberg.com/graphics/2019-amazon-reach-across-markets/) (Bloomberg)
 - [Apple introduced its own credit card, the Apple Card](https://techcrunch.com/2019/03/25/apple-introduces-its-own-credit-card-the-apple-card/) (TechCrunch)
 - [Instagram tests in-app shopping with Kylie Cosmetics, Nike and Huda Beauty](https://digiday.com/retail/instagram-tests-app-shopping-kylie-cosmetics-nike-huda-beauty/) (Digiday)
-- [Lyft Aims for Valuation Near $20 Billion in Biggest U.S. IPO](https://www.bloomberg.com/news/articles/2019-03-18/lyft-aims-to-raise-up-to-2-1-billion-in-year-s-biggest-u-s-ipo) (Bloomberg)
 - [Meet The Billionaire Who Defied Amazon And Built Wish, The World’s Most-Downloaded E-Commerce App](https://www.forbes.com/sites/parmyolson/2019/03/13/meet-the-billionaire-who-defied-amazon-and-built-wish-the-worlds-most-downloaded-e-commerce-app/#5bc91e5070f5) (Forbes)
 - [Airbnb Wanted Travelers To Stay In Homes. Now It's Buying HotelTonight.](https://www.buzzfeednews.com/article/pranavdixit/airbnb-buys-hoteltonight) (BuzzFeed News)
 - [Three Reasons Behind Airbnb’s Deal for HotelTonight](https://www.theinformation.com/articles/three-reasons-behind-airbnbs-deal-for-hoteltonight?shared=cbd718ac43b51770) (The Information)
 - [Grab confirms $1.46B investment from SoftBank’s Vision Fund](https://techcrunch.com/2019/03/05/grab-vision-fund/) (TechCrunch)
-- [Lyft's financials show a $911 million loss ahead of its IPO](https://www.cnbc.com/2019/03/01/lyft-s-1-ipo.html) (CNBC)
 - [Amazon stops selling Dash buttons, goofy forerunners of the connected home](https://www.cnet.com/news/amazon-stops-selling-dash-buttons-goofy-forerunners-of-connected-home/) (CNET)
 
 ### February
@@ -841,16 +785,13 @@ title: E-commerce/Retail
 
 - [Amazon gets into health insurance — and more 2019 health-tech predictions from top experts](https://www.cnbc.com/2018/12/26/health-tech-predictions-for-2019.html) (CNBC)
 - [Amazon Says Alexa Voice Shopping Tripled During 2018 Holiday Season](http://fortune.com/2018/12/26/amazon-alexa-2018-holiday-sales/) (Fortune)
-- [Pinterest Readies Itself for Early 2019 IPO](https://www.wsj.com/articles/pinterest-readies-itself-for-early-2019-ipo-11545251368) (WSJ)
 - [Amazon Targets Unprofitable Items, With a Sharper Focus on the Bottom Line](https://www.wsj.com/articles/amazon-targets-unprofitable-items-with-a-sharper-focus-on-the-bottom-line-11544965201) (WSJ)
 - [Robinhood Will Retool Checking Product Following Scrutiny](https://www.bloomberg.com/news/articles/2018-12-15/robinhood-will-retool-checking-product-following-scrutiny) (Bloomberg)
 - [Amazon has officially killed the Whole Foods-Instacart partnership](https://www.recode.net/2018/12/13/18139324/whole-foods-instacart-partnership-ended-amazon) (Recode)
 - [Robinhood launches no-fee checking/savings with Mastercard & the most ATMs](https://techcrunch.com/2018/12/13/robinhood-free-checking-and-savings-accounts/) (TechCrunch)
 - [Indonesia e-commerce leader Tokopedia raises $1.1B from Alibaba and SoftBank's Vision Fund](https://techcrunch.com/2018/12/11/tokopedia-raises-1-1b/) (TechCrunch)
 - [At this new online banking platform, customers are the owners](https://www.fastcompany.com/90276403/at-this-new-online-bank-customers-are-the-owners) (Fast Company)
-- [Fintech start-up Plaid raises $250 million at $2.7 billion valuation, adds Mary Meeker to board](https://www.cnbc.com/2018/12/11/plaids-250-million-funding-round-propels-it-to-2point7-billion-valuation.html) (CNBC)
 - [Vroom nabs $146M from AutoNation, VCs for its used car site](https://techcrunch.com/2018/12/11/vroom-nabs-146m-from-autonation-vcs-for-its-online-used-car-marketplace/) (TechCrunch)
-- [Tencent Music Moves Forward With IPO After Delay](https://www.wsj.com/articles/tencent-music-moves-forward-with-ipo-after-delay-1543846991) (WSJ)
 
 ### November
 
@@ -873,8 +814,6 @@ title: E-commerce/Retail
 - [Kickstarter to End Drip, Fund New Platform with XOXO Festival Creators](https://www.theverge.com/2018/10/24/18019720/kickstarter-drip-xoxo-andy-baio-mcmillan) (The Verge)
 - [The Team Behind XOXO is Taking Over Kickstarter’s Drip Crowdfunding Community](https://techcrunch.com/2018/10/24/xoxo-drip-kickstarter-xoxo-fest/) (TechCrunch)
 - [Inside the $2.6 billion subscription box wars](https://www.fastcompany.com/90248232/inside-the-2-6-billion-subscription-box-wars) (Fast Company)
-- [Uber Proposals Value Company at $120 Billion in a Possible IPO](https://www.wsj.com/articles/uber-proposals-value-company-at-120-billion-in-a-possible-ipo-1539690343?mod=e2tw) (WSJ)
-- [Tencent Music Pauses IPO Amid Market Turmoil](https://www.wsj.com/articles/tencent-music-pauses-ipo-amid-market-turmoil-1539288688) (WSJ)
 - [This Is How Amazon Loses](https://shift.newco.co/2018/10/10/this-is-how-amazon-loses/) (NewCo Shift)
 - [Snap Is ‘Quickly Running Out of Money,’ Analyst Says](https://www.bloomberg.com/news/articles/2018-10-09/snap-s-cash-drain-is-becoming-a-big-problem-analyst-says) (Bloomberg)
 - [A China Veggie-Selling App May Be Worth $7 billion](https://www.bloomberg.com/news/articles/2018-10-09/china-veggie-selling-app-is-said-to-raise-more-than-600-million) (Bloomberg)
@@ -887,7 +826,6 @@ title: E-commerce/Retail
 
 - [Amazon's Aggressive Anti-Union Tactics Revealed in Leaked 45-Minute Video](https://gizmodo.com/amazons-aggressive-anti-union-tactics-revealed-in-leake-1829305201) (Gizmodo)
 - [Payment Startup Stripe Is Now a $20 Billion Company](https://www.bloomberg.com/news/articles/2018-09-26/payment-startup-stripe-is-now-a-20-billion-company) (Bloomberg)
-- [Lyft Shows Financial Improvement Ahead of IPO Filing](https://www.theinformation.com/articles/lyft-shows-financial-improvement-ahead-of-ipo-filing) (The Information)
 - [Uber drivers and other gig economy workers are earning half what they did five years ago](https://www.recode.net/2018/9/24/17884608/uber-driver-gig-economy-money-pay-lyft-postmates) (Recode)
 - [Vox Media On Pace to Miss Revenue Target as Digital Advertising Disappoints](https://www.wsj.com/articles/vox-media-on-pace-to-miss-revenue-target-as-digital-advertising-disappoints-1537742167?mod=searchresults&page=1&pos=1) (WSJ)
 - [Amazon: Retailers Gonna Retail](https://medium.learningbyshipping.com/amazon-4648bdf511c) (Steven Sinofsky)
@@ -907,7 +845,6 @@ title: E-commerce/Retail
 - [Wish, an Internet Dollar Store, Struggles to Keep Customers](https://www.theinformation.com/articles/wish-an-internet-dollar-store-struggles-to-keep-customers) (The Information)
 - [Amazon in Running to Acquire Landmark Movie Chain](https://www.bloomberg.com/news/articles/2018-08-16/amazon-is-said-to-be-in-running-to-acquire-landmark-movie-chain) (Bloomberg)
 - [Apple Pay Increasingly Central to iPhone](https://loupventures.com/apple-pay-increasingly-central-to-iphone/) (Loop Ventures)
-- [Fintech Frenzy: Hype or Reality? A Closer Look at 6 Key Sectors](http://fortune.com/2018/08/08/fintech-crypto-trend-vc-invest/) (Fortune)
 - [The Reality Behind Voice Shopping Hype](https://www.theinformation.com/articles/the-reality-behind-voice-shopping-hype) (The Information)
 - [Airbnb for Work claims 700,000 businesses as bookings tripled for second year in a row](https://venturebeat.com/2018/08/06/airbnb-for-work-claims-700000-businesses-as-bookings-tripled-for-second-year-in-a-row/) (VentureBeat)
 - [How Software Ate the Point of Sale](https://www.theatlantic.com/technology/archive/2018/07/when-software-ate-the-point-of-sale/565919/?curator=TechREDEF) (The Atlantic)

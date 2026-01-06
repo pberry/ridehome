@@ -4,6 +4,12 @@ title: Other Tech News
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture) (The Verge)
+
 ## 2025
 
 ### December
@@ -19,12 +25,9 @@ title: Other Tech News
 - [Inside the Invitation-Only Stock Market for the Wealthy](https://www.wsj.com/finance/investing/private-stock-market-growth-bb71bde1?st=QDBNby&reflink=desktopwebshare_permalink) (WSJ)
 - [Want This Hearing Aid? Well, Who Do You Know?](https://www.wired.com/story/hearing-aid-startup-ai-fortell/)
 - [Tech bros head to etiquette camp as Silicon Valley levels up its style](https://www.washingtonpost.com/technology/2025/12/07/tech-startup-founders-etiquette/)
-- [SpaceX to Pursue 2026 IPO Raising Far Above $30 Billion](https://www.bloomberg.com/news/articles/2025-12-09/spacex-said-to-pursue-2026-ipo-raising-far-above-30-billion) (Bloomberg)
 - [Paramount Skydance launches hostile bid for WBD ‘to finish what we started,’ CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html) (CNBC)
-- [SpaceX in Talks for $800 Billion Valuation Ahead of Potential 2026 IPO](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191?st=nNAurx&reflink=desktopwebshare_permalink) (WSJ)
 - [A Growing U.S. Tech Hub Needs Workers. Colleges Try to Keep Up.](https://www.nytimes.com/2025/12/04/business/tsmc-arizona-workers-training.html)
 - [Apple Design Executive Alan Dye Poached by Meta in Major Coup](https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup) (Bloomberg)
-- [Anthropic taps IPO lawyers as it races OpenAI to go public](https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f?utm_social_post_id=612653139&utm_social_handle_id=18949452) (FT)
 - [OpenAI Takes Stake in Thrive Holdings, a Buyer of Services Firms](https://www.nytimes.com/2025/12/01/business/dealbook/openai-thrive-holdings-ai.html) (NYTimes)
 - [Top consultancies freeze starting salaries as AI threatens ‘pyramid’ model](https://www.ft.com/content/2b15601b-8d02-4abe-a789-7862874042be) (FT)
 
@@ -56,7 +59,6 @@ title: Other Tech News
 - [Egon Durban’s $55bn buyout bet raises stakes for Silver Lake](https://www.ft.com/content/df28c965-adb6-4ac8-82ce-e52bc682e4fc?accessToken=zwAGQCYz0kSokdPfKMllrbZKyNOCzuUrxoLk_A.MEUCIQC2KeXx-iVvdEqRjtkVh9N1VxmWOw3cxqwABPuC1cAz2gIgGSWlky3hlr9r-HStjLTxq1k5-L50SOCVUydDcGRE82s&sharetype=gift&token=03933e25-0746-4933-82fd-8dd37863f59e)
 - [Silver Lake Cements Power Broker Status With $55 Billion EA Deal](https://www.bloomberg.com/news/articles/2025-09-30/silver-lake-cements-power-broker-status-with-55-billion-ea-deal)
 - [OpenAI Valuation Reaches $500 Billion, Topping Musk’s SpaceX](https://www.bloomberg.com/news/articles/2025-10-02/openai-completes-share-sale-at-record-500-billion-valuation) (Bloomberg)
-- [Google Translate Rival DeepL Explores US IPO](https://www.bloomberg.com/news/articles/2025-10-02/google-translate-rival-deepl-is-said-to-explore-us-ipo) (Bloomberg)
 - [Brave Now Has Over 100 Million Users](https://www.thurrott.com/cloud/web-browsers/327735/brave-now-has-over-100-million-users) (Thurott)
 - [Exclusive: Yahoo nears deal to sell AOL to Italy's Bending Spoons for $1.4 billion, sources say](https://www.reuters.com/world/yahoo-nears-deal-sell-aol-italys-bending-spoons-14-billion-sources-say-2025-10-01/) (Reuters)
 
@@ -91,7 +93,6 @@ title: Other Tech News
 - [AOL discontinues its dial-up internet, and we're just surprised they even offered it in 2025](https://www.pcgamer.com/gaming-industry/aol-discontinues-its-dial-up-internet-and-were-just-surprised-they-even-offered-it-in-2025/) (PCGamer)
 - [SEO Is Dead. Say Hello to GEO.](https://nymag.com/intelligencer/article/seo-is-dead-say-hello-to-geo.html)
 - [Is Perrier as pure as it claims? The bottled water scandal gripping France](https://www.bbc.com/news/articles/cyvn3qe0jpgo)
-- [Figma’s Pursuit of Long-Term Backers Kept IPO Price in Check](https://www.bloomberg.com/news/articles/2025-08-04/figma-s-pursuit-of-long-term-backers-kept-ipo-price-in-check) (Bloomberg)
 - [Silicon Valley Is in Its ‘Hard Tech’ Era](https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html?unlocked_article_code=1.bk8.t0w-.jiIF3FBqqrfO&smid=nytcore-ios-share&referringSource=articleShare) (NYTimes)
 - [Figma more than triples in NYSE debut after selling shares at $33](https://www.cnbc.com/2025/07/31/figma-fig-starts-trading-on-nyse-after-ipo.html) (CNBC)
 - [The first commercial space station is nearly here. And it could change space forever](https://www.sciencefocus.com/space/vast-haven-1-space-station)
@@ -108,13 +109,11 @@ title: Other Tech News
 - [Apple COO Jeff Williams to Retire in Major Changing of Guard](https://www.bloomberg.com/news/articles/2025-07-08/apple-operating-chief-jeff-williams-to-pass-role-to-lieutenant) (Bloomberg)
 - [Polymarket Rules 'No' on $237M Controversial Bet Over Zelenskyy's Suit](https://decrypt.co/329210/polymarket-rules-no-237m-bet-zelenskyys) (Decrypt)
 - [At least 36 new tech unicorns were minted in 2025 so far](https://techcrunch.com/2025/07/06/at-least-36-new-tech-unicorns-were-minted-in-2025-so-far/) (TechCrunch)
-- [Figma files for IPO on NYSE, plans to ‘take big swings’ with acquisitions](https://www.cnbc.com/2025/07/01/figma-fig-files-for-ipo-as-tech-debuts-gain-steam.html) (CNBC)
 
 ### June
 
 - [CareerBuilder + Monster to Sell Businesses in Bankruptcy](https://www.wsj.com/articles/careerbuilder-monster-to-sell-businesses-in-bankruptcy-9daa38dd) (WSJ)
 - [Why Everything in the Universe Turns More Complex](https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/)
-- [Chime pops 37% in Nasdaq debut after pricing IPO above expected range](https://www.cnbc.com/2025/06/12/chime-opens-at-43-in-nasdaq-debut-after-pricing-ipo-above-range.html) (CNBC)
 - [‘Beautiful’ and ‘Hard to Read’: Designers React to Apple’s Liquid Glass Update](https://www.wired.com/story/designers-react-to-apple-liquid-glass/) (Wired)
 - [The Man Whose Weather Forecast Saved the World](https://www.nytimes.com/2025/06/05/weather/d-day-forecast-history-wwii.html?partner=slack&smid=sl-share)
 
@@ -141,7 +140,6 @@ title: Other Tech News
 - [Columbia student suspended over interview cheating tool raises $5.3M to ‘cheat on everything’](https://techcrunch.com/2025/04/21/columbia-student-suspended-over-interview-cheating-tool-raises-5-3m-to-cheat-on-everything/) (TechCrunch)
 - [As ‘Bot’ Students Continue to Flood In, Community Colleges Struggle to Respond](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/)
 - [Astronomers Detect a Possible Signature of Life on a Distant Planet](https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html?partner=slack&smid=sl-share)
-- [Figma confidentially files for IPO more than a year after ditching Adobe deal](https://www.cnbc.com/2025/04/15/figma-confidentially-files-for-ipo-a-year-after-ditching-adobe-deal.html) (CNBC)
 - [OpenAI countersues Elon Musk, claims harassment](https://www.reuters.com/legal/openai-countersues-elon-musk-claims-harassment-2025-04-09/) (Reuters)
 
 ### March
@@ -178,7 +176,6 @@ title: Other Tech News
 - [IMDb Founder Col Needham Steps Aside as CEO, COO Nikki Santoro Promoted to Chief Exec](https://variety.com/2025/digital/news/imdb-col-needham-ceo-nikki-santoro-1236277656/) (Variety)
 - [Sonos CEO Leaving After Botched App Revamp Led to Customer Revolt](https://www.bloomberg.com/news/articles/2025-01-13/sonos-ceo-patrick-spence-leaving-after-failed-app-revamp-led-to-customer-revolt?sref=Szq5ylDR) (Bloomberg)
 - [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app) (The Verge)
-- [Silicon Valley’s largest start-ups to shun IPOs in 2025](https://www.ft.com/content/b9d7b633-c611-4c09-b02e-5855dfaa0dfb) (Financial Times)
 - [The New $30,000 Side Hustle: Making Job Referrals for Strangers](https://www.bloomberg.com/news/articles/2025-01-09/how-employee-referrals-for-tech-jobs-became-a-side-hustle?sref=Szq5ylDR)
 - [With L.A. on alert, wildfire app Watch Duty adds 600,000 users overnight](https://www.latimes.com/business/story/2025-01-08/with-l-a-on-alert-wildfire-app-watch-duty-adds-600-000-users-overnight) (Los Angeles Times)
 - [LA residents find a lifeline in this free wildfire-tracking app](https://www.theverge.com/2025/1/9/24339799/watch-duty-wildfire-tracking-app-la-wildfires) (The Verge)
@@ -212,7 +209,6 @@ title: Other Tech News
 ### November
 
 - [Bad influence](https://www.theverge.com/2024/11/26/24303161/amazon-influencers-lawsuit-copyright-clean-aesthetic-girl-sydney-nicole-gifford-alyssa-sheil)
-- [Exclusive: CoreWeave targets valuation of over $35 billion in 2025 US IPO, sources say](https://www.reuters.com/technology/artificial-intelligence/coreweave-targets-valuation-over-35-billion-2025-us-ipo-sources-say-2024-11-22/) (Reuters)
 - [Are the robots finally coming?](https://ig.ft.com/ai-robots/)
 - [Klarna’s Seb Siemiatkowski — from burger flipping to billionaire club](https://www.ft.com/content/b5068a36-f4ed-43ec-97e1-57b0de37e6ab)
 - [Block reports revenue miss but a slight beat on earnings](https://www.cnbc.com/2024/11/07/block-sq-earnings-q3-2024.html) (CNBC)
@@ -286,7 +282,6 @@ title: Other Tech News
 
 ### July
 
-- [Honeywell Weighs Quantinuum IPO at $10 Billion Valuation](https://www.bloomberg.com/news/articles/2024-07-26/honeywell-said-to-weigh-quantinuum-ipo-at-10-billion-valuation?sref=Szq5ylDR) (Bloomberg)
 - [Physicists may now have a way to make element 120 – the heaviest ever](https://www.newscientist.com/article/2440445-physicists-may-now-have-a-way-to-make-element-120-the-heaviest-ever/)
 - [He says he invented Flamin’ Hot Cheetos. He didn’t, said Frito-Lay. Now he’s suing](https://www.latimes.com/california/story/2024-07-23/flamin-hot-cheetos-lawsuit-filed-over-origin-claims)
 - [Runway Ripped Off YouTube Creators](https://www.404media.co/email/e3836b26-6914-4c1c-a102-bf9735adc3de/) (404Media)
@@ -355,16 +350,13 @@ title: Other Tech News
 - [How Jesse Plemons Came to Star in, Well, Pretty Much Everything](https://www.texasmonthly.com/arts-entertainment/jesse-plemons-star-everything/)
 - [Apple Announces WWDC 2024 Event for June 10 to 14](https://www.macrumors.com/2024/03/26/apple-announces-wwdc-2024/) (MacRumors)
 - [Microsoft has a new Windows and Surface chief](https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri) (The Verge)
-- [IPO Window Cracks Open and Silicon Valley Sees Some Daylight](https://www.bloomberg.com/news/newsletters/2024-03-25/ipo-window-cracks-open-and-silicon-valley-sees-some-daylight?sref=Szq5ylDR) (Bloomberg)
 - [Sources: iOS 18 Lets Apps Be Placed Anywhere on Home Screen Grid](https://www.macrumors.com/2024/03/24/ios-18-home-screen-app-icon-customization/) (MacRumors)
 - [Thiel, Bezos and Zuckerberg join parade of insiders selling tech stocks](https://www.ft.com/content/3bcc3949-0bf6-4f41-bc46-57cbb0df3a7f) (Financial Times)
 - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)
-- [Can Reddit Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/)
 - [Stripe in ‘no rush’ to go public as cash flow turns positive](https://www.ft.com/content/63f33d03-fc82-4383-b64f-dc3ca52c6e5f) (FT)
 - [Sam Altman returns to OpenAI's board](https://www.axios.com/2024/03/08/sam-altman-returns-to-openai-board) (Axios)
 - [Sam Altman rejoins OpenAI’s board after investigation into sudden firing](https://www.theverge.com/2024/3/8/24094885/openai-sam-altman-investigation-board-results) (The Verge)
 - [OpenAI’s Sam Altman Returns to Board After Probe Clears Him](https://www.bloomberg.com/news/articles/2024-03-08/openai-s-altman-returns-to-board-after-probe-clears-him?sref=Szq5ylDR) (Bloomberg)
-- [Reddit to raise nearly $750 million in upcoming IPO](https://www.cnbc.com/2024/03/11/reddit-to-raise-nearly-750-million-in-upcoming-ipo.html) (CNBC)
 - [Key OpenAI Executive Played a Pivotal Role in Sam Altman’s Ouster](https://www.nytimes.com/2024/03/07/technology/openai-executives-role-in-sam-altman-ouster.html?unlocked_article_code=1.a00.qm8I.UrNbQdRlYGEA&smid=url-share) (NYTimes)
 - [Amid explosive demand, America is running out of power](https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzA5Nzg3NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExMTY2Mzk5LCJpYXQiOjE3MDk3ODc2MDAsImp0aSI6IjliZWI1MmRjLTVlNTEtNGMxMC04NGI2LTFkNGM4ZWEzYzUyOCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9idXNpbmVzcy8yMDI0LzAzLzA3L2FpLWRhdGEtY2VudGVycy1wb3dlci8ifQ.wqy9LpWJmz3tpAjhvXDkiSHZbNYW-ikg6B44j9dGk0Q)
 - [OpenAI Fires Back at Musk Allegations With Trove of Emails](https://www.bloomberg.com/news/articles/2024-03-06/openai-responds-to-musk-lawsuit-sad-it-s-come-to-this?sref=Szq5ylDR) (Bloomberg)
@@ -383,13 +375,11 @@ title: Other Tech News
 - [Hopin's UK business enters liquidation as it transfers HQ to the US](https://sifted.eu/articles/hopin-liquidation-news) (Sifted)
 - [Lapse, the app turning your phone into an old-school camera, snaps up $30M](https://techcrunch.com/2024/02/27/lapse-the-app-turning-your-phone-into-an-old-school-camera-snaps-up-30m/) (TechCrunch)
 - [Au Large](https://mistral.ai/news/mistral-large/) (Mistral.ai)
-- [Reddit files to list IPO on NYSE under the ticker RDDT](https://www.cnbc.com/2024/02/22/reddit-files-to-list-ipo-on-nyse-under-the-ticker-rddt.html) (CNBC)
 - [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users) (The Verge)
 - [AT&T outage caused by software update, company says](https://abcnews.go.com/US/att-outage-impacting-us-customers-company/story?id=107440297) (ABCNews)
 - [OnlyFans is the most lucrative side hustle, tax service shows](https://mashable.com/article/onlyfans-money-average-pay) (Mashable)
 - [Tech Job Interviews Are Out of Control](https://www.wired.com/story/tech-job-interviews-out-of-control/)
 - [The ‘Magic’ Breakthrough That Got Friedman and Gross to Bet $100 Million on a Coding Startup](https://www.theinformation.com/articles/the-magic-breakthrough-that-got-friedman-and-gross-to-bet-100-million-on-a-coding-startup?rc=64g9cw) (The Information)
-- [Reddit Plans to Sell Stock to Loyal Users in Unusual IPO Wager](https://www.wsj.com/finance/stocks/reddit-stock-ipo-buyers-users-58744446) (WSJ)
 - [Tech Leaders Fled San Francisco During the Pandemic. Now, They’re Coming Back.](https://www.wsj.com/tech/san-francisco-ai-boom-silicon-valley-307816b2?st=yx8jexqbkpccnhf) (WSJ)
 - [How Silicon Valley learned to love America, drones and glory](https://www.washingtonpost.com/technology/2024/02/17/silicon-valley-military-tech-defense-contractors/) (Washington Post)
 - [Pursuing ‘American Dynamism,’ Andreessen Horowitz Ups Its Game in DC](https://www.bloomberg.com/news/articles/2024-02-20/andreessen-horowitz-ups-its-game-in-dc-pursues-american-dynamism?sref=Szq5ylDR) (Bloomberg)
@@ -488,13 +478,11 @@ title: Other Tech News
 - [A Startup in the New Jersey Suburbs Is Battling the Giants of Silicon Valley](https://www.wsj.com/tech/ai/nvidia-gpu-chips-coreweave-c8782435)
 - [Where do fonts come from? This one business, mostly](https://thehustle.co/where-do-fonts-come-from/)
 - [UK air traffic control hit by network-wide failure](https://www.theguardian.com/world/2023/aug/28/uk-air-traffic-control-hit-network-wide-failure-airline) (The Guardian)
-- [Klaviyo files to go public in latest sign of life for IPO market](https://www.cnbc.com/2023/08/25/klaviyo-files-to-go-public-in-latest-sign-of-life-for-ipo-market.html) (CNBC)
 - [WordPress Announces 100-Year Domain Name Registrations](https://www.searchenginejournal.com/wordpress-100-year-domain-name-registrations/494878/) (Search Engine Journal)
 - [The Silicon Valley Elite Who Want to Build a City From Scratch](https://www.nytimes.com/2023/08/25/business/land-purchases-solano-county.html) (NYTimes)
 - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 - [Michael Mann Fulfills a 30-Year Journey Directing the Operatic, Thrilling ‘Ferrari’ — And Teases ‘Heat 2’: ‘I Don’t Think About Mortality. I’m Busy’](https://variety.com/2023/film/features/michael-mann-ferrari-interview-venice-festival-heat-2-1235701561/)
 - [Tiger Global Nears Deal to Sell Slice of Cohere Stake at $3 Billion Valuation](https://www.theinformation.com/articles/tiger-global-nears-deal-to-sell-slice-of-cohere-stake-at-3-billion-valuation?rc=64g9cw) (The Information)
-- [Silicon Valley start-ups revive listing plans as Arm reignites IPO market](https://www.ft.com/content/4a305ad3-f91f-46ad-977f-830a2e1ee5af) (Financial Times)
 - [Europe’s Stripe rival Adyen saw $20 billion wiped off its value in a single day. Here’s what’s going on](https://www.cnbc.com/2023/08/21/adyen-europes-fintech-darling-faces-big-challenges.html?__source=sharebar%7Ctwitter&par=sharebar) (CNBC)
 - [A cargo ship that harnesses wind power has set sail on its maiden journey](https://qz.com/cargill-pyxis-ocean-cargo-ship-wing-power-windwings-1850756956) (Quartz)
 - [Microsoft to hold ‘special event’ in New York City on September 21st](https://www.theverge.com/2023/8/17/23835992/microsoft-surface-special-event-new-york-city-september-21st) (The Verge)
@@ -512,7 +500,6 @@ title: Other Tech News
 - [‘A Nice Bike, When It Works’: Riders Fret After E-Bike Maker Goes Bust](https://www.nytimes.com/2023/08/03/business/vanmoof-bankruptcy-ebikes.html) (NYTimes)
 - [IRS expects faster refunds in 2024 for people who stop using paper](https://www.washingtonpost.com/business/2023/08/02/tax-refund-paperless/) (Washington Post)
 - [How the Partnership Between Apple and Goldman Sachs Soured](https://www.theinformation.com/articles/how-the-partnership-between-apple-and-goldman-soured?rc=64g9cw) (The Information)
-- [SoftBank’s Arm Targets $60 Billion Value in September IPO](https://www.bloomberg.com/news/articles/2023-08-02/softbank-s-arm-targets-60-billion-plus-value-for-september-ipo?sref=Szq5ylDR) (Bloomberg)
 - [Uber Delivers First-Ever Operating Profit in Drive to Curb Losses](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a?mod=djemalertNEWS) (WSJ)
 
 ### July
@@ -545,7 +532,6 @@ title: Other Tech News
 - [Masayoshi Son Ends Seven-Month Silence to Make Case for SoftBank’s Future](https://www.bloomberg.com/news/articles/2023-06-19/son-ends-seven-month-silence-to-make-case-for-softbank-s-future?sref=Szq5ylDR) (Bloomberg)
 - [Silicon Valley VCs rush into defence technology start-ups](https://www.ft.com/content/d50dbbc0-9137-4411-8ac3-8254451e60a7) (FT)
 - [Planned Layoffs Have Quadrupled So Far This Year in the US](https://www.bloomberg.com/news/articles/2023-06-01/planned-layoffs-have-quadrupled-so-far-this-year-in-the-us?sref=Szq5ylDR) (Bloomberg)
-- [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over?sref=Szq5ylDR)
 - [China Is Drilling a 10,000-Meter-Deep Hole Into the Earth](https://www.bloomberg.com/news/articles/2023-05-31/china-is-drilling-a-10-000-meter-deep-hole-into-earth-s-crust?cmpid=BBD060123_MKT&utm_medium=email&utm_source=newsletter&utm_term=230601&utm_campaign=markets&sref=Szq5ylDR#xj4y7vzkg)
 
 ### May
@@ -661,7 +647,6 @@ title: Other Tech News
 - [Slow fade for Google and Meta's ad dominance](https://www.axios.com/2022/12/20/google-meta-duopoly-online-advertising) (Axios)
 - [Silicon Valley start-ups race for debt deals in funding crunch](https://www.ft.com/content/d12a4baa-53c6-4256-b125-d25622f9555f) (FT)
 - [Elon Musk offloads another $3.6bn of Tesla stock](https://www.ft.com/content/d6177c0a-b2a7-4de2-ac18-1a6126054666?shareType=nongift) (FT)
-- [2022 will go down as the worst year for U.S. IPOs since 1990.](https://www.axios.com/newsletters/axios-pro-rata-60addead-f8de-4ab4-b6cd-bc10cdee76c9.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (Axios Pro Rata)
 - [Creating the ultimate smart map with new map data initiative launched by Linux Foundation](https://venturebeat.com/virtual/creating-the-ultimate-smart-map-with-new-map-data-initiative-launched-by-linux-foundation/) (VentureBeat)
 - [Rise of Open-Source Intelligence Tests U.S. Spies](https://www.wsj.com/articles/rise-of-open-source-intelligence-tests-u-s-spies-11670710806?mod=djemalertNEWS) (WSJ)
 - [US Says Scientists Make Breakthrough in Nuclear Fusion Energy](https://www.bloomberg.com/news/articles/2022-12-12/nuclear-fusion-energy-breakthrough-made-by-scientists-in-us?sref=Szq5ylDR) (Bloomberg)
@@ -785,7 +770,6 @@ title: Other Tech News
 - [Venture Funding Set to Hit Lowest Level Since 2020](https://www.bloomberg.com/news/articles/2022-06-27/venture-capital-q2-data-to-hit-lowest-level-since-2020?sref=Szq5ylDR) (Bloomberg)
 - [Leaked Amazon memo warns the company is running out of people to hire](https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode/Vox)
 - [SpaceX Said to Fire Employees Involved in Letter Rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html) (NYTimes)
-- [Fintech Giant Klarna Slashes Fundraising Ambition](https://www.wsj.com/articles/fintech-giant-klarna-slashes-fundraising-ambition-11655417674?mod=djemalertNEWS) (WSJ)
 - [What Should You Do With Your Options During a Downturn?](https://every.to/p/what-should-you-do-with-your-options-during-a-downturn)
 - [What Is Quantum Entanglement? Skip the heady and abstract physics lectures. Let’s talk about socks](https://spectrum.ieee.org/what-is-quantum-entanglement)
 - [The Best Sci Fi Books for Beginners](https://fivebooks.com/best-books/sci-fi-books-for-beginners-nicholas-whyte/)
@@ -892,7 +876,6 @@ title: Other Tech News
 - [Over 40% of West Coast Tech Job Listings Are Outside West Coast](https://www.bloomberg.com/news/articles/2022-02-22/over-40-of-west-coast-tech-job-listings-are-outside-west-coast?sref=Szq5ylDR) (Bloomberg)
 - [No one cares about your redesign](https://www.garbageday.email/p/no-one-cares-about-your-redesign?r=1dhmw&utm_source=url)
 - [Peloton CEO John Foley to Step Down, Firm to Cut 2,800 Jobs](https://www.wsj.com/articles/peloton-ceo-john-foley-to-step-down-become-executive-chair-11644314403?mod=djemalertNEWS) (WSJ)
-- [Startup Investors Cut Valuations Amid Tech Stock Rout, Dismal IPOs](https://www.wsj.com/articles/red-hot-startup-market-starts-to-chill-as-investors-turn-on-tech-stocks-11643718783?mod=djemalertNEWS)
 - [Google parent Alphabet announces 20-for-1 stock split](https://www.cnbc.com/2022/02/01/google-parent-alphabet-announces-20-for-1-stock-split.html) (CNBC)
 - [Pinterest Adds Augmented Reality Feature for Home Decor](https://www.wsj.com/articles/pinterest-adds-augmented-reality-feature-for-home-decor-11643641203?mod=djemalertNEWS) (WSJ)
 - [Following his fiery Twitter tirades, Bolt founder Ryan Breslow is no longer CEO — and he says it’s his choice](https://techcrunch.com/2022/01/31/ryanbreslow-bolt/) (TechCrunch)
@@ -933,7 +916,6 @@ title: Other Tech News
 - [Americans widely distrust Facebook, TikTok and Instagram with their data, poll finds](https://www.washingtonpost.com/technology/2021/12/22/tech-trust-survey/) (Washington Post)
 - [OnlyFans Names Marketing Chief Ami Gan as CEO; Founder Steps Down](https://www.bloomberg.com/news/articles/2021-12-21/onlyfans-ceo-tim-stokely-steps-down-giving-role-to-spokesperson-ami-gan?sref=sZAFdZwV) (Bloomberg)
 - [Zhang Yiming Still Oversees ByteDance, Despite Stepping Back](https://www.theinformation.com/articles/zhang-yiming-still-oversees-bytedance-despite-stepping-back) (The Information)
-- [Reddit Files Confidentially for IPO](https://www.wsj.com/articles/reddit-files-paperwork-for-initial-public-offering-11639625013?mod=djemalertNEWS) (WSJ)
 - [Apple Scraps Office-Return Deadline Without Setting New Date](https://www.bloomberg.com/news/articles/2021-12-15/apple-delays-return-to-office-until-date-yet-to-be-determined?sref=Szq5ylDR) (Bloomberg)
 - [Facebook Owner Is Involved in $60M Deal Over Meta Trademark Assets](https://www.coinspeaker.com/facebook-60m-deal-meta-trademark/) (Coinspeaker)
 - [PROFESSIONAL MAINTAINERS: A WAKE-UP CALL](https://blog.filippo.io/professional-maintainers/) (Filippo.io)
@@ -995,7 +977,6 @@ title: Other Tech News
 - [SLACKERS OF THE WORLD, UNITE!](https://www.theatlantic.com/magazine/archive/2021/11/slack-office-trouble/620173/) (The Atlantic)
 - [Starbucks Is 50 and Emboldening Its Rivals More Than Ever](https://www.bloomberg.com/opinion/articles/2021-10-12/starbucks-is-50-and-emboldening-its-rivals-more-than-ever?sref=Szq5ylDR) (Bloomberg Opinion)
 - [Canadian Instacart workers to walk off job in bid to secure better working conditions](https://www.thestar.com/business/2021/10/13/canadian-instacart-workers-to-walk-off-job-in-bid-to-secure-better-working-conditions.html) (Toronto Star)
-- [Joe Montana prepares for biggest windfall as a venture capitalist ahead of GitLab’s $10 billion IPO](https://www.cnbc.com/2021/10/13/joe-montana-prepares-for-biggest-venture-win-as-gitlab-goes-ipo.html) (CNBC)
 - [Seven years after raising $542M at a $2B valuation, Magic Leap raises $500M at a $2B valuation](https://techcrunch.com/2021/10/11/seven-years-after-raising-542m-at-a-2b-valuation-magic-leap-raises-500m-at-a-2b-valuation/) (TechCrunch)
 - [Canva is getting into video](https://techcrunch.com/2021/10/12/canva-is-getting-into-video/) (TechCrunch)
 - [Apple Is Building a Massive New Campus Straddling L.A. and Culver City](https://variety.com/2021/digital/news/apple-building-campus-la-culver-city-1235083593/) (Variety)
@@ -1020,7 +1001,6 @@ title: Other Tech News
 - [Greg LeMond and the Amazing Candy-Colored Dream Bike](https://www.wired.com/story/greg-lemond-amazing-candy-colored-dream-bike/) (Wired)
 - [**Otter.ai**](https://otter.ai/)
 - [When the Techies Took Over Tahoe](https://www.outsideonline.com/adventure-travel/news-analysis/tahoe-zoomtown-covid-migration/) (Outside)
-- [Exclusive: Reddit seeks to hire advisers for U.S. IPO -sources](https://www.reuters.com/technology/exclusive-reddit-seeks-hire-advisers-us-ipo-sources-2021-09-02/) (Reuters)
 - [Wall Street Is Looking to Reddit for Investment Advice](https://www.wsj.com/articles/wall-street-is-looking-to-reddit-for-investment-advice-11630056648?mod=djemalertNEWS) (WSJ)
 - [Here are all the companies from Y Combinator’s Summer 2021 Demo Day, Part 1](https://techcrunch.com/2021/08/31/here-are-all-the-companies-from-y-combinators-summer-2021-demo-day-part-1/) (TechCrunch)
 - [Here are all the companies from Day 2 of Y Combinator’s Summer 2021 Demo Day](https://techcrunch.com/2021/09/01/here-are-all-the-companies-from-day-two-of-y-combinators-summer-2021-demo-day/) (TechCrunch)
@@ -1064,13 +1044,11 @@ title: Other Tech News
 - [Apple’s weather app won’t say it’s 69 degrees](https://www.theverge.com/tldr/2021/7/13/22575368/apple-ios-14-weather-app-69-rounding-error-15?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Amazon.com Wants to Monitor You in Your Sleep, for Your Benefit](https://www.bloomberg.com/news/articles/2021-07-09/amazon-com-wants-to-monitor-you-in-your-sleep-for-your-benefit?sref=Szq5ylDR) (Bloomberg)
 - [Global Venture Funding Hits All-Time High In First Half Of 2021, With $288B Invested](https://news.crunchbase.com/news/global-vc-funding-h1-2021-monthly-recap/) (Crunchbase News)
-- [London fintech funding soars in first half of the year](https://www.reuters.com/business/finance/london-fintech-funding-soars-first-half-year-2021-07-07/) (Reuters)
 - [Robinhood’s Debut Is Clouded by SEC Scrutiny of Payment for Order Flow](https://www.wsj.com/articles/robinhoods-debut-is-clouded-by-sec-scrutiny-of-payment-for-order-flow-11625655600?mod=djemalertNEWS) (Wall Street Journal)
 - [Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump](https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html) (New York Times)
 - [Y Combinator launches a new way for co-founders to find each other](https://www.protocol.com/y-combinator-founder-matching-help) (Protocol)
 - [**@chrismessina**](https://twitter.com/chrismessina)
 - [**@brianmcc**](https://twitter.com/brianmcc)
-- [Robinhood files for long-awaited IPO](https://www.axios.com/robinhood-ipo-0b9a27b1-69d1-41d0-b44e-69e137b92dd2.html) (Axios)
 - [How Robinhood's explosive growth rate came to be](https://techcrunch.com/2021/07/01/how-robinhoods-explosive-growth-rate-came-to-be/?tpcc=ECTW2020) (Tech Crunch)
 - [Three Weeks with iOS and iPadOS 15: Foundational Updates](https://www.macstories.net/stories/three-weeks-with-ios-and-ipados-15-foundational-updates/) (Mac Stories)
 - [Amazon Primed Andy Jassy to Be CEO. Can He Keep What Jeff Bezos Built?](https://www.wsj.com/articles/amazon-primed-andy-jassy-to-be-ceo-can-he-keep-what-jeff-bezos-built-11625218225?mod=djemalertNEWS) (Wall Street Journal)
@@ -1263,7 +1241,6 @@ title: Other Tech News
 - [My $200,000 Sushi Dinner](https://www.nytimes.com/2020/12/16/style/bitcoin.html) (NYTimes)
 - [Pornhub Just Purged All Unverified Content From the Platform](https://www.vice.com/en/article/jgqjjy/pornhub-suspended-all-unverified-videos-content) (Vice)
 - [Google Delays Return to Office and Eyes ‘Flexible Work Week’](https://www.nytimes.com/2020/12/14/technology/google-delays-return-to-office-and-eyes-flexible-work-week.html) (NYTimes)
-- [Sizzling Tech IPO Market Leaves Investors Befuddled](https://www.wsj.com/articles/sizzling-tech-ipo-market-leaves-investors-befuddled-11607868001?mod=djemalertNEWS) (WSJ)
 - [Ferrari's Camilleri will be a hard act to follow](https://www.reuters.com/article/idUSKBN28L0TQ) (Reuters)
 - [**VistaPrint.com/techmeme**](https://vistaprint.com/techmeme)
 - [**TinyCapital.com**](https://www.tinycapital.com/)
@@ -1344,7 +1321,6 @@ title: Other Tech News
 - [Google Assistant finally works with some third-party apps](https://www.engadget.com/google-assistant-work-with-other-apps-170025490.html) (Engadget)
 - [A Major Online Learning Platform Was Created by a Subterranean Religious ‘Cult’ Whose Leader Has Been Accused of Violence and Abuse](https://onezero.medium.com/a-major-online-learning-platform-was-created-by-a-subterranean-religious-cult-whose-leader-has-cec99e7adcaf) (OneZero)
 - [Definitely not Windows 95: What operating systems keep things running in space?](https://arstechnica.com/features/2020/10/the-space-operating-systems-booting-up-where-no-one-has-gone-before/) (ArsTechnica)
-- [Airbnb Burned Through $1.2 Billion as IPO Loomed](https://www.theinformation.com/articles/airbnb-burned-through-1-2-billion-as-ipo-loomed) (The Information)
 - [Fancy Cars, Fine Dining, Creator Mansions, Cash: Triller Is Shelling Out for Talent](https://www.nytimes.com/2020/10/07/style/triller-app-tiktok.html) (NYTimes)
 - [Reddit Co-founder Alexis Ohanian’s New Venture Fund Invests in Disposable Camera App](https://www.wsj.com/articles/reddit-cofounder-alexis-ohanians-new-venture-fund-invests-in-disposable-camera-app-11602072245?mod=djemalertNEWS) (WSJ)
 - [This extremely slippery VR treadmill could be your next home gym](https://www.theverge.com/2020/10/7/21504797/virtuix-omni-one-vr-treadmill-announce-crowdfunding) (The Verge)
@@ -1366,10 +1342,8 @@ title: Other Tech News
 - [Your Teenage Email Account Is a Lost Time Capsule](https://onezero.medium.com/your-teenage-email-account-is-a-lost-time-capsule-a7627d53c466) (One Zero)
 - [This unheard Steve Jobs tape is part of an amazing trove of tech history](https://www.fastcompany.com/90541084/this-unheard-steve-jobs-tape-is-part-of-an-amazing-trove-of-tech-history?partner=feedburner&utm_source=feedly&utm_medium=webfeeds&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\)
 - [Pro Rata Newsletter](https://www.axios.com/newsletters/axios-pro-rata-085a7385-4ca7-4128-8a6f-7b9f61c84743.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (Dan Primack/Axios)
-- [Snowflake IPO Spurs Flood of Wealth for Silicon Valley Elite](https://www.bloomberg.com/news/articles/2020-09-16/snowflake-ipo-creates-flood-of-wealth-for-silicon-valley-royalty?utm_source=flipboard&utm_medium=bd&cmpId=flipboard&sref=MzDxCtkS) (Bloomberg)
 - [‘Helping people discover information’: How Red Ventures grew into a giant](https://digiday.com/media/red-ventures-grew-into-a-giant/) (Digiday)
 - [Sit Like an Apple Engineer in This 70s-Era British Office Chair](https://www.gearpatrol.com/tech/a34032310/sit-like-an-apple-engineer-in-this-70s-era-british-office-chair/) (Gear Patrol)
-- [Snowflake is largest software IPO ever](https://www.axios.com/snowflake-ipo-32d8ea90-d19f-46ce-b633-b6fb69a7aeec.html) (Axios)
 - [Exclusive: AT&T considers cellphone plans subsidized by ads](https://www.reuters.com/article/us-at-t-ceo-interview-exclusive-idUSKBN2663HK) (Reuters)
 - [Verizon to Buy TracFone in Deal Valued at Up to $7 Billion](https://www.wsj.com/articles/verizon-to-buy-wireless-reseller-tracfone-for-6-25-billion-11600085613?mod=djemalertNEWS) (WSJ)
 - [A $200 Million Seed Valuation for Roam Shows Investor Frenzy for Note-Taking Apps](https://www.theinformation.com/articles/a-200-million-seed-valuation-for-roam-shows-investor-frenzy-for-note-taking-apps) (The Information)
@@ -1391,7 +1365,6 @@ title: Other Tech News
 ### August
 
 - [Drug Cartel Now Assassinates Its Enemies With Bomb-Toting Drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones) (The Drive/The Warzone)
-- [Jack Ma’s Ant Fuels Tech IPO Frenzy Not Seen Since Dotcom Bubble](https://www.bloomberg.com/news/articles/2020-08-30/jack-ma-s-ant-fuels-tech-ipo-frenzy-not-seen-since-dotcom-bubble?sref=MzDxCtkS) (Bloomberg)
 - [Palantir: On Business, Cults, and Politics](https://diff.substack.com/p/palantir-on-business-cults-and-politics) (The Diff)
 - [The Event Industry Is Being Confronted By Its Napster Moment](https://skift.com/2020/08/26/the-event-industry-is-being-confronted-by-its-napster-moment/) (Skift)
 - [The Conscience of Silicon Valley](https://www.gq.com/story/jaron-lanier-tech-oracle-profile) (GQ)
@@ -1639,7 +1612,6 @@ title: Other Tech News
 ### January
 
 - [SoftBank Is Funding Every Side of a Bruising Startup Battle](https://www.wsj.com/articles/softbank-is-funding-every-side-of-latin-americas-bruising-startup-battle-11580398900) (WSJ)
-- [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange/A16Z)
 - [Don't Brush Off Mouth Tech As a Passing Fad](https://www.wired.com/story/mouth-tech/) (Wired)
 - [Researchers Are Racing to Make a Coronavirus Vaccine. Will It Help?](https://www.nytimes.com/2020/01/28/health/coronavirus-vaccine.html) (NYTimes)
 - [How Do Bats Live With So Many Viruses?](https://www.nytimes.com/2020/01/28/science/bats-coronavirus-Wuhan.html) (NYTimes)
@@ -1663,7 +1635,6 @@ title: Other Tech News
 - [Venture capital slowly seeps outside of Silicon Valley](https://www.axios.com/venture-capital-midwest-growth-13ac8514-e8e2-498f-98b7-71026277e826.html) (Axios)
 - [Four years after being acquired, Hipmunk is shutting down](https://techcrunch.com/2020/01/14/four-years-after-being-acquired-hipmunk-is-shutting-down/) (TechCrunch)
 - [European Venture Report: VC Dollars Rise In 2019](https://news.crunchbase.com/news/european-venture-report-vc-dollars-rise-in-2019/) (Crunchbase News)
-- [Casper's IPO could be a bellwether for unprofitable startups in the post-We-Work era](https://techcrunch.com/2020/01/13/caspers-ipo-could-be-a-bellwether-for-unprofitable-startups-in-the-post-wework-era/) (TechCrunch)
 - [Casper files to go public, shows you can lose money selling mattresses](https://techcrunch.com/2020/01/10/casper-files-to-go-public-shows-you-can-lose-money-selling-mattresses/) (TechCrunch)
 - [SoftBank-Backed Oyo Firing Thousands Across China and India](https://www.bloomberg.com/news/articles/2020-01-10/softbank-backed-oyo-is-firing-thousands-across-china-and-india) (Bloomberg)
 - [The Q4/EOY 2019 Global VC Report: A Strong End To A Good, But Not Fantastic, Year](https://news.crunchbase.com/news/the-q4-eoy-2019-global-vc-report-a-strong-end-to-a-good-but-not-fantastic-year/) (Crunchbase News)
@@ -1710,7 +1681,6 @@ title: Other Tech News
 - [The newest members of the $100M ARR club](https://techcrunch.com/2019/12/13/the-newest-members-of-the-100m-arr-club/) (TechCrunch)
 - [Zero-to-100 Million in 3 Years](https://www.lemonade.com/blog/zero-to-100/) (Lemonade Blog)
 - [Silicon Valley’s psychedelic wonder drug is almost here](https://www.fastcompany.com/90436824/silicon-valleys-psychedelic-wonder-drug-is-almost-here) (Fast Company)
-- [Bill.com’s Stock Takes Off On IPO Day](https://www.forbes.com/sites/donnafuscaldo/2019/12/12/billcoms-stock-takes-off-on-ipo-day/#2b35f4a57948) (Forbes)
 - [Startup Growth and Venture Returns: What We Found When We Analyzed Thousands of VC Deals](https://angel.co/blog/venture-returns) (AngelList Blog)
 - [Bluesky early thoughts](https://sriramk.com/bluesky-early) (Sriramk.com)
 - [Canva Uncovered: How A Young Australian Kitesurfer Built A $3.2 Billion (Profitable!) Startup Phenom](https://www.forbes.com/sites/alexkonrad/2019/12/11/inside-canva-profitable-3-billion-startup-phenom/#3a4674294a51) (Forbes)
@@ -1835,7 +1805,6 @@ title: Other Tech News
 - [The Google Play store’s visual refresh](https://android-developers.googleblog.com/2019/08/the-google-play-stores-visual-refresh.html) (Android Developers Blog)
 - [SpotHero raises $50 million to bring underutilized parking spaces online](https://venturebeat.com/2019/08/22/spothero-raises-50-million-to-bring-underutilized-parking-spaces-online/) (VentureBeat)
 - [Exclusive: Alibaba postpones up to $15 billion Hong Kong listing amid protests: sources](https://www.reuters.com/article/us-alibaba-listing-exclusive/exclusive-alibaba-postpones-up-to-15-billion-hong-kong-listing-amid-protests-sources-idUSKCN1VB06S) (Reuters)
-- [The WeWork IPO](https://stratechery.com/2019/the-wework-ipo/) (Stratechery)
 - [Information operations directed at Hong Kong](https://blog.twitter.com/en_us/topics/company/2019/information_operations_directed_at_Hong_Kong.html) (Twitter)
 - [A new unicorn is born: Toor Insurance raises $100 million for a $1 billion valuation](https://techcrunch.com/2018/08/22/a-new-unicorn-is-born-root-insurance-raises-100-million-for-a-1-billion-valuation/) (TechCrunch)
 - [Root raises $350 million to drive auto insurance change](https://www.axios.com/root-insurance-auto-tech-company-valuation-vc-ca022d21-136a-44cd-bbba-8ea6c3924f2e.html) (Axios)
@@ -1858,7 +1827,6 @@ title: Other Tech News
 
 - [Techstars raises $42 million from SVB and Foundry Group to accelerate its growth in Europe and beyond](https://tech.eu/brief/techstars-raises-42-million-from-svb-and-foundry-group-to-accelerate-its-growth-in-europe-and-beyond/) (Tech.eu)
 - [Israel's New Top Unicorn: Monday.com Hits $1.9 Billion Valuation With $150 Million Raise](https://www.forbes.com/sites/alexkonrad/2019/07/30/monday-raises-150-million-becomes-israel-top-unicorn/#300c63402fcf) (Forbes)
-- [Real estate platform Compass raises another $370M on a $6.4B valuation en route to an IPO](https://techcrunch.com/2019/07/30/real-estate-platform-compass-raises-another-370m-on-a-6-4b-valuation-en-route-to-an-ipo/) (TechCrunch)
 - [SoftBank CEO Takes More Control in New $108 Billion Vision Fund](https://www.bloomberg.com/news/articles/2019-07-26/softbank-forms-108-billion-vision-fund-2-with-apple-microsoft) (Bloomberg)
 - [50 Days to the Moon](https://www.fastcompany.com/section/50-days-to-the-moon) (Fast Company)
 - [Is It Okay to Laugh at Florida Man?](https://www.washingtonpost.com/news/magazine/wp/2019/07/15/feature/is-it-okay-to-laugh-at-florida-man-2/?utm_term=.07986335a237) (Washington Post)
@@ -1951,7 +1919,6 @@ title: Other Tech News
 
 ### February
 
-- [Uber and Lyft drivers will reportedly get stock in the highly anticipated IPOs](https://www.cnbc.com/2019/02/28/uber-and-lyft-drivers-will-reportedly-get-stock-in-the-highly-anticipated-ipos.html) (CNBC)
 - [THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (The Verge)
 - [Airbnb, Automattic, And Pinterest Top Rank Of Most Acquisitive Unicorns](https://news.crunchbase.com/news/airbnb-automattic-and-pinterest-top-rank-of-most-acquisitive-unicorns/) (Crunchbase News)
 - [Late Night Linux Podcast](https://latenightlinux.com/)
@@ -2009,7 +1976,6 @@ title: Other Tech News
 - [VC funding in U.S. startups nears $100 billion in 2018, highest since dot-com era](https://www.geekwire.com/2019/vc-funding-u-s-startups-nears-100-billion-2018-highest-since-dot-com-era/) (GeekWire)
 - [Venture Capital Funding Report 2018](https://www.cbinsights.com/research/report/venture-capital-q4-2018/?utm_campaign=moneytree-q4_2018&utm_content=82099166&utm_medium=social&utm_source=twitter&hss_channel=tw-110171914) (CBInsights)
 - [This pretax benefits startup is giving hourly workers a raise](https://www.fastcompany.com/90288058/this-pretax-benefits-startup-is-giving-hourly-workers-a-raise) (Fast Company)
-- [Uber’s Confidential Documents Show Path to $90 Billion IPO](https://www.theinformation.com/articles/ubers-confidential-documents-show-path-to-90-billion-ipo) (The Information)
 - [Exclusive: WeWork rebrands to The We Company; CEO Neumann talks about revised SoftBank round](https://www.fastcompany.com/90289512/exclusive-wework-to-rebrand-to-the-we-company-in-wake-of-disappointing-funding-news) (Fast Company)
 - [AT&T tries to trademark ‘Verge TV’ as if we’re going to let them get away with it](https://www.theverge.com/2019/1/3/18167137/att-verge-tv-streaming) (The Verge)
 - [Courier Prime](https://quoteunquoteapps.com/courierprime/)
@@ -2028,10 +1994,8 @@ title: Other Tech News
 - [THE 'FUTURE BOOK' IS HERE, BUT IT'S NOT WHAT WE EXPECTED](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (Wired)
 - [With Tech Expansion, Austin Is Still Weird. It’s Just More Wired Now, Too.](https://www.nytimes.com/2018/12/25/us/austin-apple-hub-silicon-hills.html) (NYTimes)
 - [Pushed Even Further: US Newsrooms View Mobile Alerts as a Standalone Platform](https://www.cjr.org/tow_center_reports/newsrooms-view-mobile-alerts-as-standalone-platform.php/) (CJR)
-- [Airbnb and Slack are considering untraditional IPOs that box out bankers like Spotify did](https://www.recode.net/2018/12/10/18129880/airbnb-postmates-slack-direct-listing-ipo) (Recode)
 - [Software Defined Talk](https://www.softwaredefinedtalk.com/) (Podcast)
 - [Inside Shenzhen’s race to outdo Silicon Valley](https://www.technologyreview.com/s/612571/inside-shenzhens-race-to-outdo-silicon-valley/) (Bloomberg)
-- [The 2019 IPO class headlined by Uber will create a ton of new wealth. Will the billions go to mansions or missions?](https://www.recode.net/2018/12/20/18145644/ipo-uber-lyft-slack-wealth-philanthropy-real-estate-startups-silicon-valley) (Recode)
 - [Venture Capital Blind Spots: The Top 7 Reasons Why VCs Miss Billion-Dollar Outcomes](https://medium.com/@645ventures/venture-capital-blind-spots-23381dc9488d) (645 Ventures)
 - [Prime and Punishment](https://www.theverge.com/2018/12/19/18140799/amazon-marketplace-scams-seller-court-appeal-reinstatement) (The Verge)
 - [7 Modern BBSes Worth Calling Today](https://www.pcmag.com/feature/358037/7-modern-bbses-worth-calling-today) (PCMag)
@@ -2094,7 +2058,6 @@ title: Other Tech News
 - [Amazon Plans to Split HQ2 Evenly Between Two Cities](https://www.wsj.com/articles/amazon-plans-to-split-hq2-evenly-between-two-cities-1541446552?mod=hp_lead_pos1) (WSJ)
 - [PredictHQ exits stealth with $10 million to help Uber and others forecast demand surges](https://venturebeat.com/2018/11/06/predicthq-exits-stealth-with-10-million-to-help-uber-and-others-forecast-demand-surges/) (VentureBeat)
 - [Amazon in Late-Stage Talks With Cities Including Crystal City, Va., Dallas, New York City for HQ2](https://www.wsj.com/articles/amazon-in-late-stage-talks-with-cities-including-crystal-city-va-dallas-new-york-city-for-hq2-1541359441) (WSJ)
-- [Newly Public Tech Firms Race Back to Market as IPO Frenzy Continues](https://www.wsj.com/articles/newly-public-tech-firms-race-back-to-market-as-ipo-frenzy-continues-1541336400) (WSJ)
 - [Apple results: A record September quarter with $62.9B revenue](https://sixcolors.com/post/2018/11/reminder-apple-financial-results-released-today/) (Six Colors)
 - [Apple’s price hike strategy is paying off](https://www.theverge.com/2018/11/1/18053012/apple-q4-earnings-report-iphone-ipad-macbook-price-bump) (The Verge)
 - [Several thoughts from your old pal Jason](https://twitter.com/textfiles/status/1058012283761319936?s=11) (Jason Scott/Twitter)
@@ -2224,7 +2187,6 @@ title: Other Tech News
 - [The Race to a Trillion](https://www.aboveavalon.com/notes/2018/7/11/the-race-to-a-trillion) (Above Avalon)
 - [INSIDE X, THE MOONSHOT FACTORY RACING TO BUILD THE NEXT GOOGLE](https://www.wired.com/story/alphabet-google-x-innovation-loon-wing-graduation) (Wired)
 - [Dell to Return to Public Markets With Tracking Stock (NYTimes)](https://www.nytimes.com/2018/07/02/business/dealbook/dell-deal-vmware.html)
-- [IPO Market Posts Blistering First Half](https://www.wsj.com/articles/ipo-market-posts-blistering-first-half-1530523801?redirect=amp) (WSJ)
 - [In Q2 2018, Global VC Scales Tipped In Favor Of Chinese Startups Over North America](https://news.crunchbase.com/news/in-q2-2018-global-vc-scales-tipped-in-favor-chinese-startups-over-north-america/) (CrunchBase)
 - [These are the top iPhone apps of all time](https://techcrunch.com/2018/07/02/these-are-the-top-iphone-apps-of-all-time/) (Tech Crunch)
 
@@ -2270,7 +2232,6 @@ title: Other Tech News
 - [Eight things to expect at Google I/O 2018](https://www.theverge.com/2018/5/5/17320870/google-io-2018-preview-date-time-android-p-ai-smart-home) (The Verge)
 - [Buffett's Berkshire Hathaway bought a stunning 75 million Apple shares in first quarter](https://www.cnbc.com/2018/05/03/buffetts-berkshire-hathaway-bought-stunning-75-million-apple-shares-in-first-quarter.html) (CNBC)
 - [The ‘Race to 5G’ Is Just Mindless Marketing BS](https://motherboard.vice.com/en_us/article/59j7v8/the-race-to-5g-is-just-mindless-marketing-bullshit) (Motherboard)
-- [How Xiaomi Went From Has-Been to World's Biggest IPO in Years](https://www.bloomberg.com/news/articles/2018-05-03/with-surprise-profits-xiaomi-aims-for-100-billion-value-in-ipo) (Bloomberg)
 - [Over 30? You're Too Old For Tech Jobs In China](https://www.bloomberg.com/news/features/2018-05-02/china-s-tech-industry-wants-youth-not-experience) (Bloomberg)
 
 ### April
@@ -2280,7 +2241,6 @@ title: Other Tech News
 - [A few thoughts on Ray Ozzie’s “Clear” Proposal](https://blog.cryptographyengineering.com/2018/04/26/a-few-thoughts-on-ray-ozzies-clear-proposal/) (Matthew Green)
 - [Inside Jeff Bezos’s DC Life](https://www.washingtonian.com/2018/04/22/inside-jeff-bezos-dc-life/) (Washingtonian)
 - [Can Silicon Valley Get You Pregnant?](https://www.fastcompany.com/40521525/fertility-tech-is-worth-billions-and-investors-are-finally-paying-attention?utm_source=twitter.com&utm_medium=social) (Fast Company)
-- [Sonos Prepares for IPO as Soon as June](https://www.wsj.com/articles/sonos-prepares-for-ipo-as-soon-as-june-1524692085?tesla=y&mod=e2tw) (WSJ)
 - [Google's Writing Checks and Trusts Investors Won’t Bounce](https://www.bloomberg.com/gadfly/articles/2018-04-23/alphabet-earnings-google-s-spending-a-lot-and-wants-some-trust) (Bloomberg)
 - [The Woman Who Gave The Macintosh a Smile](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile) (The New Yorker)
 - [Welcome to the Wikipedia for Terms of Service Agreements](https://www.wired.com/story/terms-of-service-didnt-read) (Wired)

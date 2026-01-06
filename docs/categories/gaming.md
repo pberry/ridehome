@@ -585,7 +585,6 @@ title: Gaming
 
 ### November
 
-- [Roblox files for its IPO](https://www.axios.com/roblox-files-for-its-ipo-aaf0a0c6-8492-4172-a741-a4f79b42792c.html) (Axios)
 - [Stadia will be playable on iOS via Safari in the coming ‘weeks’](https://9to5google.com/2020/11/19/stadia-will-be-playable-on-ios-via-safari-in-the-coming-weeks/) (9to5Google)
 - [Nvidia’s GeForce Now cloud gaming service launches on iOS as a web app](https://www.theverge.com/2020/11/19/21573311/nvidia-geforce-now-ios-launch-beta-release-safari-mobile-web-app?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - ['Fortnite' now offers Houseparty video calls on PC, PS4 and PS5](https://www.engadget.com/houseparty-fortnite-video-chat-pc-ps4-ps5-announcement-110027836.html) (Engadget)
@@ -671,7 +670,6 @@ title: Gaming
 - [With Real-Life Games Halted, Betting World Puts Action on E-Sports](https://www.nytimes.com/2020/06/08/sports/coronavirus-esports-sports-betting.html) (NYTimes)
 - [Advertisers eye in-game ads as audiences swell in lockdown](https://digiday.com/media/advertisers-eye-in-game-ads-as-audiences-swell-in-lockdown/) (Digiday)
 - [Indie history: How shareware helped build Epic Games](https://www.engadget.com/indie-video-games-publishing-epic-id-devolver-apogee-gathering-of-developers-150002664.html) (Engadget)
-- [Gaming Startup Unity Is Said to Prepare for IPO This Year](https://www.bloomberg.com/news/articles/2020-06-03/graphics-startup-unity-is-said-to-prepare-for-ipo-this-year?sref=MzDxCtkS) (Bloomberg)
 - [Zynga to Buy Peak for $1.8 Billion in Its Largest Deal Ever](https://www.bloomberg.com/news/articles/2020-06-01/zynga-to-buy-peak-for-1-8-billion-in-its-largest-deal-ever?sref=MzDxCtkS) (Bloomberg)
 - [Sony confirms PS5 will have exclusive games playable only on next-gen hardware](https://www.theverge.com/2020/5/29/21274634/playstation-5-ps5-ceo-jim-ryan-exclusive-games-confirmation) (The Verge)
 
@@ -738,7 +736,6 @@ title: Gaming
 - [HOW SONY BOUGHT, AND SQUANDERED, THE FUTURE OF GAMING](https://www.theverge.com/2019/12/5/20993828/sony-playstation-now-cloud-gaming-gaikai-onlive-google-stadia-25th-anniversary) (The Verge)
 - [Why ‘The Mandalorian’ cites Fortnite dev Epic Games in its credits](https://venturebeat.com/2019/11/19/why-the-mandalorian-cites-fortnite-dev-epic-games-in-its-credits/?utm_source=Benedict%27s+Newsletter&utm_campaign=195a3086db-Benedict%27s+Newsletter+315&utm_medium=email&utm_term=0_4999ca107f-195a3086db-70713529&mc_cid=195a3086db&mc_eid=9b9a04f35a) (VentureBeat)
 - [Sources: Microsoft Is Still Planning A Cheaper, Disc-Less Next-Gen Xbox](https://kotaku.com/sources-microsoft-is-still-planning-a-cheaper-disc-le-1840203823) (Kotaku)
-- [Counter-Strike World Champions Aim for First Esport Team IPO](https://www.bloomberg.com/news/articles/2019-11-29/counter-strike-world-champions-aim-for-first-esport-team-ipo) (Bloomberg)
 
 ### November
 

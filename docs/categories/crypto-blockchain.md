@@ -42,7 +42,6 @@ title: Crypto/Blockchain
 
 - [Google Cloud is developing its own blockchain for payments, currently in private testnet](https://www.theblock.co/post/368399/google-cloud-blockchain-gcul) (The Block)
 - [Behind Wall Street’s Abrupt Flip on Crypto](https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html?unlocked_article_code=1.eE8.qoJM.WdlNjZYqL8S5&smid=nytcore-ios-share&referringSource=articleShare)
-- [Crypto Firm Bullish Soars 84% in Debut After $1.1 Billion IPO](https://www.bloomberg.com/news/articles/2025-08-13/crypto-firm-bullish-surges-143-in-debut-after-1-1-billion-ipo?sref=Szq5ylDR) (Bloomberg)
 
 ### July
 
@@ -55,12 +54,10 @@ title: Crypto/Blockchain
 - [Walmart and Amazon Are Exploring Issuing Their Own Stablecoins](https://www.wsj.com/finance/banking/walmart-amazon-stablecoin-07de2fdd) (WSJ)
 - [Why we should worry about the rise of stablecoins](https://www.ft.com/content/e5701ff2-d976-451f-9ca2-68cd5f833c1a)
 - [How stablecoins are entering the financial mainstream](https://www.ft.com/content/b69f304c-798e-4dc3-9f17-6f7a7c8d3ac0) (Financial Times)
-- [Stablecoin issuer Circle soars 168% in NYSE debut after pricing IPO above expected range](https://www.cnbc.com/2025/06/05/stablecoin-issuer-circle-soars-in-nyse-debut-after-pricing-ipo-above-expected-range.html) (CNBC)
 - [Pump.fun plans $1B token sale at $4B valuation: Sources](https://blockworks.co/news/pumpdotfun-token-sale) (Blockworks)
 
 ### May
 
-- [Stablecoin Giant Circle File for IPO on NYSE](https://www.coindesk.com/business/2025/05/27/stablecoin-giant-circle-files-for-ipo-on-nyse) (CoinDesk)
 - [Stablecoin Bill Advances in US Senate in Big Win for Crypto](https://www.bloomberg.com/news/articles/2025-05-20/stablecoin-legislation-advances-in-senate-in-big-win-for-crypto?sref=Szq5ylDR) (Bloomberg)
 - [Crypto High-Rollers Go Big on Bodyguards to Deter Kidnappers](https://www.bloomberg.com/news/articles/2025-05-18/crypto-high-rollers-go-big-on-bodyguards-to-deter-kidnappers?sref=Szq5ylDR) (Bloomberg)
 - [Meta Explores Stablecoin Integration as US Senate Blocks Key Crypto Bill](https://coinpaper.com/9011/meta-explores-stablecoin-integration-as-us-senate-blocks-key-crypto-bill) (Coinpaper)
@@ -71,14 +68,12 @@ title: Crypto/Blockchain
 
 - [Crypto Knocks on the Door of a Banking World That Shut It Out](https://www.wsj.com/finance/currencies/crypto-knocks-on-the-door-of-a-banking-world-that-shut-it-out-082b3968) (WSJ)
 - [Coinbase in hot water over $12 million ‘content coin’—but exec tells haters to lean in](https://fortune.com/crypto/2025/04/19/coinbase-zora-base-content-coin-jesse-polla/) (Fortune Crypto)
-- [Stablecoin issuer Circle files for IPO as public markets open to crypto](https://www.cnbc.com/2025/04/01/usdc-issuer-circle-files-for-ipo-as-public-markets-open-to-crypto.html) (CNBC)
 
 ### March
 
 - [Crypto’s Trumpian Embrace Is Leaving Bitcoin’s Big Rival Behind](https://www.bloomberg.com/news/articles/2025-03-29/crypto-s-trumpian-embrace-is-leaving-bitcoin-s-big-rival-behind?sref=Szq5ylDR) (Bloomberg)
 - [Fidelity plans to launch stablecoin in digital assets push](https://www.ft.com/content/7df7c1d9-9e1f-4de4-8161-1cdb6f4e0e7f) (FT)
 - [One Man’s Crypto Windfall Is Funding a $1 Billion Space Station Dream](https://www.bloomberg.com/news/features/2025-03-20/crypto-windfall-is-funding-vast-s-space-station-ambitions?sref=Szq5ylDR)
-- [Banks and fintechs join ‘stablecoin gold rush’](https://www.ft.com/content/d033e015-f726-4d5f-ab38-2949171f2cdc) (Financial Times)
 - [Donald Trump signs executive order for Strategic Bitcoin Reserve](https://cointelegraph.com/news/donald-trump-signs-executive-order-strategic-bitcoin-reserve) (CoinTelegraph)
 - [Bored Ape Creator Yuga Labs Says SEC Closing Investigation in 'Huge Win' for NFT Sector](https://decrypt.co/308539/bored-ape-creator-yuga-labs-says-sec-closing-investigation-in-huge-win-for-nft-sector) (Decrypt)
 - [Donald Trump Names Components Of Crypto Reserve](https://www.coindesk.com/policy/2025/03/02/trump-to-establish-u-s-crypto-reserve) (CoinDesk)
@@ -193,7 +188,6 @@ title: Crypto/Blockchain
 - [It’s not just electricity — Bitcoin mines burn through a lot of water, too](https://www.theverge.com/2023/11/29/23979858/bitcoin-mine-cryptocurrency-water-use-analysis-energy) (The Verge)
 - [Key Witness at Sam Bankman-Fried Trial to Launch New Crypto Exchange](https://www.wsj.com/finance/currencies/key-witness-at-sam-bankman-fried-trial-to-launch-new-crypto-exchange-80d1edce?mod=followamazon) (WSJ)
 - [Coatue Cuts Value of OpenSea Stake by 90% as Fund’s Returns Sag](https://www.theinformation.com/articles/coatue-cuts-value-of-opensea-stake-by-90-as-funds-returns-sag?rc=64g9cw) (The Information)
-- [Stablecoin Issuer Circle Internet Considering 2024 IPO](https://www.bloomberg.com/news/articles/2023-11-07/stablecoin-issuer-circle-internet-said-to-consider-2024-ipo?sref=Szq5ylDR) (Bloomberg)
 
 ### October
 
@@ -850,7 +844,6 @@ title: Crypto/Blockchain
 - [Coinbase to Suspend XRP Trading Following SEC Suit Against Ripple](https://www.coindesk.com/coinbase-suspends-xrp-trading) (CoinDesk)
 - [SEC Sues Ripple Over 7-Year, $1.3B ‘Ongoing’ XRP Sale](https://www.coindesk.com/sec-sues-ripple-over-7-year-1-3b-ongoing-xrp-sale) (CoinDesk)
 - [Ripple says it will be sued by the SEC, in what the company calls a parting shot at the crypto industry](https://fortune.com/2020/12/21/ripple-to-be-sued-by-sec-cryptocurrency-xrp/) (Fortune)
-- [Coinbase announces IPO in a milestone for the crypto industry](https://fortune.com/2020/12/17/coinbase-ipo-cryptocurrency-initial-public-offering-stock/) (Fortune)
 - [Bitcoin Hits Record Above $20K as Analysts Remain Confident of Future](https://www.coindesk.com/bitcoin-price-breaks-20k) (Coindesk)
 - [US Lawmakers Introduce Bill That Would Require Stablecoin Issuers to Obtain Bank Charters](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters) (Coindesk)
 - [Libra Rebrands to ‘Diem’ in Anticipation of 2021 Launch](https://www.coindesk.com/libra-diem-rebrand) (CoinDesk)
@@ -970,7 +963,6 @@ title: Crypto/Blockchain
 
 - [Facebook and Telegram Are Hoping to Succeed Where Bitcoin Failed](https://www.nytimes.com/2019/02/28/technology/cryptocurrency-facebook-telegram.html) (NYTimes)
 - [Coinbase Lists Controversial Cryptocurrency XRP, Price Jumps 10%](http://fortune.com/2019/02/25/coinbase-xrp-cryptocurrency/) (Fortune)
-- [Mining Giant Bitmain Posts $500 Million Loss in IPO Financial Filing](https://www.coindesk.com/mining-giant-bitmain-posts-500-million-loss-in-ipo-financial-filing) (Coindesk)
 - [HSBC forex trading costs cut sharply by blockchain - executive](https://www.reuters.com/article/us-hsbc-blockchain/hsbc-forex-trading-costs-cut-sharply-by-blockchain-executive-idUSKCN1Q31MW) (Reuters)
 - [JP Morgan is rolling out the first US bank-backed cryptocurrency to transform payments business](https://www.cnbc.com/2019/02/13/jp-morgan-is-rolling-out-the-first-us-bank-backed-cryptocurrency-to-transform-payments--.html) (CNBC)
 - [Facebook Makes First Blockchain Acquisition With Chainspace: Sources](https://cheddar.com/videos/facebook-blockchain-acquisition-chainspace) (Cheddar)

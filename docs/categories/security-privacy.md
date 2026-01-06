@@ -168,7 +168,6 @@ title: Security/Privacy
 - [AT&T says criminals stole phone records of ‘nearly all’ customers in new data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/) (TechCrunch)
 - [AT&T Paid a Hacker $370,000 to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/) (Wired)
 - [In a major update, Proton adds privacy-safe document collaboration to Drive, its freemium E2EE cloud storage service](https://techcrunch.com/2024/07/03/in-major-update-proton-adds-privacy-safe-document-collaboration-to-drive-its-freemium-e2ee-cloud-storage-service/) (TechCrunch)
-- [Fintech company Wise says some customers affected by Evolve Bank data breach](https://techcrunch.com/2024/07/01/fintech-company-wise-says-some-customers-affected-by-evolve-bank-data-breach/) (TechCrunch)
 - [CDK Global Hack Shows Risk of One Software Vendor Dominating an Industry](https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d?st=l5gbcjsgkhkaz9g&reflink=desktopwebshare_permalink) (WSJ)
 - [YouTube now lets you request removal of AI-generated content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/) (TechCrunch)
 
@@ -1184,7 +1183,6 @@ title: Security/Privacy
 - [Marriott says 500 million Starwood guest records stolen in massive data breach](https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/) (TechCrunch)
 - [8 People Are Facing Charges As A Result Of The FBI’s Biggest-Ever Ad Fraud Investigation](https://www.buzzfeednews.com/article/craigsilverman/3ve-botnet-ad-fraud-fbi-takedown) (BuzzFeed)
 - [Half of all Phishing Sites Now Have the Padlock](https://krebsonsecurity.com/2018/11/half-of-all-phishing-sites-now-have-the-padlock/) (Krebs on Security)
-- [How to Use an iPod Touch as a Secure Device Instead of a Phone](https://motherboard.vice.com/en_us/article/439dk9/how-to-use-ipod-touch-secure-device-instead-of-phone) (Motherboard)
 - [Tim Cook defends multibillion-dollar Google search deal despite Apple’s privacy focus](https://www.theverge.com/2018/11/19/18102403/apple-google-search-deal-tim-cook-axios-on-hbo-interview) (The Verge)
 - [Major SMS security lapse is a reminder to use authenticator apps instead](https://www.theverge.com/2018/11/16/18098286/vovox-security-breach-two-factor-authentication-2fa-codes-exposed) (The Verge)
 - [THE HAIL MARY PLAN TO RESTART A HACKED US ELECTRIC GRID](https://www.wired.com/story/black-start-power-grid-darpa-plum-island/) (Wired)

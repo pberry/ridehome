@@ -94,19 +94,14 @@ title: Cloud/Enterprise
 - [Shopify CEO says staffers need to prove jobs can’t be done by AI before asking for more headcount](https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html) (CNBC)
 - [Google in Advanced Talks to Rent Nvidia AI Servers From CoreWeave](https://www.theinformation.com/articles/google-advanced-talks-rent-nvidia-ai-servers-coreweave?rc=64g9cw) (The Information)
 - [Amazon targets April 9 launch of first Kuiper internet satellites](https://www.reuters.com/business/retail-consumer/amazon-targets-april-9-launch-first-kuiper-internet-satellites-2025-04-02/) (Reuters)
-- [CoreWeave shares rip nearly 42% higher, rising above IPO price](https://www.cnbc.com/2025/04/01/coreweave-shares-bounce-ipo-price.html) (CNBC)
 
 ### March
 
-- [CoreWeave prices IPO at $40 a share, below expected range](https://www.cnbc.com/2025/03/27/coreweave-prices-ipo-at-40-a-share-below-expected-range.html) (CNBC)
-- [CoreWeave’s Shaky IPO Signal](https://www.theinformation.com/articles/coreweaves-shaky-ipo-signal?rc=64g9cw) (The Information)
 - [Microsoft Abandons Data Center Projects, TD Cowen Says](https://www.bloomberg.com/news/articles/2025-03-26/microsoft-abandons-more-data-center-projects-td-cowen-says?sref=Szq5ylDR) (Bloomberg)
 - [Trump’s Aggression Sours Europe on US Cloud Giants](https://www.wired.com/story/trump-us-cloud-services-europe/) (Wired)
 - [Google's $32 billion deal for Wiz accelerated under Trump, sources say](https://www.reuters.com/technology/cybersecurity/googles-32-billion-deal-wiz-accelerated-under-trump-sources-say-2025-03-19/) (Reuters)
 - [Google Strikes $32 Billion Deal for Cybersecurity Startup Wiz](https://www.wsj.com/business/deals/alphabet-back-in-deal-talks-for-cybersecurity-startup-wiz-41cd3090?st=fakXcb&reflink=desktopwebshare_permalink) (WSJ)
-- [CoreWeave serves as bellwether for AI in soft IPO market](https://www.semafor.com/article/03/14/2025/coreweave-serves-as-bellwether-for-ai-in-soft-ipo-market) (Semafor)
 - [ServiceNow Nears Deal to Buy AI Assistant Maker Moveworks](https://www.bloomberg.com/news/articles/2025-03-10/servicenow-nears-deal-to-buy-ai-assistant-maker-moveworks?sref=Szq5ylDR) (Bloomberg)
-- [AI cloud provider CoreWeave files for IPO](https://www.cnbc.com/2025/03/03/ai-cloud-provider-coreweave-files-for-ipo.html) (CNBC)
 - [Google’s Sergey Brin Urges Workers to the Office ‘at Least’ Every Weekday](https://www.nytimes.com/2025/02/27/technology/google-sergey-brin-return-to-office.html?unlocked_article_code=1.0U4.A8Eb.6hfgL-MPLsba&smid=url-share&utm_source=tldrnewsletter) (NYTimes)
 
 ### February
@@ -167,7 +162,6 @@ title: Cloud/Enterprise
 ### July
 
 - [Google’s $23 Billion Snub From Wiz Will Sting Them Both](https://www.bloomberg.com/opinion/articles/2024-07-23/google-s-23-billion-snub-from-wiz-will-sting-both-tech-companies?sref=Szq5ylDR) (Bloomberg)
-- [Wiz walks away from $23 billion deal with Google, will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html) (CNBC)
 - [Microsoft’s global sprawl comes under fire after historic outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/) (Washington Post)
 - [Blue Screens Everywhere Are Latest Tech Woe for Microsoft](https://www.wsj.com/tech/cybersecurity/microsoft-tech-outage-role-crowdstrike-50917b90?st=pkas1bzrhcoj0os&reflink=desktopwebshare_permalink) (WSJ)
 - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue) (The Verge)
@@ -415,7 +409,6 @@ title: Cloud/Enterprise
 - [New Google Calendar feature takes the back-and-forth out of scheduling](https://arstechnica.com/gadgets/2022/03/google-calendar-now-lets-paid-users-create-a-booking-page-website/) (Ars Technica)
 - [HP buys Poly for $3.3 billion to ride hybrid work boom](https://techstartups.com/2022/03/28/hp-buys-poly-3-3-billion-lead-work-home-revolution-workplace-collaboration-video-conferencing-solutions/) (TechStartups)
 - [Apple acquires UK open banking startup Credit Kudos](https://www.theblockcrypto.com/post/138898/apple-acquires-uk-open-banking-startup-credit-kudos) (The Block)
-- [Apple Buys UK Fintech Start-Up Credit Kudos](https://www.nbcphiladelphia.com/news/business/money-report/apple-buys-uk-fintech-start-up-credit-kudos/3185610/) (CNBC)
 - [Mark Zuckerberg and Meta’s Leadership Take Remote Work to the Extreme](https://www.wsj.com/articles/mark-zuckerberg-and-metas-leadership-take-remote-work-to-the-extreme-11648040580?mod=djemalertNEWS) (WSJ)
 - [Zoom’s new virtual avatars let you show up to your next meeting as a dog](https://www.theverge.com/2022/3/22/22990983/zoom-virtual-avatars-animal-face-replacement?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Google I/O takes place May 11th and 12th, and it will be fully available online](https://www.theverge.com/2022/3/16/22981868/google-i-o-2022-may-11th-12th-online-virtual?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -588,7 +581,6 @@ title: Cloud/Enterprise
 
 ### December
 
-- [Qualtrics Files for U.S. IPO Two Years After Sale to SAP](https://www.bloomberg.com/news/articles/2020-12-28/qualtrics-files-for-u-s-ipo-two-years-after-sale-to-sap-kj96988u?sref=sZAFdZwV) (Bloomberg)
 - [Search engine start-ups try to take on Google](https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b) (Financial Times)
 - [Buoyed by Video Success, Zoom Explores Email, Calendar Services](https://www.theinformation.com/articles/buoyed-by-video-success-zoom-explores-email-calendar-services) (The Information)
 - [Our Digital Lives Drive a Brick-and-Mortar Boom in Data Centers](https://www.nytimes.com/2020/12/22/business/data-storage-centers-coronavirus.html) (NYTimes)
@@ -668,7 +660,6 @@ title: Cloud/Enterprise
 - [Google Cloud's new BigQuery Omni will let developers query data in GCP, AWS and Azure](https://techcrunch.com/2020/07/14/google-clouds-new-bigquery-omni-will-let-developers-query-data-in-gcp-aws-and-azure/) (TechCrunch)
 - [Google to invest $10 billion in India](https://techcrunch.com/2020/07/13/google-to-invest-10-billion-in-india/) (TechCrunch)
 - [Microsoft's plan to make video calls less miserable](https://www.axios.com/microsoft-video-chat-eee1ada2-a0fe-4a54-8df1-2c08f2985faa.html) (Axios)
-- [Secretive data startup Palantir has confidentially filed for an IPO](https://techcrunch.com/2020/07/06/secretive-data-startup-palantir-has-confidentially-filed-for-an-ipo/) (TechCrunch)
 - [Palantir Technologies Files to Go Public](https://www.nytimes.com/2020/07/06/technology/palantir-technologies-ipo.html) (NYTimes)
 - [A Bird? A Plane? No, It’s a Google Balloon Beaming the Internet](https://www.nytimes.com/2020/07/07/world/africa/google-loon-balloon-kenya.html) (NYTimes)
 - [Google Pushes Back U.S. Office Reopening Plan After Virus Surge](https://www.bloomberg.com/news/articles/2020-07-01/google-pushes-back-u-s-office-reopening-plan-after-virus-surge?sref=MzDxCtkS) (Bloomberg)
@@ -689,7 +680,6 @@ title: Cloud/Enterprise
 - [Amazon sues former AWS marketing VP Brian Hall after he takes Google Cloud job](https://www.geekwire.com/2020/amazon-sues-former-aws-marketing-vp-brian-hall-accepts-google-cloud-job/) (GeekWire)
 - [Amazon licenses Slack for all employees, while Slack adopts AWS video-calling tech](https://www.cnbc.com/2020/06/04/amazon-licenses-slack-for-workers-as-slack-adopts-aws-video-call-tech.html) (CNBC)
 - [Exclusive: Amazon in talks to buy $2 billion stake in Indian telco Bharti Airtel - sources](https://www.reuters.com/article/us-amazon-india-bharti-exclusive/exclusive-amazon-in-talks-to-buy-2-billion-stake-in-indian-telco-bharti-airtel-sources-idUSKBN23B1F8) (Reuters)
-- [ZoomInfo aiming to price IPO $1 above revised price range](https://www.cnbc.com/2020/06/03/zoominfo-aiming-to-price-ipo-1-above-revised-price-range.html) (CNBC)
 - [Zoom revenue grew 169% during the quarter, and the company doubled its revenue guidance for the year](https://www.cnbc.com/2020/06/02/zoom-zm-earnings-q1-2021.html) (CNBC)
 
 ### May
@@ -841,7 +831,6 @@ title: Cloud/Enterprise
 - [Google Maps lets you pull up flight and hotel reservations on the go](https://www.cnet.com/news/google-maps-lets-you-pull-up-flight-and-hotel-reservations-on-the-go/) (CNET)
 - [Slack unveils new admin security controls](https://www.itpro.co.uk/cloud/34165/slack-unveils-new-admin-security-controls) (ITPro)
 - [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/)
-- [Cloudflare Said To Pursue September IPO, We Say Heck Yes](https://news.crunchbase.com/news/cloudflare-said-to-pursue-september-ipo-we-say-heck-yes/) (Crunchbase News)
 
 ### July
 
@@ -858,7 +847,6 @@ title: Cloud/Enterprise
 ### April
 
 - [Google Maps Is Ready to Transform the World of Superapps: A Skift Deep Dive](https://skift.com/2019/04/16/google-maps-is-ready-to-transform-the-world-of-superapps-a-skift-deep-dive/) (Skift)
-- [PagerDuty pops more than 50% in debut as tech IPO market heats up](https://www.cnbc.com/2019/04/11/pagerduty-pops-more-than-50percent-in-debut-as-tech-ipo-market-heats-up.html) (CNBC)
 - [Triplebyte raises $35M for its online coding test and credentialing service for hiring engineers](https://techcrunch.com/2019/04/11/triplebyte-raises-35m-for-its-online-coding-test-and-credentialing-service-for-hiring-engineers/) (TechCrunch)
 - [Google Assistant now works with your G Suite work calendar](https://www.geekwire.com/2019/google-assistant-now-works-g-suite-work-calendar/) (GeekWire)
 - [Slack Is Fetching High Prices in Private Stock Deals Ahead of Public Offering](https://www.bloomberg.com/news/articles/2019-04-09/slack-is-fetching-high-prices-in-private-stock-deals-ahead-of-public-offering) (Bloomberg)
@@ -934,7 +922,6 @@ title: Cloud/Enterprise
 
 ### September
 
-- [Slack Actively Preparing for Early 2019 IPO](https://www.wsj.com/articles/slack-actively-preparing-for-early-2019-ipo-1538137541) (WSJ)
 - [Google's new activity cards will save your previous searches](https://www.engadget.com/2018/09/24/google-search-activity-card-collections/) (Engadget)
 - ['NETFLIX FOR OPEN SOURCE' WANTS DEVELOPERS TO GET PAID](https://www.wired.com/story/netflix-open-source-wants-developers-get-paid/) (Wired)
 - [Is This Article Worth Reading? Gmail’s Suggested Reply: ‘Haha, Thanks!’](https://www.wsj.com/articles/very-interesting-awesome-love-it-gmail-users-confront-chipper-smart-reply-1537282569) (WSJ)

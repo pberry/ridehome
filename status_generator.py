@@ -12,58 +12,7 @@ import re
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from collections import Counter
-
-
-# Topic categorization based on keywords in titles
-# Order matters: more specific categories first to avoid false matches
-TOPIC_KEYWORDS = {
-    # Specific tech categories (most specific first)
-    'Regulation/Policy': [
-        'regulation', 'antitrust', 'ftc', 'sec', 'doj', 'congress', 'senate',
-        'lawsuit', 'legal', 'bill', 'legislation', 'policy', 'ban', 'law'
-    ],
-    'Security/Privacy': [
-        'breach', 'hack', 'security', 'privacy', 'encryption', 'vulnerability',
-        'cyberattack', 'ransomware', 'malware', 'data breach'
-    ],
-    'Crypto/Blockchain': [
-        'bitcoin', 'crypto', 'blockchain', 'ethereum', 'nft', 'web3', 'defi',
-        'coinbase', 'binance', 'solana', 'cryptocurrency'
-    ],
-    'Gaming': [
-        'game', 'gaming', 'riot', 'league of legends', 'xbox', 'playstation',
-        'nintendo', 'steam', 'epic games', 'esports', 'twitch'
-    ],
-    'Hardware/Chips': [
-        'chip', 'tpu', 'nvidia', 'amd', 'intel', 'processor', 'gpu', 'cpu',
-        'semiconductor', 'tsmc', 'qualcomm', 'arm'
-    ],
-    'AI/Machine Learning': [
-        'ai', 'chatgpt', 'openai', 'gemini', 'claude', 'llm', 'machine learning',
-        'neural', 'gpt', 'anthropic', 'midjourney', 'stable diffusion', 'deepmind',
-        'copilot', 'artificial intelligence'
-    ],
-    'Automotive/Mobility': [
-        'tesla', 'waymo', 'ev', 'electric vehicle', 'autonomous', 'self-driving',
-        'uber', 'lyft', 'cruise', 'rivian', 'ford', 'gm'
-    ],
-    'Streaming/Entertainment': [
-        'netflix', 'spotify', 'youtube', 'streaming', 'disney', 'hulu',
-        'paramount', 'warner', 'hbo', 'music', 'video'
-    ],
-    'E-commerce/Retail': [
-        'amazon', 'instacart', 'shopify', 'retail', 'walmart', 'target',
-        'e-commerce', 'ecommerce', 'shopping'
-    ],
-    'Social Media': [
-        'facebook', 'meta', 'twitter', 'tiktok', 'instagram', 'snapchat',
-        'social media', 'threads', 'bluesky', 'mastodon'
-    ],
-    'Cloud/Enterprise': [
-        'aws', 'azure', 'google cloud', 'enterprise', 'saas', 'salesforce',
-        'oracle', 'sap', 'workday', 'cloud computing'
-    ],
-}
+from categories import TOPIC_KEYWORDS
 
 
 def categorize_topic(title):

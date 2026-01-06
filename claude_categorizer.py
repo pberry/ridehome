@@ -12,6 +12,7 @@ import sqlite3
 from datetime import datetime, timedelta
 from typing import List, Dict
 from dotenv import load_dotenv
+from categories import TOPIC_CATEGORIES
 
 # Load environment variables from .env file
 load_dotenv()
@@ -85,23 +86,6 @@ def normalize_title(title: str) -> str:
     normalized = normalized.replace('\\]', ']')
 
     return normalized
-
-
-# Topic categories (same as status_generator.py for consistency)
-TOPIC_CATEGORIES = [
-    'Regulation/Policy',
-    'Security/Privacy',
-    'Crypto/Blockchain',
-    'Gaming',
-    'Hardware/Chips',
-    'AI/Machine Learning',
-    'Automotive/Mobility',
-    'Streaming/Entertainment',
-    'E-commerce/Retail',
-    'Social Media',
-    'Cloud/Enterprise',
-    'Other Tech News'
-]
 
 
 def create_categorization_prompt(titles: List[str], retry_count: int = 0) -> str:

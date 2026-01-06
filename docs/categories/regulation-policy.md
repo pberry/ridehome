@@ -69,7 +69,6 @@ title: Regulation/Policy
 - [Google stock jumps 8% after search giant avoids worst-case penalties in antitrust case](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html) (CNBC)
 - [Google, Apple, and Mozilla Win in the Antitrust Case Google Lost](https://spyglass.org/google-apple-and-mozilla-win-in-the-antitrust-case-google-lost/) (Spyglass)
 - [Google’s Big Win Is Even Bigger for Apple](https://www.wsj.com/tech/googles-big-win-is-even-bigger-for-apple-6a4ffc40) (WSJ)
-- [UK fintechs explore buying US banks to speed up push for licences](https://www.ft.com/content/775d8465-5200-41db-9c56-edfeb59308bf) (FT)
 
 ### August
 
@@ -93,7 +92,6 @@ title: Regulation/Policy
 - [Intel’s Chief Holds Firm After Trump Demands His Resignation](https://www.nytimes.com/2025/08/08/business/intel-ceo-trump.html) (NYTimes)
 - [Trump Urges ‘Conflicted’ Intel CEO Tan to Resign Immediately](https://www.bloomberg.com/news/articles/2025-08-07/trump-urges-intel-ceo-to-resign-calls-him-conflicted) (Bloomberg)
 - [Trump Eyes 100% Chips Tariff, Exempting Firms That Invest in US](https://www.bloomberg.com/news/articles/2025-08-06/trump-plans-100-tariff-on-chips-with-carveout-for-apple-others) (Bloomberg)
-- [Lina Khan points to Figma IPO as vindication of M&A scrutiny](https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/) (TechCrunch)
 
 ### July
 
@@ -193,7 +191,6 @@ title: Regulation/Policy
 - [Apple Will Add 20,000 US Jobs Amid Threat from Trump Tariffs](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us?sref=Szq5ylDR) (Bloomberg)
 - [Trump tariffs result in 10% laptop price hike in U.S. says Acer CEO](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs) (Tom's Hardware)
 - [Apple, Google Restore TikTok App After Assurances From Trump](https://www.bloomberg.com/news/articles/2025-02-14/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?sref=Szq5ylDR) (Bloomberg)
-- [Shein IPO plans hit by Trump’s low-cost parcels crackdown](https://www.ft.com/content/a83455b4-2f97-41b5-9b88-74526bd80f63) (Financial Times)
 - [Meta Opens Facebook Marketplace to Rivals in EU Antitrust Clash](https://www.bloomberg.com/news/articles/2025-02-13/meta-opens-facebook-marketplace-to-rivals-in-eu-antitrust-clash?sref=Szq5ylDR) (Bloomberg)
 - [Thomson Reuters Wins First Major AI Copyright Case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/) (Wired)
 - [Bill banning social media for youngsters advances](https://www.politico.com/newsletters/future-pulse/2025/02/05/senate-commerce-approves-bill-banning-social-media-for-kids-under-13-00202469) (Politico)
@@ -871,7 +868,6 @@ title: Regulation/Policy
 - [Apple Attempts to Stop Developers Promoting Alternative Payment Options for In-App Purchases in Russia](https://www.macrumors.com/2021/12/06/apple-to-stop-promoting-payment-options-in-russia/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [FTC Challenges Nvidia’s Deal for Arm Holdings](https://www.wsj.com/articles/ftc-challenges-nvidias-40-billion-deal-for-arm-11638476876?mod=djemalertNEWS) (WSJ)
 - [Didi bows to China regulatory pressure, will delist from NYSE](https://www.reuters.com/technology/didi-global-start-work-delisting-new-york-pursue-ipo-hong-kong-2021-12-03/) (Reuters)
-- [China to Close Loophole Used by Tech Firms for Foreign IPOs](https://www.bloomberg.com/news/articles/2021-12-01/china-plans-to-ban-loophole-used-by-tech-firms-for-foreign-ipos?sref=Szq5ylDR) (Bloomberg)
 
 ### November
 
@@ -950,14 +946,12 @@ title: Regulation/Policy
 ### July
 
 - [Amazon Gets Record $888 Million EU Fine Over Data Violations](https://www.bloomberg.com/news/articles/2021-07-30/amazon-given-record-888-million-eu-fine-for-data-privacy-breach?sref=Szq5ylDR) (Bloomberg)
-- [U.S. SEC says Chinese IPO hopefuls must provide additional risk disclosures](https://www.reuters.com/article/us-sec-ipo-china-exclusive-idUSKBN2F01BY) (Reuters)
 - [Why the US can’t just beam internet into authoritarian states like Cuba](https://qz.com/2037662/the-us-cant-beam-internet-into-authoritarian-states-like-cuba/) (Quartz)
 - [Didi Global Considers Going Private to Placate China and Compensate Investors](https://www.wsj.com/articles/didi-global-considers-going-private-to-placate-china-and-compensate-investors-11627551071?mod=djemalertNEWS) (WSJ)
 - [China Crackdown Makes Hong Kong Index World’s Biggest Tech Loser](https://www.bloomberg.com/news/articles/2021-07-24/china-crackdown-makes-hong-kong-index-world-s-biggest-tech-loser?sref=Szq5ylDR) (Bloomberg)
 - [China Bans For-Profit School Tutoring in Sweeping Overhaul](https://www.bloomberg.com/news/articles/2021-07-24/china-bans-school-curriculum-tutoring-firms-from-going-public?sref=Szq5ylDR) (Bloomberg)
 - [China’s education sector crackdown hits foreign investors](https://www.ft.com/content/dfae3282-e14e-4fea-aa5f-c2e914444fb8) (Financial Times)
 - [Why is China smashing its tech industry?](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) (Noahpinion.substack.com)
-- [China Weighs Unprecedented Penalty for Didi After U.S. IPO](https://www.bloomberg.com/news/articles/2021-07-22/china-is-said-to-weigh-unprecedented-penalty-for-didi-after-ipo?sref=Szq5ylDR) (Bloomberg)
 - [FTC pledges to fight unlawful right to repair restrictions](https://www.theverge.com/2021/7/21/22587331/right-to-repair-apple-iphone-ftc-lina-khan-open-meeting?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Biden Names Tech Foe Jonathan Kanter as DOJ Antitrust Chief](https://www.bloomberg.com/news/articles/2021-07-20/biden-to-name-google-foe-jonathan-kanter-as-doj-antitrust-chief?sref=Szq5ylDR) (Bloomberg)
 - [Tesla is charging owners $1,500 for hardware they already paid for](https://electrek.co/2021/07/18/tesla-is-charging-owners-1500-for-hardware-they-already-paid-for/) (Electrek)
@@ -965,7 +959,6 @@ title: Regulation/Policy
 - [Biden Executive Order on Non-Competes Could Roil Tech](https://www.bloomberg.com/news/newsletters/2021-07-12/biden-executive-order-on-non-competes-could-roil-tech?sref=Szq5ylDR) (Bloomberg)
 - [Apple AirPod batteries are almost impossible to replace, showing the need for right-to-repair reform](https://www.cnbc.com/2021/07/10/apple-airpod-battery-life-problem-shows-need-for-right-to-repair-laws.html) (CNBC)
 - [Tesla’s $16,000 Quote for a $700 Fix Is Why Right to Repair Matters](https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters) (The Drive)
-- [ByteDance Shelved IPO Intentions After Chinese Regulators Warned About Data Security](https://www.wsj.com/articles/bytedance-shelvedipo-intentions-after-chinese-regulators-warned-about-data-security-11626078000?mod=djemalertNEWS) (WSJ)
 - [EU Delays Push for Digital Levy to Focus on Global Tax Deal](https://www.bloomberg.com/news/articles/2021-07-12/eu-delays-push-for-digital-levy-to-focus-on-global-tax-deal?sref=Szq5ylDR) (Bloomberg)
 - [36 states, D.C. sue Google for alleged antitrust violations in its Android app store](https://www.politico.com/news/2021/07/07/36-states-dc-sue-google-for-alleged-antitrust-violations-in-its-android-app-store-498622) (Politico)
 - [Twitter Pledges to ‘Fully Comply’ With India Internet Rules](https://www.bloomberg.com/news/articles/2021-07-08/twitter-pledges-to-fully-comply-with-india-internet-rules) (Bloomberg)
@@ -973,12 +966,9 @@ title: Regulation/Policy
 - [Ireland’s Days as a Tax Haven May Be Ending, but Not Without a Fight](https://www.nytimes.com/2021/07/08/business/ireland-minimum-corporate-tax.html) (New York Times)
 - [Biden Sets Up Tech Showdown With ‘Right-to-Repair’ Rules for FTC](https://www.bloomberg.com/news/articles/2021-07-06/biden-wants-farmers-to-have-right-to-repair-own-equipment-kqs66nov) (Bloomberg)
 - [China's Tencent Says It'll Use Face Recognition to Keep Minors From Gaming at Night](https://gizmodo.com/chinas-tencent-says-itll-use-face-recognition-to-keep-m-1847236584) (Gizmodo)
-- [Chinese Regulators Suggested Didi Delay Its U.S. IPO](https://www.wsj.com/articles/chinese-regulators-suggested-didi-delay-its-u-s-ipo-11625510600?mod=djemalertNEWS) (Wall Street Journal)
 - [Didi Shows China’s Tech Giants Must First Answer to Beijing](https://www.bloomberg.com/news/articles/2021-07-05/didi-shows-all-chinese-tech-giants-must-first-answer-to-beijing?utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&cmpid=socialflow-twitter-business&utm_medium=social) (Bloomberg)
-- [China’s Big Tech Crackdown Puts Dozens of U.S. IPOs at Risk](https://www.bloomberg.com/news/articles/2021-07-06/big-tech-crackdown-seen-hurting-china-s-pipeline-for-u-s-ipos?sref=sZAFdZwV) (Bloomberg)
 - [Twitter has lost liability protection in India, government says](https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/) (Tech Crunch)
 - [American Internet Giants Hit Back at Hong Kong Doxxing Law](https://www.nytimes.com/2021/07/05/technology/hong-kong-doxxing-national-security-law.html) (New York Times)
-- [Didi shares fall after China announces cybersecurity review just days after IPO](https://www.cnbc.com/2021/07/02/didi-shares-fall-after-china-announces-cybersecurity-review.html) (CNBC)
 - [Federal judge puts Florida 'deplatforming' law on hold, citing First Amendment](https://www.nbcnews.com/tech/tech-news/federal-judge-puts-florida-deplatforming-law-hold-citing-first-amendme-rcna1288) (NBC News)
 - [Amazon Wants FTC Chair Khan Recused Over Past Criticism](https://www.bloomberg.com/news/articles/2021-06-30/amazon-seeks-to-have-ftc-chair-khan-recused-on-company-actions) (Bloomberg)
 - [Maine has strictly banned facial recognition from schools and policing](https://www.inputmag.com/tech/maine-has-strictly-banned-facial-recognition-from-schools-and-policing) (Input)
@@ -1115,11 +1105,9 @@ title: Regulation/Policy
 
 - [U.K. Bans Installation of Huawei 5G Gear From September](https://www.bloomberg.com/news/articles/2020-11-30/u-k-unveils-5g-plan-banning-huawei-installations-from-september?sref=sZAFdZwV) (Bloomberg)
 - [Data Heroes of Covid Tracking Project Are Still Filling U.S. Government Void](https://www.bloomberg.com/news/features/2020-11-20/covid-tracking-project-volunteers-step-up-as-u-s-fails-during-pandemic?sref=sZAFdZwV) (Bloomberg Businessweek)
-- [Jack Ma vs. the Party: Inside the collapse of the world's biggest IPO](https://asia.nikkei.com/Spotlight/The-Big-Story/Jack-Ma-vs.-the-Party-Inside-the-collapse-of-the-world-s-biggest-IPO) (Nikkei Asia)
 - [Apple to pay $113 million to settle state investigation into iPhone ‘batterygate’](https://www.washingtonpost.com/technology/2020/11/18/apple-fine-battery/) (The Washington Post)
 - [Apple will reduce App Store cut to 15 percent for most developers starting January 1st](https://www.theverge.com/2020/11/18/21572302/apple-app-store-small-business-program-commission-cut-15-percent-reduction?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [U.S. Backs Down on TikTok](https://www.wsj.com/articles/commerce-department-announces-stay-of-tiktok-shutdown-order-11605213481) (WSJ)
-- [China’s President Xi Jinping Personally Scuttled Jack Ma’s Ant IPO](https://www.wsj.com/articles/china-president-xi-jinping-halted-jack-ma-ant-ipo-11605203556?mod=djemalertNEWS) (WSJ)
 - [Google Photos Just Made the Case for Breaking Up Big Tech](https://onezero.medium.com/google-photos-just-made-the-case-for-breaking-up-big-tech-420dc6b5d375) (OneZero)
 - [TikTok hasn’t heard from the Trump administration in weeks, prompting latest CFIUS petition](https://www.cnbc.com/2020/11/10/what-happened-to-tiktok-deal-trump-administration-silent.html) (CNBC)
 - [China drafts new antitrust guideline to rein in tech giants, wiping US$102 billion from Alibaba, Tencent and Meituan stocks](https://www.scmp.com/business/china-business/article/3109188/china-drafts-new-antitrust-guideline-rein-tech-giants) (South China Morning Post)
@@ -1134,14 +1122,12 @@ title: Regulation/Policy
 - [China Tells Ant It Can’t Go Public Until Capital Shortfall Fixed](https://www.bloomberg.com/news/articles/2020-11-03/china-tells-ant-it-must-meet-new-capital-requirements-before-ipo?sref=sZAFdZwV) (Bloomberg)
 - [Canada to Force Netflix, Amazon Prime to Pay for Local Conten](https://www.hollywoodreporter.com/news/canada-to-force-netflix-amazon-prime-to-pay-for-local-content)
 - [China Halts Ant Group’s Blockbuster I.P.O.](https://www.nytimes.com/2020/11/03/technology/ant-ipo-jack-ma-summoned.html) (NYTimes)
-- [China Halts Ant’s Record IPO, Throwing Ma’s Empire Into Turmoil](https://www.bloomberg.com/news/articles/2020-11-03/ant-group-says-hong-kong-ipo-also-suspended?sref=sZAFdZwV) (Bloomberg)
 
 ### October
 
 - [The Tech Antitrust Problem No One Is Talking About](https://www.wired.com/story/tech-antitrust-problem-no-one-talking/) (Wired)
 - [Visa’s Planned Purchase of Plaid Faces Antitrust Scrutiny at the Justice Department](https://www.wsj.com/articles/visas-planned-purchase-of-plaid-faces-antitrust-scrutiny-at-the-justice-department-11603819000?mod=djemalertNEWS) (WSJ)
 - [UK announces ban on sale of network-locked phones](https://www.androidauthority.com/uk-locked-phones-1172108/) (Android Authority)
-- [Ant Group to raise $34.5 billion, valuing it at over $313 billion, in biggest IPO of all time](https://www.cnbc.com/2020/10/26/ant-group-to-raise-tktk-billion-in-biggest-ipo-of-all-time.html) (CNBC)
 - [Ant Group Set to Raise $34 Billion in World’s Biggest I.P.O.](https://www.nytimes.com/2020/10/26/technology/ant-group-ipo-valuation.html) (NYTimes)
 - [Fix, or Toss? The ‘Right to Repair’ Movement Gains Ground](https://www.nytimes.com/2020/10/23/climate/right-to-repair.html) (NYTimes)
 - [Uber, Lyft likely violated California labor law, appeals court finds](https://www.nbcnews.com/tech/tech-news/uber-lyft-likely-violated-california-labor-law-appeals-court-finds-n1244386) (NBCNews)
@@ -1565,7 +1551,6 @@ title: Regulation/Policy
 - [Parliament seizes cache of Facebook internal papers](https://www.theguardian.com/technology/2018/nov/24/mps-seize-cache-facebook-internal-papers) (The Guardian)
 - [Internal documents Facebook has fought to keep private obtained by UK Parliament](https://www.cnn.com/2018/11/24/us/six4three-facebook-uk-parliament/index.html) (CNN)
 - [HOW GOOGLE AND AMAZON GOT AWAY WITH NOT BEING REGULATED](https://www.wired.com/story/book-excerpt-curse-of-bigness/) (Wired)
-- [Exclusive: Snap reveals U.S. subpoenas on IPO disclosures](https://www.reuters.com/article/us-snap-sec-exclusive/exclusive-snap-reveals-u-s-subpoenas-on-ipo-disclosures-idUSKCN1NJ04O) (Reuters)
 - [#GoogleWalkout update: Collective action works, and we need to keep working. True equity depends on it.](https://medium.com/@GoogleWalkout/googlewalkout-update-collective-action-works-but-we-need-to-keep-working-b17f673ad513) (Google Walkout For Real Change)
 - [San Francisco has passed a first-of-its-kind tax on big businesses — like Square and Stripe — to help the homeless](https://www.recode.net/2018/11/7/18065086/san-francisco-prop-c-marc-benioff-jack-dorsey) (Recode)
 - [You can't take a 'ballot selfie' in Illinois, Florida, or 25 other states — see where it's illegal to take a photo in the voting booth](https://www.businessinsider.com/ballot-selfie-map-states-illegal-to-take-voting-booth-photos-2018-11?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29) (Business Insider)

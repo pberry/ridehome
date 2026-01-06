@@ -832,7 +832,6 @@ title: Streaming/Entertainment
 - [How the BBC’s Netflix-killing plan was snuffed by myopic regulation](https://www.wired.co.uk/article/bbc-netflix-rival-failure) (WiredUK)
 - [Cord-Cutting Accelerated in 2019, Raising Pressure on Cable Providers](https://www.wsj.com/articles/cord-cutting-accelerates-raising-pressure-on-cable-providers-11582149209) (WSJ)
 - [Spotify finally starts showing proper, complete song lyrics synced with music](https://www.androidpolice.com/2020/02/19/spotify-finally-starts-showing-proper-complete-song-lyrics-synced-with-music/) (Android Police)
-- [Record labels rush to IPO amid music streaming boom](https://www.axios.com/record-labels-music-streaming-ipo-27f18a47-3422-4841-9e72-7d4f6615337f.html) (Axios)
 - [SiriusXM Acquires Minority Stake in SoundCloud for $75 Million](https://www.hollywoodreporter.com/news/siriusxm-buys-75-million-minority-stake-soundcloud-1278654) (The Hollywood Reporter)
 - [Netflix dominates viewing on TVs over all other streaming services](https://www.cnet.com/news/netflix-dominates-viewing-on-tvs-over-all-other-streaming-services/) (CNET)
 - [Netflix Spends Big for Oscars—Will Hollywood Give In?](https://www.wsj.com/articles/netflix-spends-big-for-oscarswill-hollywood-give-in-11580817602?redirect=amp#click=https://t.co/YhLxvlzFSQ) (WSJ)
