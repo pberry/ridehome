@@ -148,11 +148,11 @@ class TestFindNewEntries(unittest.TestCase):
     """Test filtering feed entries to find new ones"""
 
     def create_mock_entry(self, year, month, day):
-        """Helper to create mock feed entry"""
+        """Helper to create mock feed entry at noon UTC to avoid timezone boundary issues"""
         import time
         dt = datetime(year, month, day)
         return {
-            'published_parsed': time.struct_time((year, month, day, 0, 0, 0, 0, 0, 0)),
+            'published_parsed': time.struct_time((year, month, day, 12, 0, 0, 0, 0, 0)),
             'title': f'Test Entry {year}-{month:02d}-{day:02d}'
         }
 
@@ -195,6 +195,63 @@ class TestFindNewEntries(unittest.TestCase):
         result = find_new_entries(entries, top_date)
 
         self.assertEqual(len(result), 0)
+
+    def test_filters_to_target_year_when_top_date_is_none(self):
+        """When top_date is None but target_year provided, filter to that year only"""
+        entries = [
+            self.create_mock_entry(2026, 1, 5),   # 2026
+            self.create_mock_entry(2025, 12, 30), # 2025
+            self.create_mock_entry(2025, 12, 15), # 2025
+            self.create_mock_entry(2024, 12, 20), # 2024
+        ]
+
+        result = find_new_entries(entries, top_date=None, target_year=2025)
+
+        self.assertEqual(len(result), 2)
+        # Verify only 2025 entries returned
+        self.assertEqual(result[0]['title'], 'Test Entry 2025-12-30')
+        self.assertEqual(result[1]['title'], 'Test Entry 2025-12-15')
+
+    def test_backward_compatible_returns_all_when_target_year_none(self):
+        """When target_year is None (not provided), returns all entries - backward compatible"""
+        entries = [
+            self.create_mock_entry(2026, 1, 5),
+            self.create_mock_entry(2025, 12, 30),
+            self.create_mock_entry(2024, 12, 20),
+        ]
+
+        result = find_new_entries(entries, top_date=None, target_year=None)
+
+        self.assertEqual(len(result), 3)
+
+    def test_returns_empty_when_no_entries_match_target_year(self):
+        """When no entries from target year, returns empty list"""
+        entries = [
+            self.create_mock_entry(2024, 12, 20),
+            self.create_mock_entry(2024, 12, 15),
+            self.create_mock_entry(2024, 11, 10),
+        ]
+
+        result = find_new_entries(entries, top_date=None, target_year=2025)
+
+        self.assertEqual(len(result), 0)
+
+    def test_ignores_target_year_when_top_date_provided(self):
+        """When top_date provided, target_year is ignored - filter by date only"""
+        entries = [
+            self.create_mock_entry(2025, 12, 10),  # Newer than top_date
+            self.create_mock_entry(2024, 12, 15),  # Newer than top_date, but different year
+            self.create_mock_entry(2024, 12, 5),   # Older than top_date
+        ]
+        top_date = datetime(2024, 12, 8)
+
+        # Even though target_year=2025, should return both entries newer than top_date
+        result = find_new_entries(entries, top_date=top_date, target_year=2025)
+
+        self.assertEqual(len(result), 2)
+        # Should include both 2025 and 2024 entries that are newer than top_date
+        self.assertEqual(result[0]['title'], 'Test Entry 2025-12-10')
+        self.assertEqual(result[1]['title'], 'Test Entry 2024-12-15')
 
 
 class TestYearInference(unittest.TestCase):

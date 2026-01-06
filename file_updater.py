@@ -134,7 +134,7 @@ def _parse_date_string(date_str, entry_type, year_context=None):
     return None
 
 
-def find_new_entries(feed_entries, top_date=None):
+def find_new_entries(feed_entries, top_date=None, target_year=None):
     """
     Filter feed entries to only those newer than top_date.
 
@@ -142,34 +142,44 @@ def find_new_entries(feed_entries, top_date=None):
         feed_entries: List of feedparser entry objects
         top_date: datetime object representing the most recent entry in the file
                   (None means return all entries)
+        target_year: Optional year to filter entries (only used when top_date is None)
 
     Returns:
         List of entries newer than top_date, in reverse chronological order (newest first)
     """
+    def get_pacific_time(entry):
+        """Convert feed entry to Pacific timezone datetime"""
+        entry_time = time.struct_time(entry['published_parsed'])
+        entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
+        return entry_dt_utc.astimezone(PACIFIC_TZ)
+
     if top_date is None:
-        # No existing entries, return all
-        return feed_entries
+        # No existing entries
+        if target_year is not None:
+            # Filter to only entries from target_year
+            filtered_entries = []
+            for entry in feed_entries:
+                entry_dt_pacific = get_pacific_time(entry)
+                if entry_dt_pacific.year == target_year:
+                    filtered_entries.append(entry)
+
+            filtered_entries.sort(key=get_pacific_time, reverse=True)
+            return filtered_entries
+        else:
+            # Return all entries (backward compatible)
+            return feed_entries
 
     new_entries = []
     # Convert top_date to date-only for comparison (ignore time)
     top_date_only = top_date.date()
 
     for entry in feed_entries:
-        # Convert feed published_parsed (UTC) to Pacific time
-        entry_time = time.struct_time(entry['published_parsed'])
-        entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
-        entry_dt_pacific = entry_dt_utc.astimezone(PACIFIC_TZ)
+        entry_dt_pacific = get_pacific_time(entry)
         entry_date_only = entry_dt_pacific.date()
 
         # Only include if newer than top_date (compare dates only, not times)
         if entry_date_only > top_date_only:
             new_entries.append(entry)
-
-    # Sort by Pacific time (newest first)
-    def get_pacific_time(entry):
-        entry_time = time.struct_time(entry['published_parsed'])
-        entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
-        return entry_dt_utc.astimezone(PACIFIC_TZ)
 
     new_entries.sort(key=get_pacific_time, reverse=True)
 

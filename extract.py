@@ -229,7 +229,7 @@ def update_mode(feed_entries, config, skip_db=False):
 			return
 
 	# Find new entries
-	new_entries = find_new_entries(feed_entries, top_date)
+	new_entries = find_new_entries(feed_entries, top_date, target_year=latest_year)
 
 	if not new_entries:
 		print(f"No new entries found for {config['entry_type']}")
