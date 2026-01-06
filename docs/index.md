@@ -5,13 +5,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-05T16:34:36-08:00">January 05, 2026 at 04:34 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-06T15:50:22-08:00">January 06, 2026 at 03:50 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,098</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,104</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,741</span></li>
       </ul>
     </div>
@@ -19,8 +19,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(113 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(85 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(88 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
       </ol>
     </div>
@@ -28,8 +28,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(299 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(112 links)</span></li>
+        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(295 links)</span></li>
+        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(114 links)</span></li>
         <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>

@@ -4,6 +4,17 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Tuesday, January 06 2026 - CES Day Two**
+
+  * [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
+  * [AMD shows off new higher performing AI chip at CES event](https://www.reuters.com/business/amd-unveils-new-chips-ces-event-las-vegas-2026-01-06/) (Reuters)
+  * [I tested Nvidia’s Tesla Full Self-Driving competitor — Tesla should be worried](https://www.theverge.com/news/852880/nvidia-autonomous-driving-demo-tesla-fsd) (The Verge)
+  * [Dell Admits It Made a Huge Mistake When It Abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053) (Gizmodo)
+  * [Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs](https://www.bloomberg.com/news/articles/2026-01-06/robot-vacuum-maker-roborock-shows-off-stair-climbing-model?sref=Szq5ylDR) (Bloomberg)
+  * [Lego announces Smart Brick, the ‘most significant evolution’ in 50 years ](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years)(The Verge)
+
+
+
 **Monday, January 05 2026 - CES Day 1**
 
   * [Exclusive: Samsung to double AI mobile devices to 800 million units this year](https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/) (Reuters)
