@@ -4,6 +4,13 @@ title: Social Media
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Reddit overtakes TikTok in UK thanks to search algorithms and gen Z](https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z) (The Guardian)
+- [How Meta’s Reels Became a $50 Billion Business](https://www.wsj.com/tech/meta-reels-revenue-ade4179e?st=b8s2C2&reflink=desktopwebshare_permalink) (WSJ)
+
 ## 2025
 
 ### December
@@ -208,11 +215,9 @@ title: Social Media
 - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads) (The Verge)
 - [Fewer people are using Elon Musk’s X as the platform struggles to attract and keep users, according to analysts](https://www.nbcnews.com/tech/tech-news/fewer-people-using-elon-musks-x-struggles-keep-users-rcna144115) (NBCNews)
 - [Threads’ fediverse beta opens to share your posts on Mastodon, too](https://www.theverge.com/2024/3/21/24107881/threads-fediverse-beta-launch-mastodon) (The Verge)
-- [Reddit prices IPO at $34 per share in first major social media offering since 2019](https://www.cnbc.com/2024/03/20/reddit-prices-ipo-at-34-per-share-sources-say.html) (CNBC)
 - [One Big Reason Gen Z Is Still on Facebook: To Save Money](https://www.nytimes.com/2024/03/14/business/gen-z-facebook-marketplace.html?unlocked_article_code=1.ck0.JcH1.GvY7REICEC3B&smid=url-share)
 - [Exclusive: Tiktok is working on a new Photo Sharing platform to compete with Instagram](https://thespandroid.blogspot.com/2024/03/Tiktok-Photo-Sharing-Platform.html) (The SpAndroid)
 - [TikTok's growth rate has collapsed. 'Life' may be getting in the way for its younger users.](https://www.businessinsider.com/tiktok-growth-collapsed-life-getting-in-way-2024-3) (Business Insider)
-- [Telegram hits 900mn users and nears profitability as founder considers IPO](https://www.ft.com/content/8d6ceb0d-4cdb-4165-bdfa-4b95b3e07b2a) (Financial Times)
 - [Instagram now lets you edit DMs up to 15 mins after sending them](https://techcrunch.com/2024/03/04/instagram-now-lets-you-edit-dms-up-to-15-mins-after-sending-them/) (TechCrunch)
 
 ### February
@@ -230,7 +235,6 @@ title: Social Media
 
 - [Universal Music Group Warns It Will Pull Songs From TikTok After Deal Expiration](https://variety.com/2024/digital/news/universal-music-group-pulling-songs-tiktok-licensing-deal-1235892437/) (Variety)
 - [X Halts Taylor Swift Searches After Explicit AI Images Spread](https://www.wsj.com/tech/x-halts-taylor-swift-searches-after-explicit-ai-images-spread-06ef6c45) (WSJ)
-- [Exclusive: Reddit seeks to launch IPO in March](https://www.reuters.com/markets/deals/reddit-seeks-launch-ipo-march-sources-2024-01-18/) (Reuters)
 - [Instagram co-founders’ news aggregation startup Artifact to shut down](https://techcrunch.com/2024/01/12/instagram-co-founders-news-aggregation-startup-artifact-to-shut-down/) (TechCrunch)
 - [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees) (The Verge)
 - [X removes support for NFT profile pictures](https://techcrunch.com/2024/01/10/x-removes-support-for-nft-profile-pictures/) (TechCrunch)
@@ -989,7 +993,6 @@ title: Social Media
 - [Facebook Prepares Measures for Possible Election Unrest](https://www.wsj.com/articles/facebook-prepares-measures-for-possible-election-unrest-11603651659?mod=djemalertNEWS) (WSJ)
 - [YouTube Is So Flooded With Political Ads It Can’t Place Them All](https://www.bloomberg.com/news/articles/2020-10-22/youtube-is-so-flooded-with-political-ads-it-can-t-place-them-all?sref=sZAFdZwV) (Bloomberg)
 - [Snapchat doubles down on India with new original series, games](https://economictimes.indiatimes.com/tech/technology/snapchat-doubles-down-on-india-with-new-original-series-games/articleshow/78788934.cms) (The Economic Times)
-- [Facebook Building Neighborhood Feature as Nextdoor Eyes IPO](https://www.bloomberg.com/news/articles/2020-10-21/facebook-building-neighborhood-feature-as-nextdoor-eyes-ipo?sref=sZAFdZwV) (Bloomberg)
 - [Snap stock rockets up after surprise earnings beat](https://www.cnbc.com/2020/10/20/snap-earnings-q3-2020.html) (CNBC)
 - [Facebook’s and YouTube’s algorithms might soon be a bit less mysterious](https://www.fastcompany.com/90565552/this-project-aims-to-reveal-facebook-and-youtubes-secret-algorithms) (Fast Company)
 - [On Facebook, Misinformation Is More Popular Now Than in 2016](https://www.nytimes.com/2020/10/12/technology/on-facebook-misinformation-is-more-popular-now-than-in-2016.html) (NYTimes)

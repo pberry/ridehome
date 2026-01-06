@@ -4,6 +4,12 @@ title: Hardware/Chips
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Voice control opening and closing comes to Samsung’s Family Hub smart fridges](https://www.theverge.com/tech/853758/shut-the-fridge-door) (The Verge)
+
 ## 2025
 
 ### December
@@ -713,7 +719,6 @@ title: Hardware/Chips
 - [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty) (The Verge)
 - [Google Extends Lifespan of Chromebooks With 10-Year Update Policy](https://www.wsj.com/tech/personal-tech/google-extends-lifespan-of-chromebooks-with-10-year-update-policy-38910da1) (WSJ)
 - [Apple’s AirPods Pro just got much better — no matter what port is on the case](https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review) (The Verge)
-- [Chip giant Arm raises nearly $5 billion in year's largest IPO](https://www.axios.com/2023/09/13/arm-ipo-pricing-nvidia-chips) (Axios)
 - [The HP Spectre Fold is the world’s thinnest 17-inch foldable PC](https://www.theverge.com/2023/9/14/23870597/hp-spectre-fold-foldable-windows-laptop-release-date) (The Verge)
 - [HP's $5,000 Spectre Fold might be the best flexible-screen laptop yet](https://www.engadget.com/hps-5000-spectre-fold-might-be-the-best-flexible-screen-laptop-yet-120039948.html) (Engadget)
 - [Apple’s iPhone 15 Pro Max Pushes Up the Price](https://www.wsj.com/tech/personal-tech/apple-iphone-15-pro-max-price-872a74ad) (WSJ)
@@ -727,7 +732,6 @@ title: Hardware/Chips
 - [Apple Bets on Titanium and Cameras to Nudge Buyers Toward Pricier iPhones](https://www.bloomberg.com/news/newsletters/2023-09-10/apple-september-12-wonderlust-event-what-to-expect-from-iphone-15-apple-watch-lmdgq14o?sref=Szq5ylDR) (Bloomberg)
 - [Huawei Teardown Shows Chip Breakthrough in Blow to US Sanctions](https://www.bloomberg.com/news/features/2023-09-04/look-inside-huawei-mate-60-pro-phone-powered-by-made-in-china-chip?sref=Szq5ylDR) (Bloomberg)
 - [Meta Reportedly Partnering With LG For 2025 Quest Pro Successor](https://www.uploadvr.com/meta-quest-pro-2-lg-partnership-2025/) (UploadVR)
-- [Exclusive: Arm signs up big tech firms for IPO at $50 billion-$55 billion valuation](https://www.reuters.com/markets/deals/arm-signs-up-big-tech-firms-ipo-50-bln-55-bln-valuation-sources-2023-09-01/) (Reuters)
 
 ### August
 
@@ -748,7 +752,6 @@ title: Hardware/Chips
 - [Where have all the fitness bands gone?](https://www.theverge.com/23820207/fitness-bands-less-popular-wearables-smartwatches)
 - [Samsung Galaxy Z Fold 5 review: a little better is just good enough](https://www.theverge.com/23826325/samsung-galaxy-z-fold-5-review-screen-hinge-battery-camera) (The Verge)
 - [Sony Expects Smartphone Rebound Only in 2024 After China Fizzles](https://www.bloomberg.com/news/articles/2023-08-09/sony-expects-smartphone-rebound-only-in-2024-after-china-fizzles?sref=Szq5ylDR) (Bloomberg)
-- [Apple, Samsung to invest in Arm as it eyes September IPO](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-Samsung-to-invest-in-Arm-as-it-eyes-September-IPO) (NikkeiAsia)
 - [Apple Tests M3 Max Chip, Setting Stage for Most Powerful MacBook Pro Yet](https://www.bloomberg.com/news/articles/2023-08-07/apple-tests-2024-m3-max-macbook-pro-chip-with-16-cpu-cores-40-gpu-cores?sref=Szq5ylDR) (Bloomberg)
 - [Apple Admits There Is a Smartphone Slowdown Ahead of iPhone 15 Debut](https://www.bloomberg.com/news/newsletters/2023-08-06/apple-iphone-15-comes-amid-us-sales-slowdown-tim-cook-q3-earnings-comments-lkzfs14u?sref=Szq5ylDR) (Bloomberg)
 - [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge) (The Verge)
@@ -831,7 +834,6 @@ title: Hardware/Chips
 - [Gen Zers Are Snapping Up Flip Phones. They Might Be Onto Something.](https://www.wsj.com/articles/gen-z-flip-phones-might-be-onto-something-c4744796?mod=djemalertNEWS) (WSJ)
 - [TSMC Plans for First German Chip Fab With Cost Up to €10 Billion](https://www.bloomberg.com/news/articles/2023-05-03/tsmc-plans-for-first-german-chip-fab-with-cost-up-to-10-billion?sref=Szq5ylDR) (Bloomberg)
 - [Apple to Upgrade Its Watch Operating System With New Focus on Widgets](https://www.bloomberg.com/news/newsletters/2023-04-30/watchos-10-details-apple-watch-to-gain-widgets-as-part-of-new-software-at-wwdc-lh3f71uv?sref=Szq5ylDR) (Bloomberg)
-- [SoftBank's Arm registers for blockbuster U.S. IPO](https://www.reuters.com/markets/deals/softbanks-arm-registers-blockbuster-us-ipo-sources-2023-04-29/) (Reuters)
 
 ### April
 
@@ -976,7 +978,6 @@ title: Hardware/Chips
 - [Apple Gears Up to Launch Its Next Crop of Macs Early Next Year](https://www.bloomberg.com/news/newsletters/2022-10-30/when-will-apple-s-aapl-m2-macbook-pro-mac-mini-and-mac-pro-go-on-sale-l9vemkyg?sref=Szq5ylDR) (Bloomberg)
 - [Apple reports strong quarter but expects sales slump](https://www.siliconrepublic.com/business/apple-earnings-fourth-quarter-2022-iphone-mac-ipad-tim-cook) (Silicon Republic)
 - [Samsung's Third-Quarter Profit Plunges Amid Chip Market Woes](https://www.cnet.com/tech/mobile/samsungs-third-quarter-profit-plunges-amid-chip-market-woes/) (CNET)
-- [Intel unit Mobileye prices IPO above range to raise $861 mln](https://www.reuters.com/markets/asia/intel-unit-mobileye-prices-ipo-above-range-raise-861-mln-source-2022-10-25/) (Reuters)
 - [Project Volterra launches today as the 'Windows Dev Kit 2023' with 32GB RAM and costs less than a Mac mini](https://www.windowscentral.com/software-apps/windows-11/project-volterra-launches-today-as-the-windows-dev-kit-2023-with-32gb-ram-and-costs-less-than-a-mac-mini) (Windows Central)
 - [Microsoft Surface Laptop 5 (13.5-inch) review: a few steps forward and one big step back](https://www.theverge.com/23421698/microsoft-surface-laptop-5-review-13-5-inch?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Microsoft Surface Pro 9 (SQ3) review: Windows on Arm is not ready](https://www.theverge.com/23421326/microsoft-surface-pro-9-arm-qualcomm-sq3-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -990,7 +991,6 @@ title: Hardware/Chips
 - [Apple introduces next-generation iPad Pro, supercharged by the M2 chip](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/) (Apple Newsroom)
 - [Apple announces new 11-inch and 12.9-inch iPad Pro with M2 chip, Apple Pencil hover feature](https://9to5mac.com/2022/10/18/apple-new-m2-ipad-pro/) (9to5Mac)
 - [Apple Announces 10th-Generation iPad With Complete Redesign, 10.9-Inch Display, USB-C, and More](https://www.macrumors.com/2022/10/18/apple-announces-10th-generation-ipad/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
-- [Intel Eyes Significantly Lower Valuation in IPO of Mobileye Unit](https://www.wsj.com/articles/intel-eyes-significantly-lower-valuation-in-ipo-of-mobileye-unit-11666037700?mod=djemalertNEWS) (WSJ)
 - [Microsoft’s Army Goggles Left US Soldiers With Nausea, Headaches in Test](https://www.bloomberg.com/news/articles/2022-10-13/microsoft-s-us-army-version-of-hololens-goggles-gave-soldiers-nausea-headaches?sref=Szq5ylDR) (Bloomberg)
 - [Surface Pro 9 lets you pick between Intel or Arm 5G and new color options](https://www.theverge.com/2022/10/12/23400261/surface-pro-9-price-release-date-specs-hands-on?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Microsoft's (barely) refreshed Surface Laptop 5 starts at $1,000](https://www.engadget.com/microsofts-refreshed-surface-laptop-5-starts-at-1000-dollars-specs-price-140007592.html) (Engadget)
@@ -1170,7 +1170,6 @@ title: Hardware/Chips
 - [Google previews the Pixel Watch, coming this fall with Pixel 7](https://9to5google.com/2022/05/11/google-pixel-watch-2/) (9to5Google)
 - [Google will release a Pixel Tablet… in 2023](https://techcrunch.com/2022/05/11/google-will-release-a-pixel-tablet-in-2023/?tpcc=tcplustwitter) (TechCrunch)
 - [Kuo: iPhone 15 to Switch From Lightning to USB-C in 2023](https://www.macrumors.com/2022/05/11/iphone-15-ditch-lightning-for-usb-c/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
-- [The iPod is dead](https://techcrunch.com/2022/05/10/the-ipod-is-dead/) (TechCrunch)
 - [China Orders Government, State Firms to Dump Foreign PCs](https://www.bloomberg.com/news/articles/2022-05-06/china-orders-government-state-firms-to-dump-foreign-pcs?sref=Szq5ylDR) (Bloomberg)
 - [Google bought a MicroLED display company that could help make AR headsets better and cheaper](https://www.theverge.com/2022/5/4/23057579/google-acquires-raxium-microled-ar-vr-displays?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Samsung's UFS 4.0 flash storage is a major upgrade, especially for 5G phones](https://www.androidauthority.com/samsung-ufs-4-3160516/) (Android Authority)
@@ -1859,7 +1858,6 @@ title: Hardware/Chips
 - [TSMC Details 3nm Process Technology: Full Node Scaling for 2H22 Volume Production](https://www.anandtech.com/show/16024/tsmc-details-3nm-process-technology-details-full-node-scaling-for-2h22) (AnandTech)
 - [Apple secretly acquired Israeli photography startup Camerai](https://www.calcalistech.com/ctech/articles/0,7340,L-3845818,00.html) (CalcalisTech)
 - [Kuo: Apple Looking to Save on Costs in iPhone 12 With Simpler Battery Board Design](https://www.macrumors.com/2020/08/20/kuo-iphone-12-battery-board/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
-- [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/) (TidBits)
 - [This Cobalt-Free Battery Is Good for the Planet—and It Actually Works](https://www.wired.com/story/this-cobalt-free-battery-is-good-for-the-planet-and-it-actually-works/) (Wired)
 - [New BlackBerry-branded devices w/ QWERTY keyboards set to come in 2021](https://9to5google.com/2020/08/19/new-blackberry-smartphones/) (9to5Google)
 - [ZTE's Axon 20 5G smartphone will have the first under-display camera](https://www.engadget.com/zte-axon-20-5g-will-have-the-first-underdisplay-camera-065530680.html) (Engadget)
@@ -1904,7 +1902,6 @@ title: Hardware/Chips
 - [Apple Silicon: The Passing of Wintel](https://mondaynote.com/apple-silicon-the-passing-of-wintel-79a5ef66ad2b) (MondayNote)
 - [Zoom introduces all-in-one home communications appliance for $599](https://techcrunch.com/2020/07/15/zoom-introduces-all-in-one-home-communications-appliance-for-599/) (TechCrunch)
 - [Samsung: Expect 6G in 2028, enabling mobile holograms and digital twins](https://venturebeat.com/2020/07/14/samsung-expect-6g-in-2028-enabling-mobile-holograms-and-digital-twins/) (VentureBeat)
-- [SoftBank Explores Sale or IPO for Chip Designer Arm Holdings](https://www.wsj.com/articles/softbank-explores-options-for-chip-designer-arm-holdings-11594672437?mod=djemalertNEWS) (WSJ)
 - [SoftBank hires Goldman Sachs to explore sale options for chip designer Arm after getting inbound interest, sources say](https://www.cnbc.com/2020/07/13/softbank-hires-goldman-sachs-to-explore-sale-options-for-arm-sources.html?&qsearchterm=softbank) (CNBC)
 - [Huawei posts revenue growth in H1 despite sanctions and pandemic](https://techcrunch.com/2020/07/13/huawei-h1-2020/) (TechCrunch)
 - [Kuo: Apple Silicon Macs to Include 13-inch MacBook Pro and MacBook Air This Year, 14.1-inch and 16-inch MacBook Pro Models Next Year](https://www.macrumors.com/2020/07/10/kuo-first-apple-silicon-13-inch-macbook-pro-2020/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2059,7 +2056,6 @@ title: Hardware/Chips
 - [iPhone 12 Pro leak reveals how Apple will beat the Samsung Galaxy S20](https://www.tomsguide.com/news/iphone-12-pro-leak-reveals-how-apple-will-annihilate-samsung-galaxy-s20) (Tom's Guide)
 - [ARM-ed Mac: Not Again Or For Real This Time?](https://mondaynote.com/arm-ed-mac-not-again-or-for-real-this-time-a3548eece86) (Jean-Louis Gassee)
 - [Sonos kills its device-bricking ‘recycle mode’](https://www.engadget.com/2020/03/05/sonos-kills-its-device-bricking-recycle-mode/) (Engadget)
-- [Classic iPod Hackers Say There’s No Better Way to Listen to Music](https://onezero.medium.com/classic-ipod-hackers-say-theres-no-better-way-to-listen-to-music-da754fa9ad35) (One Zero)
 - [Apple Warns Stores About a Shortage of Replacement iPhones](https://www.bloomberg.com/news/articles/2020-03-04/apple-warns-stores-about-shortage-of-replacement-iphones) (Bloomberg)
 - [Samsung launches its 2020 lineup of 4K and 8K QLED TVs](https://www.theverge.com/2020/3/5/21166045/samsung-2020-tv-lineup-qled-4k-8k-hdr-infinity-screen?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
 - [Tesla downgraded Model 3 chip in China thanks to coronavirus](https://www.bbc.com/news/technology-51736405?at_medium=custom7&at_campaign=64&at_custom3=%40BBCTech&at_custom2=twitter&at_custom4=A0371E58-5E08-11EA-A574-A68A4744363C&at_custom1=%5bpost+type%5d) (BBC News)

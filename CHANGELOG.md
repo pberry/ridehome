@@ -7,6 +7,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- **Centralized category definitions** - Single source of truth for all topic categories
+  - New `categories.py` module contains `TOPIC_CATEGORIES` list and `TOPIC_KEYWORDS` dict
+  - Eliminates duplicate category definitions across codebase (prevents sync issues)
+  - All categorization code now imports from central module
+  - Added two new categories: "FinTech" and "IPO"
+  - Affects: `categories.py`, `claude_categorizer.py`, `status_generator.py`, `test_status_generator.py`
+
+### Changed
 - **Category pages for AI-categorized links** - Browse all links by topic
   - New `generate_category_pages.py` script generates static pages for all 12 categories
   - Each category page organized by year (h2) → month (h3) → links (bullets)

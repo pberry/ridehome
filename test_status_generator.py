@@ -203,7 +203,8 @@ class TestStatusDataGeneration(unittest.TestCase):
                 link_type TEXT,
                 episode_date TEXT,
                 episode_date_unix INTEGER,
-                created_at TEXT
+                created_at TEXT,
+                ai_category TEXT
             )
         ''')
 

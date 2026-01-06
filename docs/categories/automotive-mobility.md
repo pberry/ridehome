@@ -641,7 +641,6 @@ title: Automotive/Mobility
 - [Amazon to offer broadband access from orbit with 3,236-satellite ‘Project Kuiper’ constellation](https://www.geekwire.com/2019/amazon-project-kuiper-broadband-satellite/) (GeekWire)
 - [Electric car battery with 600 miles of range? This startup claims to have done it](https://www.theverge.com/2019/4/4/18293989/innolith-ev-battery-breakthrough-lithium-ion) (The Verge)
 - [Wayve claims 'world first' in driving a car autonomously with only its AI and a SatNav](https://techcrunch.com/2019/04/03/wayve-claims-world-first-in-driving-a-car-autonomously-with-only-its-ai-and-a-satnav/) (TechCrunch)
-- [The biggest winners of Lyft’s $24 billion IPO](https://qz.com/1583815/the-biggest-winners-from-lyfts-blockbuster-ipo/) (Quartz)
 
 ### March
 
@@ -690,7 +689,6 @@ title: Automotive/Mobility
 - [POSTMATES' QUEST TO BUILD THE DELIVERY ROBOT OF THE FUTURE](https://www.wired.com/story/postmates-delivery-robot-serve/) (Wired)
 - [Investor Frenzy for Scooter Startups Cools](https://www.wsj.com/articles/scooter-startups-cool-fundraising-wheels-1544356923?ns=prod/accounts-wsj) (WSJ)
 - [Almost Every Electric Scooter in the World Comes From This Chinese Company](https://www.bloomberg.com/news/features/2018-12-05/almost-every-electric-scooter-comes-from-this-chinese-company) (Bloomberg)
-- [Ride-hail firm Lyft races to leave Uber behind in IPO chase](https://www.reuters.com/article/us-lyft-ipo/ride-hailing-firm-lyft-inc-files-for-ipo-idUSKBN1O51AA?il=0) (Reuters)
 - [Firefly Nets $21.5 Million Seed Round To Boost Ride-Hail Driver Revenues With On-Car Ads](https://news.crunchbase.com/news/firefly-nets-21-5-million-seed-round-to-boost-ride-hail-driver-revenues-with-on-car-ads/) (Crunchbase News)
 - [RIDING IN WAYMO ONE, THE GOOGLE SPINOFF’S FIRST SELF-DRIVING TAXI SERVICE](https://www.theverge.com/2018/12/5/18126103/waymo-one-self-driving-taxi-service-ride-safety-alphabet-cost-app) (The Verge)
 - [Uber Exploring Deal to Buy Bird or Lime](https://www.theinformation.com/articles/uber-exploring-deal-to-buy-bird-or-lime) (The Information)

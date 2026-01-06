@@ -4,6 +4,12 @@ title: AI/Machine Learning
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Exclusive: Samsung to double AI mobile devices to 800 million units this year](https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/) (Reuters)
+
 ## 2025
 
 ### December
@@ -93,7 +99,6 @@ title: AI/Machine Learning
 - [Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up](https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html) (CNBC)
 - [How AGI became the most consequential conspiracy theory of our time](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/?utm_source=flipboard&utm_content=mittechreview/magazine/MIT+Technology+Review)
 - [Apple Nears $1 Billion-a Year Deal to Use Google AI for Siri](https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri) (Bloomberg)
-- [OpenAI Isn’t Yet Working Toward an IPO, CFO Says](https://www.wsj.com/tech/ai/openai-isnt-yet-working-toward-an-ipo-cfo-says-58037472?st=oDuKY5&reflink=article_copyURL_share) (WSJ)
 - [Microsoft Lays Out Ambitious AI Vision, Free From OpenAI](https://www.wsj.com/tech/ai/microsoft-lays-out-ambitious-ai-vision-free-from-openai-297652ff?st=HB8vsH&reflink=desktopwebshare_permalink) (WSJ)
 - [Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts](https://www.wired.com/story/sandbar-stream-smart-ring/) (Wired)
 - [The Foursquare founder's new app is an AI-powered 'DJ' for neighborhood updates](https://www.engadget.com/apps/the-foursquare-founders-new-app-is-an-ai-powered-dj-for-neighborhood-updates-202326296.html) (Engadget)
@@ -113,9 +118,7 @@ title: AI/Machine Learning
 - [Big Tech tests investors’ patience with $80bn AI investment spree](https://www.ft.com/content/86bb929f-e0ec-4e50-b429-e9259c3834e2) (FT)
 - [OpenAI adds reusable ‘characters’ and video stitching to Sora](https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates) (The Verge)
 - [AI Coding Leader Cursor Says New Agent Fields Tougher Tasks](https://www.bloomberg.com/news/articles/2025-10-29/vibe-coding-leader-cursor-says-new-agent-fields-tougher-tasks) (Bloomberg)
-- [Exclusive: OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation](https://www.reuters.com/business/openai-lays-groundwork-juggernaut-ipo-up-1-trillion-valuation-2025-10-29/) (Reuters)
 - [AI Agents Are Terrible Freelance Workers](https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/) (Wired)
-- [OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c?st=Svh5TT&reflink=desktopwebshare_permalink) (WSJ)
 - [AI start-up Character.ai bans teens from talking to chatbots](https://www.ft.com/content/64065ad7-2f41-44b2-b58c-f5c122f5b923) (FT)
 - [Tens of Thousands of White-Collar Jobs Are Disappearing as AI Starts to Bite](https://www.wsj.com/economy/jobs/white-collar-jobs-ai-324b749c?st=LMeR5b&reflink=desktopwebshare_permalink) (WSJ)
 - [OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft](https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi) (The Verge)
@@ -430,7 +433,6 @@ title: AI/Machine Learning
 - [Apple to Unveil New AI Tool to Increase iPhone Battery Life](https://www.bloomberg.com/news/articles/2025-05-12/apple-plans-ai-powered-battery-management-mode-for-devices-in-ios-19?sref=Szq5ylDR) (Bloomberg)
 - [Audible to Partner With Publishers to Create AI-Voiced Audiobooks](https://www.bloomberg.com/news/articles/2025-05-13/audible-to-partner-with-publishers-to-create-ai-voiced-audiobooks?sref=Szq5ylDR) (Bloomberg)
 - [SoftBank Stargate Venture With OpenAI Snags on Tariff Fears](https://www.bloomberg.com/news/articles/2025-05-12/softbank-stargate-venture-with-openai-hits-snags-on-tariff-fears?sref=Szq5ylDR) (Bloomberg)
-- [OpenAI negotiates with Microsoft to unlock new funding and future IPO](https://www.ft.com/content/8d9e5149-7e4f-4886-a035-9d200204972a) (FT)
 - [Saudi Arabia launches AI venture Humain ahead of Donald Trump visit](https://www.ft.com/content/2082b1e5-e571-42a5-96b6-e7d5c2977afa) (FT)
 - [Insurers launch cover for losses caused by AI chatbot errors](https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df) (FT)
 - [Klarna Slows AI-Driven Job Cuts With Call for Real People](https://www.bloomberg.com/news/articles/2025-05-08/klarna-turns-from-ai-to-real-person-customer-service?sref=Szq5ylDR) (Bloomberg)
@@ -565,7 +567,6 @@ title: AI/Machine Learning
 - [Google app on iOS removing Gemini as it pushes users to full app](https://9to5google.com/2025/02/18/google-app-removes-gemini/) (9to5Google)
 - [Rabbit shows off the AI agent it should have launched with](https://www.theverge.com/news/615990/rabbit-ai-agent-demonstration-lam-android-r1) (The Verge)
 - [Mira Murati debuts Thinking Machines Lab, her AI startup](https://www.axios.com/2025/02/18/mira-murati-thinking-machines-lab-startup) (Axios)
-- [Can AI Predict the Next Big IPO? Crunchbase Thinks So.](https://www.wsj.com/articles/can-ai-predict-the-next-big-ipo-crunchbase-thinks-so-1b0f012d?st=RENgSy&reflink=desktopwebshare_permalink) (WSJ)
 - [Elon Musk’s xAI releases its latest flagship model, Grok 3](https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/) (TechCrunch)
 - [Impressions of Grok-3](https://x.com/karpathy/status/1891720635363254772) (@karpathy)
 - [OpenAI Co-Founder Sutskever’s Startup Is Fundraising at $30 Billion-Plus Valuation](https://www.bloomberg.com/news/articles/2025-02-17/openai-co-founder-s-startup-is-fundraising-at-a-30-billion-plus-valuation?sref=Szq5ylDR) (Bloomberg)
@@ -748,7 +749,6 @@ title: AI/Machine Learning
 - [Microsoft is using AI to improve Windows search](https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos) (The Verge)
 - [Microsoft starts paying publishers for content surfaced by Copilot](https://techcrunch.com/2024/10/01/microsoft-starts-paying-publishers-for-content-in-copilot/) (TechCrunch)
 - [Nvidia just dropped a bombshell: Its new AI model is open, massive, and ready to rival GPT-4](https://venturebeat.com/ai/nvidia-just-dropped-a-bombshell-its-new-ai-model-is-open-massive-and-ready-to-rival-gpt-4/) (VentureBeat)
-- [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html) (CNBC)
 - [MIT spinoff Liquid debuts non-transformer AI models and they’re already state-of-the-art](https://venturebeat.com/ai/mit-spinoff-liquid-debuts-non-transformer-ai-models-and-theyre-already-state-of-the-art/) (VentureBeat)
 - [Microsoft Copilot can now read your screen, think deeply, and speak aloud to you](https://techcrunch.com/2024/10/01/microsoft-copilot-can-now-read-your-screen-think-deeper-and-speak-aloud-to-you/) (TechCrunch)
 - [Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup](https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/) (TechCrunch)
@@ -1064,7 +1064,6 @@ title: AI/Machine Learning
 - [Google pauses Gemini’s ability to generate AI images of people after diversity errors](https://www.theverge.com/2024/2/22/24079876/google-gemini-ai-photos-people-pause) (The Verge)
 - [Exclusive: Reddit in AI content licensing deal with Google](https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/) (Reuters)
 - [Google Gemma: because Google doesn’t want to give away Gemini yet](https://www.theverge.com/2024/2/21/24078610/google-gemma-gemini-small-ai-model-open-source) (The Verge)
-- [Reddit Signs AI Content Licensing Deal Ahead of IPO](https://www.bloomberg.com/news/articles/2024-02-16/reddit-is-said-to-sign-ai-content-licensing-deal-ahead-of-ipo?sref=Szq5ylDR) (Bloomberg)
 - [Inside the Funding Frenzy at Anthropic, One of A.I.’s Hottest Start-Ups](https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html) (NYTimes)
 - [UK, Allies Look to Arm Ukraine With AI-Enabled Swarm Drones](https://www.bloomberg.com/news/articles/2024-02-17/us-uk-may-arm-ukraine-with-ai-enabled-drones-to-target-russian-positions?sref=Szq5ylDR) (Bloomberg)
 - [OpenAI introduces Sora, its text-to-video AI model](https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai) (The Verge)
@@ -1250,7 +1249,6 @@ title: AI/Machine Learning
 - [Telling AI model to “take a deep breath” causes math scores to soar in study](https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/) (ArsTechnica)
 - [Google’s Bard chatbot can now find answers in your Gmail, Docs, Drive](https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions) (The Verge)
 - [Microsoft Publishes Garbled AI Article Calling Tragically Deceased NBA Player "Useless"](https://futurism.com/msn-ai-brandon-hunter-useless) (Futurism)
-- [Startup That Lets You Instantly Talk in Foreign Language Targets a Nasdaq IPO at $1 Billion Value](https://www.bloomberg.com/news/articles/2023-09-15/translation-startup-from-japan-wants-to-debut-on-nasdaq-at-1-billion-value?sref=Szq5ylDR)
 - [Adobe’s Firefly generative AI models are now generally available, get pricing plans](https://techcrunch.com/2023/09/13/adobes-firefly-generative-ai-models-are-now-generally-available-get-pricing-plans/) (TechCrunch)
 - [US Copyright Office denies protection for another AI-created image](https://www.reuters.com/legal/litigation/us-copyright-office-denies-protection-another-ai-created-image-2023-09-06/) (Reuters)
 - [Meta Is Developing a New, More Powerful AI System as Technology Race Escalates](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451) (WSJ)
@@ -1797,7 +1795,6 @@ title: AI/Machine Learning
 - [How Samsung’s JetBot 90 AI+ Reimagines Cleaning](https://news.samsung.com/us/samsungs-jetbot-90-ai-reimagines-cleaning-ces-2021/) (Samsung Newsroom)
 - [Veo raises $25M for AI-based cameras that record and analyze football and other team sports](https://techcrunch.com/2021/01/06/veo-raises-25m-for-ai-based-cameras-that-record-and-analyze-football-and-other-team-sports/) (TechCrunch)
 - [Graphcore raises $222M for its ultrafast AI chips](https://siliconangle.com/2020/12/29/graphcore-raises-222m-ultra-fast-ai-chips/) (SiliconAngle)
-- [AI chipmaker Graphcore raises $22M at a $2.77B valuation and puts an IPO in its sights](https://techcrunch.com/2020/12/28/ai-chipmaker-graphcore-raises-222m-at-a-2-77b-valuation-and-puts-an-ipo-in-its-sights/) (TechCrunch)
 - [AMP Robotics raises $55 million for AI that picks and sorts recyclables](https://venturebeat.com/2021/01/04/amp-robotics-raises-55-million-for-ai-that-picks-and-sorts-recyclables/) (VentureBeat)
 - [Amazon opens Alexa AI tech for the first time so car makers can build custom assistants](https://www.theverge.com/2021/1/15/22231336/amazon-alexa-auto-ai-custom-digital-assistants-car-makers?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [This avocado armchair could be the future of AI](https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/) (MIT Technology Review)
