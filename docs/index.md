@@ -40,8 +40,8 @@
 <nav class="recent-nav" aria-labelledby="recent-heading">
   <h2 id="recent-heading">Recent Content</h2>
   <div class="nav-grid">
-    <a href="all-links-2025.html" class="nav-card">
-      <h3>Show Links 2025</h3>
+    <a href="all-links-2026.html" class="nav-card">
+      <h3>Show Links 2026</h3>
       <p class="nav-description">Daily tech news links from The Ride Home podcast</p>
     </a>
     <a href="longreads-2025.html" class="nav-card">
@@ -61,6 +61,7 @@
     <div class="archive-column">
       <h3>Show Links</h3>
       <ul>
+        <li><a href="all-links-2025.html">2024</a></li>
         <li><a href="all-links-2024.html">2024</a></li>
         <li><a href="all-links-2023.html">2023</a></li>
         <li><a href="all-links-2022.html">2022</a></li>
