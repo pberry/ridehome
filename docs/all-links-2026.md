@@ -4,6 +4,17 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
  <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Wednesday, January 07 2026 - CES Day 3**
+
+  * [Elon Musk’s xAI Raises $20 Billion](https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html) (NYTimes)
+  * [Polymarket refuses to pay bets that US would ‘invade’ Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666) (FT)
+  * [Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680) (Politico)
+  * [The data center rebellion is here, and it’s reshaping the political landscape ](https://www.washingtonpost.com/business/2026/01/06/data-centers-backlash-impact-local-communities-opposition/)(Washington Post)
+  * [Three Reasons We Can’t Get Enough of LinkedIn](https://www.wsj.com/tech/personal-tech/three-reasons-we-cant-get-enough-of-linkedin-31333eff?st=rCoDpi&reflink=desktopwebshare_permalink) (WSJ)
+  * [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises) (The Verge)
+
+
+
 **Tuesday, January 06 2026 - CES Day Two**
 
   * [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
