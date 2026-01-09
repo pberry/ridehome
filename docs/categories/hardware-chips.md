@@ -8,6 +8,10 @@ title: Hardware/Chips
 
 ### January
 
+- [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises) (The Verge)
+- [AMD shows off new higher performing AI chip at CES event](https://www.reuters.com/business/amd-unveils-new-chips-ces-event-las-vegas-2026-01-06/) (Reuters)
+- [Dell Admits It Made a Huge Mistake When It Abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053) (Gizmodo)
+- [Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs](https://www.bloomberg.com/news/articles/2026-01-06/robot-vacuum-maker-roborock-shows-off-stair-climbing-model?sref=Szq5ylDR) (Bloomberg)
 - [Voice control opening and closing comes to Samsung’s Family Hub smart fridges](https://www.theverge.com/tech/853758/shut-the-fridge-door) (The Verge)
 
 ## 2025

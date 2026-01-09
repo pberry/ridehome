@@ -4,6 +4,12 @@ title: Crypto/Blockchain
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Polymarket refuses to pay bets that US would ‘invade’ Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666) (FT)
+
 ## 2025
 
 ### December
