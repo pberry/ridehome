@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Wednesday, January 07 2026**
+**Wednesday, January 07 2026 - CES Day 3**
 
   * [Elon Musk’s xAI Raises $20 Billion](https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html) (NYTimes)
   * [Polymarket refuses to pay bets that US would ‘invade’ Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666) (FT)
@@ -15,7 +15,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 06 2026**
+**Tuesday, January 06 2026 - CES Day 2**
 
   * [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
   * [AMD shows off new higher performing AI chip at CES event](https://www.reuters.com/business/amd-unveils-new-chips-ces-event-las-vegas-2026-01-06/) (Reuters)
@@ -26,7 +26,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 05 2026**
+**Monday, January 05 2026 - CES Day 1**
 
   * [Exclusive: Samsung to double AI mobile devices to 800 million units this year](https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/) (Reuters)
   * [Voice control opening and closing comes to Samsung’s Family Hub smart fridges](https://www.theverge.com/tech/853758/shut-the-fridge-door) (The Verge)

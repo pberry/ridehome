@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Wednesday, December 30 2020**
+**Wednesday, December 30 2020 - Wed. 12/30 – Apple Loses A Copyright Lawsuit**
 
   * [Apple loses copyright battle against security start-up Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/) (Washington Post)
   * [Google pilots a search feature that aggregates short-form videos from TikTok and Instagram](https://techcrunch.com/2020/12/29/google-pilots-a-search-feature-that-aggregates-short-form-videos-from-tiktok-and-instagram/) (TechCrunch)
@@ -13,7 +13,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 29 2020**
+**Tuesday, December 29 2020 - Tue. 12/29 – Coinbase To Suspend Trading of XRP**
 
   * [Coinbase to Suspend XRP Trading Following SEC Suit Against Ripple](https://www.coindesk.com/coinbase-suspends-xrp-trading) (CoinDesk)
   * [Ant Considers Holding Company With Regulation Similar to Bank, Sources Say](https://www.bloomberg.com/news/articles/2020-12-29/ant-said-to-mull-holding-company-with-regulation-similar-to-bank?sref=sZAFdZwV) (Bloomberg)
@@ -24,7 +24,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 28 2020**
+**Monday, December 28 2020 - Mon. 12/28 – After Jack Ma, Is China Freezing Its Entire Tech Sector?**
 
   * [Beijing launches antitrust investigation into Alibaba](https://www.ft.com/content/bdcc073f-3b70-4411-92d7-ee36973a8b7a) (Financial Times)
   * [China Tells Ant to Return to Its Payment Roots, Places Curbs](https://www.bloomberg.com/news/articles/2020-12-27/china-asks-ant-to-return-to-origin-of-payments-service?sref=sZAFdZwV) (Bloomberg)
@@ -36,7 +36,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 23 2020**
+**Wednesday, December 23 2020 - Wed. 12/23 – XRP, The 3rd Biggest Cryptocurrency Might Be In Big Trouble**
 
   * [SEC Sues Ripple Over 7-Year, $1.3B ‘Ongoing’ XRP Sale](https://www.coindesk.com/sec-sues-ripple-over-7-year-1-3b-ongoing-xrp-sale) (CoinDesk)
   * [Biden @POTUS Account Reset to Zero With Trump Followers Out](https://www.bloomberg.com/news/articles/2020-12-22/biden-potus-account-to-start-from-zero-without-trump-followers?sref=sZAFdZwV) (Bloomberg)
@@ -46,7 +46,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 22 2020**
+**Tuesday, December 22 2020 - Tue. 12/22 – Why I Think The Apple Car Is For Real**
 
   * [Exclusive: Apple targets car production by 2024 and eyes 'next level' battery technology - sources](https://www.reuters.com/article/us-apple-autos-exclusive-idUSKBN28V2PY) (Reuters)
   * [Google, Facebook Agreed to Team Up Against Possible Antitrust Action, Draft Lawsuit Says](https://www.wsj.com/articles/google-facebook-agreed-to-team-up-against-possible-antitrust-action-draft-lawsuit-says-11608612219?mod=djemalertNEWS) (WSJ)
@@ -60,7 +60,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 21 2020**
+**Monday, December 21 2020 - Mon. 12/21 – Big Day For Real Estate Tech**
 
   * [Opendoor Rides SPAC Deal to Lofty $18 Billion Valuation at Market Debut](https://www.theinformation.com/articles/opendoor-rides-spac-deal-to-lofty-18-billion-valuation-at-market-debut) (The Information)
   * [Real estate software and data analytics company RealPage to be acquired for $10.2 billion](https://venturebeat.com/2020/12/21/real-estate-software-and-data-analytics-company-realpage-to-be-acquired-for-10-2-billion/) (VentureBeat)
@@ -72,7 +72,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 18 2020**
+**Friday, December 18 2020 - Fri. 12/18 – Chinese Drone Maker DJI Blacklisted By The US**
 
   * [US government adds DJI to Commerce blacklist over ties to Chinese government](https://www.theverge.com/2020/12/18/22188789/dji-ban-commerce-entity-list-drone-china-transaction-blocked?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon launches group video and audio calling for Echo devices](https://www.theverge.com/2020/12/18/22188551/amazon-echo-group-calling-video-voice-calls-feature-available?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -84,7 +84,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 17 2020**
+**Thursday, December 17 2020 - Thu. 12/17 – The Apple-Facebook Cold War Is Getting Hot**
 
   * [Apple’s seismic change to the mobile ad industry is drawing near, and it’s rocking the ecosystem](https://www.cnbc.com/2020/12/15/apples-seismic-change-to-the-mobile-ad-industry-draws-near.html) (CNBC)
   * [Facebook Attacks Apple Software Changes in Newspaper Ads](https://www.bloomberg.com/news/articles/2020-12-16/facebook-attacks-apple-s-ios-changes-in-full-page-newspaper-ads?sref=sZAFdZwV) (Bloomberg)
@@ -98,7 +98,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 16 2020**
+**Wednesday, December 16 2020 - Wed. 12/16 – Google’s Stadia Arrives on iOS and iPadOS In Beta**
 
   * [Stadia comes to the iPhone and iPad with new iOS beta](https://www.theverge.com/2020/12/16/22176273/google-stadia-ios-beta-live-now-mobile-safari-iphone-ipad-cloud-gaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Investors in breached software firm SolarWinds traded $280 million in stock days before hack was revealed](https://www.washingtonpost.com/technology/2020/12/15/solarwinds-russia-breach-stock-trades/) (The Washington Post)
@@ -111,7 +111,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 15 2020**
+**Tuesday, December 15 2020 - Tue. 12/15 – Europe’s Big New Rules for Big Tech**
 
   * [Tech Giants Face New Rules in Europe, Backed by Huge Fines](https://www.wsj.com/articles/tech-giants-face-new-rules-in-europe-backed-by-huge-fines-11608046500?st=sflvagx48v8v3rc&reflink=article_imessage_share) (WSJ)
   * [FTC orders Amazon, Facebook and others to explain how they collect and use personal data](https://www.cnbc.com/2020/12/14/ftc-orders-amazon-facebook-and-others-to-explain-how-they-use-personal-data.html) (CNBC)
@@ -122,7 +122,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 14 2020**
+**Monday, December 14 2020 - Mon. 12/14 – The “10-out-of-10” US Treasury/SolarWinds Hack**
 
   * [Suspected Russian hackers spied on U.S. Treasury emails - sources](https://www.reuters.com/article/us-usa-cyber-amazon-com-exclsuive-idUSKBN28N0PG) (Reuters)
   * [U.S. Agencies Hacked in Foreign Cyber Espionage Campaign Linked to Russia](https://www.wsj.com/articles/agencies-hacked-in-foreign-cyber-espionage-campaign-11607897866?mod=djemalertNEWS) (WSJ)
@@ -135,14 +135,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, December 12 2020**
+**Saturday, December 12 2020 - The Future of Video With A16Z's Connie Chan**
 
   * [**VistaPrint.com/techmeme**](https://vistaprint.com/techmeme)
   * [**TinyCapital.com**](https://www.tinycapital.com/)
 
 
 
-**Friday, December 11 2020**
+**Friday, December 11 2020 - Disney+ Is About to Get a Bit More Expensive**
 
   * [Disney Plus is increasing its price to $8 a month starting in March 2021](https://www.theverge.com/2020/12/10/22165869/disney-price-hike-united-states-bundle?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [‘Star Wars,’ ‘Pinocchio’ and More as Disney Leans Sharply Into Streaming](https://www.nytimes.com/2020/12/10/business/media/disney-star-wars.html?smid=tw-share) (NYTimes)
@@ -152,7 +152,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 10 2020**
+**Thursday, December 10 2020 - Thu. 12/10 – The Big Facebook Antitrust Cases, Explained**
 
   * [The FTC is suing Facebook to unwind its acquisitions of Instagram and WhatsApp](https://www.theverge.com/2020/12/9/22158483/facebook-antitrust-lawsuit-anti-competition-behavior-attorneys-general?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Lawsuits Filed by the FTC and the State Attorneys General Are Revisionist History](https://about.fb.com/news/2020/12/lawsuits-filed-by-the-ftc-and-state-attorneys-general-are-revisionist-history/) (Facebook Newsroom)
@@ -163,7 +163,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 09 2020**
+**Wednesday, December 09 2020 - Wed. 12/09 – FireEye Says It Got Hacked By A Nation State**
 
   * [U.S. Cyber Firm FireEye Says It Was Breached by Nation-State Hackers](https://www.wsj.com/articles/u-s-cyber-firm-fireeye-says-it-was-breached-by-nation-state-hackers-11607461408?mod=djemalertNEWS) (WSJ)
   * [Microsoft confirms Xbox cloud gaming is coming to iOS in spring 2021](https://9to5mac.com/2020/12/09/microsoft-xbox-cloud-gaming-ios/) (9to5Mac)
@@ -178,7 +178,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 08 2020**
+**Tuesday, December 08 2020 - Tue. 12/08 – Apple’s $549 AirPods Max**
 
   * [Apple introduces AirPods Max, the magic of AirPods in a stunning over-ear design](https://www.apple.com/newsroom/2020/12/apple-introduces-airpods-max-the-magic-of-airpods-in-a-stunning-over-ear-design/) (Apple Newsroom)
   * [Cloudflare and Apple design a new privacy-friendly internet protocol](https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/) (TechCrunch)
@@ -191,7 +191,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 07 2020**
+**Monday, December 07 2020 - Mon. 12/7 – ARMpocalypse Soon For The Entire Mac Lineup?**
 
   * [Apple Preps Next Mac Chips With Aim to Outclass Top-End PCs](https://www.bloomberg.com/news/articles/2020-12-07/apple-preps-next-mac-chips-with-aim-to-outclass-highest-end-pcs?sref=sZAFdZwV) (Bloomberg)
   * [Wish plans to price between $22 and $24 per share at up to $14 billion valuation](https://www.cnbc.com/2020/12/07/wish-seeks-to-raise-1point1-billion-in-ipo.html) (CNBC)
@@ -203,7 +203,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, December 05 2020**
+**Saturday, December 05 2020 - (Bonus) Peter Kafka on Media, Hollywood, Substack and TikTok**
 
   * [**ProtonMail.com/techmeme**](https://protonmail.com/techmeme)
   * [**VistaPrint.com/techmeme**](https://vistaprint.com/techmeme)
@@ -211,7 +211,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 04 2020**
+**Friday, December 04 2020 - Fri. 12/04 – CRACK! Warners Blows Up The (Traditional) Hollywood Business Model**
 
   * [Warner Bros. will release all of its new 2021 movies simultaneously on HBO Max](https://www.theverge.com/2020/12/3/22150605/hbo-max-warner-bros-movies-2021-simultaneous-release-matrix-godzilla-suicide-squad-space-jam?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [WarnerMedia’s CEO explains why he’s blowing up the movie business](https://www.vox.com/recode/22151073/warner-bros-hbo-max-movies-jason-kilar-warnermedia-interview?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
@@ -222,7 +222,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 03 2020**
+**Thursday, December 03 2020 - Thu. 12/03 – A Law To Turn Crypto Basic?**
 
   * [US Lawmakers Introduce Bill That Would Require Stablecoin Issuers to Obtain Bank Charters](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters) (Coindesk)
   * [PhonePe raises $700 million, becomes a separate entity](https://techcrunch.com/2020/12/02/phonepe-raises-700-million-becomes-a-separate-entity/) (TechCrunch)
@@ -235,7 +235,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 02 2020**
+**Wednesday, December 02 2020 - Wed. 12/2 – A Salesforce/Slack Deal Analysis**
 
   * [Salesforce buys Slack in a $27.7B megadeal](https://techcrunch.com/2020/12/01/salesforce-buys-slack/) (TechCrunch)
   * [Why Salesforce bought Slack](https://divinations.substack.com/p/why-salesforce-bought-slack-430) (Divinations)
@@ -248,7 +248,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 01 2020**
+**Tuesday, December 01 2020 - Amazon Launches EC2 Mac Instances**
 
   * [AWS brings the Mac mini to its cloud](https://techcrunch.com/2020/11/30/aws-brings-the-mac-mini-to-its-cloud/) (TechCrunch)
   * [Libra Rebrands to ‘Diem’ in Anticipation of 2021 Launch](https://www.coindesk.com/libra-diem-rebrand) (CoinDesk)
@@ -262,7 +262,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 30 2020**
+**Monday, November 30 2020 - Mon. 11/30 – DoorDash’s IPO Seems To Be Cresting The Wave**
 
   * [DoorDash seeks valuation of up to $32 billion in IPO, double what it was in June](https://www.cnbc.com/2020/11/30/doordash-ipo-seeks-valuation-of-up-to-30-billion.html) (CNBC)
   * [Airbnb, DoorDash Aim for Higher-Than-Expected Valuations Ahead of Debuts](https://www.wsj.com/articles/airbnb-doordash-aim-for-higher-than-expected-valuations-ahead-of-debuts-11606689243?mod=djemalertNEWS) (WSJ)
@@ -277,7 +277,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 25 2020**
+**Wednesday, November 25 2020 - Wed. 11/25 – The Blue Checkmarks Are Returning To Twitter**
 
   * [Twitter to relaunch account verifications in early 2021, asks for feedback on policy](https://techcrunch.com/2020/11/24/twitter-to-relaunch-account-verifications-in-early-2021-asks-for-feedback-on-policy/) (TechCrunch)
   * [Payments Startup Stripe in Talks for Funding at $70 Billion Valuation or More](https://www.bloomberg.com/news/articles/2020-11-24/payments-startup-stripe-is-said-in-talks-to-raise-new-funding?sref=sZAFdZwV) (Bloomberg)
@@ -287,7 +287,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 24 2020**
+**Tuesday, November 24 2020 - Tue. 11/24 – Apple’s Head Of Global Security Indicted On Bribery Charges**
 
   * [Undersheriff, Apple security chief, businessman indicted in bribery schemes](https://www.paloaltoonline.com/news/2020/11/20/sheriffs-second-in-command-indicted-in-gun-permit-scandal) (PaloAltoOnline)
   * [Roiled by Election, Facebook Struggles to Balance Civility and Growth](https://www.nytimes.com/2020/11/24/technology/facebook-election-misinformation.html) (NYTimes)
@@ -297,7 +297,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 23 2020**
+**Monday, November 23 2020 - Snapchat Launches Spotlight, A TikTok Clone**
 
   * [Snapchat launches a TikTok-like feed called Spotlight, kick-started by paying creators](https://techcrunch.com/2020/11/23/snapchat-launches-a-tiktok-like-feed-called-spotlight-kick-started-by-paying-creators/) (TechCrunch)
   * [Facebook Ads Could Be Reaching Saturation Point](https://www.wsj.com/articles/facebook-ads-could-be-reaching-saturation-point-11606132807?mod=djemalertNEWS) (WSJ)
@@ -308,14 +308,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, November 21 2020**
+**Saturday, November 21 2020 - (Bonus) Office Hours With Chris Messina**
 
   * [**VistaPrint.com/techmeme**](https://vistaprint.com/techmeme)
   * [**Netgear.com/bestwifi**](https://www.netgear.com/bestwifi)
 
 
 
-**Friday, November 20 2020**
+**Friday, November 20 2020 - Fri. 11/20 – Facebook And Apple Trade Schoolyard Taunts**
 
   * [Apple doubles down on upcoming iOS 14 privacy features, slams Facebook for collecting ‘as much data as possible’](https://9to5mac.com/2020/11/19/apple-privacy-letter-ios-14-facebook/) (9to5Mac)
   * [Roblox files for its IPO](https://www.axios.com/roblox-files-for-its-ipo-aaf0a0c6-8492-4172-a741-a4f79b42792c.html) (Axios)
@@ -324,7 +324,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 19 2020**
+**Thursday, November 19 2020 - Thu. 11/19 – Google Pay Pivots In An Interesting Way**
 
   * [Google Pay gets a major redesign with a new emphasis on personal finance](https://techcrunch.com/2020/11/18/google-pay-gets-a-major-redesign/) (TechCrunch)
   * [YouTube will run ads on some creator videos, but it won’t give them any of the revenue](https://www.theverge.com/2020/11/18/21573937/youtube-ads-creators-partner-program-revenue-terms-of-service-update?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -338,7 +338,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 18 2020**
+**Wednesday, November 18 2020 - Wed. 11/18 – Crack! Apple Cuts Its App Store Vig In Half**
 
   * [Apple will reduce App Store cut to 15 percent for most developers starting January 1st](https://www.theverge.com/2020/11/18/21572302/apple-app-store-small-business-program-commission-cut-15-percent-reduction?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * ['Fortnite' now offers Houseparty video calls on PC, PS4 and PS5](https://www.engadget.com/houseparty-fortnite-video-chat-pc-ps4-ps5-announcement-110027836.html) (Engadget)
@@ -351,7 +351,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 17 2020**
+**Tuesday, November 17 2020 - Tue. 11/17 – Amazon Pharmacy Aims To Conquer Another Huge Retail Sector**
 
   * [Amazon jumps into the pharmacy business with online prescription fulfillment, free delivery for Prime members](https://www.cnbc.com/2020/11/17/amazon-pharmacy-free-prescription-delivery-for-prime-members.html) (CNBC)
   * [Twitter rolls out Stories, aka ‘Fleets,’ to all users; will also test a Clubhouse rival](https://techcrunch.com/2020/11/17/twitter-rolls-out-stories-aka-fleets-to-all-users-will-also-test-a-clubhouse-rival/) (TechCrunch)
@@ -364,7 +364,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 16 2020**
+**Monday, November 16 2020 - Mon. 11/16 – Is Big Sur Apple’s Vista?**
 
   * [macOS Big Sur Update Bricking Some Older MacBook Pro Models](https://www.macrumors.com/2020/11/15/macos-big-sur-update-bricking-some-macbook-pros/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Apple Silicon M1 Emulating x86 is Still Faster Than Every Other Mac in Single Core Benchmark](https://www.macrumors.com/2020/11/15/m1-chip-emulating-x86-benchmark/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -376,7 +376,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 13 2020**
+**Friday, November 13 2020 - Fri. 11/13 – The DoorDash S-1 Is Surprisingly Good**
 
   * [DoorDash files to go public](https://techcrunch.com/2020/11/13/doordash-files-to-go-public/) (TechCrunch)
   * [U.S. Backs Down on TikTok](https://www.wsj.com/articles/commerce-department-announces-stay-of-tiktok-shutdown-order-11605213481) (WSJ)
@@ -386,7 +386,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 12 2020**
+**Thursday, November 12 2020 - Thu. 11/12 – The Google Photos Free-For-All Is Over**
 
   * [Google Photos will end its free unlimited storage on June 1st, 2021](https://www.theverge.com/2020/11/11/21560810/google-photos-unlimited-cap-free-uploads-15gb-ending?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Google warns Google Drive users: Use it, or lose your files](https://mashable.com/article/google-delete-drive-contents-due-to-inactivity/) (Mashable)
@@ -398,7 +398,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 11 2020**
+**Wednesday, November 11 2020 - Wed. 11/11 – Groundhog Day! Is TikTok Going Dark Tomorrow?**
 
   * [TikTok hasn’t heard from the Trump administration in weeks, prompting latest CFIUS petition](https://www.cnbc.com/2020/11/10/what-happened-to-tiktok-deal-trump-administration-silent.html) (CNBC)
   * [Apple Announces The Apple Silicon M1: Ditching x86 - What to Expect, Based on A14](https://www.anandtech.com/show/16226/apple-silicon-m1-a14-deep-dive/4) (AnAndTech)
@@ -410,7 +410,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 10 2020**
+**Tuesday, November 10 2020 - Tue. 11/10 – The Apple Silicon Macs Are Here**
 
   * [EU accuses Amazon of breaching antitrust rules](https://www.ft.com/content/4908995d-5ba4-4e14-a863-bcb8858e8bd2) (FT)
   * [Slingbox discontinued, services sunsetting](https://www.slashgear.com/slingbox-discontinued-services-sunsetting-09646412/) (SlashGear)
@@ -419,7 +419,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 09 2020**
+**Monday, November 09 2020 - Mon. 11/09 – Apple Mad At Pegatron**
 
   * [Apple Freezes New Business for Pegatron on China Labor Abuse](https://www.bloomberg.com/news/articles/2020-11-09/apple-suspends-new-business-with-pegatron-over-labor-violations?sref=sZAFdZwV) (Bloomberg)
   * [Zoom and other ‘stay-at-home’ stocks are getting crushed on the positive vaccine news](https://www.cnbc.com/2020/11/09/zoom-and-other-stay-at-home-stocks-are-getting-crushed-on-the-positive-vaccine-news.html) (CNBC)
@@ -431,14 +431,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, November 07 2020**
+**Saturday, November 07 2020 - Son Of The Call-in-a-ning**
 
   * [**Canva.me/ride**](https://canva.me/ride)
   * [**Metalab.co**](https://www.metalab.co/)
 
 
 
-**Friday, November 06 2020**
+**Friday, November 06 2020 - 11/06 – Is It Too Soon To Start Talking About iPhone 13?**
 
   * [Kuo: iPhone 13 to Come in Same Four Model Sizes As iPhone 12, Pro Models to Feature Major Upgrade to Ultra Wide Camera](https://www.macrumors.com/2020/11/06/kuo-iphone-13-same-sizes-better-ultrawide-camera/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Sizing up the iPhone 12 mini and 12 Pro Max](https://www.theverge.com/21551240/iphone-12-mini-vs-pro-max-hands-on-photos-comparison-apple-size?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -447,7 +447,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 05 2020**
+**Thursday, November 05 2020 - WhatsApp Gets Disappearing Messages Ten Years After Snapchat!**
 
   * [WhatsApp now lets you post ephemeral messages that disappear after 7 days](https://techcrunch.com/2020/11/05/whatsapp-now-lets-you-post-disappearing-messages-which-go-away-after-7-days/) (TechCrunch)
   * [DJI Mini 2 drone arrives with 4K camera and ultra-portable design](https://www.slashgear.com/dji-mini-2-drone-arrives-with-4k-camera-and-ultra-portable-design-04645835/) (SlashGear)
@@ -460,7 +460,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 04 2020**
+**Wednesday, November 04 2020 - Wed. 11/04 – Uber, Lyft, DoorDash, et al Win In California**
 
   * [Uber, Lyft Win California Bid to Keep Drivers as Contractors](https://www.bloomberg.com/news/articles/2020-11-04/california-projected-to-side-with-gig-economy-on-labor-issue?sref=sZAFdZwV) (Bloomberg)
   * [Massachusetts voters pass right-to-repair expansion opening up car data](https://www.engadget.com/motor-vehicle-data-question-1-081059455.html) (Engadget)
@@ -472,7 +472,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 03 2020**
+**Tuesday, November 03 2020 - Tue. 11/03 – Apple Silicon Coming To MacBook Pros Already?**
 
   * [Apple to Launch MacBooks With Own Chips Next Week](https://www.bloomberg.com/news/articles/2020-11-02/apple-to-hold-nov-10-event-to-announce-macs-with-own-chips?sref=sZAFdZwV) (Bloomberg)
   * [China Halts Ant Group’s Blockbuster I.P.O.](https://www.nytimes.com/2020/11/03/technology/ant-ipo-jack-ma-summoned.html) (NYTimes)
@@ -484,7 +484,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 02 2020**
+**Monday, November 02 2020 - Raspberry Pi Launches the Raspberry Pi 400**
 
   * [The Raspberry Pi 400 is a compact keyboard with a built-in computer](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [What to Expect From Facebook, Twitter and YouTube on Election Day](https://www.nytimes.com/2020/11/02/technology/facebook-twitter-youtube-election-day.html) (NYTimes)
@@ -494,7 +494,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 30 2020**
+**Friday, October 30 2020 - Fri. 10/30 – Netflix Raises Prices**
 
   * [Netflix is raising the price of its most popular plan to $14 today, premium tier increasing to $18](https://www.theverge.com/2020/10/29/21540346/netflix-price-increase-united-states-standard-premium-content-product-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Google One’s 2TB+ plans adding Android VPN, coming to iOS & Mac/Windows soon](https://9to5google.com/2020/10/29/google-one-vpn-android/) (9to5Google)
@@ -503,7 +503,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 29 2020**
+**Thursday, October 29 2020 - Thu. 10/29 – Troubling Ransomware Attacks On Hospitals**
 
   * [Building wave of ransomware attacks strike U.S. hospitals](https://www.reuters.com/article/us-usa-healthcare-cyber-idUSKBN27D35U) (Reuters)
   * [AMD’s new Radeon RX 6800 XT promises to go head to head with Nvidia’s RTX 3080](https://www.theverge.com/2020/10/28/21538010/amd-radeon-rx-6800-xt-specs-release-date-price-big-navi-gpu-graphics?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -518,7 +518,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 28 2020**
+**Wednesday, October 28 2020 - Wed. 10/28 – Does The iPhone 12 Have A Secret Reverse Wireless Charging Feature?**
 
   * [Apple’s iPhone 12 seems to have a secret reverse wireless charging feature](https://www.theverge.com/2020/10/28/21537855/iphone-12-mini-pro-max-reverse-wireless-charging-fcc-filings-hidden?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple develops alternative to Google search](https://www.ft.com/content/fd311801-e863-41fe-82cf-3d98c4c47e26) (Financial Times)
@@ -530,7 +530,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 27 2020**
+**Tuesday, October 27 2020 - Tue. 10/27 – AMD Buys Xilinx for $35 Billion**
 
   * [AMD Acquiring Xilinx In Bold, $35B Semiconductor Mega-Deal](https://www.forbes.com/sites/patrickmoorhead/2020/10/27/amd-acquiring-xilinx-in-bold-35b-semiconductor-mega-deal/#64a4c003e492) (Forbes)
   * [UK announces ban on sale of network-locked phones](https://www.androidauthority.com/uk-locked-phones-1172108/) (Android Authority)
@@ -541,7 +541,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 26 2020**
+**Monday, October 26 2020 - Mon. 10/26 – New AirPods And AirPods Pro This Spring?**
 
   * [Apple Developing Smaller AirPods Pro, Revamped Entry-Level Model](https://www.bloomberg.com/news/articles/2020-10-26/apple-developing-smaller-airpods-pro-revamped-entry-level-model?sref=sZAFdZwV) (Bloomberg)
   * [Facebook launches cloud games but says Apple won’t allow it on iOS](https://www.cnbc.com/2020/10/26/facebook-launches-cloud-games-on-desktop-and-android-but-not-on-ios.html) (CNBC)
@@ -555,7 +555,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, October 24 2020**
+**Saturday, October 24 2020 - (Bonus) Joshua Schachter And The del.icio.us Story**
 
   * [**BitTrustIRA.com/techmeme**](https://bittrustira.com/techmeme/)
   * [**Monday.com/ride**](https://monday.com/ride)
@@ -563,7 +563,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 23 2020**
+**Friday, October 23 2020 - Fri. 10/23 – What If PayPal Goes Big In Crypto?**
 
   * [PayPal in Talks to Buy Crypto Firms Including BitGo](https://www.bloomberg.com/news/articles/2020-10-22/paypal-said-to-be-in-talks-to-buy-crypto-firms-including-bitgo?sref=sZAFdZwV) (Bloomberg)
   * [Uber, Lyft likely violated California labor law, appeals court finds](https://www.nbcnews.com/tech/tech-news/uber-lyft-likely-violated-california-labor-law-appeals-court-finds-n1244386) (NBCNews)
@@ -572,7 +572,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 22 2020**
+**Thursday, October 22 2020 - Thu. 10/22 – Quibi QUIckly BItes The Dust**
 
   * [Quibi's Open Letter](https://quibi-hq.medium.com/an-open-letter-from-quibi-8af6b415377f)
   * [Quibi Is Shutting Down Barely Six Months After Going Live](https://www.wsj.com/articles/quibi-weighs-shutting-down-as-problems-mount-11603301946?mod=djemalertNEWS) (WSJ)
@@ -585,7 +585,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 21 2020**
+**Wednesday, October 21 2020 - Wed. 10/21 – PayPal Adds Crypto**
 
   * [PayPal to allow cryptocurrency buying, selling and shopping on its network](https://www.reuters.com/article/idUSL1N2HB14U) (Reuters)
   * [Dropbox's family plan offers a shared 2TB for $17 per month](https://www.engadget.com/dropbox-family-plan-now-available-130047846.html) (Engadget)
@@ -599,7 +599,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 20 2020**
+**Tuesday, October 20 2020 - Tue. 10/20 – The DOJ Antitrust Suit Against Google**
 
   * [The DOJ sues Google for monopoly practices – and says there’s more to come](https://www.protocol.com/google-justice-department-lawsuit-antitrust?utm_campaign=RebelMouse&share_id=5887177&utm_medium=social&utm_source=twitter&utm_content=Protocol) (Protocol)
   * [Justice Department Files Antitrust Lawsuit Against Google](https://www.wsj.com/articles/justice-department-to-file-long-awaited-antitrust-suit-against-google-11603195203?mod=djemalertNEWS) (WSJ)
@@ -616,7 +616,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 19 2020**
+**Monday, October 19 2020 - Mon. 10/19 – Apple Launches Apple Music TV (A-MTV? iMTV?)**
 
   * [Apple Launches ‘Apple Music TV,’ a 24-Hour Music Video Livestream](https://variety.com/2020/music/news/apple-music-tv-launch-videos-1234809088/) (Variety)
   * [Samsung Galaxy S21 and S21 Ultra leaked in full, confirms January 2021 launch](https://www.androidcentral.com/samsung-galaxy-s21-leaked-full-release-date) (AndroidCentral)
@@ -627,7 +627,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 16 2020**
+**Friday, October 16 2020 - Fri. 10/16 – You Can Now Hum To Search Music On Google**
 
   * [Google’s new ‘hum to search’ feature can figure out the song that’s stuck in your head](https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple might hold another event on November 17 to introduce first Apple Silicon Mac](https://9to5mac.com/2020/10/15/apple-might-hold-another-event-on-november-17-to-introduce-first-apple-silicon-mac/) (9to5Mac)
@@ -636,7 +636,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 15 2020**
+**Thursday, October 15 2020 - Thu. 10/15 – Xbox Series X Preview**
 
   * [XBOX SERIES X PREVIEW: THE NEXT GEN FEELS LIKE A PC](https://www.theverge.com/2020/10/15/21515790/xbox-series-x-preview-hardware-games-performance?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [GOOGLE PIXEL 4A 5G REVIEW: MORE THAN JUST A BIGGER BUDGET PHONE](https://www.theverge.com/21514296/google-pixel-4a-5g-review-camera-speed-video?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -648,7 +648,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 14 2020**
+**Wednesday, October 14 2020 - Wed. 10/14 – iPhone 12 Pricing and Availability Surprises**
 
   * [The iPhone 12’s mysterious groove is a 5G mmWave antenna window — and it’s exclusive to the US](https://www.theverge.com/circuitbreaker/2020/10/13/21515128/iphone-12-mini-pro-max-mmwave-5g-antenna-window?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [iPhone 12 actually costs $829, advertised $799 price includes ‘carrier special offers’](https://9to5mac.com/2020/10/13/iphone-12-real-price/) (9to5Mac)
@@ -661,7 +661,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 13 2020**
+**Tuesday, October 13 2020 - Tue. 10/13 – The iPhone 12 Event: All The Deets**
 
   * [Techmeme Headline Cluster About the iPhone 12 Pro](https://www.techmeme.com/201013/p32#a201013p32)
   * [Techmeme Headline Cluster About the iPhone 12](https://www.techmeme.com/201013/p28#a201013p28)
@@ -673,7 +673,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 12 2020**
+**Monday, October 12 2020 - Mon. 10/12 – Nest’s New Smart Thermostat Ditches the Rotating Dial**
 
   * [Google’s Nest announces new smart thermostat with simpler design, lower price](https://www.theverge.com/2020/10/12/21511951/google-nest-smart-thermostat-new-design-lower-price-specs-features) (The Verge)
   * [Feds may target Google’s Chrome browser for breakup](https://www.politico.com/news/2020/10/10/feds-may-target-googles-chrome-browser-for-breakup-428468) (Politico)
@@ -686,7 +686,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 09 2020**
+**Friday, October 09 2020 - Fri. 10/09 – Microsoft Game Pass To Do An App Store End-run?**
 
   * [Microsoft told employees it plans to release a browser-based app for the Xbox Game Pass streaming service next year that will get around Apple App Store rules: 'We absolutely will end up on iOS'](https://www.businessinsider.com/microsoft-xbox-game-pass-apple-iphone-ipad-2020-10?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (BusinessInsider)
   * [Microsoft app store playbook swipes at Apple, Google](https://www.axios.com/microsoft-app-store-playbook-swipes-at-apple-google-9681b58b-4923-44c0-805e-9f3a1dc71bcb.html) (Axios)
@@ -697,7 +697,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 08 2020**
+**Thursday, October 08 2020 - Thu. 10/08 – AMD Zen 3 Ryzen 5000 CPUs Announced**
 
   * [AMD reveals its new Zen 3 Ryzen 5000 processors, including the ‘world’s best gaming CPU’](https://www.theverge.com/2020/10/8/21506447/amd-zen-3-ryzen-5000-processors-gaming-cpu-price-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Facebook to temporarily halt political ads in U.S. after polls close Nov. 3, broadening earlier restrictions](https://www.washingtonpost.com/technology/2020/10/07/facebook-political-ads/) (The Washington Post)
@@ -709,7 +709,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 07 2020**
+**Wednesday, October 07 2020 - Wed 10/07 – The House Antitrust Report**
 
   * [House Democrats say Facebook, Amazon, Alphabet, Apple enjoy ‘monopoly power’ and recommend big changes](https://www.cnbc.com/2020/10/06/house-democrats-say-facebook-amazon-alphabet-apple-enjoy-monopoly-power.html) (CNBC)
   * [House Lawmakers Condemn Big Tech’s ‘Monopoly Power’ and Urge Their Breakups](https://www.nytimes.com/2020/10/06/technology/congress-big-tech-monopoly-power.html) (NYTimes)
@@ -720,7 +720,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 06 2020**
+**Tuesday, October 06 2020 - G Suite Is No More! (But Don’t Worry)**
 
   * [G Suite is now Google Workspace](https://techcrunch.com/2020/10/06/g-suite-is-now-google-workspace/) (TechCrunch)
   * [Apple Stops Selling Rival Earphones, Speakers Ahead of Launches](https://www.bloomberg.com/news/articles/2020-10-05/apple-stops-selling-rival-earphones-speakers-ahead-of-launches?sref=sZAFdZwV) (Bloomberg)
@@ -731,7 +731,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 05 2020**
+**Monday, October 05 2020 - Mon. 10/05 – Nvidia’s Zoom-Killer, “Maxine”**
 
   * [Nvidia unveils Maxine, a managed cloud AI videoconferencing service](https://venturebeat.com/2020/10/05/nvidia-unveils-maxine-a-managed-cloud-ai-videoconferencing-service/) (VentureBeat)
   * [Nvidia says its AI can fix some of the biggest problems in video calls](https://www.theverge.com/2020/10/5/21502003/nvidia-ai-videoconferencing-maxine-platform-face-gaze-alignment-gans-compression-resolution) (The Verge)
@@ -745,7 +745,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 02 2020**
+**Friday, October 02 2020 - Fri. 10/02 – Tesla Smashes Its Previous Delivery Record**
 
   * [Tesla delivered 139,300 vehicles in the third quarter, smashing its previous record](https://www.theverge.com/2020/10/2/21498558/tesla-q3-2020-vehicle-delivery-numbers-record-breaking) (The Verge)
   * [HP’s new Spectre x360 14 laptop has a 3:2 aspect ratio plus a Thunderbolt 4 port hiding in the corner](https://www.theverge.com/2020/10/2/21497532/hp-spectre-x360-14-13-envy-intel-tiger-lake-price-specs-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -754,7 +754,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 01 2020**
+**Thursday, October 01 2020 - Thu. 10/01 – New Surface Laptop Go: Smaller Display, $549**
 
   * [Microsoft’s new $549 Surface Laptop Go aims to compete with Chromebooks](https://www.theverge.com/21496684/microsoft-surface-laptop-go-price-release-date-specs?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft updates the Surface Pro X with a new processor option](https://www.engadget.com/microsoft-surface-pro-x-2020-sq2-processor-130041584.html) (Engadget)
@@ -766,7 +766,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 30 2020**
+**Wednesday, September 30 2020 - Wed. 09/30 – The New Pixel Phones, Chromecast and More From Today’s Google Event**
 
   * [Here’s what the new Chromecast’s Google TV software looks like](https://www.theverge.com/2020/9/29/21494298/chromecast-google-tv-preview-android-features) (The Verge)
   * [Google launches Nest Audio speaker, successor to Google Home, available Oct. 5 for $99](https://9to5google.com/2020/09/30/nest-audio-google-speaker-launch/) (9to5Google)
@@ -777,7 +777,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 29 2020**
+**Tuesday, September 29 2020 - With Amazon One, Amazon Wants You To Pay With Your Palm**
 
   * [Amazon will now let you pay with your palm in its stores](https://www.vox.com/recode/2020/9/29/21492351/amazon-one-hand-scan-payments-palm-checkout-whole-foods?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
   * [Google Demands 30% Cut From App Developers in Its Play Store](https://www.nytimes.com/2020/09/28/technology/google-play-store-30-percent.html) (NYTimes)
@@ -790,7 +790,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 28 2020**
+**Monday, September 28 2020 - Mon. 09/28 – Roku’s New $130 Streambar and Updated $100 Roku Ultra**
 
   * [Roku’s Streambar is a compact soundbar with built-in streaming smarts](https://www.theverge.com/2020/9/28/21459521/roku-streambar-soundbar-compact-streaming-bluetooth-spotify-connect-tv-audio?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Roku Unveils Redesigned $100 Ultra Streaming Box, Will Add Ability to Stream HBO Max via Apple AirPlay](https://variety.com/2020/digital/uncategorized/roku-ultra-hbo-max-roku-channel-airplay-1234784968/) (Variety)
@@ -804,13 +804,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, September 26 2020**
+**Saturday, September 26 2020 - (Bonus) TikTok's Secret Sauce With Eugene Wei and A16Z's 16 Minutes Podcast**
 
   * [**TikTok and the Sorting Hat**](https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat) (Eugene's original essay)
 
 
 
-**Friday, September 25 2020**
+**Friday, September 25 2020 - Fri. 09/25 – Amazon Announces The Luna Cloud Gaming Service**
 
   * [A closer look at Luna, Amazon's cloud gaming service](https://www.engadget.com/luna-amazon-cloud-gaming-interview-pwa-apple-173948922.html?guccounter=1) (Engadget)
   * [Amazon announces all-new Echo, Echo Dot, Echo Dot with Clock](https://www.cnbc.com/2020/09/24/amazon-announces-all-new-echo-echo-dot-echo-dot-with-clock.html) (CNBC)
@@ -821,7 +821,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 24 2020**
+**Thursday, September 24 2020 - Thu. 09/24 – The Rebel Alliance Forming To Battle App Stores**
 
   * [Epic, Spotify and others ally against Apple and Google app policies](https://www.engadget.com/epic-spotify-and-others-form-alliance-against-app-store-dominance-135026221.html) (Engadget)
   * [New Microsoft Office on the way for people who don't want a subscription](https://www.windowscentral.com/new-microsoft-office-way-people-who-dont-want-subscription) (Windows Central)
@@ -833,7 +833,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 23 2020**
+**Wednesday, September 23 2020 - Wed. 09/23 – Microsoft “Exclusively” Licenses GPT-3**
 
   * [Microsoft challenges Twilio with the launch of Azure Communications Services](https://techcrunch.com/2020/09/22/microsoft-challenges-twilio-with-the-launch-of-azure-communication-services/) (TechCrunch)
   * [Azure Orbital launches Microsoft into cloud-based space race with Amazon](https://www.geekwire.com/2020/azure-orbital-launches-microsoft-cloud-computing-space-race-amazon/) (GeekWire)
@@ -848,7 +848,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 22 2020**
+**Tuesday, September 22 2020 - Tue. 09/22 – Quibi Is “Exploring Options”**
 
   * [Quibi Explores Strategic Options Including Possible Sale](https://www.wsj.com/articles/quibi-explores-strategic-options-including-a-possible-sale-11600707806?mod=djemalertNEWS) (WSJ)
   * [Justice Department expected to brief state attorneys general this week on imminent Google antitrust lawsuit](https://www.washingtonpost.com/technology/2020/09/21/google-antitrust-state-ags/) (Washington Post)
@@ -863,7 +863,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 21 2020**
+**Monday, September 21 2020 - Mon. 09/21 – ByteDance Says It Won. Trump Says Not So Fast. TikTok Continues… For Now.**
 
   * [Trump Blesses Oracle’s TikTok Deal, Delays App Store Ban](https://www.bloomberg.com/news/articles/2020-09-19/trump-says-he-s-approved-oracle-deal-for-u-s-tiktok-operations?sref=MzDxCtkS) (Bloomberg)
   * [TikTok deal hit by confusion over who will own and control the app](https://www.ft.com/content/c077eed2-44a5-43f7-b0c4-5531a451fdc1) (FT)
@@ -875,7 +875,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 18 2020**
+**Friday, September 18 2020 - Fri. 09/18 – WeChat Officially Banned On Sunday. TikTok Only Kinda Banned.**
 
   * [Trump to block downloads of TikTok, WeChat on Sunday](https://www.cnbc.com/2020/09/18/trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-tell-reuters.html) (CNBC)
   * [Google pulls India's Paytm app from Play Store for repeat policy violations](https://techcrunch.com/2020/09/18/google-pulls-indias-paytm-app-from-play-store-for-repeat-policy-violations/) (TechCrunch)
@@ -885,7 +885,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 17 2020**
+**Thursday, September 17 2020 - Thu. 09/17 – PS5 Details Revealed. But Good Luck Pre-Ordering!**
 
   * [PlayStation 5 preorders: Sony reveals release date and price](https://venturebeat.com/2020/09/16/playstation-5-sony-reveals-release-date-and-price/) (VentureBeat)
   * [The PS5 will launch on November 12th for $499.99](https://www.theverge.com/2020/9/16/21277234/ps5-playstation-5-price-release-date-sony?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -898,7 +898,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 16 2020**
+**Wednesday, September 16 2020 - Wed. 09/16 – Facebook Unveils The Oculus Quest 2**
 
   * [Oculus Quest 2 delivers standalone VR with sharper 90Hz screens for $299](https://www.engadget.com/oculus-quest-2-vr-299-171715370.html) (Engadget)
   * [OCULUS QUEST 2 REVIEW: BETTER, CHEAPER VR](https://www.theverge.com/21437674/oculus-quest-2-review-features-photos?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -913,7 +913,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 15 2020**
+**Tuesday, September 15 2020 - Tue. 09/15 – The Apple “Time Flies” Event**
 
   * [Techmeme Headline Rundown of the Apple Event](https://www.techmeme.com/200915/h1420)
   * [Sony Cuts PlayStation 5 Forecast by 4 Million Due to Chip Woes](https://www.bloomberg.com/news/articles/2020-09-15/sony-is-said-to-cut-ps5-forecast-by-4-million-due-to-chip-woes?sref=MzDxCtkS) (Bloomberg)
@@ -924,7 +924,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 14 2020**
+**Monday, September 14 2020 - Mon. 09/14 – Has Oracle Saved TikTok (In The US)?**
 
   * [Oracle Wins Bid for TikTok in U.S., Beating Microsoft](https://www.wsj.com/articles/microsoft-drops-out-of-bidding-for-tiktoks-u-s-operations-11600039821?mod=djemalertNEWS) (WSJ)
   * [It’s Official- NVIDIA Acquires Arm For $40 Billion To Create What Could Be A Computing Juggernaut](https://www.forbes.com/sites/patrickmoorhead/2020/09/13/its-officialnvidia-acquires-arm-for-40b-to-create-what-could-be-a-computing-juggernaut/#7200166b4973) (Forbes)
@@ -935,7 +935,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 11 2020**
+**Friday, September 11 2020 - Fri. 09/11 – Microsoft Says The Hackers Are Coming For The Election**
 
   * [Russia, China and Iran launched cyberattacks on presidential campaigns, Microsoft says](https://www.nbcnews.com/tech/security/russian-china-iran-launched-cyberattacks-presidential-campaigns-microsoft-says-n1239803) (NBC News)
   * [Epic says that Sign in with Apple for Fortnite will still work after all](https://www.imore.com/apple-reverses-course-will-still-allow-sign-apple-fortnite) (iMore)
@@ -944,7 +944,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 10 2020**
+**Thursday, September 10 2020 - Thu. 09/10 – “Campus” Is Facebook, But For College Kids (Insert Joke Here)**
 
   * [Facebook reinvents Facebook with the launch of Campus for college students](https://www.theverge.com/2020/9/10/21429159/facebook-campus-app-college-students?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Former NSA chief Keith Alexander has joined Amazon’s board of directors](https://www.theverge.com/2020/9/9/21429635/amazon-keith-alexander-board-of-directors-nsa-cyber-command?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -955,7 +955,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 09 2020**
+**Wednesday, September 09 2020 - Wed. 09/09 – Clarifications And Follow-Ups**
 
   * [Xbox Series X launches on November 10th for $499](https://www.theverge.com/2020/9/9/21428714/xbox-series-x-price-release-date-preorder-all-access?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft is adding EA Play to Xbox Game Pass](https://www.engadget.com/xbox-game-pass-ultimate-pc-ea-play-subscription-134007089.html) (Engadget)
@@ -970,7 +970,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 08 2020**
+**Tuesday, September 08 2020 - Tue. 09/08 – Xbox Series X and (Series S!) Details Revealed**
 
   * [Xbox Series X and Xbox Series S release date and price finally revealed](https://www.windowscentral.com/xbox-series-x-and-xbox-series-s-release-date-and-price-finally-revealed) (WindowsCentral)
   * [Leaked Xbox Series S commercial reveals 1440p, ray tracing, and 512GB SSD](https://www.theverge.com/2020/9/8/21426947/microsoft-xbox-series-s-specs-pricing-release-date-trailer-leak?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -982,7 +982,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 04 2020**
+**Friday, September 04 2020 - Fri. 09/04 – Ad-Pocalypse (Not) Now**
 
   * [Justice Dept. Plans to File Antitrust Charges Against Google in Coming Weeks](https://www.nytimes.com/2020/09/03/us/politics/google-antitrust-justice-department.html) (NYTimes)
   * [Apple to Delay iOS Change Roiling Mobile Ad Market](https://www.theinformation.com/articles/apple-said-to-delay-ios-change-roiling-mobile-ad-market) (The Information)
@@ -992,7 +992,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 03 2020**
+**Thursday, September 03 2020 - Thu. 09/03 – Will Only One iPhone (The Expensive One) Get The Fastest 5G?**
 
   * [Source: Only one of Apple’s new iPhones supports the fastest 5G](https://www.fastcompany.com/90546391/source-only-one-of-apples-new-iphones-supports-the-fastest-5g?partner=rss&utm_source=twitter.com&utm_medium=social&utm_campaign=rss+fastcompany&utm_content=rss) (Fast Company)
   * [Facebook will stop accepting new political ads a week before the US presidential election](https://www.theverge.com/2020/9/3/21419258/facebook-political-ads-deadline-announcements-voter-registration-mark-zuckerberg?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1007,7 +1007,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 02 2020**
+**Wednesday, September 02 2020 - Wed. 09/02 – Nvidia’s New GPU Powerhouse, the RTX 3090**
 
   * [Nvidia announces new RTX 3080 GPU, priced at $699 and launching September 17th](https://www.theverge.com/2020/9/1/21409953/nvidia-geforce-rtx-3080-specs-price-release-date-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Nvidia’s new RTX 3090 is a $1,499 monster GPU designed for 8K gaming](https://www.theverge.com/2020/9/1/21417048/nvidia-rtx-3090-gpu-flagship-8k-pc-gaming-price-specs?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1021,7 +1021,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 01 2020**
+**Tuesday, September 01 2020 - Tue. 09/01 – Samsung Galaxy Z Fold2 Released; All The Details**
 
   * [Samsung's new Galaxy Z Fold2 packs a bigger 120Hz folding glass screen, Snapdragon 865+, and more](https://www.androidpolice.com/2020/09/01/samsungs-new-galaxy-z-fold2-packs-a-bigger-120hz-folding-glass-screen-snapdragon-865-and-more/?scrolla=5eb6d68b7fedc32c19ef33b4) (Android Police)
   * [ZTE unveils the Axon 20 5G, the first phone with an under-display camera](https://www.engadget.com/zte-axon-20-5g-under-display-front-selfie-camera-140003878.html) (Engadget)
@@ -1033,7 +1033,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 31 2020**
+**Monday, August 31 2020 - Mon. 08/31 – TikTok Has A Buyer?**
 
   * [TikTok deal to sell U.S. business could be announced as soon as Tuesday](https://www.cnbc.com/2020/08/31/tiktok-deal-to-sell-us-business-could-be-announced-as-soon-as-tomorrow.html) (CNBC)
   * [The Yoga 9i is Lenovo’s new flagship convertible laptop](https://www.theverge.com/2020/8/31/21404835/lenovo-yoga-9i-ideapad-slim-laptops-new-convertible) (The Verge)
@@ -1047,7 +1047,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 28 2020**
+**Friday, August 28 2020 - Fri. 08/28 – Ok, So… How About Walmart Owning TikTok?**
 
   * [Walmart wanted to be majority owner of TikTok, and was teamed up with Alphabet and SoftBank before Microsoft](https://www.cnbc.com/2020/08/27/walmart-wanted-majority-tiktok-stake-teamed-with-alphabet-softbank.html) (CNBC)
   * [Walmart is teaming up with Microsoft on TikTok bid](https://www.cnbc.com/2020/08/27/walmart-is-teaming-up-with-microsoft-on-tiktok-bid.html) (CNBC)
@@ -1057,7 +1057,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 27 2020**
+**Thursday, August 27 2020 - Thu. 08/27 – Halo, Amazon’s New Fitness Wearable**
 
   * [AMAZON ANNOUNCES HALO, A FITNESS BAND AND APP THAT SCANS YOUR BODY AND VOICE](https://www.theverge.com/2020/8/27/21402493/amazon-halo-band-health-fitness-body-scan-tone-emotion-activity-sleep?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Facebook Says Apple’s Changes to iOS Will Dramatically Hurt Ads](https://www.bloomberg.com/news/articles/2020-08-26/facebook-says-apple-s-changes-to-ios-will-dramatically-hurt-ads?srnd=technology-vp&sref=MzDxCtkS&utm_source=url_link) (Bloomberg)
@@ -1069,7 +1069,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 26 2020**
+**Wednesday, August 26 2020 - Wed. 08/26 – Palantir’s S-1 Takes A Swipe At Silicon Valley**
 
   * [Palantir files to go public, lost about $580 million last year](https://www.cnbc.com/2020/08/25/palantir-files-s-1-before-going-public.html) (CNBC)
   * [Apple Plans Augmented Reality Content to Boost TV+ Video Service](https://www.bloomberg.com/news/articles/2020-08-26/apple-plans-augmented-reality-content-to-boost-tv-video-service?sref=MzDxCtkS) (Bloomberg)
@@ -1081,7 +1081,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 25 2020**
+**Tuesday, August 25 2020 - Tue. 08/25 – Fitbit’s Sense Smartwatch and Versa 3**
 
   * [Fitbit unveils Sense and Versa 3 smartwatches with Google Assistant](https://venturebeat.com/2020/08/25/fitbit-sense-versa-3-inspire-2-google/) (VentureBeat)
   * [Level’s latest smart lock can be unlocked with a touch](https://www.theverge.com/21400301/level-touch-smart-lock-price-design-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1094,7 +1094,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 24 2020**
+**Monday, August 24 2020 - Mon. 08/24 – Is Apple Evil Now?**
 
   * [WordPress founder claims Apple cut off updates to his completely free app because it wants 30 percent](https://www.theverge.com/2020/8/21/21396316/apple-wordpress-in-app-purchase-tax-update-store?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple apologizes to WordPress, won’t force the free app to add purchases after all](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1106,7 +1106,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 21 2020**
+**Friday, August 21 2020 - Uber’s Former CSO Charged With Obstruction of Justice**
 
   * [Former Uber Security Chief Charged With Concealing Hack](https://www.nytimes.com/2020/08/20/technology/joe-sullivan-uber-charged-hack.html) (NYTimes)
   * [Uber and Lyft Get Reprieve After Threatening to Shut Down](https://www.nytimes.com/2020/08/20/technology/uber-lyft-california-shutdown.html) (NYTimes)
@@ -1117,7 +1117,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 20 2020**
+**Thursday, August 20 2020 - Thu. 08/20 – Lyft Ends Service In California At Midnight**
 
   * [Facebook Removes 790 QAnon Groups to Fight Conspiracy Theory](https://www.nytimes.com/2020/08/19/technology/facebook-qanon-groups-takedown.html) (NYTimes)
   * [Facebook restricts more than 10,000 QAnon and US militia groups](https://www.theguardian.com/us-news/2020/aug/19/facebook-qanon-us-militia-groups-restrictions) (The Guardian)
@@ -1133,7 +1133,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 19 2020**
+**Wednesday, August 19 2020 - Wed. 08/19 – You Won’t Be Able To Use An Oculus Without A Facebook Account**
 
   * [You’ll need a Facebook account to use future Oculus headsets](https://www.theverge.com/2020/8/18/21372435/oculus-facebook-login-change-separate-account-support-end-quest-october?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Zoom is coming to Google Nest, Amazon Echo, and Facebook Portal smart displays](https://www.theverge.com/2020/8/19/21373661/zoom-smart-displays-facebook-portal-google-nest-amazon-echo-show?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1146,7 +1146,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 18 2020**
+**Tuesday, August 18 2020 - Tue. 08/18 – Apple Goes Nuclear Against Epic Games**
 
   * [Epic says Apple threatens ‘catastrophic’ response in two weeks if Fortnite doesn’t comply with rules](https://www.theverge.com/2020/8/17/21372480/apple-epic-threat-developer-tools-agreement-unreal-engine-fortnite?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Oracle enters race to buy TikTok’s US operations](https://www.ft.com/content/272cfc69-b268-45ac-88d6-d55821f27e78) (Financial Times)
@@ -1157,7 +1157,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 17 2020**
+**Monday, August 17 2020 - Mon. 08/17 – Why Regulatory Change For Big Tech Is Maybe Inevitable**
 
   * [Google says Australian news rule threatens free search services](https://www.ft.com/content/8a957a0f-5875-4c84-9c7c-b20bbe6d3bac) (Financial Times)
   * [Exclusive: Amazon in talks to invest in cloud services company Rackspace, say sources](https://www.reuters.com/article/us-amazon-com-rackspace-tech-exclusive/exclusive-amazon-in-talks-to-invest-in-cloud-services-company-rackspace-say-sources-idUSKCN25D1Q6) (Reuters)
@@ -1168,7 +1168,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 14 2020**
+**Friday, August 14 2020 - Fri. 08/14 – Fortnite Banned! The Epic/Apple/Google Battle Royale**
 
   * [Fortnite for Android has also been kicked off the Google Play Store](https://www.theverge.com/2020/8/13/21368079/fortnite-epic-android-banned-google-play-app-store-rule-violation?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Epic is suing Google over Fortnite’s removal from the Google Play Store](https://www.theverge.com/2020/8/13/21368363/epic-google-fortnite-lawsuit-antitrust-app-play-store-apple-removal?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1179,7 +1179,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 13 2020**
+**Thursday, August 13 2020 - Thu. 08/13 – Apple Subscription Bundles By October?**
 
   * [Apple Readies Subscription Bundles to Boost Digital Services](https://www.bloomberg.com/news/articles/2020-08-13/apple-readies-apple-one-subscription-bundles-to-boost-services?sref=MzDxCtkS) (Bloomberg)
   * [Epic offers new direct payment in Fortnite on iOS and Android to get around app store fees](https://www.theverge.com/2020/8/13/21366259/epic-fortnite-vbucks-mega-drop-discount-iphone-android?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1190,7 +1190,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 12 2020**
+**Wednesday, August 12 2020 - Wed. 08/12 – Microsoft Launches Surface Duo!**
 
   * [MICROSOFT’S SURFACE DUO ARRIVES ON SEPTEMBER 10TH FOR $1,399](https://www.theverge.com/2020/8/12/21364633/microsoft-surface-duo-release-date-pricing-features-specs?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft Surface Duo's dual-screen hinge design is already winning me over](https://www.cnet.com/news/microsoft-surface-duo-dual-screen-design-hinge-already-winning-me-over-android-phone-hands-on-prototype/) (CNET)
@@ -1204,7 +1204,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 11 2020**
+**Tuesday, August 11 2020 - Tue. 08/11 – Google To Create A Global Android-Powered Earthquake Alert System**
 
   * [ANDROID IS BECOMING A WORLDWIDE EARTHQUAKE DETECTION NETWORK](https://www.theverge.com/2020/8/11/21362370/android-earthquake-detection-seismometer-epicenter-shakealert-google?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [California Wins Preliminary Injunction Against Uber, Lyft](https://www.bloomberg.com/news/articles/2020-08-10/california-wins-preliminary-injunction-against-uber-lyft?sref=MzDxCtkS) (Bloomberg)
@@ -1217,7 +1217,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 10 2020**
+**Monday, August 10 2020 - Mon. 08/10 – Amazon to Turn Malls Into Fulfillment Centers?**
 
   * [Amazon and Mall Operator Look at Turning Sears, J.C. Penney Stores Into Fulfillment Centers](https://www.wsj.com/articles/amazon-and-giant-mall-operator-look-at-turning-sears-j-c-penney-stores-into-fulfillment-centers-11596992863?mod=djemalertNEWS) (WSJ)
   * [TikTok To Sue Trump Administration Over Ban, As Soon As Tuesday](https://www.npr.org/2020/08/08/900394707/tiktok-to-sue-trump-administration-over-ban-as-soon-as-tuesday) (NPR)
@@ -1228,7 +1228,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 07 2020**
+**Friday, August 07 2020 - Fri. 08/07 – The Executive Order To Ban TikTok and WeChat**
 
   * [Trump will prohibit transactions with ByteDance beginning September 20th in apparent TikTok ban](https://www.theverge.com/2020/8/6/21358093/trump-tik-tok-ban-bytedance-transactions-executive-order?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Mark Zuckerberg Says A Ban On TikTok Would Set “A Really Bad Long-Term Precedent”](https://www.buzzfeednews.com/article/ryanmac/zuckerberg-facebook-all-hands-tiktok-ban?scrolla=5eb6d68b7fedc32c19ef33b4) (BuzzFeed.news)
@@ -1237,7 +1237,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 06 2020**
+**Thursday, August 06 2020 - Thu. 08/06 – Will The US’s “Clean Network” Plan Break The Internet?**
 
   * [Trump administration wants to see ‘untrusted’ Chinese apps like TikTok and WeChat removed from U.S. app stores, Pompeo says](https://www.cnbc.com/2020/08/05/pompeo-untrusted-chinese-apps-should-be-removed-from-us-stores.html) (CNBC)
   * [The US is building a new Great Firewall](https://qz.com/1889077/us-clean-network-campaign-shuts-out-chinese-apps-from-network/) (Quartz)
@@ -1250,7 +1250,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 05 2020**
+**Wednesday, August 05 2020 - Wed. 08/05 – Samsung’s Unpacked Event And The New Galaxy Note 20s**
 
   * [Samsung Galaxy Note 20, Note 20 Ultra go official from $999 w/ Snapdragon 865+](https://9to5google.com/2020/08/05/samsung-galaxy-note-20-ultra-series-official/) (9to5Google)
   * [Samsung announces the Galaxy Z Fold 2 with bigger screens and better cameras](https://www.theverge.com/2020/8/5/21349537/samsung-galaxy-z-fold-2-specs-camera-screen-design?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1262,7 +1262,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 04 2020**
+**Tuesday, August 04 2020 - Tue. 08/04 – Last Hurrah? iMacs Get A Major Update**
 
   * [Apple updates the iMac with new Intel processors and a better webcam](https://www.theverge.com/2020/8/4/21353899/apple-imac-2020-webcam-price-specs-release-date-announcement) (The Verge)
   * [Trump calls TikTok a hot brand, demands a chunk of its sale price](https://techcrunch.com/2020/08/03/trump-calls-tiktok-a-hot-brand-demands-a-chunk-of-its-sale-price/) (TechCrunch)
@@ -1277,7 +1277,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 03 2020**
+**Monday, August 03 2020 - Mon. 08/03 – The TikTok, Microsoft, Trump Ban Saga Explained**
 
   * [Inside the Microsoft Talks to Buy TikTok’s U.S. Business](https://www.wsj.com/articles/microsoft-aims-for-a-deal-to-buy-tiktoks-u-s-business-11596418842?mod=djemalertNEWS) (WSJ)
   * [Microsoft to continue discussions on potential TikTok purchase in the United States](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/) (Official Microsoft Blog)
@@ -1290,7 +1290,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 31 2020**
+**Friday, July 31 2020 - Fri. 07/31 – Nvidia In Talks To Buy Arm?**
 
   * [Nvidia in talks to buy Arm from SoftBank for more than $32bn](https://www.ft.com/content/4ed67726-1a56-4ce2-9d62-a5ec2a8f35b5) (Financial Times)
   * [Facebook Is Set to Finally Get the Rights to Show Music Videos](https://www.bloomberg.com/news/articles/2020-07-31/facebook-is-set-to-finally-get-the-rights-to-show-music-videos?sref=MzDxCtkS) (Bloomberg)
@@ -1299,7 +1299,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 30 2020**
+**Thursday, July 30 2020 - Thu. 07/30 – A Comprehensive (8-Minute) Rundown of the Big Tech Congressional Testimony**
 
   * [‘INSTAGRAM CAN HURT US’: MARK ZUCKERBERG EMAILS OUTLINE PLAN TO NEUTRALIZE COMPETITORS](https://www.theverge.com/2020/7/29/21345723/facebook-instagram-documents-emails-mark-zuckerberg-kevin-systrom-hearing?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Report: Amazon’s Monopoly Tollbooth](https://ilsr.org/amazons_tollbooth/) (ILSR.org)
@@ -1310,7 +1310,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 29 2020**
+**Wednesday, July 29 2020 - Wed. 07/29 – Big Tech CEO’s Testimony Before Congress**
 
   * [Watch Cook, Bezos, Pichai and Zuckerberg testify in Big Tech antitrust hearing — live updates and analysis](https://www.cnbc.com/2020/07/29/tech-ceo-antitrust-hearing-live-updates.html?__source=sharebar%7Ctwitter&par=sharebar) (CNBC)
   * [Google in Talks to Take Over More Search Tasks on Samsung Phones](https://www.bloomberg.com/news/articles/2020-07-29/google-in-talks-to-take-over-more-search-tasks-on-samsung-phones?sref=MzDxCtkS) (Bloomberg)
@@ -1320,7 +1320,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 28 2020**
+**Tuesday, July 28 2020 - Tue. 07/28 – Instagram Is Making TikTok-ers An Offer (They Hope) They Can’t Refuse**
 
   * [Their Businesses Went Virtual. Then Apple Wanted a Cut.](https://www.nytimes.com/2020/07/28/technology/apple-app-store-airbnb-classpass.html) (NYTimes)
   * [Google’s Top Search Result? Surprise! It’s Google](https://themarkup.org/google-the-giant/2020/07/28/google-search-results-prioritize-google-products-over-competitors) (The Markup)
@@ -1332,7 +1332,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 27 2020**
+**Monday, July 27 2020 - Mon. 07/27 – Googlers May Not Return To The Office Until NEXT July**
 
   * [Google to Keep Employees Home Until Summer 2021 Amid Coronavirus Pandemic](https://www.wsj.com/articles/google-to-keep-employees-home-until-summer-2021-amid-coronavirus-pandemic-11595854201?mod=djemalertNEWS) (WSJ)
   * [ACCC takes second swing at Google for allegedly misleading customers](https://www.itnews.com.au/news/accc-takes-second-swing-at-google-for-allegedly-misleading-customers-550880) (ITNews)
@@ -1343,7 +1343,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 24 2020**
+**Friday, July 24 2020 - Fri. 07/24 – The US Has A Quantum Internet Plan**
 
   * [Exclusive: More than 1,000 people at Twitter had ability to aid hack of accounts](https://www.reuters.com/article/us-twitter-cyber-access-exclusive/exclusive-more-than-1000-people-at-twitter-had-ability-to-aid-hack-of-accounts-idUSKCN24O34E) (Reuters)
   * [Intel's 7nm is Broken, Company Announces Delay Until 2022, 2023](https://www.tomshardware.com/news/intel-announces-delay-to-7nm-processors-now-one-year-behind-expectations) (Tom's Hardware)
@@ -1353,7 +1353,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 23 2020**
+**Thursday, July 23 2020 - Thu. 07/23 – Corning Introduces A New Gorilla Glass: Victus!**
 
   * [Corning’s new Gorilla Glass Victus could let your phone survive a six-foot drop, plus scratch resistance](https://www.theverge.com/2020/7/23/21335252/corning-gorilla-glass-victus-drop-scratch-resistant-apple-samsung?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Plex launches a live TV service with over 80 free channels, most available worldwide](https://techcrunch.com/2020/07/23/plex-launches-a-live-tv-service-with-over-80-free-channels-most-available-worldwide/) (TechCrunch)
@@ -1365,7 +1365,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 22 2020**
+**Wednesday, July 22 2020 - Samsung Announces the Galaxy Z Flip 5G**
 
   * [Samsung announces Galaxy Z Flip 5G for $1,449.99](https://www.theverge.com/2020/7/22/21333566/samsung-galaxy-z-flip-5g-announced-price-release-date-1449-99?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter bans 7,000 QAnon accounts, limits 150,000 others as part of broad crackdown](https://www.nbcnews.com/tech/tech-news/twitter-bans-7-000-qanon-accounts-limits-150-000-others-n1234541) (NBC News)
@@ -1378,7 +1378,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 21 2020**
+**Tuesday, July 21 2020 - Tue. 07/21 – Apple Pledges 100% Carbon Neutrality by 2030**
 
   * [Apple commits to be 100 percent carbon neutral for its supply chain and products by 2030](https://www.apple.com/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030/) (Apple Newsroom)
   * [Microsoft President Met With House Antitrust Committee](https://www.theinformation.com/articles/microsoft-president-met-with-house-antitrust-committee) (The Information)
@@ -1390,7 +1390,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 20 2020**
+**Monday, July 20 2020 - Mon. 07/20 – eBay to Sell Its Classified Ads Business?**
 
   * [EBay Nears Deal to Sell Classified-Ad Unit to Adevinta](https://www.wsj.com/articles/ebay-nears-deal-to-sell-classified-ads-unit-to-adevinta-11595219913?mod=djemalertNEWS) (WSJ)
   * [Reliance Jio: World’s First ‘Super Operator’?](https://www.counterpointresearch.com/reliance-jio-the-worlds-first-super-operator/) (Counterpoint)
@@ -1404,7 +1404,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 17 2020**
+**Friday, July 17 2020 - Fri. 07/17 – Is A 21-Year-Old British Hacker Behind The Great Twitter Hijacking?**
 
   * [Who’s Behind Wednesday’s Epic Twitter Hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/) (Krebs on Security)
   * [130 high-profile Twitter accounts targeted in hacking attack](https://www.theguardian.com/technology/2020/jul/17/130-high-profile-twitter-accounts-targeted-in-hacking-attack) (The Guardian)
@@ -1412,7 +1412,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 16 2020**
+**Thursday, July 16 2020 - Thu. 07/16 – The Great Twitter Hijack of 2020**
 
   * [Apple, Biden, Musk and other high-profile Twitter accounts hacked in crypto scam](https://techcrunch.com/2020/07/15/twitter-accounts-hacked-crypto-scam/) (TechCrunch)
   * [A hacker used Twitter’s own ‘admin’ tool to spread cryptocurrency scam](https://techcrunch.com/2020/07/15/twitter-hacker-admin-scam/) (TechCrunch)
@@ -1425,7 +1425,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 15 2020**
+**Wednesday, July 15 2020 - Wed. 07/15 – Is It Too Early To Start Talking About 6G?**
 
   * [Apple Wins Fight Over $14.9 Billion Tax Bill in Blow to EU](https://www.bloomberg.com/news/articles/2020-07-15/apple-wins-eu-court-fight-over-14-9-billion-tax-bill?sref=MzDxCtkS) (Bloomberg)
   * [Sony Boosting Output of PlayStation 5 to Meet Surge in Demand](https://www.bloomberg.com/news/articles/2020-07-15/sony-boosting-playstation-5-output-to-meet-virus-demand-surge?sref=MzDxCtkS) (Bloomberg)
@@ -1437,7 +1437,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 14 2020**
+**Tuesday, July 14 2020 - Tue. 07/14 – What If Apple Bought Arm?**
 
   * [SoftBank Explores Sale or IPO for Chip Designer Arm Holdings](https://www.wsj.com/articles/softbank-explores-options-for-chip-designer-arm-holdings-11594672437?mod=djemalertNEWS) (WSJ)
   * [SoftBank hires Goldman Sachs to explore sale options for chip designer Arm after getting inbound interest, sources say](https://www.cnbc.com/2020/07/13/softbank-hires-goldman-sachs-to-explore-sale-options-for-arm-sources.html?&qsearchterm=softbank) (CNBC)
@@ -1451,7 +1451,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 13 2020**
+**Monday, July 13 2020 - Mon. 07/13 – SiriusXM Makes the Biggest Podcast Acquisition Yet**
 
   * [SiriusXM Is Buying Stitcher in Deal Worth Up to $325 Million](https://variety.com/2020/digital/news/siriusxm-buys-stitcher-325-million-1234704617/) (Variety)
   * [Amazon says it will not ban TikTok from employee phones](https://www.theverge.com/2020/7/10/21320196/amazon-employees-tiktok-uninstall-email-trump-administration-pompeo-ban) (The Verge)
@@ -1463,7 +1463,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 10 2020**
+**Friday, July 10 2020 - Fri. 07/10 – Kuo: Apple Silicon Macs Coming THIS Year**
 
   * [Kuo: Apple Silicon Macs to Include 13-inch MacBook Pro and MacBook Air This Year, 14.1-inch and 16-inch MacBook Pro Models Next Year](https://www.macrumors.com/2020/07/10/kuo-first-apple-silicon-13-inch-macbook-pro-2020/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Apple Reaches New Stage in Development of AR Devices](https://www.theinformation.com/articles/apple-reaches-new-stage-in-development-of-ar-devices) (The Information)
@@ -1472,7 +1472,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 09 2020**
+**Thursday, July 09 2020 - Thu. 07/09 – Apple’s Not Gonna Abandon Thunderbolt**
 
   * [Exclusive: Crypto exchange Coinbase readies landmark stock market listing, sources say](https://www.reuters.com/article/us-coinbase-ipo-exclusive/exclusive-cryptocurrency-exchange-coinbase-readies-stock-market-listing-sources-idUSKBN24A21W) (Reuters)
   * [Quibi reportedly lost 90 percent of early users after their free trials expired](https://www.theverge.com/2020/7/8/21318060/quibi-subscriber-count-free-trial-paying-users-conversion-rate?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1484,7 +1484,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 08 2020**
+**Wednesday, July 08 2020 - Wed. 07/08 – Facebook Fails Its Own Audit**
 
   * [Facebook Fails to Appease Organizers of Ad Boycott](https://www.nytimes.com/2020/07/07/technology/facebook-ad-boycott-civil-rights.html) (NYTimes)
   * [Facebook Decisions Were ‘Setbacks for Civil Rights,’ Audit Finds](https://www.nytimes.com/2020/07/08/technology/facebook-civil-rights-audit.html) (NYTimes)
@@ -1498,7 +1498,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 07 2020**
+**Tuesday, July 07 2020 - Tue. 07/07 – Will The US Government Ban TikTok?**
 
   * [TikTok to pull out of Hong Kong](https://www.axios.com/tiktok-to-pull-out-of-hong-kong-e253eb02-69e9-4abb-a5c2-28ffa196a9a0.html) (Axios)
   * [U.S. is ‘looking at’ banning TikTok and Chinese social media apps, Pompeo says](https://www.cnbc.com/2020/07/07/us-looking-at-banning-tiktok-and-chinese-social-media-apps-pompeo.html) (CNBC)
@@ -1512,7 +1512,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 06 2020**
+**Monday, July 06 2020 - Mon. 07/06 – Uber Buys Postmates**
 
   * [Uber agrees to buy food-delivery service Postmates for $2.65 billion in stock](https://www.cnbc.com/2020/07/06/uber-buys-postmates-food-delivery-service.html) (CNBC)
   * [Uber acquires meal delivery service Postmates for $2.65 billion](https://www.theverge.com/2020/7/6/21312447/uber-postmates-acquisition-announced-food-delivery?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
@@ -1525,7 +1525,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 02 2020**
+**Thursday, July 02 2020 - Thu. 07/02 – ALL of Silicon Valley (kinda) Has A Date With Washington**
 
   * [Zuckerberg Tells Facebook Staff He Expects Advertisers to Return ‘Soon Enough’](https://www.theinformation.com/articles/zuckerberg-tells-facebook-staff-he-expects-advertisers-to-return-soon-enough) (The Information)
   * [Apple CEO Tim Cook agrees to testify in House antitrust investigation](https://appleinsider.com/articles/20/07/01/apple-ceo-tim-cook-agrees-to-testify-in-house-antitrust-investigation) (Apple Insider)
@@ -1534,7 +1534,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 01 2020**
+**Wednesday, July 01 2020 - Wed. 07/01 – YouTube TV Has Recreated The TV Bundle At Essentially The Same Price Point**
 
   * [Facebook frustrates advertisers as boycott over hate speech kicks off](https://www.reuters.com/article/us-facebook-ads-boycott/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off-idUSKBN2424GS) (Reuters)
   * [Third of top brands likely to suspend social media spending, survey finds](https://www.ft.com/content/aa723316-67e6-41a3-9f37-e9c6b8855edb) (Financial Times)
@@ -1547,7 +1547,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 30 2020**
+**Tuesday, June 30 2020 - Tue. 06/30 – Amazon Prime Video Launches Watch Party**
 
   * [Lululemon set to acquire home fitness startup Mirror for $500M](https://techcrunch.com/2020/06/29/lululemon-set-to-acquire-home-fitness-startup-mirror-for-500m/) (TechCrunch)
   * [Uber in Talks to Buy Postmates for About $2.6 Billion](https://www.wsj.com/articles/uber-in-talks-to-buy-postmates-for-about-2-6-billion-11593487498?mod=hp_lead_pos2) (WSJ)
@@ -1559,7 +1559,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 29 2020**
+**Monday, June 29 2020 - Mon. 06/29 – Reddit Bans r/The_Donald and The Facebook Ad Boycott, Explained**
 
   * [Reddit bans r/The_Donald and r/ChapoTrapHouse as part of a major expansion of its rules](https://www.theverge.com/2020/6/29/21304947/reddit-ban-subreddits-the-donald-chapo-trap-house-new-content-policy-rules) (The Verge)
   * [Exclusive: Facebook ad boycott campaign to go global, organizers say](https://www.reuters.com/article/us-facebook-ads-boycott-exclusive/exclusive-facebook-ad-boycott-campaign-to-go-global-organizers-say-idUSKBN23Z0O4) (Reuters)
@@ -1571,7 +1571,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 26 2020**
+**Friday, June 26 2020 - Amazon Buys Self-Driving Startup Zoox**
 
   * [Amazon to buy self-driving technology company Zoox](https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html) (CNBC)
   * [Microsoft is permanently closing its retail stores](https://www.cnbc.com/2020/06/26/microsoft-to-close-retail-stores.html) (CNBC)
@@ -1580,7 +1580,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 25 2020**
+**Thursday, June 25 2020 - Thu. 06/25 – Amazon Has A Counterfeit Crimes Unit (Sounds Like An NBC TV Show)**
 
   * ['The money's gone': Wirecard collapses owing $4 billion](https://www.reuters.com/article/us-wirecard-accounts-idUSKBN23W176) (Reuters)
   * [Google will start paying publishers to license content](https://www.axios.com/google-will-start-paying-publishers-to-license-content-d05550e5-cc0f-4177-a7db-b085af9157bb.html) (Axios)
@@ -1594,7 +1594,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 24 2020**
+**Wednesday, June 24 2020 - Wed. 06/24 – Oculus Go and Olympus (and Force Touch?) Go Bye Bye**
 
   * [Brazilian Authorities Suspend WhatsApp Payments](https://www.bloomberg.com/news/articles/2020-06-23/brazil-s-central-bank-suspends-whatsapp-payments?sref=MzDxCtkS) (Bloomberg)
   * [Ad Boycott of Facebook Keeps Growing](https://www.nytimes.com/2020/06/23/business/media/facebook-ad-boycott.html) (NYTimes)
@@ -1606,7 +1606,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 23 2020**
+**Tuesday, June 23 2020 - Tue. 06/23 – Zoom is No Longer The King of the Work-From-Home Era**
 
   * [Wirecard’s Former CEO Markus Braun Is Arrested](https://www.wsj.com/articles/wirecards-former-ceo-markus-braun-is-arrested-11592901759?mod=djemalertNEWS) (WSJ)
   * [Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1619,7 +1619,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 22 2020**
+**Monday, June 22 2020 - Mon. 06/22 – WWDC 2020 (Virtually)**
 
   * [Apple approves Hey email app, but the fight’s not over](https://www.theverge.com/2020/6/22/21298552/apple-hey-email-app-approval-rules-basecamp-launch?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [TikTok Teens and K-Pop Stans Say They Sank Trump Rally](https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html) (NYTimes)
@@ -1628,7 +1628,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 19 2020**
+**Friday, June 19 2020 - Fri. 06/19 – It’s Gonna Be An Interesting WWDC…**
 
   * [Interview: Apple's Schiller says position on Hey App is unchanged and no rules changes are imminent](https://techcrunch.com/2020/06/18/interview-apples-schiller-says-position-on-hey-app-is-unchanged-and-no-rules-changes-are-imminent/) (TechCrunch)
   * [Apple’s Secretive AR and VR Headset Plans Altered by Internal Differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses?sref=MzDxCtkS) (Bloomberg Businessweek)
@@ -1640,7 +1640,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 18 2020**
+**Thursday, June 18 2020 - Thu. 06/18 – Audio Comes To Tweets**
 
   * [Apple Rejects Facebook’s Gaming App, for at Least the Fifth Time](https://www.nytimes.com/2020/06/18/technology/apple-ios-facebook-gaming-app.html) (NYTimes)
   * [Twitter starts rolling out audio tweets on iOS](https://www.theverge.com/2020/6/17/21294481/twitter-audio-tweets-now-available-iphone-ios?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1654,7 +1654,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 17 2020**
+**Wednesday, June 17 2020 - Wed. 06/17 – HEY! The Whole Brouhaha Between Apple And Basecamp**
 
   * [A new email startup says Apple’s shaking it down for a cut of its subscriptions](https://www.protocol.com/hey-email-app-store-rejection) (Protocol)
   * [BASECAMP’S NEW APP, HEY, FLAGGED IN APP STORE LIMBO FOR NOT USING IN-APP PURCHASE](https://daringfireball.net/linked/2020/06/16/hey-iap-app-store-dispute) (Daring Fireball)
@@ -1667,7 +1667,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 16 2020**
+**Tuesday, June 16 2020 - Tue. 06/16 – Apple’s Turn in The EU Antitrust Toolshed**
 
   * [EU opens Apple antitrust investigations into App Store and Apple Pay practices](https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple says its App Store facilitated $519B in commerce in 2019](https://techcrunch.com/2020/06/15/as-antitrust-investigation-looms-apple-says-its-app-store-facilitated-519b-in-commerce-in-2019/) (TechCrunch)
@@ -1679,7 +1679,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 15 2020**
+**Monday, June 15 2020 - Mon. 06/15 – People Are Actually MORE Honest On Their Cellphones**
 
   * [Apple launches new 0% Apple Card financing for iPad, Mac, AirPods, and more](https://9to5mac.com/2020/06/15/apple-card-financing-ipad-mac/) (9to5Mac)
   * [Shopify Advances After Deal With Walmart Expands Its Reach](https://www.bloomberg.com/news/articles/2020-06-15/walmart-partners-with-shopify-to-expand-web-marketplace-business?sref=MzDxCtkS) (Bloomberg)
@@ -1691,7 +1691,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 12 2020**
+**Friday, June 12 2020 - Fri. 06/12 – Why Chris Cox Returning to Facebook is Such A Big Deal**
 
   * [Twitter deletes China-linked accounts that spread false information about Hong Kong and Covid-19](https://edition.cnn.com/2020/06/11/tech/twitter-manipulation-account-removal/) (CNN Business)
   * [UK competition watchdog launches investigation into Facebook's $400M acquisition of Giphy](https://techcrunch.com/2020/06/12/uk-competition-watchdog-launches-investigation-into-facebooks-400m-acquisition-of-giphy/) (TechCrunch)
@@ -1701,7 +1701,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 11 2020**
+**Thursday, June 11 2020 - Thu. 06/11 – Regulation News Thursday**
 
   * [Amazon to Face Antitrust Charges From EU Over Treatment of Third-Party Sellers](https://www.wsj.com/articles/amazon-to-face-antitrust-charges-from-eu-over-treatment-of-third-party-sellers-11591871818?mod=djemalertNEWS) (WSJ)
   * [Amazon bans police use of facial recognition technology for one year](https://www.cnbc.com/2020/06/10/amazon-bans-police-use-of-facial-recognition-technology-for-one-year.html) (CNBC)
@@ -1714,7 +1714,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 10 2020**
+**Wednesday, June 10 2020 - Wed. 06/10 – Robocallers Face The Music**
 
   * [Plundering of crypto keys from ultrasecure SGX sends Intel scrambling again](https://arstechnica.com/information-technology/2020/06/new-exploits-plunder-crypto-keys-and-more-from-intels-ultrasecure-sgx/) (Ars Technica)
   * [TSMC on schedule for 3nm Apple 'A16' iPhone and iPad chip in 2022](https://appleinsider.com/articles/20/06/09/tsmc-on-schedule-for-3nm-apple-a16-iphone-and-ipad-chip-in-2022) (Apple Insider)
@@ -1727,7 +1727,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 09 2020**
+**Tuesday, June 09 2020 - Tue. 06/09 – Apple Could Announce Arm Chips For Macs at WWDC In A Matter Of Days**
 
   * [Apple Plans to Announce Move to Its Own Mac Chips at WWDC](https://www.bloomberg.com/news/articles/2020-06-09/apple-plans-to-announce-move-to-its-own-mac-chips-at-wwdc?sref=MzDxCtkS) (Bloomberg)
   * [IBM is exiting the face recognition business](https://www.axios.com/ibm-is-exiting-the-face-recognition-business-62e79f09-34a2-4f1d-a541-caba112415c6.html) (Axios)
@@ -1739,7 +1739,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 08 2020**
+**Monday, June 08 2020 - Mon. 06/08 – Airbnb Is Suddenly Seeing More Travel Bookings Than It Did This Time Last Year**
 
   * [Airbnb Joins Vacation-Rental Sites Seeing Surge in Demand](https://www.bloomberg.com/news/articles/2020-06-07/airbnb-joins-vacation-rental-sites-seeing-surge-in-summer-demand?sref=MzDxCtkS) (Bloomberg)
   * [Privacy browser Brave under fire for violating users’ trust](https://decrypt.co/31522/crypto-brave-browser-redirect) (Decrypt)
@@ -1749,7 +1749,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 05 2020**
+**Friday, June 05 2020 - What If Self-Driving Cars Won’t Prevent As Many Accidents As We Hoped?**
 
   * [Amazon licenses Slack for all employees, while Slack adopts AWS video-calling tech](https://www.cnbc.com/2020/06/04/amazon-licenses-slack-for-workers-as-slack-adopts-aws-video-call-tech.html) (CNBC)
   * [Google says Iranian, Chinese hackers targeted Trump, Biden campaigns](https://techcrunch.com/2020/06/04/google-china-iran-trump-biden/) (TechCrunch)
@@ -1758,7 +1758,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 04 2020**
+**Thursday, June 04 2020 - Thu. 06/04 – A Class-Action Lawsuit Around Incognito Mode**
 
   * [Speaking up on racism](https://www.apple.com/speaking-up-on-racism/) (Tim Cook/Apple.com)
   * [Early Facebook Employees Disavow Zuckerberg’s Stance on Trump Posts](https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html) (NYTimes)
@@ -1774,7 +1774,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 03 2020**
+**Wednesday, June 03 2020 - Is On-Device Translation Coming to iOS?**
 
   * [Zoom revenue grew 169% during the quarter, and the company doubled its revenue guidance for the year](https://www.cnbc.com/2020/06/02/zoom-zm-earnings-q1-2021.html) (CNBC)
   * [Zoom won’t encrypt free calls because it wants to comply with law enforcement](https://thenextweb.com/security/2020/06/03/zoom-wont-encrypt-free-calls-because-it-wants-to-comply-with-law-enforcement/) (TNW)
@@ -1786,7 +1786,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 02 2020**
+**Tuesday, June 02 2020 - Tue. 06/02 – Everything is Postponed**
 
   * [Facebook finally makes it way easier to trash your old posts](https://techcrunch.com/2020/06/02/how-to-delete-old-facebook-posts-manage-activity/) (TechCrunch)
   * [HBO Max won’t hit AT&T data caps, but Netflix and Disney Plus will](https://www.theverge.com/2020/6/2/21277402/hbo-max-att-data-caps-netflix-disney-plus-streaming-services-net-neutrality) (The Verge)
@@ -1801,7 +1801,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 01 2020**
+**Monday, June 01 2020 - Mon. 06/01 – The Facebook Walkout**
 
   * [Facebook Employees Stage Virtual Walkout to Protest Trump Posts](https://www.nytimes.com/2020/06/01/technology/facebook-employee-protest-trump.html) (NYTimes)
   * [Facebook, Snapchat join chorus of companies condemning George Floyd death, racism](https://www.reuters.com/article/us-snapchat-protests/facebook-snapchat-join-chorus-of-companies-condemning-george-floyd-death-racism-idUSKBN2382IG) (Reuters)
@@ -1815,7 +1815,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 29 2020**
+**Friday, May 29 2020 - Fri. 05/29 – The Best Summary of the Executive Order I Can Muster (Replacement)**
 
   * [Trump signs executive order targeting protections for social media platforms](https://www.axios.com/trump-executive-order-social-media-protections-8a53f1c6-3c05-4844-98a3-071373b497a8.html) (Axios)
   * [‘Rammed it through’: Trump's Twitter order riles staffers and tech reformers](https://www.protocol.com/trump-twitter-executive-order-230) (Protocol)
@@ -1828,7 +1828,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 28 2020**
+**Thursday, May 28 2020 - Thu. 05/28 – The Most Consequential Tweets For Silicon Valley of All Time?**
 
   * [Trump expected to sign executive order that could threaten punishment against Facebook, Google and Twitter over allegations of political bias](https://www.washingtonpost.com/technology/2020/05/27/trump-twitter-executive-order/) (Washington Post)
   * [Zuckerberg knocks Twitter for fact-checking Trump, says private companies shouldn't be 'the arbiter of truth'](https://www.foxnews.com/media/facebook-mark-zuckerberg-twitter-fact-checking-trump) (Fox News)
@@ -1841,7 +1841,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 27 2020**
+**Wednesday, May 27 2020 - Wed. 05/27 – Amazon Joins The Self-Driving Race**
 
   * [Amazon in Advanced Talks to Buy Self-Driving-Car Tech Company Zoox](https://www.wsj.com/articles/amazon-in-advanced-talks-to-buy-self-driving-car-tech-company-zoox-11590538611?mod=djemalertNEWS) (WSJ)
   * [Google to begin reopening offices July 6, will let workers expense $1,000 for equipment while telecommuting](https://www.cnet.com/news/google-to-begin-reopening-offices-july-6-will-let-employees-expense-1000-for-equipment-while-telecommuting/) (CNET)
@@ -1856,7 +1856,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 26 2020**
+**Tuesday, May 26 2020 - Tue. 05/26 – What Does A 3-Day Weekend Even Mean Anymore?**
 
   * [ARM’s Cortex-A78 CPU and Mali-G78 GPU will power 2021’s best Android phones](https://www.theverge.com/circuitbreaker/2020/5/26/21267893/arm-cortex-a78-mali-g78-cpu-gpu-designs-smartphones-2021-samsung-qualcomm-apple) (The Verge)
   * [Google Messages preparing end-to-end encryption for RCS messages](https://9to5google.com/2020/05/23/google-messages-end-to-end-encryption-rcs/) (9to5Google)
@@ -1867,7 +1867,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 22 2020**
+**Friday, May 22 2020 - Fri. 05/22 – I Do A Complete 180 on WFH**
 
   * [MARK ZUCKERBERG ON TAKING HIS MASSIVE WORKFORCE REMOTE](https://www.theverge.com/2020/5/21/21265780/facebook-remote-work-mark-zuckerberg-interview-wfh) (The Verge)
   * [Zuckerberg says employees moving out of Silicon Valley may face pay cuts](https://www.cnbc.com/2020/05/21/zuckerberg-50percent-of-facebook-employees-could-be-working-remotely.html) (CNBC)
@@ -1878,7 +1878,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 21 2020**
+**Thursday, May 21 2020 - Thu. 05/21 – The Galaxy S20 Tactical Edition**
 
   * [Twitter is testing a feature that limits who can reply to your tweets](https://techcrunch.com/2020/05/20/twitter-is-testing-a-feature-that-limits-who-can-reply-to-your-tweets/) (TechCrunch)
   * [Three US states have signed on to Apple and Google’s exposure notification system](https://www.theverge.com/2020/5/20/21265052/apple-google-coronavirus-notification-system-states-alabama-north-dakota-south-carolina) (The Verge)
@@ -1890,7 +1890,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 20 2020**
+**Wednesday, May 20 2020 - Wed. 05/20 – Joe Rogan is Podcasting’s Howard Stern Moment**
 
   * [Mark Zuckerberg announces Facebook Shops, making it easier for businesses to list products for sale](https://www.cnbc.com/2020/05/19/zuckerberg-announces-facebook-shops-e-commerce-for-businesses.html) (CNBC)
   * [Ecommerce penetration graph](https://twitter.com/DennisHong17/status/1261492532690763777) (Dennis Hong)
@@ -1904,7 +1904,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 19 2020**
+**Tuesday, May 19 2020 - If You Virtual Build It, They Will Come**
 
   * [Microsoft’s new PowerToys Run launcher for Windows 10 is now available to download](https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build) (The Verge)
   * [Microsoft is bringing Linux GUI apps to Windows 10](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features) (The Verge)
@@ -1922,7 +1922,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 18 2020**
+**Monday, May 18 2020 - Mon. 05/18 – Pizza Arbitrage Shows How The Food Delivery Space Is Broken**
 
   * [TSMC halts new Huawei orders after US tightens restrictions](https://asia.nikkei.com/Spotlight/Huawei-crackdown/TSMC-halts-new-Huawei-orders-after-US-tightens-restrictions) (Nikkei Asian Review)
   * [China Injects $2.2 Billion Into Local Chip Firm](https://www.bloomberg.com/news/articles/2020-05-17/china-injects-2-2-billion-into-local-chip-firm-amid-u-s-curbs?sref=MzDxCtkS) (Bloomberg)
@@ -1935,7 +1935,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 15 2020**
+**Friday, May 15 2020 - Fri. 05/15 – Facebook Buys GIPHY**
 
   * [U.S. moves to cut Huawei off from global chip suppliers as China eyes retaliation](https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-us-moves-to-cut-huawei-off-from-global-chip-suppliers-idUSKBN22R1KC) (Reuters)
   * [Scoop: Facebook to buy Giphy for $400 million](https://www.axios.com/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html) (Axios)
@@ -1948,7 +1948,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 14 2020**
+**Thursday, May 14 2020 - Thu. 05/14 – “Monstrous” Chip News**
 
   * [Nvidia unveils monstrous A100 AI chip with 54 billion transistors and 5 petaflops of performance](https://venturebeat.com/2020/05/14/nvidia-unveils-monstrous-a100-ai-chip-with-54-billion-transistors-and-5-petaflops-of-performance/) (VentureBeat)
   * [Nvidia’s first Ampere GPU is designed for data centers and AI, not your PC](https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer) (The Verge)
@@ -1960,7 +1960,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 13 2020**
+**Wednesday, May 13 2020 - Wed. 05/13 – What If We Never Go Back To The Office?**
 
   * [Dell launches new XPS 17 and redesigned XPS 15 with 16:10 edge-to-edge displays](https://www.theverge.com/2020/5/13/21257006/dell-xps-17-15-redesign-specs-features-update-2020) (The Verge)
   * [Amazon updates the Fire HD 8 with a faster processor, more RAM, and USB-C](https://www.theverge.com/circuitbreaker/2020/5/13/21256674/amazon-fire-hd-8-plus-kids-edition-usb-c-wireless-specs) (The Verge)
@@ -1972,7 +1972,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 12 2020**
+**Tuesday, May 12 2020 - Quibbling With Quibi**
 
   * [Twitter launches labels, warnings on misleading COVID-19 information](https://www.reuters.com/article/us-health-coronavirus-twitter/twitter-launches-labels-warnings-on-misleading-covid-19-information-idUSKBN22N2E4) (Reuters)
   * [Exclusive: AirPods Studio to feature head and neck detection, custom equalizer settings, more](https://9to5mac.com/2020/05/11/airpods-studio-features-exclusive/) (9to5Mac)
@@ -1982,7 +1982,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 11 2020**
+**Monday, May 11 2020 - Mon. 05/11 – Why Call it “Thunderspy” and not “Thunderstruck” or “Thunderstorm?”**
 
   * [Thunderbolt Flaws Expose Millions of PCs to Hands-On Hacking](https://www.wired.com/story/thunderspy-thunderbolt-evil-maid-hacking/) (Wired)
   * [Qualcomm's latest mobile gaming chip packs faster graphics and global 5G](https://www.engadget.com/qualcomm-snapdragon-768g-063013196.html) (Engadget)
@@ -1995,7 +1995,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 08 2020**
+**Friday, May 08 2020 - Fri. 05/08 – How Good Can an $18 Apple Watch Knock-Off Really Be?**
 
   * [Uber shares shoot up after CEO says ride volume is increasing again after April bottom](https://www.cnbc.com/2020/05/07/uber-uber-earnings-q1-2020.html) (CNBC)
   * [UK may ditch NHS contact-tracing app for Apple and Google model](https://www.theguardian.com/technology/2020/may/07/uk-may-ditch-nhs-contact-tracing-app-for-apple-and-google-model) (The Guardian)
@@ -2006,7 +2006,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 07 2020**
+**Thursday, May 07 2020 - Thu. 05/07 – Do Lyft Earnings Mean Ride Hailing As An Industry Might Survive?**
 
   * [Zoom buys Keybase — its first acquisition — as part of 90-day plan to fix security flaws](https://www.cnbc.com/2020/05/07/zoom-buys-keybase-in-first-deal-as-part-of-plan-to-fix-security.html) (CNBC)
   * [Google releases unscheduled Android 11 DP4 as first beta pushed back to next month](https://9to5google.com/2020/05/06/android-11-dp4/) (9to5Google)
@@ -2019,7 +2019,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 06 2020**
+**Wednesday, May 06 2020 - Wed. 05/06 – Disney+ Is Saving Mickey’s Bacon At The Moment**
 
   * [Microsoft’s new Surface Go 2 has a bigger display and better Intel processor](https://www.theverge.com/2020/5/6/21248142/microsoft-surface-go-2-tablet-10-5-inch-screen-price-release-date) (The Verge)
   * [Microsoft's Surface Book 3 has 10th-gen Intel CPUs and new NVIDIA GPUs](https://www.engadget.com/surface-book-3-microsoft-tablet-pc-130014634.html) (Engadget)
@@ -2032,7 +2032,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 05 2020**
+**Tuesday, May 05 2020 - Tue. 05/05 – UK’s Contact Tracing App Won’t Work In the Background**
 
   * [Apple kicking off week of virtual WWDC on June 22, jackets and pins for Swift Challenge winners](https://9to5mac.com/2020/05/05/apple-announces-virtual-wwdc-starting-on-june-22/) (9to5Mac)
   * [UK finds itself almost alone with centralized virus contact-tracing app that probably won't work well, asks for your location, may be illegal](https://www.theregister.co.uk/2020/05/05/uk_coronavirus_app/) (The Register)
@@ -2047,7 +2047,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 04 2020**
+**Monday, May 04 2020 - Usable Keyboards Return to the 13-inch MacBook Pro**
 
   * [Apple announces new 13-inch MacBook Pro with Magic Keyboard](https://www.theverge.com/2020/5/4/21245940/macbook-pro-13-inch-apple-new-magic-keyboard-price-release-date) (The Verge)
   * [Amazon VP Resigns, Calls Company ‘Chickenshit’ for Firing Protesting Workers](https://www.vice.com/en_us/article/z3bjpj/amazon-vp-tim-bray-resigns-calls-company-chickenshit-for-firing-protesting-workers) (Vice)
@@ -2060,7 +2060,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 01 2020**
+**Friday, May 01 2020 - Sometime Sanity Wins (ICANN Edition)**
 
   * [A Private Equity Firm Is Blocked From Buying .Org](https://www.nytimes.com/2020/05/01/technology/dot-org-sale.html) (NYTimes)
   * [Amazon says it’ll spend $4 billion or more dealing with COVID-19](https://www.theverge.com/2020/4/30/21243112/amazon-q1-2020-earnings-covid-19-coronavirus-jeff-bezos) (The Verge)
@@ -2069,7 +2069,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 30 2020**
+**Thursday, April 30 2020 - Thu. 04/30 – Don’t Fight The Tape (Tech Earnings Edition)**
 
   * [Intel's 10th Gen Comet Lake for Desktops: Skylake-S Hits 10 Cores and 5.3 GHz](https://www.anandtech.com/show/15758/intels-10th-gen-comet-lake-desktop) (AnAndTech)
   * [Andreessen Horowitz raises $515 million for second crypto fund](https://www.axios.com/andreessen-horowitz-raises-515-million-for-second-crypto-fund-7c989636-9d9a-42ad-9853-abd02a2103f7.html) (Axios)
@@ -2084,7 +2084,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 29 2020**
+**Wednesday, April 29 2020 - Wed. 04/29 – Here Come the Tech Earnings…**
 
   * [Alphabet earnings hit by ‘significant slowdown’ in ad sales, but revenue boosts stock](https://www.marketwatch.com/story/alphabet-earnings-hit-by-significant-slowdown-in-ad-sales-but-revenue-boosts-stock-2020-04-28) (Marketwatch)
   * [Google Meet video conferencing is now free for anybody](https://www.theverge.com/2020/4/29/21240509/google-meet-video-conferencing-free-gmail) (The Verge)
@@ -2095,7 +2095,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 28 2020**
+**Tuesday, April 28 2020 - Tue. 04/28 – Deepfakes As A Killer (Advertising) App**
 
   * [Shopify launches Shop, a new mobile app](https://techcrunch.com/2020/04/28/shopify-launches-shop-a-new-mobile-shopping-app/) (TechCrunch)
   * [NHS rejects Apple-Google coronavirus app plan](https://www.bbc.com/news/technology-52441428) (BBC News)
@@ -2108,7 +2108,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 27 2020**
+**Monday, April 27 2020 - Mon. 04/27 – It’s Always A Good Day When Your Starship Doesn’t Explode**
 
   * [Apple Delays Mass Production of 2020 Flagship iPhones](https://www.wsj.com/articles/apple-delays-mass-production-of-2020-flagship-iphones-11587984138) (WSJ)
   * [Two Million Australians Download Coronavirus Contact-Tracing App](https://www.bloomberg.com/news/articles/2020-04-27/australia-launches-contact-tracing-app-as-states-ease-lockdown) (Bloomberg)
@@ -2121,7 +2121,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 24 2020**
+**Friday, April 24 2020 - Google Battens Down The Hatches**
 
   * [AT&T CEO Randall Stephenson to step down, COO Stankey to take over](https://www.cnbc.com/2020/04/24/att-ceo-randall-stephenson-to-step-down.html) (CNBC)
   * [Google to cut marketing budgets by as much as half, directors warned of hiring freezes](https://www.cnbc.com/2020/04/23/google-to-cut-marketing-budgets-hiring-freeze-expected.html) (CNBC)
@@ -2132,7 +2132,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 23 2020**
+**Thursday, April 23 2020 - Thu. 04/23 – Privacy Hypocrisy From France?**
 
   * [Apple Aims to Sell Macs With Its Own Chips Starting in 2021](https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021) (Bloomberg)
   * [Boston Dynamics’ Spot robot is helping hospitals remotely treat coronavirus patients](https://www.theverge.com/2020/4/23/21231855/boston-dynamics-spot-robot-covid-19-coronavirus-telemedicine) (The Verge)
@@ -2145,7 +2145,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 21 2020**
+**Tuesday, April 21 2020 - Tue. 04/21 – Sonos Radio**
 
   * [Sonos launches its own streaming radio service](https://www.theverge.com/2020/4/21/21228460/sonos-radio-announced-features-streaming-music-date-price) (The Verge)
   * [267 million Facebook profiles sold for $600 on the dark web](https://www.bleepingcomputer.com/news/security/267-million-facebook-profiles-sold-for-600-on-the-dark-web/) (BleepingComputer)
@@ -2159,7 +2159,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 20 2020**
+**Monday, April 20 2020 - Mon. 04/20 – Well, Your iPad IS A Laptop Now, Which Means Bigger And Heavier**
 
   * [Facebook to Introduce an App for Gaming](https://www.nytimes.com/2020/04/19/technology/facebook-app-gaming.html) (NYTimes)
   * [Facebook and Google to face mandatory code of conduct to 'level playing field' with traditional news media](https://www.abc.net.au/news/2020-04-20/facebook-and-google-to-face-mandatory-code-of-conduct/12163300) (ABC News Australia)
@@ -2171,7 +2171,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 17 2020**
+**Friday, April 17 2020 - Y Combinator Gets Picky**
 
   * [AI spots critical Microsoft security bugs 97% of the time](https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/) (VentureBeat)
   * [Changing policy, Y Combinator cuts its pro rate stake and makes investments case-by-case](https://techcrunch.com/2020/04/16/changing-policy-y-combinator-cuts-its-pro-rata-stake-and-makes-investments-case-by-case/) (TechCrunch)
@@ -2181,7 +2181,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 16 2020**
+**Thursday, April 16 2020 - The Video Conferencing Space Is So Hot, We’re Getting Steamy M&A Action Now.**
 
   * [Verizon Buys Zoom Conferencing Rival BlueJeans](https://www.wsj.com/articles/verizon-to-buy-zoom-conferencing-rival-bluejeans-11587041218) (The Verge)
   * [Apple Developing High-End Headphones With Interchangeable Parts](https://www.bloomberg.com/news/articles/2020-04-16/apple-developing-high-end-headphones-with-interchangeable-parts) (Bloomberg)
@@ -2207,7 +2207,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 14 2020**
+**Tuesday, April 14 2020 - Seems Like Old Times! An Actual Smartphone Launch Event!**
 
   * [OnePlus Announces OnePlus 8 & OnePlus 8 Pro: Step-Up 2020 Flagships](https://www.anandtech.com/show/15717/oneplus-announces-oneplus-8-oneplus-8-pro-stepup-2020-flagships) (AnAndTech)
   * [ONEPLUS 8 PRO REVIEW: BIG LEAGUE](https://www.theverge.com/2020/4/14/21219861/oneplus-8-pro-review-specs-features-price-camera-battery-photos-video) (The Verge)
@@ -2223,7 +2223,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 13 2020**
+**Monday, April 13 2020 - Mon. 04/13 – Back To The iPhone 5 Design Future?**
 
   * [@moxie Tweet Thread](https://twitter.com/moxie/status/1248707315626201088)
   * [How Apple and Google are tackling one of the toughest parts about tracking COVID-19 exposures](https://www.theverge.com/interface/2020/4/11/21216652/apple-google-contact-tracing-covid-19-coronavirus-api-public-health-app-challenges) (The Verge)
@@ -2238,7 +2238,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 10 2020**
+**Friday, April 10 2020 - Fri. 04/10 – HUGE: Apple and Google Join Forces For Coronavirus Contact Tracing**
 
   * [Apple, Google debut major effort to help people track if they’ve come in contact with coronavirus](https://www.washingtonpost.com/technology/2020/04/10/apple-google-tracking-coronavirus/) (Washington Post)
   * [Amazon developing coronavirus testing lab for workers](https://www.washingtonpost.com/technology/2020/04/09/amazon-coronavirus-testing-lab/) (Washington Post)
@@ -2249,7 +2249,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 09 2020**
+**Thursday, April 09 2020 - Thu. 04/09 – Why The Pandemic Might Be Long-Term Good For The Internet**
 
   * [Disney+ Surpasses 50 Million Paid Subscribers After Launches in Europe & India](https://thestreamable.com/news/disney-plus-surpasses-50-million-paid-subscribers-after-european-launch) (The Streamable)
   * [Zoom removes meeting IDs from client title bar to boost security](https://www.bleepingcomputer.com/news/software/zoom-removes-meeting-ids-from-client-title-bar-to-boost-security/) (Bleeping Computer)
@@ -2264,7 +2264,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 08 2020**
+**Wednesday, April 08 2020 - Wed. 04/08 – The Desktop Web Is Back (for the time being…)**
 
   * [@jack's tweet storm](https://twitter.com/jack/status/1247616214769086465)
   * [Airbnb Paying More Than 10% Interest on $1 Billion Financing Announced Monday](https://www.wsj.com/articles/airbnb-paying-more-than-10-interest-on-1-billion-financing-announced-monday-11586297484) (WSJ)
@@ -2282,7 +2282,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 07 2020**
+**Tuesday, April 07 2020 - The Latest Startup Gunning For Gmail**
 
   * [WhatsApp to impose new limit on forwarding to fight fake news](https://www.theguardian.com/technology/2020/apr/07/whatsapp-to-impose-new-limit-on-forwarding-to-fight-fake-news) (The Guardian)
   * [Airbnb is raising $1 billion amid fallout from coronanvirus](https://www.cnbc.com/2020/04/06/airbnb-raising-1-billion-amid-fallout-from-coronanvirus.html) (CNBC)
@@ -2294,7 +2294,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 06 2020**
+**Monday, April 06 2020 - Mon. 04/06 – Happy Quibi Day!**
 
   * [Quibi app review: shifting landscape](https://www.theverge.com/2020/4/6/21208932/quibi-app-review-price-short-form-video-content-features-streaming-rotation) (The Verge)
   * [How to stream Quibi](https://www.theverge.com/2020/4/6/21207500/quibi-app-how-to-watch-download-price-subscription-streaming-rotation-shows) (The Verge)
@@ -2307,7 +2307,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 03 2020**
+**Friday, April 03 2020 - It’s An 80’s Style Free HBO Bonanza!**
 
   * [Google uses location data to show which places are complying with stay-at-home orders — and which aren’t](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy) (The Verge)
   * [In coronavirus fight, oft-criticized Facebook data aids U.S.](https://www.reuters.com/article/health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ)
@@ -2320,7 +2320,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 02 2020**
+**Thursday, April 02 2020 - Zoom Apologizes And Wow's On DAUs**
 
   * [A Message to Our Users](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/) (Zoom Blog)
   * [Facebook debuts standalone Messenger app on Mac and PC](https://www.engadget.com/2020-04-02-facebook-messenger-desktop-app.html) (Engadget)
@@ -2332,7 +2332,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 01 2020**
+**Wednesday, April 01 2020 - The Zoom Privacy Storm**
 
   * [Legere is out as T-Mobile CEO as Sprint merger officially closes](https://www.cnbc.com/2020/04/01/legere-is-out-as-t-mobile-ceo-as-sprint-merger-officially-closes.html) (CNBC)
   * [Samsung Display to end all LCD production by end 2020](https://www.reuters.com/article/us-samsung-display-lcd/samsung-display-to-end-all-lcd-production-by-end-2020-idUSKBN21I0BY) (Reuters)
@@ -2346,7 +2346,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 31 2020**
+**Tuesday, March 31 2020 - Apple Buys Dark Sky!**
 
   * [Apple purchases hyperlocal weather app Dark Sky, ending API and killing Android apps](https://9to5mac.com/2020/03/31/apple-purchases-hyperlocal-weather-app-dark-sky-killing-android-apps/) (9to5Mac)
   * [Snapchat preempts clones, syndicates Stories to other apps](https://techcrunch.com/2020/03/31/snapchat-app-stories/) (TechCrunch)
@@ -2362,7 +2362,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 30 2020**
+**Monday, March 30 2020 - Mon. 03/30 – HQ Trivia Back From The Dead!**
 
   * [HQ Trivia Returns Thanks to Anonymous Investor](https://www.wsj.com/articles/hq-trivia-to-return-sunday-night-thanks-to-anonymous-investor-11585526725) (WSJ)
   * [Facebook Strikes Deal for AR Displays, Squeezing Out Apple](https://www.theinformation.com/articles/facebook-strikes-deal-for-ar-displays-trying-to-squeeze-out-apple) (The Information)
@@ -2378,7 +2378,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 27 2020**
+**Friday, March 27 2020 - Apple's Covid-19 App**
 
   * [Apple releases new COVID-19 app and website based on CDC guidance](https://www.apple.com/newsroom/2020/03/apple-releases-new-covid-19-app-and-website-based-on-CDC-guidance/) (Apple Newsroom)
   * [Kuo: Apple to Launch Several Macs With Arm-Based Processors in 2021, USB4 Support Coming to Macs in 2022](https://www.macrumors.com/2020/03/26/kuo-several-arm-based-macs-2021/) (MacRumors)
@@ -2387,7 +2387,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 26 2020**
+**Thursday, March 26 2020 - Thu. 03/26 – No New iPhone Until 2021?**
 
   * [Apple weighs delaying 5G iPhone launch by months, sources say](https://asia.nikkei.com/Spotlight/Coronavirus/Apple-weighs-delaying-5G-iPhone-launch-by-months-sources-say) (Nikkei Asian Review)
   * [Apple Testing AR/VR Headset With HTC Vive-Like Controller, Crosswalk Bowling Game, and More](https://www.macrumors.com/2020/03/26/apple-ar-vr-headset-controller/) (MacRumors)
@@ -2402,7 +2402,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 25 2020**
+**Wednesday, March 25 2020 - Google Podcasts Comes To iOS**
 
   * [Facebook Is ‘Just Trying to Keep the Lights On’ as Traffic Soars in Pandemic](https://www.nytimes.com/2020/03/24/technology/virus-facebook-usage-traffic.html) (NYTimes)
   * [The Coronavirus Revives Facebook as a News Powerhouse](https://www.nytimes.com/2020/03/23/technology/coronavirus-facebook-news.html)
@@ -2416,7 +2416,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 24 2020**
+**Tuesday, March 24 2020 - Instagram Co-Watching**
 
   * [Microsoft says hackers are attacking Windows users with a new unpatched bug](https://techcrunch.com/2020/03/23/windows-unpatched-zero-day-bug/) (TechCrunch)
   * [Apple promises App Store expansion to 20 new countries starting next month](https://9to5mac.com/2020/03/23/app-store-20-new-countries/) (9to5Mac)
@@ -2431,7 +2431,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 23 2020**
+**Monday, March 23 2020 - The Pros And Cons Of Surveilling Against Covid19**
 
   * [European mobile operators share data for coronavirus fight](https://www.reuters.com/article/us-health-coronavirus-europe-telecoms/european-mobile-operators-share-data-for-coronavirus-fight-idUSKBN2152C2) (Reuters)
   * [Taiwan's new 'electronic fence' for quarantines leads wave of virus monitoring](https://www.reuters.com/article/us-health-coronavirus-taiwan-surveillanc/taiwans-new-electronic-fence-for-quarantines-leads-wave-of-virus-monitoring-idUSKBN2170SK) (Reuters)
@@ -2445,7 +2445,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 20 2020**
+**Friday, March 20 2020 - Instagram Copies The Last Snapchat Feature Left**
 
   * [Amazon AWS launches $20 million initiative to help fight the coronavirus](https://www.cnbc.com/2020/03/20/coronavirus-amazon-aws-commits-20-million-to-covid-19-research.html) (CNBC)
   * [Instagram prototypes Snapchat-style disappearing text messages](https://techcrunch.com/2020/03/19/instagram-disappearing-messages/) (TechCrunch)
@@ -2455,7 +2455,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 19 2020**
+**Thursday, March 19 2020 - This Is The Microsoft Teams Moment**
 
   * [Square gains FDIC conditional approval for a banking license](https://siliconangle.com/2020/03/18/square-gains-conditional-approval-banking-license-fdic/) (Silicon Angle)
   * [Microsoft Teams passes 44 million daily active users, thanks in part to coronavirus](https://venturebeat.com/2020/03/19/microsoft-teams-passes-44-million-daily-active-users-thanks-in-part-to-coronavirus/) (VentureBeat)
@@ -2468,7 +2468,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 18 2020**
+**Wednesday, March 18 2020 - The iPad is a Laptop Now!**
 
   * [Apple announces new iPad Pro with trackpad support and a wild keyboard cover](https://www.theverge.com/2020/3/18/21184719/apple-announces-new-ipad-pro-price-release-date-availability) (The Verge)
   * [The MacBook Air gets an updated keyboard and souped-up specs, starting at $999](https://techcrunch.com/2020/03/18/the-macbook-air-gets-an-updated-keyboard-and-souped-up-specs-starting-at-999/) (TechCrunch)
@@ -2480,7 +2480,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 17 2020**
+**Tuesday, March 17 2020 - Microsoft Wants To Own The Dev Stack**
 
   * [Microsoft's GitHub acquires npm to help JavaScript developers](https://www.windowscentral.com/microsofts-github-acquires-npm-help-javascript-developers) (WindowsCentral)
   * [iOS 14 code confirms Apple planning ‘iPhone 9 Plus’ with A13 as larger version of rumored entry-level model](https://9to5mac.com/2020/03/16/ios-14-code-confirms-apple-planning-iphone-9-plus-with-a13-as-larger-version-of-rumored-entry-level-model/) (9to5Mac)
@@ -2493,7 +2493,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 16 2020**
+**Monday, March 16 2020 - What REALLY Happened W/That Google Coronavirus Project?**
 
   * [Apple fined a record $1.2 billion by French antitrust authorities](https://www.cnbc.com/2020/03/16/apple-fined-1point2-billion-by-french-competition-authorities.html) (CNBC)
   * [FCC’s largest spectrum auction nets $4.47 billion for 5G mmWave bands](https://venturebeat.com/2020/03/12/fccs-largest-spectrum-auction-nets-4-47-billion-for-5g-mmwave-bands/) (VentureBeat)
@@ -2507,7 +2507,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 13 2020**
+**Friday, March 13 2020 - Has Coronavirus Proven ISP Datacaps Are A Sham?**
 
   * [Housebound Italian Kids Strain Network With Fortnite Marathon](https://www.bloomberg.com/news/articles/2020-03-12/housebound-italian-kids-strain-network-with-fortnite-marathon) (Bloomberg)
   * [AT&T Suspends Broadband Data Caps During Coronavirus Crisis](https://www.vice.com/en_us/article/v74qzb/atandt-suspends-broadband-usage-caps-during-coronavirus-crisis) (Vice)
@@ -2517,7 +2517,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 12 2020**
+**Thursday, March 12 2020 - Bye, Bye, Butterfly**
 
   * [Apple Closes All 17 Stores in Italy Amid Coronavirus Pandemic](https://www.bloomberg.com/news/articles/2020-03-11/apple-closes-all-17-stores-in-italy-amid-coronavirus-pandemic) (Bloomberg)
   * [Twitter makes working from home mandatory for employees around the world in response to COVID-19](https://techcrunch.com/2020/03/11/twitter-makes-working-from-home-mandatory-for-employees-around-the-world-in-response-to-covid-19/) (TechCrunch)
@@ -2531,7 +2531,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 11 2020**
+**Wednesday, March 11 2020 - Now E3 Is Cancelled**
 
   * [E3 2020 Canceled After ‘Overwhelming Concerns’ About Coronavirus](https://variety.com/2020/digital/news/e3-2020-canceled-coronavirus-1203529992/) (Variety)
   * [Uber may suspend accounts of riders, drivers who test positive for coronavirus](https://www.reuters.com/article/us-health-coronavirus-uber-idUSKBN20Y0MQ) (Reuters)
@@ -2546,7 +2546,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 10 2020**
+**Tuesday, March 10 2020 - Hold Me Closer, Tiny iPhone**
 
   * [iOS 14 reveals iPhone 9 and updated iPad Pro details, new Apple TV remote, AirTags, more](https://9to5mac.com/2020/03/10/ios-14-iphone-9-ipad-pro-apple-tv/) (9to5Mac)
   * [Apple developing new augmented reality app for iOS 14, testing Apple Store and Starbucks partnership](https://9to5mac.com/2020/03/10/apple-developing-new-augmented-reality-app-for-ios-14-testing-apple-store-and-starbucks-partnership/) (9to5Mac)
@@ -2569,7 +2569,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 09 2020**
+**Monday, March 09 2020 - @Jack Lives To Fight Another Day**
 
   * [Robinhood goes down again, causing clients to miss out on another historic trading day](https://www.cnbc.com/2020/03/09/robinhood-app-down-again-during-another-historic-trading-day.html) (CNBC)
   * [Twitter CEO Dorsey keeps his job after company strikes investment deal with Elliott Management, Silver Lake](https://www.cnbc.com/2020/03/09/twitter-strikes-investment-deal-with-elliott-management-silver-lake-after-attempt-to-oust-ceo-jack-dorsey.html) (CNBC)
@@ -2584,7 +2584,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 06 2020**
+**Friday, March 06 2020 - Sonos Won’t Brick Your Old Hardware Anymore**
 
   * [5 years of Intel CPUs and chipsets have a concerning flaw that’s unfixable](https://arstechnica.com/information-technology/2020/03/5-years-of-intel-cpus-and-chipsets-have-a-concerning-flaw-thats-unfixable/) (Ars Technica)
   * [Apple is rejecting coronavirus apps that aren’t from health organizations, app makers say](https://www.cnbc.com/2020/03/05/apple-rejects-coronavirus-apps-that-arent-from-health-organizations.html) (CNBC)
@@ -2595,7 +2595,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 05 2020**
+**Thursday, March 05 2020 - Apple Allows Ads in Push Notifications!?**
 
   * [Microsoft tells Bay Area and Puget Sound employees to work from home if possible as coronavirus spreads](https://www.cnbc.com/2020/03/04/microsoft-tells-bay-area-puget-sound-employees-to-work-from-home.html) (CNBC)
   * [Apple Warns Stores About a Shortage of Replacement iPhones](https://www.bloomberg.com/news/articles/2020-03-04/apple-warns-stores-about-shortage-of-replacement-iphones) (Bloomberg)
@@ -2611,7 +2611,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 04 2020**
+**Wednesday, March 04 2020 - Are Fleets On Fleek?**
 
   * [Twitter Is Finally Doing Stories](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-is-finally-doing-stories) (Buzzfeed)
   * [Robinhood offers $15 discount, blames outage on record trades](https://techcrunch.com/2020/03/03/robinhood-outage-cause/) (TechCrunch)
@@ -2629,7 +2629,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 03 2020**
+**Tuesday, March 03 2020 - What If Golf Is The Most Like Fortnite?**
 
   * [Waymo raises $2.25 billion to scale up autonomous vehicles operations](https://venturebeat.com/2020/03/02/waymo-raises-2-25-billion-to-scale-up-autonomous-vehicles-operations/) (VentureBeat)
   * [Robinhood Trading Site Seizes Up, Customers Miss Stock Rally](https://www.bloomberg.com/news/articles/2020-03-02/robinhood-suffers-online-outage-with-market-advancing-after-rout) (Bloomberg)
@@ -2642,7 +2642,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 02 2020**
+**Monday, March 02 2020 - I Don't Think Streaming Platforms Have Coke Habits**
 
   * [Rajeev Suri to step down as Nokia CEO; Pekka Lundmark to take over](https://techcrunch.com/2020/03/01/rajeev-suri-to-step-down-as-nokia-ceo-pekka-lundmark-to-take-over/) (TechCrunch)
   * [Singer’s Elliott Seeks to Replace Twitter CEO Dorsey](https://www.bloomberg.com/news/articles/2020-02-29/singer-s-elliott-is-said-to-seek-to-replace-twitter-ceo-dorsey) (Bloomberg)
@@ -2656,7 +2656,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 28 2020**
+**Friday, February 28 2020 - Is Apple Gonna Give the iPad a Trackpad?**
 
   * [Amazon bars one million products for false coronavirus claims](https://www.reuters.com/article/us-china-health-amazon-com/amazon-bars-one-million-products-for-false-coronavirus-claims-idUSKCN20L2ZH) (Reuters)
   * [Initial sales of Galaxy S20 series downbeat amid virus fears](http://www.koreaherald.com/view.php?ud=20200228000557) (The Korea Herald)
@@ -2668,7 +2668,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 27 2020**
+**Thursday, February 27 2020 - The Year Of No Conferences**
 
   * [Facebook cancels F8 developers conference over coronavirus](https://www.cnet.com/news/facebook-cancels-f8-developer-conference-over-coronavirus-concerns/) (CNET)
   * [Microsoft warns it will miss guidance for segment that includes Windows because of coronavirus](https://www.cnbc.com/2020/02/26/microsoft-warns-it-will-miss-guidance-for-segment-that-includes-windows-because-of-coronavirus.html) (CNBC)
@@ -2681,7 +2681,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 26 2020**
+**Wednesday, February 26 2020 - Bad Guys Can’t Use iPhones**
 
   * [Facebook is banning ads that promise to cure the coronavirus](https://www.businessinsider.com/facebook-corona-virus-cracks-down-ads-2020-2?op=1) (BusinessInsider)
   * [Coronavirus clouds Apple's timeline for new iPhones](https://www.reuters.com/article/uk-china-health-apple-iphone-focus/coronavirus-clouds-apples-timeline-for-new-iphones-idUSKBN20J2GJ) (Reuters)
@@ -2695,7 +2695,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 25 2020**
+**Tuesday, February 25 2020 - Is Signal The Next Big App?**
 
   * [New Netflix feature reveals the top 10 most popular programs on its service](https://techcrunch.com/2020/02/24/new-netflix-feature-reveals-the-top-10-most-popular-programs-on-its-service/) (TechCrunch)
   * [Netflix added a top 10 list of its most-watched content — here’s how to find it](https://thenextweb.com/basics/2020/02/25/netflix-added-top-ten-list-its-most-watched-content-heres-how-find-it/) (The Next Web)
@@ -2708,7 +2708,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 24 2020**
+**Monday, February 24 2020 - ARM-based Macs By Early 2021?**
 
   * [Huawei unveils the Mate Xs and MatePad Pro 5G w/ no Play Store access](https://9to5google.com/2020/02/24/huawei-unveils-the-mate-xs-and-matepad-pro-5g-w-no-play-store-access/) (9to5Google)
   * [Intel debuts 5G server and base station chips, plus a PC network card](https://venturebeat.com/2020/02/24/intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card/) (VentureBeat)
@@ -2721,7 +2721,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 21 2020**
+**Friday, February 21 2020 - Libra Gets A (Shopify) Win!**
 
   * [Shopify joins Facebook's cryptocurrency Libra Association](https://techcrunch.com/2020/02/21/shopify-libra/) (TechCrunch)
   * [Google Resists Demands From States in Digital-Ad Probe](https://www.wsj.com/articles/google-resists-demand-from-states-in-digital-ad-probe-11582281000?mod=e2tw) (WSJ)
@@ -2731,7 +2731,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 20 2020**
+**Thursday, February 20 2020 - What’s a Pirate’s Favorite Business Model? ARR…**
 
   * [Apple Weighs Letting Users Switch Default iPhone Apps to Rivals](https://www.bloomberg.com/news/articles/2020-02-20/apple-weighs-loosening-restrictions-on-rival-iphone-music-apps) (Bloomberg)
   * [Microsoft plans antivirus software for Android and iOS devices](https://www.cnbc.com/2020/02/20/microsoft-plans-antivirus-software-for-android-and-ios-devices.html) (CNBC)
@@ -2742,7 +2742,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 19 2020**
+**Wednesday, February 19 2020 - It’s Friggin’ App News Wednesday**
 
   * [Twitter acquires Stories template maker Chroma Labs](https://techcrunch.com/2020/02/18/twitter-chroma-stories/) (TechCrunch)
   * [Facebook prototypes tabbed News Feed with Most Recent & Seen](https://techcrunch.com/2020/02/18/facebook-tabbed-news-feed-seen/) (TechCrunch)
@@ -2757,7 +2757,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 18 2020**
+**Tuesday, February 18 2020 - Apple's Coronavirus Warning**
 
   * [Investor update on quarterly guidance](https://www.apple.com/newsroom/2020/02/investor-update-on-quarterly-guidance/) (Apple Newsroom)
   * [APPLE WARNS THAT CORONAVIRUS OUTBREAK IN CHINA WILL AFFECT REVENUE THIS QUARTER](https://daringfireball.net/linked/2020/02/17/apple-china-coronavirus) (Daring Fireball)
@@ -2770,7 +2770,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 17 2020**
+**Monday, February 17 2020 - HQ Trivia Into The Deadpool**
 
   * [UK to spend $1.6 billion on the world's fastest weather supercompute](https://www.engadget.com/2020/02/17/uk-weather-supercomputer-most-powerful-yet/)
   * [Game over for HQ Trivia](https://www.cnn.com/2020/02/14/media/hq-trivia-shut-down/) (CNN Business)
@@ -2781,7 +2781,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 14 2020**
+**Friday, February 14 2020 - Is It Time For a $500 PlayStation?**
 
   * [Ohio man arrested for running Bitcoin mixing service that laundered $300 million](https://www.zdnet.com/article/ohio-man-arrested-for-running-bitcoin-mixing-service-that-laundered-300-million/) (ZDNet)
   * [Judge temporarily blocks Microsoft Pentagon cloud contract after Amazon suit](https://www.cnbc.com/2020/02/13/amazon-gets-restraining-order-to-block-microsoft-work-on-pentagon-jedi.html) (CNBC)
@@ -2790,7 +2790,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 13 2020**
+**Thursday, February 13 2020 - Modular Apple Watches and Quantum Internets?**
 
   * [The US is charging Huawei with racketeering](https://techcrunch.com/2020/02/13/the-u-s-is-charging-huawei-with-racketeering/) (TechCrunch)
   * [Andy Rubin’s Start-Up, Essential Products, Shuts Down](https://www.nytimes.com/2020/02/12/technology/andy-rubin-essential-shutdown.html) (NYTimes)
@@ -2804,7 +2804,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 12 2020**
+**Wednesday, February 12 2020 - Is CISO A Thankless Job?**
 
   * [U.S. Officials Say Huawei Can Covertly Access Telecom Networks](https://www.wsj.com/articles/u-s-officials-say-huawei-can-covertly-access-telecom-networks-11581452256) (WSJ)
   * [Facebook accuses telecoms groups of disinformation tactics](https://www.ft.com/content/1096ad54-4d5f-11ea-95a0-43d18ec715f5) (Financial Times)
@@ -2820,7 +2820,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 11 2020**
+**Tuesday, February 11 2020 - The Samsung Galaxy Unpacked Event**
 
   * [SAMSUNG’S GALAXY S20, PLUS, AND ULTRA FIRST LOOK: CAMERAS, 5G, AND 120HZ SCREENS](https://www.theverge.com/2020/2/11/21128230/samsung-galaxy-s20-plus-ultra-price-camera-5g-features-video-hands-on) (The Verge)
   * [Samsung’s new foldable Galaxy Z Flip will arrive on February 14th for $1,380](https://www.theverge.com/2020/2/11/21126318/samsung-galaxy-z-flip-foldable-phone-release-date-price-features) (The Verge)
@@ -2833,7 +2833,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 10 2020**
+**Monday, February 10 2020 - The Race To Make The Cloud Redundant (For AI)**
 
   * [U.S. charges Chinese military hackers with massive Equifax breach](https://www.politico.com/news/2020/02/10/us-charges-chinese-spies-with-massive-equifax-hack-113129) (Politico)
   * [As top exhibitors pull out of MWC, organizers implement stringent safeguards](https://techcrunch.com/2020/02/09/as-top-exhibitors-pull-out-of-mwc-organizers-implement-stringent-safeguards/) (TechCrunch)
@@ -2846,7 +2846,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 07 2020**
+**Friday, February 07 2020 - Uber Can See The Promised Land**
 
   * [Uber stock is on pace for its best day ever](https://www.cnbc.com/2020/02/07/uber-shares-rise-after-forecasting-an-earlier-target-for-profitability.html) (CNBC)
   * [ViacomCBS to launch new streaming service blending CBS All Access with Paramount films, Viacom channels](https://www.cnbc.com/2020/02/06/viacomcbs-new-streaming-service-to-include-paramount-cbs-all-access.html) (CNBC)
@@ -2857,7 +2857,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 06 2020**
+**Thursday, February 06 2020 - Google Maps Freshens Up For Its Birthday**
 
   * [Google Maps gets a new icon and more tabs to celebrate 15th anniversary](https://www.theverge.com/2020/2/6/21125275/google-maps-15th-anniversary-new-icon-tabs-design-transit-information-live-view-update-features) (The Verge)
   * [New ‘CarKey’ feature in iOS 13.4 beta brings built-in support for unlocking, driving, and sharing NFC car keys](https://ww.9to5mac.com/2020/02/05/new-carkey-feature-in-ios-13-4-beta-brings-built-in-support-for-unlocking-driving-and-sharing-nfc-car-keys/#) (9to5Mac)
@@ -2871,7 +2871,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 05 2020**
+**Wednesday, February 05 2020 - It Turns Out…**
 
   * [Spotify is buying Bill Simmons’s The Ringer to boost its podcast business](https://www.vox.com/2020/2/5/21123904/spotify-bill-simmons-ringer-deal) (Recode)
   * [Disney earnings beat expectations, fueled by strong Disney+ subscriptions](https://finance.yahoo.com/news/disney-reports-1q-2020-earnings-results-182425354.html) (Yahoo! Finance)
@@ -2886,7 +2886,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 04 2020**
+**Tuesday, February 04 2020 - Tech Is the Angle In Iowa**
 
   * [YouTube is a $15 billion-a-year business, Google reveals for the first time](https://www.theverge.com/2020/2/3/21121207/youtube-google-alphabet-earnings-revenue-first-time-reveal-q4-2019) (The Verge)
   * [This Is The Buzzy Democratic Firm That Botched The Iowa Caucuses](https://www.huffpost.com/entry/iowa-caucus-app-shadow_n_5e390191c5b687dacc722824) (HuffPost)
@@ -2899,7 +2899,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 03 2020**
+**Monday, February 03 2020 - Is THIS the End of the BlackBerry Era?**
 
   * [BlackBerry’s Android smartphones will stop being sold in August 2020](https://ww.9to5google.com/2020/02/03/blackberry-android-discontinued-2020/) (9to5Google)
   * [Ming-Chi Kuo Says Coronavirus Outbreak Impacting iPhone Supply, Lowers Shipment Forecast](https://www.macrumors.com/2020/02/02/kuo-says-coronavirus-impacting-iphone-supply/) (MacRumors)
@@ -2913,7 +2913,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 31 2020**
+**Friday, January 31 2020 - Did Uber and DoorDash Almost Merge?**
 
   * [Amazon Revenue Jumps on Holiday Sales as Profit Rises](https://www.wsj.com/articles/amazon-beats-earnings-estimates-as-shipping-costs-stabilize-11580419032) (WSJ)
   * [Apple's redesigned Maps app is available across the US](https://techcrunch.com/2020/01/30/apples-redesigned-maps-app-is-available-across-the-u-s-adds-real-time-transit-for-miami/) (TechCrunch)
@@ -2924,7 +2924,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 30 2020**
+**Thursday, January 30 2020 - Tesla's Earnings Home Run**
 
   * [Tesla’s record 2019 has bought it some breathing room](https://www.theverge.com/2020/1/29/21113987/tesla-q4-2019-earnings-results-profit-revenue-model-3?utm_medium=email&utm_campaign=1-30-20%20fantastical%20app%20store&utm_content=1-30-20%20fantastical%20app%20store+CID_365ad1ea8bbafff7707ccab2db1036e7&utm_source=cm_email&utm_term=Teslas%20record%202019%20has%20bought%20it%20some%20breathing%20room) (The Verge)
   * [We’re about to enter a world where Tesla is the cheaper electric car](https://qz.com/1793634/tesla-is-becoming-the-cheaper-electric-car/) (Quartz)
@@ -2941,7 +2941,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 29 2020**
+**Wednesday, January 29 2020 - Apple Has More Active Devices Than Microsoft**
 
   * [Apple shares rise after company reports better-than-expected revenue of $91.8B](https://techcrunch.com/2020/01/28/apple-shares-rise-after-company-reports-better-than-expected-revenue-of-91-8b/) (TechCrunch)
   * [Apple could see some impact from coronavirus in China, Cook says](https://www.cnet.com/news/apple-could-see-some-impact-from-coronavirus-in-china-cook-says/?UniqueID=6CCD9F68-4221-11EA-9B0F-92C8C28169F1&TheTime=2020-01-28T22%3A56%3A31&PostType=link) (CNET)
@@ -2954,7 +2954,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 28 2020**
+**Tuesday, January 28 2020 - Gruber's iPad Disappointment**
 
   * [UK Huawei decision appears to avert row with US](https://www.theguardian.com/technology/2020/jan/28/boris-johnson-gives-green-light-for-huawei-5g-infrastructure-role) (The Guardian)
   * [As Virus Spreads, Anger Floods Chinese Social Media](https://www.nytimes.com/2020/01/27/technology/china-coronavirus-censorship-social-media.html) (NYTimes)
@@ -2967,7 +2967,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 27 2020**
+**Monday, January 27 2020 - The AI That Spotted the Wuhan Virus Early**
 
   * [Vine reboot Byte officially launches](https://techcrunch.com/2020/01/24/vine-byte/) (TechCrunch)
   * [Motorola on the Razr’s folding screen: ‘bumps and lumps are normal’](https://www.theverge.com/2020/1/26/21082520/motorola-razr-presale-screen-bump-lumps-water-protector-caution) (The Verge)
@@ -2980,7 +2980,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 24 2020**
+**Friday, January 24 2020 - RIP Clayton Christensen**
 
   * [Clayton Christensen, guru of disruptive innovation and Latter-day Saint leader, dies at 67](https://www.deseret.com/faith/2020/1/24/21079323/clayton-christensen-harvard-disruptive-innovation-lds-mormon) (DesertNews)
   * [Exclusive: Quick Share is Samsung’s alternative to AirDrop for Galaxy phones](https://www.xda-developers.com/quick-share-samsung-alternative-airdrop-galaxy-phones/) (XDADevelopers)
@@ -2992,7 +2992,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 23 2020**
+**Thursday, January 23 2020 - Security Features As A Feature**
 
   * [Samsung's new foldable phone already sounds way better than the Galaxy Fold](https://mashable.com/article/samsung-galaxy-z-flip-rumors/) (Mashable)
   * [New leak says the Galaxy S20's display will run at 60Hz by default](https://www.androidcentral.com/new-leak-says-galaxy-s20s-display-will-run-60hz-default) (Android Central)
@@ -3004,7 +3004,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 22 2020**
+**Wednesday, January 22 2020 - The Bezos Phone Hacking Thing**
 
   * [Jeff Bezos hack: Amazon boss's phone 'hacked by Saudi crown prince'](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) (The Guardian)
   * [Saudi’s MBS implicated in hacking of Jeff Bezos’s phone](https://www.ft.com/content/83dcdf74-3c9b-11ea-a01a-bae547046735) (Financial Times)
@@ -3017,7 +3017,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 21 2020**
+**Tuesday, January 21 2020 - Why Didn't Apple Encrypt iCloud Backups?**
 
   * [Exclusive: Apple dropped plan for encrypting backups after FBI complained - sources](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT) (Reuters)
   * [Uber Tests Feature Allowing Some California Drivers to Set Fares](https://www.wsj.com/articles/uber-is-testing-a-feature-that-lets-some-california-drivers-set-fares-11579600801) (WSJ)
@@ -3031,7 +3031,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 17 2020**
+**Friday, January 17 2020 - Jack Dorsey Asked Elon Musk How To Fix Twitter**
 
   * [Facebook Backs Off Controversial Plan to Sell Ads in WhatsApp](https://www.wsj.com/articles/whatsapp-backs-off-controversial-plan-to-sell-ads-11579207682) (WSJ)
   * [NBC’s Peacock streaming service will launch on July 15th with three different price tiers](https://www.theverge.com/2020/1/16/21068607/nbc-peacock-streaming-service-price-launch-date-ads-universal-comcast-office-harry-potter) (The Verge)
@@ -3041,7 +3041,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 16 2020**
+**Thursday, January 16 2020 - Apple Acquires Xnor.ai**
 
   * [Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range](https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/) (GeekWire)
   * [XNOR.ai frees AI from the prison of the supercomputer](https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/) (TechCrunch)
@@ -3054,7 +3054,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 15 2020**
+**Wednesday, January 15 2020 - @Jack On An Edit Button: ‘We’ll probably never do it’**
 
   * [Exclusive: Leaked Samsung Galaxy S20+ Hands-on confirms 120Hz display, ultrasonic under-display fingerprint scanner, and no headphone jack](https://www.xda-developers.com/exclusive-leaked-samsung-galaxy-s20-hands-on-confirms-120hz-display-ultrasonic-under-display-fingerprint-scanner-and-no-headphone-jack/) (XDAdevelopers)
   * [You can now use iPhones as Google security keys for 2FA](https://ww.9to5google.com/2020/01/14/iphone-google-security-key/) (9to5Google)
@@ -3067,7 +3067,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 14 2020**
+**Tuesday, January 14 2020 - The End of the Windows 7 Era**
 
   * [Apple Said It Is Helping In The Pensacola Shooting Investigation, But It Won't Unlock The Shooter's iPhones](https://www.buzzfeednews.com/article/scottlucas/william-barr-apple-request-unlock-iphones) (Buzzfeed News)
   * [Visa to acquire Plaid, the fintech powering Venmo and other banking apps, in $5.3 billion deal](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) (CNBC)
@@ -3081,7 +3081,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 13 2020**
+**Monday, January 13 2020 - Get Hyped For the Galaxy S20 Lineup!**
 
   * [Exclusive: This is the Samsung Galaxy S20+](https://www.xda-developers.com/exclusive-samsung-galaxy-s20-5g-live-images/) (XDAdevelopers)
   * [Cookie consent tools are being used to undermine EU privacy rules, study suggests](https://techcrunch.com/2020/01/10/cookie-consent-tools-are-being-used-to-undermine-eu-privacy-rules-study-suggests/) (TechCrunch)
@@ -3091,7 +3091,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 10 2020**
+**Friday, January 10 2020 - I Flip-Flop on Quibi**
 
   * [SoftBank-Backed Oyo Firing Thousands Across China and India](https://www.bloomberg.com/news/articles/2020-01-10/softbank-backed-oyo-is-firing-thousands-across-china-and-india) (Bloomberg)
   * [E-scooter startup Lime shuts in 12 markets, lays off around 100](https://www.axios.com/scooter-startup-lime-shutters-in-12-markets-aims-for-profits-in-2020-d25d44e4-c0f1-4713-9a89-868f4da40e03.html) (Axios)
@@ -3102,7 +3102,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 09 2020**
+**Thursday, January 09 2020 - Thu. 01/09- The Phantom Title (Explained at the End of the 01/10 Episode)**
 
   * [Twitter will put options to limit replies directly on the compose screen](https://www.theverge.com/2020/1/8/21056856/twitter-replies-limit-option-compose-screen-beta-app-features-new-ces-2020) (The Verge)
   * [Firefox gets patch for critical 0-day that’s being actively exploited](https://arstechnica.com/information-technology/2020/01/firefox-gets-patch-for-critical-zeroday-thats-being-actively-exploited/) (Ars Technica)
@@ -3114,7 +3114,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 08 2020**
+**Wednesday, January 08 2020 - CES Day 3**
 
   * [Don’t Tilt Scales Against Trump, Facebook Executive Warns](https://www.nytimes.com/2020/01/07/technology/facebook-trump-2020.html) (NYTimes)
   * [CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU](https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/) (CNET)
@@ -3127,7 +3127,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 07 2020**
+**Tuesday, January 07 2020 - CES Day 2**
 
   * [Sonos, Squeezed by the Tech Giants, Sues Google](https://www.nytimes.com/2020/01/07/technology/sonos-sues-google.html) (NYTimes)
   * [Enforcing Against Manipulated Media](https://about.fb.com/news/2020/01/enforcing-against-manipulated-media/) (Facebook Newsroom)
@@ -3142,7 +3142,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 06 2020**
+**Monday, January 06 2020 - CES Day 1**
 
   * [Fire TV Edition expands to more soundbars, plus cars, cables boxes and more](https://techcrunch.com/2020/01/06/fire-tv-edition-expands-to-more-soundbars-plus-cars-cable-boxes-and-more/) (TechCrunch)
   * [Roku TV adds 15 more brand partners plus a new 'Roku TV Ready' program](https://techcrunch.com/2020/01/06/roku-tv-adds-15-more-brand-partners-plus-a-new-roku-tv-ready-program/) (TechCrunch)
@@ -3156,7 +3156,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 03 2020**
+**Friday, January 03 2020 - What To Expect From CES**
 
   * [A.I. Is Learning to Read Mammograms](https://www.nytimes.com/2020/01/01/health/breast-cancer-mammogram-artificial-intelligence.html) (NYTimes)
   * [Apple Deal Returns Former HBO Boss Richard Plepler to Spotlight](https://www.nytimes.com/2020/01/02/business/media/richard-plepler-apple.html) (NYTimes)
@@ -3166,7 +3166,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 02 2020**
+**Thursday, January 02 2020 - A Grand Unified Theory of the Google Civil War**
 
   * [Dell’s latest XPS 13 has a new design with a bigger display and Ice Lake chips](https://www.theverge.com/circuitbreaker/2020/1/2/21046472/dell-xps-13-design-ice-lake-intel-keyboard-trackpad-display-windows-ces-2020) (The Verge)
   * [Dell debuts 5G-ready Latitude 9510 laptop, adds iOS mirroring to PCs](https://venturebeat.com/2020/01/02/dell-debuts-5g-ready-latitude-9510-laptop-adds-ios-mirroring-to-pcs/) (VentureBeat)

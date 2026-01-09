@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Wednesday, December 29 2021**
+**Wednesday, December 29 2021 - Wed. 12/29 – Has Your LastPass Password Been Compromised?**
 
   * [LastPass users warned their master passwords are compromised](https://www.bleepingcomputer.com/news/security/lastpass-users-warned-their-master-passwords-are-compromised/) (BleepingComputer)
   * [Apple Aims to Prevent Defections to Meta With Rare $180,000 Bonuses for Top Talent](https://www.bloomberg.com/news/articles/2021-12-28/apple-pays-unusual-180-000-bonuses-to-retain-engineering-talent?sref=Szq5ylDR) (Bloomberg)
@@ -12,7 +12,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 28 2021**
+**Tuesday, December 28 2021 - Tue. 12/28 – China Is Mad At Elon’s Satellites**
 
   * [China berates US after ‘close encounters’ with Elon Musk satellites](https://www.theguardian.com/science/2021/dec/28/china-complains-to-un-after-space-station-is-forced-to-move-to-avoid-starlink-satellites) (The Guardian)
   * [Xiaomi 12 and 12 Pro debut with Snapdragon 8 Gen 1 chipsets, Xiaomi 12X comes with SD870](https://www.gsmarena.com/xiaomi_12_and_12_pro_debut_with_snapdragon_8_gen_1_chipsets_xiaomi_12x_comes_with_sd870-news-52456.php) (GSMArena)
@@ -23,7 +23,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 27 2021**
+**Monday, December 27 2021 - Mon. 12/27 – Gibraltar To Become The Rock Of Crypto?**
 
   * [‘Blockchain Rock’: Gibraltar moves to become world’s first cryptocurrency hub](https://www.theguardian.com/technology/2021/dec/27/blockchain-rock-gibraltar-moves-to-become-worlds-first-cryptocurrency-hub) (The Guardian)
   * [Amazon’s Alexa Stalled With Users as Interest Faded, Documents Show](https://www.bloomberg.com/news/articles/2021-12-22/amazon-s-voice-controlled-smart-speaker-alexa-can-t-hold-customer-interest-docs?sref=Szq5ylDR) (Bloomberg)
@@ -33,14 +33,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 23 2021**
+**Thursday, December 23 2021 - (TWTR SPC) The Top 10 Tech Stories Of 2021 (And The Spatial Pivot)**
 
   * [**Dataiku.com**](https://www.dataiku.com/)
   * [**FindYourFidelity.com**](https://findyourfidelity.com/)
 
 
 
-**Wednesday, December 22 2021**
+**Wednesday, December 22 2021 - Wed. 12/22 – We Still Doing CES?**
 
   * [Amazon, Meta Scrap CES Plans in Las Vegas After Covid Surge](https://www.bloomberg.com/news/articles/2021-12-21/meta-twitter-scrap-plans-for-ces-in-las-vegas-after-covid-surge?sref=sZAFdZwV) (Bloomberg)
   * [In 2021, the Internet went for TikTok, space and beyond](https://blog.cloudflare.com/popular-domains-year-in-review-2021/) (CloudFlare Blog)
@@ -51,7 +51,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 21 2021**
+**Tuesday, December 21 2021 - @Jack And The Tech (Cold) Civil War Over Web3**
 
   * [Jack Dorsey Stirs Uproar by Dismissing Web3 as a Venture Capitalists’ Plaything](https://www.bloomberg.com/news/articles/2021-12-21/jack-dorsey-stirs-uproar-by-dismissing-web3-as-a-vc-plaything?sref=sZAFdZwV) (Bloomberg)
   * [The New Get-Rich-Faster Job in Silicon Valley: Crypto Start-Ups](https://www.nytimes.com/2021/12/20/technology/silicon-valley-cryptocurrency-start-ups.html) (NYTimes)
@@ -61,7 +61,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 20 2021**
+**Monday, December 20 2021 - Mon. 12/20 – 5G To Ground Airlines?**
 
   * [Airlines Brace for Flight Restrictions in 5G Standoff](https://www.wsj.com/articles/airlines-brace-for-flight-restrictions-in-5g-standoff-11639929603?mod=djemalertNEWS) (WSJ)
   * [Semi CapEx to Hit $152 Billion in 2021](https://www.anandtech.com/show/17122/semi-capex-to-hit-152-billion-in-2021-as-market-on-track-for-2-trillion-by-2035) (AnandTech)
@@ -70,7 +70,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 17 2021**
+**Friday, December 17 2021 - Fri. 12/17 – Apple Really Is Going To Do The Whole Widget, Aren’t They?**
 
   * [Apple Builds New Team in Southern California to Bring More Wireless Chips In-House](https://www.bloomberg.com/news/articles/2021-12-16/apple-builds-team-in-new-office-to-bring-wireless-chips-in-house?sref=Szq5ylDR) (Bloomberg)
   * [Biden administration concerned about U.S. investments in Chinese tech companies with military or surveillance ties](https://www.washingtonpost.com/national-security/us-investments-china-biden/2021/12/15/835876a0-5772-11ec-a808-3197a22b19fa_story.html) (Washington Post)
@@ -80,7 +80,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 16 2021**
+**Thursday, December 16 2021 - Thu. 12/16 – Reddit Files For An IPO**
 
   * [Reddit Files Confidentially for IPO](https://www.wsj.com/articles/reddit-files-paperwork-for-initial-public-offering-11639625013?mod=djemalertNEWS) (WSJ)
   * [Apple Scraps Office-Return Deadline Without Setting New Date](https://www.bloomberg.com/news/articles/2021-12-15/apple-delays-return-to-office-until-date-yet-to-be-determined?sref=Szq5ylDR) (Bloomberg)
@@ -91,7 +91,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 15 2021**
+**Wednesday, December 15 2021 - Wed. 12/15 – Google To Adopt Vaccine Mandate?**
 
   * [Google tells employees they’ll lose pay and will eventually be fired if they don’t follow vaccination rules](https://www.cnbc.com/2021/12/14/google-employees-to-lose-pay-if-dont-comply-with-vaccination-policy.html) (CNBC)
   * [Oppo’s Find N is an impressive first folding phone](https://www.theverge.com/2021/12/15/22837149/oppo-find-n-hands-on-announcement-specs-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -102,7 +102,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 14 2021**
+**Tuesday, December 14 2021 - Tue. 12/14 – Is Log4j The Worst Bug Of All Time?**
 
   * [CISA warns 'most serious' Log4j vulnerability likely to affect hundreds of millions of devices](https://www.cyberscoop.com/log4j-cisa-easterly-most-serious/) (CyberScoop)
   * [The numbers behind a cyber pandemic – detailed dive](https://blog.checkpoint.com/2021/12/13/the-numbers-behind-a-cyber-pandemic-detailed-dive/) (Check Point)
@@ -114,7 +114,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 13 2021**
+**Monday, December 13 2021 - Mon. 12/13 – Why the Log4j Bug Is Such A Big Deal**
 
   * [Zero-day in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/) (ArsTechnica)
   * [The Internet’s biggest players are all affected by critical Log4Shell 0-day](https://arstechnica.com/information-technology/2021/12/the-critical-log4shell-zero-day-affects-a-whos-who-of-big-cloud-services/) (ArsTechnica)
@@ -125,14 +125,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, December 11 2021**
+**Saturday, December 11 2021 - (Bonus) a16z's Andrew Chen On The Cold Start Problem**
 
   * [**RadPowerBikes.com**](https://radpowerbikes.com/)
   * [**AltoIra.com/techmeme**](https://altoira.com/techmeme)
 
 
 
-**Friday, December 10 2021**
+**Friday, December 10 2021 - Fri. 12/10 – Google Play Games Coming To Windows**
 
   * [Google is bringing Android games to Windows in 2022](https://www.theverge.com/2021/12/9/22827037/google-android-games-windows-pc-google-play-games?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [MICROSOFT QUIETLY TOLD APPLE IT WAS WILLING TO TURN BIG XBOX-EXCLUSIVE GAMES INTO IPHONE APPS](https://www.theverge.com/2021/12/9/22826297/microsoft-xbox-xcloud-streaming-exclusives-iphone-ipad-gamepas?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -141,7 +141,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 09 2021**
+**Thursday, December 09 2021 - Thu. 12/09 – Instagram To Return To A Chronological Feed**
 
   * [Instagram Chief and Lawmakers Clash Over App’s Real World Harms](https://www.bloomberg.com/news/articles/2021-12-08/instagram-chief-says-tech-companies-must-earn-liability-shield?sref=Szq5ylDR) (Bloomberg)
   * [Instagram will bring back a chronological feed in 2022](https://www.engadget.com/instagram-will-bring-back-a-chronological-feed-in-2022-211232214.html) (Engadget)
@@ -155,7 +155,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 08 2021**
+**Wednesday, December 08 2021 - Wed. 12/08 – AWS Outage Is Why You Didn’t Get Your Package**
 
   * [An Amazon server outage caused problems for Alexa, Ring, Disney Plus, and deliveries](https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [AWS Outage Grinds Amazon Warehouses and Deliveries to a Halt](https://www.vice.com/en/article/qjbkbm/aws-outage-throws-amazon-into-chaos) (Motherboard)
@@ -169,7 +169,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 07 2021**
+**Tuesday, December 07 2021 - Tue. 12/07 – Tim Cook’s Secret China Deal?**
 
   * [Facing Hostile Chinese Authorities, Apple CEO Signed $275 Billion Deal With Them](https://www.theinformation.com/articles/facing-hostile-chinese-authorities-apple-ceo-signed-275-billion-deal-with-them?rc=64g9cw) (The Information)
   * [Samsung's mobile and consumer electronic divisions merge into one in exec reshuffle](https://www.zdnet.com/article/samsungs-mobile-and-consumer-electronic-divisions-merge-into-one-in-exec-reshuffle/) (ZDNet)
@@ -181,7 +181,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 06 2021**
+**Monday, December 06 2021 - Mon. 12/06 – DoorDash Tries Something Radical: Employees**
 
   * [DoorDash breaks gig worker model to hire couriers as employees in New York trial](https://www.ft.com/content/663359a2-f67a-4b86-938e-734145e452b0) (Financial Times)
   * [Apple Attempts to Stop Developers Promoting Alternative Payment Options for In-App Purchases in Russia](https://www.macrumors.com/2021/12/06/apple-to-stop-promoting-payment-options-in-russia/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -192,14 +192,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, December 04 2021**
+**Saturday, December 04 2021 - (TWTR SPC) Jack Dorsey, Halo Infinite And Foldable Phones**
 
   * [**AltoIra.com/techmeme**](https://www.altoira.com/techmeme)
   * [**RadPowerBikes.com**](https://www.radpowerbikes.com/)
 
 
 
-**Friday, December 03 2021**
+**Friday, December 03 2021 - Fri. 12/03 – Acquisition Deathwatch: Nvidia/Arm**
 
   * [FTC Challenges Nvidia’s Deal for Arm Holdings](https://www.wsj.com/articles/ftc-challenges-nvidias-40-billion-deal-for-arm-11638476876?mod=djemalertNEWS) (WSJ)
   * [EXCLUSIVE: Google readies 'Pixel Watch' for 2022 launch as it renews ambitions in wearable tech](https://www.businessinsider.com/google-pixel-watch-rohan-android-smartwatch-development-fitbit-launch-2021-12) (Insider)
@@ -208,7 +208,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 02 2021**
+**Thursday, December 02 2021 - Thu. 12/02 – Square Changes Its Name To Block**
 
   * [Jack Dorsey’s Square changes corporate name to Block](https://www.cnbc.com/2021/12/01/square-changes-corporate-name-to-block-.html) (CNBC)
   * [Apple Tells Suppliers iPhone Demand Has Slowed as Holidays Near](https://www.bloomberg.com/news/articles/2021-12-02/apple-tells-suppliers-iphone-demand-has-slowed-as-holidays-near?sref=Szq5ylDR) (Bloomberg)
@@ -220,7 +220,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 01 2021**
+**Wednesday, December 01 2021 - Wed. 12/01 – Twitter Bans “Private” Sharing**
 
   * [Twitter bans sharing 'private' images and videos without consent](https://www.engadget.com/twitter-private-photos-videos-personal-information-privacy-145228097.html?guccounter=1) (Engadget)
   * [Meta’s David Marcus, Creator of Embattled Diem Project, to Leave Company](https://www.bloomberg.com/news/articles/2021-11-30/meta-fb-executive-and-diem-co-creator-david-marcus-is-leaving-company?sref=Szq5ylDR) (Bloomberg)
@@ -232,7 +232,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 30 2021**
+**Tuesday, November 30 2021 - Tue. 11/30 – Meta Might Do The Giphy Deal Anyway**
 
   * [Meta ordered to sell Giphy by UK regulator](https://www.theverge.com/2021/11/30/22740272/facebook-giphy-acquisition-competition-and-markets-authority-uk-regulator?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Finland Battles ‘Exceptional’ Malware Attack Spread by Phones](https://www.bloomberg.com/news/articles/2021-11-30/finland-battles-exceptional-malware-attack-spread-by-phones?sref=Szq5ylDR) (Bloomberg)
@@ -243,7 +243,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 29 2021**
+**Monday, November 29 2021 - Mon. 11/29 – Jack Dorsey To Leave Twitter**
 
   * [Twitter CTO Parag Agrawal will replace Jack Dorsey as CEO](https://www.cnbc.com/2021/11/29/twitter-ceo-jack-dorsey-is-expected-to-step-down-sources-say.html) (CNBC)
   * [Twitter CTO Parag Agrawal replaces Jack Dorsey as CEO](https://www.theverge.com/2021/11/29/22807651/jack-dorsey-steps-down-twitter-ceo-parag-agrawal-replacement?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
@@ -257,7 +257,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 24 2021**
+**Wednesday, November 24 2021 - (TWTR SPC) That Feeling When You Almost Buy The Constitution**
 
   * [**FindYourFidelity.com**](https://findyourfidelity.com/)
   * [**ARM Viewpoints Podcast**](https://podcasts.apple.com/gb/podcast/the-arm-podcast/id1528983070)
@@ -265,7 +265,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 23 2021**
+**Tuesday, November 23 2021 - Tue. 11/23 – How To Automate Your(self out of a?) Job**
 
   * [Amazon and Apple handed $225 million in Italian antitrust fines](https://www.reuters.com/technology/italys-antitrust-fines-amazon-apple-more-than-200-mln-euros-alleged-collusion-2021-11-23/) (Reuters)
   * [Samsung to Choose Taylor, Texas, for $17 Billion Chip-Making Factory](https://www.wsj.com/articles/samsung-to-choose-taylor-texas-for-17-billion-chipmaking-factory-11637627613?mod=djemalertNEWS) (WSJ)
@@ -276,7 +276,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 22 2021**
+**Monday, November 22 2021 - Mon. 11/22 – Adele Says: Spotify, No Shuffling!**
 
   * [Adele gets Spotify to take shuffle button off all album pages](https://www.bbc.com/news/entertainment-arts-59365019) (BBC News)
   * [Meta delays encrypted messages on Facebook and Instagram to 2023](https://www.theguardian.com/technology/2021/nov/21/meta-delays-encrypted-messages-on-facebook-and-instagram-to-2023) (The Guardian)
@@ -289,7 +289,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 19 2021**
+**Friday, November 19 2021 - Fri. 11/19 – ConstitutionDAO Lost The Auction For The Constitution.**
 
   * [Crypto Investors Lose Out In $43.2 Million Sale Of Rare Copy Of U.S. Constitution](https://www.forbes.com/sites/abrambrown/2021/11/18/constitution-dao-crypto-ether-constitutional-sothebys-sale-auction/) (Forbes)
   * [Apple Accelerates Work on Car Project, Aiming for Fully Autonomous Vehicle](https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=Szq5ylDR) (Bloomberg)
@@ -298,7 +298,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 18 2021**
+**Thursday, November 18 2021 - Thu. 11/18 – So… Who Actually “Takes Delivery” Of The Constitution?**
 
   * [Paytm falls 27% on first trading day after India’s largest IPO](https://techcrunch.com/2021/11/17/india-paytm-makes-market-debut/) (TechCrunch)
   * [Nvidia easily beats earnings expectations on strong gaming and data center sales](https://finance.yahoo.com/news/nvidia-q-3-earnings-2022-203256956.html?guccounter=1) (Yahoo!Finance)
@@ -310,7 +310,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 17 2021**
+**Wednesday, November 17 2021 - Wed. 11/17 – Apple Will Let You Do At-Home iPhone Repairs, Yourself**
 
   * [Beginning next year, Apple will send you parts and tools to fix your iPhone and Mac at home](https://techcrunch.com/2021/11/17/beginning-next-year-apple-will-mail-you-parts-and-tools-to-fix-your-iphone-and-mac-at-home/?tpcc=tcplustwitter) (TechCrunch)
   * [Activision CEO Bobby Kotick Knew for Years About Sexual-Misconduct Allegations at Videogame Giant](https://www.wsj.com/articles/activision-videogames-bobby-kotick-sexual-misconduct-allegations-11637075680?mod=djemalertNEWS) (WSJ)
@@ -322,7 +322,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 16 2021**
+**Tuesday, November 16 2021 - Tue. 11/16 – The War Between The Furries And The NFTs**
 
   * [TWITTER MAKES BIG CHANGES FOR DEVS AS IT EYES DECENTRALIZED FUTURE](https://www.theverge.com/2021/11/15/22779149/twitter-api-version-2-official-decentralized?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Nvidia’s $40 billion takeover of chip designer Arm faces a UK national security probe](https://www.cnbc.com/2021/11/16/nvidias-arm-takeover-faces-uk-national-security-inquiry.html) (CNBC)
@@ -332,7 +332,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 15 2021**
+**Monday, November 15 2021 - Mon. 11/15 – Why Apple Buying Google Ads Might Be Weird**
 
   * [Apple Quietly Buying Ads Via Google For High-Value Subscription Apps To Capture App Publisher Revenue](https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/) (Fortune)
   * [Samsung releases Android 12-powered One UI 4 for Galaxy S21 phones](https://www.theverge.com/2021/11/15/22782772/samsung-one-ui-4-android-12-galaxy-s21-plus-ultra-release-date-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -344,14 +344,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, November 13 2021**
+**Saturday, November 13 2021 - (TWTR SPC) How To Build A Metaverse**
 
   * [**FirstRepublic.com**](https://www.firstrepublic.com/)
   * [**Streak.com/techmeme**](https://www.streak.com/techmeme)
 
 
 
-**Friday, November 12 2021**
+**Friday, November 12 2021 - Fri. 11/12 – MoviePass Is Coming Back**
 
   * [Google Caught Hackers Using a Mac Zero-Day Against Hong Kong Users](https://www.vice.com/en/article/93bw8y/google-caught-hackers-using-a-mac-zero-day-against-hong-kong-users) (Vice/Motherboard)
   * [Amazon will let you easily share clips from its Prime Video content](https://www.theverge.com/2021/11/11/22776572/amazon-prime-video-share-clip-social-media-iphone-ipad?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -360,7 +360,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 11 2021**
+**Thursday, November 11 2021 - Thu. 11/11 – Do Gamers Not Like Crypto?**
 
   * [Discord pushes pause on exploring crypto and NFTs amidst user backlash](https://techcrunch.com/2021/11/10/discord-nfts-crypto-jason-citron/) (TechCrunch)
   * [Apple launches Apple Business Essentials: Device management, storage, onsite repairs, and more for one monthly price](https://9to5mac.com/2021/11/10/apple-business-essentials/) (9to5Mac)
@@ -371,7 +371,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 10 2021**
+**Wednesday, November 10 2021 - Wed. 11/10 – Big Tech Smacked Down In Court**
 
   * [Judge orders Apple to allow external payment options for App Store by December 9th, denying stay](https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Google Loses Appeal of $2.8 Billion EU Shopping-Ads Fine](https://www.wsj.com/articles/google-loses-eu-shopping-ads-case-appeal-11636539480?mod=tech_lead_pos1) (WSJ)
@@ -382,7 +382,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 09 2021**
+**Tuesday, November 09 2021 - Tue. 11/09 – Robinhood Hacked By Unknown Bandits**
 
   * [Robinhood says millions of customer names and email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/) (TechCrunch)
   * [US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack](https://www.cnn.com/2021/11/08/politics/revil-ransomware-attack-charges/) (CNN)
@@ -394,7 +394,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 08 2021**
+**Monday, November 08 2021 - Mon. 11/08 – McAfee To Go Private**
 
   * [McAfee to Be Taken Private in $14 Billion Deal Including Debt](https://www.bloomberg.com/news/articles/2021-11-08/mcafee-to-be-taken-private-by-advent-permira-led-pe-group?sref=Szq5ylDR) (Bloomberg)
   * [House Sends Infrastructure Bill With Crypto Tax Provision to US President](https://www.coindesk.com/business/2021/11/06/house-sends-infrastructure-bill-with-crypto-tax-provision-to-us-president/) (CoinDesk)
@@ -405,7 +405,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 05 2021**
+**Friday, November 05 2021 - Fri. 11/05 – Meta To Open Metaverse Retail Stores?**
 
   * [To Build the Metaverse, Meta First Wants to Build Stores](https://www.nytimes.com/2021/11/05/technology/facebook-stores-meta-metaverse.html) (NYTimes)
   * [Apple’s Road Map for Mac Chips Shows Likely Advantage Over Intel](https://www.theinformation.com/articles/apples-road-map-for-mac-chips-shows-likely-advantage-over-intel?utm_source=sg&utm_medium=email&utm_campaign=article_email&utm_content=article-6530&rc=64g9cw) (The Information)
@@ -413,7 +413,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 04 2021**
+**Thursday, November 04 2021 - Thu. 11/04 – Instagram Can Post To Twitter Again**
 
   * [Instagram brings back Twitter Card preview support for posts](https://techcrunch.com/2021/11/03/instagram-brings-back-twitter-card-preview-support-for-posts/) (TechCrunch)
   * [Facebook skirts Apple’s App Store fees with custom subscription links for creators](https://www.theverge.com/2021/11/3/22761620/facebook-apple-app-store-fees-subscription-links-creators?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -424,7 +424,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 03 2021**
+**Wednesday, November 03 2021 - Wed. 11/03 – Meta And Zillow Shut It Down**
 
   * [Facebook, Citing Societal Concerns, Plans to Shut Down Facial Recognition System](https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html) (NYTimes)
   * [Zillow to shutter home buying business and lay off 2,000 employees as its big real estate bet falters](https://www.geekwire.com/2021/zillow-shutter-home-buying-business-lay-off-2k-employees-big-real-estate-bet-falters/) (GeekWire)
@@ -435,7 +435,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 02 2021**
+**Tuesday, November 02 2021 - Tue. 11/02 – Apple Sacrifices iPad Production To Protect The iPhone**
 
   * [Apple trims iPad production to feed chips to iPhone 13](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-trims-iPad-production-to-feed-chips-to-iPhone-13) (Nikkei Asia)
   * [Nintendo to make 20% fewer Switch consoles due to chip crunch](https://asia.nikkei.com/Business/Media-Entertainment/Nintendo-to-make-20-fewer-Switch-consoles-due-to-chip-crunch) (Nikkei Asia)
@@ -447,7 +447,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 01 2021**
+**Monday, November 01 2021 - Mon. 11/01 – How Much Money Is Apple’s ATT Costing Snap, Facebook, Et Al?**
 
   * [Snap, Facebook, Twitter and YouTube lose nearly $10bn after iPhone privacy changes](https://www.ft.com/content/4c19e387-ee1a-41d8-8dd2-bc6c302ee58e) (Financial Times)
   * [The Chip Shortage Slams Into Apple at the Worst Possible Time](https://www.bloomberg.com/news/newsletters/2021-10-31/why-are-apple-aapl-iphone-13-watch-series-7-ipads-taking-so-long-to-arrive-kvfjgjkx?sref=Szq5ylDR) (Bloomberg)
@@ -459,7 +459,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 29 2021**
+**Friday, October 29 2021 - Fri. 10/29 – Signs Of A Meta Watch**
 
   * [Leaked Photo Shows Meta’s Planned Competitor to Apple Watch](https://www.bloomberg.com/news/articles/2021-10-28/leaked-photo-shows-meta-s-planned-competitor-to-apple-watch?sref=Szq5ylDR) (Bloomberg)
   * [Meta](https://stratechery.com/2021/meta/) (Stratechery)
@@ -468,7 +468,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 28 2021**
+**Thursday, October 28 2021 - Thu. 10/28 – Facebook’s New Name Is Meta**
 
   * [Facebook unveils Horizon Home social VR, Messenger VR calls, and fitness VR on road to metaverse](https://venturebeat.com/2021/10/28/facebook-unveils-horizon-home-social-vr-messenger-vr-calls-and-fitness-vr-on-road-to-metaverse/) (VentureBeat)
   * [Slack is coming to the Oculus Quest](https://techcrunch.com/2021/10/28/slack-is-coming-to-the-oculus-quest/?tpcc=tcplustwitter) (TechCrunch)
@@ -480,7 +480,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 27 2021**
+**Wednesday, October 27 2021 - Wed. 10/27 – Is Robinhood The Company Doge Made?**
 
   * [Microsoft beats revenue expectations, reporting 22% growth](https://www.cnbc.com/2021/10/26/microsoft-msft-earnings-q1-2022.html) (CNBC)
   * [Robinhood shares tank as revenue falls way short of expectations on lighter crypto trading](https://www.cnbc.com/2021/10/26/robinhood-third-quarter-earnings-2021.html) (CNBC)
@@ -492,7 +492,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 26 2021**
+**Tuesday, October 26 2021 - Tue. 10/26 – Facebook Pivots To Youth**
 
   * [Facebook delivers light Q4 revenue guidance, mixed Q3 results](https://www.zdnet.com/article/facebook-gives-light-q4-revenue-guidance-after-mixed-q3-results/) (ZDNet)
   * [Facebook says it’s refocusing company on ‘serving young adults’](https://www.theverge.com/2021/10/25/22745622/facebook-young-adults-refocusing-teams?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -506,7 +506,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 25 2021**
+**Monday, October 25 2021 - Mon. 10/25 – Everybody Dumps (Reports) On Facebook**
 
   * [Here are all the Facebook Papers stories](https://www.protocol.com/facebook-papers) (Protocol)
   * [The case against Mark Zuckerberg: Insiders say Facebook’s CEO chose growth over safety](https://www.washingtonpost.com/technology/2021/10/25/mark-zuckerberg-facebook-whistleblower/) (Washington Post)
@@ -518,13 +518,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, October 23 2021**
+**Saturday, October 23 2021 - (TWTR SPC) Metaverse? Name Change? Facebook Wither?**
 
   * [**VPLS.com/goit**](https://vpls.com/goit)
 
 
 
-**Friday, October 22 2021**
+**Friday, October 22 2021 - Fri. 10/22 – Is Apple’s ATT Bite As Bad As People Feared After All?**
 
   * [Snap plummets 22% after missing on revenue expectations](https://www.cnbc.com/2021/10/21/snap-earnings-q3-2021.html) (CNBC)
   * [Google lowers Play Store fees for subscriptions and music streaming apps](https://www.theverge.com/2021/10/21/22738370/google-play-cut-music-streaming-apps-10-percent-regulation?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -534,7 +534,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 21 2021**
+**Thursday, October 21 2021 - Thu. 10/21 – PayPal To Buy Pinterest? Why?**
 
   * [PayPal Is Exploring a Purchase of Pinterest](https://www.bloomberg.com/news/articles/2021-10-20/paypal-said-to-explore-purchase-of-social-media-firm-pinterest?sref=Szq5ylDR) (Bloomberg)
   * [Plaid Pushes Into Payments Business After Scuttled Visa Deal](https://www.wsj.com/articles/plaid-pushes-into-payments-business-after-scuttled-visa-deal-11634808600?mod=djemalertNEWS) (WSJ)
@@ -548,7 +548,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 20 2021**
+**Wednesday, October 20 2021 - Wed. 10/20 – Facebook To Change Its Name?**
 
   * [Facebook is planning to rebrand the company with a new name](https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Galaxy Watch 4 gets its first major update w/ Fall Detection, new watchfaces, more](https://9to5google.com/2021/10/20/galaxy-watch-4-fall-detection-update/) (9to5Google)
@@ -560,7 +560,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 19 2021**
+**Tuesday, October 19 2021 - Tue. 10/19 – The Google Pixel Event And The Pixel 6**
 
   * [Android 12 is now rolling out to Pixel phones](https://www.engadget.com/google-android-12-pixel-3-rollout-170031989.html) (Engadget)
   * [GOOGLE PIXEL 6 AND 6 PRO HAVE BIG SCREENS, BIG AMBITIONS, AND SMALL PRICES](https://www.theverge.com/22731034/google-pixel-6-pro-price-specs-features-release-date-hands-on?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -574,7 +574,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 18 2021**
+**Monday, October 18 2021 - Mon. 10/18 – Apple’s MacBook Event**
 
   * [Apple unveils next-generation M1 Pro and M1 Max chips for new Macs](https://9to5mac.com/2021/10/18/apple-unveils-next-generation-m1-pro-and-m1-max-chips-for-new-macs/) (9to5Mac)
   * [Apple announces 14-inch and 16-inch MacBook Pro: new design, display notch, 120Hz, M1 Pro chip, HDMI, MagSafe, more](https://9to5mac.com/2021/10/18/apple-announces-new-m1-pro-macbook-pro/) (9to5Mac)
@@ -585,13 +585,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, October 16 2021**
+**Saturday, October 16 2021 - (TWTR SPC) What IS The Metaverse?**
 
   * [**Betterhelp.com/ridehome**](https://betterhelp.com/ridehome)
 
 
 
-**Friday, October 15 2021**
+**Friday, October 15 2021 - Fri. 10/15 – Will The SEC Allow You To Trade The (Bitcoin) Future?**
 
   * [SEC Set to Allow Bitcoin Futures ETFs as Deadline Looms](https://www.bloomberg.com/news/articles/2021-10-15/bitcoin-futures-etf-said-not-to-face-sec-opposition-at-deadline?sref=Szq5ylDR) (Bloomberg)
   * [Google modernizes US mobile search results with continuous scrolling](https://techcrunch.com/2021/10/14/google-modernizes-u-s-mobile-search-results-with-continuous-scrolling/) (TechCrunch)
@@ -600,7 +600,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 14 2021**
+**Thursday, October 14 2021 - Thu. 10/14 – LinkedIn Shuts Down In China**
 
   * [Microsoft Folds LinkedIn Social-Media Service in China](https://www.wsj.com/articles/microsoft-abandons-linkedin-in-china-citing-challenging-operating-environment-11634220026?mod=djemalertNEWS) (WSJ)
   * [Effort to Bar Tech Companies From ‘Self-Preferencing’ Gains Traction](https://www.wsj.com/articles/effort-to-bar-tech-companies-from-self-preferencing-gains-traction-11634202000?mod=djemalertNEWS) (WSJ)
@@ -612,7 +612,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 13 2021**
+**Wednesday, October 13 2021 - Wed. 10/13 – Supply Chain Woes Come For The iPhone**
 
   * [Apple Set to Cut iPhone Production Goals Due to Chip Crunch](https://www.bloomberg.com/news/articles/2021-10-12/apple-poised-to-slash-iphone-production-goals-due-to-chip-crunch?sref=Szq5ylDR) (Bloomberg)
   * [Apple Studying Potential of AirPods as Health Device](https://www.wsj.com/articles/apple-studying-potential-of-airpods-as-health-device-11634122800?mod=djemalertNEWS) (WSJ)
@@ -626,7 +626,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 12 2021**
+**Tuesday, October 12 2021 - Tue 10/12 – Twitter Lets Your Do Your Own Shadow Banning**
 
   * [Twitter's tool for removing unwanted followers arrives for web users](https://www.engadget.com/twitter-unwanted-follower-remove-without-blocking-193611535.html) (Engadget)
   * [Facebook whistleblower to brief Facebook Oversight Board, U.K. parliament](https://www.axios.com/facebook-whistleblower-oversight-board-uk-parliament-5bc9b7e9-0b66-4b63-a20c-ddce866c8777.html) (Axios)
@@ -640,7 +640,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 11 2021**
+**Monday, October 11 2021 - Mon. 10/11 – Pixels To Go Big On Cameras?**
 
   * [Google says Pixel 6 camera captures ‘150% more light,’ shows ‘Magic Eraser’ on leaked marketing site](https://9to5google.com/2021/10/09/pixel-6-magic-eraser-camera-features/) (9to5Google)
   * [Twitch Streamer Earnings Increase for Top Gamers, Data From Hack Shows](https://www.wsj.com/articles/twitch-streamer-earnings-increase-for-top-gamers-data-from-hack-shows-11633802185?mod=djemalertNEWS) (WSJ)
@@ -652,7 +652,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 08 2021**
+**Friday, October 08 2021 - Fri. 10/08 – Tesla Goes Texas; Apple Goes Hollywood**
 
   * [Tesla to Move Headquarters From California to Texas, Elon Musk Says](https://www.wsj.com/articles/tesla-to-move-headquarters-to-austin-texas-musk-says-11633646229?mod=e2tw) (WSJ)
   * [Apple Is Building a Massive New Campus Straddling L.A. and Culver City](https://variety.com/2021/digital/news/apple-building-campus-la-culver-city-1235083593/) (Variety)
@@ -661,7 +661,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 07 2021**
+**Thursday, October 07 2021 - Thu. 10/07 – Forget The iCar, Apple Wants To Take Over Your EXISTING Car**
 
   * [Apple’s Plan for Cars: Using iPhone to Control A/C, Seats, Radio and More](https://www.bloomberg.com/news/articles/2021-10-07/apple-s-plan-for-cars-using-iphone-to-control-a-c-seats-radio?sref=Szq5ylDR) (Bloomberg)
   * [Paddle Plans to Launch Alternative In-App Purchase System on iOS That Circumvents Apple's Fees](https://www.macrumors.com/2021/10/07/paddle-plans-alternative-in-app-purchase-system/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -673,7 +673,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 06 2021**
+**Wednesday, October 06 2021 - Wed. 10/06 – ALL Of Twitch Leaked?**
 
   * [The entirety of Twitch has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/) (VideoGamesChronicle)
   * [Telegram says it added 70M users during day of Facebook and WhatsApp outage](https://techcrunch.com/2021/10/05/telegram-says-it-added-70m-users-while-facebook-and-whatsapp-were-down/) (TechCrunch)
@@ -685,7 +685,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 05 2021**
+**Tuesday, October 05 2021 - Tue. 10/05 – The Great Facebook Outage**
 
   * [Gone in Minutes, Out for Hours: Outage Shakes Facebook](https://www.nytimes.com/2021/10/04/technology/facebook-down.html) (NYTimes)
   * [Google’s AI unit DeepMind makes first-ever profit](https://www.ft.com/content/16bb7b92-b88e-4393-85c6-de1f94cdfecc) (Financial Times)
@@ -695,7 +695,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 04 2021**
+**Monday, October 04 2021 - Mon. 10/04 – Facebook Whistleblower On 60 Minutes**
 
   * [The Facebook Whistleblower, Frances Haugen, Says She Wants to Fix the Company, Not Harm It](https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122?mod=djemalertNEWS) (WSJ)
   * [Facebook Is Weaker Than We Knew](https://www.nytimes.com/2021/10/04/technology/facebook-files.html) (NYTimes)
@@ -707,7 +707,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 01 2021**
+**Friday, October 01 2021 - Fri. 10/01 – TikTok And NFTs, Two Great Tastes That Taste Great Together**
 
   * [TikTok announces NFT collection led by top creators](https://www.theblockcrypto.com/linked/119181/tiktok-announces-nft-collection-led-by-top-creators) (The Block)
   * [USB-C group hopes new logos will solve customer confusion](https://appleinsider.com/articles/21/09/30/usb-c-group-hopes-new-logos-will-solve-customer-confusion) (Apple Insider)
@@ -716,14 +716,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 30 2021**
+**Thursday, September 30 2021 - Thu. 09/30 – Facebook: Who You Gonna Trust? Us? Or Your Lying Eyes?**
 
   * [**TinyCaptial.com**](https://www.tinycapital.com/)
   * [**Modern Finance Podcast**](https://podcasts.apple.com/us/podcast/modern-finance/id1338620184)
 
 
 
-**Wednesday, September 29 2021**
+**Wednesday, September 29 2021 - Wed. 09/29 – Is Amazon’s Astro Robot… Ready?**
 
   * [Leaked Documents Show How Amazon’s Astro Robot Tracks Everything You Do](https://www.vice.com/en/article/93ypp8/leaked-documents-amazon-astro-surveillance-robot-tracking) (Motherboard)
   * [Netflix acquires its first game studio in deal with Oxenfree creator Night School Studio](https://venturebeat.com/2021/09/28/netflix-acquires-its-first-game-studio-in-deal-with-oxenfree-creator-night-school-studio/) (VentureBeat/GamesBeat)
@@ -734,7 +734,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 28 2021**
+**Tuesday, September 28 2021 - Tue. 09/28 – The Amazon Hardware Event**
 
   * [Amazon introduces Amazon Glow, an interactive, video calling device for kids and families](https://techcrunch.com/2021/09/28/amazon-introduces-amazon-glow-an-interactive-video-calling-device-for-kids-and-families/) (TechCrunch)
   * [SAY HELLO TO ASTRO, ALEXA ON WHEELS](https://www.theverge.com/2021/9/28/22697244/amazon-astro-home-robot-hands-on-features-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -747,7 +747,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 27 2021**
+**Monday, September 27 2021 - Mon. 09/27 – Instagram Kids On “Pause”**
 
   * [Pausing “Instagram Kids” and Building Parental Supervision Tools](https://about.instagram.com/blog/announcements/pausing-instagram-kids) (Instagram Blog)
   * [Facebook is ‘pausing’ work on Instagram kids app after widespread criticism](https://www.theverge.com/2021/9/27/22696039/facebook-instagram-kids-app-pause-development-criticism?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -760,7 +760,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 24 2021**
+**Friday, September 24 2021 - Fri. 09/24 – China: No, Really. No Crypto.**
 
   * [China’s central bank says all cryptocurrency-related activities are illegal, vows harsh crackdown](https://www.cnbc.com/2021/09/24/china-central-bank-vows-harsh-crackdown-on-cryptocurrency-industry.html) (CNBC)
   * [Google Brings More Pixel-Exclusive Features to All Android Phones](https://gizmodo.com/google-brings-more-pixel-exclusive-features-to-all-andr-1847727507?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
@@ -769,7 +769,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 23 2021**
+**Thursday, September 23 2021 - Thu. 09/23 – USB-C For Everybody! (Maybe By Law…)**
 
   * [One to charge them all: EU demands single plug for phones](https://apnews.com/article/lifestyle-technology-europe-business-smartphones-6c5089a53e67e5f4236294e872005e00) (AP)
   * [Facebook Chief Technology Officer Schroepfer to Step Down](https://www.bloomberg.com/news/articles/2021-09-22/facebook-chief-technology-officer-mike-schroepfer-to-step-down?sref=Szq5ylDR) (Bloomberg)
@@ -782,7 +782,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 22 2021**
+**Wednesday, September 22 2021 - Wed. 09/22 – The Microsoft Surface Event**
 
   * [Microsoft announces Surface Pro 8 with bigger 13-inch 120Hz display and Thunderbolt](https://www.theverge.com/2021/9/22/22685923/microsoft-surface-pro-8-specs-price-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [The Surface Go 3 gets new Intel processors](https://www.theverge.com/2021/9/22/22684608/microsoft-surface-go-3-processor-specs-price-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -796,7 +796,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 21 2021**
+**Tuesday, September 21 2021 - Tue. 09/21 – iPhone Reviews, Kindle Drops And HP Laptops**
 
   * [HP revamps consumer PC lineup with 16-inch Spectre x360, 34-inch Envy all-in-one PC](https://www.zdnet.com/article/hp-revamps-consumer-pc-lineup-with-16-inch-spectre-x360-34-inch-envy-all-in-one-pc/) (ZDNet)
   * [PayPal launches its ‘super app’ combining payments, savings, bill pay, crypto, shopping and more](https://techcrunch.com/2021/09/21/paypal-launches-its-super-app-combining-payments-savings-bill-pay-crypto-shopping-and-more/) (TechCrunch)
@@ -810,7 +810,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 20 2021**
+**Monday, September 20 2021 - Mon 09/20 – New Kindles, Roku Sticks and Surface Pros!**
 
   * [Roku debuts new Streaming Stick 4K bundles, software update with voice and mobile features](https://techcrunch.com/2021/09/20/roku-debuts-new-streaming-stick-4k-bundles-software-update-with-voice-and-mobile-features/) (TechCrunch)
   * [Amazon is going to release Kindle Paperwhite 5 Signature Edition Soon](https://goodereader.com/blog/electronic-readers/amazon-is-going-to-release-kindle-paperwhite-5-signature-edition-soon) (GoodEReader)
@@ -822,7 +822,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 17 2021**
+**Friday, September 17 2021 - Fri. 09/17 – Facebook’s Week Of Wall Street Journal Woes**
 
   * [Facebook Employees Flag Drug Cartels and Human Traffickers. The Company’s Response Is Weak, Documents Show.](https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953?mod=djemalertNEWS) (WSJ)
   * [How Facebook Hobbled Mark Zuckerberg’s Bid to Get America Vaccinated](https://www.wsj.com/articles/facebook-mark-zuckerberg-vaccinated-11631880296?mod=djemalertNEWS) (WSJ)
@@ -831,7 +831,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 16 2021**
+**Thursday, September 16 2021 - Thu. 09/16 – Ok, The iPhone Chips ARE (Slightly) Faster**
 
   * [The iPhone 13 is a pitch-perfect iPhone 12S](https://www.theverge.com/2021/9/15/22675797/iphone-13-12s-upgrade-cycle-iterative-improvements?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Walmart+ is gaining momentum, hits 32 million members, Deutsche Bank estimates](https://www.cnbc.com/2021/09/14/walmart-hits-32-million-members-deutsche-bank-estimates.html) (CNBC)
@@ -843,7 +843,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 15 2021**
+**Wednesday, September 15 2021 - Wed. 09/15 – Charging A Smartphone In 17 Minutes?**
 
   * [Xiaomi announces 11T Pro with 120W fast charging](https://www.theverge.com/2021/9/15/22675191/xiaomi-11t-pro-lite-120-fast-charging-announced-specs-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple releasing iOS 15 and iPadOS 15 on September 20](https://9to5mac.com/2021/09/14/ios-15-release-date/) (9to5Mac)
@@ -856,7 +856,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 14 2021**
+**Tuesday, September 14 2021 - Tue. 09/14 – The iPhone 13 Event**
 
   * [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739?mod=djemalertNEWS) (WSJ)
   * [Facebook Says Its Rules Apply to All. Company Documents Reveal a Secret Elite That’s Exempt.](https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353?mod=djemalertNEWS) (WSJ)
@@ -864,7 +864,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 13 2021**
+**Monday, September 13 2021 - Mon. 09/13 – Is China Dismantling Its Super Apps?**
 
   * [Beijing to break up Ant’s Alipay and force creation of separate loans app](https://www.ft.com/content/01b7c7ca-71ad-4baa-bddf-a4d5e65c5d79) (Financial Times)
   * [Tencent and Alibaba pledge to open up apps to competitors](https://www.ft.com/content/5ca8e92f-1bda-424b-9a11-99c40f4af99f) (Financial Times)
@@ -877,13 +877,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, September 11 2021**
+**Saturday, September 11 2021 - (TWTR SPC) An Interview With @kayvz, Who Is Leading The Twitter Product Revolution**
 
   * [**Otter.ai**](https://otter.ai/)
 
 
 
-**Friday, September 10 2021**
+**Friday, September 10 2021 - Fri. 09/10 – Even Under App Store Pressure, Apple Still Unwilling To Play Ball With Epic**
 
   * [Apple won’t let Epic bring Fortnite back to South Korea’s App Store](https://www.theverge.com/2021/9/10/22666146/apple-epic-korea-fortnite-developer-account-rules-response?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple Music is using Shazam to solve the streaming industry's problem with DJ mixes](https://techcrunch.com/2021/09/09/apple-music-is-using-shazam-to-solve-the-streaming-industrys-problem-with-dj-mixes/) (TechCrunch)
@@ -891,7 +891,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 09 2021**
+**Thursday, September 09 2021 - Thu. 09/09 – Facebook Glasses And Amazon Fire TVs**
 
   * [FACEBOOK ON YOUR FACE](https://www.theverge.com/2021/9/9/22662809/facebook-ray-ban-stories-camera-smart-glasses-hands-on?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon Unveils First of Its Own Smart TVs, Will Bring TikTok to Fire TV in U.S. and Canada](https://variety.com/2021/digital/news/amazon-own-fire-tv-tiktok-netflix-shuffle-1235059585/) (Variety)
@@ -902,7 +902,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 08 2021**
+**Wednesday, September 08 2021 - Wed. 09/08 – Coinbase Tussles With The SEC?**
 
   * [Brian Armstrong responds to SEC threats to shut down Coinbase yield product](https://www.theblockcrypto.com/linked/116888/coinbase-sec-crypto-yield-product) (The Block)
   * [El Salvador Buys Its First 200 BTC a Day Before Its Bitcoin Law Becomes Effective](https://www.coindesk.com/policy/2021/09/06/el-salvador-buys-its-first-200-btc-a-day-before-its-bitcoin-law-becomes-effective/) (Coindesk)
@@ -915,7 +915,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 07 2021**
+**Tuesday, September 07 2021 - Tue. 09/07 – How Private IS ProtonMail?**
 
   * [ProtonMail logged IP address of French activist after order by Swiss authorities](https://techcrunch.com/2021/09/06/protonmail-logged-ip-address-of-french-activist-after-order-by-swiss-authorities/) (TechCrunch)
   * [How Facebook Undermines Privacy Protections for Its 2 Billion WhatsApp Users](https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users) (ProPublica)
@@ -926,7 +926,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 03 2021**
+**Friday, September 03 2021 - Fri. 09/03 – An Alexa TV Coming Next Month?**
 
   * [EXCLUSIVE: Amazon is close to launching its own TV in the US](https://www.businessinsider.com/amazon-close-to-launching-its-own-tv-in-the-us-2021-9?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
   * [Apple’s AR/VR Headset Will Need Connection to Other Device Such as iPhone](https://www.theinformation.com/articles/apples-ar-vr-headset-will-need-connection-to-other-device-such-as-iphone) (The Information)
@@ -936,7 +936,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 02 2021**
+**Thursday, September 02 2021 - Thu. 09/02 – Now Apple Will Let Apps Acknowledge The Web Exists**
 
   * [Apple will allow some media apps to link outside the App Store for payments](https://www.engadget.com/apple-reader-apps-external-link-042203560.html) (Engadget)
   * [Apple concedes to let apps like Netflix, Spotify, and Kindle link to the web to sign up](https://www.theverge.com/2021/9/1/22653264/apple-reader-app-exception-anti-steering-signup-page?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -950,7 +950,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 01 2021**
+**Wednesday, September 01 2021 - Wed. 09/01 – Apple Watch… Out?**
 
   * [New Apple Watch With Larger Screen Suffers Production Snags](https://www.bloomberg.com/news/articles/2021-08-31/apple-s-new-watch-will-likely-be-delayed-over-production-snags?sref=Szq5ylDR) (Bloomberg)
   * [Apple Plans Blood-Pressure Measure, Wrist Thermometer in Watch](https://www.wsj.com/articles/apple-plans-blood-pressure-measure-wrist-thermometer-in-watch-11630501201?mod=djemalertNEWS) (WSJ)
@@ -964,7 +964,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 31 2021**
+**Tuesday, August 31 2021 - Tue. 08/31 – Windows 11 Will Launch Without Android Apps**
 
   * [Windows 11 won’t include Android app support at launch](https://www.theverge.com/2021/8/31/22650000/microsoft-windows-11-android-apps-support?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple buys classical music streaming service Primephonic](https://www.theverge.com/2021/8/30/22648604/apple-acquires-primephonic-classical-music-streaming-service?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -976,7 +976,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 30 2021**
+**Monday, August 30 2021 - Mon. 08/30 – iPhones With Satellite Internet?**
 
   * [Kuo: iPhone 13 to Feature LEO Satellite Communications to Make Calls and Texts Without Cellular Coverage](https://www.macrumors.com/2021/08/29/iphone-13-to-feature-leo-to-make-calls-and-text/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Tim Cook’s Run as Apple CEO Could End as Early as 2025. Who Will Replace Him?](https://www.bloomberg.com/news/newsletters/2021-08-29/who-will-replace-tim-cook-as-the-next-ceo-of-apple-aapl-ksxiq29z?sref=Szq5ylDR) (Bloomberg)
@@ -988,7 +988,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 27 2021**
+**Friday, August 27 2021 - Fri. 08/27 – Another Crack In The App Store**
 
   * [Apple will let developers email users about payments outside iOS](https://www.protocol.com/apple-apps-communication) (Protocol)
   * [Apple’s $100 million settlement agreement changes a key App Store rule for developers](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -998,7 +998,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 26 2021**
+**Thursday, August 26 2021 - Thu. 08/26 – The Big Cybersecurity Summit**
 
   * [Biden tells top CEOs at White House summit to step up on cybersecurity](https://www.washingtonpost.com/technology/2021/08/25/white-house-cybersecurity-summit-apple-amazon/) (Washington Post)
   * [World’s Largest Chip Maker to Raise Prices, Threatening Costlier Electronics](https://www.wsj.com/articles/worlds-largest-chip-maker-to-raise-prices-threatening-costlier-electronics-11629978308?mod=djemalertNEWS) (WSJ)
@@ -1009,7 +1009,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 25 2021**
+**Wednesday, August 25 2021 - Wed. 08/25 – JK, JK, JK! OnlyFans Reverses Course On Porn Ban**
 
   * [OnlyFans no longer plans to ban porn, saying in abrupt U-turn that it wants to be a 'home for all creators'](https://www.businessinsider.com/onlyfans-reverses-ban-sexually-explicit-content-2021-8?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
   * [FITBIT’S NEW CHARGE 5 HAS A ROUNDED DESIGN AND A COLOR SCREEN](https://www.theverge.com/2021/8/25/22640462/fitbit-charge-5-rounded-design-color-screen-daily-readiness-score?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1020,7 +1020,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 24 2021**
+**Tuesday, August 24 2021 - Tue. 08/24 – Cybersecurity Meetup At The White House**
 
   * [Apple’s Tim Cook, Microsoft’s Satya Nadella Plan to Visit White House](https://www.bloomberg.com/news/articles/2021-08-23/apple-s-cook-microsoft-s-nadella-plan-to-visit-white-house?sref=Szq5ylDR) (Bloomberg)
   * [Instagram is retiring the swipe up](https://www.theverge.com/2021/8/23/22638222/instagram-swipe-up-link-sticker-roll-out?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1033,7 +1033,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 23 2021**
+**Monday, August 23 2021 - Mon. 08/23 – M1X Mac Mini Incoming…**
 
   * [High-End 'M1X' Mac Mini With New Design and Additional Ports Expected to Launch in the 'Next Several Months'](https://www.macrumors.com/2021/08/22/gurman-high-end-mac-mini-this-fall/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [The world’s second-largest stablecoin is undergoing a massive change](https://www.cnbc.com/2021/08/23/crypto-usdc-stablecoin-to-change-reserves-composition.html) (CNBC)
@@ -1045,7 +1045,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 20 2021**
+**Friday, August 20 2021 - Fri. 08/20 – OnlyFans Pulls A Tumblr**
 
   * [OnlyFans has tons of users, but can't find investors](https://www.axios.com/onlyfans-investors-struggle-9cc92523-6607-40ad-9893-4175e7966b52.html) (Axios)
   * [OnlyFans to Bar Sexually Explicit Videos Starting in October](https://www.bloomberg.com/news/articles/2021-08-19/onlyfans-to-block-sexually-explicit-videos-starting-in-october?sref=Szq5ylDR) (Bloomberg)
@@ -1055,7 +1055,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 19 2021**
+**Thursday, August 19 2021 - Thu. 08/19 – FTC Files Its Facebook Mulligan**
 
   * [Amazon Plans to Open Large Retail Locations Akin to Department Stores](https://www.wsj.com/articles/amazon-retail-department-stores-11629330842?mod=djemalertNEWS) (WSJ)
   * [GE Appliances announces partnership with major cloud company to focus on data capabilities](https://www.courier-journal.com/story/money/companies/2021/08/19/ge-appliances-partners-with-google-cloud-ai-data-new-products/8172740002/) (Courier Journal)
@@ -1068,7 +1068,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 17 2021**
+**Tuesday, August 17 2021 - Tue. 08/17 – Yik Yak Is Back. Act Accordingly.**
 
   * [Remember Yik Yak? Well, it's back and still anonymous.](https://mashable.com/article/yik-yak-is-back-2021) (Mashable)
   * [T-Mobile Confirms It Was Hacked](https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked) (Motherboard)
@@ -1082,7 +1082,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 16 2021**
+**Monday, August 16 2021 - Mon. 08/16 – NHTSA Investigating Tesla’s Autopilot**
 
   * [T-Mobile Investigating Claims of Massive Customer Data Breach](https://www.vice.com/en/article/akg8wg/tmobile-investigating-customer-data-breach-100-million) (Motherboard)
   * [US probing Autopilot problems on 765,000 Tesla vehicles](https://apnews.com/article/technology-business-ap-top-news-61557d668b646e7ef48c5543d3a1c66c) (Associated Press)
@@ -1093,7 +1093,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 13 2021**
+**Friday, August 13 2021 - Fri. 08/13 – The Growing Power Of Stablecoins**
 
   * [Disney+ beats expectations to reach 116 million subscribers in Q3](https://techcrunch.com/2021/08/12/disney-beats-expectations-to-reach-116-million-subscribers-in-q3/) (TechCrunch)
   * [Nvidia Reveals Its CEO Was Computer Generated in Keynote Speech](https://www.vice.com/en/article/88nbpa/nvidia-reveals-its-ceo-was-computer-generated-in-keynote-speech) (Motherboard)
@@ -1102,7 +1102,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 12 2021**
+**Thursday, August 12 2021 - Thu. 08/12 – Legislation To Break Open App Stores**
 
   * [App Store Competition Targeted by Bipartisan Senate Bill](https://www.wsj.com/articles/app-store-competition-targeted-by-bipartisan-senate-bill-11628704834?mod=djemalertNEWS) (WSJ)
   * [DoorDash Recently Held Talks to Buy Instacart](https://www.theinformation.com/articles/doordash-recently-held-talks-to-buy-instacart) (The Information)
@@ -1114,7 +1114,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 11 2021**
+**Wednesday, August 11 2021 - Wed. 08/11 – Samsung’s Galaxy Unpacked Event**
 
   * [Samsung Galaxy Z Fold 3 delivers S Pen, better screen durability, IPX8 for $1,799](https://9to5google.com/2021/08/11/galaxy-z-fold-3-release-date-price-specs/) (9to5Google)
   * [Samsung breaks the triple-digit barrier w/ Galaxy Z Flip 3 priced at $999](https://9to5google.com/2021/08/11/galaxy-z-flip-3-price-release-date-specs/) (9to5Google)
@@ -1127,7 +1127,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 10 2021**
+**Tuesday, August 10 2021 - Tue. 08/10 – iPhone To Get An Apple Watch-Like Always-On Screen?**
 
   * [Apple Readies New iPhones With Pro-Focused Camera, Video Updates](https://www.bloomberg.com/news/articles/2021-08-10/apple-readies-new-iphones-with-pro-focused-camera-video-updates?sref=Szq5ylDR) (Bloomberg)
   * [APPLE KEEPS SHUTTING DOWN EMPLOYEE-RUN SURVEYS ON PAY EQUITY — AND LABOR LAWYERS SAY IT’S ILLEGAL](https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1139,7 +1139,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 09 2021**
+**Monday, August 09 2021 - Mon. 08/09 – Congressional Crypto Crunch**
 
   * [Senators Near Deal On Crypto Oversight, But May Be Too Late](https://www.bloomberg.com/news/articles/2021-08-09/senators-near-deal-on-crypto-oversight-but-may-be-too-late?sref=Szq5ylDR) (Bloomberg)
   * [Apple CSAM FAQ addresses misconceptions and concerns about photo scanning](https://9to5mac.com/2021/08/09/apple-csam-faq/) (9to5Mac)
@@ -1151,7 +1151,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 06 2021**
+**Friday, August 06 2021 - Fri. 08/06 – The Apple Photo Scanning Controversy**
 
   * [Apple confirms it will begin scanning iCloud Photos for child abuse images](https://techcrunch.com/2021/08/05/apple-icloud-photos-scanning/) (TechCrunch)
   * [Yelp will let businesses list their vaccination policies](https://www.theverge.com/2021/8/5/22610865/yelp-vaccination-policies-businesses-staff-customers?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1159,7 +1159,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 05 2021**
+**Thursday, August 05 2021 - Thu. 08/05 – Nest Refreshes Everything**
 
   * [Google’s new Nest cameras and doorbell have lower prices and more smarts](https://www.theverge.com/2021/8/5/22609444/google-nest-cam-indoor-floodlight-doorbell-price-specs-news?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Ethereum just activated a major change called the ‘London hard fork’ — here’s why it’s a big deal](https://www.cnbc.com/2021/08/05/ethereum-just-activated-its-london-hard-fork-and-its-a-big-deal.html) (CNBC)
@@ -1170,7 +1170,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 04 2021**
+**Wednesday, August 04 2021 - Wed. 08/04 – Is Robinhood A Meme Stock Now?**
 
   * [Robinhood surges as much as 81% in second day of wild trading](https://www.cnbc.com/2021/08/04/robinhood-surges-another-13percent-a-day-after-jumping-past-ipo-price.html) (CNBC)
   * [Apple, Affirm to Join on Buy Now, Pay Later for Canadian Purchases](https://www.bloomberg.com/news/articles/2021-08-03/apple-affirm-to-join-on-buy-now-pay-later-for-canada-purchases?sref=Szq5ylDR) (Bloomberg)
@@ -1184,7 +1184,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 03 2021**
+**Tuesday, August 03 2021 - Tue. 08/03 – The Pixel 6 And The New Tensor SoC**
 
   * [THIS IS THE PIXEL 6, GOOGLE’S TAKE ON AN ‘ULTRA HIGH END’ PHONE](https://www.theverge.com/2021/8/2/22605094/google-pixel-6-pro-tensor-processor-specs-ai-ml?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft's Windows 365 Cloud PC service will range from $20 to $162 per user per month](https://www.zdnet.com/article/microsofts-windows-365-cloud-pc-service-will-range-from-20-to-162-per-user-per-month/) (ZDNet)
@@ -1196,7 +1196,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 02 2021**
+**Monday, August 02 2021 - Mon. 08/02 – Try Some “Diet” YouTube**
 
   * [YouTube ‘Premium Lite’ subscription offers ad-free viewing for less](https://www.theverge.com/2021/8/2/22605455/youtube-premium-lite-pilot-benelux-nordics-experiment-ad-free-subscription?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter's Dorsey leads $29 bln buyout of lending pioneer Afterpay](https://www.reuters.com/technology/square-buy-australias-afterpay-29-billion-2021-08-01/) (Reuters)
@@ -1207,7 +1207,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 30 2021**
+**Friday, July 30 2021 - Fri. 07/30 – For Amazon, Are Ads > AWS?**
 
   * [Amazon Gets Record $888 Million EU Fine Over Data Violations](https://www.bloomberg.com/news/articles/2021-07-30/amazon-given-record-888-million-eu-fine-for-data-privacy-breach?sref=Szq5ylDR) (Bloomberg)
   * [Robinhood falls in its public market debut, closes more than 8% lower at $34.82 per share](https://www.cnbc.com/2021/07/29/robinhood-hood-ipo-stock-starts-trading-on-the-nasdaq.html) (CNBC)
@@ -1216,7 +1216,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 29 2021**
+**Thursday, July 29 2021 - Thu. 07/29 – Vaccine Mandates For Big Tech?**
 
   * [Most Apple Stores to Require Masks Again for Shoppers, Staff](https://www.bloomberg.com/news/articles/2021-07-28/apple-to-restore-mask-mandate-at-most-stores-for-shoppers-staff?sref=Szq5ylDR) (Bloomberg)
   * [Facebook beats earnings expectations, but warns of significant growth slowdown](https://www.cnbc.com/2021/07/28/facebook-fb-earnings-q2-2021.html) (CNBC)
@@ -1228,7 +1228,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 28 2021**
+**Wednesday, July 28 2021 - Wed. 07/28 – Earnings Bonanza**
 
   * [Apple’s iPhone hot streak is going to run into the global chip shortage](https://www.cnbc.com/2021/07/27/apples-iphone-hot-streak-will-run-into-global-chip-shortage.html) (CNBC)
   * [Xbox hardware sales spike 172% as Microsoft reports $3.7B in quarterly gaming revenue](https://www.geekwire.com/2021/xbox-hardware-sales-spike-172-microsoft-reports-3-7b-quarterly-gaming-revenue/) (GeekWire)
@@ -1240,7 +1240,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 27 2021**
+**Tuesday, July 27 2021 - Tue. 07/27 – No More Hedging. Tesla Truly Profitable.**
 
   * [Tesla finally made a profit without the help of emission credits](https://www.theverge.com/2021/7/26/22594778/tesla-q2-2021-earnings-revenue-profit-credits-emissions-bitcoin) (The Verge)
   * [Tesla records $23 million in bitcoin-related impairments after cryptocurrency’s second-quarter plunge](https://www.cnbc.com/2021/07/26/tesla-records-23-million-in-bitcoin-related-impairments-in-q2.html) (CNBC)
@@ -1253,7 +1253,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 26 2021**
+**Monday, July 26 2021 - Mon. 07/26 – What The Heck Is Happening In China?**
 
   * [Tether Executives Said to Face Criminal Probe Into Bank Fraud](https://www.bloomberg.com/news/articles/2021-07-26/tether-executives-said-to-face-criminal-probe-into-bank-fraud?sref=Szq5ylDR) (Bloomberg)
   * [Leaders in Cryptocurrency Industry Move to Curb the Highest-Risk Trades](https://www.nytimes.com/2021/07/25/us/politics/cryptocurrency-ftx-high-risk-trade.html) (NYTimes)
@@ -1265,7 +1265,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 23 2021**
+**Friday, July 23 2021 - Fri. 07/23 – Alphabet’s New Moonshot Company: Intrinsic**
 
   * [Google parent Alphabet launches Intrinsic: a new company to build software for industrial robots](https://www.theverge.com/2021/7/23/22590109/google-intrinsic-industrial-robotics-company-software?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence](https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1274,7 +1274,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 22 2021**
+**Thursday, July 22 2021 - Thu. 07/22 – Downvote This Tweet**
 
   * [Twitter for iOS begins testing dislike button for some users](https://9to5mac.com/2021/07/21/twitter-downvote-button-testing/) (9to5Mac)
   * [Clubhouse is no longer invite-only](https://www.theverge.com/2021/7/21/22586845/clubhouse-open-beta-invite-access-android-ios?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1287,7 +1287,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 21 2021**
+**Wednesday, July 21 2021 - Wed. 07/21 – Is The Narrative Turning On Netflix?**
 
   * [Netflix’s gaming expansion starts with mobile](https://www.theverge.com/2021/7/20/22585802/netflix-gaming-mobile-subscription-earnings?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [On the list: Ten prime ministers, three presidents and a king](https://www.washingtonpost.com/world/2021/07/20/heads-of-state-pegasus-spyware/) (Washington Post)
@@ -1301,7 +1301,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 20 2021**
+**Tuesday, July 20 2021 - Tue. 07/20 – Apple Once More The Canary In The Covid Coal Mine?**
 
   * [Apple Delays Office Return by At Least a Month as Covid Spikes](https://www.bloomberg.com/news/articles/2021-07-20/apple-will-postpone-return-to-office-after-covid-19-persists?sref=Szq5ylDR) (Bloomberg)
   * [Exclusive: Apple planning redesigned iPad mini with A15 processor, USB-C port, more](https://9to5mac.com/2021/07/20/new-ipad-mini-exclusive-a15-processor-usb-c/) (9to5Mac)
@@ -1312,7 +1312,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 19 2021**
+**Monday, July 19 2021 - Mon. 07/19 – NSO Group (Allegedly) Pwning Everyone**
 
   * [Private Israeli spyware used to hack cellphones journalists, activists worldwide](https://www.washingtonpost.com/investigations/interactive/2021/nso-spyware-pegasus-cellphones/) (Washington Post)
   * [U.S. and key allies accuse China of Microsoft Exchange cyberattacks](https://www.axios.com/china-cyberattacks-nato-181e71d2-7414-45f3-9463-c8b1d46392c1.html) (Axios)
@@ -1322,7 +1322,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 16 2021**
+**Friday, July 16 2021 - Fri. 07/16 – Can Intel Acquire Its Way Back Into Contention?**
 
   * [Intel Is in Talks to Buy GlobalFoundries for About $30 Billion](https://www.wsj.com/articles/intel-is-in-talks-to-buy-globalfoundries-for-about-30-billion-11626387704?mod=djemalertNEWS) (WSJ)
   * [Valve’s gaming handheld is called the Steam Deck and it’s shipping in December](https://www.theverge.com/2021/7/15/22578783/valve-steam-deck-gaming-handheld-pc?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1330,7 +1330,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 15 2021**
+**Thursday, July 15 2021 - Thu. 07/15 – Oh Yeah. It Definitely Looks Like Netflix Is Getting Into Gaming.**
 
   * [Netflix Plans to Offer Video Games in Push Beyond Films, TV](https://www.bloomberg.com/news/articles/2021-07-14/netflix-plans-to-offer-video-games-in-expansion-beyond-films-tv?sref=Szq5ylDR) (Bloomberg)
   * [Twitter is shutting down Fleets, its expiring tweets feature](https://www.theverge.com/2021/7/14/22577166/twitter-fleets-shuts-down-stories-clone?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1341,7 +1341,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 14 2021**
+**Wednesday, July 14 2021 - Wed. 07/14 – Did Apple Deep-Six 69? (NOT Nice!)**
 
   * [Apple, Goldman Plan ‘Buy Now, Pay Later’ Service to Rival Affirm](https://www.bloomberg.com/news/articles/2021-07-13/apple-goldman-plan-buy-now-pay-later-service-to-rival-paypal?sref=Szq5ylDR) (Bloomberg)
   * [Apple Seeks Up to 20% Increase in New iPhone Production for 2021](https://www.bloomberg.com/news/articles/2021-07-14/apple-seeks-up-to-20-increase-in-new-iphone-production-for-2021?sref=Szq5ylDR) (Bloomberg)
@@ -1354,7 +1354,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 13 2021**
+**Tuesday, July 13 2021 - Tue. 07/13 – Bribe Or Bot Your Way To Twitter Verification?**
 
   * [Twitter verified a number of bot accounts—raising questions about security (updated)](https://www.dailydot.com/debug/twitter-verified-bot-accounts/) (DailyDot)
   * [Gmail deploys support BIMI security standard](https://therecord.media/gmail-deploys-support-bimi-security-standard/) (The Record)
@@ -1368,7 +1368,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 12 2021**
+**Monday, July 12 2021 - Mon. 07/12 – Is InfoSec The New Fintech?**
 
   * [Microsoft Agrees to Acquire Cybersecurity Company RiskIQ](https://www.bloomberg.com/news/articles/2021-07-11/microsoft-is-said-to-be-buying-cybersecurity-company-riskiq?sref=Szq5ylDR) (Bloomberg)
   * [ByteDance Shelved IPO Intentions After Chinese Regulators Warned About Data Security](https://www.wsj.com/articles/bytedance-shelvedipo-intentions-after-chinese-regulators-warned-about-data-security-11626078000?mod=djemalertNEWS) (WSJ)
@@ -1379,7 +1379,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 08 2021**
+**Thursday, July 08 2021 - Thu. 07/08 – The States Go After Google First**
 
   * [36 states, D.C. sue Google for alleged antitrust violations in its Android app store](https://www.politico.com/news/2021/07/07/36-states-dc-sue-google-for-alleged-antitrust-violations-in-its-android-app-store-498622) (Politico)
   * [Visa is partnering with over 50 crypto companies to allow clients to spend and convert digital currencies](https://markets.businessinsider.com/currencies/news/cryptocurreny-payments-visa-partnership-clients-spend-convert-digital-currencies-2021-7) (Markets Insider)
@@ -1391,7 +1391,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 07 2021**
+**Wednesday, July 07 2021 - Wed. 07/07 – Pentagon, RE: The JEDI Contract: Jkjkjkjkjk**
 
   * [Pentagon cancels $10 billion JEDI cloud contract that Amazon and Microsoft were fighting over](https://www.cnbc.com/2021/07/06/pentagon-cancels-10-billion-jedi-cloud-contract.html) (CNBC)
   * [Biden Sets Up Tech Showdown With ‘Right-to-Repair’ Rules for FTC](https://www.bloomberg.com/news/articles/2021-07-06/biden-wants-farmers-to-have-right-to-repair-own-equipment-kqs66nov) (Bloomberg)
@@ -1402,7 +1402,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 06 2021**
+**Tuesday, July 06 2021 - Tue. 07/06 – New Nintendo Switch (Finally/Kinda)**
 
   * [Nintendo Switch OLED model will go on sale October 8th for $350](https://www.theverge.com/2021/7/6/22456337/nintendo-switch-oled-model-specs-date-price) (The Verge)
   * [Chinese Regulators Suggested Didi Delay Its U.S. IPO](https://www.wsj.com/articles/chinese-regulators-suggested-didi-delay-its-u-s-ipo-11625510600?mod=djemalertNEWS) (Wall Street Journal)
@@ -1415,14 +1415,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, July 03 2021**
+**Saturday, July 03 2021 - (SPC CST)  The Facebook Antitrust Blowup With @Kantrowitz**
 
   * [**@chrismessina**](https://twitter.com/chrismessina)
   * [**@brianmcc**](https://twitter.com/brianmcc)
 
 
 
-**Friday, July 02 2021**
+**Friday, July 02 2021 - Fri. 07/02 – Robinhood’s IPO Success Depends On Doge?**
 
   * [Robinhood files for long-awaited IPO](https://www.axios.com/robinhood-ipo-0b9a27b1-69d1-41d0-b44e-69e137b92dd2.html) (Axios)
   * [How Robinhood's explosive growth rate came to be](https://techcrunch.com/2021/07/01/how-robinhoods-explosive-growth-rate-came-to-be/?tpcc=ECTW2020) (Tech Crunch)
@@ -1432,7 +1432,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 01 2021**
+**Thursday, July 01 2021 - Thu. 07/01 – Instagram Is “No Longer A Photo-Sharing App”**
 
   * [Facebook is testing drastic changes to Instagram to make it more like TikTok](https://www.cnbc.com/2021/06/30/facebook-tests-changes-to-instagram-would-make-it-more-like-tiktok.html) (CNBC)
   * [TikTok is rolling out longer videos to everyone](https://www.theverge.com/2021/7/1/22558856/tiktok-videos-three-minutes-length?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1447,7 +1447,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 30 2021**
+**Wednesday, June 30 2021 - Wed. 06/30 – Facebook’s Substack Clone**
 
   * [Facebook announces Bulletin, its Substack newsletter competitor](https://www.theverge.com/2021/6/29/22555957/facebook-bulletin-newsletter-subscriptions-substack-competitor?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Shopify drops its App Store commissions to 0% on developers’ first million in revenue](https://techcrunch.com/2021/06/29/shopify-drops-its-app-store-commissions-to-0-on-developers-first-million-in-revenue/) (Tech Crunch)
@@ -1459,7 +1459,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 29 2021**
+**Tuesday, June 29 2021 - Tue. 06/29 – Facebook Beats The Rap**
 
   * [Judge dismisses FTC and state antitrust complaints against Facebook](https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html) (CNBC)
   * [Microsoft Office is getting a new design and a native 64-bit Arm version for Windows 11](https://www.theverge.com/2021/6/28/22554676/microsoft-office-64-bit-arm-windows-11-beta-insider-redesign?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1469,7 +1469,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 28 2021**
+**Monday, June 28 2021 - Mon. 06/28 – Binance Runs Into Trouble Around The Globe**
 
   * [Financial watchdog bans crypto exchange Binance from UK](https://www.ft.com/content/8bc0e5e0-2705-496d-a265-acccaffaee87) (Financial Times)
   * [The world’s biggest crypto exchange is running into trouble everywhere](https://qz.com/2025673/binance-is-banned-in-the-uk-and-ontario/) (Quartz)
@@ -1482,7 +1482,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 25 2021**
+**Friday, June 25 2021 - Fri. 06/25 – Some Western Digital NAS Devices Are Getting Ill (matic?)**
 
   * [WD My Book NAS devices are being remotely wiped clean worldwide](https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/) (Bleeping Computer)
   * [Big Tech edges closer to break up after deeply unhinged markup](https://www.theverge.com/2021/6/24/22549025/big-tech-antitrust-amazon-apple-facebook-google-house-judiciary-jim-jordan?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1491,7 +1491,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 24 2021**
+**Thursday, June 24 2021 - Thu. 06/24 – New Windows!**
 
   * [Microsoft announces Windows 11, with a new design, Start menu, and more](https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Google delays Chrome's cookie-blocking privacy plan by nearly 2 years](https://www.cnet.com/news/google-delays-chromes-cookie-blocking-privacy-plan-by-nearly-2-years/) (Cnet)
@@ -1503,7 +1503,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 23 2021**
+**Wednesday, June 23 2021 - Wed. 06/23 – Microsoft Joins The $2T Club**
 
   * [Twitter is opening applications to test Ticketed Spaces and Super Follows](http://theverge.com/2021/6/22/22545167/twitter-opens-super-follows-ticketed-spaces-new-feature-test-application-ios-android?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple’s Fight for Control Over Apps Moves to Congress and EU](https://www.wsj.com/articles/apples-fight-for-control-over-apps-moves-to-congress-and-eu-11624440601?mod=djemalertNEWS) (Wall Street Journal)
@@ -1514,7 +1514,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 22 2021**
+**Tuesday, June 22 2021 - Tue. 06/22 – More EU Trouble For Google**
 
   * [EU opens antitrust probe into Google’s advertising business](https://www.ft.com/content/b8d7bc05-7e58-43f9-b977-47bbbe5802aa) (Financial Times)
   * [Resolution Games Pulls Blaston Out Of Facebook Ad Test](https://uploadvr.com/blaston-ad-test/) (Upload)
@@ -1527,7 +1527,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 21 2021**
+**Monday, June 21 2021 - Mon. 06/21 – Can Facebook Win Audio?**
 
   * [Facebook officially launches Live Audio Rooms and podcasts in the US](https://techcrunch.com/2021/06/21/facebook-officially-launches-live-audio-rooms-and-podcasts-in-the-u-s/) (Tech Crunch)
   * [China to shut down over 90% of its Bitcoin mining capacity after local bans](https://www.globaltimes.cn/page/202106/1226598.shtml) (Global Times)
@@ -1538,7 +1538,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 18 2021**
+**Friday, June 18 2021 - Fri. 06/18 – Cell Networks Security Deliberately Nerfed?**
 
   * [Bombshell Report Finds Phone Network Encryption Was Deliberately Weakened](https://www.vice.com/en/article/4avnan/bombshell-report-finds-phone-network-encryption-was-deliberately-weakened) (Vice)
   * [Ukraine arrests ransomware gang in global cyber criminal crackdown](https://www.ft.com/content/de3b7a60-e38d-43a0-ad85-348fbed90d67) (Financial Times)
@@ -1547,7 +1547,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 17 2021**
+**Thursday, June 17 2021 - Thu. 06/17 – How About Some Ads On Your Oculus?**
 
   * [Facebook to begin testing ads inside Oculus virtual reality headsets](https://www.cnbc.com/2021/06/16/facebook-to-begin-testing-ads-inside-oculus-virtual-reality-headsets.html) (CNBC)
   * [Xbox’s June update adds speech-to-text chat feature](https://www.engadget.com/microsoft-xbox-june-update-204913777.html) (Engadget)
@@ -1559,7 +1559,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 16 2021**
+**Wednesday, June 16 2021 - Wed. 06/16 – A Nightmare FTC Chair For Big Tech?**
 
   * [Biden Names Lina Khan, a Big-Tech Critic, as F.T.C. Chair](https://www.nytimes.com/2021/06/15/technology/lina-khan-ftc.html) (New York Times)
   * [Alphabet’s self-driving car company Waymo announces $2.5 billion investment round](https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html) (CNBC)
@@ -1570,7 +1570,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 15 2021**
+**Tuesday, June 15 2021 - Tue. 06/15 – Automattic Acquires Day One**
 
   * [WordPress.com owner Automattic acquires journaling app Day One](https://techcrunch.com/2021/06/14/wordpress-com-owner-automattic-acquires-journaling-app-day-one/) (Tech Crunch)
   * [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/) (Reuters)
@@ -1582,7 +1582,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 14 2021**
+**Monday, June 14 2021 - Mon. 06/14 – An “Extreme” Apple Watch?**
 
   * [Apple Plans Faster Watch, Future Temperature and Glucose Sensors](https://www.bloomberg.com/news/articles/2021-06-14/apple-plans-faster-watch-future-temperature-and-glucose-sensors?sref=Szq5ylDR) (Bloomberg)
   * [Google Workspace and Google Chat are officially available to everybody](https://www.theverge.com/2021/6/14/22532559/google-workspace-chat-officially-available-consumer-gmail-spaces?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1593,7 +1593,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 11 2021**
+**Friday, June 11 2021 - Fri. 06/11 – Now The Hackers Have Come For Our Hamburgers**
 
   * [McDonald’s Hit by Data Breach](https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800?mod=djemalertNEWS) (Wall Street Journal)
   * [Hackers Steal Wealth of Data from Game Giant EA](https://www.vice.com/en/article/wx5xpx/hackers-steal-data-electronic-arts-ea-fifa-source-code) (Vice)
@@ -1603,7 +1603,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 10 2021**
+**Thursday, June 10 2021 - Thu. 06/10 – Another Payoff To Ransomware Hackers**
 
   * [JBS Paid $11 Million to Resolve Ransomware Attack](https://www.wsj.com/articles/jbs-paid-11-million-to-resolve-ransomware-attack-11623280781?mod=djemalertNEWS) (Wall Street Journal)
   * [Facebook plans first smartwatch for next summer with two cameras, heart rate monitor](https://www.theverge.com/2021/6/9/22526266/facebook-smartwatch-two-cameras-heart-rate-monitor?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1614,7 +1614,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 09 2021**
+**Wednesday, June 09 2021 - Wed. 06/09 – The First Country To Adopt Bitcoin As Legal Tender**
 
   * [El Salvador becomes first country to adopt bitcoin as legal tender after passing law](https://www.cnbc.com/2021/06/09/el-salvador-proposes-law-to-make-bitcoin-legal-tender.html) (CNBC)
   * [Biden revokes and replaces Trump orders banning TikTok and WeChat](https://www.theverge.com/2021/6/9/22525953/biden-tiktok-wechat-trump-bans-revoked-alipay?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1626,7 +1626,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 08 2021**
+**Tuesday, June 08 2021 - Tue. 06/08 – Fastly Takes Down The Internet**
 
   * [Twitch, Pinterest, Reddit and more go down in Fastly CDN outage](https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/) (Tech Crunch)
   * [U.S. Retrieves Millions in Ransom Paid to Colonial Pipeline Hackers](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399?mod=djemalertNEWS) (Wall Street Journal)
@@ -1640,7 +1640,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 07 2021**
+**Monday, June 07 2021 - WWDC 2021**
 
   * [Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner](https://techcrunch.com/2021/06/07/jeff-bezos-and-his-brother-will-fly-on-blue-origins-first-human-spaceflight-with-auction-winner/) (TechCrunch)
   * [Google Settles Antitrust Case Over Advertising Practices](https://www.wsj.com/articles/french-regulator-fines-google-268-million-in-antitrust-settlement-11623054737?mod=djemalertNEWS) (WSJ)
@@ -1648,7 +1648,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 04 2021**
+**Friday, June 04 2021 - Fri. 06/04 – iPad Pro Rumors And WWDC Pre-Hype**
 
   * [Apple Working on iPad Pro with Wireless Charging, New iPad Mini](https://www.bloomberg.com/news/articles/2021-06-04/apple-working-on-ipad-pro-with-wireless-charging-new-ipad-mini) (Bloomberg)
   * [Facebook to end special treatment for politicians after Trump ban](https://www.theverge.com/2021/6/3/22474738/facebook-ending-political-figure-exemption-moderation-policy?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1657,7 +1657,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 03 2021**
+**Thursday, June 03 2021 - Thu. 06/03 – Twitter Launches Twitter Blue!**
 
   * [Twitter launches its first subscription service](https://www.cnbc.com/2021/06/03/twitter-blue-paid-subscription-service-launches-with-special-features.html) (CNBC)
   * [Apple asks staff to return to office three days a week starting in early September](https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1668,7 +1668,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 02 2021**
+**Wednesday, June 02 2021 - Wed. 06/02 – Facebook’s F8 Refresh**
 
   * [Facebook opens its Messenger API for Instagram to all](https://techcrunch.com/2021/06/02/facebook-opens-its-messenger-api-for-instagram-to-all-businesses/) (Tech Crunch)
   * [Microsoft to reveal its next generation of Windows on June 24th](https://www.theverge.com/2021/6/2/22465126/microsoft-windows-event-june-24th?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1681,7 +1681,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 01 2021**
+**Tuesday, June 01 2021 - Tue. 06/01 – Flagship GPU Headlines From Computex**
 
   * [Nvidia announces new RTX 3080 Ti, priced at $1,199 and launching June 3rd](https://www.theverge.com/2021/6/1/22461660/nvidia-geforce-rtx-3080-ti-specs-price-release-date-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [AMD Announces Radeon RX 6000M Series: RDNA2 Makes Its Laptop Debut](https://www.anandtech.com/show/16721/amd-announces-radeon-rx-6000m-series-rdna2-breaks-into-laptops) (AnandTech)
@@ -1700,7 +1700,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 28 2021**
+**Friday, May 28 2021 - Fri. 05/28 – SolarWinds Back In The Headlines**
 
   * [Russia Appears to Carry Out Hack Through System Used by U.S. Aid Agency](https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html) (New York Times)
   * [Apple Plans Redesigned AirPods for 2021, New AirPods Pro in 2022](https://www.bloomberg.com/news/articles/2021-05-28/apple-plans-redesigned-airpods-for-2021-new-airpods-pro-in-2022) (Bloomberg)
@@ -1708,7 +1708,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 27 2021**
+**Thursday, May 27 2021 - Thu. 05/27 – Upgraded Nintendo Switch Imminent**
 
   * [Nintendo Plans Upgraded Switch Replacement as Soon as September](https://www.bloomberg.com/news/articles/2021-05-27/nintendo-plans-upgraded-switch-replacement-as-soon-as-september?sref=Szq5ylDR) (Bloomberg)
   * [You can join Twitter’s Clubhouse-like Spaces rooms from a browser starting Wednesday](https://www.theverge.com/2021/5/26/22455799/twitter-spaces-web-browser-clubhouse-social-audio-room?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1722,7 +1722,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 26 2021**
+**Wednesday, May 26 2021 - Wed. 05/26 – Amazon To Launch A Rocky Extended Universe?**
 
   * [Amazon to buy MGM Studios for $8.45 billion](https://www.cnbc.com/2021/05/26/amazon-to-buy-mgm-studios-for-8point45-billion.html) (CNBC)
   * [Exclusive: Valve is making a Switch-like portable gaming PC](https://arstechnica.com/gaming/2021/05/exclusive-valve-is-making-a-switch-like-portable-gaming-pc/) (Ars Technica)
@@ -1735,7 +1735,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 25 2021**
+**Tuesday, May 25 2021 - Tue. 05/25 – Fuchsia OS Finally Arrives**
 
   * [Google is officially releasing its Fuchsia OS, starting w/ first-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/) (9to5 Google)
   * [ARM's first v9 CPUs are built for computers, not just phones](https://www.engadget.com/armv9-cortex-x2-cpu-mali-g710-gpu-130055653.html) (Engadget)
@@ -1747,7 +1747,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 24 2021**
+**Monday, May 24 2021 - Reading The Tea Leaves Of The Epic/Apple Trial**
 
   * [Tim Cook plays innocent in Epic v Apple’s culminating testimony](https://techcrunch.com/2021/05/21/tim-cook-plays-innocent-in-epic-v-apples-culminating-testimony/) (Tech Crunch)
   * [Judge in Fortnite case holds Tim Cook's feet to the fire over App Store competition](https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled) (Protocol)
@@ -1758,14 +1758,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, May 22 2021**
+**Saturday, May 22 2021 - (Bonus) How Ransomware Works With Cybereason's CISO Isreal Barak**
 
   * [**Cybereason.com**](https://www.cybereason.com/)
   * [**NordVPN.com/ride**](https://www.nordvpn.com/ride)
 
 
 
-**Friday, May 21 2021**
+**Friday, May 21 2021 - Fri. 05/21 – Snap Is Dead Serious About This AR Stuff**
 
   * [Snap’s new Spectacles let you see the world in augmented reality](https://www.theverge.com/2021/5/20/22445481/snap-spectacles-ar-augmented-reality-announced?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Snap is buying its AR display supplier for more than $500 million](https://www.theverge.com/2021/5/21/22447150/snap-waveoptics-acquisition-500m-spectacles-waveguides) (The Verge)
@@ -1776,7 +1776,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 20 2021**
+**Thursday, May 20 2021 - Thu. 05/20 – Hello F-150 Lightning; Goodbye IE; Hello Again, RSS…**
 
   * [Ford’s Electric F-150 Pickup Aims to Be the Model T of E.V.s](https://www.nytimes.com/2021/05/19/business/ford-electric-vehicle-f-150.html) (New York Times)
   * [Ford unveils the F-150 Lightning, its all-electric pickup truck that will start under $40,000](https://techcrunch.com/2021/05/19/ford-unveils-the-f-150-lightning-its-all-electric-pickup-truck-that-will-start-under-40000/?tpcc=ECTW2020) (Tech Crunch)
@@ -1788,7 +1788,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 19 2021**
+**Wednesday, May 19 2021 - Wed. 05/19 – Google I/O Roundup**
 
   * [Helping all your devices work better together](https://blog.google/products/android/better-together/) (Google)
   * [Google plans to build a commercial quantum computer by 2029](https://www.engadget.com/google-quantum-computer-2029-goal-201612680.html?guccounter=1) (Engadget)
@@ -1800,7 +1800,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 18 2021**
+**Tuesday, May 18 2021 - Tue. 05/18 – Google I/O**
 
   * [ANDROID 12 PREVIEW: FIRST LOOK AT GOOGLE’S RADICAL NEW DESIGN](https://www.theverge.com/22439777/android-12-design-features-widgets-first-look-google?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon Pondering Deal to Buy MGM](https://www.theinformation.com/articles/amazon-pondering-deal-to-buy-mgm) (The Information)
@@ -1811,7 +1811,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 17 2021**
+**Monday, May 17 2021 - Mon. 05/17 – Better Quality Streaming Audio (Basically) For Free**
 
   * [Apple announces lossless Apple Music is coming in June at no added cost](https://www.theverge.com/2021/5/17/22440090/apple-music-lossless-audio-dolby-atmos-support-audio?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon Music Drops HD Tier to $9.99, Shaking Up Hi-Fi Streaming Market](https://www.billboard.com/articles/business/9573513/amazon-music-hd-unlimited-hi-fi-price-streaming) (Billboard)
@@ -1824,13 +1824,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, May 15 2021**
+**Saturday, May 15 2021 - (TWTR SPC) Tipping As The Currency For The Creator Economy**
 
   * [**Porkbun.com/tld/design**](https://b.link/RIDEHOME)
 
 
 
-**Friday, May 14 2021**
+**Friday, May 14 2021 - Fri. 05/14 – Now Ransomware Is Shutting Down The Irish Health Service**
 
   * [Cyber attack 'most significant on Irish state'](https://www.bbc.com/news/world-europe-57111615) (BBC)
   * [Disney Plus Hits 103.6 Million Subscribers as Rapid Growth Slows, ESPN Plus Perks Up](https://variety.com/2021/digital/news/disney-plus-hits-103-6-million-subscribers-1234972672/) (Variety)
@@ -1838,7 +1838,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 13 2021**
+**Thursday, May 13 2021 - Thu. 05/13 – Elon Rekt Crypto**
 
   * [Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm](https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Elon Musk’s SpaceX inks satellite connectivity deal with Google Cloud](https://www.theverge.com/2021/5/13/22433982/elon-musk-spacex-internet-connectivity-deal-google-cloud?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1850,7 +1850,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 12 2021**
+**Wednesday, May 12 2021 - Wed. 05/12 – Xiaomi Gets Out Of The Dog House**
 
   * [US agrees to drop Xiaomi from blacklist after lawsuit](https://www.bloomberg.com/news/articles/2021-05-12/xiaomi-u-s-government-agree-to-drop-firm-from-blacklist?sref=Szq5ylDR) (Bloomberg)
   * [Amazon updates the Echo Show 8 and 5 with better cameras](https://www.theverge.com/2021/5/12/22429549/amazon-echo-show-8-5-camera-update-price-kids-edition?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1863,7 +1863,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 11 2021**
+**Tuesday, May 11 2021 - Tue. 05/11 – It’s New Chip Tuesday!**
 
   * [Intel Launches 11th Generation Core Tiger Lake-H: Eight Core 10nm Mobile Processors](https://www.anandtech.com/show/16668/intel-launches-11th-generation-core-tiger-lakeh-eight-core-10nm-mobile-processors) (AnandTech)
   * [NVIDIA's RTX 3050 and 3050 Ti bring ray tracing to affordable laptops](https://www.engadget.com/nvidia-rtx-3050-ti-ray-tracing-affordable-gaming-laptops-110058581.html) (Engadget)
@@ -1874,7 +1874,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 10 2021**
+**Monday, May 10 2021 - Mon. 05/10 – No PlayStation For Me Until 2023?**
 
   * [Sony warns tight Playstation 5 supply to extend into next year](https://www.bloomberg.com/news/articles/2021-05-10/sony-warns-tight-playstation-5-supply-to-extend-into-next-year?sref=Szq5ylDR) (Bloomberg)
   * [Colonial hackers stole data Thursday ahead of pipeline shutdown](https://www.bloomberg.com/news/articles/2021-05-09/colonial-hackers-stole-data-thursday-ahead-of-pipeline-shutdown?sref=Szq5ylDR) (Bloomberg)
@@ -1887,13 +1887,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, May 08 2021**
+**Saturday, May 08 2021 - (TWTR SPC) Tip Jar, Basecamp And Doge**
 
   * [**Cybereason.com**](https://www.cybereason.com/)
 
 
 
-**Friday, May 07 2021**
+**Friday, May 07 2021 - Fri. 05/07 – Twitter Introduces Tip Jar**
 
   * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Square gets a bitcoin boost with revenue up 266%](https://www.cnbc.com/2021/05/06/square-sq-earnings-q1-2021.html) (CNBC)
@@ -1903,7 +1903,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 06 2021**
+**Thursday, May 06 2021 - Thu. 05/06 – Rage, Rage Against The Dying Of Moore’s Law**
 
   * [IBM Creates First 2nm Chip](https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip) (AnandTech)
   * [Google is going to start automatically enrolling users in two-step verification](https://www.zdnet.com/article/google-is-going-to-start-automatically-enrolling-users-in-two-step-verification/) (ZDNet)
@@ -1915,7 +1915,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 05 2021**
+**Wednesday, May 05 2021 - Wed. 05/05 – Facebook Oversight Board Upholds Trump Ban**
 
   * [Facebook’s Trump ban can stay in place, says Oversight Board](https://www.theverge.com/2021/5/5/22320329/facebook-oversight-board-trump-ban-decision?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Signal Tries to Run the Most Honest Facebook Ad Campaign Ever, Immediately Gets Banned](https://gizmodo.com/signal-tried-to-run-the-most-honest-facebook-ad-campaig-1846823457?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
@@ -1929,7 +1929,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 04 2021**
+**Tuesday, May 04 2021 - Tue. 05/04 – How Many People Still Pay For AOL?**
 
   * [Twitter expands Spaces to anyone with 600+ followers, details plans for tickets, reminders and more](https://techcrunch.com/2021/05/03/twitter-expands-spaces-to-anyone-with-600-followers-details-plans-for-tickets-reminders-and-more/?guccounter=1) (Tech Crunch)
   * [Twitter is buying Scroll, the subscription service that removes ads from news sites](https://www.theverge.com/2021/5/4/22417852/twitter-buying-scroll-subscription-service-news-revue-newsletter?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1941,7 +1941,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 03 2021**
+**Monday, May 03 2021 - Mon. 05/03 – Kuo: Foldable iPhone In 2023!**
 
   * [Kuo: Apple to Launch 8-Inch Foldable iPhone in 2023](https://www.macrumors.com/2021/05/02/kuo-8-inch-foldable-iphone-2023/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
   * [Verizon sells media businesses including Yahoo and AOL to Apollo for $5 billion](https://www.cnbc.com/2021/05/03/verizon-sells-yahoo-and-aol-businesses-to-apollo-for-5-billion.html) (CNBC)
@@ -1953,7 +1953,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 30 2021**
+**Friday, April 30 2021 - Fri. 04/30 – The EU Brings The Hammer Down On Apple**
 
   * [EU Charges Apple With App Store Antitrust Violations in Spotify Case](https://www.wsj.com/articles/apple-faces-eu-antitrust-charges-over-app-store-payments-in-spotify-case-11619777595?mod=djemalertNEWS) (Wall Street Jounal)
   * [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html) (Axios)
@@ -1962,7 +1962,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 29 2021**
+**Thursday, April 29 2021 - Thu. 04/29 – What If This Is A Tech Inflection Point?**
 
   * [Facebook Revenue Grows 48% as Ad Prices Increase](https://www.theinformation.com/briefings/c85ea6) (The Information)
   * [Apple warns of supply shortages likely to impact iPad and Mac in Q3](https://9to5mac.com/2021/04/28/apple-supply-shortages-ipad-mac/) (9to5 Mac)
@@ -1974,7 +1974,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 28 2021**
+**Wednesday, April 28 2021 - Wed. 04/28 – CES Says: “We’re Doing It Live!”**
 
   * [CES will return to Las Vegas as an in-person event in 2022](https://www.theverge.com/2021/4/28/22407494/ces-2022-in-person-conference-event-tech-show-las-vegas-january?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Samsung’s new Galaxy Book Pro and Galaxy Book Pro 360 are lightweight laptops with OLED screens](https://www.theverge.com/22405540/samsung-galaxy-book-pro-360-features-price-photos-video-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1985,7 +1985,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 27 2021**
+**Tuesday, April 27 2021 - Tue. 04/27 – EU To Charge Apple This Week?**
 
   * [EU to charge Apple with anti-competitive behaviour this week](https://www.ft.com/content/df07e3f2-2d6e-4ced-a819-779e743d85ff) (Financial Times)
   * [Spotify launches podcast subscriptions, but you can’t subscribe in-app](https://www.theverge.com/2021/4/27/22404273/spotify-podcast-subscriptions-monetize-subscriber-shows?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1996,7 +1996,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 26 2021**
+**Monday, April 26 2021 - Mon. 04/26 – Listen To The Podcast On Facebook, I Guess?**
 
   * [Facebook introduces a new miniplayer that streams Spotify within the Facebook app](https://techcrunch.com/2021/04/26/facebook-introduces-a-new-miniplayer-that-streams-spotify-within-the-facebook-app/) (Tech Crunch)
   * [Zoom launches Immersive View to unify participants in the same virtual room](https://venturebeat.com/2021/04/26/zoom-launches-immersive-view-to-unify-participants-in-the-same-virtual-room/) (Venture Beat)
@@ -2009,7 +2009,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 23 2021**
+**Friday, April 23 2021 - Fri. 04/23 – Spotify Quick To Counter Apple’s Podcast Moves**
 
   * [Apple, Spotify and the New Battle Over Who Wins Podcasting](https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS) (Wall Street Journal)
   * [Did a Human or a Computer Crash This Tesla?](https://nymag.com/intelligencer/2021/04/did-a-human-or-a-computer-crash-this-tesla.html) (Intelligencer)
@@ -2017,7 +2017,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 22 2021**
+**Thursday, April 22 2021 - Thu. 04/22 – Cloud Based Cellular Networking?**
 
   * [US satellite company Dish taps Amazon for 5G launch](https://www.ft.com/content/e9e61099-a216-4b12-b054-24ac76745a73) (Financial Times)
   * [Apple Plans Notifications, iPad Home Screen Upgrades for iOS 15](https://www.bloomberg.com/news/articles/2021-04-22/apple-plans-notifications-ipad-home-screen-upgrades-for-ios-15?sref=Szq5ylDR) (Bloomberg)
@@ -2027,7 +2027,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 21 2021**
+**Wednesday, April 21 2021 - Wed. 04/21 – GDPR But For AI?**
 
   * [Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal](https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520?mod=djemalertNEWS) (Wall Street Journal)
   * [Instagram launches tools to filter out abusive DMs based on keywords and emojis, and to block people, even on new accounts](https://techcrunch.com/2021/04/21/instagram-launches-tools-to-filter-out-abusive-dms-based-on-keywords-and-emojis-and-to-block-people-even-on-new-accounts/) (Tech Crunch)
@@ -2038,7 +2038,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 20 2021**
+**Tuesday, April 20 2021 - Tue. 04/20 – The Apple “Spring Loaded” Media Event**
 
   * [Apple updates 11" and 12.9" iPad Pros with M1, 8-core GPU, Thunderbolt, up to 2TB storage, 5G, 1080p FaceTime HD camera, and a miniLED screen on the 12.9" model](https://www.techmeme.com/210420/p46#a210420p46) (Techmeme)
   * [Apple introduces Podcasts Subscriptions to pay creators for content in redesigned app](https://9to5mac.com/2021/04/20/apple-introduces-podcasts-subscriptions-to-pay-creators-for-content/) (9to5Mac)
@@ -2049,7 +2049,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 19 2021**
+**Monday, April 19 2021 - Mon. 04/19 – Facebook To Announce Going Big On Audio, Via Audio?**
 
   * [Facebook plans to go after Clubhouse — and podcasts — with a suite of new audio products](https://www.vox.com/recode/2021/4/18/22390742/facebook-podcasts-clubhouse-audio-launch-spotify-zuckerberg-apple?scrolla=5eb6d68b7fedc32c19ef33b4) (Vox)
   * [Clubhouse closes an undisclosed $4B valuation Series C round, as tech giants’ clones circle](https://techcrunch.com/2021/04/19/clubhouse/) (Tech Crunch)
@@ -2060,7 +2060,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 16 2021**
+**Friday, April 16 2021 - Fri. 04/16 – Chip Shortage To Continue; Sucks For Everyone, Basically**
 
   * [Intel, Nvidia, TSMC execs agree: Chip shortage could last into 2023](https://arstechnica.com/gadgets/2021/04/intel-nvidia-tsmc-execs-agree-chip-shortage-could-last-into-2023/) (Ars Technica)
   * [Facebook faces ‘mass action’ lawsuit in Europe over 2019 breach](https://techcrunch.com/2021/04/16/facebook-faces-mass-action-lawsuit-in-europe-over-2019-breach/) (Tech Crunch)
@@ -2068,7 +2068,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 14 2021**
+**Wednesday, April 14 2021 - Wed. 04/14 – Now It’s the FBI Doing The (Legal?) Hacking**
 
   * [FBI Accesses Computers Around Country to Delete Microsoft Exchange Hacks](https://www.vice.com/en/article/y3dmjg/fbi-removes-web-shells-microsoft-exchange) (Vice)
   * [Kuo: 2022 iPhones to Feature 48-Megapixel Camera, 8K Video, and 6.1 and 6.7" Sizes With No 5.4" Mini Option](https://www.macrumors.com/2021/04/14/kuo-2022-iphones-no-mini-upgraded-camera/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
@@ -2080,7 +2080,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 13 2021**
+**Tuesday, April 13 2021 - New Surface Laptop 4**
 
   * [Microsoft announces Surface Laptop 4 with choice of Intel or AMD processors](https://www.theverge.com/22381390/microsoft-surface-laptop-4-features-price-specs-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Siri Reveals Apple Event Planned for Tuesday, April 20](https://www.macrumors.com/2021/04/13/siri-apple-event-tuesday-april-20/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
@@ -2091,7 +2091,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 12 2021**
+**Monday, April 12 2021 - Mon. 04/12 – Microsoft Acquires Nuance**
 
   * [Microsoft buys speech recognition firm Nuance in a $16 billion deal](https://www.cnbc.com/2021/04/12/microsoft-buys-nuance-communications-in-16-billion-deal.html) (CNBC)
   * [Apple Working on Combined TV Box, Speaker to Revive Home Efforts](https://www.bloomberg.com/news/articles/2021-04-12/apple-working-on-combined-tv-box-speaker-to-revive-home-efforts?sref=sZAFdZwV) (Bloomberg)
@@ -2103,14 +2103,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, April 10 2021**
+**Saturday, April 10 2021 - (TWTR SPACE) The Coinbase Moment For Crypto**
 
   * [**Today In Digital Marketing podcast**](https://todayindigital.com/)
   * [**GivingMultiplier.org/techmeme**](https://givingmultiplier.org/techmeme)
 
 
 
-**Friday, April 09 2021**
+**Friday, April 09 2021 - Fri. 04/09 – Amazon Wins The Union Battle**
 
   * [Partial tally in Amazon union drive favors ‘No’ votes](https://www.nytimes.com/2021/04/08/technology/amazon-union-vote.html)
   * [Epic v. Apple discovery details ‘Project Liberty’ scheme to skirt App Store with Fortnite](https://9to5mac.com/2021/04/08/epic-games-apple-discovery-details-project-liberty-scheme-to-skirt-app-store-with-fortnite/) (9to5Mac)
@@ -2120,7 +2120,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 08 2021**
+**Thursday, April 08 2021 - Thu. 04/08 – Now The Chip Shortage Has Come For Apple?**
 
   * [MacBook and iPad production delayed as supply crunch hits Apple](https://asia.nikkei.com/Business/Tech/Semiconductors/MacBook-and-iPad-production-delayed-as-supply-crunch-hits-Apple) (NikkeiAsia)
   * [Apple MacBook and iPad production may be delayed over global chip shortage](https://appleinsider.com/articles/21/04/08/apple-macbook-and-ipad-production-may-be-delayed-over-global-chip-shortage) (AppleInsider)
@@ -2134,7 +2134,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 07 2021**
+**Wednesday, April 07 2021 - Wed. 04/07 – TLDR: Coinbase Is A Helluva Business**
 
   * [Coinbase Posts Blowout Q1 Profit of $730-$800 Million, Days Before Public Listing](https://decrypt.co/64108/coinbase-blowout-q1-profit-days-ahead-of-april-14-direct-listing) (Decrypt)
   * [Patreon’s Valuation Triples to $4 Billion as Platform Draws Creators, Fans](https://www.wsj.com/articles/patreons-valuation-triples-to-4-billion-as-creators-and-fans-flock-to-platform-11617762374?mod=djemalertNEWS) (WSJ)
@@ -2146,7 +2146,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 06 2021**
+**Tuesday, April 06 2021 - Tue. 04/06 – Clubhouse Turns On The Money Spigot Quickly**
 
   * [Clubhouse’s new direct payments let you toss a coin to creators, and they get 100 percent](https://www.theverge.com/2021/4/5/22368929/clubhouse-direct-payments-creators-stripe?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [TikTok adds automatic captions to videos in accessibility push](https://www.theverge.com/2021/4/6/22369507/tiktok-automatic-captions-accessibility-feature-american-english-japanese?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2158,7 +2158,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 05 2021**
+**Monday, April 05 2021 - Mon. 04/05 – SCOTUS Rules: APIs Not Copyrightable**
 
   * [Supreme Court rules in Google’s favor in copyright dispute with Oracle over Android software](https://www.cnbc.com/2021/04/05/supreme-court-rules-in-googles-favor-in-copyright-dispute-with-oracle-over-android-software.html) (CNBC)
   * [Supreme Court vacates lower court decision on Trump blocking Twitter followers](https://www.axios.com/trump-twitter-supreme-court-followers-block-d6704a4d-ab93-4d5c-b798-e5bfc9ea6ea5.html) (Axios)
@@ -2171,7 +2171,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 02 2021**
+**Friday, April 02 2021 - Fri. 04/02 – Coinbase Going Public With A Confident Swagger**
 
   * [Coinbase To Go Public on April 14, Announce Q1 Earnings Beforehand](https://decrypt.co/63671/coinbase-going-public-in-april-14-announce-q1-earnings-beforehand) (Decrypt)
   * [Apple Rejecting Apps With Fingerprinting Enabled As iOS 14 Privacy Enforcement Starts](https://www.forbes.com/sites/johnkoetsier/2021/04/01/apple-rejecting-apps-with-fingerprinting-enabled-as-ios-14-privacy-enforcement-starts/?sh=74c670da3d19) (Forbes)
@@ -2181,7 +2181,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 01 2021**
+**Thursday, April 01 2021 - Thu. 04/01 – Microsoft’s Pentagon Deal Validates The AR Industry**
 
   * [Microsoft wins U.S. Army contract for augmented reality headsets, worth up to $21.9 billion over 10 years](https://www.cnbc.com/2021/03/31/microsoft-wins-contract-to-make-modified-hololens-for-us-army.html) (CNBC)
   * [Amazon says it expects some employees to return to the office this summer, most will return in fall](https://www.cnbc.com/2021/03/31/amazon-expects-some-employees-to-return-to-the-office-this-summer.html) (CNBC)
@@ -2192,7 +2192,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 31 2021**
+**Wednesday, March 31 2021 - Wed. 03/31 – Everything Old Is New Again In The News Feed**
 
   * [Facebook Adds New 'Most Recent' Timeline to Switch to Chronological Posts](https://www.macrumors.com/2021/03/31/facebook-most-recent-timeline/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [LinkedIn confirms it’s working on a Clubhouse rival, too](https://techcrunch.com/2021/03/30/linkedin-confirms-its-working-on-a-clubhouse-rival-too/) (TechCrunch)
@@ -2205,7 +2205,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 30 2021**
+**Tuesday, March 30 2021 - Tue. 03/30 – Spotify To Spin Up Clubhouse Competitor**
 
   * [Spotify is launching its own Clubhouse competitor](https://www.theverge.com/2021/3/30/22356993/spotify-locker-room-clubhouse-launch-acquisition) (The Verge)
   * [Spotify acquires Betty Labs, creator of live audio app Locker Room](https://www.axios.com/spotify-betty-labs-locker-room-52550d15-3c05-48ed-b924-a9404c31901b.html) (Axios)
@@ -2219,7 +2219,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 29 2021**
+**Monday, March 29 2021 - Mon. 03/29 – Ok, Will Digital Vaccine Passports Work?**
 
   * [New York launches nation's first 'vaccine passports.' Others are working on similar ideas, but many details must be worked out.](https://www.usatoday.com/story/news/health/2021/03/26/covid-vaccine-passports-new-york-first-vaccination-proof-system/6976009002/?scrolla=5eb6d68b7fedc32c19ef33b4) (USAToday)
   * [Exclusive: Visa moves to allow payment settlements using cryptocurrency](https://www.reuters.com/article/us-crypto-currency-visa-exclusive-idUSKBN2BL0X9) (Reuters)
@@ -2231,7 +2231,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 26 2021**
+**Friday, March 26 2021 - Fri. 03/26 – The House Tech Hearings Were… Whatever…**
 
   * [Yes or no: Are these tech hearings doing anything?](https://www.theverge.com/2021/3/25/22351192/tech-ceo-hearing-mark-zuckerberg-jack-dorsey-sundar-pichai-facebook-google-twitter?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple Considers Launching Rugged Watch for Extreme Sports](https://www.bloomberg.com/news/articles/2021-03-26/apple-considers-launching-rugged-watch-for-extreme-sports?sref=sZAFdZwV) (Bloomberg)
@@ -2240,7 +2240,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 25 2021**
+**Thursday, March 25 2021 - Thu. 03/25 – DDR5 Arrives (F*** Everything, We're Doing Five Blades)**
 
   * [Samsung Announces 512GB DDR5 Memory That Is Twice As Fast As DDR4](https://hothardware.com/news/samsung-512gb-ddr5-memory-2x-faster-ddr4) (HotHardware)
   * [Zuckerberg suggests how to tweak tech's liability shield](https://www.axios.com/zuckerberg-facebook-section-230-shield-liability-ac9cfb3d-c98d-473b-b80a-722c79e68568.html) (Axios)
@@ -2252,7 +2252,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 24 2021**
+**Wednesday, March 24 2021 - Wed. 03/24 – Buying Teslas With Bitcoin Is More Bullish For Whom?**
 
   * [Elon Musk says people can now buy a Tesla with bitcoin](https://www.cnbc.com/2021/03/24/elon-musk-says-people-can-now-buy-a-tesla-with-bitcoin.html) (CNBC)
   * [WhatsApp for work: Slack is turning into a full-on messaging app](https://www.protocol.com/slack-messaging-connect) (Protocol)
@@ -2266,7 +2266,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 23 2021**
+**Tuesday, March 23 2021 - Tue. 03/23 – Microsoft To Buy Discord?**
 
   * [Microsoft in Talks to Buy Discord for More Than $10 Billion](https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b?sref=sZAFdZwV) (Bloomberg)
   * [Microsoft rebrands Xbox Live to Xbox network](https://www.theverge.com/2021/3/22/22345276/microsoft-xbox-live-network-rebrand-name-change?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2279,7 +2279,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 22 2021**
+**Monday, March 22 2021 - Mon. 03/22 – Unusual Trouble At Red-Hot Startup Dispo**
 
   * [David Dobrik, Losing Sponsors and Fans, Steps Down From App He Co-founded](https://www.nytimes.com/2021/03/19/style/david-dobrik-youtube-explained.html) (NYTimes)
   * [Spark Capital decides to “sever all ties” with David Dobrik’s Dispo app weeks after leading deal](https://techcrunch.com/2021/03/21/spark-capital-decides-to-sever-all-ties-with-david-dobriks-dispo-app-weeks-after-leading-investment/) (TechCrunch)
@@ -2291,7 +2291,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 19 2021**
+**Friday, March 19 2021 - Fri. 03/19 – A Rebel Alliance, Led By Facebook, And Born In A Clubhouse Room?**
 
   * [Facebook Is Building An Instagram For Kids Under The Age Of 13](https://www.buzzfeednews.com/article/ryanmac/facebook-instagram-for-children-under-13?scrolla=5eb6d68b7fedc32c19ef33b4) (BuzzFeed News)
   * [Twitter begins testing a way to watch YouTube videos from the home timeline on iOS](https://techcrunch.com/2021/03/18/twitter-begins-testing-a-way-to-watch-youtube-videos-from-the-home-timeline-on-ios/) (TechCrunch)
@@ -2301,7 +2301,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 18 2021**
+**Thursday, March 18 2021 - Thu. 03/18 – An April Apple Event?**
 
   * [Apple Nears Launch of New iPads After Stay-At-Home Sales Boost](https://www.bloomberg.com/news/articles/2021-03-17/apple-nears-launch-of-new-ipads-after-stay-at-home-sales-boost?sref=sZAFdZwV) (Bloomberg)
   * [PS5's VR 2.0: First Look At New Controllers](https://www.gamespot.com/articles/ps5s-vr-2-0-first-look-at-new-controllers/1100-6488980/) (GameSpot)
@@ -2314,7 +2314,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 17 2021**
+**Wednesday, March 17 2021 - Wed. 03/17 – Samsung’s 2nd Unpacked Brings New A-series Phones**
 
   * [Samsung’s midrange phones now feature fast refresh rate screens, stabilized cameras](https://www.theverge.com/2021/3/17/22334392/samsung-galaxy-a52-5g-a72-specs-price-camera?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Samsung Warns of Severe Chip Crunch While Delaying Key Phone](https://www.bloomberg.com/news/articles/2021-03-17/samsung-warns-of-serious-imbalance-in-the-chips-industry?sref=sZAFdZwV) (Bloomberg)
@@ -2327,7 +2327,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 16 2021**
+**Tuesday, March 16 2021 - Tue. 03/16 – The 2nd Gen Nest Hub Gets Sleep Tracking**
 
   * [Google announces 2nd-gen Nest Hub with Soli-powered ‘Sleep Sensing’ for $99](https://9to5google.com/2021/03/16/new-nest-hub-sleep-sensing-soli/) (9to5Google)
   * [Intel’s 11th Gen desktop chips are here with faster speeds but fewer cores](https://www.theverge.com/2021/3/16/22325460/intel-11th-gen-desktop-chips-rocket-lake-s-faster-speeds-cores-gaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2339,7 +2339,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 15 2021**
+**Monday, March 15 2021 - Mon. 03/15 – Stripe The Most Successful (Private) SV Startup Ever?**
 
   * [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f) (Financial Times)
   * [Airtable Tops $5.7 Billion Valuation On Growing Enterprise Sales And A Soaring Cloud Market](https://www.forbes.com/sites/stevenbertoni/2021/03/15/airtable-tops-57-billion-valuation-on-growing-enterprise-sales-and-a-soaring-cloud-market/?sh=3a445d60249a) (Forbes)
@@ -2351,7 +2351,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 12 2021**
+**Friday, March 12 2021 - Netflix Is Cracking Down On Password Sharing**
 
   * [Netflix Begins Test to Crack Down on Password Sharing Outside Your Household](https://thestreamable.com/news/netflix-begins-test-to-crack-down-on-password-sharing-outside-your-household) (The Streamable)
   * [Apple sues former employee for stealing trade secrets, leaking information to the media](https://9to5mac.com/2021/03/11/apple-former-employee-lawsuit/) (9to5Mac)
@@ -2360,7 +2360,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 11 2021**
+**Thursday, March 11 2021 - Thu. 03/11 – The Roblox Debut**
 
   * [Roblox jumps to $38 billion market cap as public investors get their first crack at the popular kids game app](https://www.cnbc.com/2021/03/10/roblox-rblx-starts-trading-at-64point50-after-direct-listing.html) (CNBC)
   * [Twitter plans to let anyone start hosting Twitter Spaces in April](https://www.theverge.com/2021/3/10/22323767/twitter-spaces-april-release-date-plan?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2373,7 +2373,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 10 2021**
+**Wednesday, March 10 2021 - Wed. 03/10 – Now The Hackers Are In The Security Cams**
 
   * [Hackers Breach Thousands of Security Cameras, Exposing Tesla, Jails, Hospitals](https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cams?sref=sZAFdZwV) (Bloomberg)
   * [Apple slashes planned iPhone 12 mini production for 1H](https://asia.nikkei.com/Business/Technology/Apple-slashes-planned-iPhone-12-mini-production-for-1H) (NikkeiAsia)
@@ -2388,7 +2388,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 09 2021**
+**Tuesday, March 09 2021 - Tue. 03/09 – An FTC Commissioner To Make Silicon Valley Cower?**
 
   * [POLITICO Playbook: Scoop: Biden taps another Big Tech trustbuster](https://www.politico.com/newsletters/playbook/2021/03/09/scoop-biden-taps-another-big-tech-trustbuster-492042) (Politico/Playbook)
   * [Amazon’s Antitrust Antagonist Has a Breakthrough Idea](https://www.nytimes.com/2018/09/07/technology/monopoly-antitrust-lina-khan-amazon.html) (NYTimes)
@@ -2400,7 +2400,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 08 2021**
+**Monday, March 08 2021 - Mon. 03/08 – Apple AR Contact Lenses As The Apple Rumor Singularity**
 
   * [Kuo: Apple to Launch Mixed Reality Headset in Mid 2022 and Augmented Reality Glasses by 2025](https://www.macrumors.com/2021/03/07/kuo-apple-mixed-reality-headset-2022/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Preparing for Retaliation Against Russia, U.S. Confronts Hacking by China](https://www.nytimes.com/2021/03/07/us/politics/microsoft-solarwinds-hack-russia-china.html) (NYTimes)
@@ -2411,7 +2411,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 05 2021**
+**Friday, March 05 2021 - Fri. 03/05 – Eyes Emoji On Tim Wu Joining The Biden Administration**
 
   * [A Leading Critic of Big Tech Will Join the White House](https://www.nytimes.com/2021/03/05/technology/tim-wu-white-house.html) (NYTimes)
   * [Here’s what Twitter’s rumored ‘undo send’ feature could look like](https://www.theverge.com/2021/3/5/22314973/twitter-undo-send-interface-leak-paid-feature-rumor-app-researcher?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2420,7 +2420,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 04 2021**
+**Thursday, March 04 2021 - Thu. 03/04 – Is Square Buying Tidal A Watershed Moment For The Creator Economy?**
 
   * [Square acquires majority of Tidal, Jay-Z’s streaming service, in $297 million deal.](https://www.nytimes.com/2021/03/04/business/media/tidal-square-jay-z-dorsey.html) (NYTimes)
   * [Apple Launches Service for Transferring iCloud Photos and Videos to Google Photos](https://www.macrumors.com/2021/03/03/apple-transfer-icloud-photos-google-photos/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2430,7 +2430,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 03 2021**
+**Wednesday, March 03 2021 - Wed. 03/03 – Google (Sorta) Pivots To Privacy**
 
   * [Google promises it won’t just keep tracking you after replacing cookies](https://www.theverge.com/2021/3/3/22310332/google-privacy-replacing-third-party-cookies-privacy-sandbox?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Google to Stop Selling Ads Based on Your Specific Web Browsing](https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021?mod=djemalertNEWS) (WSJ)
@@ -2443,7 +2443,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 02 2021**
+**Tuesday, March 02 2021 - Tue. 03/02 – iPhone 13 To Go Notch-Less?**
 
   * [Kuo: iPhone 13 series to feature smaller notch, 120Hz display, larger batteries, more](https://9to5mac.com/2021/03/01/kuo-iphone-13-series-to-feature-smaller-notch-120hz-display-larger-batteries-more/) (9to5Mac)
   * [All 270 US Apple Stores are open for the first time since March 2020](https://9to5mac.com/2021/03/01/apple-retail-stores-us-all-reopened/) (9to5Mac)
@@ -2457,7 +2457,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 01 2021**
+**Monday, March 01 2021 - Mon. 03/01 – Instagram Launches Live Rooms For Group Broadcasts**
 
   * [Instagram launches ‘Live Rooms’ for live broadcasts with up to four creators](https://techcrunch.com/2021/03/01/instagram-launches-live-rooms-for-live-broadcasts-with-up-to-four-creators/) (TechCrunch)
   * [Verizon support says you should turn off 5G to save your phone’s battery](https://www.theverge.com/2021/2/28/22305899/verizon-support-turn-off-5g-save-phone-battery?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2469,7 +2469,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 26 2021**
+**Friday, February 26 2021 - Fri. 02/26 – Twitter Does ALL The Things (Even $$$ For Tweets)**
 
   * [Twitter announces paid Super Follows to let you charge for tweets](https://www.theverge.com/2021/2/25/22301375/twitter-super-follows-communities-paid-followers?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter planning a feature to let you auto-block and mute abusive accounts](https://www.theverge.com/2021/2/25/22301388/twitter-auto-block-mute-abusive-accounts-safety-mode?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2479,7 +2479,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 25 2021**
+**Thursday, February 25 2021 - Thu. 02/25 – The Biden Administration Addressed The Chip Shortage**
 
   * [Biden Orders Broad Supply-Chain Review Amid Chip Shortages](https://www.wsj.com/articles/biden-to-address-chip-shortages-supply-chain-problems-with-executive-action-11614160803?mod=djemalertNEWS) (WSJ)
   * [Coinbase Reveals $322M in Profit For 2020 Ahead of Landmark Public Debut](https://decrypt.co/59347/coinbase-big-profit-for-2020-ahead-of-milestone-ipo-direct-listing) (Decrypt)
@@ -2491,7 +2491,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 24 2021**
+**Wednesday, February 24 2021 - Facebook Defends Its Stance In Australia**
 
   * [The Real Story of What Happened With News on Facebook in Australia](https://about.fb.com/news/2021/02/the-real-story-of-what-happened-with-news-on-facebook-in-australia/) (Facebook Newsroom)
   * [Facebook got everything it wanted out of Australia by being willing to do what the other guy wouldn’t](https://www.niemanlab.org/2021/02/facebook-got-everything-it-wanted-out-of-australia-by-being-willing-to-do-what-the-other-guy-wouldnt/) (Nieman Lab)
@@ -2504,7 +2504,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 23 2021**
+**Tuesday, February 23 2021 - Tue. 02/23 – Australia Caves To Facebook**
 
   * [Facebook to reverse news ban on Australian sites, government to make amendments to media bargaining code](https://www.abc.net.au/news/2021-02-23/facebook-reverses-news-ban-on-australian-sites-media-code/13173984) (ABC.net.au)
   * [PlayStation CEO says PS5 will get its own VR headset, explains console supply chain shortfall](https://www.washingtonpost.com/video-games/2021/02/23/ps5-vr/) (Washington Post)
@@ -2515,7 +2515,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 22 2021**
+**Monday, February 22 2021 - Mon. 02/22 – Spotify’s New “HiFi” Subscription Tier**
 
   * [Spotify HiFi is a lossless streaming tier coming later this year](https://www.theverge.com/2021/2/22/22295273/spotify-hifi-announced-lossless-streaming-hd-quality) (The Verge)
   * [Clubhouse Chats Are Breached, Raising Concerns Over Security](https://www.bloomberg.com/news/articles/2021-02-22/clubhouse-chats-are-breached-raising-concerns-over-security?sref=sZAFdZwV) (Bloomberg)
@@ -2526,7 +2526,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 19 2021**
+**Friday, February 19 2021 - Fri. 02/19 – UK Supreme Court Officially Smacks Down Uber**
 
   * [Uber loses a major employment rights case as the UK’s top court rules its drivers are workers](https://www.cnbc.com/2021/02/19/uk-supreme-court-rules-uber-drivers-are-workers-not-contractors.html) (CNBC)
   * [Android 12 developer preview is available now with many under-the-hood updates](https://www.theverge.com/2021/2/18/22288084/android-12-developer-preview-available-google-pixel?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2535,7 +2535,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 18 2021**
+**Thursday, February 18 2021 - Thu – 02/18 – Facebook Calls Australia’s Bluff; Google Pays Off Murdoch**
 
   * [Facebook restricts users, publishers from sharing news content in Australia](https://www.cbc.ca/news/technology/australia-facebook-news-content-1.5917224) (AP)
   * [Facebook calls Australia's bluff](https://www.platformer.news/p/facebook-calls-australias-bluff) (Platformer)
@@ -2546,7 +2546,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 17 2021**
+**Wednesday, February 17 2021 - Epic Games Takes Its War With Apple To Europe**
 
   * [Epic Games files EU antitrust complaint against Apple](https://www.ft.com/content/e1259614-d954-400f-9265-f39a36c8c0c6) (FT)
   * [Apple wins victory as North Dakota votes down bill that would regulate app stores](https://www.cnbc.com/2021/02/16/apple-wins-victory-as-north-dakota-votes-down-bill-that-would-regulate-app-stores.html) (CNBC)
@@ -2559,7 +2559,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 16 2021**
+**Tuesday, February 16 2021 - Tue. 02/16 – Bitcoin Crosses $50k**
 
   * [Bitcoin Jumps to $50,000 as Record-Breaking Rally Accelerates](https://www.bloomberg.com/news/articles/2021-02-16/bitcoin-jumps-to-50-000-as-record-breaking-rally-accelerates?sref=sZAFdZwV) (Bloomberg)
   * [Essential is now officially owned by Carl Pei’s Nothing Technologies](https://9to5google.com/2021/02/15/essential-carl-pei-nothing-technologies/) (9to5Google)
@@ -2571,7 +2571,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 15 2021**
+**Monday, February 15 2021 - Mon. 02/15 – First Look At xCloud Via Browser**
 
   * [Here’s a first look at Microsoft’s xCloud for the web](https://www.theverge.com/2021/2/15/22283739/microsoft-xcloud-web-screenshots-cloud-gaming-streaming-browser-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Facebook Plans Smartwatch With Focus on Messaging, Health](https://www.theinformation.com/articles/facebook-plans-smartwatch-with-focus-on-messaging-health) (The Information)
@@ -2582,13 +2582,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, February 13 2021**
+**Saturday, February 13 2021 - (Bonus) Is Silicon Valley "Over?" With Bloomberg's @noahpinion**
 
   * [**AirMedCareNetwork.com/tech**](https://airmedcarenetwork.com/tech)
 
 
 
-**Friday, February 12 2021**
+**Friday, February 12 2021 - Fri. 02/12 – Google Adds Pixel-Exclusive Photo Editing Features To Google Photos**
 
   * [Google Photos gets new paywalled editing features for Google One subscribers](https://www.theverge.com/2021/2/11/22278149/google-photos-pixel-paywall-editing-features-one-subscribers?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [First Apple TV+ AR app launches with ‘For All Mankind’ backstory through mixed reality](https://9to5mac.com/2021/02/11/first-apple-tv-ar-app-launches-with-for-all-mankind-backstory-through-mixed-reality/) (9to5Mac)
@@ -2598,7 +2598,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 11 2021**
+**Thursday, February 11 2021 - Facebook Wants To Copy Clubhouse Too.**
 
   * [Facebook Is Said to Be Building a Product to Compete With Clubhouse](https://www.nytimes.com/2021/02/10/technology/facebook-building-product-clubhouse.html) (NYTimes)
   * [Microsoft approached Pinterest about a takeover](https://www.ft.com/content/f88b8474-e791-4efb-a9f6-54c8222680fe) (Financial Times)
@@ -2610,7 +2610,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 10 2021**
+**Wednesday, February 10 2021 - Wed. 02/10 – TikTok Pardoned By Biden?**
 
   * [TikTok Sale to Oracle, Walmart Is Shelved as Biden Reviews Security](https://www.wsj.com/articles/tiktok-sale-to-oracle-walmart-is-shelved-as-biden-reviews-security-11612958401?mod=djemalertNEWS) (WSJ)
   * [Salesforce declares the 9-to-5 workday dead, will let some employees work remotely from now on](https://www.theverge.com/2021/2/9/22275304/salesfore-remote-work-9-to-5-workday-is-dead-flex-coronavirus?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2623,7 +2623,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 09 2021**
+**Tuesday, February 09 2021 - Tue. 02/09 – Amazon To Release An Alexa ‘Command Center?’**
 
   * [Amazon Plans Wall-Mounted Echo as Smart Home Command Center](https://www.bloomberg.com/news/articles/2021-02-09/amazon-plans-wall-mounted-echo-as-smart-home-command-center?sref=sZAFdZwV) (Bloomberg)
   * [This may be our first look at Android 12, Google’s next Android OS](https://www.xda-developers.com/android-12-first-look-screenshots/) (XDA)
@@ -2635,7 +2635,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 08 2021**
+**Monday, February 08 2021 - Mon. 02/08 – Tesla Buys Bitcoin While Elon Sends Dogecoin To The Moon!**
 
   * [Tesla buys $1.5 billion in bitcoin, plans to accept it as payment](https://www.cnbc.com/2021/02/08/tesla-buys-1point5-billion-in-bitcoin.html) (CNBC)
   * [Clubhouse is now blocked in China after a brief uncensored period](https://techcrunch.com/2021/02/08/clubhouse-is-now-blocked-in-china-after-a-brief-uncensored-period/) (TechCrunch)
@@ -2647,7 +2647,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 05 2021**
+**Friday, February 05 2021 - Fri. 02/05 – An Apple Ad-pocalypse For Everyone?**
 
   * [Facebook’s not the only one worried about Apple’s privacy change — Snap and Unity both just warned investors about it](https://www.cnbc.com/2021/02/04/snap-unity-warn-of-impact-from-apple-ios-14-idfa-privacy-changes.html) (CNBC)
   * [An Interview with Eric Seufert about Apple, Facebook, and Mobile Advertising](https://stratechery.com/2021/an-interview-with-eric-seufert-about-apple-facebook-and-mobile-advertising/) (Stratechery)
@@ -2658,7 +2658,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 04 2021**
+**Thursday, February 04 2021 - Thu. 02/04 – The Most Details On Apple’s AR/VR Headset Yet**
 
   * [New Apple Mixed-Reality Headset Details: Swappable Headbands, Eye-Tracking](https://www.theinformation.com/articles/new-apple-mixed-reality-headset-details-swappable-headbands-eye-tracking) (The Information)
   * [Apple and Hyundai-Kia pushing toward deal on Apple Car](https://www.cnbc.com/2021/02/03/apple-and-hyundai-kia-driving-towards-deal-on-apple-car.html) (CNBC)
@@ -2669,7 +2669,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 03 2021**
+**Wednesday, February 03 2021 - Wed. 02/03 – Bezos Drops Mic**
 
   * [Email from Jeff Bezos to employees](https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees) (Amazon)
   * [Amazon’s next CEO, Andy Jassy, transformed e-commerce company into a cloud computing giant](https://www.cnbc.com/2021/02/02/who-is-andy-jassy-amazon-next-ceo.html) (CNBC)
@@ -2683,7 +2683,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 02 2021**
+**Tuesday, February 02 2021 - Tue. 02/02 – Ok, But Is Stadia Long For This World?**
 
   * [Google Stadia Shuts Down Internal Studios, Changing Business Focus](https://kotaku.com/google-stadia-shuts-down-internal-studios-changing-bus-1846146761?scrolla=5eb6d68b7fedc32c19ef33b4) (Kotaku)
   * [Google now gives you more information about the sites in your search results](https://techcrunch.com/2021/02/01/google-now-gives-you-more-information-about-the-sites-in-your-search-results/) (TechCrunch)
@@ -2695,7 +2695,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 01 2021**
+**Monday, February 01 2021 - Mon. 02/01 – Google Deadpools The Pixel Slate**
 
   * [Apple’s iCloud Passwords extension for Chrome on Windows is now available](https://9to5google.com/2021/01/31/apple-icloud-passwords-chrome-windows/) (9to5Google)
   * [Microsoft CEO Satya Nadella: There is ‘a big crisis right now’ for cybersecurity](https://finance.yahoo.com/news/microsoft-ceo-satya-nadella-there-is-a-big-crisis-right-now-for-cybersecurity-192533356.html) (Yahoo Finance)
@@ -2708,7 +2708,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, January 30 2021**
+**Saturday, January 30 2021 - (Bonus) The First Gadgets Episode**
 
   * [This Nifty Strap Lets You Control the Apple Watch With Gestures](https://gizmodo.com/this-nifty-strap-lets-you-control-the-apple-watch-with-1846044458) (Gizmodo)
   * [Sony reveals full details on its upcoming 360 Reality Audio speakers](https://www.engadget.com/sony-srs-ra5000-srs-ra3000-wireless-speakers-360-reality-audio-193931658.html) (Engadget)
@@ -2733,7 +2733,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 29 2021**
+**Friday, January 29 2021 - Fri. 01/29 – Robinhood Is Now The Crazy Stock Story**
 
   * [Robinhood, in Need of Cash, Raises $1 Billion From Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html) (NYTimes)
   * [Facebook is said to be planning newsletter tools to court independent writers](https://www.nytimes.com/live/2021/01/28/business/us-economy-coronavirus#facebook-is-said-to-be-planning-newsletter-tools-to-court-independent-writers)
@@ -2742,7 +2742,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 28 2021**
+**Thursday, January 28 2021 - Thu. 01/28 – Robinhood Freezes Stonks!**
 
   * [How WallStreetBets Pushed GameStop Shares to the Moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon?sref=sZAFdZwV) (Bloomberg)
   * [WallStreetBets Founder Reckons With Legacy Amid Stock](https://www.wsj.com/articles/wallstreetbets-founder-reckons-with-legacy-amid-memes-loss-porn-and-online-threats-11611829800)
@@ -2754,7 +2754,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 27 2021**
+**Wednesday, January 27 2021 - Wed. 01/27 – Introducing The Ride Home+ Premium Feed**
 
   * [Microsoft profits jump 33 percent as pandemic continues shift to cloud computing](https://www.nytimes.com/2021/01/26/business/microsoft-earnings.html)
   * [AT&T Q4: HBO Max Activations Double to 17.2 Million, Warner Bros. Revenue Declines 21%](https://variety.com/2021/tv/news/att-q4-hbo-max-activations-double-warner-bros-impairment-1234893211/) (Variety)
@@ -2766,7 +2766,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 26 2021**
+**Tuesday, January 26 2021 - Tue. 01/26 – Twitter Acquires Revue**
 
   * [Twitter acquiring newsletter publishing company Revue](https://www.axios.com/twitter-newsletter-publishing-revue-8a74f20d-61c9-4095-9b3c-202c3b3fe77c.html) (Axios)
   * [Twitter launches 'Birdwatch,' a forum to combat misinformation](https://www.nbcnews.com/tech/social-media/twitter-launches-birdwatch-forum-combat-misinformation-n1255552) (NBC News)
@@ -2778,7 +2778,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 25 2021**
+**Monday, January 25 2021 - Mon. 01/25 – Clubhouse Raises A New Round At $1B Valuation**
 
   * [Clubhouse announces plans for creator payments and raises new funding led by Andreessen Horowitz](https://techcrunch.com/2021/01/24/clubhouse-announces-plans-for-creator-payments-and-raises-new-funding-led-by-andreessen-horowitz/) (TechCrunch)
   * [Big Revolution - Inside the Clubhouse](https://www.getrevue.co/profile/bigrevolution/issues/big-revolution-inside-the-clubhouse-310373) (Big Revolution)
@@ -2792,14 +2792,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, January 23 2021**
+**Saturday, January 23 2021 - (Bonus) Harvard's Top Astronomer Avi Loeb On Oumuamua**
 
   * [**Netgear.com/bestwifi**](https://netgear.com/bestwifi)
   * [**Metalab.co**](https://www.metalab.com/)
 
 
 
-**Friday, January 22 2021**
+**Friday, January 22 2021 - Fri. 01/22 – Alphabet Sends Loon To The Deadpool**
 
   * [Alphabet Pops Loon’s Balloons—but Won't Call It a Failure](https://www.wired.com/story/plaintext-alphabet-pops-loons-balloons/) (Wired)
   * [Google threatens to shut down search in Australia if digital news code goes ahead](https://www.theguardian.com/media/2021/jan/22/google-threatens-to-shut-down-search-in-australia-if-digital-news-code-goes-ahead) (The Guardian)
@@ -2808,7 +2808,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 21 2021**
+**Thursday, January 21 2021 - Thu. 01/21 – Mark Gurman Dishes On The Apple VR Headset**
 
   * [Apple’s First Headset to Be Niche Precursor to Eventual AR Glasses](https://www.bloomberg.com/news/articles/2021-01-21/apple-s-first-vr-headset-to-be-niche-precursor-to-eventual-ar-glasses?sref=sZAFdZwV) (Bloomberg)
   * [LG considers exiting smartphones in 2021](https://www.theverge.com/2021/1/20/22240282/lg-smartphone-business-exit-2021-internal-memo) (The Verge)
@@ -2820,7 +2820,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 20 2021**
+**Wednesday, January 20 2021 - Wed. 01/20 – A16Z To Get Into The Media Business?**
 
   * [Andreessen Horowitz Looks to Launch Opinion Publication as Its Media Ambition Grows](https://www.theinformation.com/articles/andreessen-horowitz-looks-to-launch-opinion-publication-as-its-media-ambition-grows) (The Information)
   * [The Unauthorized Story of Andreessen Horowitz](https://www.newcomer.co/p/the-unauthorized-story-of-andreessen) (Newcomer)
@@ -2834,7 +2834,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 19 2021**
+**Tuesday, January 19 2021 - Tue. 01/19 – Qualcomm’s New Snapdragon 870**
 
   * [Qualcomm’s new Snapdragon 870 reheats the Snapdragon 865 for 2021 phones](https://www.theverge.com/2021/1/19/22233584/qualcomm-snapdragon-870-865-plus-refresh-processor-smartphones-2021?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft invests in Cruise in new $2 billion round](https://techcrunch.com/2021/01/19/microsoft-invests-in-cruise-in-new-2-billion-round/) (TechCrunch)
@@ -2846,7 +2846,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, January 16 2021**
+**Saturday, January 16 2021 - (Bonus) Interesting Raise Episode 1!**
 
   * [Hipcamp, ‘Airbnb of the Outdoors,’ Raises $57 Million](https://www.theinformation.com/articles/hipcamp-airbnb-of-the-outdoors-raises-57-million) (The Information)
   * [Local news app News Break raises $115M](https://techcrunch.com/2021/01/07/news-break-funding/) (TechCrunch)
@@ -2860,7 +2860,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 15 2021**
+**Friday, January 15 2021 - Fri. 01/15 – Are We Really Getting the MacBook of My Dreams?**
 
   * [Kuo details 2021 MacBook Pro: new design with squared-off sides, MagSafe connector and IO return, Touch Bar removed](https://9to5mac.com/2021/01/14/kuo-details-2021-macbook-pro-new-design-with-squared-off-sides-magsafe-connector-and-io-return-touch-bar-removed/) (9to5Mac)
   * [Apple Plans Upgraded MacBook Pros With Return of Magnetic Charging](https://www.bloomberg.com/news/articles/2021-01-15/apple-macbook-pros-with-magsafe-return-in-the-works?sref=sZAFdZwV) (Bloomberg)
@@ -2871,7 +2871,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 14 2021**
+**Thursday, January 14 2021 - Thu. 01/14 – Samsung Unpacked Brings The New Galaxy S21 Lineup**
 
   * [SAMSUNG GALAXY S21, S21 PLUS, AND S21 ULTRA FIRST LOOK: POLISHED DESIGN (AND PRICES)](https://www.theverge.com/22227772/samsung-galaxy-s21-plus-ultra-price-specs-release-date-unpacked?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [The Galaxy S21 Ultra packs two telephoto lenses and supports the S Pen](https://www.engadget.com/samsung-galaxy-s21-price-specs-availability-150045738.html) (Engadget)
@@ -2883,7 +2883,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 13 2021**
+**Wednesday, January 13 2021 - Wed. 01/13 – The Visa/Plaid Merger Is Called Off**
 
   * [Visa Abandons Planned Acquisition of Plaid After DOJ Challenge](https://www.wsj.com/articles/visa-abandons-planned-acquisition-of-plaid-after-doj-challenge-11610486569?mod=djemalertNEWS) (WSJ)
   * [Qualcomm eyes challenge to Apple, Intel with $1.4 billion deal for chip startup](https://www.reuters.com/article/idUSKBN29I1OJ) (Reuters)
@@ -2896,7 +2896,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 12 2021**
+**Tuesday, January 12 2021 - Tue. 01/12 – Intel Unveils New Core i9-11900K Flagship Chip**
 
   * [Intel Previews 11th Gen Core Rocket Lake: Core i9-11900K and Z590, Coming Q1](https://www.anandtech.com/show/16390/intel-previews-11th-gen-core-rocket-lake-core-i911900k-and-z590-coming-q1) (AnandTech)
   * [Lenovo’s new ThinkPad X1 Titanium Yoga is less than half an inch thick](https://www.theverge.com/2021/1/11/22224757/lenovo-thinkpad-x1-titanium-yoga-carbon-business-laptops-intel?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2909,7 +2909,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 11 2021**
+**Monday, January 11 2021 - Mon. 01/11 – All Of Tech Kills Parler**
 
   * [Amazon Is Booting Parler Off Of Its Web Hosting Service](https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws?scrolla=5eb6d68b7fedc32c19ef33b4) (Buzzfeed)
   * [Parler CEO Says Service Dropped By “Every Vendor” And Could End His Business](https://deadline.com/2021/01/parler-ceo-says-service-dropped-by-every-vendor-and-could-end-the-company-1234670607/) (Deadline)
@@ -2921,7 +2921,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 08 2021**
+**Friday, January 08 2021 - Fri. 01/08 – An Apple/Hyundai Car?**
 
   * [Hyundai Motor says it’s in early talks with Apple to develop a car, sends shares soaring 19%](https://www.cnbc.com/2021/01/08/hyundai-motor-says-it-is-in-early-talks-with-apple.html) (CNBC)
   * [SolarWinds hires former Trump cyber security chief Chris Krebs](https://www.ft.com/content/df641e33-9150-4846-b4f7-db4e3175d290) (Financial Times)
@@ -2932,7 +2932,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 07 2021**
+**Thursday, January 07 2021 - Thu. 01/07 – Yes, There’s A Tech Angle To Yesterday’s Events…**
 
   * [Twitter and Facebook Lock Trump’s Accounts After Violence on Capitol Hill](https://www.nytimes.com/2021/01/06/technology/capitol-twitter-facebook-trump.html) (NYTimes)
   * [Widely Used Software Company May Be Entry Point for Huge U.S. Hacking](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html) (NYTimes)
@@ -2943,7 +2943,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 06 2021**
+**Wednesday, January 06 2021 - Wed. 01/06 – New GPT-3 Models Can Generate Images From Text**
 
   * [This avocado armchair could be the future of AI](https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/) (MIT Technology Review)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/) (OpenAI Blog)
@@ -2955,7 +2955,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 05 2021**
+**Tuesday, January 05 2021 - Tue. 01/05 – US Banks Can Now Issue Stablecoins**
 
   * [US regulator: Federally chartered banks can facilitate stablecoin payments, issue their own](https://www.theblockcrypto.com/linked/90025/occ-regulator-banks-stablecoins-issuance) (The Block)
   * [Twitter acquires social podcasting app Breaker, team to help build Twitter Spaces](https://techcrunch.com/2021/01/04/twitter-acquires-social-podcasting-app-breaker-team-to-help-build-twitter-spaces/) (TechCrunch)
@@ -2969,7 +2969,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 04 2021**
+**Monday, January 04 2021 - Mon. 01/04 – Some Google Workers Say Union YES!**
 
   * [Google, Alphabet employees seek to form a union](https://techcrunch.com/2021/01/04/google-alphabet-employees-union/) (TechCrunch)
   * [Samsung officially confirms Galaxy S21 event for January 14th](https://www.theverge.com/2021/1/3/22206649/samsung-officially-confirms-galaxy-s21-event-on-january-14th?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)

@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Wednesday, December 27 2023**
+**Wednesday, December 27 2023 - Wed. 12/27 – NYT Sues OpenAI**
 
   * [The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html) (NYTimes)
   * [Amazon Prime Video will start showing ads on January 29th](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29) (The Verge)
@@ -17,7 +17,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 26 2023**
+**Tuesday, December 26 2023 - Tue. 12/26 – Apple’s AI Strategy Comes Into View**
 
   * [Apple quietly released an open source multimodal LLM in October](https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/) (VentureBeat)
   * [Apple Explores A.I. Deals With News Publishers](https://www.nytimes.com/2023/12/22/technology/apple-ai-news-publishers.html) (NYTimes)
@@ -29,7 +29,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 22 2023**
+**Friday, December 22 2023 - Fri. 12/22 – The Hyperloop Is Dead**
 
   * [The hyperloop is dead for real this time](https://www.theverge.com/2023/12/21/24011448/hyperloop-one-shut-down-layoff-closing-elon-musk) (The Verge)
   * [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down) (The Verge)
@@ -39,7 +39,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 21 2023**
+**Thursday, December 21 2023 - Thu. 12/21 – Big Galaxy S24 Spec Leaks; And What Is “Galaxy AI?”**
 
   * [Leaked Samsung S24 spec sheet offers complete picture of the upcoming lineup](https://www.theverge.com/2023/12/21/24010736/samsung-s24-plus-ultra-specs-images-leak) (The Verge)
   * [Apple Ramps Up Vision Pro Production, Aiming for Launch by February](https://www.bloomberg.com/news/articles/2023-12-20/when-will-apple-vision-pro-be-available-company-is-aiming-for-february?sref=Szq5ylDR) (Bloomberg)
@@ -50,7 +50,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 20 2023**
+**Wednesday, December 20 2023 - Wed. 12/20 – Sony Has Sold 50 Million PS5s**
 
   * [Rite Aid Banned From AI Facial Recognition by FTC After Misuse](https://www.bloomberg.com/news/articles/2023-12-19/rite-aid-banned-from-ai-facial-recognition-by-ftc-after-misuse?sref=Szq5ylDR) (Bloomberg)
   * [PlayStation sales and blockbuster games propel console market back to growth](https://www.ft.com/content/3b89e9f7-e3cf-4e60-bfa4-987af24efa75) (FT)
@@ -62,7 +62,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 19 2023**
+**Tuesday, December 19 2023 - Tue. 12/19 – Google Might Owe You Some Money**
 
   * [Google to Pay $700 Million in Play Store Settlement](https://www.wsj.com/tech/google-to-pay-700-million-in-play-store-settlement-28bed6b6?mod=followamazon) (WSJ)
   * [102 million people eligible for Google’s $630M lawsuit settlement](https://www.washingtonpost.com/technology/2023/12/19/google-states-settlement-fund/) (Washington Post)
@@ -75,7 +75,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 18 2023**
+**Monday, December 18 2023 - Mon. 12/18 – Adobe And Figma Call Off Their Merger**
 
   * [Adobe, Figma shelve $20 bln deal after hitting regulatory roadblocks](https://www.reuters.com/technology/adobe-figma-terminate-20-bln-deal-2023-12-18/) (Reuters)
   * [Apple to halt Apple Watch Series 9 and Apple Watch Ultra 2 sales in the US this week](https://9to5mac.com/2023/12/18/apple-halting-apple-watch-series-9-and-apple-watch-ultra-2-sales/) (9to5Mac)
@@ -86,7 +86,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 15 2023**
+**Friday, December 15 2023 - Fri. 12/15 – Did Google Just Kill Geofence Warrants?**
 
   * [Is This the End of Geofence Warrants?](https://www.eff.org/deeplinks/2023/12/end-geofence-warrants) (The EFF)
   * [Intel unveils new AI chip to compete with Nvidia and AMD](https://www.cnbc.com/2023/12/14/intel-unveils-gaudi3-ai-chip-to-compete-with-nvidia-and-amd.html) (CNBC)
@@ -97,7 +97,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 14 2023**
+**Thursday, December 14 2023 - Thu. 12/14 – Threads Is Shipping Some Stuff!**
 
   * [Meta starts testing Threads integration with ActivityPub](https://techcrunch.com/2023/12/13/meta-starts-testing-threads-integration-with-activitypub/) (TechCrunch)
   * [Threads launches for nearly half a billion more users in Europe](https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival) (The Verge)
@@ -109,7 +109,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 13 2023**
+**Wednesday, December 13 2023 - Wed. 12/13 – Big Tesla Recall**
 
   * [Apple Makes Security Changes to Protect Users From iPhone Thefts](https://www.wsj.com/tech/personal-tech/apple-iphone-ios-update-stolen-device-protection-698d760e?mod=followamazon) (WSJ)
   * [Google Offers Enhanced Generative AI Features for Cloud Customers](https://www.bloomberg.com/news/articles/2023-12-13/google-unveils-ai-model-gemini-pro-to-compete-with-microsoft-in-the-cloud?sref=Szq5ylDR) (Bloomberg)
@@ -122,7 +122,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 12 2023**
+**Tuesday, December 12 2023 - Tue. 12/12 – Epic Win!**
 
   * [Epic win: Jury decides Google has illegal monopoly in app store fight](https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play) (The Verge)
   * [Google’s Epic Legal Defeat Threatens $200 Billion App Store Industry](https://www.bloomberg.com/news/articles/2023-12-12/google-s-epic-legal-defeat-threatens-200-billion-app-store-industry?sref=Szq5ylDR) (Bloomberg)
@@ -133,7 +133,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 11 2023**
+**Monday, December 11 2023 - Mon. 12/11 – Here Come The New Open-Source AI Startups**
 
   * [Mistral, French A.I. Start-Up, Is Valued at $2 Billion in Funding Round](https://www.nytimes.com/2023/12/10/technology/mistral-ai-funding.html?unlocked_article_code=1.E00.2cuN.39rUj4jY_fao&hpgrp=ar-abar&smid=url-share) (NYTimes)
   * [Nvidia Sees Vietnam as Potential Second Home, Reports Say](https://www.bloomberg.com/news/articles/2023-12-11/nvidia-sees-vietnam-as-potential-second-home-reports-say?sref=Szq5ylDR) (Bloomberg)
@@ -143,7 +143,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 08 2023**
+**Friday, December 08 2023 - Fri. 12/08 – Did Google Fake The Gemini Demo?**
 
   * [Google’s Gemini Looks Remarkable, But It’s Still Behind OpenAI](https://www.bloomberg.com/opinion/articles/2023-12-07/google-s-gemini-ai-model-looks-remarkable-but-it-s-still-behind-openai-s-gpt-4?sref=Szq5ylDR) (Bloomberg)
   * [Early impressions of Google’s Gemini aren’t great](https://techcrunch.com/2023/12/07/early-impressions-of-googles-gemini-arent-great/) (TechCrunch)
@@ -153,7 +153,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 07 2023**
+**Thursday, December 07 2023 - Wed. 12/06 – Google’s OpenAI Competitor Announced**
 
   * [Messenger is finally getting end-to-end encryption by default](https://www.theverge.com/2023/12/6/23991501/facebook-messenger-default-end-to-end-encryption-meta) (The Verge)
   * [Federal government is using data from push notifications to track contacts](https://www.washingtonpost.com/technology/2023/12/06/push-notifications-surveillance-apple-google/) (Washington Post)
@@ -171,7 +171,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 05 2023**
+**Tuesday, December 05 2023 - Tue. 12/05 – 23andMe Hack Just Keeps Getting Worse**
 
   * [23andMe confirms hackers stole ancestry data on 6.9 million users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/) (TechCrunch)
   * [A detailed look at the OnePlus 12 ahead of its global launch](https://www.theverge.com/2023/12/5/23988905/oneplus-12-china-launch-price-specs-features) (The Verge)
@@ -184,7 +184,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 04 2023**
+**Monday, December 04 2023 - Mon. 12/04 – Monster Spotify Layoffs**
 
   * [Spotify cuts 17% jobs amid rising capital costs](https://techcrunch.com/2023/12/03/spotify-cuts-17-jobs-amid-rising-capital-costs/) (TechCrunch)
   * [Google Postpones Big AI Launch as OpenAI Zooms Ahead](https://www.theinformation.com/articles/google-postpones-big-ai-launch-as-openai-zooms-ahead?rc=64g9cw) (The Information)
@@ -194,13 +194,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, December 02 2023**
+**Saturday, December 02 2023 - (Bonus) The Sam Altman Saga Timeline With Alex Konrad Of Forbes**
 
   * [**_A Secretive $10 Billion Firm Backed By WhatsApp Billionaire Jan Koum Is Quietly Building A Startup Portfolio_**](https://www.forbes.com/sites/alexkonrad/2023/11/26/secretive-firm-backed-by-whatsapp-billionaire-jan-koum-has-10-billion/?sh=1afe778629a2)
 
 
 
-**Friday, December 01 2023**
+**Friday, December 01 2023 - Fri. 12/01 – iPhones To Go All-Action (Button)**
 
   * [iPhone 16 to Include Action Button Across Entire Lineup](https://www.macrumors.com/2023/11/30/iphone-16-action-button-all-models/) (MacRumors)
   * [Apple and Paramount Discuss Bundling Their Streaming Services](https://www.wsj.com/business/media/apple-and-paramount-discuss-bundling-their-streaming-services-226972d1?mod=followamazon) (WSJ)
@@ -211,7 +211,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 30 2023**
+**Thursday, November 30 2023 - Thu. 11/30 – The Prodigal Son Is Back**
 
   * [OpenAI Will Add Microsoft as Board Observer, Plans Governance Changes](https://www.bloomberg.com/news/articles/2023-11-30/openai-will-add-microsoft-as-board-observer-plans-governance-changes?sref=Szq5ylDR) (Bloomberg)
   * [Interview: Sam Altman on being fired and rehired by OpenAI](https://www.theverge.com/2023/11/29/23982046/sam-altman-interview-openai-ceo-rehired) (The Verge)
@@ -223,7 +223,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 29 2023**
+**Wednesday, November 29 2023 - Wed. 11/29 – Apple And Goldman Part Ways**
 
   * [Apple Pulls Plug on Goldman Credit-Card Partnership](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=followamazon) (WSJ)
   * [Unity Software with a ‘company reset’ walks away from film VFX and the Wētā Deal.](https://www.fxguide.com/quicktakes/unity-software-with-a-company-reset-walks-away-from-film-vfx-and-the-weta-deal/) (FXGuide)
@@ -234,7 +234,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 28 2023**
+**Tuesday, November 28 2023 - Tue. 11/28 – NameDrop Is Safe, Despite What Police Say**
 
   * [AWS enhances AI services with foundation model capabilities for improved performance](https://siliconangle.com/2023/11/27/aws-enhances-ai-services-foundation-model-capabilities-improved-performance/) (SiliconAngle)
   * [Amazon wants businesses to use its palm-scanning tech to let employees into the office](https://www.cnbc.com/2023/11/28/amazon-rolls-out-palm-scanning-technology-for-office-workers.html) (CNBC)
@@ -246,7 +246,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 27 2023**
+**Monday, November 27 2023 - Mon. 11/27 – ByteDance Retrenches**
 
   * [AWS debuts Amazon WorkSpaces Thin Client device for virtual desktop access](https://siliconangle.com/2023/11/26/aws-debuts-amazon-workspaces-thin-client-device-virtual-desktop-access/) (SiliconAngle)
   * [Salesforce Inks Deal to Sell on Amazon Web Services’ Marketplace](https://www.bloomberg.com/news/articles/2023-11-27/salesforce-to-sell-software-on-aws-marketplace-in-self-service-purchase-push?sref=Szq5ylDR) (Bloomberg)
@@ -257,7 +257,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 21 2023**
+**Tuesday, November 21 2023 - Tue. 11/21 – The Sam Altman Thing Is Nowhere Near Resolved**
 
   * [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) (The Verge)
   * [OpenAI’s Board Approached Anthropic About Merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger?rc=64g9cw) (The Information)
@@ -267,7 +267,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 20 2023**
+**Monday, November 20 2023 - Mon. 11/20 – Where We Are With The Sam Altman Drama**
 
   * [Inside the Chaos at OpenAI](https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/?gift=bQgJMMVzeo8RHHcE1_KM0WVuODpKll0A708pOI0Ple4&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
   * [Cruise co-founder and CEO Kyle Vogt resigns](https://techcrunch.com/2023/11/19/cruise-co-founder-and-ceo-kyle-vogt-resigns/) (TechCrunch)
@@ -276,7 +276,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 17 2023**
+**Friday, November 17 2023 - Fri. 11/17 – Apple Adopts RCS**
 
   * [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/) (9to5Mac)
   * [What color bubbles will RCS messages be? Apple confirms the answer](https://9to5mac.com/2023/11/16/apple-confirms-rcs-messages-will-have-green-bubbles/) (9to5Mac)
@@ -287,7 +287,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 16 2023**
+**Thursday, November 16 2023 - Thu. 11/16 – Microsoft’s Ignite Conference**
 
   * [Microsoft rebrands Bing Chat to Copilot, to better compete with ChatGPT](https://www.theverge.com/2023/11/15/23960517/microsoft-copilot-bing-chat-rebranding-chatgpt-ai) (The Verge)
   * [Microsoft officially launches Loop, its Notion competitor](https://www.theverge.com/2023/11/15/23959801/microsoft-loop-launch-notion-competitor) (The Verge)
@@ -298,7 +298,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 15 2023**
+**Wednesday, November 15 2023 - Wed. 11/15 – Bridging The Great Blue Bubble Divide**
 
   * [Coming soon: A fix for the Android green-bubble problem](https://www.washingtonpost.com/technology/2023/11/14/imessage-on-android-nothing-sunbird/) (Washington Post)
   * [Intel fixes high-severity CPU bug that causes “very strange behavior”](https://arstechnica.com/security/2023/11/intel-fixes-high-severity-cpu-bug-that-causes-very-strange-behavior/) (ArsTechnica)
@@ -309,7 +309,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 14 2023**
+**Tuesday, November 14 2023 - Tue. 11/14 – Google Pays Apple HOW Much?**
 
   * [Apple Gets 36% of Google Revenue in Search Deal, Expert Says](https://www.bloomberg.com/news/articles/2023-11-13/apple-gets-36-of-google-revenue-from-search-deal-witness-says?sref=Szq5ylDR) (Bloomberg)
   * [For Google Play, Dominating Android World Was ‘Existential’](https://www.bloomberg.com/news/articles/2023-11-14/for-google-play-dominating-the-android-world-was-existential?sref=Szq5ylDR) (Bloomberg)
@@ -321,7 +321,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 13 2023**
+**Monday, November 13 2023 - (Portfolio Profile) Automated Data (Corrected)**
 
   * [OpenAI chief seeks new Microsoft funds to build ‘superintelligence’](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded) (Financial Times)
   * [Exclusive: Google in talks to invest in AI startup Character.AI](https://www.reuters.com/technology/google-talks-invest-ai-startup-characterai-sources-2023-11-10/) (Reuters)
@@ -332,7 +332,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 10 2023**
+**Friday, November 10 2023 - Fri. 11/10 – The Humane Ai Pin Is The Star Trek Combadge**
 
   * [Humane’s Ai Pin is a $700 Smartphone Alternative You Wear All Day](https://www.wired.com/story/humane-ai-pin-700-dollar-smartphone-alternative-wearable/) (Wired)
   * [Introducing Humane Ai Pin](https://vimeo.com/882968794) (The Humane Launch Video)
@@ -340,7 +340,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 09 2023**
+**Thursday, November 09 2023 - Thu. 11/09 – The First AI Wearable**
 
   * [Exclusive leak: all the details about Humane’s AI Pin, which costs $699 and has OpenAI integration](https://www.theverge.com/2023/11/8/23953022/humane-ai-pin-price-specs-leak) (The Verge)
   * [Disney+, Hulu Merged App to Launch Next Month for Bundle Subscribers, Bob Iger Says](https://variety.com/2023/digital/news/disney-hulu-merged-app-launch-december-1235784927/) (Variety)
@@ -350,7 +350,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 08 2023**
+**Wednesday, November 08 2023 - Wed. 11/08 – The First AI Election**
 
   * [Meta to Require Campaigns to Disclose AI-Altered Political Ads](https://www.wsj.com/tech/ai/meta-to-require-campaigns-to-disclose-ai-altered-political-ads-b421b806?mod=followamazon) (WSJ)
   * [Microsoft Is Offering to Help US Politicians Crack Down on Deepfakes](https://www.bloomberg.com/news/articles/2023-11-08/microsoft-to-help-crack-down-on-ai-deepfakes-in-us-presidential-elections?sref=Szq5ylDR) (Bloomberg)
@@ -362,7 +362,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 07 2023**
+**Tuesday, November 07 2023 - Tue. 11/07 – An App Store, But For GPTs**
 
   * [OpenAI Launches GPT-4 Turbo](https://techcrunch.com/2023/11/06/openai-launches-gpt-4-turbo-and-launches-fine-tuning-program-for-gpt-4/) (TechCrunch)
   * [OpenAI is letting anyone create their own version of ChatGPT](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform) (The Verge)
@@ -373,7 +373,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 06 2023**
+**Monday, November 06 2023 - Mon. 11/06 – Elon “Groks” AI**
 
   * [Elon Musk debuts ‘Grok’ AI bot to rival ChatGPT, others](https://www.cnbc.com/2023/11/05/elon-musk-debuts-grok-ai-bot-to-rival-chatgpt-others-.html) (CNBC)
   * [AI Pioneer Kai-Fu Lee Builds $1 Billion Startup in Eight Months](https://www.bloomberg.com/news/articles/2023-11-05/kai-fu-lee-s-open-source-01-ai-bests-llama-2-according-to-hugging-face?sref=Szq5ylDR) (Bloomberg)
@@ -383,7 +383,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 03 2023**
+**Friday, November 03 2023 - Fri. 11/03 – SBF Guilty**
 
   * [Sam Bankman-Fried found guilty of fraud](https://www.theverge.com/policy/2023/11/2/23943236/sam-bankman-fried-trial-sbf-fraud-guilty) (The Verge)
   * [Sam Bankman-Fried Was a Grown Up Criminal, Not an Impulsive Man-Child](https://www.nytimes.com/2023/11/03/nyregion/sam-bankman-fried-ftx-trial-cryptocurrency.html) (NYTimes)
@@ -394,7 +394,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 02 2023**
+**Thursday, November 02 2023 - Thu. 11/02 – Silicon Mesa?**
 
   * [Disney Says It Will Take Full Control of Hulu](https://www.nytimes.com/2023/11/01/business/media/disney-hulu-purchase.html) (NYTimes)
   * [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/) (Wired)
@@ -404,7 +404,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 01 2023**
+**Wednesday, November 01 2023 - Wed. 11/01 – WeWork To The Deadpool?**
 
   * [LinkedIn’s new AI chatbot wants to help you get a job](https://www.cnbc.com/2023/11/01/linkedins-new-ai-chatbot-wants-to-help-you-get-a-job-.html) (CNBC)
   * [Netflix, Pushing Into AVOD Fray, Plans New Ad Formats, ‘Crown’ Sponsorship Deals](https://variety.com/2023/tv/news/netflix-advertising-binge-viewing-crown-squid-game-1235775477/) (Variety)
@@ -415,7 +415,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 31 2023**
+**Tuesday, October 31 2023 - Tue. 10/31 – The New M3 Chips And Macs**
 
   * [Apple ‘Scary Fast’ Mac launch event: the 4 biggest announcements](https://www.theverge.com/2023/10/30/23938867/apple-m3-imac-macbook-pro-biggest-announcements-m3) (The Verge)
   * [Apple officially unveils M3, M3 Pro, and M3 Max: 3 nanometer, Dynamic Caching GPU, more](https://9to5mac.com/2023/10/30/m3-pro-max/) (9to5Mac)
@@ -427,7 +427,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 30 2023**
+**Monday, October 30 2023 - Mon. 10/30 – AI Guardrails**
 
   * [Biden releases AI executive order directing agencies to develop safety guidelines](https://www.theverge.com/2023/10/30/23914507/biden-ai-executive-order-regulation-standards) (The Verge)
   * [Exclusive: G7 to agree AI code of conduct for companies](https://www.reuters.com/technology/g7-agree-ai-code-conduct-companies-g7-document-2023-10-29/) (Reuters)
@@ -439,7 +439,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 27 2023**
+**Friday, October 27 2023 - Fri. 10/27 – SBF Takes The Stand**
 
   * [Microsoft: Octo Tempest is one of the most dangerous financial hacking groups](https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/) (BleepingComputer)
   * [FTX’s Sam Bankman-Fried previews legal defence at fraud trial](https://www.ft.com/content/5ced698a-be40-48f4-8678-234a14686752) (FT)
@@ -448,7 +448,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 26 2023**
+**Thursday, October 26 2023 - Thu. 10/26 – A Complete AirPods Revamp**
 
   * [Zuckerberg says Threads has almost 100 million monthly users](https://www.theverge.com/2023/10/25/23932473/mark-zuckerberg-threads-100-million-monthly-users-earnings) (The Verge)
   * [Apple Plans AirPods Overhaul With New Low- and High-End Models, USB-C Headphones](https://www.bloomberg.com/news/articles/2023-10-25/apple-airpods-plans-4th-generation-low-end-3rd-generation-pro-and-usb-c-max?sref=Szq5ylDR) (Bloomberg)
@@ -459,7 +459,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 25 2023**
+**Wednesday, October 25 2023 - Wed. 10/25 – Boo! Tech Earnings Snuck Up On Us!**
 
   * [Meta sued by 42 attorneys general alleging Facebook, Instagram features are addictive and target kids](https://www.cnbc.com/2023/10/24/bipartisan-group-of-ags-sue-meta-for-addictive-features.html) (CNBC)
   * [California DMV immediately suspends Cruise’s robotaxi permit](https://techcrunch.com/2023/10/24/dmv-immediately-suspends-cruises-robotaxi-permit-in-california/) (TechCrunch)
@@ -469,7 +469,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 24 2023**
+**Tuesday, October 24 2023 - Tue. 10/24 – Nvidia Is Gunning For Intel**
 
   * [Exclusive: Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/) (Reuters)
   * [1Password detects “suspicious activity” in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/) (ArsTechnica)
@@ -481,7 +481,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 23 2023**
+**Monday, October 23 2023 - Mon. 10/23 – Apple Caught Flat-Footed By Generative AI?**
 
   * [Inside Apple’s Big Plan to Bring Generative AI to All Its Devices](https://www.bloomberg.com/news/newsletters/2023-10-22/what-is-apple-doing-in-ai-revamping-siri-search-apple-music-and-other-apps-lo1ffr7p?sref=Szq5ylDR) (Bloomberg)
   * [Okta shares fall 11% after company says client files were accessed by hackers via its support system](https://www.cnbc.com/2023/10/20/okta-shares-fall-after-company-says-client-files-were-accessed-by-hackers-via-its-support-system.html) (CNBC)
@@ -494,7 +494,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 20 2023**
+**Friday, October 20 2023 - Fri. 10/20 – Net Neutrality Is Probably Coming Back**
 
   * [U.S. Treasury Seeks to Name Crypto Mixers as 'Money Laundering Concern'](https://www.coindesk.com/policy/2023/10/19/us-treasury-seeks-to-name-crypto-mixers-as-money-laundering-concern/) (CoinDesk)
   * [SEC Drops Charges Against Ripple CEO Garlinghouse, Chairman Larsen](https://www.coindesk.com/policy/2023/10/19/sec-drops-charges-against-ripple-ceo-garlinghouse-chairman-larsen/) (CoinDesk)
@@ -505,7 +505,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 19 2023**
+**Thursday, October 19 2023 - Thu. 10/19 – A Setback For OpenAI?**
 
   * [Chainalysis says some reports might be overestimating crypto's role in terrorist financing](https://www.theblock.co/post/258284/chainalysis-says-some-reports-might-be-overestimating-cryptos-role-in-terrorist-financing) (The Block)
   * [NY Attorney General sues Gemini, Genesis and DCG for allegedly defrauding crypto investors of over $1B](https://techcrunch.com/2023/10/19/ny-attorney-general-sues-gemini-genesis-and-dcg-for-defrauding-crypto-investors-of-over-1b/) (TechCrunch)
@@ -518,7 +518,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 18 2023**
+**Wednesday, October 18 2023 - Wed. 10/18 – For Elon, The War On Bots Never Ends**
 
   * [X will start charging new users in two countries $1 per year](https://www.theverge.com/2023/10/17/23921752/x-not-a-bot-charge-new-users-elon-musk) (The Verge)
   * [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer) (The Verge)
@@ -530,7 +530,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 17 2023**
+**Tuesday, October 17 2023 - Mon. 10/16 – Nikola Tesla’s Dream Now A Reality**
 
   * [Apple unveils brand new 'affordable' Apple Pencil that costs $79 and has a USB-C port](https://www.imore.com/ipad/apple-unveils-brand-new-affordable-apple-pencil-that-costs-dollar79) (iMore)
   * [Actively exploited Cisco 0-day with maximum 10 severity gives full network control](https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/) (ArsTechnica)
@@ -551,7 +551,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 13 2023**
+**Friday, October 13 2023 - Fri. 10/13 – The Activision Acquisition Goes Through**
 
   * [Microsoft's purchase of Activision Blizzard for Xbox has been fully APPROVED by the UK regulator](https://www.windowscentral.com/gaming/xbox/microsofts-purchase-of-activision-blizzard-for-xbox-fully-approved-by-uk-regulator) (Windows Central)
   * [EU opens probe into Elon Musk’s X over Israel-Hamas war misinformation](https://www.ft.com/content/a4ab23c7-977a-46b1-8d00-33923ceaee89) (Financial Times)
@@ -560,7 +560,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 12 2023**
+**Thursday, October 12 2023 - Thu. 10/12 – The IRS Wants A Word With Microsoft**
 
   * [IRS says Microsoft owes an additional $29 billion in back taxes](https://www.cnbc.com/2023/10/11/irs-says-microsoft-owes-an-additional-29-billion-in-back-taxes.html) (CNBC)
   * [Linda Yaccarino responds to EU: 700 Community Notes, 5K+ images shared on Israel-Hamas war, ‘thousands’ of pieces of content removed](https://techcrunch.com/2023/10/12/x-yaccarino-breton-israel-hamas-warning/) (TechCrunch)
@@ -573,7 +573,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 11 2023**
+**Wednesday, October 11 2023 - Wed. 10/11 – The Greatest DDoS Attack By Far**
 
   * [EU warns Elon Musk of ‘penalties’ for disinformation circulating on X amid Israel-Hamas war](https://www.cnn.com/2023/10/10/tech/x-europe-israel-misinformation/) (CNN)
   * [New technique leads to largest DDoS attacks ever, Google and Amazon say](https://therecord.media/largest-ddos-incidents-amazon-cloudflare-google) (The Record)
@@ -584,7 +584,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 10 2023**
+**Tuesday, October 10 2023 - Tue. 10/10 – The Veil Between Online And IRL Is Thin**
 
   * [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/) (GamesBeat)
   * [23andMe says private user data is up for sale after being scraped](https://arstechnica.com/security/2023/10/private-23andme-user-data-is-up-for-sale-after-online-scraping-spree/) (ArsTechnica)
@@ -595,7 +595,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 06 2023**
+**Friday, October 06 2023 - Fri. 10/06 – Microsoft Looks To Close**
 
   * [Microsoft eyes closing its giant Activision Blizzard deal next week](https://www.theverge.com/2023/10/6/23905946/microsoft-activision-blizzard-deal-finalization-timing-cma) (The Verge)
   * [Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips](https://www.reuters.com/technology/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips-sources-2023-10-06/) (Reuters)
@@ -603,7 +603,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 05 2023**
+**Thursday, October 05 2023 - Thu. 10/05 – Now The Regulators Are Coming For The Cloud Providers**
 
   * [Microsoft and Amazon face UK regulator investigation over cloud services](https://www.theverge.com/2023/10/5/23904375/uk-cma-microsoft-amazon-cloud-investigation) (The Verge)
   * [Elon Musk Starts Stripping Headlines From Links Shared to X](https://www.thewrap.com/elon-musk-x-removes-article-headlines-links-shared/) (The Wrap)
@@ -616,7 +616,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 04 2023**
+**Wednesday, October 04 2023 - Wed. 10/04 – The New Pixels**
 
   * [Google’s Pixel Watch 2 brings new sensors for improved health tracking](https://techcrunch.com/2023/10/04/googles-pixel-watch-2-brings-new-sensors-for-improved-health-tracking/?tpcc=tcplustwitter&guccounter=1) (TechCrunch)
   * [Google’s Pixel 8 brings new camera tricks, better display and a thermometer](https://techcrunch.com/2023/10/04/googles-pixel-8-brings-new-camera-tricks-better-display-and-a-thermometer/) (TechCrunch)
@@ -629,7 +629,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 03 2023**
+**Tuesday, October 03 2023 - Tue. 10/03 – Time To Pay For Social Media?**
 
   * [Meta Plans to Charge $14 a Month for Ad-Free Instagram or Facebook](https://www.wsj.com/tech/meta-floats-charging-14-a-month-for-ad-free-instagram-or-facebook-5dbaf4d5) (WSJ)
   * [TikTok Confirms It Is Testing an Ad-Free Subscription Tier](https://variety.com/2023/digital/news/tiktok-test-ad-free-subscription-tier-1235742672/) (Variety)
@@ -640,7 +640,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 02 2023**
+**Monday, October 02 2023 - Mon. 10/02 – Apple Blames Instagram**
 
   * [Apple Says iPhone 15 Pro Overheating Due to iOS 17 Bug, Not Hardware Design](https://www.cnet.com/tech/mobile/apple-says-iphone-15-pro-overheating-due-to-ios-17-bug-not-hardware-design/) (CNET)
   * [Apple Has What It Needs to Launch Its Own Google Replacement](https://www.bloomberg.com/news/newsletters/2023-10-01/could-apple-replace-google-with-own-search-engine-it-s-possible-but-unlikely-ln7gywed?sref=Szq5ylDR) (Bloomberg)
@@ -650,7 +650,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 29 2023**
+**Friday, September 29 2023 - Fri. 09/29 – Could Apple Have Bought Bing?**
 
   * [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement?sref=Szq5ylDR) (Bloomberg)
   * [Google adds a switch for publishers to opt out of becoming AI training data](https://www.theverge.com/2023/9/28/23894779/google-ai-extended-training-data-toggle-bard-vertex) (The Verge)
@@ -659,7 +659,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 28 2023**
+**Thursday, September 28 2023 - Thu. 09/28 – Meta Connect**
 
   * [Facebook and Instagram will soon get a slew of AI-powered creator tools](https://www.theverge.com/2023/9/27/23892231/meta-generative-ai-image-editing-stickers-instagram-facebook-whatsapp) (The Verge)
   * [Meta is putting AI chatbots everywhere](https://www.theverge.com/2023/9/27/23891128/meta-ai-assistant-characters-whatsapp-instagram-connect) (The Verge)
@@ -672,7 +672,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 27 2023**
+**Wednesday, September 27 2023 - Wed. 09/27 – The Big Amazon Lawsuit**
 
   * [FTC and 17 states sue Amazon on antitrust charges](https://www.cnbc.com/2023/09/26/ftc-and-17-states-sue-amazon-on-antitrust-charges.html) (CNBC)
   * [Designer Jony Ive and OpenAI’s Sam Altman Discuss AI Hardware Project](https://www.theinformation.com/articles/designer-jony-ive-and-open-ais-sam-altman-discuss-ai-hardware-project?rc=64g9cw) (The Information)
@@ -684,7 +684,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 26 2023**
+**Tuesday, September 26 2023 - Tue. 09/26 – Spotify Pumps Up The Jam**
 
   * [Spotify launches Jam, a real-time collaborative playlist controlled by up to 32 people](https://techcrunch.com/2023/09/26/spotify-launches-jam-a-real-time-collaborative-playlist-controlled-by-up-to-32-people/) (TechCrunch)
   * [Coinbase Role in Crypto Firm Celsius’s Bankruptcy Plan Questioned by SEC](https://www.bloomberg.com/news/articles/2023-09-25/sec-questions-coinbase-role-in-celsius-bankruptcy-plan-coin-cel?sref=Szq5ylDR) (Bloomberg)
@@ -696,7 +696,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 25 2023**
+**Monday, September 25 2023 - Mon. 09/25 – Amazon Makes A Big Bet On Anthropic**
 
   * [Amazon to invest up to $4bn in AI start-up Anthropic](https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f) (Financial Times)
   * [Defi Project Mixin Network Suspends Services After $200 Million Crypto Hack](https://www.bloomberg.com/news/articles/2023-09-25/defi-project-mixin-suspends-services-after-200-million-hack?sref=Szq5ylDR) (Bloomberg)
@@ -708,7 +708,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 22 2023**
+**Friday, September 22 2023 - Fri. 09/22 – Microsoft… Wins?**
 
   * [Microsoft’s Activision Deal Set to Clear Final UK Hurdle](https://www.bloomberg.com/news/articles/2023-09-22/microsoft-s-activision-deal-set-to-get-uk-s-cma-approval?sref=Szq5ylDR) (Bloomberg)
   * [Apple emergency updates fix 3 new zero-days exploited in attacks](https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-3-new-zero-days-exploited-in-attacks/) (BleepingComputer)
@@ -718,7 +718,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 21 2023**
+**Thursday, September 21 2023 - Thu. 09/21 – The Microsoft And Amazon Fall Events**
 
   * [Microsoft unveils unified Copilot that extends across Bing, Edge, and Windows](https://www.windowscentral.com/microsoft/microsoft-unveils-unified-copilot-that-extends-across-bing-edge-and-windows) (Windows Central)
   * [The Surface Laptop Go 3 starts at $799 and arrives on October 3](https://www.engadget.com/the-surface-laptop-go-3-starts-at-799-and-arrives-on-october-3-150707089.html) (Engadget)
@@ -731,7 +731,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 20 2023**
+**Wednesday, September 20 2023 - Wed. 09/20 – Even AI Could Benefit From An Encouraging Word**
 
   * [UK opens new chapter in digital regulation as parliament passes Online Safety Bill](https://techcrunch.com/2023/09/19/online-safety-bill-passed/) (TechCrunch)
   * [Instacart closes up 12% in Nasdaq debut, after first-day rally sputters](https://www.cnbc.com/2023/09/19/instacart-shares-start-trading-on-nasdaq-at-42.html) (CNBC)
@@ -742,7 +742,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 19 2023**
+**Tuesday, September 19 2023 - Tue. 09/19 – Bunch Of Microsoft Roadmaps Leak**
 
   * [Microsoft's Xbox plans revealed in emails tied to FTC case](https://www.nbcnews.com/tech/video-games/microsofts-xbox-plans-revealed-emails-tied-ftc-case-rcna105766) (NBCNews)
   * [Microsoft’s next Xbox, coming 2028, envisions hybrid computing](https://www.theverge.com/2023/9/19/23880138/microsoft-xbox-2028-hybrid-cloud-games-platform) (The Verge)
@@ -753,7 +753,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 18 2023**
+**Monday, September 18 2023 - Mon. 09/18 – Streaming Has Changed How Music Sounds**
 
   * [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty) (The Verge)
   * [Google Extends Lifespan of Chromebooks With 10-Year Update Policy](https://www.wsj.com/tech/personal-tech/google-extends-lifespan-of-chromebooks-with-10-year-update-policy-38910da1) (WSJ)
@@ -763,7 +763,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 15 2023**
+**Friday, September 15 2023 - Fri. 09/15 – Maybe Don’t Have AI Write Obituaries**
 
   * [TikTok fined $379M in EU for failing to keep kids’ data safe](https://techcrunch.com/2023/09/15/tiktok-gdpr-childrens-data-decision/) (TechCrunch)
   * [Apple moves to defuse French iPhone 12 dispute as EU scrutiny steps up](https://www.reuters.com/technology/apple-implement-iphone-12-update-next-few-days-france-minister-2023-09-15/) (Reuters)
@@ -773,7 +773,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 14 2023**
+**Thursday, September 14 2023 - Thu. 09/14 – Ocean’s Eleven-Style Hacks**
 
   * [Chip giant Arm raises nearly $5 billion in year's largest IPO](https://www.axios.com/2023/09/13/arm-ipo-pricing-nvidia-chips) (Axios)
   * [Inside The Ransomware Attack That Shut Down MGM Resorts](https://www.forbes.com/sites/suzannerowankelleher/2023/09/13/ransomware-attack-mgm-resorts/?sh=21f89d665f38) (Forbes)
@@ -785,7 +785,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 13 2023**
+**Wednesday, September 13 2023 - Wed. 09/13 – Unity Plays A Dangerous Game (Get It?)**
 
   * [Unity has introduced new fees that could have dire effects on the entire game industry, from indies to Xbox Game Pass (UPDATE)](https://www.windowscentral.com/gaming/unity-drops-its-free-model-for-game-developers-requiring-a-fee-per-installation-it-could-have-a-big-negative-impact-on-xbox-game-pass-too) (Windows Central)
   * [Sony has launched a major PlayStation 5 system update](https://www.videogameschronicle.com/news/sony-has-launched-a-major-playstation-5-system-update/) (VGC)
@@ -796,7 +796,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 12 2023**
+**Tuesday, September 12 2023 - Tue. 09/12 – The iPhone 15 Apple Event**
 
   * [Apple Watch Series 9 Unveiled With S9 Chip, 'Double Tap' Gesture, and More](https://www.macrumors.com/2023/09/12/apple-watch-series-9-unveiled/) (MacRumors)
   * [Apple announces new Apple Watch Ultra 2](https://9to5mac.com/2023/09/12/new-apple-watch-ultra-2/) (9to5Mac)
@@ -809,7 +809,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 11 2023**
+**Monday, September 11 2023 - Mon. 09/11 – ChatGPT Is Thirsty**
 
   * [Instacart targets up to $9.3 bln valuation for much-awaited US IPO](https://www.reuters.com/markets/deals/grocery-delivery-app-instacart-aims-up-77-bln-valuation-us-ipo-2023-09-11/) (Reuters)
   * [Meta Is Developing a New, More Powerful AI System as Technology Race Escalates](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451) (WSJ)
@@ -821,7 +821,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 08 2023**
+**Friday, September 08 2023 - Fri. 09/08 – An AI To Talk To The Animals?**
 
   * [Apple discloses zero-days linked to NSO Group spyware](https://therecord.media/apple-discloses-two-zero-days-in-new-updates) (The Record)
   * [Ex-FTX Executive Ryan Salame Could Forfeit $1.5B as Part of Guilty Plea](https://www.coindesk.com/policy/2023/09/07/ex-ftx-executive-ryan-salame-pleads-guilty-to-us-criminal-charges/) (CoinDesk)
@@ -831,7 +831,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 07 2023**
+**Thursday, September 07 2023 - Thu. 09/07 – And Now A Drone Breakthrough?**
 
   * [Chrome is about to look a bit different](https://www.theverge.com/2023/9/7/23862311/google-chrome-redesign-material-you-web-store) (The Verge)
   * [China Seeks to Broaden iPhone Ban to State Firms, Agencies](https://www.bloomberg.com/news/articles/2023-09-07/china-plans-to-expand-iphone-ban-to-some-state-backed-firms-in-blow-to-apple?sref=Szq5ylDR) (Bloomberg)
@@ -843,7 +843,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 06 2023**
+**Wednesday, September 06 2023 - Wed. 09/06 – The Modern Antitrust Era Begins Now**
 
   * [EU Challenges Apple, Microsoft in New Push to Rein in Big Tech Dominance](https://www.bloomberg.com/news/articles/2023-09-06/eu-challenges-apple-microsoft-in-new-antitrust-push-to-rein-in-big-tech?sref=Szq5ylDR) (Bloomberg)
   * [UK pulls back from clash with Big Tech over private messaging](https://www.ft.com/content/770e58b1-a299-4b7b-a129-bded8649a43b) (Financial Times)
@@ -854,7 +854,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 05 2023**
+**Tuesday, September 05 2023 - Tue. 09/05 – China’s Chip End Run**
 
   * [Elon Musk to sue ADL for accusing him, X of antisemitism](https://techcrunch.com/2023/09/04/elon-musk-to-sue-adl-for-falsely-accusing-him-x-of-antisemitism/) (TechCrunch)
   * [Huawei Teardown Shows Chip Breakthrough in Blow to US Sanctions](https://www.bloomberg.com/news/features/2023-09-04/look-inside-huawei-mate-60-pro-phone-powered-by-made-in-china-chip?sref=Szq5ylDR) (Bloomberg)
@@ -866,7 +866,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 31 2023**
+**Thursday, August 31 2023 - Thu. 08/31 – In A Sense, Bundling Is Always Consumer Friendly**
 
   * [Microsoft Fends Off EU Antitrust Probe With Teams Deal](https://www.bloomberg.com/news/articles/2023-08-31/microsoft-tries-to-ward-off-eu-antitrust-probe-into-teams-app?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft is unbundling Teams from Office in Europe to address regulator concerns](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe) (The Verge)
@@ -876,7 +876,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 30 2023**
+**Wednesday, August 30 2023 - Wed. 08/30 – OpenAI Making Bank**
 
   * [Qakbot botnet dismantled after infecting over 700,000 computers](https://www.bleepingcomputer.com/news/security/qakbot-botnet-dismantled-after-infecting-over-700-000-computers/) (BleepingComputer)
   * [UAE launches Arabic large language model in Gulf push into generative AI](https://www.ft.com/content/ab36d481-9e7c-4d18-855d-7d313db0db0d) (FT)
@@ -887,7 +887,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 29 2023**
+**Tuesday, August 29 2023 - Tue. 08/29 – The Crypto Regulators Come For NFTs**
 
   * [Google to Add AI Models from Meta, Anthropic to Its Cloud Platform](https://www.bloomberg.com/news/articles/2023-08-29/google-to-add-ai-models-from-meta-anthropic-to-its-cloud-platform?sref=Szq5ylDR) (Bloomberg)
   * [The new Google Chat borrows from Slack, Teams, Discord, and even ChatGPT](https://www.theverge.com/2023/8/29/23849089/google-chat-duet-ai-huddles-redesign) (The Verge)
@@ -900,7 +900,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 28 2023**
+**Monday, August 28 2023 - Mon. 08/28 – The Tech IPO Is Back?**
 
   * [Apple Bets on Revamped iPad Pro to Reignite Sluggish Tablet Sales](https://www.bloomberg.com/news/newsletters/2023-08-27/ipad-pro-2024-magic-keyboard-redesigned-tablet-m3-september-12-event-details-lltgk6fv?sref=Szq5ylDR) (Bloomberg)
   * [China’s BYD to Pay $2.2B to Expand Business With Apple](https://www.theinformation.com/briefings/chinas-byd-to-pay-2-2b-to-expand-business-with-apple?rc=64g9cw) (The Information)
@@ -911,7 +911,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 25 2023**
+**Friday, August 25 2023 - ESPN To Amazon?**
 
   * [Amazon in Talks With Disney About ESPN Streaming Partnership](https://www.theinformation.com/articles/amazon-in-talks-with-disney-about-espn-streaming-partnership?rc=64g9cw) (The Information)
   * [Dropbox Ends Unlimited Cloud Storage Following Google Change](https://www.bloomberg.com/news/articles/2023-08-24/dropbox-unlimited-storage-ends-after-google-change?sref=Szq5ylDR) (Bloomberg)
@@ -921,7 +921,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 24 2023**
+**Thursday, August 24 2023 - Thu. 08/24 – Nvidia Blows The Roof Off The Place**
 
   * [Nvidia tops estimates and says sales will jump 170% this quarter, driven by demand for AI chips](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html) (CNBC)
   * [Meta launches own AI code-writing tool: Code Llama](https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm) (The Verge)
@@ -932,7 +932,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 23 2023**
+**Wednesday, August 23 2023 - Wed. 08/23 – The Playstation Portal**
 
   * [Sony’s portable PlayStation Portal launches later this year for $199.99](https://www.theverge.com/2023/8/23/23842771/sony-playstation-portal-remote-player-specs-release-date-price) (The Verge)
   * [PlayStation Portal: Hands On With Sony's New Remote Play Handheld](https://www.ign.com/articles/playstation-portal-hands-on-with-sonys-new-remote-play-handheld) (IGN)
@@ -945,7 +945,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 22 2023**
+**Tuesday, August 22 2023 - Tue. 08/22 – Is Elon Tanking Things On Purpose?**
 
   * [Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval](https://www.theverge.com/2023/8/22/23828302/microsoft-activision-blizzard-acquisition-ubisoft-cloud-gaming-rights-uk-cma) (The Verge)
   * [Arm files for Nasdaq listing, as SoftBank aims to sell shares in chip designer it bought for $32 billion](https://www.cnbc.com/2023/08/21/arm-files-for-nasdaq-listing-as-softbank-sells-shares-in-chipmaker.html) (CNBC)
@@ -956,7 +956,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 21 2023**
+**Monday, August 21 2023 - Mon. 08/21 – Twit Pics Disappear**
 
   * [Twitter Deletes All User Photos And Links From 2011-2014](https://www.forbes.com/sites/mattnovak/2023/08/19/twitter-deletes-all-user-photos-and-links-from-2011-2014/?sh=7fb61b7978fe) (Forbes)
   * [REVEALED: THE AUTHORS WHOSE PIRATED BOOKS ARE POWERING GENERATIVE AI](https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/) (The Atlantic)
@@ -967,7 +967,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 18 2023**
+**Friday, August 18 2023 - Fri. 08/18 – Werner Herzog Is The AI Voice We Deserve**
 
   * [Threads gets retweets — sorry, reposts — in the reverse-chronological feed](https://www.theverge.com/2023/8/17/23836588/threads-reposts-following-chronological-retweets) (The Verge)
   * [Meta’s Next AI Attack on OpenAI: Free Code-Generating Software](https://www.theinformation.com/articles/metas-next-ai-attack-on-openai-free-code-generating-software?rc=64g9cw) (The Information)
@@ -977,7 +977,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 17 2023**
+**Thursday, August 17 2023 - Thu. 08/17 – Sometimes Startup Acquires You**
 
   * [OpenAI acquires AI design studio Global Illumination](https://techcrunch.com/2023/08/16/openai-acquires-ai-design-studio-global-illumination/) (TechCrunch)
   * [Microsoft Struggles to Gain on Google Despite Its Head Start in AI Search](https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=djemalertNEWS) (WSJ)
@@ -988,7 +988,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 16 2023**
+**Wednesday, August 16 2023 - Wed. 08/16 – And Now I’m A Blue Subscriber**
 
   * [TweetDeck is officially becoming a paid service](https://www.theverge.com/2023/8/15/23833707/tweetdeck-xpro-paid-service-x-premium-twitter) (The Verge)
   * [Elon Musk’s X is throttling traffic to websites he dislikes](https://www.washingtonpost.com/technology/2023/08/15/twitter-x-links-delayed/) (The Washington Post)
@@ -999,7 +999,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 15 2023**
+**Tuesday, August 15 2023 - Tue. 08/15 – iPhone “Maximum Capacity” Concerns**
 
   * [Amazon’s Leader on Alexa, Echo and Other Devices Plans to Leave](https://www.wsj.com/articles/amazons-leader-on-alexa-echo-and-other-devices-plans-to-leave-cde4f689?mod=djemalertNEWS) (WSJ)
   * [Scoop: X shuts down $100M promoted accounts ad business](https://www.axios.com/2023/08/15/x-twitter-shuts-100m-promoted-accounts-ad-biz) (Axios)
@@ -1010,7 +1010,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 14 2023**
+**Monday, August 14 2023 - Mon. 08/14 – An Apple Watch X?**
 
   * [Apple Plans Major ‘Watch X’ Overhaul for Device’s 10-Year Anniversary](https://www.bloomberg.com/news/newsletters/2023-08-13/apple-event-september-12-2023-apple-watch-series-9-ultra-2-watch-x-later-ll9geb3n?sref=Szq5ylDR) (Bloomberg)
   * [Amazon taps generative AI to enhance product reviews](https://techcrunch.com/2023/08/14/amazon-taps-generative-ai-to-enhance-product-reviews/) (TechCrunch)
@@ -1021,7 +1021,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 11 2023**
+**Friday, August 11 2023 - Fri. 08/11 – Unleash The Robotaxis!**
 
   * [Robotaxis score a huge victory in California with approval to operate 24/7](https://www.theverge.com/2023/8/10/23827790/waymo-cruise-cpuc-vote-robotaxi-san-francisco) (The Verge)
   * [Skydio closing consumer drone business](https://techcrunch.com/2023/08/10/skydio-closing-consumer-drone-business/) (TechCrunch)
@@ -1029,7 +1029,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 10 2023**
+**Thursday, August 10 2023 - Thu. 08/10 – Streaming $$$+**
 
   * [Prices of Disney+, Hulu Premium Plans to Get Jacked Up but New Duo Bundle Will Offer Deep Discount](https://variety.com/2023/tv/news/disney-plus-price-increase-hulu-espn-plus-1235692057/) (Variety)
   * [Biden Restricts U.S. Investment in China](https://www.wsj.com/articles/u-s-to-ban-some-investments-in-china-71f519d6?mod=djemalertNEWS) (WSJ)
@@ -1041,7 +1041,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 09 2023**
+**Wednesday, August 09 2023 - Wed. 08/09 – CAPTCHA Supremacy**
 
   * [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later) (The Verge)
   * [Netflix launches a game controller app for playing games on your TV](https://techcrunch.com/2023/08/08/netflix-launches-a-game-controller-app-for-playing-games-on-your-tv/) (TechCrunch)
@@ -1053,7 +1053,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 08 2023**
+**Tuesday, August 08 2023 - Tue. 08/08 – UK Election Hack?**
 
   * [Millions of UK voters’ data accessible in cyber-attack, says Electoral Commission](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers) (The Guardian)
   * [Apple, Samsung to invest in Arm as it eyes September IPO](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-Samsung-to-invest-in-Arm-as-it-eyes-September-IPO) (NikkeiAsia)
@@ -1065,7 +1065,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 07 2023**
+**Monday, August 07 2023 - Mon. 08/07 – Is Apple Facing An iPhone Recession?**
 
   * [Apple Admits There Is a Smartphone Slowdown Ahead of iPhone 15 Debut](https://www.bloomberg.com/news/newsletters/2023-08-06/apple-iphone-15-comes-amid-us-sales-slowdown-tim-cook-q3-earnings-comments-lkzfs14u?sref=Szq5ylDR) (Bloomberg)
   * [PayPal Launches a Stablecoin in Latest Crypto Payments Push](https://www.bloomberg.com/news/articles/2023-08-07/paypal-launches-us-dollar-stablecoin-pyusd-for-payments-transfers?sref=Szq5ylDR) (Bloomberg)
@@ -1075,7 +1075,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 04 2023**
+**Friday, August 04 2023 - Fri. 08/04 – HUGE Show News**
 
   * [Apple reports third quarter results](https://www.businesswire.com/news/home/20230803893875/en/) (BusinessWire)
   * [Amazon.com Announces Second Quarter Results](https://www.businesswire.com/news/home/20230802612401/en/) (BusinessWire)
@@ -1085,7 +1085,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 03 2023**
+**Thursday, August 03 2023 - Thu. 08/03 – Pandemic High Fliers Crash To Earth**
 
   * [Johnny Boufarhat steps down as CEO of Hopin](https://sifted.eu/articles/hopin-sells-off-its-original-events-platform-news) (Sifted)
   * [‘A Nice Bike, When It Works’: Riders Fret After E-Bike Maker Goes Bust](https://www.nytimes.com/2023/08/03/business/vanmoof-bankruptcy-ebikes.html) (NYTimes)
@@ -1097,7 +1097,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 02 2023**
+**Wednesday, August 02 2023 - Wed. 08/02 – Elon’s Gonna Get Me To Pay For Blue**
 
   * [X, formerly Twitter, now lets paid users hide their checkmarks](https://techcrunch.com/2023/08/01/x-twitter-paid-users-hide-checkmarks/) (TechCrunch)
   * [TweetDeck is now called ‘XPro’](https://9to5google.com/2023/08/01/tweetdeck-xpro/) (9to5Google)
@@ -1109,7 +1109,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 01 2023**
+**Tuesday, August 01 2023 - Tue. 10/01 – Uber Profitable**
 
   * [Uber Delivers First-Ever Operating Profit in Drive to Curb Losses](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a?mod=djemalertNEWS) (WSJ)
   * [Meta prepares chatbots with personas to try to retain users](https://www.ft.com/content/fa76c8ce-cdfd-458c-baec-73dceb2d2ad5) (FT)
@@ -1121,7 +1121,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 31 2023**
+**Monday, July 31 2023 - Mon. 07/31 – Will Only Bitcoin Survive?**
 
   * [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d) (FT)
   * [The iPhone 15 Pro Will Have Thinner Bezels in Step Toward Apple’s Dream](https://www.bloomberg.com/news/newsletters/2023-07-30/apple-iphone-15-pro-features-usb-c-port-new-design-thinner-bezels-lkpemg29?sref=Szq5ylDR) (Bloomberg)
@@ -1132,7 +1132,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 28 2023**
+**Friday, July 28 2023 - Fri. 07/28 – Is The Clock Ticking For Threads?**
 
   * [Meta plans retention 'hooks' for Threads as more than half of users leave app](https://www.reuters.com/business/media-telecom/meta-plans-retention-hooks-threads-more-than-half-users-leave-app-2023-07-28/) (Reuters)
   * [Aided by A.I. Language Models, Google’s Robots Are Getting Smart](https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html) (NYTimes)
@@ -1141,7 +1141,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 27 2023**
+**Thursday, July 27 2023 - Thu. 07/27 – Meta Back To Par**
 
   * [Meta’s Improved Ad Sales Buy Time for Zuckerberg’s Metaverse](https://www.bloomberg.com/news/articles/2023-07-27/meta-s-improved-ad-sales-buy-time-for-zuckerberg-s-metaverse?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft Faces European Antitrust Investigation Over Bundling of Teams Software](https://www.wsj.com/articles/microsoft-faces-european-antitrust-investigation-over-bundling-of-teams-software-85ef3e58?mod=djemalertNEWS) (WSJ)
@@ -1153,7 +1153,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 26 2023**
+**Wednesday, July 26 2023 - Wed. 07/26 – Samsung Unpacked Event**
 
   * [The Samsung Galaxy Z Flip 5 gets a big little screen upgrade](https://www.theverge.com/2023/7/26/23806177/samsung-galaxy-z-flip-5-cover-screen-size-camera-price-specs) (The Verge)
   * [Samsung Galaxy Z Fold 5 hands-on: Is Samsung squandering its head start?](https://www.engadget.com/samsung-galaxy-z-fold-5-hands-on-specs-price-is-samsung-squandering-its-head-start-110009600.html) (Engadget)
@@ -1164,7 +1164,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 25 2023**
+**Tuesday, July 25 2023 - Tue. 07/25 – X Fallout Continues (Insert Xander Cage Joke Here)**
 
   * [AMD 'Zenbleed' Bug Leaks Data From Ryzen, EPYC CPUs: Most Patches Coming Q4 (Updated)](https://www.tomshardware.com/news/zenbleed-bug-allows-data-theft-from-amds-zen-2-processors-patches-released) (TomsHardware)
   * [Musk Explains Why He’s Axing Twitter Name, Iconic Bird Logo](https://www.bloomberg.com/news/articles/2023-07-25/musk-explains-why-he-s-dumping-twitter-name-and-iconic-bird-logo?sref=Szq5ylDR) (Bloomberg)
@@ -1176,7 +1176,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 24 2023**
+**Monday, July 24 2023 - Mon. 07/24 – This Podcast Is Now Called X Ride Home**
 
   * [Twitter is being rebranded as X](https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon) (The Verge)
   * [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/) (TechCrunch)
@@ -1189,7 +1189,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 21 2023**
+**Friday, July 21 2023 - Fri. 07/21 – Reddit Doesn’t Blink**
 
   * [Reddit takes over one of the biggest protesting subreddits](https://www.theverge.com/2023/7/20/23802370/reddit-over-reopens-subreddit-protest-male-fashion-advice) (The Verge)
   * [Threads Is Already Losing Its Allure for Users, Adding Urgency for New Features](https://www.wsj.com/articles/threads-user-engagement-continues-to-drop-adding-urgency-for-new-features-8ed2f384?mod=djemalertNEWS) (WSJ)
@@ -1199,7 +1199,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 20 2023**
+**Thursday, July 20 2023 - Thu. 07/20 – An Apple GPT**
 
   * [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google?sref=Szq5ylDR) (Bloomberg)
   * [Google Tests A.I. Tool That Is Able to Write News Articles](https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html) (NYTimes)
@@ -1211,7 +1211,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 19 2023**
+**Wednesday, July 19 2023 - Wed. 07/19 – More Proof The Big Folks Are Winning AI (For Now)**
 
   * [Microsoft and Activision Blizzard extend merger agreement to October](https://www.theverge.com/2023/7/19/23797238/microsoft-activision-blizzard-merger-agreement-extension) (The Verge)
   * [Microsoft will charge businesses $30 per user for its 365 AI Copilot](https://www.engadget.com/microsoft-will-charge-businesses-30-per-user-for-its-365-ai-copilot-153042654.html?guccounter=1) (Engadget)
@@ -1223,7 +1223,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 18 2023**
+**Tuesday, July 18 2023 - Tue. 07/18 – Checking In With Threads**
 
   * [The spam bots have now found Threads, as company announces its own ‘rate limits’](https://techcrunch.com/2023/07/17/the-spam-bots-have-now-found-threads-as-company-announces-its-own-rate-limits/) (TechCrunch)
   * [Five reasons Threads could still go the distance](https://www.platformer.news/p/five-reasons-threads-could-still) (Platformer)
@@ -1234,7 +1234,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 17 2023**
+**Monday, July 17 2023 - Mon. 07/17 – Sony And Microsoft Stop Fragging Each Other Over Call Of Duty**
 
   * [Sony agrees to 10-year Call of Duty deal with Microsoft](https://www.theverge.com/2023/7/16/23792215/sony-microsoft-call-of-duty-cod-deal-signed) (The Verge)
   * [SEC accepts BlackRock’s Bitcoin ETF application, signaling regulatory review](https://cointelegraph.com/news/sec-accepts-black-rock-bitcoin-etf-application-signaling-regulatory-review) (CoinTelegraph)
@@ -1246,7 +1246,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 14 2023**
+**Friday, July 14 2023 - Fri. 07/14 – Twitter Starts Showing People The Money**
 
   * [Twitter starts sharing ad revenue with verified creators](https://techcrunch.com/2023/07/13/twitter-starts-sharing-ad-revenue-with-verified-creators/) (TechCrunch)
   * [Musk's Twitter sues four Texas entities for data scraping, seeks damages](https://www.reuters.com/business/media-telecom/musk-reaffirms-tweet-reading-limits-put-due-data-scraping-2023-07-13/) (Reuters)
@@ -1258,7 +1258,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 13 2023**
+**Thursday, July 13 2023 - Thu. 07/13 – Elon Launches An AI Company**
 
   * [Musk Unveils xAI in New Bid to Rival Startup OpenAI](https://www.bloomberg.com/news/articles/2023-07-12/musk-unveils-xai-as-way-to-understand-true-nature-of-universe?sref=Szq5ylDR) (Bloomberg)
   * [FTC appeals its loss to Microsoft in Activision Blizzard case](https://www.theverge.com/2023/7/12/23791274/ftc-microsoft-activision-blizzard-appeal) (The Verge)
@@ -1270,7 +1270,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 12 2023**
+**Wednesday, July 12 2023 - Wed. 07/12 – Microsoft Wins Big In The FTC Case**
 
   * [Microsoft-Activision deal moves closer as judge denies FTC injunction request](https://www.cnbc.com/2023/07/11/microsoft-activision-deal-moves-closer-as-judge-denies-ftc-injunction.html) (CNBC)
   * [Microsoft and UK regulators agree to pause their Activision battle to negotiate](https://www.theverge.com/2023/7/11/23791149/microsoft-activision-blizzard-uk-regulators-cma-appeal) (The Verge)
@@ -1283,7 +1283,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 11 2023**
+**Tuesday, July 11 2023 - Tue. 07/11 – A Meaningful Anti-Tracking Law**
 
   * [Selling Your Cellphone Location Data Might Soon Be Banned in U.S. for First Time](https://www.wsj.com/articles/first-u-s-ban-on-sale-of-cellphone-location-data-might-be-coming-fbe47e53?mod=djemalertNEWS) (WSJ)
   * [Tumblr says it’s going to ‘fix’ its ‘core experience’ to appeal to new users](https://www.theverge.com/2023/7/10/23790050/tumblr-user-experience-changes-reblogs-discoverability-creators) (The Verge)
@@ -1293,7 +1293,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 10 2023**
+**Monday, July 10 2023 - Mon. 07/10 – Evernote Deadpool?**
 
   * [Bay Area tech company Evernote lays off most staff, relocating to Europe](https://www.sfgate.com/tech/article/evernote-layoffs-moving-to-europe-18190083.php) (SFGate)
   * [EU Seals New Transatlantic Data-Transfer Pact With US in Third Attempt](https://www.bloomberg.com/news/articles/2023-07-10/eu-seals-new-transatlantic-data-transfer-pact-in-third-attempt?sref=Szq5ylDR) (Bloomberg)
@@ -1305,7 +1305,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 07 2023**
+**Friday, July 07 2023 - Fri. 07/07 – I’ve Never Seen Anything Like Threads**
 
   * [Threads Becomes Most Rapidly Downloaded App, Raising Twitter’s Ire](https://www.nytimes.com/2023/07/06/technology/threads-downloads-twitter.html?partner=slack&smid=sl-share) (NYTimes)
   * [Zuck's Threads halo](https://www.axios.com/2023/07/07/zuckerberg-threads-halo-twitter) (Axios)
@@ -1316,7 +1316,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 06 2023**
+**Thursday, July 06 2023 - Thu. 07/06 – Uh, Did Threads Just Win?**
 
   * [Meta launches Instagram Threads in a direct challenge to Twitter](https://www.cnbc.com/2023/07/05/meta-launches-instagram-threads-messaging-app-challenging-twitter.html) (CNBC)
   * [Threads profile can only be deleted by deleting Instagram account, Meta says](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/) (TechCrunch)
@@ -1326,7 +1326,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 05 2023**
+**Wednesday, July 05 2023 - Wed. 07/05 – Twitter Chaos: The Real Fireworks**
 
   * [Instagram’s Twitter competitor, Threads, briefly went live on the web](https://www.theverge.com/2023/7/5/23784160/instagram-threads-twitter-competitor-web) (The Verge)
   * [The Reddit app-pocalyse is here: Apollo, Sync, and BaconReader go dark](https://www.theverge.com/2023/6/30/23779519/reddit-third-party-app-shut-down-apollo-sync-baconreader-api-protest) (The Verge)
@@ -1335,7 +1335,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 30 2023**
+**Friday, June 30 2023 - Fri. 06/30 – Apple $3T?**
 
   * [Apple’s market cap tops $3 trillion](https://www.cnbc.com/2023/06/30/apples-market-cap-passes-3-trillion-in-early-trading.html) (CNBC)
   * [Canada’s ‘link tax’ law could break how the web works, says Google](https://www.androidpolice.com/canada-link-tax-law-break-internet-as-we-know-google/) (Android Police)
@@ -1345,7 +1345,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 29 2023**
+**Thursday, June 29 2023 - Thu. 06/29 – Big Interesting (AI) Raises**
 
   * [Microsoft and Activision Chiefs Testify Merger Will Benefit Consumers](https://www.nytimes.com/2023/06/28/business/microsoft-activision-ceo-testify.html) (NYTimes)
   * [Lina Khan Is Coming for Amazon, Armed With an FTC Antitrust Suit](https://www.bloomberg.com/news/articles/2023-06-29/amazon-major-ftc-antitrust-case-expected-in-coming-weeks?sref=Szq5ylDR) (Bloomberg)
@@ -1356,7 +1356,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 28 2023**
+**Wednesday, June 28 2023 - Wed. 06/28 – Who Needs A Mac Pro?**
 
   * [FTX Halts Sale of Its $500 Million Stake in AI Startup Anthropic](https://www.bloomberg.com/news/articles/2023-06-27/bankman-fried-s-ftx-said-to-halt-sale-of-its-stake-in-ai-startup-anthropic?sref=Szq5ylDR) (Bloomberg)
   * [AI Frenzy Draws Hordes to Private Markets in Industry Gold Rush](https://www.bloomberg.com/news/articles/2023-06-27/ai-frenzy-draws-hordes-to-private-markets-in-industry-gold-rush?sref=Szq5ylDR) (Bloomberg)
@@ -1369,7 +1369,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 27 2023**
+**Tuesday, June 27 2023 - Tue. 06/27 – What If OpenAI Did Its Own Copilot?**
 
   * [Microsoft exec was ready to ‘go spend Sony out of business’ to strengthen Xbox](https://www.theverge.com/2023/6/26/23774547/microsoft-sony-xbox-internal-emails-ftc-out-of-business) (The Verge)
   * [FTX Bankruptcy Team Says the Exchange Owed Customers $8.7B](https://www.coindesk.com/policy/2023/06/26/ftx-bankruptcy-team-says-the-exchange-owed-customers-87b/) (CoinDesk)
@@ -1380,7 +1380,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 26 2023**
+**Monday, June 26 2023 - Mon. 06/26 – The M&A Deluge In AI Begins**
 
   * [Databricks Strikes $1.3 Billion Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06?mod=djemalertNEWS) (WSJ)
   * [Pete Buttigieg Warns of Flight Delays as 5G Deadline Looms](https://www.wsj.com/articles/pete-buttigieg-warns-of-flight-delays-as-5g-deadline-looms-bc4ab236?mod=djemalertNEWS) (WSJ)
@@ -1391,7 +1391,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 23 2023**
+**Friday, June 23 2023 - Fri. 06/23 – Meta To Turn Off The (Canadian) News Spigot?**
 
   * [Meta says it's blocking news on Facebook, Instagram after government passes online news bill](https://nationalpost.com/news/politics/showdown-looming-as-online-news-bill-is-about-to-become-law) (National Post)
   * [Apple Vision Pro has a speed limit, Travel Mode required for use on flights](https://9to5mac.com/2023/06/22/apple-vision-pro-high-speeds/) (9to5Mac)
@@ -1400,7 +1400,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 22 2023**
+**Thursday, June 22 2023 - Thu. 06/22 – So, Elon And Zuck Are Gonna Fight, I Guess**
 
   * [Mark Zuckerberg is ready to fight Elon Musk in a cage match](https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar) (The Verge)
   * [Startup Stability Debuts a New AI Model For Stable Diffusion](https://www.bloomberg.com/news/articles/2023-06-22/startup-stability-debuts-a-new-ai-model-for-stable-diffusion?sref=Szq5ylDR) (Bloomberg)
@@ -1411,7 +1411,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 21 2023**
+**Wednesday, June 21 2023 - Wed. 06/21 – Dropbox AI**
 
   * [Dropbox’s AI tools can help you find your stuff — from everywhere on the internet](https://www.theverge.com/2023/6/21/23767248/dropbox-ai-dash-universal-search) (The Verge)
   * [Twitch will require new labels for streams with sexual themes, gambling and M-rated games](https://techcrunch.com/2023/06/20/twitch-mature-content-labels/) (TechCrunch)
@@ -1421,7 +1421,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 20 2023**
+**Tuesday, June 20 2023 - Tue. 06/20 – Spotify To Go “Supremium”**
 
   * [Spotify Plans New Premium Tier, Expected to Include HiFi Audio](https://www.bloomberg.com/news/articles/2023-06-20/spotify-plans-new-premium-tier-expected-to-include-hifi-audio?sref=Szq5ylDR) (Bloomberg)
   * [FTX paid over $120 million in advisor fees between February 1 and April 30](https://www.theblock.co/post/235547/ftx-paid-over-120-million-in-advisor-fees-between-february-1-and-april-30) (The Block)
@@ -1432,7 +1432,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 16 2023**
+**Friday, June 16 2023 - Fri. 06/16 – Google Does it Again**
 
   * [Alphabet Selling Google Domains Assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace?sref=Szq5ylDR) (Bloomberg)
   * [Reddit says it won’t force subreddits back open (but will it?)](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities) (The Verge)
@@ -1442,7 +1442,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 15 2023**
+**Thursday, June 15 2023 - Thu. 06/15 – Everbody Does Ads Now**
 
   * [Video Ads Are Coming to All Your Uber Apps](https://www.wsj.com/articles/video-ads-are-coming-to-all-your-uber-apps-cb11d48e?mod=djemalertNEWS) (The Wall Street Journal)
   * [Intel To Launch New Core Processor Branding: Drop the i, Add Ultra Tier](https://www.anandtech.com/show/18911/intel-new-core-branding-for-meteor-lake-no-i-new-ultra-tier) (AnandTech)
@@ -1454,7 +1454,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 14 2023**
+**Wednesday, June 14 2023 - Wed. 06/14 – EU Threatens Google With A Breakup**
 
   * [EU suggests breaking up Google’s ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust) (The Verge)
   * [Reddit CEO tells employees that subreddit blackout ‘will pass'](https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman) (The Verge)
@@ -1467,7 +1467,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 13 2023**
+**Tuesday, June 13 2023 - Tue. 06/13 – New Beatles Song Thanks To AI**
 
   * [FTC files to block Microsoft-Activision as deadline approaches](https://www.cnbc.com/2023/06/12/ftc-files-to-block-microsoft-activision-blizzard-deal.html) (CNBC)
   * [Netflix to Enter Live-Streamed Sports With Celebrity Golf Event](https://www.wsj.com/articles/netflix-plans-first-live-streamed-sports-event-with-celebrity-golf-tournament-cd76c2c1?mod=djemalertNEWS) (WSJ)
@@ -1477,7 +1477,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 12 2023**
+**Monday, June 12 2023 - Mon. 06/12 – Why Your Favorite Subreddit Might Go Dark.**
 
   * [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps) (The Verge)
   * [Andreessen Horowitz believes that crypto's future may be in the U.K.](https://www.axios.com/2023/06/11/andreesse-horowitz-a16z-crypto-future-london) (Axios)
@@ -1488,7 +1488,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 09 2023**
+**Friday, June 09 2023 - Fri. 06/09 – Zuck’s Not Worried About Apple’s Headset (Corrected)**
 
   * [Here’s what Mark Zuckerberg thinks about Apple’s Vision Pro](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset) (The Verge)
   * [This is what Instagram’s upcoming Twitter competitor looks like](https://www.theverge.com/2023/6/8/23754304/instagram-meta-twitter-competitor-threads-activitypub) (The Verge)
@@ -1501,7 +1501,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 08 2023**
+**Thursday, June 08 2023 - Thu. 06/08 – The Gloves Come Off In The Binance Case**
 
   * [Binance lawyers allege SEC Chair Gensler offered to serve as advisor to crypto company in 2019](https://www.cnbc.com/2023/06/07/binance-lawyers-say-sec-chair-gensler-offered-to-be-advisor-in-2019.html) (CNBC)
   * [SEC says Binance and US affiliate redirected billions in customer assets to Zhao's funds](https://www.theblock.co/post/233652/sec-binance-and-us-affiliate-redirected-billions-in-customer-assets-to-zhaos-funds) (The Block)
@@ -1514,7 +1514,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 07 2023**
+**Wednesday, June 07 2023 - Wed. 06/07 – Maybe Apple DOES Want To Get Serious About Mac Gaming**
 
   * [macOS Sonoma lets developers port Windows games to the Mac; here’s how it works](https://9to5mac.com/2023/06/06/macos-sonoma-port-windows-games-mac/) (9to5Mac)
   * [Apple makes iOS 17 developer beta free for registered developers](https://9to5mac.com/2023/06/06/apple-makes-ios-17-developer-beta-free/) (9to5Mac)
@@ -1524,7 +1524,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 06 2023**
+**Tuesday, June 06 2023 - Tue. 06/06 – The SEC Sues Coinbase**
 
   * [US Crypto Crackdown Reaches Fever Pitch as SEC Sues Coinbase](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules?sref=Szq5ylDR) (Bloomberg)
   * [Sequoia Is Splitting Into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/?sh=7f5254b47e8a) (Forbes)
@@ -1534,7 +1534,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 05 2023**
+**Monday, June 05 2023 - Mon. 06/05 – WWDC And The Apple Headset**
 
   * [Apple Vision Pro is Apple’s new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023) (The Verge)
   * [The Apple Vision Pro features an M2 chip, a ton of sensors and a new R1 chip](https://techcrunch.com/2023/06/05/the-apple-vision-pro-features-an-m2-chip-a-ton-of-sensors-and-a-new-r1-chip/) (TechCrunch)
@@ -1547,7 +1547,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 02 2023**
+**Friday, June 02 2023 - Fri. 06/02 – An Amazon Prime Phone Service?**
 
   * [Twitter's head of trust and safety says she has resigned](https://www.reuters.com/article/twitter-management-idUSKBN2XN3WY) (Reuters)
   * [Elon 'The Dogefather' Musk Accused of Insider Trading](https://gizmodo.com/elon-musk-crypto-dogecoin-twitter-snl-1850497430) (Gizmodo)
@@ -1558,7 +1558,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 01 2023**
+**Thursday, June 01 2023 - 06/01 – Meta Front-Runs The Quest 3**
 
   * [Zuck's Meta Quest 3 Announce](https://www.instagram.com/reel/Cs809N-BUJ7/?img_index=1)
   * [Amazon to Pay $25 Million to Settle Children’s Privacy Charges](https://www.nytimes.com/2023/05/31/technology/amazon-25-million-childrens-privacy.html) (NYTimes)
@@ -1572,7 +1572,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 31 2023**
+**Wednesday, May 31 2023 - Wed. 05/31 – AI Industry Says: “Regulate Us!” But Why?**
 
   * [A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn](https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html) (NYTimes)
   * [ChatGPT Risks Divide Biden Administration Over EU’s AI Rules](https://www.bloomberg.com/news/articles/2023-05-31/biden-administration-split-over-policy-on-openai-as-eu-pushes-new-rules?sref=Szq5ylDR) (Bloomberg)
@@ -1582,7 +1582,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 30 2023**
+**Tuesday, May 30 2023 - Tue. 05/30 – Nvidia Joins The $1T Club**
 
   * [How Nvidia created the chip powering the generative AI boom](https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266) (Financial Times)
   * [World’s Most Valuable Chipmaker Nvidia Unveils More AI Products After $184 Billion Rally](https://www.bloomberg.com/news/articles/2023-05-29/nvidia-nvda-unveils-more-ai-products-to-further-capitalize-on-frenzy?sref=Szq5ylDR) (Bloomberg)
@@ -1593,7 +1593,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, May 27 2023**
+**Saturday, May 27 2023 - (IHP) The History Of Internet Porn**
 
   * [The Erotic Engine: How Pornography has Powered Mass Communication, from Gutenberg to Google](http://www.amazon.com/gp/product/038566737X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=038566737X&linkCode=as2&tag=thejocom00-20&linkId=42CQRXDM6RK5VEML)
   * [Obscene Profits: The Entrepreneurs of Pornography in the Cyber Age](http://www.amazon.com/gp/product/0415931037/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0415931037&linkCode=as2&tag=thejocom00-20&linkId=UYEJJ2HOEJEO5MYS)
@@ -1602,7 +1602,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 26 2023**
+**Friday, May 26 2023 - Fri. 05/26 – AI Google Search Is Here**
 
   * [Google starts rolling out Search Generative Experience (SGE) in preview](https://9to5google.com/2023/05/25/google-search-generative-experience/) (9to5Google)
   * [Paradigm broadening crypto-only focus to areas including AI](https://www.theblock.co/post/232247/crypto-vc-paradigm-ai) (The Block)
@@ -1611,7 +1611,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 25 2023**
+**Thursday, May 25 2023 - Thu. 05/25 – Even Presidential Candidates Suffer From Twitter Glitches**
 
   * [Twitter glitches plague Ron DeSantis’ much-hyped presidential announcement with Elon Musk](https://www.cnbc.com/2023/05/24/twitter-glitches-plague-desantis-presidential-announcement.html) (CNBC)
   * [Microsoft warns that China hackers attacked U.S. infrastructure](https://www.cnbc.com/2023/05/24/microsoft-warns-that-china-hackers-attacked-us-infrastructure.html) (CNBC)
@@ -1624,7 +1624,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 24 2023**
+**Wednesday, May 24 2023 - Wed. 05/24 – Microsoft Build Wrapup**
 
   * [Microsoft’s Azure AI Studio lets developers build their own AI ‘copilots’](https://techcrunch.com/2023/05/23/microsoft-debuts-azure-ai-studio-to-let-developers-build-their-own-ai-copilots/) (TechCrunch)
   * [Microsoft’s Copilot and Bing AI plug-ins will be interoperable with ChatGPT](https://www.theverge.com/2023/5/23/23732505/microsoft-ai-bing-copilot-chatgpt-interoperability-support-build) (The Verge)
@@ -1637,7 +1637,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 23 2023**
+**Tuesday, May 23 2023 - Tue. 05/23 – Shutterstock Nabs Giphy**
 
   * [Apple expands US investment with new multibillion-dollar Broadcom deal for 5G tech](https://9to5mac.com/2023/05/23/apple-broadcom-investement-announcement/) (9to5Mac)
   * [Verified Twitter Accounts Spread AI-Generated Hoax of Pentagon Explosion](https://www.vice.com/en/article/7kx84b/ai-generated-pentagon-explosion-hoax-twitter) (Motherboard)
@@ -1650,7 +1650,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 22 2023**
+**Monday, May 22 2023 - BETTER SOUND! (IHP) Amazon's First Employee Shel Kaphan**
 
   * [Meta Fined $1.3 Billion Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04?mod=djemalertNEWS) (WSJ)
   * [Sanctioned Crypto Mixer Tornado Cash Hijacked by Hackers](https://www.bloomberg.com/news/articles/2023-05-21/sanctioned-crypto-mixer-tornado-cash-hijacked-by-hackers?sref=Szq5ylDR) (Bloomberg)
@@ -1661,7 +1661,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 19 2023**
+**Friday, May 19 2023 - Fri. 05/19 – ChatGPT Comes To The App Store**
 
   * [AI in your pocket: ChatGPT officially comes to iPhone with new app](https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/) (ArsTechnica)
   * [Link to the official ChatGPT App in the App Store](https://apps.apple.com/app/openai-chatgpt/id6448311069)
@@ -1671,7 +1671,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 18 2023**
+**Thursday, May 18 2023 - Thu. 05/18 – Montana Bans TikTok**
 
   * [TikTok Ban Signed in Montana, Paving Way for First Amendment Legal Battle](https://www.wsj.com/articles/tiktok-ban-in-montana-sets-off-first-amendment-legal-fight-5a06d701?mod=djemalertNEWS) (WSJ)
   * [YouTube 2023 Upfront: Platform to Launch Unskippable 30-Second Ads on TVs, Roger Goodell on Hand to Tout NFL Sunday Ticket Pact](https://variety.com/2023/digital/news/youtube-upfront-2023-unskippable-30-second-ads-tvs-sunday-ticket-1235616175/) (Variety)
@@ -1682,7 +1682,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 17 2023**
+**Wednesday, May 17 2023 - Wed. 05/17 – Open Source Vs. Centralized AI, Part II**
 
   * [Google will delete accounts, including Gmail & Photos, that haven’t logged on in 2 years](https://9to5google.com/2023/05/16/google-account-delete/) (9to5Google)
   * [New ZIP domains spark debate among cybersecurity experts](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/) (BleepingComputer)
@@ -1692,7 +1692,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 16 2023**
+**Tuesday, May 16 2023 - Tue. 05/16 – Open Source Vs. Centralized AI, Part I**
 
   * [E.U. Approves Microsoft’s $69 Billion Deal for Activision](https://www.nytimes.com/2023/05/15/technology/eu-microsoft-activision-blizzard.html) (NYTimes)
   * [IRS tests free e-filing system that could compete with tax-prep giants](https://www.washingtonpost.com/business/2023/05/15/irs-free-file/) (Washington Post)
@@ -1705,7 +1705,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 15 2023**
+**Monday, May 15 2023 - (IHP Bonus) Tesla Cofounder Marc Tarpenning (Corrected)**
 
   * [Apple Begins Testing Speedy M3 Chips as It Pursues Mac Comeback](https://www.bloomberg.com/news/newsletters/2023-05-14/apple-m3-chip-mac-specifications-and-features-cpu-gpu-and-ram-increase-details-lhngxmx4?sref=Szq5ylDR) (Bloomberg)
   * [Vice Media files for bankruptcy as ad business suffers](https://www.reuters.com/business/media-telecom/vice-media-group-files-chapter-11-protection-facilitate-sale-2023-05-15/) (Reuters)
@@ -1715,7 +1715,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 12 2023**
+**Friday, May 12 2023 - Fri. 05/12 – Twitter Has A New CEO**
 
   * [Elon Musk says he has found a new CEO for Twitter](https://techcrunch.com/2023/05/11/elon-musk-says-he-has-found-a-new-ceo-for-twitter/) (TechCrunch)
   * [Linda Yaccarino Leaves NBCUniversal Amid Talks to Become Twitter CEO](https://www.wsj.com/articles/linda-yaccarino-in-talks-new-twitter-ceo-elon-musk-7a006bb5) (WSJ)
@@ -1724,7 +1724,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 11 2023**
+**Thursday, May 11 2023 - Thu. 05/11 – Twitter Encrypts DMs? (Corrected)**
 
   * [Twitter's encrypted DMs are here — but only for verified users](https://www.engadget.com/twitters-encrypted-dms-are-here--but-only-for-verified-users-234934842.html) (Engadget)
   * [Join the waitlist for Google's generative AI tools, including search, Project Tailwind, & MusicLM](https://www.xda-developers.com/join-waitlist-google-generative-ai-tools/) (XDA Developers)
@@ -1735,7 +1735,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 10 2023**
+**Wednesday, May 10 2023 - Wed. 05/10 – Google I/O**
 
   * [Google Photos to gain a new ‘Magic Editor’ feature powered by generative AI](https://techcrunch.com/2023/05/10/google-photos-to-gain-a-new-magic-editor-feature-powered-by-generative-ai/) (TechCrunch)
   * [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/) (TechCrunch)
@@ -1747,7 +1747,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 09 2023**
+**Tuesday, May 09 2023 - Tue. 05/09 – AI Comes To The Drive Through Window**
 
   * [Coinbase CEO says SEC is on ‘lone crusade,’ dials back on suggestion exchange may relocate](https://www.cnbc.com/2023/05/08/coinbase-ceo-on-us-crypto-regulation-sec-lawsuit-international-plans.html) (CNBC)
   * [Ripple will have spent $200 million fighting SEC lawsuit, CEO says](https://www.cnbc.com/2023/05/08/ripple-will-have-spent-200-million-fighting-sec-lawsuit-ceo-says.html) (CNBC)
@@ -1760,7 +1760,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 08 2023**
+**Monday, May 08 2023 - Mon. 05/08 – The Big Discord Username Shift**
 
   * [Google Plans to Make Search More ‘Personal’ with AI Chat and Video Clips](https://www.wsj.com/articles/google-search-ai-artificial-intelligence-chatbot-tiktok-67c08870?mod=djemalertNEWS) (WSJ)
   * [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles) (The Verge)
@@ -1770,7 +1770,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 05 2023**
+**Friday, May 05 2023 - Fri. 05/05 – Can Open Source Win Out Over Open AI? (Corrected)**
 
   * [Apple CEO Tim Cook says AI is "huge," but care is needed](https://www.axios.com/2023/05/04/apple-ceo-tim-cook-ai-huge-care-needed) (Axios)
   * [Hugging Face and ServiceNow release a free code-generating model](https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/?guccounter=1) (TechCrunch)
@@ -1779,7 +1779,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 04 2023**
+**Thursday, May 04 2023 - Thu. 05/04 – The Regulators Come For AI**
 
   * [“We must regulate AI,” FTC Chair Khan says](https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/) (ArsTechnica)
   * [UK competition watchdog launches review of AI market](https://www.ft.com/content/76f12980-657e-405c-b510-9ee8bbfb81b7) (Financial Times)
@@ -1791,7 +1791,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 03 2023**
+**Wednesday, May 03 2023 - Wed. 05/03 – How A Pixies Song Broke Google Assistant**
 
   * [You no longer need a password to sign in to your Google account](https://www.theverge.com/2023/5/3/23709318/google-accounts-passkey-support-password-2fa-fido-security-phishing) (The Verge)
   * [Twitter restores free API access for emergency, weather and transportation alerts](https://www.engadget.com/twitter-restores-free-api-access-for-emergency-weather-and-transportation-alerts-204519574.html?guccounter=1) (Engadget)
@@ -1803,7 +1803,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 02 2023**
+**Tuesday, May 02 2023 - Tue. 05/02 – The Writer’s Strike Inspired By AI**
 
   * [Hollywood Writers Strike Over Pay Disputes with Streaming Giants and AI Concerns](https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107) (Gizmodo)
   * [Apple and Google team up to stop unwanted AirTag tracking](https://www.cnbc.com/2023/05/02/apple-and-google-team-up-to-stop-unwanted-airtag-tracking.html) (CNBC)
@@ -1816,7 +1816,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 01 2023**
+**Monday, May 01 2023 - Mon. 05/01 – Why Hollywood Fears AI**
 
   * [Apple to Upgrade Its Watch Operating System With New Focus on Widgets](https://www.bloomberg.com/news/newsletters/2023-04-30/watchos-10-details-apple-watch-to-gain-widgets-as-part-of-new-software-at-wwdc-lh3f71uv?sref=Szq5ylDR) (Bloomberg)
   * [SoftBank's Arm registers for blockbuster U.S. IPO](https://www.reuters.com/markets/deals/softbanks-arm-registers-blockbuster-us-ipo-sources-2023-04-29/) (Reuters)
@@ -1827,7 +1827,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 28 2023**
+**Friday, April 28 2023 - Fri. 04/28 – Microsoft Gets Out Of The Mice Business**
 
   * [New York City Subway Ends Twitter Service Alerts After Musk Raises Price](https://www.bloomberg.com/news/articles/2023-04-27/new-york-mta-ends-twitter-service-alerts-after-musk-raises-price?sref=Szq5ylDR) (Bloomberg)
   * [Reddit is testing Discord-like channels for community chat](https://techcrunch.com/2023/04/28/reddit-is-testing-discord-like-channels-for-community-chat/) (TechCrunch)
@@ -1837,7 +1837,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 27 2023**
+**Thursday, April 27 2023 - Thu. 04/27 – Meta Does Good**
 
   * [Facebook Parent Meta Platforms Sees First Sales Increase in Nearly a Year](https://www.wsj.com/articles/meta-platforms-q1-earnings-report-2023-aa820bcd?mod=djemalertNEWS) (WSJ)
   * [Meta beats revenue expectations, remains committed to metaverse](https://techcrunch.com/2023/04/26/meta-beats-revenue-expectations-remains-committed-to-metaverse/) (TechCrunch)
@@ -1849,7 +1849,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 26 2023**
+**Wednesday, April 26 2023 - The UK Is Blocking Microsoft’s Activision Acquisition**
 
   * [UK Blocks Microsoft’s $69 Billion Activision Deal](https://www.bloomberg.com/news/articles/2023-04-26/microsoft-s-69-billion-activision-deal-blocked-by-uk-watchdog?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft Q3 2023: Windows, devices, and Xbox down again](https://www.theverge.com/2023/4/25/23697649/microsoft-q3-2023-earnings-revenue-profits-windows-xbox-gaming-surface) (The Verge)
@@ -1862,7 +1862,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 25 2023**
+**Tuesday, April 25 2023 - Tue. 04/25 – The AI Revolution Comes For Drake**
 
   * [Coinbase Asks Court to Force SEC to Clarify Crypto Regulations](https://decrypt.co/137765/coinbase-asks-court-to-force-sec-to-clarify-crypto-regulations) (Decrypt)
   * [Slack launches Canvas, a docs app that lives inside your chat app](https://www.theverge.com/2023/4/25/23696394/slack-canvas-document-editor-app) (The Verge)
@@ -1875,7 +1875,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 24 2023**
+**Monday, April 24 2023 - Mon. 04/24 – And More Twitter Stuff**
 
   * [Elon Caves, Gives Blue Checks Back to Twitter’s Biggest Celebs](https://www.thedailybeast.com/elon-musks-backs-off-legacy-checkmark-purge-re-verifies-platforms-biggest-celebs) (Daily Beast)
   * [Apple Will Take Scattershot Approach to Pitching AR/VR Headset](https://www.bloomberg.com/news/newsletters/2023-04-23/apple-s-ar-vr-headset-plans-ipad-apps-fitness-sports-viewing-gaming-music-lgtgopgx?sref=Szq5ylDR) (Bloomberg)
@@ -1885,7 +1885,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 21 2023**
+**Friday, April 21 2023 - Fri. 04/21 – Twitter Stuff**
 
   * [Twitter seemingly now requires all advertisers to have a verified checkmark](https://techcrunch.com/2023/04/21/twitter-seemingly-now-requires-all-advertisers-to-have-a-verified-checkmark/) (TechCrunch)
   * [Google Looks to Turbocharge AI Efforts With Combined Brain, DeepMind Unit](https://www.wsj.com/articles/alphabets-google-combines-ai-research-units-brain-and-deepmind-620f4f7d?mod=djemalertNEWS) (WSJ)
@@ -1896,7 +1896,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 20 2023**
+**Thursday, April 20 2023 - Thu. 04/20 – Elon’s Having A Heck Of A 4/20**
 
   * [Microsoft drops Twitter from its advertising platform](https://mashable.com/article/microsoft-drops-twitter-from-advertising-platform) (Mashable)
   * [Elon Musk Threatens to Sue Microsoft After it Drops Twitter From Ad Platform](https://www.pcmag.com/news/elon-musk-threatens-to-sue-microsoft-after-it-drops-twitter-from-ad-platform) (PCMag)
@@ -1908,7 +1908,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 19 2023**
+**Wednesday, April 19 2023 - Wed. 04/19 – The End Of Netflix’s Red Envelopes**
 
   * [Netflix Adds 1.75 Million Customers in Q1 2023; Grows to 232.5M Globally](https://thestreamable.com/news/netflix-adds-1-75-million-customers-in-first-quarter-of-2023-grows-to-232-5m-globally) (The Streamable)
   * [Netflix Gains 1.75 Million Subscribers, Axes DVD-Rental Business](https://www.wsj.com/articles/netflix-nflx-q1-earnings-report-2023-8460b7e4?mod=djemalertNEWS) (WSJ)
@@ -1919,7 +1919,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 18 2023**
+**Tuesday, April 18 2023 - Tue. 04/18 – Is The AI Era Kicking Off A New Generation Of Silicon?**
 
   * [Microsoft Readies AI Chip as Machine Learning Costs Surge](https://www.theinformation.com/articles/microsoft-readies-ai-chip-as-machine-learning-costs-surge?rc=64g9cw) (The Information)
   * [Coinbase Could Move Away From U.S. if No Regulatory Clarity: CEO Brian Armstrong](https://www.coindesk.com/business/2023/04/18/coinbase-could-move-away-from-us-if-no-regulatory-clarity-ceo-brian-armstrong/) (CoinDesk)
@@ -1930,7 +1930,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 17 2023**
+**Monday, April 17 2023 - Mon. 04/17 – Is Google About To Lose Samsung?**
 
   * [Google Devising Radical Search Changes to Beat Back A.I. Rivals](https://www.nytimes.com/2023/04/16/technology/google-search-engine-ai.html) (NYTimes)
   * [Sega to acquire Angry Birds maker Rovio for $776 million](https://www.cnbc.com/2023/04/17/sega-to-acquire-angry-birds-maker-rovio-for-776-million.html) (CNBC)
@@ -1943,7 +1943,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 14 2023**
+**Friday, April 14 2023 - AWS Enters the Gen AI Race**
 
   * [Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT](https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738) (Wall Street Journal)
   * [Amazon Is Joining the Generative AI Race](https://www.wired.com/story/amazon-is-joining-the-generative-ai-race/) (WIRED)
@@ -1956,7 +1956,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 13 2023**
+**Thursday, April 13 2023 - They're Trying Their Damnedest To Ruin The HBO Brand**
 
   * [Apple reportedly nixes iPhone 15 button upgrade, sending supplier stock down 12%](https://www.cnbc.com/2023/04/12/apple-nixes-iphone-15-button-upgrade-sending-supplier-shares-down.html) (CNBC)
   * [iPhone 15 Pro may not have new solid-state volume buttons after all](https://9to5mac.com/2023/04/11/iphone-15-pro-may-not-have-new-volume-buttons/) (9to5 Mac)
@@ -1970,7 +1970,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 12 2023**
+**Wednesday, April 12 2023 - Twitter Inc. No Longer Exists?**
 
   * [Elon Musk is moving forward with a new generative-AI project at Twitter after purchasing thousands of GPUs](https://www.businessinsider.com/elon-musk-twitter-investment-generative-ai-project-2023-4) (Insider)
   * [Twitter Inc. has been merged with X Corp. and “no longer exists,” Elon Musk’s company says in a court filing.](https://slate.com/technology/2023/04/twitter-inc-x-corp-elon-musk-x-nevada.html) (Slate)
@@ -1982,7 +1982,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 11 2023**
+**Tuesday, April 11 2023 - China's ChatGPT Competitors Are Here**
 
   * [China slaps security reviews on AI products as Alibaba unveils ChatGPT challenger](https://arstechnica.com/information-technology/2023/04/china-slaps-security-reviews-on-ai-products-as-alibaba-unveils-chatgpt-challenger/) (Ars Technica)
   * [China proposes measures to manage generative AI services](https://www.reuters.com/technology/china-releases-draft-measures-managing-generative-artificial-intelligence-2023-04-11/) (Reuters)
@@ -1993,7 +1993,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 10 2023**
+**Monday, April 10 2023 - Would You Believe Me If I Told You Elon Changed His Mind?**
 
   * [Twitter stops throttling tweets with Substack links](https://www.engadget.com/twitter-stops-throttling-tweets-with-substack-links-171858782.html) (Engadget)
   * [Elon Musk Denies Substack Links Are Blocked On Twitter, A Claim That’s Very Misleading](https://www.forbes.com/sites/mattnovak/2023/04/08/elon-musk-denies-substack-links-are-blocked-on-twitter-a-claim-thats-very-misleading) (Forbes)
@@ -2005,7 +2005,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 07 2023**
+**Friday, April 07 2023 - Fri. 08/07 – Twitter Blocking Substack?**
 
   * [Twitter now disables likes, replies, and retweets if a tweet has Substack links](https://www.theverge.com/2023/4/6/23673043/twitter-substack-embeds-bots-tools-api) (The Verge)
   * [Special Report: Tesla workers shared sensitive images recorded by customer cars](https://www.reuters.com/technology/tesla-workers-shared-sensitive-images-recorded-by-customer-cars-2023-04-06/) (Reuters)
@@ -2014,7 +2014,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 06 2023**
+**Thursday, April 06 2023 - Thu. 04/06 – The Secret Bitcoin Easter Egg On Your Mac**
 
   * [ChatGPT invented a sexual harassment scandal and named a real law prof as the accused](https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies/) (Washington Post)
   * [The Bitcoin Whitepaper Is Hidden in Every Modern Copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/) (Waxy.org)
@@ -2025,7 +2025,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 05 2023**
+**Wednesday, April 05 2023 - Wed. 04/05 – The Grand Theory Of AI Varietals**
 
   * [EXCLUSIVE – SONY’S NEXT PLAYSTATION HANDHELD](https://insider-gaming.com/playstation-handheld/) (Insider Gaming)
   * [Bob Lee, creator of Cash App and former CTO of Square, stabbed to death](https://techcrunch.com/2023/04/05/bob-lee-creator-of-cash-app-and-former-cto-of-square-stabbed-to-death/) (TechCrunch)
@@ -2036,7 +2036,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 04 2023**
+**Tuesday, April 04 2023 - Tue. 04/04 – Dogecoin Twitter Logo (Cause Why Not?)**
 
   * [Twitter’s new dog icon is sending dogecoin — sigh — to the moon](https://techcrunch.com/2023/04/03/twitters-new-dog-icon-is-sending-dogecoin-sigh-to-the-moon/) (TechCrunch)
   * [Spotify shuts down its Clubhouse-style audio app Spotify Live](https://musically.com/2023/04/03/spotify-shuts-down-clubhouse-app-spotify-live/) (Musically)
@@ -2048,7 +2048,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 03 2023**
+**Monday, April 03 2023 - Mon. 04/03 – Schrödinger’s Blue Check**
 
   * [Twitter had a very messy weekend](https://www.theverge.com/2023/4/3/23667751/twitter-legacy-blue-checkmark-wind-down-chaos) (The Verge)
   * [Twitter’s blue check mark was loved and loathed. Now it’s pay for play.](https://www.washingtonpost.com/technology/2023/03/31/twitter-verification-checkmark-ending/) (Washington Post)
@@ -2059,7 +2059,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 31 2023**
+**Friday, March 31 2023 - Fri. 03/31 – Is E3 Dead?**
 
   * [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled) (IGN)
   * [Elon Musk Tried to Meet With F.T.C. Chair About Twitter but Was Rebuffed](https://www.nytimes.com/2023/03/30/technology/elon-musk-ftc-chair.html) (NYTimes)
@@ -2069,7 +2069,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 30 2023**
+**Thursday, March 30 2023 - Thu. 03/30 – No Headset Reveal At WWDC?**
 
   * [Kuo: Apple Mixed-Reality Headset May Not Appear at WWDC as Mass Production Pushed Back Yet Again](https://www.macrumors.com/2023/03/30/kuo-apple-headset-may-not-appear-at-wwdc/) (MacRumors)
   * [Twitter announces new API pricing, including a limited free tier for bots](https://www.engadget.com/twitter-announces-new-api-pricing-including-a-limited-free-tier-for-bots-005251253.html) (Engadget)
@@ -2080,7 +2080,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 29 2023**
+**Wednesday, March 29 2023 - Wed. 03/29 – Hit Pause On AI Development?**
 
   * [Elon Musk and top AI researchers call for pause on ‘giant AI experiments’](https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter) (The Verge)
   * [Generative AI set to affect 300mn jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999) (Financial Times)
@@ -2093,7 +2093,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 28 2023**
+**Tuesday, March 28 2023 - Tue. 03/28 – Rise Of The Blue Checks**
 
   * [Elon Musk says Twitter’s For You page will only recommend verified accounts](https://www.theverge.com/2023/3/27/23659351/elon-musk-twitter-for-you-verified-accounts-polls) (The Verge)
   * [The secret list of Twitter VIPs getting boosted over everyone else](https://www.platformer.news/p/the-secret-list-of-twitter-vips-getting) (Platformer)
@@ -2105,7 +2105,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 27 2023**
+**Monday, March 27 2023 - Mon. 03/27 – SVB Finds A New Home**
 
   * [First Citizens to Buy SVB After Biggest Failure Since 2008](https://www.bloomberg.com/news/articles/2023-03-27/first-citizens-to-buy-silicon-valley-bank-after-run-on-lender?sref=Szq5ylDR) (Bloomberg)
   * [Twitter Says Parts of Its Source Code Were Leaked Online](https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html) (NYTimes)
@@ -2117,7 +2117,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 24 2023**
+**Friday, March 24 2023 - Fri. 03/24 – Twilight Of The Blue Checks**
 
   * [Twitter to Revoke ‘Legacy’ Verified Badges in April, Leaving Only Paying Subscribers With Blue Check-Marks](https://variety.com/2023/digital/news/twitter-revokes-legacy-verification-blue-checkmarks-april-1235561515/) (Variety)
   * [OpenAI is massively expanding ChatGPT’s capabilities to let it browse the web and more](https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party) (The Verge)
@@ -2126,7 +2126,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 23 2023**
+**Thursday, March 23 2023 - Thu. 03/23 – Coinbase Wells Notice**
 
   * [Coinbase warned by SEC of potential securities charges](https://www.cnbc.com/2023/03/22/coinbase-warned-by-sec-of-potential-securities-charges.html) (CNBC)
   * [SEC charges Tron founder Justin Sun, celebrities Lindsay Lohan, Jake Paul with crypto violations](https://www.cnbc.com/2023/03/22/sec-hits-jake-paul-lindsey-lohan-justin-sun-with-crypto-violations.html) (CNBC)
@@ -2140,7 +2140,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 22 2023**
+**Wednesday, March 22 2023 - Wed. 03/22 – Google Bard Joins The Fray**
 
   * [Google opens early access to its ChatGPT rival Bard — here are our first impressions](https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on) (The Verge)
   * [Microsoft’s GitHub to Add OpenAI Chat Functions to Coding Tool](https://www.bloomberg.com/news/articles/2023-03-22/openai-chatbot-features-will-bolster-microsoft-s-github-coding-tool?sref=Szq5ylDR) (Bloomberg)
@@ -2152,7 +2152,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 21 2023**
+**Tuesday, March 21 2023 - Tue. 03/21 – TikTok Showdown**
 
   * [TikTok says it now has 150m monthly active users in the US](https://musically.com/2023/03/21/tiktok-says-it-now-has-150m-monthly-active-users-in-the-us/) (MusicAlly)
   * [TikTok bans deepfakes of nonpublic figures and fake endorsements in rule refresh](https://www.theverge.com/2023/3/21/23648099/tiktok-content-moderation-rules-deepfakes-ai) (The Verge)
@@ -2163,7 +2163,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 20 2023**
+**Monday, March 20 2023 - Mon. 03/20 – Robots All The Way Down**
 
   * [Generative AI’s Next Frontier Is Video](https://www.bloomberg.com/news/articles/2023-03-20/generative-ai-s-next-frontier-is-video?sref=Szq5ylDR) (Bloomberg)
   * [Glaze protects art from prying AIs](https://techcrunch.com/2023/03/17/glaze-generative-ai-art-style-mimicry-protection/) (TechCrunch)
@@ -2175,7 +2175,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 17 2023**
+**Friday, March 17 2023 - Fri. 03/17 – Midjourney 5 Is Amazing**
 
   * [Amazon will discontinue newspaper and magazine subscriptions in September](https://goodereader.com/blog/kindle/amazon-will-discontinue-newspaper-and-magazine-subscriptions-in-september) (GoodEReader)
   * [SVB Financial files for Ch. 11 bankruptcy protection, says it has $2.2B in liquidity](https://techcrunch.com/2023/03/17/svb-financial-files-for-ch-11-bankruptcy-protection-says-it-has-2-2b-in-liquidity/) (TechCrunch)
@@ -2184,7 +2184,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 16 2023**
+**Thursday, March 16 2023 - Thu. 03/16 – We’re A Long Way From Clippy**
 
   * [Introducing Microsoft 365 Copilot — your copilot for work](https://news.microsoft.com/reinventing-productivity/) (Microsoft)
   * [Microsoft 365 gets a host of new AI-powered features](https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/) (TechCrunch)
@@ -2194,7 +2194,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 15 2023**
+**Wednesday, March 15 2023 - Wed. 03/15 – GPT-4 Is Here**
 
   * [OpenAI unveils GPT-4 with multimodal input and more creative and complex capabilities](https://www.windowscentral.com/software-apps/openai-unveils-gpt-4-with-multimodal-input-and-more-creative-and-complex-capabilities) (Windows Central)
   * [10 Ways GPT-4 Is Impressive but Still Flawed](https://www.nytimes.com/2023/03/14/technology/openai-new-gpt4.html) (NYTimes)
@@ -2208,7 +2208,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 14 2023**
+**Tuesday, March 14 2023 - Tue. 03/14 – Meta Has Now Cut 1/4th Of Its Workforce**
 
   * [Meta to cut another 10,000 jobs and cancel ‘low priority projects’](https://techcrunch.com/2023/03/14/meta-to-cut-another-10000-jobs-zuckerberg-says/) (TechCrunch)
   * [Google announces AI features in Gmail, Docs, and more to rival Microsoft](https://www.theverge.com/2023/3/14/23639273/google-ai-features-docs-gmail-slides-sheets-workspace) (The Verge)
@@ -2221,7 +2221,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 13 2023**
+**Monday, March 13 2023 - Mon. 03/13 – Crisis Averted?**
 
   * [SVB’s tech failings were a problem long before the bank run that led to its demise, critics say](https://www.cnbc.com/2023/03/12/former-svb-employee-offers-insight-into-the-banks-failings.html) (CNBC)
   * [SVB provided for tech when everyone else ignored us](https://www.ft.com/content/e8926841-88ff-4cf5-8c45-4d1879f7ff4b) (FT)
@@ -2233,13 +2233,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 10 2023**
+**Friday, March 10 2023 - Fri. 03/10 – Silicon Valley Bank(Run)**
 
   * [Meta is building a decentralized, text-based social network](https://www.platformer.news/p/meta-is-building-a-decentralized?publication_id=7976&post_id=107445508&isFreemail=false) (Platformer)
 
 
 
-**Thursday, March 09 2023**
+**Thursday, March 09 2023 - Thu. 03/09 – Silvergate’s Collapse Makes The Crypto Winter Even Colder**
 
   * [Silvergate will liquidate bank, wind down operations](https://www.theblock.co/post/218223/silvergate-will-liquidate-bank-wind-down-operations) (The Block)
   * [Microsoft details how it could get Call of Duty: Warzone running on Switch](https://www.theverge.com/2023/3/8/23631112/microsoft-call-of-duty-warzone-nintendo-switch-cma) (The Verge)
@@ -2250,7 +2250,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 08 2023**
+**Wednesday, March 08 2023 - Wed. 03/08 – The “Cambrian Explosion” Moment For AI**
 
   * [FTC Twitter Investigation Sought Elon Musk’s Internal Communications, Journalist Names](https://www.wsj.com/articles/twitter-investigation-ftc-musk-documents-db6b179e?mod=djemalertNEWS) (WSJ)
   * [Twitter just let its privacy- and security-protecting Tor service expire](https://www.theverge.com/2023/3/7/23629504/twitter-tor-onion-site-security-certificate-expired) (The Verge)
@@ -2261,7 +2261,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 07 2023**
+**Tuesday, March 07 2023 - Tue. 03/07 – A TikTok Paywall**
 
   * [TikTok Launches ‘Series’ Feature, Which Lets Creators Sell Premium Episodes Up to 20 Minutes Each](https://variety.com/2023/digital/news/tiktok-series-creators-sell-premium-episodes-1235545326/) (Variety)
   * [Apple reveals a yellow iPhone 14 and 14 Plus](https://www.theverge.com/2023/3/7/23626371/apple-yellow-iphone-14-plus-color-spring) (The Verge)
@@ -2274,7 +2274,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 06 2023**
+**Monday, March 06 2023 - Mon. 03/06 – AI And The Golden Age Of Scamming**
 
   * [Microsoft’s Latest AI Assistant Is Meant for Marketers, Customer Reps and Work Apps](https://www.bloomberg.com/news/articles/2023-03-06/microsoft-s-latest-ai-assistant-takes-on-oracle-salesforce-in-applications?sref=Szq5ylDR) (Bloomberg)
   * [They thought loved ones were calling for help. It was an AI scam.](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) (WashingtonPost)
@@ -2287,7 +2287,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 03 2023**
+**Friday, March 03 2023 - Fri. 03/03 – AI Summarizers And Glamour Filters**
 
   * [Silvergate Stock Drops Over 50% as Crypto Clients Flee Beleaguered Bank](https://www.coindesk.com/business/2023/03/02/silvergate-stock-drops-over-50-as-crypto-clients-flee-beleaguered-bank/) (CoinDesk)
   * [Brave Search launches an AI-powered summarization feature](https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/) (TechCrunch)
@@ -2296,7 +2296,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 02 2023**
+**Thursday, March 02 2023 - Thu. 03/02 – And Right On Schedule, Here Come The APIs**
 
   * [OpenAI launches an API for ChatGPT, plus dedicated capacity for enterprise customers](https://techcrunch.com/2023/03/01/openai-launches-an-api-for-chatgpt-plus-dedicated-capacity-for-enterprise-customers/) (TechCrunch)
   * [Microsoft now lets you change Bing’s chatbot personality to be more entertaining](https://www.theverge.com/2023/3/2/23621772/microsoft-bing-ai-chatbot-personality-toggle) (The Verge)
@@ -2309,7 +2309,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 01 2023**
+**Wednesday, March 01 2023 - Wed. 03/01 – Bluesky Launches**
 
   * [Jack Dorsey-backed Twitter alternative Bluesky hits the App Store as an invite-only app](https://techcrunch.com/2023/02/28/jack-dorsey-backed-twitter-alternative-bluesky-hits-the-app-store-as-an-invite-only-app/) (TechCrunch)
   * [Republican Bill That Gives Biden Power to Completely Ban TikTok Passes House Committee Super Fast](https://gizmodo.com/tiktok-ban-republicans-joe-biden-pass-house-committee-1850168726) (Gizmodo)
@@ -2320,7 +2320,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 28 2023**
+**Tuesday, February 28 2023 - Tue. 02/28 – Elon Wants To Compete With OpenAI**
 
   * [Microsoft brings its new AI-powered Bing to the Windows 11 taskbar](https://www.theverge.com/2023/2/28/23618214/microsoft-windows-11-update-bing-ai-taskbar-touch-improvements-screen-recording-features) (The Verge)
   * [Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival](https://www.theinformation.com/articles/fighting-woke-ai-musk-recruits-team-to-develop-openai-rival?rc=64g9cw) (The Information)
@@ -2332,7 +2332,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 27 2023**
+**Monday, February 27 2023 - Mon. 02/27 – Here Come The Prompt Engineers**
 
   * [Snapchat is releasing its own AI chatbot powered by ChatGPT](https://www.theverge.com/2023/2/27/23614959/snapchat-my-ai-chatbot-chatgpt-openai-plus-subscription) (The Verge)
   * [Twitter Blue head Esther Crawford is out at Twitter](https://www.theverge.com/2023/2/26/23615841/twitter-blue-esther-crawford-layoffs) (The Verge)
@@ -2343,7 +2343,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 24 2023**
+**Friday, February 24 2023 - Fri. 02/24 – Record Scratch On The Adobe/Figma Deal**
 
   * [DOJ Preps Antitrust Suit to Block Adobe’s $20 Billion Figma Deal](https://www.bloomberg.com/news/articles/2023-02-23/doj-preparing-suit-to-block-adobe-s-20-billion-deal-for-figma?sref=Szq5ylDR) (Bloomberg)
   * [Kuo: Apple to Launch High-End and Low-End Versions of Second-Generation Headset in 2025](https://www.macrumors.com/2023/02/24/kuo-ar-vr-headset-2nd-gen-two-models/) (MacRumors)
@@ -2351,7 +2351,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 23 2023**
+**Thursday, February 23 2023 - Thu. 02/23 – Coinbase Wants To Seed Web 3**
 
   * [Coinbase Launches Layer 2 Blockchain Base to Provide On-Ramp for Ethereum, Solana and Others](https://www.coindesk.com/tech/2023/02/23/coinbase-launches-layer-2-blockchain-base-to-provide-onramp-for-ethereum-solana-and-others/) (CoinDesk)
   * [Exclusive: iPhone 15 CADs reveal larger 6.2-inch display, Dynamic Island, and more](https://9to5mac.com/2023/02/22/exclusive-iphone-15-cads-reveal-larger-6-2-inch-display-dynamic-island-and-more/) (9to5Mac)
@@ -2363,7 +2363,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 22 2023**
+**Wednesday, February 22 2023 - Wed. 02/22 – ChatGPT Hits A Chinese Wall**
 
   * [China tells big tech companies not to offer ChatGPT services](https://asia.nikkei.com/Business/China-tech/China-tells-big-tech-companies-not-to-offer-ChatGPT-services) (NikkeiAsia)
   * [ChatGPT launches boom in AI-written e-books on Amazon](https://www.reuters.com/technology/chatgpt-launches-boom-ai-written-e-books-amazon-2023-02-21/) (Reuters)
@@ -2374,7 +2374,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 21 2023**
+**Tuesday, February 21 2023 - Tue. 02/21 – Microsoft Swears To Play Nice With Call Of Duty**
 
   * [Microsoft inks binding contract with Nintendo for ‘Call of Duty’ as it defends Activision deal](https://www.geekwire.com/2023/microsoft-inks-binding-10-year-contract-with-nintendo-for-call-of-duty-as-it-defends-activision-deal/) (GeekWire)
   * [Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives](https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/) (ZDNet)
@@ -2386,7 +2386,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 17 2023**
+**Friday, February 17 2023 - Susan Wojcicki Rides Off Into The Sunset**
 
   * [SEC Sues Over TerraUSD Stablecoin That Rocked Crypto](https://www.bloomberg.com/news/articles/2023-02-16/sec-poised-to-sue-over-terrausd-stablecoin-that-rocked-crypto?sref=Szq5ylDR) (Bloomberg)
   * [What Brit watchdog redacted: Google gives Apple cut of Chrome iOS search revenue](https://www.theregister.com/2023/02/17/google_apple_chrome_ios_revenue/) (The Register)
@@ -2395,7 +2395,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 16 2023**
+**Thursday, February 16 2023 - Thu. 02/16 – Microsoft Reflects On The New Bing**
 
   * [Microsoft explains Bing's bizarre AI chat behavior](https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html?guccounter=1&guce_referrer=aHR0cHM6Ly90ZWNobWVtZS5jb20v&guce_referrer_sig=AQAAAM1xLVTNPZeKXhgZKAEiQFzI4KB29UCpl16tieEf-8NAki8RDTzIuMK8oPSHC_04D4al2h7XQqoiGArrcy9P1aXeLkEKLZMxjOX3ATJMw9Wvxhdq3Hj475tWaivzvkUmX88tEa_uliYpo0nQOfw1efHHAKUbDYOGJmnGUXiv5t6-) (Engadget)
   * [GitHub Copilot update stops AI model from revealing secrets](https://www.bleepingcomputer.com/news/security/github-copilot-update-stops-ai-model-from-revealing-secrets/) (BleepingComputer)
@@ -2407,7 +2407,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 15 2023**
+**Wednesday, February 15 2023 - Wed. 02/15 – The New Bing Is Questioning Its Own Existence**
 
   * [Microsoft’s new ChatGPT AI starts sending ‘unhinged’ messages to people](https://www.independent.co.uk/tech/chatgpt-ai-messages-microsoft-bing-b2282491.html) (The Independent)
   * [The AI photo app trend has already fizzled, new data shows](https://techcrunch.com/2023/02/13/the-ai-photo-app-trend-has-already-fizzled-new-data-shows/) (TechCrunch)
@@ -2417,7 +2417,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 14 2023**
+**Tuesday, February 14 2023 - Tue. 02/14 – Elon, If You Want It Or Not**
 
   * [Twitter is just showing everyone all of Elon Musk’s tweets now](https://www.theverge.com/2023/2/13/23598514/twitter-algorithm-elon-musk-tweets) (The Verge)
   * [Twitter delays new paid API launch by 'a few more days'](https://appleinsider.com/articles/23/02/13/twitter-delays-new-paid-api-launch-by-a-few-more-days) (AppleInsider)
@@ -2430,7 +2430,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 13 2023**
+**Monday, February 13 2023 - Mon. 02/13 – Are Stablecoins Dead?**
 
   * [Regulator Orders Crypto Firm Paxos to Stop Issuing Binance Stablecoin](https://www.wsj.com/articles/crypto-firm-paxos-to-stop-issuing-dollar-pegged-binance-token-94f65e52?mod=djemalertNEWS) (WSJ)
   * [PayPal Pauses Stablecoin Work Amid Regulatory Scrutiny of Crypto](https://www.bloomberg.com/news/articles/2023-02-10/paypal-pauses-stablecoin-work-amid-regulatory-scrutiny-of-crypto?sref=Szq5ylDR) (Bloomberg)
@@ -2441,7 +2441,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 10 2023**
+**Friday, February 10 2023 - Fri. 02/10 – A Record Year For Bots (The Other Kind Of Bots)**
 
   * [Apple Avoids Job Cuts Because It Didn’t Overhire Like Google and Amazon](https://www.bloomberg.com/news/articles/2023-02-10/apple-aapl-avoids-tech-layoffs-because-it-didn-t-overhire-like-google-amazon?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft to demo its new ChatGPT-like AI in Word, PowerPoint, and Outlook soon](https://www.theverge.com/2023/2/10/23593980/microsoft-bing-chatgpt-ai-teams-outlook-integration) (The Verge)
@@ -2450,7 +2450,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 09 2023**
+**Thursday, February 09 2023 - Thu. 02/09 – Twitter Blue Breaks The Character Barrier**
 
   * [Now Twitter Blue subscribers can write 4,000-character tweets](https://www.theverge.com/2023/2/8/23591472/twitter-blue-subscribers-longer-tweets-4000-characters) (The Verge)
   * [Watch out, TweetDeck users—Elon Musk is about to ruin your Twitter experience](https://www.techradar.com/news/watch-out-tweetdeck-userselon-musk-is-about-to-ruin-your-twitter-experience) (TechRadar)
@@ -2463,7 +2463,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 08 2023**
+**Wednesday, February 08 2023 - Wed. 02/08 – AI’s Big Week Continues**
 
   * [Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI](https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai) (The Verge)
   * [I Tried Microsoft’s New AI-Powered Bing. Search Will Never Be the Same.](https://www.wsj.com/articles/i-tried-microsofts-new-ai-powered-bing-search-will-never-be-the-same-11675799762?mod=djemalertNEWS) (WSJ)
@@ -2474,7 +2474,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 07 2023**
+**Tuesday, February 07 2023 - Tue. 02/07 – AI’s Big Debut Week Is NOW!**
 
   * [Google announces ChatGPT rival Bard, with wider availability in ‘coming weeks’](https://www.theverge.com/2023/2/6/23588033/google-chatgpt-rival-bard-testing-rollout-features) (The Verge)
   * [Baidu Surges as Hope Mounts over Chinese Answer to ChatGPT](https://www.bloomberg.com/news/articles/2023-02-07/baidu-surges-after-prepping-chatgpt-style-ernie-bot-for-march?sref=Szq5ylDR) (Bloomberg)
@@ -2486,7 +2486,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 06 2023**
+**Monday, February 06 2023 - Mon. 02/06 – iPhone Ultra?**
 
   * [Apple Talks Up High-End iPhones in Sign Ultra Model May Be Coming](https://www.bloomberg.com/news/newsletters/2023-02-05/is-an-iphone-ultra-or-iphone-fold-coming-from-apple-ceo-remarks-offer-clues-ldrhx53a?sref=Szq5ylDR) (Bloomberg)
   * [Elon Musk says Twitter will provide a free write-only API to bots providing ‘good’ content](https://techcrunch.com/2023/02/04/elon-musk-says-twitter-will-provide-a-free-write-only-api-to-bots-providing-good-content/) (TechCrunch)
@@ -2496,7 +2496,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 03 2023**
+**Friday, February 03 2023 - Fri. 02/03 – The Startup Planning To De-Extinct The Dodo**
 
   * [AI will help Google parent Alphabet navigate a challenging macro environment, say analysts](https://www.marketwatch.com/story/ai-will-help-google-parent-alphabet-navigate-a-challenging-macro-environment-say-analysts-11675432171) (MarketWatch)
   * [Google Shares Slip after Sales Miss as Advertising Demand Slows](https://www.bloomberg.com/news/articles/2023-02-02/google-shares-gain-as-revenue-meets-analyst-estimates?sref=Szq5ylDR) (Bloomberg)
@@ -2506,7 +2506,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 02 2023**
+**Thursday, February 02 2023 - Thu. 02/02 – Meta Whistles Past The Metaverse**
 
   * [Meta stock perks up as the company promises a ‘year of efficiency’](https://techcrunch.com/2023/02/01/meta-q4-2022-earnings-ai-efficiency/) (TechCrunch)
   * [2 reasons Meta stock is exploding 20% after a whopper earnings miss](https://finance.yahoo.com/news/why-meta-stock-is-jumping-earnings-results-miss-111907549.html) (Yahoo Finance)
@@ -2520,7 +2520,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 01 2023**
+**Wednesday, February 01 2023 - Wed. 02/01 – The Memory Chip Rout (Again)**
 
   * [Hynix Posts Record Loss on Slump in Memory-Chip Prices](https://www.bloomberg.com/news/articles/2023-01-31/hynix-reports-biggest-loss-on-record-on-memory-slump?sref=Szq5ylDR) (Bloomberg)
   * [Historic Crash for Memory Chips Threatens to Wipe Out Earnings](https://www.bloomberg.com/news/articles/2023-01-29/historic-crash-for-memory-chips-threatens-to-wipe-out-earnings?sref=Szq5ylDR) (Bloomberg)
@@ -2533,7 +2533,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 31 2023**
+**Tuesday, January 31 2023 - Tue. 01/31 – Weird Gaming News**
 
   * [Sony Slashes PlayStation VR2 Headset Output After Pre-Orders Disappoint](https://www.bloomberg.com/news/articles/2023-01-31/sony-playstation-vr2-headset-pre-order-disappointment-leads-to-production-cut?sref=Szq5ylDR) (Bloomberg)
   * [Exclusive: Xbox, Nintendo, and Sony Won't Be Part of E3 2023](https://www.ign.com/articles/xbox-nintendo-sony-skipping-e3-2023) (IGN)
@@ -2544,7 +2544,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 30 2023**
+**Monday, January 30 2023 - Mon 01/30 – Every Platform Is Hustling To Unveil An AI Play**
 
   * [Chinese Search Giant Baidu to Launch ChatGPT-Style Bot](https://www.bloomberg.com/news/articles/2023-01-30/chinese-search-giant-baidu-to-launch-chatgpt-style-bot-in-march?sref=Szq5ylDR) (Bloomberg)
   * [Amazon adding new fees for grocery delivery](https://www.geekwire.com/2023/amazon-adding-new-fees-for-prime-members-who-get-less-than-150-worth-of-groceries-delivered/) (GeekWire)
@@ -2556,7 +2556,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 27 2023**
+**Friday, January 27 2023 - Fri. 01/27 – More Buzzfeed News, If You Can Believe It**
 
   * [BuzzFeed to Use ChatGPT Creator OpenAI to Help Create Quizzes and Other Content](https://www.wsj.com/articles/buzzfeed-to-use-chatgpt-creator-openai-to-help-create-some-of-its-content-11674752660?mod=djemalertNEWS) (WSJ)
   * [Amazon NFT Initiative Coming Soon: Exclusive](https://blockworks.co/news/amazon-nft-marketplace-web3) (Blockworks)
@@ -2564,7 +2564,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 26 2023**
+**Thursday, January 26 2023 - Thu. 01/26 – Where Is The Line Going For Tech Right Now?**
 
   * [Smartphone Shipments Suffer the Largest-Ever Decline with 18.3% Drop in the Holiday Quarter and a 11.3% Decline in 2022, According to IDC Tracker](https://www.idc.com/getdoc.jsp?containerId=prUS50146623) (IDC)
   * [SoftBank Deals Hit Record Low, Sapping Funding for Startups](https://www.bloomberg.com/news/articles/2023-01-25/softbank-deals-hit-record-low-sapping-funding-for-startups?sref=Szq5ylDR) (Bloomberg)
@@ -2574,7 +2574,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 25 2023**
+**Wednesday, January 25 2023 - Wed. 01/25 – Is This Latest Suit The Biggest Threat To Google**
 
   * [US Sues Google to Break Up Ad Unit in Heated Antitrust Fight](https://www.bloomberg.com/news/articles/2023-01-24/us-sues-google-over-ad-market-in-escalation-of-antitrust-fight?sref=Szq5ylDR) (Bloomberg)
   * [DOJ's new suit puts Google's ad business at risk](https://www.axios.com/2023/01/25/google-ads-threat-antitrust-suit-justice-department) (Axios)
@@ -2588,7 +2588,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 24 2023**
+**Tuesday, January 24 2023 - Tue 01/24 – ALL The Details On Apple’s Headset**
 
   * [How Apple’s Upcoming Mixed-Reality Headset Will Work](https://www.bloomberg.com/news/articles/2023-01-23/apple-reality-pro-details-eye-hand-tracking-app-store-3d-ios-like-interface?sref=Szq5ylDR) (Bloomberg)
   * [DOJ Poised to Sue Google Over Digital Ad Market Dominance](https://www.bloomberg.com/news/articles/2023-01-24/doj-poised-to-sue-google-over-digital-ad-market-dominance?sref=Szq5ylDR) (Bloomberg)
@@ -2597,7 +2597,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 23 2023**
+**Monday, January 23 2023 - Mon. 01/23 – Moar Tech Layoffs (And Moar To Come?)**
 
   * [Spotify to trim 6% of workforce in latest tech layoffs](https://www.reuters.com/technology/spotify-trim-6-workforce-2023-01-23/) (Reuters)
   * [Elliott Management Takes Big Stake in Salesforce](https://www.wsj.com/articles/activist-takes-big-stake-in-salesforce-11674432531?mod=djemalertNEWS) (WSJ)
@@ -2608,7 +2608,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 20 2023**
+**Friday, January 20 2023 - Fri. 01/20 – Alphabet’s Monster Layoffs**
 
   * [Google to Cut 12,000 Jobs in 6% Reduction of Global Workforce](https://www.bloomberg.com/news/articles/2023-01-20/google-cutting-12-000-jobs-in-6-slash-to-global-workforce?sref=Szq5ylDR) (Bloomberg)
   * [Twitter’s new developer terms ban third-party clients](https://www.engadget.com/twitter-new-developer-terms-ban-third-party-clients-211247096.html) (Engadget)
@@ -2618,7 +2618,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 19 2023**
+**Thursday, January 19 2023 - Thu. 01/19 – Instagram Wants You To Take A Break**
 
   * [Genesis creditors negotiating prepackaged bankruptcy: Sources](https://www.theblock.co/post/203310/genesis-creditors-negotiating-prepackaged-bankruptcy-sources) (The Block)
   * [Crypto Media Outlet CoinDesk Taps Bankers for Potential Sale](https://www.wsj.com/articles/crypto-media-outlet-coindesk-taps-bankers-for-potential-sale-11674076000?mod=djemalertNEWS) (WSJ)
@@ -2633,7 +2633,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 18 2023**
+**Wednesday, January 18 2023 - Wed. 01/18 – The HomePod Is Back**
 
   * [Apple announces revamped full-size HomePod two years after discontinuing original](https://www.theverge.com/2023/1/18/23553366/apple-homepod-2022-price-release-date-specs-features) (The Verge)
   * [Apple Delays AR Glasses, Plans Cheaper Mixed-Reality Headset](https://www.bloomberg.com/news/articles/2023-01-18/apple-postpones-ar-glasses-plans-cheaper-mixed-reality-headset?sref=Szq5ylDR) (Bloomberg)
@@ -2644,7 +2644,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 17 2023**
+**Tuesday, January 17 2023 - Tue. 01/17 – New Mac Tuesday**
 
   * [Apple Announces New MacBook Pros With M2 Pro and M2 Max Chips, Up to 96GB RAM, 8K HDMI, Wi-Fi 6E, and More](https://www.macrumors.com/2023/01/17/apple-announces-m2-pro-macbook-pro/) (MacRumors)
   * [Apple Unveils M2 Pro and M2 Max Chips With 20% Faster CPU and More](https://www.macrumors.com/2023/01/17/apple-unveils-m2-pro-and-m2-max-chips/) (MacRumors)
@@ -2657,7 +2657,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 13 2023**
+**Friday, January 13 2023 - Fri. 01/13 – Is The Government Crackdown On Crypto Starting?**
 
   * [SEC charges Gemini and Genesis with unregistered securities offering](https://www.theblock.co/post/201805/sec-charges-gemini-and-genesis-for-unregistered-offering) (The Block)
   * [Apple’s Tim Cook Takes Rare CEO Pay Cut After Pushback](https://www.bloomberg.com/news/articles/2023-01-12/apple-s-cook-to-take-pay-cut-in-2023-that-it-says-he-requested?sref=Szq5ylDR) (Bloomberg)
@@ -2665,7 +2665,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 12 2023**
+**Thursday, January 12 2023 - Thu. 01/12 – Touchscreen Macs?**
 
   * [Apple Is Working on Adding Touch Screens to Macs in Major Turnabout](https://www.bloomberg.com/news/articles/2023-01-11/apple-working-on-adding-touch-screens-to-macs-in-major-turnabout?sref=Szq5ylDR) (Bloomberg)
   * [Sam Bankman-Fried sticks to his script](https://www.axios.com/2023/01/12/sam-bankman-fried-robinhood-stock-lawyers) (Axios)
@@ -2677,7 +2677,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 11 2023**
+**Wednesday, January 11 2023 - Wed. 01/11 – Maybe Software Needs To Eat The Airline Industry**
 
   * [U.S. air travel rumbles back to life after FAA computer outage](https://www.reuters.com/business/aerospace-defense/us-faa-says-flight-personnel-alert-system-not-processing-updates-after-outage-2023-01-11/) (Reuters)
   * [Apple to Begin Making In-House Screens in 2024 in Shift Away From Samsung](https://www.bloomberg.com/news/articles/2023-01-11/apple-to-begin-making-in-house-screens-in-2024-in-shift-away-from-samsung?sref=Szq5ylDR) (Bloomberg)
@@ -2688,7 +2688,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 10 2023**
+**Tuesday, January 10 2023 - Tue. 01/10 – Now We Have VALL-E To Take Over My Podcast Voice**
 
   * [Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/) (ArsTechnica)
   * [Microsoft eyes $10 billion bet on ChatGPT](https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt) (Semafor)
@@ -2699,7 +2699,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 09 2023**
+**Monday, January 09 2023 - Mon. 01/09 – Gurman Tells Us When Apple’s “Reality Pro” Will Be Announced.**
 
   * [Apple Will Talk Up Its Mixed-Reality Headset in 2023 But Not Much Else](https://www.bloomberg.com/news/newsletters/2023-01-08/when-will-apple-launch-the-reality-pro-mixed-reality-headset-apple-2023-devices-lcnfzkc7?sref=Szq5ylDR) (Bloomberg)
   * [Steam hits 10 million concurrent in-game players in record-breaking weekend](https://www.theverge.com/2023/1/9/23546139/steam-10-million-concurrent-players-record-breaking-valve-gaming) (The Verge)
@@ -2710,7 +2710,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 06 2023**
+**Friday, January 06 2023 - Fri. 01/06 – CES Wrapup Part 2**
 
   * [ChatGPT Creator in Investor Talks at $29 Billion Valuation](https://www.wsj.com/articles/chatgpt-creator-openai-is-in-talks-for-tender-offer-that-would-value-it-at-29-billion-11672949279?mod=djemalertNEWS) (WSJ)
   * [Kuo: Apple's Mixed-Reality Headset Likely to Debut at Spring Media Event or WWDC](https://www.macrumors.com/2023/01/05/kuo-headset-debut-spring-event-wwdc/) (MacRumors)
@@ -2722,7 +2722,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 05 2023**
+**Thursday, January 05 2023 - Thu. 01/05 – CES Roundup Part 1**
 
   * [Amazon Layoffs to Hit Over 18,000 Workers, the Most in Recent Tech Wave](https://www.wsj.com/articles/amazon-to-lay-off-over-17-000-workers-more-than-first-planned-11672874304?mod=djemalertNEWS) (WSJ)
   * [€390M fine strikes blow to Meta’s ad-fueled business model](https://www.politico.eu/article/meta-fina-ad-business-model/) (Politico)
@@ -2731,7 +2731,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 04 2023**
+**Wednesday, January 04 2023 - Wed. 01/04 – ChatGPT Coming To Bing?**
 
   * [Microsoft and OpenAI Working on ChatGPT-Powered Bing in Challenge to Google](https://www.theinformation.com/articles/microsoft-and-openai-working-on-chatgpt-powered-bing-in-challenge-to-google?rc=64g9cw) (The Information)
   * [Salesforce to cut 10% of workforce in latest tech layoffs](https://www.reuters.com/technology/salesforce-cut-staff-by-10-close-some-offices-2023-01-04/) (Reuters)
@@ -2745,7 +2745,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 03 2023**
+**Tuesday, January 03 2023 - Tue. 01/03 – Eventually, CES Comes For All Of Us**
 
   * [Intel’s 13th Gen mobile processors include the first 24-core laptop CPU](https://www.theverge.com/2023/1/3/23536804/intels-13th-gen-mobile-processors-specs-release-date-price-ces-2023) (The Verge)
   * [PyTorch discloses malicious dependency chain compromise over holidays](https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/) (BleepingComputer)

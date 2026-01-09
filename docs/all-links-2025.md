@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Wednesday, December 31 2025**
+**Wednesday, December 31 2025 - Manus, The Hands Of Fate**
 
   * [How Meta’s Newest Acquisition Target Got Around Worries Over Its Ties to China](https://www.wsj.com/tech/ai/how-metas-newest-acquisition-target-got-around-worries-over-its-ties-to-china-de2d24b6?st=tJxQot&reflink=desktopwebshare_permalink) (WSJ)
   * [Manus: The Hands of AI Fate](https://spyglass.org/meta-manus-deal/) (Spyglass)
@@ -15,7 +15,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 30 2025**
+**Tuesday, December 30 2025 - The End Of Year M&A Rush**
 
   * [Meta to Buy Manus, an AI Startup With Chinese Roots](https://www.bloomberg.com/news/articles/2025-12-29/meta-acquires-startup-manus-to-bolster-ai-business) (Bloomberg)
   * [After a Year of Blistering Growth, AI Chip Makers Get Ready for Bigger 2026](https://www.wsj.com/tech/ai/after-a-year-of-blistering-growth-ai-chip-makers-get-ready-for-bigger-2026-d9f62dbd?st=RVHQU9&reflink=desktopwebshare_permalink) (WSJ)
@@ -26,7 +26,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 29 2025**
+**Monday, December 29 2025 - Nvidia Kindacquires Groq**
 
   * [Nvidia Reaches Technology Licensing Deal With Startup Groq](https://www.bloomberg.com/news/articles/2025-12-24/nvidia-reaches-licensing-deal-with-chip-startup-groq) (Bloomberg)
   * [Why Nvidia Struck a $20 Billion Megadeal with Groq](https://www.theinformation.com/articles/nvidia-struck-20-billion-megadeal-groq?rc=i9gkgs) (The Information)
@@ -36,7 +36,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 24 2025**
+**Wednesday, December 24 2025 - New Tech Trade War**
 
   * [US bars five Europeans it says pressured tech firms to censor American viewpoints online](https://apnews.com/article/state-department-trump-immigration-rubio-visas-87c8a4692f3184e4f83fdd8ed5093886) (AP)
   * [OpenAI’s Ads Push Starts Taking Shape](https://www.theinformation.com/articles/openais-ads-push-starts-taking-shape?utm_campaign=article_email&utm_content=article-16306&utm_medium=email&utm_source=sg&rc=i9gkgs) (The Information)
@@ -46,7 +46,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 23 2025**
+**Tuesday, December 23 2025 - Drone Ban**
 
   * [U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://www.wsj.com/politics/national-security/u-s-bans-new-china-made-drones-sparking-outrage-among-pilots-1624e32a?st=G1UuiY&reflink=desktopwebshare_permalink) (WSJ)
   * [Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’](https://gizmodo.com/pentagon-adds-grok-derived-products-to-something-called-the-ai-arsenal-2000702379) (Gizmodo)
@@ -56,7 +56,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 22 2025**
+**Monday, December 22 2025 - Blackouts Take Waymo Out**
 
   * [Waymo resumes robotaxi service in San Francisco after blackout chaos — Musk says Tesla car service unaffected](https://www.cnbc.com/2025/12/21/waymo-robotaxi-san-francisco-blackout.html) (CNBC)
   * [Paramount guarantees Larry Ellison backing in amended WBD bid](https://www.cnbc.com/2025/12/22/wbd-bid-paramount-larry-ellison-backing-bid.html) (CNBC)
@@ -68,7 +68,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 19 2025**
+**Friday, December 19 2025 - TikTok Sold (Again) (?)**
 
   * [Scoop: TikTok signs deal for U.S. unit after yearslong saga](https://www.axios.com/2025/12/18/tiktok-sale) (Axios)
   * [TikTok U.S. Deal to Close Next Month: Oracle and Silver Lake Confirmed in Buyer Consortium](https://www.hollywoodreporter.com/business/digital/tiktok-sale-done-oracle-silver-lake-buyers-1236454493/) (The Hollywood Reporter)
@@ -79,7 +79,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 18 2025**
+**Thursday, December 18 2025 - China’s EUV Machine?**
 
   * [China may have reverse engineered EUV lithography tool in covert lab, report claims — employees given fake IDs to avoid secret project being detected, prototypes expected in 2028](https://www.tomshardware.com/tech-industry/semiconductors/china-may-have-reverse-engineered-euv-lithography-tool-in-covert-lab-report-claims-employees-given-fake-ids-to-avoid-secret-project-being-detected-prototypes-expected-in-2028) (Tom's Hardware)
   * [Trump media group agrees $6bn merger with Google-backed fusion energy company](https://www.ft.com/content/1e1978d5-535b-4241-872f-38db778df694?utm_social_post_id=626593619&utm_social_handle_id=10977192) (FT)
@@ -89,7 +89,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 17 2025**
+**Wednesday, December 17 2025 - Now It’s Amazon’s Turn To Invest In OpenAI**
 
   * [OpenAI’s ChatGPT Updated to Make Images Better and Faster](https://www.bloomberg.com/news/articles/2025-12-16/openai-s-chatgpt-updated-to-make-images-better-and-faster) (Bloomberg)
   * [ChatGPT Images just got a major upgrade — and it could change how we all create](https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-just-got-a-major-upgrade-and-it-could-change-how-we-all-create) (TechRadar)
@@ -104,7 +104,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 16 2025**
+**Tuesday, December 16 2025 - The Pivot To AI Datacenters**
 
   * [U.S.-U.K. Trade Deal Hits Stumbling Block](https://www.nytimes.com/2025/12/13/business/economy/trump-uk-trade-deal-tariffs.html) (NYTimes)
   * [AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html) (CNBC)
@@ -114,7 +114,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 15 2025**
+**Monday, December 15 2025 - The Roomba Hits The Wall**
 
   * [Roomba Maker iRobot Files for Bankruptcy and Will Go Private](https://www.bloomberg.com/news/articles/2025-12-15/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years) (Bloomberg)
   * [How iRobot lost its way home](https://techcrunch.com/2025/12/14/how-irobot-lost-its-way-home/) (TechCrunch)
@@ -125,7 +125,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 12 2025**
+**Friday, December 12 2025 - GPT-5.2 As OpenAI’s Attempt To Change The Narrative**
 
   * [OpenAI Launches GPT-5.2 as It Navigates ‘Code Red’](https://www.wired.com/story/openai-gpt-launch-gemini-code-red/) (Wired)
   * [GPT-5.2 is OpenAI’s latest move in the agentic AI battle](https://www.theverge.com/ai-artificial-intelligence/842529/openai-gpt-5-2-new-model-chatgpt) (The Verge)
@@ -135,7 +135,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 11 2025**
+**Thursday, December 11 2025 - Disney Invests In OpenAI**
 
   * [Disney Inks Blockbuster OpenAI Deal to Bring More Than 200 Characters to Sora Video Platform, Will Invest $1 Billion in AI Company](https://variety.com/2025/digital/news/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-1236606401/) (Variety)
   * [Disney to Invest $1 Billion in OpenAI, License Suite of Characters for Sora in Landmark Deal](https://www.thewrap.com/disney-sora-openai-licensing-deal/) (The Wrap)
@@ -146,7 +146,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 10 2025**
+**Wednesday, December 10 2025 - Algorithmic Pricing?**
 
   * [Instagram Will Start Letting You Pick What Shows Up in Your Reels](https://www.wired.com/story/instagram-lets-you-pick-what-shows-up-in-reels/) (Wired)
   * [Same Product, Same Store, but on Instacart, Prices Might Differ](https://www.nytimes.com/2025/12/09/business/instacart-algorithmic-pricing.html?unlocked_article_code=1.7U8.D3oN.PK4SkK01idO0&smid=url-share) (NYTimes)
@@ -156,7 +156,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 09 2025**
+**Tuesday, December 09 2025 - Nvidia Back In China… Maybe**
 
   * [Trump greenlights Nvidia H200 AI chip sales to China if U.S. gets 25% cut, says Xi responded positively](https://www.cnbc.com/2025/12/08/trump-nvidia-h200-sales-china.html) (CNBC)
   * [China set to limit access to Nvidia’s H200 chips despite Trump export approval](https://www.ft.com/content/c4e81a67-cd5b-48b4-9749-92ecf116313d) (FT)
@@ -166,7 +166,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 08 2025**
+**Monday, December 08 2025 - Netflix Faces Hostility**
 
   * [Paramount Skydance launches hostile bid for WBD ‘to finish what we started,’ CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html) (CNBC)
   * [Trump Warns Netflix-Warner Deal May Pose Antitrust ‘Problem’](https://www.bloomberg.com/news/articles/2025-12-07/trump-says-netflix-warner-bros-deal-will-need-review) (Bloomberg)
@@ -178,7 +178,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 05 2025**
+**Friday, December 05 2025 - The Albanian Army Wins!**
 
   * [Netflix agrees $83bn takeover of Warner Bros Discovery](https://www.ft.com/content/6532be94-c0bf-4101-8126-f249aa6be3c5) (FT)
   * [New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work](https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html) (NYTimes)
@@ -189,7 +189,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 04 2025**
+**Thursday, December 04 2025 - Meta To Abandon The Metaverse?**
 
   * [Apple Design Executive Alan Dye Poached by Meta in Major Coup](https://www.bloomberg.com/news/articles/2025-12-03/apple-design-executive-alan-dye-poached-by-meta-in-major-coup) (Bloomberg)
   * [Meta’s Zuckerberg Plans Deep Cuts for Metaverse Efforts](https://www.bloomberg.com/news/articles/2025-12-04/meta-s-zuckerberg-plans-deep-cuts-for-metaverse-efforts) (Bloomberg)
@@ -200,7 +200,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 03 2025**
+**Wednesday, December 03 2025 - Not Great, Bob!**
 
   * [Anthropic taps IPO lawyers as it races OpenAI to go public](https://www.ft.com/content/3254fa30-5bdb-4c30-8560-7cd7ebbefc5f?utm_social_post_id=612653139&utm_social_handle_id=18949452) (FT)
   * [Amazon’s Custom Chips Pose Another Threat to Nvidia](https://www.wsj.com/tech/ai/amazons-custom-chips-pose-another-threat-to-nvidia-8aa19f5b) (WSJ)
@@ -212,7 +212,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 02 2025**
+**Tuesday, December 02 2025 - Sam Altman Declares A “Code Red”**
 
   * [OpenAI CEO Declares ‘Code Red’ to Combat Threats to ChatGPT, Delays Ads Effort](https://www.theinformation.com/articles/openai-ceo-declares-code-red-combat-threats-chatgpt-delays-ads-effort?rc=i9gkgs) (The Information)
   * [Apple AI Chief John Giannandrea Retiring After Siri Delays](https://www.macrumors.com/2025/12/01/apple-ai-chief-retiring-after-siri-failure/) (MacRumors)
@@ -221,7 +221,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 01 2025**
+**Monday, December 01 2025 - Is Nvidia In Trouble?**
 
   * [Runway rolls out new AI video model that beats Google, OpenAI in key benchmark](https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html) (CNBC)
   * [TPUv7: Google Takes a Swing at the King](https://newsletter.semianalysis.com/p/tpuv7-google-takes-a-swing-at-the) (SemiAnalysis)
@@ -233,7 +233,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 26 2025**
+**Wednesday, November 26 2025 - Polymarket Is Street Legal**
 
   * [Trump aims to boost AI innovation, build platform to harness government data](https://www.reuters.com/business/trump-aims-boost-ai-innovation-build-platform-harness-government-data-2025-11-24/) (Reuters)
   * [Polymarket Secures CFTC Approval for Regulated U.S. Return](https://www.coindesk.com/business/2025/11/25/polymarket-secures-cftc-approval-for-regulated-u-s-return) (CoinDesk)
@@ -244,7 +244,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 25 2025**
+**Tuesday, November 25 2025 - Is OpenAI In Trouble?**
 
   * [Anthropic introduces cheaper, more powerful, more efficient Opus 4.5 model](https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/) (Ars Technica)
   * [ChatGPT's new shopping research tool is fast, fun, and free - but can it out-shop me?](https://www.zdnet.com/article/chatgpts-new-shopping-research-tool-is-fast-fun-and-free-but-can-it-out-shop-me/) (ZDNet)
@@ -253,7 +253,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 24 2025**
+**Monday, November 24 2025 - Where Does That X Account Live?**
 
   * [X’s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos) (The Verge)
   * [What OpenAI Did When ChatGPT Users Lost Touch With Reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb) (NYTimes)
@@ -264,7 +264,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 21 2025**
+**Friday, November 21 2025 - The iOS Walls Are Crumbling In The Garden**
 
   * [Google cracked Apple’s AirDrop and is adding it to Pixel phones](https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10) (The Verge)
   * [Altman Memo Forecasts ‘Rough Vibes’ Due to Resurgent Google](https://www.theinformation.com/articles/openai-ceo-braces-possible-economic-headwinds-catching-resurgent-google?rc=i9gkgs) (The Information)
@@ -275,7 +275,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 20 2025**
+**Thursday, November 20 2025 - Who Gets To Regulate AI?**
 
   * [Here’s the Trump executive order that would ban state AI laws](https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws) (The Verge)
   * [Google rolling out Gemini 3-powered ‘Nano Banana Pro’ image gen, editing](https://9to5google.com/2025/11/20/gemini-3-nano-banana-pro/) (9to5Google)
@@ -285,7 +285,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 19 2025**
+**Wednesday, November 19 2025 - Gemini 3, And Meta Beats The Government**
 
   * [Google is launching Gemini 3, its ‘most intelligent’ AI model yet](https://www.theverge.com/news/822977/gemini-3-google-ai-model-launch) (The Verge)
   * [AI Music Platform Suno Valued at $2.45 Billion](https://www.wsj.com/business/media/ai-music-platform-suno-valued-at-2-45-billion-b6bda919?st=Kvo5Wz&reflink=desktopwebshare_permalink) (WSJ)
@@ -296,7 +296,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 18 2025**
+**Tuesday, November 18 2025 - The Bloodbath In Crypto**
 
   * [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector) (The Verge)
   * [Grok 4.1 has arrived — and it's bringing the fight to ChatGPT with these new features](https://www.tomsguide.com/ai/grok-4-1-has-arrived-heres-what-xais-latest-update-unlocks) (Tom's Guide)
@@ -308,7 +308,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 17 2025**
+**Monday, November 17 2025 - Jeff Bezos To Be A CEO Again**
 
   * [Jeff Bezos Creates A.I. Start-Up Where He Will Be Co-Chief Executive](https://www.nytimes.com/2025/11/17/technology/bezos-project-prometheus.html) (NYTimes)
   * [Apple intensifies succession planning for CEO Tim Cook](https://www.ft.com/content/0d424625-f4f8-4646-9f6e-927c8cbe0e3e?ref=spyglass.org) (FT)
@@ -319,7 +319,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 14 2025**
+**Friday, November 14 2025 - OpenAI Enters The Group Chat**
 
   * [ChatGPT launches pilot group chats across Japan, New Zealand, South Korea, and Taiwan](https://techcrunch.com/2025/11/14/chatgpt-launches-pilot-group-chats-across-japan-new-zealand-south-korea-and-taiwan/) (TechCrunch)
   * [Amazon and Microsoft Back Effort That Would Restrict Nvidia’s Exports to China](https://www.wsj.com/tech/amazon-and-microsoft-back-effort-that-would-restrict-nvidias-exports-to-china-21e29e01?st=A8NkxM&reflink=desktopwebshare_permalink) (WSJ)
@@ -329,7 +329,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 13 2025**
+**Thursday, November 13 2025 - Valve Takes On Consoles And VR**
 
   * [Valve brings back Steam Machine and Steam Controller — hands-on with Valve's new AMD-based living room gaming hardware](https://www.tomshardware.com/video-games/console-gaming/valve-brings-back-steam-machine-and-steam-controller-hands-on-with-valves-new-amd-based-living-room-gaming-hardware) (Tom's Hardware)
   * [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on) (The Verge)
@@ -340,7 +340,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 12 2025**
+**Wednesday, November 12 2025 - Text-To-World AI Models**
 
   * [Fei-Fei Li’s World Labs speeds up the world model race with Marble, its first commercial product](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) (TechCrunch)
   * [Airbnb Will Test Adding Instacart Grocery Delivery to Its App in Services Push](https://www.bloomberg.com/news/articles/2025-11-12/airbnb-will-test-adding-instacart-grocery-delivery-to-its-app-as-a-guest-service) (Bloomberg)
@@ -350,7 +350,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 11 2025**
+**Tuesday, November 11 2025 - The iPhone Air Isn’t Selling**
 
   * [Apple Delays Release of Next iPhone Air Amid Weak Sales](https://www.theinformation.com/articles/apple-delays-release-next-iphone-air-amid-weak-sales?rc=i9gkgs) (The Information)
   * [Meta chief AI scientist Yann LeCun plans to exit and launch own start-up](https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de) (FT)
@@ -361,7 +361,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 10 2025**
+**Monday, November 10 2025 - GDPR To Be Defanged?**
 
   * [Brussels knifes privacy to feed the AI boom](https://www.politico.eu/article/brussels-knifes-privacy-to-feed-the-ai-boom-gdpr-digital-omnibus/) (Politico)
   * [Coinbase Launches Platform for Digital Token Offerings](https://www.wsj.com/finance/currencies/coinbase-launches-platform-for-digital-token-offerings-de699cbf?st=7XXRBi&reflink=desktopwebshare_permalink) (WSJ)
@@ -371,7 +371,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 07 2025**
+**Friday, November 07 2025 - Elon’s $1T Deal**
 
   * [Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package](https://www.wsj.com/business/autos/elon-musk-tesla-pay-package-vote-9abd5a73?st=V4mPW6&reflink=desktopwebshare_permalink) (WSJ)
   * [Lawsuits Blame ChatGPT for Suicides and Harmful Delusions](https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html?unlocked_article_code=1.zU8.Nd--.vak5P2CV73BJ&smid=url-share) (NYTimes)
@@ -382,7 +382,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 06 2025**
+**Thursday, November 06 2025 - Gemini To Power The New Siri?**
 
   * [Apple Nears $1 Billion-a Year Deal to Use Google AI for Siri](https://www.bloomberg.com/news/articles/2025-11-05/apple-plans-to-use-1-2-trillion-parameter-google-gemini-model-to-power-new-siri) (Bloomberg)
   * [OpenAI Isn’t Yet Working Toward an IPO, CFO Says](https://www.wsj.com/tech/ai/openai-isnt-yet-working-toward-an-ipo-cfo-says-58037472?st=oDuKY5&reflink=article_copyURL_share) (WSJ)
@@ -393,7 +393,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 05 2025**
+**Wednesday, November 05 2025 - Google and Epic Settle**
 
   * [Google proposes app store reforms in settlement with ‘Fortnite’ maker Epic Games](https://www.reuters.com/sustainability/boards-policy-regulation/google-proposes-app-store-reforms-settlement-with-fortnite-maker-epic-games-2025-11-05/) (Reuters)
   * [Cloud streaming finally arrives on the PlayStation Portal](https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming) (The Verge)
@@ -404,7 +404,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 04 2025**
+**Tuesday, November 04 2025 - Nobody Cares About AI Ads?**
 
   * [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad) (The Verge)
   * [Prosecutors allege incident response pros used ALPHV/BlackCat to commit string of ransomware attacks](https://cyberscoop.com/incident-response-ransomware-professionals-charged-attacks/) (Cyberscoop)
@@ -416,7 +416,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 03 2025**
+**Monday, November 03 2025 - Another Day, Another OpenAI Deal**
 
   * [OpenAI signs $38 billion compute deal with Amazon, partnering with cloud leader for first time](https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html) (CNBC)
   * [How sports gambling took over prediction markets in the US](https://www.ft.com/content/e80df917-2af7-4a37-b9af-55d23f941ec6) (FT)
@@ -426,7 +426,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 31 2025**
+**Friday, October 31 2025 - Amazon Didn’t Scare Investors**
 
   * [Amazon cloud records 20% sales growth, topping estimates](https://www.cnbc.com/2025/10/30/aws-q3-2025-earnings-report-amazon-cloud.html) (CNBC)
   * [Microsoft seemingly just revealed that OpenAI lost $11.5B last quarter](https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/) (The Register)
@@ -436,7 +436,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 30 2025**
+**Thursday, October 30 2025 - Wall Street: Spend! (But Not Too Much…)**
 
   * [Big Tech tests investors’ patience with $80bn AI investment spree](https://www.ft.com/content/86bb929f-e0ec-4e50-b429-e9259c3834e2) (FT)
   * [OpenAI adds reusable ‘characters’ and video stitching to Sora](https://www.theverge.com/news/809877/openai-sora-app-character-cameo-updates) (The Verge)
@@ -446,7 +446,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 29 2025**
+**Wednesday, October 29 2025 - Nvidia $5T**
 
   * [Uber Eyes Fleet of 100,000 Nvidia-Based Robotaxis Beginning 2027](https://www.bloomberg.com/news/articles/2025-10-28/uber-eyes-fleet-of-100-000-nvidia-based-robotaxis-beginning-2027) (Bloomberg)
   * [OpenAI’s Promise to Stay in California Helped Clear the Path for Its IPO](https://www.wsj.com/tech/ai/openais-promise-to-stay-in-california-helped-clear-the-path-for-its-ipo-3af1c31c?st=Svh5TT&reflink=desktopwebshare_permalink) (WSJ)
@@ -457,7 +457,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 28 2025**
+**Tuesday, October 28 2025 - OpenAI Has Gone For-Profit**
 
   * [OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft](https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi) (The Verge)
   * [Amazon to Cut 14,000 Jobs as Jassy Looks to Reduce Bureaucracy](https://www.bloomberg.com/news/articles/2025-10-28/amzn-amazon-to-cut-14-000-jobs-across-corporate-workforce) (Bloomberg)
@@ -467,7 +467,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 27 2025**
+**Monday, October 27 2025 - Forget AI, The Counter-Strike Bubble Just Burst**
 
   * [Australia sues Microsoft over AI-linked subscription price hikes](https://www.reuters.com/world/asia-pacific/australia-takes-microsoft-court-says-it-misled-27-million-customers-2025-10-26/) (Reuters)
   * [Using a Security Key on X? Re-Enroll Now or Your Account Will Be Locked](https://www.pcmag.com/news/using-a-security-key-on-x-re-enroll-now-or-your-account-will-be-locked) (PC Mag)
@@ -478,7 +478,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 22 2025**
+**Wednesday, October 22 2025 - OpenAI’s Browser: ChatGPT Atlas**
 
   * [OpenAI’s AI-powered browser, ChatGPT Atlas, is here](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent) (The Verge)
   * [Introducing ChatGPT Atlas](https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/) (Simon Willison)
@@ -487,7 +487,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 21 2025**
+**Tuesday, October 21 2025 - C’mon Apple, Buy HBO!**
 
   * [Warner Bros. Discovery says it’s open to a sale; shares jump 10%](https://www.cnbc.com/2025/10/21/wbd-sale-warner-bros-media.html) (CNBC)
   * [Coinbase Strikes Deal for Crypto-Investing Platform Echo](https://www.wsj.com/finance/coinbase-strikes-deal-for-crypto-investing-platform-echo-86954fd5?st=wKJ49G&reflink=desktopwebshare_permalink) (WSJ)
@@ -498,7 +498,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 20 2025**
+**Monday, October 20 2025 - The Winners Of The AI Boom You Never Thought About**
 
   * [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline) (The Verge)
   * [OpenAI pauses Sora video generations of Martin Luther King Jr.](https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/) (TechCrunch)
@@ -510,7 +510,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 17 2025**
+**Friday, October 17 2025 - Skills For Claude As A New AI Paradigm?**
 
   * [Anthropic turns to ‘skills’ to make Claude more useful at work](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents) (The Verge)
   * [Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/) (Simon Willison)
@@ -522,7 +522,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 16 2025**
+**Thursday, October 16 2025 - A $300 Trillion Oopsie**
 
   * [Printing Money: Paxos Mints, Then Burns $300 Trillion in PayPal Stablecoins](https://decrypt.co/344463/printing-money-paxos-mints-burns-300-trillion-paypal-stablecoins) (Decrypt)
   * [Apple’s Head of ChatGPT-Like AI Search Effort to Leave for Meta](https://www.bloomberg.com/news/articles/2025-10-15/apple-s-newly-tapped-head-of-chatgpt-like-ai-search-effort-to-leave-for-meta) (Bloomberg)
@@ -533,7 +533,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 15 2025**
+**Wednesday, October 15 2025 - M5 Chips Are Here**
 
   * [Apple’s 14-inch MacBook Pro gets an M5 chip bump and faster storage](https://www.theverge.com/news/797850/apple-macbook-pro-m5-announcement-price-specs) (The Verge)
   * [Sam Altman says ChatGPT will soon sext with verified adults](https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults) (The Verge)
@@ -545,7 +545,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 14 2025**
+**Tuesday, October 14 2025 - Sam Altman’s Financial Engineering**
 
   * [Dutch government takes control of Chinese-owned chipmaker Nexperia](https://www.ft.com/content/605e5456-9437-47ff-be6a-edc5c82810f2) (FT)
   * [OpenAI, Broadcom Forge Multibillion-Dollar Chip-Development Deal](https://www.wsj.com/tech/ai/openai-broadcom-forge-multibillion-dollar-chip-development-deal-58d930d1?st=mjz5aM&reflink=desktopwebshare_permalink) (WSJ)
@@ -556,7 +556,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 10 2025**
+**Friday, October 10 2025 - China’s Getting Tetchy Again**
 
   * [China blacklists major chip research firm TechInsights following report on Huawei](https://www.cnbc.com/2025/10/10/china-blacklists-major-chip-ai-research-firm-techinsights-analyzed-report-huawei.html) (CNBC)
   * [OpenAI’s Sora hit 1 million downloads in less than five days](https://www.cnbc.com/2025/10/09/openais-sora-downloads.html) (CNBC)
@@ -567,7 +567,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 09 2025**
+**Thursday, October 09 2025 - Intel Punches Back**
 
   * [Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics](https://www.theverge.com/report/797146/intel-panther-lake-core-series-3-architecture-platform-feature-reveal) (The Verge)
   * [Intel Debuts New Technology in Make-or-Break Moment for CEO’s Turnaround Bid](https://www.bloomberg.com/news/articles/2025-10-09/intel-intc-debuts-new-technology-in-make-or-break-moment-for-turnaround-bid) (Bloomberg)
@@ -579,7 +579,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 08 2025**
+**Wednesday, October 08 2025 - The AI Concern Committee Is Back**
 
   * [OpenAI, Nvidia Fuel $1 Trillion AI Market With Web of Circular Deals](https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1OTg2OTU5MCwiZXhwIjoxNzYwNDc0MzkwLCJhcnRpY2xlSWQiOiJUM1MyOEFHUEZIT1cwMCIsImJjb25uZWN0SWQiOiIzQ0NEMzQ3OEVDNUU0NzY3QkZBRDYxRjM3MkU2QTAzOSJ9.cEVJf87K-3eSlM2FMfigLTFiRmSyR472oTC8RVHUxAQ) (Bloomberg)
   * [Nvidia’s Huang says he’s surprised AMD offered OpenAI 10% of company in ‘clever’ deal](https://www.cnbc.com/2025/10/08/nvidia-huang-amd-open-ai.html) (CNBC)
@@ -591,7 +591,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 07 2025**
+**Tuesday, October 07 2025 - OpenAI Wants To Be The Windows Of AI**
 
   * [OpenAI announces Apps SDK allowing ChatGPT to launch and run third party apps like Zillow, Canva, Spotify](https://venturebeat.com/ai/openai-announces-apps-sdk-allowing-chatgpt-to-launch-and-run-third-party) (VentureBeat)
   * [OpenAI’s Windows Play](https://stratechery.com/2025/openais-windows-play/) (Stratechery)
@@ -601,7 +601,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 06 2025**
+**Monday, October 06 2025 - OpenAI’s Big AMD Deal**
 
   * [AMD stock skyrockets 30% as OpenAI looks to take stake in AI chipmaker](https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html) (CNBC)
   * [Elon Musk Gambles Billions in Memphis to Catch Up on AI](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d?st=j8cb1t&reflink=desktopwebshare_permalink) (WSJ)
@@ -611,7 +611,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 03 2025**
+**Friday, October 03 2025 - Apple Blocks ICEBlock**
 
   * [Apple takes down ICE tracking apps after pressure from Bondi DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi) (Fox Business)
   * [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) (TechCrunch)
@@ -621,7 +621,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 02 2025**
+**Thursday, October 02 2025 - Apple To Bench The Vision Pro?**
 
   * [OpenAI’s Sora 2 Copyright Infringement Machine Features Nazi SpongeBobs and Criminal Pikachus](https://www.404media.co/openais-sora-2-copyright-infringement-machine-features-nazi-spongebobs-and-criminal-pikachus/) (404Media)
   * [OpenAI Valuation Reaches $500 Billion, Topping Musk’s SpaceX](https://www.bloomberg.com/news/articles/2025-10-02/openai-completes-share-sale-at-record-500-billion-valuation) (Bloomberg)
@@ -633,7 +633,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 01 2025**
+**Wednesday, October 01 2025 - Sora, Sora, Sora**
 
   * [OpenAI's Sora app lets friends swap AI video cameos](https://www.axios.com/2025/09/30/openai-sora-app-social-ai) (Axios)
   * [OpenAI made a TikTok for deepfakes, and it’s getting hard to tell what’s real](https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real) (The Verge)
@@ -643,7 +643,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 30 2025**
+**Tuesday, September 30 2025 - Amazon’s Hardware Event**
 
   * [Amazon announces new Kindle Scribes, including one with a color screen](https://www.theverge.com/news/788289/amazon-kindle-scribe-e-ink-digital-notepad-stylus) (The Verge)
   * [Amazon Revamps Echo Speakers, Displays in Hardware Reboot](https://www.bloomberg.com/news/articles/2025-09-30/amazon-launches-revamped-echo-show-8-echo-show-11-echo-dot-max-echo-studio) (Bloomberg)
@@ -655,7 +655,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 29 2025**
+**Monday, September 29 2025 - EA Taken Private**
 
   * [Electronic Arts Goes Private for $52.5 Billion in Largest LBO Ever](https://www.wsj.com/business/deals/electronic-arts-to-go-private-in-55-billion-deal-a4a4479c) (WSJ)
   * [EA Agrees to $55 Billion Sale in Largest Leveraged Buyout on Record](https://www.bloomberg.com/news/articles/2025-09-29/ea-agrees-to-sale-in-largest-leveraged-buyout-on-record) (Bloomberg)
@@ -667,7 +667,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 26 2025**
+**Friday, September 26 2025 - Is TikTok US Only Worth $14B?**
 
   * [Trump signs executive order supporting proposed deal to put TikTok under US ownership](https://apnews.com/article/trump-tiktok-china-framework-deal-fff6094ef7012840ec726fcf2cb68aef) (AP)
   * [TikTok Being Sold for a Song](https://spyglass.org/tiktok-sale-price-is-silly/) (Spyglass)
@@ -678,7 +678,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 25 2025**
+**Thursday, September 25 2025 - Get Paid To Train AI On Your Phone Calls?**
 
   * [Musk's xAI accuses rival OpenAI of stealing trade secrets](https://www.reuters.com/sustainability/boards-policy-regulation/musks-xai-accuses-rival-openai-stealing-trade-secrets-2025-09-25/) (Reuters)
   * [Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid](https://www.bloomberg.com/news/articles/2025-09-24/intel-is-seeking-an-investment-from-apple-as-part-of-its-comeback-bid) (Bloomberg)
@@ -690,7 +690,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 24 2025**
+**Wednesday, September 24 2025 - The AI Incentives Game**
 
   * [OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers](https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/) (Wired)
   * [In OpenAI Megadeal, Nvidia Discusses a New Business Model: Chip Leasing](https://www.theinformation.com/articles/openai-megadeal-nvidia-discusses-new-business-model-chip-leasing?rc=i9gkgs) (The Information)
@@ -702,7 +702,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 23 2025**
+**Tuesday, September 23 2025 - Ouroboros All The Way Down?**
 
   * [Nvidia is partnering up with OpenAI to offer compute and cash](https://www.theverge.com/ai-artificial-intelligence/782624/nvidia-is-partnering-up-with-openai-to-offer-compute-and-cash) (The Verge)
   * [Altman, Huang and the last-minute negotiations that sealed the $100 billion OpenAI-Nvidia deal](https://www.cnbc.com/2025/09/23/altman-huang-negotiations-that-sealed-100-billion-openai-nvidia-deal.html) (CNBC)
@@ -712,7 +712,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 22 2025**
+**Monday, September 22 2025 - TikTok Deals? Visa Rules?**
 
   * [Inside Trump's deal to save TikTok](https://www.axios.com/2025/09/22/tiktok-bytedance-trump-algorithm-lease) (Axios)
   * [Startup leaders warn new $100K H-1B visa fee will hurt U.S. entrepreneurship and innovation](https://www.geekwire.com/2025/startup-leaders-warn-new-100k-h-1b-visa-fee-will-hurt-u-s-entrepreneurship-and-innovation/) (GeekWire)
@@ -724,7 +724,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 19 2025**
+**Friday, September 19 2025 - (CORRECT) OpenAI’s Hardware Plans Worry Apple**
 
   * [⁠⁠Nvidia in talks for $500mn investment in UK self-driving start-up Wayve⁠⁠](https://www.ft.com/content/cec76ea1-2cc1-4da3-a9e9-1d76aaa50afc) (FT)
   * [⁠⁠Google Injects Gemini Into Chrome as AI Browsers Go Mainstream ⁠⁠](https://www.wired.com/story/google-gemini-ai-chrome-browser/) (Wired)
@@ -732,7 +732,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 18 2025**
+**Thursday, September 18 2025 - Nvidia And Intel Get Together**
 
   * [Nvidia and Intel announce jointly developed 'Intel x86 RTX SOCs' for PCs with Nvidia graphics, also custom Nvidia data center x86 processors — Nvidia buys $5 billion in Intel stock in seismic deal](https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal) (Tom's Hardware)
   * [Hands-on: Meta Ray-Ban Display Glasses & Neural Band Offer a Glimpse of Future AR Glasses](https://www.roadtovr.com/hands-on-meta-ray-ban-display-glasses-neural-band-offer-a-glimpse-of-future-ar-glasses/) (Road to VR)
@@ -741,7 +741,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 17 2025**
+**Wednesday, September 17 2025 - Nvidia In Trouble In China Again**
 
   * [U.S. Investors, Trump Close In on TikTok Deal With China](https://www.wsj.com/tech/details-emerge-on-u-s-china-tiktok-deal-594e009f?st=zw6x2K&reflink=desktopwebshare_permalink) (WSJ)
   * [China bans tech companies from buying Nvidia’s AI chips](https://www.ft.com/content/12adf92d-3e34-428a-8d61-c9169511915c?accessToken=zwAAAZlXEnuvkc8SrfktPjRCitONYckWlRGRXA.MEUCIQD4VE28Q_EKWNxHmwj1MutvFnRVZCclIj5q5TLL6KNalgIgWdpAovveHnIj-o5Wq99ZWps9CYAp_z2lnW7neAcfH_Y&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=58691ef3-7607-4cb2-9e1c-10d59418cea8) (FT)
@@ -753,7 +753,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 16 2025**
+**Tuesday, September 16 2025 - Meta Smartglasses Leak**
 
   * ['Meta Ray-Ban Display' Glasses Design & HUD Clips Leak Ahead Of Connect](https://www.uploadvr.com/meta-ray-ban-display-glasses-design-hud-wristband-clips-leak/) (Upload)
   * [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) (TechCrunch)
@@ -763,7 +763,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 15 2025**
+**Monday, September 15 2025 - Gemini’s Suddenly The #1 App In All The Land**
 
   * [Google Gemini is the top free iPhone app](https://9to5google.com/2025/09/13/gemini-top-free-apple-app-store/) (9to5Google)
   * [Here’s what the data says people ask ChatGPT](https://www.washingtonpost.com/technology/2025/09/15/openai-chatgpt-study-use-cases/) (Washington Post)
@@ -775,7 +775,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 12 2025**
+**Friday, September 12 2025 - OpenAI And Microsoft Make Up And Make Nice?**
 
   * [OpenAI and Microsoft reach tentative deal to revise partnership](https://www.axios.com/2025/09/11/open-ai-microsoft-agreement-deal) (Axios)
   * [OpenAI Takes Big Steps Toward Its Long-Planned Reorganization](https://www.nytimes.com/2025/09/11/technology/openai-microsoft-deal.html) (NYTimes)
@@ -785,7 +785,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 11 2025**
+**Thursday, September 11 2025 - Oh THAT $300B Contract With OpenAI…**
 
   * [Oracle, OpenAI Sign $300 Billion Cloud Deal](https://www.wsj.com/business/openai-oracle-sign-300-billion-computing-deal-among-biggest-in-history-ff27c8fe?st=vUBGuq&reflink=desktopwebshare_permalink) (WSJ)
   * [Klarna Climbs 15% in Trading Debut After $1.37 Billion IPO](https://www.bloomberg.com/news/articles/2025-09-10/klarna-set-to-trade-after-1-37-billion-ipo-draws-strong-demand) (Bloomberg)
@@ -796,7 +796,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 10 2025**
+**Wednesday, September 10 2025 - Is Oracle The New Nvidia?**
 
   * [Oracle Is the New Nvidia, for Better or Worse](https://www.wsj.com/tech/ai/oracle-orcl-stock-nvidia-ai-55d58813?mod=hp_lead_pos2) (WSJ)
   * [Spotify adds lossless streaming after 8 years of teasing](https://www.theverge.com/spotify/775189/spotify-lossless-streaming-flac-audio) (The Verge)
@@ -807,7 +807,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 09 2025**
+**Tuesday, September 09 2025 - The iPhone Air**
 
   * [Apple announces iPhone Air: the thinnest iPhone ever](https://9to5mac.com/2025/09/09/apple-announces-iphone-air-the-thinnest-iphone-ever/) (9to5Mac)
   * [Apple’s iPhone 17 Pro has the biggest battery of any iPhone](https://www.theverge.com/news/772666/apple-iphone-17-pro-specs-features-price-release-date) (The Verge)
@@ -819,7 +819,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 08 2025**
+**Monday, September 08 2025 - Does Anthropic Owe Me $3000?**
 
   * [Anthropic Reaches $1.5 Billion Author Copyright Settlement](https://www.bloomberg.com/news/articles/2025-09-05/anthropic-to-pay-1-5-billion-to-settle-author-copyright-claims) (Bloomberg)
   * [OpenAI Backs AI-Made Animated Feature Film](https://www.wsj.com/tech/ai/openai-backs-ai-made-animated-feature-film-389f70b0?st=GYZ8b6&reflink=desktopwebshare_permalink) (WSJ)
@@ -831,7 +831,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 05 2025**
+**Friday, September 05 2025 - Now OpenAI Wants To Find You A Job**
 
   * [OpenAI Plans Jobs Platform, Certification Program for AI Roles](https://www.bloomberg.com/news/articles/2025-09-04/openai-unveils-jobs-platform-certification-program-for-ai-roles) (Bloomberg)
   * [OpenAI set to start mass production of its own AI chips with Broadcom](https://www.ft.com/content/e8cc6d99-d06e-4e9b-a54f-29317fa68d6f) (FT)
@@ -840,7 +840,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 04 2025**
+**Thursday, September 04 2025 - Never Got Flying Cars, But We Do Have An Instagram iPad App, Finally**
 
   * [Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI, Perplexity](https://www.bloomberg.com/news/articles/2025-09-03/apple-plans-ai-search-engine-for-siri-to-rival-openai-google-siri-talks-advance) (Bloomberg)
   * [Nvidia’s Venture Arm Invests in Honeywell’s Quantinuum](https://www.bloomberg.com/news/articles/2025-09-04/nvidia-s-venture-arm-invests-in-honeywell-s-quantinuum) (Bloomberg)
@@ -851,7 +851,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 03 2025**
+**Wednesday, September 03 2025 - The Takeaways From The Google Antitrust Remedies**
 
   * [Google stock jumps 8% after search giant avoids worst-case penalties in antitrust case](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html) (CNBC)
   * [Google, Apple, and Mozilla Win in the Antitrust Case Google Lost](https://spyglass.org/google-apple-and-mozilla-win-in-the-antitrust-case-google-lost/) (Spyglass)
@@ -863,7 +863,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 02 2025**
+**Tuesday, September 02 2025 - Trump’s Big Crypto Debut**
 
   * [Trump family’s World Liberty Financial token falls in trading debut](https://www.ft.com/content/1299fb31-b224-49df-9266-306bbb37b047) (FT)
   * [Parental controls are coming to ChatGPT ‘within the next month,’ OpenAI says](https://www.cnn.com/2025/09/02/tech/openai-chatgpt-parental-controls-safety) (CNNBusiness)
@@ -873,7 +873,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 29 2025**
+**Friday, August 29 2025 - China Might Not Need US Chips For Long**
 
   * [Alibaba Creates AI Chip to Help China Fill Nvidia Void](https://www.wsj.com/tech/ai/alibaba-ai-chip-nvidia-f5dc96e3?st=ft9tQU&reflink=desktopwebshare_permalink) (WSJ)
   * [Tesla said it didn’t have key data in a fatal crash. Then a hacker found it.](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/) (Washington Post)
@@ -883,7 +883,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 28 2025**
+**Thursday, August 28 2025 - Nvidia Earnings And Nano Banana**
 
   * [Nvidia beats on top and bottom lines as company expects breakneck AI spend to continue](https://www.cnbc.com/2025/08/27/nvidia-nvda-earnings-report-q2-2026.html) (CNBC)
   * [Microsoft expands Xbox Cloud Gaming to Game Pass Core and Standard subscribers](https://www.theverge.com/news/766762/microsoft-xbox-cloud-gaming-game-pass-core-standard-pc-games) (The Verge)
@@ -895,7 +895,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 27 2025**
+**Wednesday, August 27 2025 - The First Wrongful Death Lawsuit Against OpenAI**
 
   * [OpenAI Plans to Update ChatGPT After Parents Sue Over Teen’s Suicide](https://www.bloomberg.com/news/articles/2025-08-26/openai-plans-to-update-chatgpt-as-parents-sue-over-teen-s-suicide) (Bloomberg)
   * [A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html?unlocked_article_code=1.hE8.T-3v.bPoDlWD8z5vo&smid=url-share) (NYTimes)
@@ -907,7 +907,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 26 2025**
+**Tuesday, August 26 2025 - xAI Sues Apple And OpenAI**
 
   * [Elon Musk's xAI sues Apple and OpenAI over AI competition, App Store rankings](https://www.reuters.com/legal/litigation/elon-musks-xai-sues-apple-openai-over-ai-competition-app-store-rankings-2025-08-25/) (Reuters)
   * [Exclusive: Trump administration weighs sanctions on officials implementing EU tech law, sources say](https://www.reuters.com/world/us/trump-administration-weighs-sanctions-officials-implementing-eu-tech-law-sources-2025-08-26/) (Reuters)
@@ -918,7 +918,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 25 2025**
+**Monday, August 25 2025 - Uncle Sam’s Intel Stake**
 
   * [Trump, Intel Agree to 10% U.S. Stake as President Promises More Deals](https://www.wsj.com/tech/trump-to-announce-u-s-taking-nearly-10-stake-in-intel-1a38225d?st=dBUj8F&reflink=desktopwebshare_permalink) (NYTimes)
   * [Apple Explores Using Google Gemini AI to Power Revamped Siri](https://www.bloomberg.com/news/articles/2025-08-22/apple-explores-using-google-gemini-ai-to-power-revamped-siri) (Bloomberg)
@@ -930,7 +930,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 22 2025**
+**Friday, August 22 2025 - Has China Shut The Door On Nvidia?**
 
   * [Nvidia Orders Halt to H20 Production After China Directive Against Purchases](https://www.theinformation.com/articles/nvidia-orders-halt-h20-production-china-directive-purchases?rc=64g9cw) (The Information)
   * [Meta Signs $10 Billion-Plus Cloud Deal With Google](https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=64g9cw) (The Information)
@@ -939,7 +939,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 21 2025**
+**Thursday, August 21 2025 - Now Meta Has Frozen AI Hiring**
 
   * [Meta Freezes AI Hiring After Blockbuster Spending Spree](https://www.wsj.com/tech/ai/meta-ai-hiring-freeze-fda6b3c4?st=GwQLzL&reflink=desktopwebshare_permalink) (WSJ)
   * [Suddenly, Silicon Valley Is Lowering AI Expectations](https://nymag.com/intelligencer/article/suddenly-silicon-valley-is-lowering-ai-expectations.html) (NYMag)
@@ -950,7 +950,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 20 2025**
+**Wednesday, August 20 2025 - The Pixel 10 Smartphone Unveiling**
 
   * [The Google Pixel 10 Pro Fold is the first fully dust-resistant foldable](https://www.theverge.com/hands-on/762080/google-pixel-10-pro-fold-dust-rating-ip68) (The Verge)
   * [Google debuts Pixel Watch 4 with domed display, emergency Satellite Communication](https://techcrunch.com/2025/08/20/google-debuts-pixel-watch-4-with-domed-display-emergency-satellite-communication/) (TechCrunch)
@@ -961,7 +961,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 19 2025**
+**Tuesday, August 19 2025 - Chamath Is Back In The Arena**
 
   * [⁠Intel is getting a $2 billion investment from SoftBank⁠](https://www.cnbc.com/2025/08/18/intel-is-getting-a-2-billion-investment-from-softbank.html) (CNBC)
   * [⁠Nvidia releases a new small, open model Nemotron-Nano-9B-v2 with toggle on/off reasoning⁠](https://venturebeat.com/ai/nvidia-releases-a-new-small-open-model-nemotron-nano-9b-v2-with-toggle-on-off-reasoning/) (VentureBeat)
@@ -971,7 +971,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 18 2025**
+**Monday, August 18 2025 - Meta’s Smart Headware Push**
 
   * [Apple’s Vision Pro Is Suffering From a Lack of Immersive Video](https://www.bloomberg.com/news/newsletters/2025-08-17/why-doesn-t-the-vision-pro-have-more-immersive-video-apple-is-slow-rolling-it-mefmwpb1) (Bloomberg)
   * [Meta Tiramisu "Hyperrealistic VR" Hands-On: A Stunning Window Into Another World](https://www.uploadvr.com/meta-tiramisu-hyperrealistic-vr-hands-on/) (UploadVR)
@@ -983,7 +983,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 15 2025**
+**Friday, August 15 2025 - AI Business Bigger Than The Smartphone Business?**
 
   * [Trump Administration Said to Discuss Taking Stake in Intel](https://www.bloomberg.com/news/articles/2025-08-14/trump-administration-is-said-to-discuss-us-taking-stake-in-intel?sref=Szq5ylDR) (Bloomberg)
   * [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/) (Reuters)
@@ -993,7 +993,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 14 2025**
+**Thursday, August 14 2025 - Thu. 08/14 – An Apple Pixar Lamp?**
 
   * [New York sues Zelle, says security lapses led to $1 billion consumer fraud losses](https://www.reuters.com/sustainability/boards-policy-regulation/new-york-sues-zelle-says-security-lapses-led-1-billion-consumer-fraud-losses-2025-08-13/) (Reuters)
   * [Crypto Firm Bullish Soars 84% in Debut After $1.1 Billion IPO](https://www.bloomberg.com/news/articles/2025-08-13/crypto-firm-bullish-surges-143-in-debut-after-1-1-billion-ipo?sref=Szq5ylDR) (Bloomberg)
@@ -1009,7 +1009,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 12 2025**
+**Tuesday, August 12 2025 - Tue. 08/12 – Elon To Sue Apple To Get At Sam?**
 
   * [Musk says xAI to take legal action against Apple over App Store rankings](https://www.reuters.com/sustainability/boards-policy-regulation/musk-says-xai-take-legal-action-against-apple-over-app-store-rankings-2025-08-12/) (Reuters)
   * [Tech giants Apple and Google lose landmark court case as federal judge rules they engaged in anti-competitive conduct](https://www.abc.net.au/news/2025-08-12/epic-games-fortnite-v-apple-google-federal-court-case/105641794) (ABC)
@@ -1019,7 +1019,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 11 2025**
+**Monday, August 11 2025 - Mon. 08/11 – Nvidia To Pay The Government To Sell In China**
 
   * [Nvidia and AMD to pay 15% of China chip sale revenues to US government](https://www.ft.com/content/cd1a0729-a8ab-41e1-a4d2-8907f4c01cac) (FT)
   * [Trump Bid for Cut of Chip Revenue Risks ‘Dangerous World’](https://www.bloomberg.com/news/articles/2025-08-11/trump-bid-for-cut-of-nvidia-amd-revenue-risks-dangerous-world?sref=Szq5ylDR) (Bloomberg)
@@ -1031,7 +1031,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 08 2025**
+**Friday, August 08 2025 - Fri. 08/08 – GPT-5 Fallout**
 
   * [GPT-5: Key characteristics, pricing and model card](https://simonwillison.net/2025/Aug/7/gpt-5/) (Simon Willison)
   * [GPT-5 Hands-On: Welcome to the Stone Age](https://www.latent.space/p/gpt-5-review) (Latent Space)
@@ -1041,7 +1041,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 07 2025**
+**Thursday, August 07 2025 - Thu. 07/08 – GPT-5 Released**
 
   * [GPT-5 is being released to all ChatGPT users](https://www.theverge.com/openai/748017/gpt-5-chatgpt-openai-release) (The Verge)
   * [OpenAI Unveils GPT-5, Its Latest and Most Powerful Model, After Two-Year Wait](https://www.wsj.com/tech/ai/openai-chatgpt-5-release-d5dc674a) (WSJ)
@@ -1052,7 +1052,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 06 2025**
+**Wednesday, August 06 2025 - Wed. 08/06 – OpenAI’s Open-Weight Models**
 
   * [ESPN flagship streaming service to launch Aug. 21](https://www.cnbc.com/2025/08/06/espn-streaming-service-launch-date.html) (CNBC)
   * [Hulu App to Be Phased Out as Disney Is ‘Fully Integrating’ Service Into Disney+](https://variety.com/2025/digital/news/hulu-app-phased-out-disney-plus-fully-integrating-1236480450/) (Variety)
@@ -1065,7 +1065,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 05 2025**
+**Tuesday, August 05 2025 - Tue 08/05 – Spygate At TSMC?**
 
   * [TSMC says employees tried to steal trade secrets on iPhone 18 chip process](https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/) (9to5Mac)
   * [Cloudflare says Perplexity’s AI bots are ‘stealth crawling’ blocked sites](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report) (The Verge)
@@ -1077,7 +1077,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 04 2025**
+**Monday, August 04 2025 - Mon. 08/04 – The AI Researcher Who Turned Down $1.5 Billion From Zuck**
 
   * [Lyft Partners With Baidu on Robotaxis in European Expansion](https://feeds.megaphone.fm/Lyft%20Partners%20With%20Baidu%20on%20Robotaxis%20in%20European%20Expansion) (Bloomberg)
   * [Apple’s New ‘Answers’ Team Eyes ChatGPT-Like Product in AI Push](https://www.bloomberg.com/news/newsletters/2025-08-03/apple-s-chatgpt-rival-from-new-answers-team-iphone-17-spotted-in-the-wild-mdvmqs6g) (Bloomberg)
@@ -1089,7 +1089,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 01 2025**
+**Friday, August 01 2025 - Fri. 08/01 – Tech IPO’s Are Back On The Menu, Boys…**
 
   * [Figma more than triples in NYSE debut after selling shares at $33](https://www.cnbc.com/2025/07/31/figma-fig-starts-trading-on-nyse-after-ipo.html) (CNBC)
   * [Anthropic Revenue Pace Nears $5 Billion in Run-Up to Mega Round](https://www.theinformation.com/articles/anthropic-revenue-pace-nears-5-billion-run-mega-round?rc=64g9cw) (The Information)
@@ -1099,7 +1099,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 31 2025**
+**Thursday, July 31 2025 - Thu. 07/31 – Microsoft Joins The $4 Trillion Club**
 
   * [Microsoft officially tops $4 trillion in market cap, joining Nvidia in exclusive club](https://www.cnbc.com/2025/07/30/microsoft-market-cap-tops-4-trillion-after-hours-on-earnings-beat.html) (CNBC)
   * [Investors Cheer an A.I. Spending Bonanza](https://www.nytimes.com/2025/07/31/business/dealbook/meta-microsoft-ai-spending-shares.html) (NYTimes)
@@ -1111,7 +1111,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 30 2025**
+**Wednesday, July 30 2025 - Wed. 07/30 – The Real Money In AI Video Is In Robotics?**
 
   * [YouTube rolls out age-estimation tech to identify US teens and apply additional protections](https://techcrunch.com/2025/07/29/youtube-rolls-out-age-estimatation-tech-to-identify-u-s-teens-and-apply-additional-protections/) (TechCrunch)
   * [ChatGPT’s Study Mode Is Here. It Won’t Fix Education’s AI Problems](https://www.wired.com/story/chatgpt-study-mode/) (Wired)
@@ -1122,7 +1122,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 29 2025**
+**Tuesday, July 29 2025 - Tue. 07/29 – Do You Need To Cut Back On Your AI Usage?**
 
   * [Sony sues Tencent for allegedly ripping off 'Horizon' video games](https://www.reuters.com/legal/litigation/sony-sues-tencent-allegedly-ripping-off-horizon-video-games-2025-07-28/) (Reuters)
   * [Microsoft revolutionizes Edge as an AI-powered web browser with new experimental 'Copilot Mode' — here's how to enable it right now](https://www.windowscentral.com/microsoft/microsoft-edge-copilot-mode-announcement-agentic-ai-web-browser) (Windows Central)
@@ -1134,7 +1134,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 28 2025**
+**Monday, July 28 2025 - Mon. 07/28 – Tea Has Been Spilt**
 
   * [Samsung to Make Tesla AI Chips in Multiyear Texas Deal](https://www.bloomberg.com/news/articles/2025-07-28/samsung-bags-16-5-billion-deal-in-big-win-for-chipmaking-arm) (Bloomberg)
   * [Donald Trump freezes export controls to secure trade deal with China](https://www.ft.com/content/a13ba438-3b43-46dd-b332-4b81b3644da0) (FT)
@@ -1146,7 +1146,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 25 2025**
+**Friday, July 25 2025 - Fri. 07/25 – GPT-5 In Two Weeks?**
 
   * [Intel beats on revenue, slashes foundry investments as CEO says ‘no more blank checks’](https://www.cnbc.com/2025/07/24/intel-intc-earnings-report-q2-2025.html) (CNBC)
   * [Google is testing a vibe-coding app called Opal](https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/) (TechCrunch)
@@ -1156,7 +1156,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 24 2025**
+**Thursday, July 24 2025 - Thu. 07/24 – The US AI Action Plan**
 
   * [Trump Signs AI Orders, Vows US Will Win Race Over New Technology](https://www.bloomberg.com/news/articles/2025-07-23/white-house-unveils-sweeping-ai-action-plan-to-boost-development) (Bloomberg)
   * [Donald Trump blocks AI groups with ‘ideological bias’ from government work](https://www.ft.com/content/406bc127-e1c3-41d5-9e68-b8921856c3c7) (FT)
@@ -1168,7 +1168,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 23 2025**
+**Wednesday, July 23 2025 - Wed. 07/28 – Don’t Sleep On That SharePoint Exploit**
 
   * [Microsoft links Sharepoint ToolShell attacks to Chinese hackers](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/) (BleepingComputer)
   * [Apple Launches $20-a-Month AppleCare One Plan Covering Up to Three Devices](https://www.bloomberg.com/news/articles/2025-07-23/apple-aapl-debuts-20-a-month-applecare-one-plan-covering-up-to-three-devices?sref=Szq5ylDR) (Bloomberg)
@@ -1181,7 +1181,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 22 2025**
+**Tuesday, July 22 2025 - Tue. 07/22 – Is Masa Son Being Left Behind In AI Again?**
 
   * [OpenAI and Google outdo the mathletes, but not each other](https://art19.com/admin/series/8b14d4fa-0fec-46ef-a8e4-4bd491366294/content/episodes/ab1f0da8-8c7c-4e8d-9864-5f4083addf24/edit?new=true) (TechCrunch)
   * [SoftBank and OpenAI’s $500 Billion AI Project Struggles to Get Off Ground](https://www.wsj.com/tech/ai/softbank-openai-a3dc57b4?st=7eCiQf&reflink=desktopwebshare_permalink) (WSJ)
@@ -1191,7 +1191,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 21 2025**
+**Monday, July 21 2025 - Mon. 07/21 – Massive SharePoint Zero-Day**
 
   * [Hackers Exploit Microsoft SharePoint as Firm Works to Patch](https://www.bloomberg.com/news/articles/2025-07-21/microsoft-server-software-comes-under-widespread-cyberattack?sref=Szq5ylDR) (Bloomberg)
   * [The First Foldable iPhone Will Arrive Next Year in Un-Apple-Like Fashion](https://www.bloomberg.com/news/newsletters/2025-07-20/apple-s-2026-foldable-iphone-samsung-comparison-m5-ipad-pro-dual-front-cameras?sref=Szq5ylDR) (Bloomberg)
@@ -1203,7 +1203,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 18 2025**
+**Friday, July 18 2025 - Fri. 07/18 – ChatGPT Agent**
 
   * [OpenAI’s new ChatGPT Agent can control an entire computer and do tasks for you](https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research) (The Verge)
   * [OpenAI ChatGPT Agent announcement LIVE — all the big news from today's livestream](https://www.tomsguide.com/news/live/openai-july-17-announcement) (Tom's Guide)
@@ -1214,7 +1214,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 17 2025**
+**Thursday, July 17 2025 - Thu. 07/17 – AI Pricing**
 
   * [TSMC Raises 2025 Outlook in a Big Boost for AI Demand Hopes](https://www.bloomberg.com/news/articles/2025-07-17/tsmc-profit-surges-again-after-ai-drives-big-jump-in-sales) (Bloomberg)
   * [US House agrees to consider crypto legislation in big win for the digital asset industry](https://www.reuters.com/legal/government/us-house-clears-procedural-hurdle-cryptocurrency-legislation-2025-07-16/) (Reuters)
@@ -1224,7 +1224,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 16 2025**
+**Wednesday, July 16 2025 - Wed. 07/16 – Jensen Gets Bullish**
 
   * [Nvidia Boss Expects US to Move Fast on First H20 China Licenses](https://www.bloomberg.com/news/articles/2025-07-16/nvidia-boss-expects-to-get-first-h20-china-export-licenses-soon) (Bloomberg)
   * [OpenAI Preps ChatGPT Agents in Challenge to Microsoft Excel and PowerPoint](https://www.theinformation.com/articles/openai-preps-chatgpt-agents-challenge-microsoft-excel-powerpoint?rc=64g9cw) (The Information)
@@ -1234,7 +1234,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 15 2025**
+**Tuesday, July 15 2025 - Tue. 07/15 – Nvidia Back In Business In China?**
 
   * [Nvidia, AMD to Resume AI Chip Sales to China in US Reversal](https://www.bloomberg.com/news/articles/2025-07-15/nvidia-expects-license-to-sell-h20-ai-chip-to-china-again) (Bloomberg)
   * [Apple to Buy Rare Earths From Pentagon-Backed US Producer MP](https://www.bloomberg.com/news/articles/2025-07-15/apple-to-buy-rare-earths-from-pentagon-backed-us-producer-mp) (Bloomberg)
@@ -1245,7 +1245,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 14 2025**
+**Monday, July 14 2025 - Mon. 07/14 – Google Snatches Windsurf From OpenAI**
 
   * [Google to Pay $2.4 Billion for Windsurf Staff, IP After Startup Ends OpenAI Talks](https://www.theinformation.com/articles/openai-windsurf-break-acquisition-talks-microsoft-ip-concerns?rc=64g9cw) (The Information)
   * [Google Is Said to Pay $2.4 Billion for Windsurf Assets, Talent](https://www.bloomberg.com/news/articles/2025-07-11/openai-s-3-billion-deal-to-buy-ai-startup-windsurf-falls-apart) (Bloomberg)
@@ -1260,7 +1260,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 11 2025**
+**Friday, July 11 2025 - Fri. 07/11 – Grok: Let Me See What Elon Thinks**
 
   * [Grok: searching X for “from:elonmusk (Israel OR Palestine OR Hamas OR Gaza)”](https://simonwillison.net/2025/Jul/11/grok-musk/) (Simon Willison's Blog)
   * [Grok 4 seems to consult Elon Musk to answer controversial questions](https://techcrunch.com/2025/07/10/grok-4-seems-to-consult-elon-musk-to-answer-controversial-questions/) (TechCrunch)
@@ -1270,7 +1270,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 10 2025**
+**Thursday, July 10 2025 - Thu. 07/10 – Grok 4**
 
   * [Grok 4 is live — here’s what makes it Elon Musk’s most advanced AI yet](https://www.tomsguide.com/ai/grok-4-is-here-elon-musk-says-its-the-same-model-physicists-use) (Tom's Guide)
   * [Meta Poached Apple’s Pang With Pay Package Over $200 Million](https://www.bloomberg.com/news/articles/2025-07-09/meta-poached-apple-s-pang-with-pay-package-over-200-million) (Bloomberg)
@@ -1281,7 +1281,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 09 2025**
+**Wednesday, July 09 2025 - Wed. 07/09 – Samsung Unpacked**
 
   * [Galaxy Z Fold 7 goes official with drastically thinner design, but a $2,000 price tag](https://9to5google.com/2025/07/09/samsung-galaxy-z-fold-7-official-price-specs/) (9to5Google)
   * [Samsung's Galaxy Z Flip 7 has a bigger battery and is still thinner than last year's model](https://www.engadget.com/mobile/smartphones/samsungs-galaxy-z-flip-7-has-a-bigger-battery-and-is-still-thinner-than-last-years-model-140039942.html) (Engadget)
@@ -1294,7 +1294,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 08 2025**
+**Tuesday, July 08 2025 - Tue. 07/08 – Zuck Poaches AI Talent From Apple**
 
   * [Apple Loses Top AI Models Executive to Meta’s Hiring Spree](https://www.bloomberg.com/news/articles/2025-07-07/apple-loses-its-top-ai-models-executive-to-meta-s-hiring-spree?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI’s Stock Compensation Reflect Steep Costs of Talent Wars](https://www.theinformation.com/articles/openais-stock-compensation-reflect-steep-costs-talent-wars?rc=64g9cw) (The Information)
@@ -1305,7 +1305,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 07 2025**
+**Monday, July 07 2025 - Mon. 07/07 – What Did I Miss?**
 
   * [Meta’s new hires offer a peek into superintelligence plans](https://www.semafor.com/article/07/02/2025/metas-new-hires-offer-a-peek-into-its-superintelligence-capabilities) (Semafor)
   * [Zuck's Eleven](https://spyglass.org/zucks-eleven/) (Spyglass)
@@ -1317,7 +1317,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 02 2025**
+**Wednesday, July 02 2025 - Wed. 07/02 – In Meta v. OpenAI, Who’s Desperate And Who’s Scared?**
 
   * [Microsoft laying off about 9,000 employees in latest round of cuts](https://www.cnbc.com/2025/07/02/microsoft-laying-off-about-9000-employees-in-latest-round-of-cuts.html) (CNBC)
   * [Here’s What Mark Zuckerberg Is Offering Top AI Talent](https://www.wired.com/story/mark-zuckerberg-meta-offer-top-ai-talent-300-million/) (Wired)
@@ -1328,7 +1328,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 01 2025**
+**Tuesday, July 01 2025 - Tue. 07/01 – Superhuman Finds A Home**
 
   * [Zuckerberg Debuts Meta ‘Superintelligence’ Group, More Hires](https://www.bloomberg.com/news/articles/2025-06-30/zuckerberg-announces-meta-superintelligence-effort-more-hires) (Bloomberg)
   * [Cloudflare launches a marketplace that lets websites charge AI bots for scraping](https://techcrunch.com/2025/07/01/cloudflare-launches-a-marketplace-that-lets-websites-charge-ai-bots-for-scraping/) (TechCrunch)
@@ -1339,7 +1339,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 30 2025**
+**Monday, June 30 2025 - Mon. 06/30 – Nintendo And Amazon Fight**
 
   * [Amazon Misses Out on Switch 2 Sales After Nintendo Pulled Products From US Site](https://www.bloomberg.com/news/articles/2025-06-30/amazon-lost-right-to-sell-nintendo-switch-2-amid-sales-dispute) (Bloomberg)
   * [Kuo: Apple to release cheaper MacBook powered by iPhone processor](https://9to5mac.com/2025/06/30/cheaper-macbook-iphone-chip-kuo/) (9to5Mac)
@@ -1350,7 +1350,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 27 2025**
+**Friday, June 27 2025 - Fri. 06/27 – The Death Of The Blue Screen Of Death**
 
   * [In Pursuit of Godlike Technology, Mark Zuckerberg Amps Up the A.I. Race](https://www.nytimes.com/2025/06/27/technology/mark-zuckerberg-meta-ai.html?unlocked_article_code=1.SE8.PkK0.6bov5wVudBjE&smid=nytcore-ios-share&referringSource=articleShare) (NYTimes)
   * [Meta says it’s winning the talent war with OpenAI](https://www.theverge.com/command-line-newsletter/694028/meta-openai-100-million-bonus-talent-war) (The Verge)
@@ -1361,7 +1361,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 26 2025**
+**Thursday, June 26 2025 - Thu. 06/26 – Conflicting AI Legal Rulings**
 
   * [Microsoft sued by authors over use of books in AI training](https://www.reuters.com/sustainability/boards-policy-regulation/microsoft-sued-by-authors-over-use-books-ai-training-2025-06-25/) (Reuters)
   * [Trump Mobile reiterates claims that new phones are 'made in America'](https://www.usatoday.com/story/tech/2025/06/25/trump-cell-phone/84360157007/) (USAToday)
@@ -1373,7 +1373,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 25 2025**
+**Wednesday, June 25 2025 - Wed. 06/25 – Never Wear A Suit In Tech**
 
   * [Employers Are Buried in A.I.-Generated Résumés](https://www.nytimes.com/2025/06/21/business/dealbook/ai-job-applications.html?unlocked_article_code=1.Rk8.cZMv.8tx0KrHrG-3q&smid=url-share) (NYTimes)
   * [CareerBuilder + Monster to Sell Businesses in Bankruptcy](https://www.wsj.com/articles/careerbuilder-monster-to-sell-businesses-in-bankruptcy-9daa38dd) (WSJ)
@@ -1385,7 +1385,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 24 2025**
+**Tuesday, June 24 2025 - Tue. 06/24 – Is Microsoft Struggling To Sell Copilot?**
 
   * [After a year of waiting, Microsoft's Meta Quest 3S "Xbox Edition" is here — our hands-on review of this (very) limited edition partnership](https://www.windowscentral.com/gaming/xbox/meta-quest-3s-xbox-edition-hands-on-review) (Windows Central)
   * [Amazon bringing same-day delivery to ‘millions’ of rural customers](https://www.theverge.com/news/691877/amazon-same-day-delivery-small-town-rural) (The Verge)
@@ -1398,7 +1398,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 23 2025**
+**Monday, June 23 2025 - Mon. 06/23 – Tesla Launches Its Robotaxi**
 
   * [Tesla launches robotaxi service in Austin](https://www.ft.com/content/5aefc191-d3de-4e6b-a2eb-08defd0678ee) (Financial Times)
   * [Jony Ive Deal Removed From OpenAI Site Over Trademark Suit](https://www.bloomberg.com/news/articles/2025-06-22/jony-ive-deal-removed-from-openai-site-over-trademark-suit?sref=Szq5ylDR) (Bloomberg)
@@ -1410,7 +1410,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 20 2025**
+**Friday, June 20 2025 - Fri. 06/20 – A Shenzhen-like Production City In The US?**
 
   * [Meta announces Oakley smart glasses](https://www.theverge.com/news/690133/meta-oakley-hstn-ai-glasses-price-date) (The Verge)
   * [Meta tried to buy Ilya Sutskever’s $32 billion AI startup, but is now planning to hire its CEO](https://www.cnbc.com/2025/06/19/meta-tried-to-buy-safe-superintelligence-hired-ceo-daniel-gross.html) (CNBC)
@@ -1421,7 +1421,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 19 2025**
+**Thursday, June 19 2025 - Thu. 06/19 – What Would AGI Actually Look Like?**
 
   * [Microsoft Planning Thousands More Job Cuts Aimed at Salespeople](https://www.bloomberg.com/news/articles/2025-06-18/microsoft-planning-thousands-more-job-cuts-aimed-at-salespeople?sref=Szq5ylDR) (Bloomberg)
   * [‘Surpassing all my expectations’: Midjourney releases first AI video model amid Disney, Universal lawsuit](https://venturebeat.com/business/surpassing-all-my-expectations-midjourney-releases-first-ai-video-model-amid-disney-universal-lawsuit/) (VentureBeat)
@@ -1432,7 +1432,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 18 2025**
+**Wednesday, June 18 2025 - Wed. 06/18 – Oh Yeah. What About TikTok?**
 
   * [Trump will grant TikTok another 90-day extension in enforcement of sale-or-ban law](https://www.cnn.com/2025/06/17/tech/tiktok-trump-ban-delay) (CNNBusiness)
   * [Sam Altman says Meta tried and failed to poach OpenAI’s talent with $100M offers](https://techcrunch.com/2025/06/17/sam-altman-says-meta-tried-and-failed-to-poach-openais-talent-with-100m-offers/) (TechCrunch)
@@ -1443,7 +1443,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 17 2025**
+**Tuesday, June 17 2025 - Tue. 06/17 – Open AI Still Needs To Placate Microsoft**
 
   * [OpenAI Seeks New Financial Concessions From Microsoft, a Top Shareholder](https://www.theinformation.com/articles/openai-seeks-new-financial-concessions-microsoft-top-shareholder?rc=64g9cw) (The Information)
   * [OpenAI and Microsoft Tensions Are Reaching a Boiling Point](https://www.wsj.com/tech/ai/openai-and-microsoft-tensions-are-reaching-a-boiling-point-4981c44f?st=oztNm3&reflink=desktopwebshare_permalink) (WSJ)
@@ -1456,7 +1456,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 16 2025**
+**Monday, June 16 2025 - Mon. 06/16 – What Happens When Search Abandons The Web?**
 
   * [WhatsApp Introduces Ads in Its App](https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html) (NYTimes)
   * [Trump Mobile: President’s Company Unveils Wireless Service Delivered via AT&T, Verizon and T-Mobile, Plans to Launch a U.S.-Made ‘Sleek, Gold’ Android Smartphone](https://variety.com/2025/biz/news/trump-mobile-wireless-phone-service-launch-1236431690/) (Variety)
@@ -1466,7 +1466,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 13 2025**
+**Friday, June 13 2025 - Fri. 06/13 – Stablecoins Everywhere**
 
   * [The Meta AI app is a privacy disaster](https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/) (TechCrunch)
   * [Meta Risks Regulatory Scrutiny in Pursuit of Scale AI](https://www.bloomberg.com/news/newsletters/2025-06-13/meta-risks-regulatory-scrutiny-in-pursuit-of-scale-ai?sref=Szq5ylDR) (Bloomberg)
@@ -1477,7 +1477,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 12 2025**
+**Thursday, June 12 2025 - Thu. 06/12 – Meta’s Big AI Acqui-hire**
 
   * [Meta to Pay Nearly $15 Billion for Scale AI Stake and Startup’s 28-Year-Old CEO](https://www.theinformation.com/articles/meta-pay-nearly-15-billion-scale-ai-stake-startups-28-year-old-ceo?rc=64g9cw) (The Information)
   * [Disney, NBCU sue Midjourney over copyright infringement](https://www.axios.com/2025/06/11/disney-nbcu-midjourney-copyright) (Axios)
@@ -1487,7 +1487,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 11 2025**
+**Wednesday, June 11 2025 - Wed. 06/11 – o3-pro**
 
   * [OpenAI releases o3-pro, a souped-up version of its o3 AI reasoning model](https://techcrunch.com/2025/06/10/openai-releases-o3-pro-a-souped-up-version-of-its-o3-ai-reasoning-model/) (TechCrunch)
   * [God is hungry for Context: First thoughts on o3 pro](https://www.latent.space/p/o3-pro) (Latent Space)
@@ -1499,7 +1499,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 10 2025**
+**Tuesday, June 10 2025 - Tue. 06/10 – Zuck’s Big AI Ambitions**
 
   * [Meta Is Creating a New A.I. Lab to Pursue ‘Superintelligence’](https://www.nytimes.com/2025/06/10/technology/meta-new-ai-lab-superintelligence.html) (NYTimes)
   * [Zuckerberg Is Personally Recruiting New ‘Superintelligence’ AI Team at Meta](https://www.bloomberg.com/news/articles/2025-06-10/zuckerberg-recruits-new-superintelligence-ai-group-at-meta?sref=Szq5ylDR) (Bloomberg)
@@ -1511,7 +1511,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 09 2025**
+**Monday, June 09 2025 - Mon. 06/09 – WWDC 2025**
 
   * [Hands-On With the Xbox Ally X, the New Gaming Handheld from Asus and Microsoft](https://www.ign.com/articles/hands-on-with-the-xbox-ally-x-the-new-gaming-handheld-from-asus-and-microsoft) (IGN)
   * [Meta in Talks for Scale AI Investment That Could Top $10 Billion](https://www.bloomberg.com/news/articles/2025-06-08/meta-in-talks-for-scale-ai-investment-that-could-top-10-billion?sref=Szq5ylDR) (Bloomberg)
@@ -1519,7 +1519,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 06 2025**
+**Friday, June 06 2025 - Fri. 06/06 – IPO’s Back On The Menu?**
 
   * [Stablecoin issuer Circle soars 168% in NYSE debut after pricing IPO above expected range](https://www.cnbc.com/2025/06/05/stablecoin-issuer-circle-soars-in-nyse-debut-after-pricing-ipo-above-expected-range.html) (CNBC)
   * [Anthropic co-founder on cutting access to Windsurf: ‘It would be odd for us to sell Claude to OpenAI’](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/) (TechCrunch)
@@ -1528,7 +1528,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 05 2025**
+**Thursday, June 05 2025 - Thu. 06/05 – Some In Hollywood (Quietly) LOVE AI**
 
   * [Reddit Sues Anthropic, Alleges Unauthorized Use of Site’s Data](https://www.wsj.com/tech/ai/reddit-lawsuit-anthropic-ai-3b9624dd?st=RG6AF6&reflink=desktopwebshare_permalink) (WSJ)
   * [Meta Talks to Disney, A24 About Content for New VR Headset](https://www.wsj.com/business/media/meta-seeks-hollywood-deals-for-new-virtual-reality-headset-ef3db942) (WSJ)
@@ -1539,7 +1539,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 04 2025**
+**Wednesday, June 04 2025 - Wed. 06/04 – State Of The AI Coding Landgrab**
 
   * [Windsurf says Anthropic is limiting its direct access to Claude AI models](https://techcrunch.com/2025/06/03/windsurf-says-anthropic-is-limiting-its-direct-access-to-claude-ai-models/) (TechCrunch)
   * [AI startups revolutionize coding industry, leading to sky-high valuations](https://www.reuters.com/business/ai-vibe-coding-startups-burst-onto-scene-with-sky-high-valuations-2025-06-03/) (Reuters)
@@ -1550,7 +1550,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 03 2025**
+**Tuesday, June 03 2025 - Tue. 06/03 – Framing The AI Debate**
 
   * [Musk Taps Investors for Billions Days After Washington Exit](https://www.bloomberg.com/news/articles/2025-06-02/musk-s-xai-launches-5-billion-debt-sale-through-morgan-stanley?sref=Szq5ylDR) (Bloomberg)
   * ['Forest Blizzard' vs 'Fancy Bear' - cyber companies hope to untangle weird hacker nicknames](https://www.reuters.com/sustainability/boards-policy-regulation/forest-blizzard-vs-fancy-bear-cyber-companies-hope-untangle-weird-hacker-2025-06-02/) (Reuters)
@@ -1560,7 +1560,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 02 2025**
+**Monday, June 02 2025 - Mon. 06/02 – How DoorDash Has Quietly Been Killing It**
 
   * [Apple Developer Event Will Show It’s Still Far From Being an AI Leader](https://www.bloomberg.com/news/newsletters/2025-06-01/apple-s-wwdc-2025-plan-macos-tahoe-apple-intelligence-ai-ios-26-games-app-mbdlzqpz?sref=Szq5ylDR) (Bloomberg)
   * [Samsung Nears Wide-Ranging Deal With Perplexity for AI Features](https://www.bloomberg.com/news/articles/2025-06-01/samsung-nears-wide-ranging-deal-with-perplexity-for-ai-features?sref=Szq5ylDR) (Bloomberg)
@@ -1571,7 +1571,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 30 2025**
+**Friday, May 30 2025 - Fri. 05/30 – Big Meta/Anduril Deal Is A Big Deal**
 
   * [Meta Fired Palmer Luckey. Now, They’re Teaming Up on a Defense Contract.](https://www.wsj.com/tech/meta-army-vr-headsets-anduril-palmer-luckey-142ab72a?st=AFcxj5&reflink=desktopwebshare_permalink) (WSJ)
   * [Mark Zuckerberg Finally Found a Use for His Metaverse — War](https://www.bloomberg.com/opinion/articles/2025-05-30/mark-zuckerberg-finally-found-a-use-for-his-metaverse-war?sref=Szq5ylDR) (Bloomberg)
@@ -1581,7 +1581,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 29 2025**
+**Thursday, May 29 2025 - Thu. 05/29 – Somebody Knows Victoria’s Secrets**
 
   * [Nvidia beats on earnings and revenue as data center sales jump 73%](https://www.cnbc.com/2025/05/28/nvidia-nvda-earnings-report-q1-2026.html) (CNBC)
   * [Nvidia CEO Warns That Chinese AI Rivals Are Now ‘Formidable’](https://www.bloomberg.com/news/articles/2025-05-29/nvidia-ceo-warns-that-chinese-ai-rivals-have-become-formidable?sref=Szq5ylDR) (Bloomberg)
@@ -1593,7 +1593,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 28 2025**
+**Wednesday, May 28 2025 - Wed. 05/28 – Apple Playing Games Again**
 
   * [Apple acquires RAC7, its first-ever video game studio](https://www.digitaltrends.com/gaming/apple-acquires-rac7-sneaky-sasquatch/) (Digital Trends)
   * [Apple to Debut Dedicated Gaming App Within Days of Switch 2’s Arrival](https://www.bloomberg.com/news/articles/2025-05-27/apple-to-debut-dedicated-gaming-app-within-days-of-switch-2-s-arrival?sref=Szq5ylDR) (Bloomberg)
@@ -1604,7 +1604,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 27 2025**
+**Tuesday, May 27 2025 - Tue. 05/27 – The “Holy Grail” Of AI Models**
 
   * [Salesforce Agrees to Buy Informatica in Deal Worth $8 Billion](https://www.bloomberg.com/news/articles/2025-05-27/salesforce-agrees-to-buy-informatica-in-deal-worth-8-billion?sref=Szq5ylDR) (Bloomberg)
   * [Stablecoin Giant Circle File for IPO on NYSE](https://www.coindesk.com/business/2025/05/27/stablecoin-giant-circle-files-for-ipo-on-nyse) (CoinDesk)
@@ -1616,7 +1616,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 23 2025**
+**Friday, May 23 2025 - Fri. 05/23 – Tim Apple’s Very Bad Week**
 
   * [Trump says a 25% tariff ‘must be paid by Apple’ on iPhones not made in the U.S.](https://www.cnbc.com/2025/05/23/trump-tariff-apple-iphones-not-made-in-the-us.html) (CNBC)
   * [Anthropic’s new Claude 4 AI models can reason over many steps](https://techcrunch.com/2025/05/22/anthropics-new-claude-4-ai-models-can-reason-over-many-steps/) (TechCrunch)
@@ -1626,7 +1626,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 22 2025**
+**Thursday, May 22 2025 - Thu. 05/22 – OpenAI Acquihires Jony Ive!**
 
   * [Former Apple Design Guru Jony Ive to Take Expansive Role at OpenAI](https://www.wsj.com/tech/ai/former-apple-design-guru-jony-ive-to-take-expansive-role-at-openai-5787f7da?st=nqC2Sd) (WSJ)
   * [What Sam Altman Told OpenAI About the Secret Device He’s Making With Jony Ive](https://www.wsj.com/tech/ai/what-sam-altman-told-openai-about-the-secret-device-hes-making-with-jony-ive-f1384005?st=RUGPjK&reflink=desktopwebshare_permalink) (WSJ)
@@ -1636,7 +1636,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 21 2025**
+**Wednesday, May 21 2025 - Wed. 05/21 – Everything Google Everywhere And All At Once**
 
   * [Google is rolling out AI Mode to everyone in the US](https://www.engadget.com/ai/google-is-rolling-out-ai-mode-to-everyone-in-the-us-174917628.html) (Engadget)
   * [Android XR is getting stylish partners in Warby Parker and Gentle Monster](https://www.theverge.com/google-io/670013/android-xr-warby-parker-gentle-monster-smart-glassesi-io-2025) (The Verge)
@@ -1647,7 +1647,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 20 2025**
+**Tuesday, May 20 2025 - Tue. 05/20 – Microsoft Build 2025**
 
   * [GitHub’s new AI coding agent can fix bugs for you](https://www.theverge.com/news/669339/github-ai-coding-agent-fix-bugs) (The Verge)
   * [The new Microsoft Discovery agentic platform targets scientists and researchers](https://www.neowin.net/news/the-new-microsoft-discovery-agentic-platform-targets-scientists-and-researchers/) (Neowin)
@@ -1659,7 +1659,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 19 2025**
+**Monday, May 19 2025 - Mon. 05/19 – How Apple Lost AI**
 
   * [Why Apple Still Hasn’t Cracked AI](https://www.bloomberg.com/news/features/2025-05-18/how-apple-intelligence-and-siri-ai-went-so-wrong?sref=Szq5ylDR) (Bloomberg)
   * [Nvidia Opens AI Ecosystem to Rival Chipmakers in Global Push](https://www.bloomberg.com/news/articles/2025-05-19/nvidia-ceo-unveils-new-tech-to-keep-global-ai-expansion-going?sref=Szq5ylDR) (Bloomberg)
@@ -1671,7 +1671,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 16 2025**
+**Friday, May 16 2025 - Fri. 05/16 – Bribing Is The Oldest Form Of Hacking**
 
   * [Apple blocks Fortnite’s App Store return as downloads fail in Europe](https://www.theverge.com/news/668232/fortnite-ios-unavailable-worldwide-apple-epic) (The Verge)
   * [Coinbase warns of up to $400 million hit from cyberattack](https://www.reuters.com/business/coinbase-says-cyber-criminals-stole-account-data-some-customers-2025-05-15/) (Reuters)
@@ -1682,7 +1682,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 14 2025**
+**Wednesday, May 14 2025 - Wed. 05/14 – Airbnb’s Midlife Transformation**
 
   * [US warns against using Huawei chips ‘anywhere in the world’](https://www.ft.com/content/2033b5b3-974d-4d40-8498-1c46d3a8db79) (FT)
   * [Sony Sees $700 Million Tariff Hit on Underwhelming Outlook](https://www.bloomberg.com/news/articles/2025-05-14/sony-s-outlook-underwhelms-with-us-tariffs-weighing?sref=Szq5ylDR) (Bloomberg)
@@ -1694,7 +1694,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 13 2025**
+**Tuesday, May 13 2025 - Tue. 05/13 – The Thin-Phone Era Is Here**
 
   * [Samsung Debuts $1,099 S25 Edge, Kicking Off Wave of Thin Phones](https://www.bloomberg.com/news/articles/2025-05-13/samsung-s25-edge-announced-1-099-price-may-30-us-release-date-feature-list?sref=Szq5ylDR) (Bloomberg)
   * [Galaxy S25 Edge Hands-On: This Thin Phone Left a Deep Impression](https://www.cnet.com/tech/mobile/galaxy-s25-edge-hands-on-this-thin-phone-left-a-deep-impression/) (CNET)
@@ -1705,7 +1705,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 12 2025**
+**Monday, May 12 2025 - Mon. 05/12 – Saudi Arabia Enters The AI Race**
 
   * [Apple Considers Raising iPhone Prices, Without Blaming Tariffs](https://www.wsj.com/tech/apple-iphone-price-increase-2eaebb14?st=S6xbJ4&reflink=desktopwebshare_permalink) (WSJ)
   * [SoftBank Stargate Venture With OpenAI Snags on Tariff Fears](https://www.bloomberg.com/news/articles/2025-05-12/softbank-stargate-venture-with-openai-hits-snags-on-tariff-fears?sref=Szq5ylDR) (Bloomberg)
@@ -1717,7 +1717,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 09 2025**
+**Friday, May 09 2025 - Fri. 05/09 – Apple’s Coming For The Meta Ray-Bans**
 
   * [Apple Is Developing Specialized Chips for Glasses, New Macs and AI Servers](https://www.bloomberg.com/news/articles/2025-05-08/apple-is-developing-specialized-chips-for-glasses-new-macs-and-ai-servers?sref=Szq5ylDR) (Bloomberg)
   * [Meta Explores Stablecoin Integration as US Senate Blocks Key Crypto Bill](https://coinpaper.com/9011/meta-explores-stablecoin-integration-as-us-senate-blocks-key-crypto-bill) (Coinpaper)
@@ -1726,7 +1726,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 08 2025**
+**Thursday, May 08 2025 - Thu. 05/08 – Is AI Eating Into Google Search?**
 
   * [OpenAI hires InstaCart CEO Fidji Simo for major leadership role](https://fortune.com/2025/05/08/openai-hires-instacart-ceo-fidji-simo-for-major-leadership-role/) (Fortune)
   * [Instacart CEO Fidji Simo is joining OpenAI](https://techcrunch.com/2025/05/07/instacart-ceo-fidji-simo-is-joining-openai/) (TechCrunch)
@@ -1738,7 +1738,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 07 2025**
+**Wednesday, May 07 2025 - Wed. 05/07 – The New Netflix**
 
   * [Meta wins $168 million in damages from Israeli cyberintel firm in Whatsapp spyware scandal](https://www.courthousenews.com/meta-wins-168-million-in-damages-from-israeli-cyberintel-firm-in-whatsapp-spyware-scandal/) (Courthouse News Service)
   * [Netflix Overhauls Its Home Screen for the First Time in 12 Years](https://www.nytimes.com/2025/05/07/business/media/netflix-new-home-screen.html) (NYTimes)
@@ -1749,7 +1749,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 06 2025**
+**Tuesday, May 06 2025 - Tue. 05/06 – OpenAI Backtracks**
 
   * [OpenAI reverses course, says its nonprofit will remain in control of its business operations](https://techcrunch.com/2025/05/05/openai-reverses-course-says-its-nonprofit-will-remain-in-control-of-its-business-operations/) (TechCrunch)
   * [OpenAI Reaches Agreement to Buy Startup Windsurf for $3 Billion](https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion?sref=Szq5ylDR) (Bloomberg)
@@ -1761,7 +1761,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 05 2025**
+**Monday, May 05 2025 - Mon. 05/05 – Why Clone A Messaging App?**
 
   * [TeleMessage, a modified Signal clone used by US govt. officials, has been hacked](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/) (TechCrunch)
   * [Apple Plans iPhone Release Schedule Shakeup, New Styles](https://www.theinformation.com/articles/apple-plans-iphone-release-schedule-shakeup-new-styles?rc=64g9cw) (The Information)
@@ -1773,7 +1773,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 02 2025**
+**Friday, May 02 2025 - Fri. 05/02 – GTA 6 Delayed To 2026**
 
   * [Grand Theft Auto VI release delayed to May 2026](https://www.theverge.com/news/660057/grand-theft-auto-6-release-date-delay-may-2026) (The Verge)
   * [Amazon Says Operating Profits May Decline Amid Economic Uncertainty](https://www.nytimes.com/2025/05/01/business/amazon-revenue-earnings-tariffs.html) (NYTimes)
@@ -1783,7 +1783,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 01 2025**
+**Thursday, May 01 2025 - Thu. 05/01 – Judge Refers Apple For A Criminal Investigation**
 
   * [Apple Dealt Stinging Court Defeat on App Store Sales Commissions](https://www.bloomberg.com/news/articles/2025-04-30/apple-failed-to-open-app-store-to-competition-judge-rules?sref=Szq5ylDR) (Bloomberg)
   * [Tesla Board Opened Search for a CEO to Succeed Elon Musk](https://www.wsj.com/business/autos/tesla-musk-ceo-search-board-0ce61af9?st=fzBa6i) (WSJ)
@@ -1793,7 +1793,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 30 2025**
+**Wednesday, April 30 2025 - Wed. 04/30 – ChatGPT Just Wants To Please**
 
   * [Meta’s ChatGPT competitor shows how your friends use AI](https://www.theverge.com/ai-artificial-intelligence/657645/meta-ai-app-chatgpt-competitor-release-ios-android) (The Verge)
   * [Microsoft CEO says up to 30% of the company’s code was written by AI](https://techcrunch.com/2025/04/29/microsoft-ceo-says-up-to-30-of-the-companys-code-was-written-by-ai/) (TechCrunch)
@@ -1805,7 +1805,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 29 2025**
+**Tuesday, April 29 2025 - Tue. 04/29 – OpenAI Shopping?**
 
   * [042925](https://punchbowl.news/archive/42925-am/#__amazontodisplaytariffcostsforconsumers__) (PunchBowl News AM)
   * [Kickstarter Introduces ‘Tariff Manager Tool’ to Add Charges to Already Fully Funded Projects](https://www.404media.co/kickstarter-introduces-tariff-manager-tool-to-add-charges-to-already-fully-funded-projects/) (404 Media)
@@ -1818,7 +1818,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 28 2025**
+**Monday, April 28 2025 - Mon. 04/28 – The Prompt Engineer That Never Was…**
 
   * [Apple Begins Breaking Up Its AI Team With Robotics, Siri Changes](https://www.bloomberg.com/news/newsletters/2025-04-27/what-is-happening-with-apple-s-ai-team-siri-and-robotics-shifts-mark-a-breakup?sref=Szq5ylDR) (Bloomberg)
   * [Why Trump can’t build iPhones in the US](https://ig.ft.com/us-iphone/) (FT)
@@ -1830,7 +1830,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 25 2025**
+**Friday, April 25 2025 - Fri. 04/25 – Zuck Trying To Make Fetch Happen**
 
   * [Alphabet shares rise on stronger-than-expected revenue growth](https://www.cnbc.com/2025/04/24/alphabet-googl-q1-earnings-report-2025.html) (CNBC)
   * [Intel offers weak forecast amid trade tensions as CEO talks to TSMC](https://www.reuters.com/business/intel-forecasts-second-quarter-revenue-below-estimates-fanning-tariff-worries-2025-04-24/) (Reuters)
@@ -1843,7 +1843,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 24 2025**
+**Thursday, April 24 2025 - Thu. 04/24 – The AI Coding Wars Are Upon Us**
 
   * [Apple and Meta Are First to Be Hit by E.U. Digital Competition Law](https://www.nytimes.com/2025/04/23/technology/apple-meta-eu-fines-competition-law.html) (NYTimes)
   * [Uber, Volkswagen pair up to launch robotaxi service in US with self-driving, electric microbuses](https://techcrunch.com/2025/04/24/uber-and-volkswagen-pair-up-to-launch-robotaxi-service-with-self-driving-electric-microbuses/) (TechCrunch)
@@ -1854,7 +1854,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 23 2025**
+**Wednesday, April 23 2025 - Wed. 04/23 – Meta And Apple Fined By The EU**
 
   * [Apple, Meta Fined by EU, Ordered to Comply With Tech Competition Rules](https://www.wsj.com/tech/apple-meta-fined-by-eu-ordered-to-comply-with-tech-competition-rules-9063b7e6?st=hbwZ53&reflink=desktopwebshare_permalink) (WSJ)
   * [OpenAI Would Buy Google’s Chrome Browser, ChatGPT Chief Says](https://www.bloomberg.com/news/articles/2025-04-22/openai-would-buy-google-s-chrome-browser-chatgpt-chief-says?sref=Szq5ylDR) (Bloomberg)
@@ -1866,7 +1866,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 22 2025**
+**Tuesday, April 22 2025 - Tue. 04/22 – FTC As Today’s Main Character**
 
   * [Justice Dept. asks judge to ‘thaw’ Google’s search monopoly by forcing Chrome sale](https://www.washingtonpost.com/technology/2025/04/21/google-chrome-monopoly-justice-department/) (Washington Post)
   * [FTC sues Uber, says company charged for Uber One without consent](https://www.cnbc.com/2025/04/21/ftc-sues-uber-says-company-charged-for-uber-one-without-consent.html) (CNBC)
@@ -1878,7 +1878,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 21 2025**
+**Monday, April 21 2025 - Mon. 04/21 – Trump Helps Zuck Get A Reprieve In Europe**
 
   * [EU Delayed Punishing Apple, Meta Just Before Trade Talks Started](https://www.wsj.com/tech/eu-meta-apple-punishment-delay-0453d7a0?st=CKoKgW&reflink=desktopwebshare_permalink) (WSJ)
   * [Crypto Knocks on the Door of a Banking World That Shut It Out](https://www.wsj.com/finance/currencies/crypto-knocks-on-the-door-of-a-banking-world-that-shut-it-out-082b3968) (WSJ)
@@ -1889,7 +1889,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 18 2025**
+**Friday, April 18 2025 - Fri. 04/18 – The Google Antitrust Snowball**
 
   * [Google Broke the Law to Keep Its Advertising Monopoly, a Judge Rules](https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html?unlocked_article_code=1.AU8.3UKg.7tuNj1drZHBh&smid=url-share) (NYTimes)
   * [Google loses online advertising monopoly case](https://www.axios.com/2025/04/17/google-ad-tech-monopoly-antitrust-ruling) (Axios)
@@ -1900,7 +1900,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 17 2025**
+**Thursday, April 17 2025 - Thu. 04/17 – Mooooaaar Models!**
 
   * [OpenAI's new o3 and o4-mini models are all about 'thinking with images'](https://www.engadget.com/ai/openais-new-o3-and-o4-mini-models-are-all-about-thinking-with-images-170043465.html) (Engadget)
   * [OpenAI debuts Codex CLI, an open source coding tool for terminals](https://techcrunch.com/2025/04/16/openai-debuts-codex-cli-an-open-source-coding-tool-for-terminals/) (TechCrunch)
@@ -1912,7 +1912,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 16 2025**
+**Wednesday, April 16 2025 - Wed. 04/16 – Why Does OpenAI Want A Social Network?**
 
   * [Uncle Sam abruptly turns off funding for CVE program. Yes, that CVE program](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/) (The Register)
   * [Nvidia says it will record $5.5 billion charge tied to H20 processors exported to China](https://www.cnbc.com/2025/04/15/nvidia-says-it-will-record-5point5-billion-quarterly-charge-tied-to-h20-processors-exported-to-china.html) (CNBC)
@@ -1923,7 +1923,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 15 2025**
+**Tuesday, April 15 2025 - Tue. 04/15 – Why Is OpenAI Going Backwards (Name-Wise)?**
 
   * [OpenAI’s new GPT-4.1 AI models focus on coding](https://techcrunch.com/2025/04/14/openais-new-gpt-4-1-models-focus-on-coding/) (TechCrunch)
   * [OpenAI launches another model before GPT 5 — here’s what this one can do](https://www.tomsguide.com/ai/openai-launches-another-model-before-gpt-5-heres-what-this-one-can-do) (Tom's Guide)
@@ -1934,7 +1934,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 14 2025**
+**Monday, April 14 2025 - Mon. 04/14 – Tariff Groundhog Day**
 
   * [Apple, Nvidia Score Relief From US Tariffs With Exemptions](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs?sref=Szq5ylDR) (Bloomberg)
   * [Sony raises PlayStation 5 prices in Europe citing ‘challenging’ economic environment](https://www.cnbc.com/2025/04/14/sony-raises-playstation-5-prices-in-europe-uk.html) (CNBC)
@@ -1945,7 +1945,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 11 2025**
+**Friday, April 11 2025 - Fri. 04/11 – Why COULDN’T Apple Make An iPhone In The US?**
 
   * [EU could tax Big Tech if Trump trade talks fail, says von der Leyen](https://www.ft.com/content/fba18bd9-46f9-4736-89f3-976afe3abf7a) (Financial Times)
   * [Why Trump’s Dream of Made-in-the-USA iPhones Isn’t Going to Happen](https://www.bloomberg.com/news/articles/2025-04-11/why-trump-s-dream-of-made-in-the-usa-iphones-isn-t-going-to-happen?sref=Szq5ylDR) (Bloomberg)
@@ -1955,7 +1955,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 10 2025**
+**Thursday, April 10 2025 - Thu. 04/10 – JK, JK, JK**
 
   * [Trump temporarily drops tariffs to 10% for most countries, hits China harder with 125%](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html) (CNBC)
   * [Nintendo Gains Time to Prep Switch 2 Debut With Tariff Pause](https://www.bloomberg.com/news/articles/2025-04-10/nintendo-s-pivotal-switch-2-launch-boosted-by-trump-tariff-pause?sref=Szq5ylDR) (Bloomberg)
@@ -1969,7 +1969,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 09 2025**
+**Wednesday, April 09 2025 - Wed. 04/09 – Instagram iPad App But For REAL This Time?**
 
   * [Ironwood is Google’s newest AI accelerator chip](https://techcrunch.com/2025/04/09/google-unveils-ironwood-a-new-ai-accelerator-chip/) (TechCrunch)
   * [Google announces ‘Workspace Flows’ automation with Gems, audio in Docs, and more Gemini](https://9to5google.com/2025/04/09/google-workspace-flows/) (9to5Google)
@@ -1982,7 +1982,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 08 2025**
+**Tuesday, April 08 2025 - Tue. 04/08 – It’s Already Starting…**
 
   * [Framework “temporarily pausing” some laptop sales because of new tariffs](https://arstechnica.com/gadgets/2025/04/framework-temporarily-pausing-some-laptop-sales-because-of-new-tariffs/) (ArsTechnica)
   * [Exclusive: Micron to impose tariff-related surcharge on some products from April 9, sources say](https://www.reuters.com/technology/micron-impose-tariff-related-surcharge-some-products-april-9-sources-say-2025-04-08/) (Reuters)
@@ -1995,7 +1995,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 07 2025**
+**Monday, April 07 2025 - Mon. 04/07 – Will Tech Raise Prices Cause Of Tariffs?**
 
   * [Trump extends TikTok deadline for the second time](https://www.cnbc.com/2025/04/04/trumps-extends-tiktok-second-time.html) (CNBC)
   * [Meta releases two Llama 4 AI models](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct) (The Verge)
@@ -2004,7 +2004,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 03 2025**
+**Thursday, April 03 2025 - Thu. 04/03 – How Tariffs Might Impact Tech**
 
   * [Trump’s New Tariffs Test Apple’s Global Supply Chain](https://www.nytimes.com/2025/04/02/technology/trump-tariffs-apple-iphones.html) (NYTimes)
   * [Trump to Outline TikTok Deal Proposal, With ByteDance Retaining Stake](https://www.theinformation.com/articles/trump-outline-tiktok-deal-proposal-bytedance-retaining-stake?rc=64g9cw) (The Information)
@@ -2015,7 +2015,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 02 2025**
+**Wednesday, April 02 2025 - Wed. 04/02 – The Nintendo Switch 2**
 
   * [Amazon Said to Make a Bid to Buy TikTok in the U.S.](https://www.nytimes.com/2025/04/02/business/media/amazon-tiktok-bid.html?smid=nytcore-ios-share&referringSource=articleShare) (NYTimes)
   * [Everything announced at Nintendo’s Switch 2 Direct](https://www.polygon.com/nintendo-switch-2/550857/switch-2-direct-all-games-news-trailers) (Polygon)
@@ -2027,7 +2027,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 01 2025**
+**Tuesday, April 01 2025 - Tue. 04/01 – OpenAI Closes The Biggest Private Tech Round Ever**
 
   * [OpenAI closes $40 billion funding round, largest private tech deal on record](https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html) (CNBC)
   * [OpenAI Finalizes $40 Billion Funding at $300 Billion Value](https://www.bloomberg.com/news/articles/2025-03-31/openai-finalizes-40-billion-funding-at-300-billion-valuation?sref=Szq5ylDR) (Bloomberg)
@@ -2038,7 +2038,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 31 2025**
+**Monday, March 31 2025 - Mon. 03/31 – xAI Acquires X**
 
   * [Elon Musk says xAI has acquired X in deal that values social media site at $33 billion](https://www.cnbc.com/2025/03/28/elon-musk-says-xai-has-acquired-x-in-deal-that-values-social-media-site-at-33-billion.html) (CNBC)
   * [Musk’s xAI Startup Swallows Up X Social Network in Surprise Deal](https://www.bloomberg.com/news/articles/2025-03-28/musk-says-that-his-xai-startup-has-acquired-x-for-33-billion?sref=Szq5ylDR) (Bloomberg)
@@ -2049,7 +2049,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 28 2025**
+**Friday, March 28 2025 - Fri. 03/28 – CoreWeave’s Weak IPO**
 
   * [‘Assassin’s Creed’ Maker Ubisoft Jumps After Games Carve Out](https://www.bloomberg.com/news/articles/2025-03-27/ubisoft-carves-out-top-games-tencent-invests-1-16-billion?sref=Szq5ylDR) (Bloomberg)
   * [CoreWeave prices IPO at $40 a share, below expected range](https://www.cnbc.com/2025/03/27/coreweave-prices-ipo-at-40-a-share-below-expected-range.html) (CNBC)
@@ -2060,7 +2060,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 27 2025**
+**Thursday, March 27 2025 - Thu. 03/27 – AI Studio Ghibli**
 
   * [OpenAI’s viral Studio Ghibli moment highlights AI copyright concerns](https://techcrunch.com/2025/03/26/openais-viral-studio-ghibli-moment-highlights-ai-copyright-concerns/) (TechCrunch)
   * [OpenAI CEO Responds to ChatGPT Users Creating Studio Ghibli-Style AI Images](https://variety.com/2025/digital/news/openai-ceo-chatgpt-studio-ghibli-ai-images-1236349141/) (Variety)
@@ -2073,7 +2073,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 26 2025**
+**Wednesday, March 26 2025 - Wed. 03/26 – The Day Of AI Announces**
 
   * [OpenAI rolls out image generation powered by GPT-4o to ChatGPT](https://www.theverge.com/openai/635118/chatgpt-sora-ai-image-generation-chatgpt) (The Verge)
   * [Gemini 2.5 Pro is Google’s ‘most intelligent AI model’ with thinking built-in](https://9to5google.com/2025/03/25/gemini-2-5-pro-experimental/) (9to5Google)
@@ -2083,7 +2083,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 25 2025**
+**Tuesday, March 25 2025 - Tue. 03/25 – Napster Lives! Again!**
 
   * [European Union to slap Meta with fine up to $1B or more for breaching strict antitrust rules: sources](https://nypost.com/2025/03/24/business/european-union-to-fine-meta-up-to-1b-or-more-for-breaching-digital-markets-act-sources/) (NYPost)
   * [EToro Files for IPO Showing Commissions Jumped 46% Last Year](https://www.bloomberg.com/news/articles/2025-03-24/etoro-group-files-for-ipo-showing-revenue-tripled-last-year?sref=Szq5ylDR) (Bloomberg)
@@ -2094,7 +2094,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 24 2025**
+**Monday, March 24 2025 - Mon. 03/24 – 23andMe Enters The Deadpool**
 
   * [DNA Tester 23andMe Files Bankruptcy to Sell Firm, CEO Quits](https://www.bloomberg.com/news/articles/2025-03-24/23andme-starts-chapter-11-process-co-founder-steps-down-as-ceo?sref=Szq5ylDR) (Bloomberg)
   * [Big Startup Deals Soar to $55 Billion, Passing Quarterly Record](https://www.bloomberg.com/news/articles/2025-03-24/major-startup-acquisitions-surge-to-55-billion-crushing-records?sref=Szq5ylDR) (Bloomberg)
@@ -2107,7 +2107,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 21 2025**
+**Friday, March 21 2025 - Fri. 03/21 – A Look At LibGen**
 
   * [The Unbelievable Scale of AI’s Pirated-Books Problem](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/?gift=iWa_iB9lkw4UuiWbIbrWGYDRoX8kfg3ZQZL6J-W0kQE&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
   * [Cloudflare builds an AI to lead AI scraper bots into a horrible maze of junk content](https://www.theregister.com/2025/03/21/cloudflare_ai_labyrinth/) (The Register)
@@ -2116,7 +2116,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 20 2025**
+**Thursday, March 20 2025 - Thu. 03/20 – Is Apple In Its “Vista” Era?**
 
   * [SoftBank Seals $6.5 Billion Deal for Chip Designer Ampere](https://www.bloomberg.com/news/articles/2025-03-19/softbank-seals-6-5-billion-deal-for-chip-designer-ampere?sref=Szq5ylDR) (Bloomberg)
   * [Nvidia CEO says company has not been asked to buy a stake in Intel](https://www.reuters.com/technology/nvidia-ceo-says-orders-36-million-blackwell-gpus-exclude-meta-2025-03-19/) (Reuters)
@@ -2128,7 +2128,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 19 2025**
+**Wednesday, March 19 2025 - Wed. 03/19 – Nvidia Wants To Change All Of Computing**
 
   * [EU sends Apple first DMA interoperability instructions for apps and connected devices](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/) (TechCrunch)
   * [Google Search charged with breaking EU antitrust rules](https://www.theverge.com/news/618168/google-search-eu-dma-charge-violation) (The Verge)
@@ -2141,7 +2141,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 18 2025**
+**Tuesday, March 18 2025 - Tue. 03/18 – The Big M&A Test I Was Waiting For**
 
   * [Google Strikes $32 Billion Deal for Cybersecurity Startup Wiz](https://www.wsj.com/business/deals/alphabet-back-in-deal-talks-for-cybersecurity-startup-wiz-41cd3090?st=fakXcb&reflink=desktopwebshare_permalink) (WSJ)
   * [“Awful”: Roku tests autoplaying ads loading before the home screen](https://arstechnica.com/gadgets/2025/03/roku-says-unpopular-autoplay-ads-are-just-a-test/) (Ars Technica)
@@ -2152,7 +2152,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 17 2025**
+**Monday, March 17 2025 - Mon. 03/17 – Europe Wants To Ween Itself Off Silicon Valley**
 
   * [European tech industry coalition calls for ‘radical action’ on digital sovereignty — starting with buying local](https://techcrunch.com/2025/03/16/european-tech-industry-coalition-calls-for-radical-action-on-digital-sovereignty-starting-with-buying-local/) (TechCrunch)
   * [Accusations of Corporate Espionage Shake a Software Rivalry](https://www.nytimes.com/2025/03/17/business/dealbook/rippling-deel-corporate-spy.html) (NYTimes)
@@ -2162,7 +2162,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 14 2025**
+**Friday, March 14 2025 - Fri. 03/14 – E2EE For All!**
 
   * [Apple will soon support encrypted RCS messaging with Android users](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android) (The Verge)
   * [OpenAI calls DeepSeek ‘state-controlled,’ calls for bans on ‘PRC-produced’ models](https://techcrunch.com/2025/03/13/openai-calls-deepseek-state-controlled-calls-for-bans-on-prc-produced-models/) (TechCrunch)
@@ -2172,7 +2172,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 13 2025**
+**Thursday, March 13 2025 - Thu. 03/13 – Intel’s New Boss**
 
   * [Intel appoints chip industry veteran Lip-Bu Tan as CEO](https://www.reuters.com/technology/us-chipmaker-intel-appoints-lip-bu-tan-its-ceo-2025-03-12/) (Reuters)
   * [Intel CEO Signals That He’ll Stick With Contentious Foundry Plan](https://www.bloomberg.com/news/articles/2025-03-13/intel-ceo-signals-that-he-ll-stick-with-contentious-foundry-plan?sref=Szq5ylDR) (Bloomberg)
@@ -2185,7 +2185,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 12 2025**
+**Wednesday, March 12 2025 - Wed. 03/12 – Roomba Might Not Be Able To Clean Up This Mess**
 
   * [Pokémon Go developer Niantic to sell gaming business to Saudi group](https://www.theverge.com/news/615267/niantic-pokemon-go-scopely-acquisition-deal) (The Verge)
   * [Saudi-owned Scopely buys Pokémon Go in $3.5bn gaming deal](https://www.ft.com/content/761bf407-2ef1-4aad-97e4-76d0916de057) (FT)
@@ -2198,7 +2198,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 11 2025**
+**Tuesday, March 11 2025 - Tue. 03/11 – Biggest Changes To iOS Since 2013**
 
   * [Apple Readies Dramatic Software Overhaul for iPhone, iPad and Mac](https://www.bloomberg.com/news/articles/2025-03-10/apple-readies-dramatic-design-overhauls-for-ios-19-ipados-19-and-macos-16?sref=Szq5ylDR) (Bloomberg)
   * [Exclusive: Meta begins testing its first in-house AI training chip](https://www.reuters.com/technology/artificial-intelligence/meta-begins-testing-its-first-in-house-ai-training-chip-2025-03-11/) (Reuters)
@@ -2211,7 +2211,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 10 2025**
+**Monday, March 10 2025 - Mon. 03/10 – Is Manus “DeepSeek” 2.0?**
 
   * [China’s Autonomous Agent, Manus, Changes Everything](https://www.forbes.com/sites/craigsmith/2025/03/08/chinas-autonomous-agent-manus-changes-everything/) (Forbes)
   * [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/) (TechCrunch)
@@ -2222,7 +2222,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 07 2025**
+**Friday, March 07 2025 - Fri. 03/07 – “AI Wrappers” No Longer A Pejorative**
 
   * [Brazilian court gives Apple 90 days to allow sideloading on iOS](https://9to5mac.com/2025/03/06/brazilian-court-apple-sideloading-ios/) (9to5Mac)
   * [Donald Trump signs executive order for Strategic Bitcoin Reserve](https://cointelegraph.com/news/donald-trump-signs-executive-order-strategic-bitcoin-reserve) (CoinTelegraph)
@@ -2232,7 +2232,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 06 2025**
+**Thursday, March 06 2025 - Thu. 03/06 – Tech IPO Spring?**
 
   * [Klarna to File for $1 Billion-Plus IPO as Soon as Next Week](https://www.bloomberg.com/news/articles/2025-03-06/klarna-set-to-file-for-1-billion-plus-ipo-as-soon-as-next-week?srnd=homepage-americas&sref=Szq5ylDR) (Bloomberg)
   * [Discord in Early Talks With Bankers for Potential I.P.O.](https://www.nytimes.com/2025/03/05/technology/discord-ipo.html?unlocked_article_code=1.1k4.eQrV.NtKK_GpiT-Di&smid=nytcore-ios-share&referringSource=articleShare&sgrp=p) (NYTimes)
@@ -2246,7 +2246,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 05 2025**
+**Wednesday, March 05 2025 - Wed. 03/05 – Digg Is Back!**
 
   * [Musk’s Fight With OpenAI Set for Expedited Trial This Year](https://www.bloomberg.com/news/articles/2025-03-05/musk-fails-to-block-openai-restructuring-plans-in-court-fight?sref=Szq5ylDR) (Bloomberg)
   * [Trump Calls for End to $52 Billion Chips Act Subsidy Program](https://www.bloomberg.com/news/articles/2025-03-05/trump-calls-for-end-to-52-billion-chips-act-subsidy-program?sref=Szq5ylDR) (Bloomberg)
@@ -2258,7 +2258,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 04 2025**
+**Tuesday, March 04 2025 - Tue. 03/04 – The First IPO Of The AI Era**
 
   * [AI cloud provider CoreWeave files for IPO](https://www.cnbc.com/2025/03/03/ai-cloud-provider-coreweave-files-for-ipo.html) (CNBC)
   * [Anthropic Finalizes Megaround at $61.5 Billion Valuation](https://www.bloomberg.com/news/articles/2025-03-03/anthropic-finalizes-megaround-at-61-5-billion-valuation?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0MTAyMTY5MywiZXhwIjoxNzQxNjI2NDkzLCJhcnRpY2xlSWQiOiJTU0s0SzNUMEFGQjQwMCIsImJjb25uZWN0SWQiOiJFODA3NUYyRkZGMjA0NUI2QTlEQzA5M0EyQTdEQTE4NiJ9.YMVo6GZ64wVS9cxDHNrRic58_tMwvBQ8UWHXVNPGudM&sref=Szq5ylDR) (Bloomberg)
@@ -2269,7 +2269,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 03 2025**
+**Monday, March 03 2025 - Mon. 03/03 – A National Crypto Reserve?**
 
   * [Donald Trump Names Components Of Crypto Reserve](https://www.coindesk.com/policy/2025/03/02/trump-to-establish-u-s-crypto-reserve) (CoinDesk)
   * [Trump, Chip Maker TSMC Expected to Announce $100 Billion Investment in U.S.](https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399?st=eCc2EK&reflink=desktopwebshare_permalink) (WSJ)
@@ -2280,7 +2280,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 28 2025**
+**Friday, February 28 2025 - Fri. 10/28 – GPT-4.5**
 
   * [OpenAI announces GPT-4.5, warns it’s not a frontier AI model](https://www.theverge.com/news/620021/openai-gpt-4-5-orion-ai-model-release) (The Verge)
   * [OpenAI CEO Sam Altman says the company is ‘out of GPUs’](https://techcrunch.com/2025/02/27/openai-ceo-sam-altman-says-the-company-is-out-of-gpus/) (TechCrunch)
@@ -2293,7 +2293,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 27 2025**
+**Thursday, February 27 2025 - Thu. 02/27 – Nvidia Earnings**
 
   * [Nvidia sales grow 78% on AI demand, company gives strong guidance](https://www.cnbc.com/2025/02/26/nvidia-nvda-earnings-report-q4-2025.html) (CNBC)
   * [Sony drops PlayStation VR 2 price to $399](https://www.theverge.com/news/620565/sony-playstation-vr2-price-cut-march) (The Verge)
@@ -2304,7 +2304,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 26 2025**
+**Wednesday, February 26 2025 - Wed. 02/26 – Alexa+**
 
   * [Amazon announces AI-powered Alexa Plus](https://www.theverge.com/news/619755/amazon-alexa-ai-upgrade-artificial-intelligence-smart-assistant) (The Verge)
   * [Amazon unveils a new and improved Alexa, Alexa+](https://techcrunch.com/2025/02/26/amazon-unveils-a-new-and-improved-alexa-alexa/) (TechCrunch)
@@ -2315,7 +2315,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 25 2025**
+**Tuesday, February 25 2025 - Tue. 02/25 – Claude 3.7 Sonnet**
 
   * [Anthropic launches a new AI model that ‘thinks’ as long as you want](https://techcrunch.com/2025/02/24/anthropic-launches-a-new-ai-model-that-thinks-as-long-as-you-want/) (TechCrunch)
   * [AI Startup Anthropic Finalizing $3.5 Billion Funding Round](https://www.wsj.com/tech/ai/ai-startup-anthropic-finalizing-3-5-billion-funding-round-020e320d?st=hV1KDd&reflink=desktopwebshare_permalink) (WSJ)
@@ -2326,7 +2326,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 24 2025**
+**Monday, February 24 2025 - Mon. 02/24 – Apple’s $500B Investment In The US**
 
   * [Apple Will Add 20,000 US Jobs Amid Threat from Trump Tariffs](https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us?sref=Szq5ylDR) (Bloomberg)
   * [Apple Abandons Budget Smartphone Market With the iPhone 16e](https://www.bloomberg.com/news/newsletters/2025-02-23/apple-abandons-budget-phones-inside-apple-s-modem-m4-macbook-air-launch-timing?sref=Szq5ylDR) (Bloomberg)
@@ -2338,7 +2338,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 20 2025**
+**Thursday, February 20 2025 - Thu. 02/20 – Microsoft’s Quantum Breakthrough**
 
   * [Microsoft announces quantum computing breakthrough with new Majorana 1 chip](https://www.theverge.com/news/614205/microsoft-quantum-computing-majorana-1-processor) (The Verge)
   * [Microsoft’s Xbox AI era starts with a model that can generate gameplay](https://www.theverge.com/news/615048/microsoft-xbox-generative-ai-model-gaming-muse) (The Verge)
@@ -2349,7 +2349,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 19 2025**
+**Wednesday, February 19 2025 - Wed. 02/19 – The iPhone 16e**
 
   * [Apple launches new iPhone 16e: Here’s everything you need to know](https://9to5mac.com/2025/02/19/apple-unveils-new-iphone-16e-heres-everything-you-need-to-know/) (9to5Mac)
   * [All of Humane's AI pins will stop working in 10 days](https://www.engadget.com/ai/all-of-humanes-ai-pins-will-stop-working-in-10-days-225643798.html) (Engadget)
@@ -2360,7 +2360,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 18 2025**
+**Tuesday, February 18 2025 - Tue. 02/18 – Grok-3**
 
   * [Elon Musk’s xAI releases its latest flagship model, Grok 3](https://techcrunch.com/2025/02/17/elon-musks-ai-company-xai-releases-its-latest-flagship-ai-grok-3/) (TechCrunch)
   * [Impressions of Grok-3](https://x.com/karpathy/status/1891720635363254772) (@karpathy)
@@ -2371,7 +2371,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 17 2025**
+**Monday, February 17 2025 - Mon. 02/17 – Folks Are Circling Intel**
 
   * [TSMC Considers Running Intel’s US Factories After Trump Team Request](https://www.bloomberg.com/news/articles/2025-02-14/tsmc-considers-running-intel-s-us-factories-after-trump-team-request?sref=Szq5ylDR) (Bloomberg)
   * [Broadcom, TSMC Weigh Possible Intel Deals That Would Split Storied Chip Maker](https://www.wsj.com/tech/broadcom-tsmc-eye-possible-intel-deals-that-would-split-storied-chip-maker-966b143b?st=RiRV14&reflink=desktopwebshare_permalink) (WSJ)
@@ -2384,7 +2384,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 14 2025**
+**Friday, February 14 2025 - Fri. 02/14 – Arm Upends The Entire Semiconductor Industry**
 
   * [Apple, Google Restore TikTok App After Assurances From Trump](https://www.bloomberg.com/news/articles/2025-02-14/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?sref=Szq5ylDR) (Bloomberg)
   * [Arm to launch its own chip in move that could upend semiconductor industry](https://www.ft.com/content/95367b2b-2aa7-4a06-bdd3-0463c9bad008) (Financial Times)
@@ -2393,7 +2393,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 13 2025**
+**Thursday, February 13 2025 - Thu. 02/13 – Do We Maybe Have A Roadmap For GPT-5?**
 
   * [OpenAI postpones its o3 AI model in favor of a ‘unified’ next-gen release](https://techcrunch.com/2025/02/12/openai-cancels-its-o3-ai-model-in-favor-of-a-unified-next-gen-release/) (TechCrunch)
   * [Elon Musk will withdraw bid for OpenAI’s nonprofit if its board agrees to terms](https://techcrunch.com/2025/02/12/elon-musk-will-withdraw-bid-for-openais-nonprofit-if-its-board-agrees-to-terms/) (TechCrunch)
@@ -2405,7 +2405,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 12 2025**
+**Wednesday, February 12 2025 - Wed. 02/12 – The First Big AI Legal Ruling**
 
   * [Thomson Reuters Wins First Major AI Copyright Case in the US](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/) (Wired)
   * [Apple Plans to Learn More About Your Holistic Health With Its New Apple Health Study. You Can Enroll Now](https://www.cnet.com/health/apple-plans-to-learn-more-about-your-holistic-health-with-its-new-apple-health-study-you-can-enroll-now/) (CNET)
@@ -2416,7 +2416,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 11 2025**
+**Tuesday, February 11 2025 - Tue. 02/11 – Elon Wants To Buy OpenAI**
 
   * [Elon Musk-Led Group Makes $97.4 Billion Bid for Control of OpenAI](https://www.wsj.com/tech/elon-musk-openai-bid-4af12827?st=Szo9Lz&reflink=desktopwebshare_permalink) (WSJ)
   * [Exclusive: OpenAI is not for sale, CEO Sam Altman says](https://www.axios.com/2025/02/11/openai-altman-musk-offer) (Axios)
@@ -2428,7 +2428,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 10 2025**
+**Monday, February 10 2025 - Mon. 02/10 – How Sam Altman Outflanked Elon Musk?**
 
   * [T-Mobile to Charge $15 Per Month for Starlink Satellite Texting Feature](https://www.bloomberg.com/news/articles/2025-02-10/t-mobile-to-charge-15-per-month-for-starlink-satellite-texting-feature?sref=Szq5ylDR) (Bloomberg)
   * [Polymarket Bettors Punt $1.1B on Superbowl Results, Despite Regulatory Overhang](https://www.coindesk.com/markets/2025/02/10/polymarket-bettors-punt-usd1-1b-on-superbowl-results-despite-regulatory-overhang) (CoinDesk)
@@ -2440,7 +2440,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 07 2025**
+**Friday, February 07 2025 - Fri. 02/07 – UK Backdoor Into iPhones?**
 
   * [U.K. orders Apple to let it spy on users’ encrypted accounts](https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/) (Washington Post)
   * [Amazon plans to spend $100 billion this year to capture ‘once in a lifetime opportunity’ in AI](https://www.cnbc.com/2025/02/06/amazon-expects-to-spend-100-billion-on-capital-expenditures-in-2025.html) (CNBC)
@@ -2450,7 +2450,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 06 2025**
+**Thursday, February 06 2025 - Thu. 02/06 – A $50 (!!) AI Model?**
 
   * [Researchers created an open rival to OpenAI’s o1 ‘reasoning’ model for under $50](https://techcrunch.com/2025/02/05/researchers-created-an-open-rival-to-openais-o1-reasoning-model-for-under-50/) (TechCrunch)
   * [Google Kills Diversity Hiring Targets](https://www.wsj.com/tech/google-kills-diversity-hiring-targets-04433d7c?st=DT9TKN&reflink=desktopwebshare_permalink) (WSJ)
@@ -2464,7 +2464,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 05 2025**
+**Wednesday, February 05 2025 - Wed. 02/05 – Shein And Temu In Deep Trouble**
 
   * [USPS Resumes Accepting Packages From China After Unexpected Suspension](https://www.wired.com/story/tariffs-trump-ecommerce-amazon-temu/) (Wired)
   * [Google expects to spend $75 billion this year on the AI race](https://www.theverge.com/news/606242/google-q4-2024-earnings) (The Verge)
@@ -2476,7 +2476,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 04 2025**
+**Tuesday, February 04 2025 - Tue. 02/04 – Uncle Sam As A VC?**
 
   * [Trump Signs Executive Action to Create Sovereign Wealth Fund](https://www.bloomberg.com/news/articles/2025-02-03/trump-signs-action-to-create-sovereign-wealth-fund-in-next-year?sref=Szq5ylDR) (Bloomberg)
   * [China Hits Back Against Trump’s Tariffs With Targeted Actions](https://www.bloomberg.com/news/articles/2025-02-04/china-probes-google-moments-after-trump-s-tariffs-enter-effect?sref=Szq5ylDR) (Bloomberg)
@@ -2487,7 +2487,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 03 2025**
+**Monday, February 03 2025 - Mon. 02/03 – OpenAI Deep Research**
 
   * [OpenAI unveils a new ChatGPT agent for ‘deep research’](https://techcrunch.com/2025/02/02/openai-unveils-a-new-chatgpt-agent-for-deep-research/) (TechCrunch)
   * [Trump Targets Loophole Temu, Shein Used to Take On Amazon](https://www.bloomberg.com/news/articles/2025-02-02/trump-tariffs-target-loophole-used-by-chinese-online-retailers?sref=Szq5ylDR) (Bloomberg)
@@ -2498,7 +2498,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 31 2025**
+**Friday, January 31 2025 - Fri. 01/31 – Zuck’s Complaints About Leaks… Leaks**
 
   * [Apple shares rise 3% as boost in services revenue overshadows iPhone miss](https://www.cnbc.com/2025/01/30/apple-aapl-q1-earnings-2025.html) (CNBC)
   * [Mark Zuckerberg said that Meta missed TikTok's rise because it didn't seem 'social' enough, leaked recording reveals](https://africa.businessinsider.com/news/mark-zuckerberg-said-that-meta-missed-tiktoks-rise-because-it-didnt-seem-social/7qn1166) (Business Insider)
@@ -2507,7 +2507,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 30 2025**
+**Thursday, January 30 2025 - Thu. 01/30 – Everyone Reports Earnings But Wall Street Only Wants Capex Answers.**
 
   * [Microsoft shares slide as cloud forecast, AI spending disappoint](https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2025-01-29/) (Reuters)
   * [Meta’s Reality Labs posts $5 billion loss in fourth quarter](https://www.cnbc.com/2025/01/29/metas-reality-labs-posts-5-billion-loss-in-fourth-quarter.html) (CNBC)
@@ -2520,7 +2520,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 29 2025**
+**Wednesday, January 29 2025 - Wed. 01/29 – OpenAI Says: No Copying!**
 
   * [OpenAI says it has evidence China’s DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6?accessToken=zwAGLNJX-fBAkdOg3-3RUlVPqdOMzB_gHeh-pg.MEYCIQCGjo04z0mtOsKbDspQLq2BMXyw8SbQnlYePOuqiqr6QgIhAInK67eBkYuZS-77ljnP-y--EJdN1wwRQ8GIR8sKMFgE&sharetype=gift&token=1eebbaa7-a4e6-4251-b665-c2f2562b38e4) (Financial Times)
   * [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data?sref=Szq5ylDR) (Bloomberg)
@@ -2535,7 +2535,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 28 2025**
+**Tuesday, January 28 2025 - Tue. 01/28 – Day 2 Of The DeepSeek Era**
 
   * [Viral AI company DeepSeek releases new image model family](https://techcrunch.com/2025/01/27/viral-ai-company-deepseek-releases-new-image-model-family/) (TechCrunch)
   * [Smartwatch pioneer and Kickstarter darling Pebble is returning in a new form](https://techcrunch.com/2025/01/27/smartwatch-pioneer-and-kickstarter-darling-pebble-is-returning-in-a-new-form/) (TechCrunch)
@@ -2545,7 +2545,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 27 2025**
+**Monday, January 27 2025 - Mon. 01/27 – Why DeepSeek Has Stunned Silicon Valley (And Wall Street)**
 
   * [China’s DeepSeek Tops iPhone Downloads and Spurs AI Selloff](https://www.bloomberg.com/news/articles/2025-01-27/china-s-deepseek-tops-iphone-downloads-and-drives-asia-stocks?sref=Szq5ylDR) (Bloomberg)
   * [The Short Case for Nvidia Stock](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda) (Jeffrey Emanuel)
@@ -2555,7 +2555,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 24 2025**
+**Friday, January 24 2025 - Fri. 01/24 – Operator AI**
 
   * [OpenAI’s new Operator AI agent can do things on the web for you](https://www.theverge.com/2025/1/23/24350395/openai-chatgpt-operator-agent-control-computer) (The Verge)
   * [We Tried OpenAI’s New Agent—Here’s What We Found](https://every.to/chain-of-thought/we-tried-openai-s-new-agent-here-s-what-we-found) (Every)
@@ -2566,7 +2566,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 23 2025**
+**Thursday, January 23 2025 - Thu. 01/23 – “Humanity’s Last Exam”**
 
   * [OpenAI, SoftBank Each Commit $19 Billion to Stargate Data Center Venture](https://www.theinformation.com/articles/openai-softbank-each-commit-19-billion-to-stargate-data-center-venture?rc=64g9cw) (The Information)
   * [OpenAI’s Stargate Deal Heralds Shift Away From Microsoft](https://www.wsj.com/tech/ai/stargate-open-ai-soft-bank-microsoft-shift-e696cf5b?st=othrSE&reflink=desktopwebshare_permalink) (WSJ)
@@ -2578,7 +2578,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 22 2025**
+**Wednesday, January 22 2025 - Wed. 01/22 – The Galaxy S25 Lineup**
 
   * [The Samsung Galaxy S25 Ultra smooths out some sharp edges](https://www.theverge.com/2025/1/22/24348631/samsung-galaxy-s25-ultra-hands-on-price-camera-specs) (The Verge)
   * [Trump Pardons Creator of Silk Road Drug Marketplace](https://www.nytimes.com/2025/01/21/technology/trump-ross-ulbricht-silk-road.html?unlocked_article_code=1.rE4.0_-9.E-XO08DYphvN&smid=url-share) (NYTimes)
@@ -2591,7 +2591,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 21 2025**
+**Tuesday, January 21 2025 - Tue. 01/21 – TikTok Lives?**
 
   * [Trump signs order refusing to enforce TikTok ban for 75 days](https://www.theverge.com/2025/1/20/24348213/trump-tiktok-ban-executive-order-sale-delay-china) (The Verge)
   * [Trump signs executive order to halt TikTok ban, risking legal showdown](https://www.washingtonpost.com/technology/2025/01/20/tiktok-trump-executive-order/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzM3MzQ5MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzM4NzMxNTk5LCJpYXQiOjE3MzczNDkyMDAsImp0aSI6IjY3ZDE1NzZjLWUxODMtNDliZC04OWVhLWFkYThiNjY0M2Y1ZCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjUvMDEvMjAvdGlrdG9rLXRydW1wLWV4ZWN1dGl2ZS1vcmRlci8ifQ.n4FmtC7jMMEJ4uzS-M_jhwRxCV4Ie-Nc8uU9P7qEW0A) (Washington Post)
@@ -2603,7 +2603,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 17 2025**
+**Friday, January 17 2025 - Fri. 01/17 – TikTok Loses In The Supreme Court**
 
   * [Supreme Court Upholds Law That Threatens US TikTok Ban](https://www.bloomberg.com/news/articles/2025-01-17/tiktok-ban-law-is-upheld-by-the-us-supreme-court?sref=Szq5ylDR) (Bloomberg)
   * [Bumble Founder Whitney Wolfe Herd to Return as CEO in March](https://www.bloomberg.com/news/articles/2025-01-17/bumble-founder-whitney-wolfe-herd-to-return-as-ceo-in-march?sref=Szq5ylDR) (Bloomberg)
@@ -2614,7 +2614,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 16 2025**
+**Thursday, January 16 2025 - Thu. 01/16 – Nintendo Switch 2**
 
   * [Here’s the Nintendo Switch 2](https://www.theverge.com/2025/1/16/23872810/nintendo-switch-2-next-generation-console-features-trailer) (The Verge)
   * [Trump considers executive order hoping to ‘save TikTok’ from ban or sale in U.S. law](https://www.washingtonpost.com/technology/2025/01/15/trump-tiktok-ban-executive-order/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzM2OTE3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzM4Mjk5NTk5LCJpYXQiOjE3MzY5MTcyMDAsImp0aSI6ImJkNTk1YTExLTkzYmYtNGVlZC04NjlmLTZhZTFlNjZjM2QwOCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjUvMDEvMTUvdHJ1bXAtdGlrdG9rLWJhbi1leGVjdXRpdmUtb3JkZXIvIn0.EocdDoRLKMsnJf40z2qKZrM9iD0C4P7tG16xyH3VxF0) (Washington Post)
@@ -2625,7 +2625,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 15 2025**
+**Wednesday, January 15 2025 - Wed. 01/15 – SEC Sues Elon Musk**
 
   * [Musk Accused by SEC of Cheating Twitter Investors Out of Millions](https://www.bloomberg.com/news/articles/2025-01-14/sec-sues-elon-musk-over-securities-violation-in-federal-court?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft relaunches Copilot for business with free AI chat and pay-as-you-go agents](https://www.theverge.com/2025/1/15/24344214/microsoft-365-copilot-chat-agents-pricing-availability) (The Verge)
@@ -2637,7 +2637,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 14 2025**
+**Tuesday, January 14 2025 - Tue. 01/14 – Could Elon Buy TikTok?**
 
   * [China Weighs Sale of TikTok US to Musk as a Possible Option](https://www.bloomberg.com/news/articles/2025-01-14/china-discusses-sale-of-tiktok-us-to-musk-as-one-possible-option?sref=Szq5ylDR) (Bloomberg)
   * [EU reassesses tech probes into Apple, Google and Meta](https://www.ft.com/content/2c1b6bfd-ce73-451d-8123-0df964266ae8) (Financial Times)
@@ -2649,7 +2649,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 13 2025**
+**Monday, January 13 2025 - Mon. 01/13 – Nvidia Isn’t Happy With New Chip Rules**
 
   * [US imposes export controls on chips for AI to counter China](https://www.ft.com/content/f83f30be-d673-4f00-b9e5-9e9293512010) (FT)
   * [Sonos CEO Leaving After Botched App Revamp Led to Customer Revolt](https://www.bloomberg.com/news/articles/2025-01-13/sonos-ceo-patrick-spence-leaving-after-failed-app-revamp-led-to-customer-revolt?sref=Szq5ylDR) (Bloomberg)
@@ -2660,7 +2660,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 10 2025**
+**Friday, January 10 2025 - Fri. 01/10 – The Controversies Continue**
 
   * [Mark Zuckerberg gave Meta’s Llama team the OK to train on copyrighted works, filing claims](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/) (TechCrunch)
   * [Automattic says it will reduce its contribution to WordPress core project to match WP Engine](https://techcrunch.com/2025/01/10/automattic-says-it-will-reduce-its-contribution-to-wordpress-core-project-to-match-wp-engine/) (TechCrunch)
@@ -2670,7 +2670,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 09 2025**
+**Thursday, January 09 2025 - Thu. 01/09 – The Wildfire App Everyone In LA Has Been Using**
 
   * [Hackers are exploiting a new Ivanti VPN security bug to hack into company networks](https://techcrunch.com/2025/01/09/hackers-are-exploiting-a-new-ivanti-vpn-security-bug-to-hack-into-company-networks/) (TechCrunch)
   * [Apple says Siri isn’t sending your conversations to advertisers](https://www.theverge.com/2025/1/8/24337477/apple-responds-rumors-siri-advertising-privacy-lawsuit) (The Verge)
@@ -2683,7 +2683,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 08 2025**
+**Wednesday, January 08 2025 - Wed. 01/08 – Fallout From Meta’s Content Moderation Changes**
 
   * [Meta’s fact-checking changes are just what Trump’s FCC head asked for](https://www.theverge.com/2025/1/7/24338125/meta-mark-zuckerberg-fact-checking-censorship-brendan-carr-trump) (The Verge)
   * [Social-Media Companies Decide Content Moderation Is Trending Down](https://www.wsj.com/tech/social-media-companies-decide-content-moderation-is-trending-down-25380d25?st=jGXPaD&reflink=desktopwebshare_permalink) (WSJ)
@@ -2700,7 +2700,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 07 2025**
+**Tuesday, January 07 2025 - Tue. 01/07 – Nvidia Still Takes CES Seriously**
 
   * [US opens probe into 2.6 million Tesla vehicles over remote driving feature](https://www.reuters.com/business/autos-transportation/us-traffic-safety-regulator-opens-probe-into-about-26-mln-tesla-vehicles-2025-01-07/) (Reuters)
   * [Getty Images and Shutterstock agree to merge](https://www.axios.com/2025/01/07/getty-images-shutterstock-merger) (Axios)
@@ -2712,7 +2712,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 06 2025**
+**Monday, January 06 2025 - Mon. 01/06 – Sam Altman Is Already Moving Past AGI**
 
   * [Reflections](https://blog.samaltman.com/reflections) (Sam Altman's Blog)
   * [Meta's AI Profiles Are Indistinguishable From Terrible Spam That Took Over Facebook](https://www.404media.co/metas-ai-profiles-are-indistinguishable-from-terrible-spam-that-took-over-facebook/) (404 Media)
@@ -2726,7 +2726,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 03 2025**
+**Friday, January 03 2025 - Fri. 01/03 – Turns Out, Siri WAS Listening To You!**
 
   * [Apple to pay $95 million to settle Siri privacy lawsuit](https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/) (Reuters)
   * [Apple Fitness Plus and Strava are collaborating with a new integration](https://www.theverge.com/2025/1/3/24324466/apple-fitness-plus-strava-integration) (The Verge)

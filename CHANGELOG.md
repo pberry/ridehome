@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-01-09
+
+### Fixed
+- **Episode titles restored in generated markdown files** - CMS v2.0.0 broke episode title display
+  - **Problem:** Generated showlinks files showed only dates: `**Wednesday, January 07 2026**`
+  - **Expected:** Date with episode title: `**Wednesday, January 07 2026 - CES Day 3**`
+  - **Root cause:** Database schema had no `episode_title` column, so generators couldn't access episode titles
+  - **Solution:**
+    1. Added `episode_title TEXT` column to database schema (`db_schema.py`)
+    2. Created migration script (`add_episode_title_column.py`) to backfill 13,819 existing links from RSS feed
+    3. Updated extraction pipeline (`extract.py`) to capture episode titles from RSS `post.title` field
+    4. Updated database writer (`db_writer.py`) to store episode_title in INSERT statements
+    5. Updated year page generator (`generate_year_pages.py`) to include episode titles in showlinks headers
+  - **Behavior:** Episode titles displayed for showlinks, NOT displayed for longreads (preserves existing format)
+  - **Data coverage:** 13,819 of 13,851 links backfilled (32 older episodes not in current RSS feed)
+  - Affects: `db_schema.py`, `add_episode_title_column.py` (new), `extract.py`, `db_writer.py`, `generate_year_pages.py`
+
 ## [2.0.0] - 2026-01-08
 
 ### Changed

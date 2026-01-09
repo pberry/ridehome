@@ -23,6 +23,7 @@ PAGE_CONFIGS = {
         'deprecation_notice': "_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._",
         'header_spacing': '\n\n',  # Double newline after date header
         'frontmatter': None,
+        'include_episode_title': True,  # Show episode titles for showlinks
     },
     'longreads': {
         'output_prefix': 'longreads',
@@ -31,6 +32,7 @@ PAGE_CONFIGS = {
         'deprecation_notice': None,
         'header_spacing': '\n',  # Single newline after date header
         'frontmatter': '---\ntitle: Weekend Longreads {year}\n---\n',
+        'include_episode_title': False,  # No episode titles for longreads
     }
 }
 
@@ -67,13 +69,13 @@ def get_links_for_year(db_path, year, link_type):
     Query all links for a given year and type.
 
     Returns:
-        list of dicts with keys: date, title, url, source
+        list of dicts with keys: date, title, url, source, episode_title
     """
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
     cursor.execute("""
-        SELECT date, title, url, source
+        SELECT date, title, url, source, episode_title
         FROM links
         WHERE link_type = ?
           AND strftime('%Y', date) = ?
@@ -86,26 +88,34 @@ def get_links_for_year(db_path, year, link_type):
             'date': row[0],
             'title': row[1],
             'url': row[2],
-            'source': row[3]
+            'source': row[3],
+            'episode_title': row[4]
         })
 
     conn.close()
     return links
 
 
-def format_date_header(date_str, year):
+def format_date_header(date_str, year, episode_title=None, include_episode_title=False):
     """
-    Format date header from ISO date string.
+    Format date header from ISO date string with optional episode title.
 
     Args:
         date_str: ISO format date string (YYYY-MM-DD)
         year: Year to include in output
+        episode_title: Optional episode title to append
+        include_episode_title: If True, include episode title in header
 
     Returns:
-        str: Formatted header like "**Monday, January 06 2026**"
+        str: Formatted header like "**Monday, January 06 2026 - Episode Title**"
     """
     dt = datetime.fromisoformat(date_str)
-    return f"**{dt.strftime('%A, %B %d')} {year}**"
+    header = f"**{dt.strftime('%A, %B %d')} {year}**"
+
+    if include_episode_title and episode_title:
+        header = f"**{dt.strftime('%A, %B %d')} {year} - {episode_title}**"
+
+    return header
 
 
 def group_links_by_date(links):
@@ -162,8 +172,16 @@ def generate_markdown_content(year, link_type, links, config):
     for date in sorted_dates:
         date_links = grouped[date]
 
+        # Get episode title from first link (all links from same date share episode_title)
+        episode_title = date_links[0].get('episode_title') if date_links else None
+
         # Date header
-        header = format_date_header(date, year)
+        header = format_date_header(
+            date,
+            year,
+            episode_title=episode_title,
+            include_episode_title=config.get('include_episode_title', False)
+        )
         parts.append(header)
         parts.append(config['header_spacing'].rstrip())  # Remove trailing newlines (we'll add them consistently)
 

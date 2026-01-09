@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Thursday, December 29 2022**
+**Thursday, December 29 2022 - Thu. 12/29 – Someone Tell Zuck About This ABBA Avatar Concert**
 
   * [Alameda Research wallets swap several crypto tokens for bitcoin](https://www.theblock.co/post/198193/alameda-research-wallets-swap-several-crypto-tokens-for-bitcoin) (The Block)
   * [U.S. charges fraud in Mango crypto manipulation case](https://www.reuters.com/legal/us-charges-accused-mango-crypto-manipulator-with-fraud-2022-12-27/) (Reuters)
@@ -15,7 +15,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 27 2022**
+**Tuesday, December 27 2022 - Tue. 12/27 – Is The Sun Setting On SOL?**
 
   * [Solana’s Top NFT Projects DeGods and Y00ts to Migrate Chains](https://www.coindesk.com/web3/2022/12/26/solanas-top-nft-projects-degods-and-y00ts-to-migrate-chains/) (CoinDesk)
   * [Apple’s business under growing threat from China’s Covid wave](https://www.ft.com/content/ae7ab334-e769-4035-bab1-b1f42031723e) (Financial Times)
@@ -25,7 +25,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 22 2022**
+**Thursday, December 22 2022 - Thu. 12/22 – Caroline Drops A Dime**
 
   * [Two Bankman-Fried colleagues plead guilty to fraud](https://www.washingtonpost.com/business/2022/12/21/caroline-ellison-fraud-charges/) (Washington Post)
   * [Twitter adds BTC and ETH price indexes to search function](https://cointelegraph.com/news/twitter-quietly-adds-btc-and-eth-price-indexes-to-search-function) (CoinTelegraph)
@@ -35,7 +35,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 21 2022**
+**Wednesday, December 21 2022 - Wed. 12/21 – YouTube Sunday Ticket?**
 
   * [Google’s YouTube in Talks for Rights to NFL Sunday Ticket](https://www.wsj.com/articles/nfl-in-advanced-talks-with-googles-youtube-for-sunday-ticket-rights-deal-11671579236?mod=djemalertNEWS) (WSJ)
   * [Anker’s Eufy breaks its silence on security cam security](https://www.theverge.com/2022/12/20/23519772/anker-eufy-security-camera-statement-december-19-2022) (The Verge)
@@ -46,7 +46,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 20 2022**
+**Tuesday, December 20 2022 - Tue. 12/20 – An Old Crypto Mystery Resurfaces**
 
   * [Amazon Agrees to Settle EU Antitrust Cases, Avoiding Fines](https://www.wsj.com/articles/amazon-agrees-to-settle-eu-antitrust-cases-avoiding-fines-11671538014?mod=djemalertNEWS) (WSJ)
   * [Bitcoin Addresses Tied to Defunct Canadian Crypto Exchange QuadrigaCX Wake Up](https://www.coindesk.com/policy/2022/12/19/bitcoin-addresses-tied-to-defunct-canadian-crypto-exchange-quadrigacx-wake-up/) (CoinDesk)
@@ -60,7 +60,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 19 2022**
+**Monday, December 19 2022 - Mon. 12/19 – Elon’s Voted Himself Off The Twitter Island?**
 
   * [Twitter abruptly bans all links to Instagram, Mastodon, and other competitors](https://www.theverge.com/2022/12/18/23515221/twitter-bans-links-instagram-mastodon-competitors) (The Verge)
   * [Google is letting businesses try out client-side encryption for Gmail](https://www.theverge.com/2022/12/16/23513243/google-gmail-client-side-encryption-beta-enterprise) (The Verge)
@@ -71,7 +71,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 16 2022**
+**Friday, December 16 2022 - Fri. 12/16 – I Lied. More Twitter News Today.**
 
   * [Twitter suspends Mastodon’s account and bans links to Mastodon servers](https://techcrunch.com/2022/12/15/elon-musk-suspends-mastodon-twitter-account-over-elonjet-tracking/) (TechCrunch)
   * [Twitter suspends journalists who have been covering Elon Musk and the company](https://www.nbcnews.com/tech/social-media/twitter-suspends-journalists-covering-elon-musk-company-rcna62032) (NBCNews)
@@ -80,7 +80,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 15 2022**
+**Thursday, December 15 2022 - Thu. 12/15 – This Again?**
 
   * [Twitter Suspends the Accounts Tracking Musk’s Jet and The Man Behind It](https://www.bloomberg.com/news/articles/2022-12-14/twitter-suspends-account-that-tracked-elon-musk-s-private-jet?sref=Szq5ylDR) (Bloomberg)
   * [Twitter Suspends Over 25 Accounts That Track Billionaires’ Private Planes](https://www.nytimes.com/2022/12/14/technology/twitter-private-jet-accounts-suspended.html) (NYTimes)
@@ -94,7 +94,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 14 2022**
+**Wednesday, December 14 2022 - Wed. 12/14 – Apple To Allow Third-Party App Stores**
 
   * [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe?sref=Szq5ylDR) (Bloomberg)
   * [Tesla’s latest update adds Steam games and Apple Music](https://www.theverge.com/2022/12/13/23508269/tesla-holiday-update-steam-apple-music-support-light-show-mode) (The Verge)
@@ -106,7 +106,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 13 2022**
+**Tuesday, December 13 2022 - Tue. 12/13 – SBF Arrested And Charged**
 
   * [Federal prosecutors, SEC unveil charges against Sam Bankman-Fried](https://www.washingtonpost.com/technology/2022/12/13/sam-bankman-fried-ftx-hearing-bahamas-live/) (Washington Post)
   * [FTX founder Sam Bankman-Fried arrested in the Bahamas after U.S. files criminal charges](https://www.cnbc.com/2022/12/12/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas-after-us-files-criminal-charges.html) (CNBC)
@@ -119,7 +119,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 12 2022**
+**Monday, December 12 2022 - Mon. 12/12 – The New Xiaomi 13 Flagships**
 
   * [The Xiaomi 13 series launches as true Qualcomm Snapdragon 8 Gen 2 darling](https://www.androidpolice.com/xiaomi-13-pro-series-launch/) (Android Police)
   * [Binance Is Trying to Calm Investors, but Its Finances Remain a Mystery](https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351?mod=djemalertNEWS) (WSJ)
@@ -132,7 +132,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 09 2022**
+**Friday, December 09 2022 - Fri. 10/09 – FTC Sues To Block The Microsoft/Activision Deal**
 
   * [Twin complaints signal new FTC strategy to rein in tech industry](https://www.washingtonpost.com/technology/2022/12/08/ftc-sues-microsoft-over-activision/) (Washington Post)
   * [FTX founder Sam Bankman-Fried agrees to testify at U.S. House hearing on Tuesday](https://www.cnbc.com/2022/12/09/sam-bankman-fried-agrees-to-testify-before-house.html) (CNBC)
@@ -140,7 +140,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 08 2022**
+**Thursday, December 08 2022 - Thu. 12/08 – Explaining Those Lensa Magic Avatars**
 
   * [Apple Plans New Encryption System to Ward Off Hackers and Protect iCloud Data](https://www.wsj.com/articles/apple-plans-new-encryption-system-to-ward-off-hackers-and-protect-icloud-data-11670435635?mod=djemalertNEWS) (WSJ)
   * [@matthew_d_green's twitter thread on Apple's new encryption push](https://twitter.com/matthew_d_green/status/1600567604015497216)
@@ -152,7 +152,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 07 2022**
+**Wednesday, December 07 2022 - Wed. 12/07 – SBF Tried To Give Taylor Swift $100M? (She Said No)**
 
   * [Microsoft says it will bring Call of Duty to Nintendo](https://www.washingtonpost.com/video-games/2022/12/06/call-duty-nintendo-microsoft-sony-xbox/) (Washington Post)
   * [FTX held talks with Taylor Swift over $100mn sponsorship deal](https://www.ft.com/content/2b0601e2-d371-404d-8531-227f11d4a83f) (FT)
@@ -165,7 +165,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 06 2022**
+**Tuesday, December 06 2022 - Tue. 12/06 – Is Elon’s Neuralink Cruel To Animals?**
 
   * [Elon Musk’s Neuralink is reportedly facing a federal probe on animal welfare grounds](https://www.theverge.com/2022/12/6/23496043/neuralink-animal-welfare-federal-probe-department-of-agriculture) (The Verge)
   * [Exclusive: Musk’s Neuralink faces federal probe, employee backlash over animal tests](https://www.reuters.com/technology/musks-neuralink-faces-federal-probe-employee-backlash-over-animal-tests-2022-12-05/) (Reuters)
@@ -178,7 +178,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 05 2022**
+**Monday, December 05 2022 - Mon. 12/05 – Stack Overflow Bans ChatGPT**
 
   * [Kuo: Apple Headset Shipments Potentially Delayed Until Second Half of 2023](https://www.macrumors.com/2022/12/04/kuo-apple-headset-2h23-mass-shipments/) (MacRumors)
   * [Foxconn sees COVID-hit China plant back at full output in late Dec-early Jan -source](https://www.reuters.com/world/china/foxconn-expects-full-production-covid-hit-china-plant-late-december-early-2022-12-05/) (Reuters)
@@ -189,7 +189,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 02 2022**
+**Friday, December 02 2022 - Fri. 12/02 – Will 2023 Be The Year Of The Headset Wars?**
 
   * [Apple Renames Mixed-Reality Software ‘xrOS’ in Sign Headset Is Approaching](https://www.bloomberg.com/news/articles/2022-12-01/apple-mixed-reality-headset-rivaling-meta-set-to-run-xros-operating-system?sref=Szq5ylDR) (Bloomberg)
   * [Kanye West isn’t buying Parler after all](https://techcrunch.com/2022/12/01/kanye-west-isnt-buying-parler-after-all/) (TechCrunch)
@@ -201,7 +201,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 01 2022**
+**Thursday, December 01 2022 - Thu. 12/01 – Elon And Apple Bury The Hatchet?**
 
   * [FTX Missing Billions Remain Mystery After Bankman-Fried Grilling](https://www.bloomberg.com/news/articles/2022-11-30/bankman-fried-denies-trying-to-commit-fraud-at-fallen-ftx-empire?sref=Szq5ylDR) (Bloomberg)
   * [Musk at Twitter has 'huge work' ahead to comply with EU rules, warns bloc](https://techcrunch.com/2022/11/30/elon-musk-twitter-eu-dsa-warning/) (TechCrunch)
@@ -212,7 +212,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 30 2022**
+**Wednesday, November 30 2022 - Wed. 11/30 – Am I On Your Spotify Wrapped This Year?**
 
   * [China’s Zhengzhou, home to world’s largest iPhone factory, ends Covid lockdown. Other cities do the same](https://www.cnn.com/2022/11/30/tech/china-apple-foxconn-zhengzhou-lifts-lockdown-hnk-intl/) (CNN Business)
   * [India Becomes Biggest Smartwatch Market in Q3 2022](https://www.counterpointresearch.com/india-becomes-biggest-smartwatch-market-q3-2022/) (Counterpoint)
@@ -224,7 +224,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 29 2022**
+**Tuesday, November 29 2022 - Tue. 11/29 – Is Elon Going To War With Apple?**
 
   * [Elon Musk Claims Apple Has 'Mostly Stopped' Offering Ads on Twitter and Is Making Moderation Demands](https://www.macrumors.com/2022/11/28/elon-musk-apple-stopped-twitter-ads/) (MacRumors)
   * [Why some tech CEOs are rooting for Musk](https://www.platformer.news/p/why-some-tech-ceos-are-rooting-for) (Platformer)
@@ -236,7 +236,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 28 2022**
+**Monday, November 28 2022 - Mon. 11/28 – The China Protests**
 
   * [Twitter grapples with Chinese spam obscuring news of protests](https://www.washingtonpost.com/technology/2022/11/27/twitter-china-spam-protests/) (Washington Post)
   * [US Bans Huawei, ZTE Telecom Equipment on Data-Security Risk](https://www.bloomberg.com/news/articles/2022-11-25/fcc-bans-huawei-zte-telecom-equipment-from-sale-in-us-lawwfpb3?sref=Szq5ylDR) (Bloomberg)
@@ -248,7 +248,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 23 2022**
+**Wednesday, November 23 2022 - Wed. 11/23 – Foxconn Riots?**
 
   * [Violent Protests Erupt at Apple’s Main iPhone Plant in China](https://www.bloomberg.com/news/articles/2022-11-23/violent-protests-erupt-at-apple-s-biggest-iphone-plant-in-china?sref=Szq5ylDR) (Bloomberg)
   * [Windows Subsystem for Linux generally available via Microsoft Store](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-generally-available-via-microsoft-store/) (BleepingComputer)
@@ -257,7 +257,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 22 2022**
+**Tuesday, November 22 2022 - Tue. 11/22 – The Alexa Deathwatch Is Real**
 
   * [Crypto Brokerage Genesis Is Said to Warn of Bankruptcy Without Funding](https://www.bloomberg.com/news/articles/2022-11-21/crypto-firm-genesis-warns-of-possible-bankruptcy-without-funding?sref=Szq5ylDR) (Bloomberg)
   * [Hedge funds left with billions stranded on FTX](https://www.ft.com/content/125630d9-a967-439f-bc23-efec0b4cdeca) (FT)
@@ -268,7 +268,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 21 2022**
+**Monday, November 21 2022 - Mon. 11/21 – More Crypto Trouble?**
 
   * [Grayscale won’t share proof of reserves, citing ‘security concerns’](https://www.theblock.co/post/188606/grayscale-wont-share-proof-of-reserves-citing-security-concerns) (The Block)
   * [Grayscale refuses to share proof of reserves due to ‘security concerns’ as shares trade at a 45% discount to bitcoin](https://www.cnbc.com/2022/11/21/grayscale-wont-share-proof-of-reserves-due-to-security-concerns.html) (CNBC)
@@ -280,7 +280,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 18 2022**
+**Friday, November 18 2022 - Fri. 11/18 – Twitter: Not Dead At The Time Of This Posting**
 
   * [Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter](https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline) (The Verge)
   * [Tweet thread on why @peterclowes left Twitter](https://twitter.com/peterclowes/status/1593458225533313025)
@@ -289,7 +289,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 17 2022**
+**Thursday, November 17 2022 - Thu. 11/17 – A Deepfake Detector**
 
   * [New FTX Boss Condemns Management of the Crypto Exchange During Sam Bankman-Fried's Tenure](https://www.coindesk.com/business/2022/11/17/new-ftx-boss-condemns-management-of-the-crypto-exchange-during-sam-bankman-frieds-tenure/) (CoinDesk)
   * [Built-in Discord voice chat is now rolling out to all Xbox users](https://www.engadget.com/xbox-november-update-discord-twitch-181425153.html) (Engadget)
@@ -302,7 +302,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 16 2022**
+**Wednesday, November 16 2022 - Wed. 11/16 – The Tesla Of Home Appliances**
 
   * [Qualcomm’s Snapdragon 8 Gen 2 gives us a glimpse of 2023’s Android flagships](https://www.theverge.com/2022/11/15/23458241/qualcomm-snapdragon-8-gen-2-chipset-processor-x70-5g-dynamic-spatial-audio) (The Verge)
   * [DuckDuckGo’s App Tracking Protection beta is now available to all Android users](https://www.theverge.com/2022/11/16/23462053/duckduckgo-app-tracking-tool-beta-android-users) (The Verge)
@@ -313,7 +313,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 15 2022**
+**Tuesday, November 15 2022 - Tue. 11/15 – “An Excel File Full Of The Howling Of Ghosts”**
 
   * [Musk Publicly Punishes Twitter Engineers Who Call Him Out Online](https://www.bloomberg.com/news/articles/2022-11-14/musk-publicly-punishes-twitter-engineers-who-call-him-out-online?sref=Szq5ylDR) (Bloomberg)
   * [Is Elon Musk’s Twitter about to fall out of the GDPR’s one-stop shop?](https://techcrunch.com/2022/11/14/is-elon-musks-twitter-about-to-fall-out-of-the-gdprs-one-stop-shop/) (TechCrunch)
@@ -325,7 +325,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 14 2022**
+**Monday, November 14 2022 - Mon. 11/14 – Paging Jonah Hill For The SBF Movie**
 
   * [Twitter reportedly cut thousands of contractors without warning](https://www.theverge.com/2022/11/13/23456554/twitter-reportedly-cut-thousands-contractors-without-warning-layoffs-elon-musk) (The Verge)
   * [SpaceX just bought a big ad campaign on Twitter for Starlink](https://www.cnbc.com/2022/11/14/spacex-just-bought-a-big-ad-campaign-on-twitter-for-starlink.html) (CNBC)
@@ -336,7 +336,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 11 2022**
+**Friday, November 11 2022 - Fri. 11/11 – A Summary Of This Crazy Week**
 
   * [Sam Bankman-Fried steps down as FTX CEO as his crypto exchange files for bankruptcy](https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html) (CNBC)
   * [FTX US Warns of Trading Halt Hours After Bankman-Fried Says It's '100% Liquid'](https://www.coindesk.com/business/2022/11/10/ftx-us-warns-of-trading-halt-hours-after-bankman-fried-says-its-100-liquid/) (CoinDesk)
@@ -345,7 +345,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 10 2022**
+**Thursday, November 10 2022 - Thu. 11/10 – Binance Lets FTX Dangle**
 
   * [Binance Walks Away From Deal to Rescue FTX](https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=djemalertNEWS) (WSJ)
   * [SBF Tweet Storm This Morning](https://twitter.com/sbf_ftx/status/1590709166515310593)
@@ -357,7 +357,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 09 2022**
+**Wednesday, November 09 2022 - Wed. 11/09 – CZ & SBF Make FTX Go Boom?**
 
   * [Meta confirms 11,000 layoffs, amounting to 13% of its workforce](https://techcrunch.com/2022/11/09/meta-confirms-11000-layoffs-amounting-to-13-of-its-workforce/) (TechCrunch)
   * [TikTok slashes global revenue targets by at least $2bn](https://www.ft.com/content/c4ce8f13-bec0-4cde-a885-7857f0bbb733) (Financial Times)
@@ -369,7 +369,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 08 2022**
+**Tuesday, November 08 2022 - Tue. 11/08 – FTX: You Ok, Bro?**
 
   * [Binance to Sell Rest of FTX Token Holdings as Alameda CEO Defends Firm's Financial Condition](https://www.coindesk.com/business/2022/11/06/binance-sells-holdings-of-ftx-token-as-alameda-ceo-defends-firms-financial-condition/) (CoinDesk)
   * [Musk discusses putting all of Twitter behind a paywall](https://www.platformer.news/p/musk-discusses-putting-all-of-twitter) (Platformer)
@@ -379,7 +379,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 07 2022**
+**Monday, November 07 2022 - Mon. 11/07 – Meta Layoffs Incoming?**
 
   * [Facebook Parent Meta Is Preparing to Notify Employees of Large-Scale Layoffs This Week](https://www.wsj.com/articles/meta-is-preparing-to-notify-employees-of-large-scale-layoffs-this-week-11667767794?mod=djemalertNEWS) (WSJ)
   * [Apple Issues iPhone 14 Pro Shipment Warning Ahead of Holiday Shopping Season](https://www.macrumors.com/2022/11/06/apple-warns-of-lower-iphone-14-pro-shipments/) (MacRumors)
@@ -389,7 +389,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 04 2022**
+**Friday, November 04 2022 - Fri. 11/04 – The Twitter Layoffs**
 
   * [Elon Musk’s Twitter layoffs are starting](https://www.theverge.com/2022/11/3/23439802/elon-musks-twitter-layoffs-start-friday-november-4) (The Verge)
   * [Substack targets Twitter with launch of discussions feature, Substack Chat](https://techcrunch.com/2022/11/03/substack-targets-twitter-with-launch-of-discussions-feature-substack-chat/) (TechCrunch)
@@ -399,7 +399,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 03 2022**
+**Thursday, November 03 2022 - Thu. 11/03 – How About Some Non-Twitter News?**
 
   * [TikTok tells European users its staff in China get access to their data](https://www.theguardian.com/technology/2022/nov/02/tiktok-tells-european-users-its-staff-in-china-get-access-to-their-data) (The Guardian)
   * [WhatsApp officially launches its new discussion group feature, Communities](https://techcrunch.com/2022/11/03/whatsapp-officially-launches-its-new-discussion-group-feature-communities/) (TechCrunch)
@@ -412,7 +412,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 02 2022**
+**Wednesday, November 02 2022 - Wed. 11/02 – PlayStation VR2 Deets Revealed**
 
   * [PlayStation VR2 launches on February 22nd for $549.99](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games) (The Verge)
   * [Elon Musk to charge verified Twitter users to give ‘power to the people’](https://www.siliconrepublic.com/business/elon-musk-twitter-verified-blue-tick-subscription-advertising) (SiliconRepublic)
@@ -424,7 +424,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 01 2022**
+**Tuesday, November 01 2022 - Tue. 11/01 – Twilight Of The Blue-Checks?**
 
   * [Scoop: Musk team working to reboot Vine this year](https://www.axios.com/2022/10/31/vine-tiktok-twitter-musk-team-reboot) (Axios)
   * [Jack Dorsey just saved Elon Musk about $1 billion by rolling over his shares of Twitter into a stake in the new private company](https://www.businessinsider.com/jack-dorsey-saves-elon-musk-1billion-rolling-over-twitter-shares-2022-10?op=1) (Insider)
@@ -435,7 +435,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 31 2022**
+**Monday, October 31 2022 - Mon. 10/31 – Would You Pay $20/Month For Twitter Blue?**
 
   * [Elon Musk wastes no time changing Twitter](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes) (The Verge)
   * [Twitter is planning to start charging $20 per month for verification](https://www.theverge.com/2022/10/30/23431931/twitter-paid-verification-elon-musk-blue-monthly-subscription) (The Verge)
@@ -446,7 +446,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 28 2022**
+**Friday, October 28 2022 - Fri. 10/28 – It Actually Happened**
 
   * [How Twitter Will Change as a Private Company](https://www.nytimes.com/2022/10/28/technology/twitter-changes.html) (NYTimes)
   * [Amazon stock sinks 13% on weak fourth-quarter guidance](https://www.cnbc.com/2022/10/27/amazon-amzn-earnings-q3-2022.html) (CNBC)
@@ -455,7 +455,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 27 2022**
+**Thursday, October 27 2022 - Thu. 10/27 – Meta (Insert Bomb Emoji Here)**
 
   * [Meta Tumbles as Sales Forecast Shows Depth of Ad-Market Weakness](https://www.bloomberg.com/news/articles/2022-10-26/meta-gives-tepid-revenue-forecast-as-ad-weakness-persists?sref=Szq5ylDR) (Bloomberg)
   * [Meta Plummets 25% as Zuckerberg’s Plea for ‘Patience’ Falls Flat](https://www.bloomberg.com/news/articles/2022-10-26/meta-s-zuckerberg-asks-for-patience-as-costs-spook-investors?sref=Szq5ylDR) (Bloomberg)
@@ -469,7 +469,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 26 2022**
+**Wednesday, October 26 2022 - Wed. 10/26 – Meta Calls Apple On Its "Rentier Capitalism"**
 
   * [Apple’s new App Store tax on ads is a direct shot at Meta](https://www.theverge.com/2022/10/25/23423637/apple-app-store-tax-boosted-social-media-posts?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Spotify says Apple is ‘choking competition’ and ruining its audiobook store](https://www.theverge.com/2022/10/25/23423384/spotify-apple-competitive-behavior-antitrust-commission-audiobooks?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -484,7 +484,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 25 2022**
+**Tuesday, October 25 2022 - Tue. 10/25 – “Extractive Rentier Capitalists”**
 
   * [App Store guidelines updated with new rules for apps with NFT and ad managers](https://9to5mac.com/2022/10/24/app-store-guidelines-updated-nft-ad-managers/) (9to5Mac)
   * [Apple is raising the price of Apple Music, Apple TV+ and Apple One from today](https://9to5mac.com/2022/10/24/apple-music-tv-prices-going-up/) (9to5Mac)
@@ -497,7 +497,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 24 2022**
+**Monday, October 24 2022 - Mon. 10/24 – Investing In Chinese Tech Means Investing One Man’s Whims?**
 
   * [China Stocks Crater in US as Alibaba Leads $130 Billion Wipeout](https://www.bloomberg.com/news/articles/2022-10-24/alibaba-jd-com-tumble-in-us-as-xi-asserts-full-control-in-china?sref=Szq5ylDR) (Bloomberg)
   * [TSMC: the Taiwanese chipmaker caught up in the tech cold war](https://www.ft.com/content/bae9756a-3bce-4595-b6c9-8082fd735aa0) (Financial Times)
@@ -508,7 +508,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 21 2022**
+**Friday, October 21 2022 - Fri. 10/21 – What If Uncle Sam Let’s Elon Off The Hook?**
 
   * [Documents detail plans to gut Twitter’s workforce](https://www.washingtonpost.com/technology/2022/10/20/musk-twitter-acquisition-staff-cuts/) (Washington Post)
   * [Twitter Tumbles as US Weighs Security Reviews for Musk Deals](https://www.bloomberg.com/news/articles/2022-10-21/us-weighs-security-reviews-for-musk-deals-including-twitter-buy?sref=Szq5ylDR) (Bloomberg)
@@ -518,7 +518,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 20 2022**
+**Thursday, October 20 2022 - Thu. 10/20 – A Day Of Reviews**
 
   * [Aptos Token Plummets 40% After APT Airdrop for 'Early Network Participants'](https://decrypt.co/112368/aptos-token-plummetsapt-airdrop-early-network-participants) (Decrypt)
   * [Android 13 (Go edition) announced with Material You, Google Play System Updates, and more](https://9to5google.com/2022/10/19/android-13-go-edition/) (9to5Google)
@@ -529,7 +529,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 19 2022**
+**Wednesday, October 19 2022 - Wed. 10/19 – What Even IS Apple’s iPad Strategy?**
 
   * [Netflix adds more than 2.4 million subscribers, reveals details about password-sharing crackdown](https://www.cnbc.com/2022/10/18/netflix-nflx-earnings-q3-2022.html) (CNBC)
   * [The New Netflix Age Has Arrived](https://puck.news/the-new-netflix-age-has-arrived/?_cio_id=f6c6060685df01a6dd0c&utm_campaign=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_content=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_medium=email_action&utm_source=customer.io) (Puck/Julia Alexander)
@@ -539,7 +539,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 18 2022**
+**Tuesday, October 18 2022 - Tue. 10/18 – It’s AI Vs. The Metaverse, And AI Seems To Be Winning**
 
   * [Apple introduces next-generation iPad Pro, supercharged by the M2 chip](https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/) (Apple Newsroom)
   * [Apple announces new 11-inch and 12.9-inch iPad Pro with M2 chip, Apple Pencil hover feature](https://9to5mac.com/2022/10/18/apple-new-m2-ipad-pro/) (9to5Mac)
@@ -552,7 +552,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 17 2022**
+**Monday, October 17 2022 - Mon. 10/17 – Kanye To Elon: Hold My Beer**
 
   * [Kanye West is buying ‘free speech platform’ Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Kanye West to buy social media app Parler](https://www.reuters.com/technology/parler-be-acquired-by-kanye-west-2022-10-17/?taid=634d380f3457710001cffa1c&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter) (The Verge)
@@ -564,7 +564,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 14 2022**
+**Friday, October 14 2022 - Fri. 10/14 – Meta Lied About Legs?**
 
   * [Netflix’s ad tier will cost $6.99 a month and launch in November](https://www.theverge.com/2022/10/13/23402725/netflix-basic-with-ads?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Meta Avatar Legs Demo ‘Created By Motion Capture’, Not Live VR](https://uploadvr.com/meta-avatar-legs-connect/) (UploadVR)
@@ -573,7 +573,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 13 2022**
+**Thursday, October 13 2022 - Thu. 10/13 – The End Of The Office Era**
 
   * [Signal will remove support for SMS text messages on Android](https://www.bleepingcomputer.com/news/technology/signal-will-remove-support-for-sms-text-messages-on-android/) (BleepingComputer)
   * [Microsoft Office will become Microsoft 365 in major brand overhaul](https://www.theverge.com/2022/10/13/23402155/microsoft-office-microsoft-365-rename-branding-changes?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -584,7 +584,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 12 2022**
+**Wednesday, October 12 2022 - Wed. 10/12 – Meta’s VR Event; Microsoft’s Surface Event**
 
   * [The Meta Quest Pro costs $1,499 and ships October 25th](https://www.theverge.com/2022/10/11/23397328/meta-quest-pro-vr-headset-price-release-shipping?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [What happened to the virtual reality gaming revolution?](https://arstechnica.com/gaming/2022/10/what-happened-to-the-virtual-reality-gaming-revolution/) (Ars Technica)
@@ -598,7 +598,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 11 2022**
+**Tuesday, October 11 2022 - Tue. 10/11 – Odds And Sods**
 
   * [America’s Oldest Bank, BNY Mellon, Will Hold That Crypto Now](https://www.wsj.com/articles/americas-oldest-bank-bny-mellon-will-hold-that-crypto-now-11665460354?mod=djemalertNEWS) (WSJ)
   * [Google selects Coinbase to take cloud payments with cryptocurrencies and will use its custody tool](https://www.cnbc.com/2022/10/11/google-selects-coinbase-to-take-cloud-payments-with-cryptocurrencies.html) (CNBC)
@@ -611,7 +611,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 07 2022**
+**Friday, October 07 2022 - Fri. 10/07 – What Is It With These Dang Bridges?**
 
   * [Binance-linked blockchain hit by $570 million crypto hack](https://www.reuters.com/technology/hackers-steal-around-100-million-cryptocurrency-binance-linked-blockchain-2022-10-07/) (Reuters)
   * [The Elon Musk vs. Twitter trial is on hold until October 28th](https://www.theverge.com/2022/10/6/23391749/elon-musk-twitter-trial-stay-close-deal-judge-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -621,7 +621,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 06 2022**
+**Thursday, October 06 2022 - Thu. 10/06 – The Made By Google Event**
 
   * [Google unveils Pixel 7 Pro with Tensor G2 processor, 5x telephoto, starts at $899](https://9to5google.com/2022/10/06/google-announces-pixel-7-pro-specs/) (9to5Google)
   * [Google gets serious about wearables with the Pixel Watch](https://techcrunch.com/2022/10/06/google-gets-serious-about-wearables-with-the-pixel-watch/?tpcc=tcplustwitter) (TechCrunch)
@@ -632,7 +632,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 05 2022**
+**Wednesday, October 05 2022 - Wed. 10/05 – Elon Wants Twitter Now. We Think. Who KNOWS ANYMORE!!??**
 
   * [Musk Revives $44 Billion Twitter Bid, Aiming to Avoid Trial](https://www.bloomberg.com/news/articles/2022-10-04/musk-proposes-to-proceed-with-twitter-deal-at-54-20-a-share?sref=Szq5ylDR) (Bloomberg)
   * [Elon Musk says Twitter will eventually be part of ‘X, the everything app’](https://www.marketwatch.com/story/elon-musk-says-twitter-will-eventually-be-part-of-x-the-everything-app-11664926184?mod=mw_latestnews) (MarketWatch)
@@ -644,7 +644,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 04 2022**
+**Tuesday, October 04 2022 - Tue. 10/04 – The End Of Lightning**
 
   * [EU Passes Law to Switch iPhone to USB-C by End of 2024](https://www.macrumors.com/2022/10/04/eu-passes-law-to-switch-iphone-to-usb-c-in-2024/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Xiaomi’s 12T Pro launches with high-resolution 200-megapixel camera](https://www.theverge.com/2022/10/4/23386776/xiaomi-12t-pro-200-megapixel-camera-108mp-price-release-date-specs-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -655,7 +655,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 03 2022**
+**Monday, October 03 2022 - Mon. 10/03 – Kim Kardashian In Crypto Trouble**
 
   * [Kim Kardashian pays over $1 million to settle SEC charges linked to a crypto promo on her Instagram](https://www.cnbc.com/2022/10/03/kim-kardashian-settles-sec-charges-instagram-crypto-promotion.html) (CNBC)
   * [Celsius Network founder withdrew $10mn ahead of bankruptcy](https://www.ft.com/content/5f7c9eab-ca5f-4425-91be-5781313c9723) (FT)
@@ -666,7 +666,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 30 2022**
+**Friday, September 30 2022 - Fri. 09/30 – Google Shutters Stadia**
 
   * [Google is shutting down Stadia](https://www.theverge.com/2022/9/29/23378713/google-stadia-shutting-down-game-streaming-january-2023?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Meta to Cut Headcount for First Time, Slash Budgets Across Teams](https://www.bloomberg.com/news/articles/2022-09-29/meta-announces-hiring-freeze-warns-employees-of-restructuring?sref=Szq5ylDR) (Bloomberg)
@@ -677,7 +677,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 29 2022**
+**Thursday, September 29 2022 - Thu. 09/29 – A Kindle You Can Write On**
 
   * [The OG App promised an ad-free Instagram feed then got pulled from App Store](https://techcrunch.com/2022/09/27/og-app-promises-you-an-ad-free-instagram-feed/) (TechCrunch)
   * [The 11 biggest announcements at Amazon’s hardware launch event](https://www.theverge.com/2022/9/28/23376481/amazon-echo-event-products-top-announcements-kindle-scribe-fire-tv-halo-alexa) (The Verge)
@@ -688,7 +688,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 28 2022**
+**Wednesday, September 28 2022 - Wed. 09/28 – iPhone Recession Warning Signal?**
 
   * [Apple Ditches iPhone Production Increase After Demand Falters](https://www.bloomberg.com/news/articles/2022-09-28/apple-iphone-14-sales-not-strong-enough-to-trigger-production-boost?sref=Szq5ylDR) (Bloomberg)
   * [The latest iPadOS 16 beta brings Stage Manager to older iPad Pro models](https://www.engadget.com/apple-ipad-os-16-stage-manager-for-older-i-pads-171218520.html) (Engadget)
@@ -701,7 +701,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 27 2022**
+**Tuesday, September 27 2022 - Tue. 09/27 – The First Meaningful AR Product To Hit These Shores?**
 
   * [Crypto Exchange FTX Wins Bankrupt Firm Voyager’s Assets](https://www.bloomberg.com/news/articles/2022-09-27/crypto-exchange-ftx-said-to-win-bankrupt-firm-voyager-s-assets?sref=Szq5ylDR) (Bloomberg)
   * [‘Smash and grab’: Meta uncovers Russia's ‘largest and most complex’ info op since the war began](https://www.protocol.com/bulletins/meta-russia-china-takedowns) (Protocol)
@@ -713,7 +713,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 26 2022**
+**Monday, September 26 2022 - Mon. 09/26 – Darth Vader’s Voice Is AI Now**
 
   * [UK Police arrests teen believed to be behind Uber, Rockstar hacks](https://www.bleepingcomputer.com/news/security/uk-police-arrests-teen-believed-to-be-behind-uber-rockstar-hacks/) (BleepingComputer)
   * [One Week with the iPhone 14 Pro Max: Apple’s Not-So-Dynamic Island](https://www.bloomberg.com/news/newsletters/2022-09-25/should-i-buy-the-iphone-14-pro-max-if-i-have-an-iphone-13-wait-until-iphone-15-l8he7uvv?sref=Szq5ylDR) (Bloomberg)
@@ -725,7 +725,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 23 2022**
+**Friday, September 23 2022 - Fri. 09/23 – Are DAO’s NOT A Liability Shield?**
 
   * [CFTC Penalizes Blockchain Protocol $250K, Files Action Against Successor DAO](https://www.coindesk.com/policy/2022/09/22/cftc-penalizes-blockchain-protocol-250k-files-action-against-successor-dao/) (CoinDesk)
   * [Apple to Sponsor the Super Bowl Halftime Show](https://www.nytimes.com/2022/09/23/technology/apple-nfl-super-bowl.html) (NYTimes)
@@ -734,7 +734,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 22 2022**
+**Thursday, September 22 2022 - Thu. 09/22 – Instagram To Crack Down On Nudes**
 
   * [2K Games says hacked help desk targeted players with malware](https://www.bleepingcomputer.com/news/security/2k-games-says-hacked-help-desk-targeted-players-with-malware/) (BleepingComputer)
   * [Instagram’s finally working on protecting users from unsolicited nude photos](https://www.theverge.com/2022/9/21/23365079/instagram-meta-cyberflashing?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -747,7 +747,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 21 2022**
+**Wednesday, September 21 2022 - Wed. 09/21 – It’s Twitch’s Day Behind The Woodshed**
 
   * [Twitch to ban Stake.com streams and other unlicensed gambling content](https://www.theverge.com/2022/9/20/23364080/twitch-gambling-ban-stake-slots-roulette-dice-games?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Child Predators Use Twitch to Systematically Track Kids Livestreaming](https://www.bloomberg.com/graphics/2022-twitch-problem-with-child-predators/?sref=Szq5ylDR) (Bloomberg)
@@ -759,7 +759,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 20 2022**
+**Tuesday, September 20 2022 - Tue. 09/20 – Actual Inflation Comes To The App Store**
 
   * [Crypto market maker Wintermute hacked for $160 million](https://www.theblock.co/post/171135/crypto-market-maker-wintermute-hacked-for-160-million) (The Block)
   * [Uber links breach to Lapsus$ group, blames contractor for hack](https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/) (BleepingComputer)
@@ -785,7 +785,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 16 2022**
+**Friday, September 16 2022 - Fri. 09/16 – Big Uber Breach**
 
   * [Uber Investigating Breach of Its Computer Systems](https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html) (NYTimes)
   * [Uber suffers computer system breach, alerts authorities](https://www.washingtonpost.com/technology/2022/09/15/uber-hack/) (Washington Post)
@@ -794,7 +794,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 15 2022**
+**Thursday, September 15 2022 - 09/15 – Adobe To Acquire Figma**
 
   * [Adobe Tumbles After Agreeing to Buy Figma for About $20 Billion](https://www.bloomberg.com/news/articles/2022-09-15/adobe-agrees-to-buy-figma-in-20-billion-software-deal?sref=Szq5ylDR) (Bloomberg)
   * [Canva moves beyond graphic design to launch a visual worksuite](https://techcrunch.com/2022/09/13/canva-moves-beyond-graphic-design-to-launch-a-visual-worksuite/) (TechCrunch)
@@ -805,7 +805,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 14 2022**
+**Wednesday, September 14 2022 - Wed. 09/14 – The iPhone 14 Reviews Are Out**
 
   * [Terra Co-Founder Do Kwon Faces Arrest Warrant in South Korea](https://www.bloomberg.com/news/articles/2022-09-14/south-korea-seeks-the-arrest-of-terraform-labs-founder-do-kwon?sref=Szq5ylDR) (Bloomberg)
   * [U.S. Treasury Department releases Tornado Cash guidance](https://www.axios.com/2022/09/13/us-treasury-department-tornado-cash-guidance) (Axios)
@@ -819,7 +819,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 13 2022**
+**Tuesday, September 13 2022 - Tue. 09/13 – Google Does Google Things**
 
   * [Google canceled its next Pixelbook and shut down the team building it](https://www.theverge.com/2022/9/12/23348999/google-pixelbook-canceled-team-shut-down?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter starts rolling out podcasts to Blue subscribers](https://www.engadget.com/twitter-space-tab-podcasts-twitter-blue-subscribers-211205990.html) (Engadget)
@@ -831,7 +831,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 12 2022**
+**Monday, September 12 2022 - Mon. 09/12 – The Whole “Oops! We Lost A Prototype” Gambit**
 
   * [‘Quest Pro’ video shows Meta’s next VR headset a month before its launch event](https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [New Linux malware combines unusual stealth with a full suite of capabilities](https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/) (ArsTechnica)
@@ -842,7 +842,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 09 2022**
+**Friday, September 09 2022 - Fri. 09/09 – White House Comes Out Against Proof-Of-Work?**
 
   * [White House report proposes possible restrictions on proof-of-work crypto mining](https://www.theblock.co/post/168621/white-house-report-proposes-possible-restrictions-on-proof-of-work-crypto-mining) (The Block)
   * [Intel Reveals Specifications For Arc Alchemist Desktop GPUs](https://www.tomshardware.com/news/intel-reveals-specifications-for-arc-alchemist-desktop-gpus) (Tom's Hardware)
@@ -851,7 +851,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 08 2022**
+**Thursday, September 08 2022 - Thu. 09/08 – Why Disney Also Had 2nd Thoughts About Buying Twitter**
 
   * [Why Disney didn’t buy Twitter](https://www.vox.com/recode/2022/9/7/23339402/bob-iger-disney-streaming-code?scrolla=5eb6d68b7fedc32c19ef33b4) (Vox)
   * [Coinbase employees and Ethereum backers sue U.S. Treasury over Tornado Cash sanctions](https://fortune.com/2022/09/08/coinbase-employees-and-ethereum-backers-sue-u-s-treasury-over-tornado-cash-sanctions/) (Fortune)
@@ -863,7 +863,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 07 2022**
+**Wednesday, September 07 2022 - Wed. 08/07 – The iPhone 14 Event**
 
   * [The iPhone 14 and 14 Plus are official with satellite-based Emergency SOS](https://www.theverge.com/2022/9/7/23320888/iphone-14-plus-specs-price-release-date-screen-notch-cameras-apple-event) (The Verge)
   * [iPhone 14 Pro and Pro Max announced with animated notches and always-on displays](https://www.theverge.com/2022/9/7/23338810/iphone-14-pro-screen-cameras-notch-specs-price-release-date-apple-event?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -876,7 +876,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 06 2022**
+**Tuesday, September 06 2022 - Tue. 09/06 – When “They” Turn Off Your Devices For You**
 
   * [Google Chrome emergency update fixes new zero-day used in attacks](https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-new-zero-day-used-in-attacks/) (BleepingComputer)
   * [Binance, Issuer of Third-Biggest Stablecoin, to Stop Supporting Larger Rival USDC](https://www.coindesk.com/business/2022/09/05/binance-to-convert-users-usdc-usdp-tusd-into-its-own-stablecoin-busd/) (CoinDesk)
@@ -887,7 +887,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 02 2022**
+**Friday, September 02 2022 - Fri. 09/02 – iPhone Takes The Market Share Crown**
 
   * [Apple overtakes Android to pass 50% share of smartphones used in US](https://www.ft.com/content/75891d95-4432-4571-83df-b4cdf82d5da5) (Financial Times)
   * [Apple settles lawsuit with developer over App Store rejections and scams](https://techcrunch.com/2022/09/01/apple-settles-lawsuit-with-developer-over-app-store-rejections-and-scams/) (TechCrunch)
@@ -897,7 +897,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 01 2022**
+**Thursday, September 01 2022 - Thu. 09/01 – Twitter Edit Button Arrives**
 
   * [Twitter starts testing an edit button, but you have to pay for it](https://www.theverge.com/2022/9/1/23332363/twitter-edit-button-blue-subscription?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Nvidia, AMD warned of new US export restrictions on AI chips](https://www.protocol.com/bulletins/nvidia-amd-ai-chips) (Protocol)
@@ -909,7 +909,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 31 2022**
+**Wednesday, August 31 2022 - Wed. 08/31 – Not Great, Snap!**
 
   * [Snap plans to lay off 20 percent of employees](https://www.theverge.com/2022/8/30/23329301/snap-layoffs-20-percent-employees-snapchat?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Xcode Cloud Subscriptions Now Available for Developers](https://www.macrumors.com/2022/08/30/xcode-cloud-subscription-developers/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -921,7 +921,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 30 2022**
+**Tuesday, August 30 2022 - Tue. 08/30 – Twitter Shelved An OnlyFans Clone**
 
   * [Elon Musk Attacks Twitter Deal Over Whistle-Blower as Feud Escalates](https://www.bloomberg.com/news/articles/2022-08-30/musk-adds-whistleblower-as-new-reason-to-cancel-twitter-deal?sref=Szq5ylDR) (Bloomberg)
   * [Musk Tries a New Way Out of Twitter](https://www.bloomberg.com/opinion/articles/2022-08-29/musk-tries-a-new-way-out-of-twitter?sref=Szq5ylDR) (Matt Levine/Bloomberg)
@@ -933,7 +933,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 29 2022**
+**Monday, August 29 2022 - Mon. 08/29 – Apple’s iGlasses To Be Called Reality One?**
 
   * [Trademark Filings Suggest Apple May Be Securing ‘Reality’ Names for AR/VR Headset](https://www.bloomberg.com/news/articles/2022-08-28/what-will-apple-call-its-ar-vr-headsets-reality-one-reality-pro-names-emerge?sref=Szq5ylDR) (Bloomberg)
   * [Apple says 95% of iCloud users already have 2FA enabled ahead of Passkeys launch](https://9to5mac.com/2022/08/27/passkeys-two-factor-apple-use/) (9to5Mac)
@@ -946,7 +946,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 26 2022**
+**Friday, August 26 2022 - Forget 5G; T-Mobile And SpaceX To Offer Zero-G Service**
 
   * [T-Mobile and SpaceX Starlink say your 5G phone will connect to satellites next year](https://www.theverge.com/2022/8/25/23320722/spacex-starlink-t-mobile-satellite-internet-mobile-messaging?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [LastPass developer systems hacked to steal source code](https://www.bleepingcomputer.com/news/security/lastpass-developer-systems-hacked-to-steal-source-code/) (BleepingComputer)
@@ -956,7 +956,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 25 2022**
+**Thursday, August 25 2022 - Thu. 08/25 – Far Out**
 
   * [Twitter whistleblower to testify in Congress about security failures](https://www.washingtonpost.com/technology/2022/08/24/twitter-whistleblower-senate-hearing/) (Washington Post)
   * [Twitter executives face questions from employees after whistleblower claims](https://www.cnn.com/2022/08/24/tech/twitter-employee-questions-whistleblower/) (CNN Business)
@@ -969,7 +969,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 24 2022**
+**Wednesday, August 24 2022 - Wed. 08/24 – Is The Twitter Whistleblower A “Material Adverse Effect”?**
 
   * [India forced Twitter to put agent on payroll, whistleblower says](https://www.reuters.com/world/india/india-forced-twitter-put-agent-payroll-whistleblower-says-2022-08-23/) (Reuters)
   * [Former security chief claims Twitter buried ‘egregious deficiencies’](https://www.washingtonpost.com/technology/interactive/2022/twitter-whistleblower-sec-spam/) (Washington Post)
@@ -981,7 +981,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 23 2022**
+**Tuesday, August 23 2022 - Tue. 08/23 – The Twitter Whistleblower**
 
   * [Former security chief claims Twitter buried ‘egregious deficiencies’](https://www.washingtonpost.com/technology/interactive/2022/twitter-whistleblower-sec-spam/) (Washington Post)
   * [Instagram's next feature might be a copy of BeReal](https://www.engadget.com/instagram-bereal-candid-challenges-232117658.html) (Engadget)
@@ -993,7 +993,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 22 2022**
+**Monday, August 22 2022 - Mon. 08/22 – Elon Musk Raising Prices Just For Fun**
 
   * [Amazon Among Bidders for Signify Health](https://www.wsj.com/articles/amazon-among-bidders-for-signify-health-11661123042?mod=djemalertNEWS) (WSJ)
   * [Elon Musk says Tesla will hike the price of FSD driver assistance software by 25% in September](https://www.cnbc.com/2022/08/21/elon-musk-says-tesla-will-raise-price-of-fsd-by-25percent-in-september.html) (CNBC)
@@ -1004,7 +1004,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 19 2022**
+**Friday, August 19 2022 - Fri. 08/19 – The Biggest Google Search Algo Change In Years?**
 
   * [Snap Scraps Development on Flying Selfie Pixy Drone](https://www.wsj.com/articles/snap-scraps-development-on-flying-selfie-pixy-drone-11660836217?mod=djemalertNEWS) (WSJ)
   * [Google search updates will prioritize real reviews over clickbait](https://www.theverge.com/2022/8/18/23309465/google-search-updates-reviews-clickbait?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1013,7 +1013,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 18 2022**
+**Thursday, August 18 2022 - Thu. 08/18 – Does Mark Zuckerberg Have No Taste?**
 
   * [Apple Targets Sept. 7 for iPhone 14 Launch in Flurry of New Devices](https://www.bloomberg.com/news/articles/2022-08-17/apple-targets-sept-7-for-iphone-14-launch-in-flurry-of-devices?sref=Szq5ylDR) (Bloomberg)
   * [Netflix’s Ad-Supported Plan Will Block Downloads of Shows, Films](https://www.bloomberg.com/news/articles/2022-08-17/netflix-s-ad-supported-plan-will-block-downloads-of-shows-films?sref=Szq5ylDR) (Bloomberg)
@@ -1025,7 +1025,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 17 2022**
+**Wednesday, August 17 2022 - Wed. 08/17 – “Anti Party” Technology**
 
   * [Exclusive: Airbnb rolls out new anti-party tech to prevent unapproved gatherings](https://www.fastcompany.com/90779268/exclusive-airbnb-introduces-new-anti-party-tech-in-the-u-s-and-canada) (Fast Company)
   * [MacBook design changes enable Vietnamese production for the first time; Apple Watch too](https://9to5mac.com/2022/08/17/macbook-design-changes/) (9to5Mac)
@@ -1038,7 +1038,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 16 2022**
+**Tuesday, August 16 2022 - Tue. 08/16 – Was The Twilio Breach A Route Into Signal?**
 
   * [Signal says 1,900 users’ phone numbers exposed by Twilio breach](https://techcrunch.com/2022/08/15/signal-phone-number-exposed-twilio/) (TechCrunch)
   * [Apple Sets Return-to-Office Deadline of Sept. 5 After Covid Delays](https://www.bloomberg.com/news/articles/2022-08-15/apple-sets-return-to-office-deadline-of-sept-5-after-delays?sref=Szq5ylDR) (Bloomberg)
@@ -1050,7 +1050,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 15 2022**
+**Monday, August 15 2022 - Mon. 08/15 – Adam Neumann To Take Another Crack At Real Estate**
 
   * [Galaxy Digital terminates its acquisition of BitGo](https://www.theblock.co/post/163540/galaxy-digital-terminates-its-acquisition-of-bitgo) (The Block)
   * [Unity rejects AppLovin's takeover bid, to go ahead with ironSource buyout](https://www.reuters.com/technology/unity-software-rejects-applovins-1754-bln-takeover-offer-2022-08-15/) (Reuters)
@@ -1062,7 +1062,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 12 2022**
+**Friday, August 12 2022 - Fri. 08/12 – How Do We Feel About Arresting Open-Source Developers?**
 
   * [Suspected Tornado Cash developer arrested in Amsterdam](https://www.theblock.co/post/163206/suspected-tornado-cash-developer-arrested-in-amsterdam) (The Block)
   * [LinkedIn rolls out new tools to give creators more ways to share visual content](https://techcrunch.com/2022/08/11/linkedin-tools-helping-creators-post-visual-content/) (TechCrunch)
@@ -1070,7 +1070,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 11 2022**
+**Thursday, August 11 2022 - Thu. 08/11 – Disney Half (Plus Ads)**
 
   * [Disney+ Ad Plan Price and Launch Date Set — Along With Fee Hikes for Disney+ Premium, Hulu](https://variety.com/2022/digital/news/disney-plus-ads-launch-price-increase-hulu-1235338148/) (Variety)
   * [Cisco hacked by Yanluowang ransomware gang, 2.8GB allegedly stolen](https://www.bleepingcomputer.com/news/security/cisco-hacked-by-yanluowang-ransomware-gang-28gb-allegedly-stolen/) (BleepingComputer)
@@ -1082,7 +1082,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 10 2022**
+**Wednesday, August 10 2022 - Wed. 08/10 – The Samsung Galaxy Unpacked Event**
 
   * [The new Samsung Galaxy Z Fold 4 is a little better and still too expensive](https://www.theverge.com/23298448/samsung-galaxy-z-fold-4-specs-price-screen-camera-hands-on?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Samsung's Galaxy Z Flip 4 lets you do more while it's closed](https://www.engadget.com/samsung-galaxy-z-flip-4-release-date-price-130024096.html) (Engadget)
@@ -1093,7 +1093,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 09 2022**
+**Tuesday, August 09 2022 - Tue. 08/09 – WhatsApp Privacy Features**
 
   * [WhatsApp’s new update makes it easier to avoid your friends](https://www.theverge.com/2022/8/9/23297350/whatsapp-privacy-update-hide-online-status-quietly-leave-group-chats?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [WhatsApp now lets users delete messages up to two days after they were sent](https://9to5mac.com/2022/08/08/whatsapp-delete-messages-two-days-after-sent/) (9to5Mac)
@@ -1105,7 +1105,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 08 2022**
+**Monday, August 08 2022 - Mon. 08/08 – What Data Is Telsa Collecting On You?**
 
   * [SoftBank plans Vision Fund job cuts after record net loss](https://www.reuters.com/markets/funds/softbank-posts-23-bln-loss-first-quarter-2022-08-08/) (Reuters)
   * [US Treasury sanctions cryptocurrency mixer Tornado Cash](https://www.theblock.co/post/162105/us-treasury-sanctions-cryptocurrency-mixer-tornado-cash) (The Block)
@@ -1117,7 +1117,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 05 2022**
+**Friday, August 05 2022 - Fri. 08/05 – Amazon To Acquire iRobot**
 
   * [Amazon is buying iRobot for $1.7B](https://techcrunch.com/2022/08/05/amazon-is-buying-irobot-for-1-7b/) (TechCrunch)
   * [Twitter slams Elon Musk's response to its lawsuit](https://www.axios.com/2022/08/04/musk-twitter-lawsuit-reply) (Axios)
@@ -1125,7 +1125,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 04 2022**
+**Thursday, August 04 2022 - Thu. 08/04 – Is Stage Manager Worth It?**
 
   * [Apple Plans to Delay Launch of iPadOS 16 Update by About a Month](https://www.bloomberg.com/news/articles/2022-08-03/apple-to-delay-ipad-software-launch-by-a-month-in-unusual-move?sref=Szq5ylDR) (Bloomberg)
   * [Solana Hack Blamed on Slope Mobile Wallet Exploit](https://decrypt.co/106680/solana-hack-blamed-slope-mobile-wallet-exploit) (Decrypt)
@@ -1137,7 +1137,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 03 2022**
+**Wednesday, August 03 2022 - Wed. 08/03 – An Actual Use Case For NFTs And An Actual Flying Car**
 
   * [Solana, USDC Drained From Wallets in Attack](https://decrypt.co/106590/multiple-wallets-including-sol-and-usdc-drained-in-unfolding-attack) (Decrypt)
   * [Robinhood Lays Off 23% of Staff as Retail Investors Fade From Platform](https://www.wsj.com/articles/robinhood-lays-off-23-of-staff-11659471011?mod=djemalertNEWS) (WSJ)
@@ -1149,7 +1149,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 02 2022**
+**Tuesday, August 02 2022 - Tue. 08/02 – What Is It With Bridges?**
 
   * [Nomad token bridge drained of $190M in funds in security exploit](https://cointelegraph.com/news/nomad-token-bridge-drained-of-190m-in-funds-in-security-exploit) (CoinTelegraph)
   * [Robinhood’s Crypto Unit Fined $30 Million by New York’s Top Financial Regulator](https://www.wsj.com/articles/robinhoods-crypto-unit-fined-30-million-by-new-yorks-top-financial-regulator-11659445200?mod=djemalertNEWS) (WSJ)
@@ -1161,7 +1161,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 01 2022**
+**Monday, August 01 2022 - Mon. 08/01 – Silicon Valley’s Great Scooter Ride Is Over**
 
   * [Apple Pay may finally work on Chrome, Edge, and Firefox in iOS 16](https://www.theverge.com/2022/7/30/23284992/apple-pay-compatible-edge-chrome-firefox-ios-16-beta-browsers-safari?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Why dangerous content thrives on Facebook and TikTok in Kenya](https://www.washingtonpost.com/world/2022/07/31/kenya-meta-tiktok-facebook-disinformation/) (Washington Post)
@@ -1172,7 +1172,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 29 2022**
+**Friday, July 29 2022 - Fri. 07/29 – Instagram Listens To The Kardashians**
 
   * [Apple iPhone Sales Remain Resilient as Company Reports 11% Decline in Profit](https://www.wsj.com/articles/apple-aapl-q3-earnings-report-2022-11658958641?mod=djemalertNEWS) (WSJ)
   * [Instagram walks back its changes](https://www.platformer.news/p/-instagram-walks-back-its-changes) (Platformer)
@@ -1180,7 +1180,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 28 2022**
+**Thursday, July 28 2022 - Thu. 07/28 – Meta Goes Backwards For The First Time Ever**
 
   * [Facebook Parent Meta Platforms Reports First Ever Revenue Drop](https://www.wsj.com/articles/meta-facebook-q2-earnings-report-2022-11658883684?mod=djemalertNEWS) (WSJ)
   * [F.T.C. Sues to Block Meta’s Virtual Reality Deal as It Confronts Big Tech](https://www.nytimes.com/2022/07/27/technology/meta-facebook-vr-ftc.html) (NYTimes)
@@ -1191,7 +1191,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 27 2022**
+**Wednesday, July 27 2022 - Wed. 07/27 – Inflation Hits The Metaverse**
 
   * [Techmeme headlines from this morning running down earnings](https://www.techmeme.com/220727/h0825) (Techmeme, 8:25am eastern today)
   * [IBM Security report finds data breaches are costlier than ever before](https://siliconangle.com/2022/07/27/ibm-security-report-finds-data-breaches-costlier-ever/) (SiliconAngle)
@@ -1202,7 +1202,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 26 2022**
+**Tuesday, July 26 2022 - Tue. 07/26 – Why Big Tech Hates The Leap Second**
 
   * [Coinbase Faces SEC Probe on Crypto Listings; Shares Tumble](https://www.bloomberg.com/news/articles/2022-07-26/coinbase-faces-sec-investigation-over-cryptocurrency-listings?sref=Szq5ylDR) (Bloomberg)
   * [Kylie Jenner and Kim Kardashian tell Instagram to 'stop trying to be TikTok,' which could spell major trouble for the platform](https://www.businessinsider.com/kylie-jenner-kim-kardashian-instagram-stop-trying-to-be-tiktok-2022-7?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
@@ -1213,7 +1213,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 25 2022**
+**Monday, July 25 2022 - Mon. 07/25 – NFL+**
 
   * [NFL+ Enters Sports Streaming Wars As League Launches New Service](https://www.hollywoodreporter.com/business/digital/nfl-plus-streaming-service-cost-summer-1235153956/) (The Hollywood Reporter)
   * [Voyager Responds to FTX’s Offer, Calling It a ‘Low-Ball’ Bid](https://www.bloomberg.com/news/articles/2022-07-25/voyager-responds-to-ftx-s-offer-calling-it-a-low-ball-bid?sref=Szq5ylDR) (Bloomberg)
@@ -1224,7 +1224,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 22 2022**
+**Friday, July 22 2022 - Fri. 07/22 – Not Great, Bob! Snap And Twitter Edition**
 
   * [Twitter misses earnings expectations, partially blames revenue drop on Elon Musk takeover bid](https://www.cnbc.com/2022/07/22/twitter-twtr-earnings-q2-2022.html) (CNBC)
   * [Snap shares dive 35% following poor earnings report](https://www.cnbc.com/2022/07/22/snap-shares-dive-35percent-following-poor-earnings-report-.html) (CNBC)
@@ -1233,7 +1233,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 21 2022**
+**Thursday, July 21 2022 - Thu. 07/21 – Did Tesla Trigger The Crypto Crash?**
 
   * [Amazon is buying primary care tech provider One Medical for $3.9B](https://techcrunch.com/2022/07/21/amazon-is-buying-primary-care-tech-provider-one-medical-for-3-9b/) (TechCrunch)
   * [Facebook doubles down on algorithms in the main feed](https://www.theverge.com/2022/7/21/23272536/facebook-home-feeds-tab-tiktok-algorithmic-content-recommendations?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1247,7 +1247,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 20 2022**
+**Wednesday, July 20 2022 - Wed. 07/20 – Netflix Earnings Not SO Bad**
 
   * [Netflix loses fewer subscribers than expected and says cheaper ad tier is coming in early 2023](https://www.cnbc.com/2022/07/19/netflix-nflx-earnings-q2-2022.html) (CNBC)
   * [Twitter-Musk trial on $44 billion deal set to begin in October after Musk loses effort to delay](https://www.cnbc.com/2022/07/19/twitter-wins-bid-for-expedited-trial-to-force-musk-to-close-deal.html) (CNBC)
@@ -1258,7 +1258,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 19 2022**
+**Tuesday, July 19 2022 - Tue. 07/19 – Amazon Sues Facebook (Group Admins)**
 
   * [Amazon sues admins from 10,000 Facebook groups over fake reviews](https://techcrunch.com/2022/07/18/amazon-lawsuit-fake-reviews-facebook/) (TechCrunch)
   * [Netflix Tests Another Way to Charge for Password Sharing](https://www.bloomberg.com/news/articles/2022-07-18/netflix-tests-another-way-to-charge-for-password-sharing?sref=Szq5ylDR) (Bloomberg)
@@ -1271,7 +1271,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 18 2022**
+**Monday, July 18 2022 - Mon. 07/18 – It’s Vibe Shifts All The Way Down**
 
   * [Snap launches Snapchat for Web to bring the app's core features to desktop](https://techcrunch.com/2022/07/18/snap-launches-snapchat-for-web/) (TechCrunch)
   * [Leaked emails: Crypto exchange Coinbase is 'temporarily shutting down' its US affiliate-marketing program](https://www.businessinsider.com/coinbase-temporarily-shutting-down-us-affiliate-marketing-program-for-influencers-2022-7?IR=T) (Insider)
@@ -1283,7 +1283,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 15 2022**
+**Friday, July 15 2022 - Fri. 07/15 – The “Vibe Shift” At Amazon**
 
   * [Stripe Cuts Internal Valuation by 28%](https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625?mod=djemalertNEWS) (WSJ)
   * [Celsius Discloses $1.19 Billion Deficit in Bankruptcy Filing](https://www.bloomberg.com/news/articles/2022-07-14/celsius-discloses-1-19-billion-deficit-in-bankruptcy-filing?sref=Szq5ylDR) (Bloomberg)
@@ -1292,7 +1292,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 14 2022**
+**Thursday, July 14 2022 - Thu. 07/14 – Is TikTok A Threat To Google Search?**
 
   * [Embattled crypto lender Celsius files for bankruptcy protection](https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html) (CNBC)
   * [Inside Celsius: how one of crypto’s biggest lenders ground to a halt](https://www.ft.com/content/4fa06516-119b-4722-946b-944e38b02f45) (Financial Times)
@@ -1304,7 +1304,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 13 2022**
+**Wednesday, July 13 2022 - Wed. 07/13 – Twitter Takes The Gloves Off**
 
   * [Twitter Sues Musk After He Tries Backing Out of $44 Billion Deal](https://www.nytimes.com/2022/07/12/technology/twitter-lawsuit-musk-acquisition.html) (NYTimes)
   * [15 Revelations in Twitter’s Suit Against Elon Musk](https://nymag.com/intelligencer/2022/07/twitters-lawsuit-against-elon-musk-15-revelations.html) (Intelligencer)
@@ -1316,7 +1316,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 12 2022**
+**Tuesday, July 12 2022 - Tue. 07/12 – What If (And Hear Me Out) We Actually Owned The Things We Buy?**
 
   * [Three Arrows Founders’ Whereabouts Unknown, Liquidators Say](https://www.bloomberg.com/news/articles/2022-07-11/three-arrows-founders-whereabouts-unknown-stymying-liquidators?sref=Szq5ylDR) (Bloomberg)
   * [FTC to Crack Down on Sites That Claim Your Data Is 'Anonymized' When It's Not](https://www.pcmag.com/news/ftc-to-crack-down-on-sites-that-claim-your-data-is-anonymized-when-its) (PCMag)
@@ -1327,7 +1327,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 11 2022**
+**Monday, July 11 2022 - Mon. 07/11 – What Happens Now With Elon And Twitter.**
 
   * [Uber broke laws, duped police and secretly lobbied governments, leak reveals](https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign) (The Guradian)
   * [Here’s how North Korean operatives are trying to infiltrate US crypto firms](https://www.cnn.com/2022/07/10/politics/north-korean-hackers-crypto-currency-firms-infiltrate/) (CNN)
@@ -1338,7 +1338,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 07 2022**
+**Thursday, July 07 2022 - Thu. 07/07 – Apple Lockdown Mode**
 
   * [Apple Announces New Lockdown Mode on iOS 16 With 'Extreme' Level of Security](https://www.macrumors.com/2022/07/06/ios-16-lockdown-mode/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Apple Plans Extreme Sports Watch With Larger Screen, Metal Case](https://www.bloomberg.com/news/articles/2022-07-06/apple-plans-extreme-sports-watch-with-larger-screen-metal-case?sref=Szq5ylDR) (Bloomberg)
@@ -1349,7 +1349,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 06 2022**
+**Wednesday, July 06 2022 - Wed. 07/06 – How To Beat The Quantum Rap**
 
   * [Microsoft’s $69 billion Activision takeover faces competition probe in the UK](https://www.cnbc.com/2022/07/06/microsofts-69-billion-activision-takeover-faces-competition-probe-in-the-uk.html) (CNBC)
   * [US Wants Dutch Supplier to Stop Selling Chipmaking Gear to China](https://www.bloomberg.com/news/articles/2022-07-05/us-pushing-for-asml-to-stop-selling-key-chipmaking-gear-to-china?sref=Szq5ylDR) (Bloomberg)
@@ -1361,7 +1361,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 05 2022**
+**Tuesday, July 05 2022 - Tue. 07/05 – What Did I Miss?**
 
   * [Crypto platform Vauld suspends withdrawls, trading and deposits amid financial challenges.](https://techcrunch.com/2022/07/04/crypto-lending-platform-vauld-suspends-withdrawals-trading-and-deposits-amid-financial-challenges/) (TechCrunch)
   * [Number Three](https://entrepreneurshandbook.co/number-three-511f334d8fae) (Entrepreneurs Handbook)
@@ -1374,7 +1374,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 30 2022**
+**Thursday, June 30 2022 - Thu. 06/30 – If Sam Bankman-Fried Is Afraid To Give You Money…**
 
   * [Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders: Sources](https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/) (CoinDesk)
   * [Nvidia Game Card Prices Fall Along With Crypto Mining Demand](https://www.bloomberg.com/news/articles/2022-06-30/nvidia-game-card-prices-plunge-along-with-crypto-mining-demand?sref=Szq5ylDR) (Bloomberg)
@@ -1383,7 +1383,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 29 2022**
+**Wednesday, June 29 2022 - Wed. 06/29 – Netflix Running Up That Hill**
 
   * [Crypto Crash Widens a Divide: ‘Those With Money Will End Up Being Fine’](https://www.nytimes.com/2022/06/29/technology/crypto-crash-divide.html) (NYTimes)
   * [Crypto crash threatens North Korea's stolen funds as it ramps up weapons tests](https://www.reuters.com/technology/crypto-crash-threatens-north-koreas-stolen-funds-it-ramps-up-weapons-tests-2022-06-28/) (Reuters)
@@ -1394,7 +1394,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 28 2022**
+**Tuesday, June 28 2022 - Tue. 06/28 – Elon Could Let Me Do This Show From A Campsite**
 
   * [Without Roe, data will become a company headache and a user nightmare](https://www.axios.com/2022/05/06/data-company-headache-user-nightmare-abortion-roe) (Axios)
   * [Period tracker Stardust surges following Roe reversal, but its privacy claims aren’t airtight](https://techcrunch.com/2022/06/27/stardust-period-tracker-phone-number/) (TechCrunch)
@@ -1406,7 +1406,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 27 2022**
+**Monday, June 27 2022 - Après Mai, Le Apple Déluge?**
 
   * [Apple Readies iPhone 14 and HomePod Upgrade in Flood of New Products](https://www.bloomberg.com/news/newsletters/2022-06-26/apple-aapl-plans-iphone-14-apple-watch-series-8-m2-macs-for-2022-and-2023-l4vd5unx?sref=Szq5ylDR) (Bloomberg)
   * [Base 13-Inch MacBook Pro With M2 Chip Has Significantly Slower SSD Speeds](https://www.macrumors.com/2022/06/26/base-m2-13-inch-macbook-pro-slower-ssd-speeds/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -1417,7 +1417,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 24 2022**
+**Friday, June 24 2022 - Fri. 06/24 – TikTok Turns On The Money Machine**
 
   * [Zendesk to be acquired by investor group for $10.2 billion](https://www.cnbc.com/2022/06/24/zendesk-to-be-acquired-by-investor-group-for-10point2-billion.html) (CNBC)
   * [Google is notifying Android users targeted by Hermit government-grade spyware](https://techcrunch.com/2022/06/23/hermit-zero-day-android-spyware/) (TechCrunch)
@@ -1428,7 +1428,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 23 2022**
+**Thursday, June 23 2022 - Thu. 06/23 – What If My Voice Was Your Alexa?**
 
   * [Alexa will soon be able to read stories as your dead grandma](https://techcrunch.com/2022/06/22/alexa-will-soon-be-able-to-read-stories-as-your-dead-grandma/) (TechCrunch)
   * [That agent who sounds like they’re from Paris, Texas? Try Paris, France](https://techcrunch.com/2022/06/22/that-agent-who-sounds-like-theyre-from-paris-texas-try-paris-france/) (TechCrunch)
@@ -1439,7 +1439,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 22 2022**
+**Wednesday, June 22 2022 - Wed. 06/22 – New (Google) News**
 
   * [Google News gets desktop redesign with focus on customization](https://9to5google.com/2022/06/22/google-news-desktop-redesign/) (9to5Google)
   * [GitHub’s AI-powered Copilot will help you write code for $10 a month](https://www.theverge.com/2022/6/21/23176574/github-copilot-launch-pricing-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1451,7 +1451,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 21 2022**
+**Tuesday, June 21 2022 - Tue. 06/21 – The Great Crypto Crash Of ‘22**
 
   * [Crypto lender Babel Finance announces steps to improve its liquidity situation](https://www.theblock.co/post/153067/babel-finance-steps-crypto-liquidity-situation) (The Block)
   * [New Solend vote invalidates governance decision to take over whale account](https://www.theblock.co/post/153011/new-solend-vote-invalidates-governance-decision-to-take-over-whale-account) (The Block)
@@ -1462,7 +1462,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 17 2022**
+**Friday, June 17 2022 - Fri. 06/17 – Musk Speaks To The Tweeps!**
 
   * [Elon Musk Tells Staff Twitter Should Allow ‘Pretty Outrageous’ Tweets](https://www.bloomberg.com/news/articles/2022-06-16/musk-tells-staff-twitter-should-allow-pretty-outrageous-tweets?sref=Szq5ylDR) (Bloomberg)
   * [SpaceX Said to Fire Employees Involved in Letter Rebuking Elon Musk](https://www.nytimes.com/2022/06/17/technology/spacex-employees-fired-musk-letter.html) (NYTimes)
@@ -1472,7 +1472,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 16 2022**
+**Thursday, June 16 2022 - Thu. 06/16 – Serious Cases Of TikTok Envy**
 
   * [YouTube Says It Is Gaining on TikTok in Short-Video Race](https://www.wsj.com/articles/youtube-says-it-is-gaining-on-tiktok-in-short-video-race-11655296201?mod=djemalertNEWS) (WSJ)
   * [FACEBOOK IS CHANGING ITS ALGORITHM TO TAKE ON TIKTOK, LEAKED MEMO REVEALS](https://www.theverge.com/2022/6/15/23168887/facebook-discovery-engine-redesign-tiktok?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1483,7 +1483,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 15 2022**
+**Wednesday, June 15 2022 - Wed. 06/15 – Now The Crypto Hedge Funds Might Be Blowing Up**
 
   * [After facing hundreds of millions of dollars in liquidations, Three Arrows Capital's future is uncertain](https://www.theblock.co/linked/152092/after-facing-hundreds-of-millions-of-dollars-in-liquidations-three-arrows-capitals-future-is-uncertain) (The Block)
   * [Crypto Lender Celsius Hires Restructuring Lawyers After Account Freeze](https://www.wsj.com/articles/crypto-lender-celsius-hires-restructuring-lawyers-after-account-freeze-11655250575?mod=djemalertNEWS) (WSJ)
@@ -1496,7 +1496,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 14 2022**
+**Tuesday, June 14 2022 - Tue. 06/14 – You Get A Photoshop! You Get A Photoshop! You Get A….**
 
   * [Adobe plans to make Photoshop on the web free to everyone](https://www.theverge.com/2022/6/14/23162580/photoshop-web-free-freemium-version-adobe?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Coinbase is laying off 1,100 employees as Bitcoin prices continue to fall](https://www.theverge.com/2022/6/14/23167219/coinbase-layoffs-crypto-winter-ceo-bitcoin-prices?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1507,7 +1507,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 13 2022**
+**Monday, June 13 2022 - Mon. 06/13 – (Another?) Crypto Bank Run**
 
   * [Celsius Tanks 70% in 1 Hour After Company Pauses Withdrawals to 'Stabilize Liquidity'](https://decrypt.co/102715/celsius-tanks-as-company-pauses-withdrawals-citing-liquidity) (Decrypt)
   * [Jack Dorsey's Bitcoin venture TBD unveils proposal for decentralized Web platform](https://www.theblockcrypto.com/linked/151407/jack-dorseys-bitcoin-venture-tbd-unveils-proposal-for-decentralized-web-platform) (The Block)
@@ -1520,7 +1520,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 10 2022**
+**Friday, June 10 2022 - Fri. 06/10 – The Next Big—And Small—Things From Apple.**
 
   * [14-Inch iPad Pro With Mini-LED Display Rumored to Launch in Early 2023](https://www.macrumors.com/2022/06/09/14-inch-ipad-pro-with-mini-led-display-rumored/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Apple Plans 15-Inch MacBook Air for 2023 and New 12-Inch Laptop](https://www.bloomberg.com/news/articles/2022-06-09/apple-readies-larger-macbook-air-to-capitalize-on-its-new-chips?sref=Szq5ylDR) (Bloomberg)
@@ -1531,7 +1531,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 09 2022**
+**Thursday, June 09 2022 - Thu. 06/09 – Who Needs A Gaming Console? Not Xbox Or Samsung.**
 
   * [Microsoft’s new Xbox TV app streams games without a console later this month](https://www.theverge.com/2022/6/9/23159460/microsoft-xbox-tv-app-samsung-2022-tv-xbox-cloud-gaming-streaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [The Xbox game streaming TV app feels almost like the real thing](https://www.theverge.com/2022/6/9/23132560/hands-on-xbox-cloud-game-streaming-game-pass-tv-app?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1546,7 +1546,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 08 2022**
+**Wednesday, June 08 2022 - Wed. 06/08 – Crypto’s Voldemort Goes Crypto**
 
   * [Citadel Securities Is Building a Crypto Trading Marketplace With Virtu Financial: Sources](https://www.coindesk.com/business/2022/06/07/citadel-is-building-a-crypto-trading-marketplace-with-virtu-financial-sources/) (CoinDesk)
   * [Salesforce takes crypto plunge with new NFT cloud](https://techcrunch.com/2022/06/08/salesforce-takes-crypto-plunge-with-new-nft-cloud/) (TechCrunch)
@@ -1557,7 +1557,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 07 2022**
+**Tuesday, June 07 2022 - Tue. 06/07 – TikTok Avatars**
 
   * [TikTok’s new Bitmoji-like Avatars feature lets you record videos as an animated version of yourself](https://techcrunch.com/2022/06/07/tiktoks-avatars-feature/) (TechCrunch)
   * [US Probes Binance Over Token That Is Now World’s Fifth Largest](https://www.bloomberg.com/news/articles/2022-06-06/us-probes-binance-over-token-that-is-now-world-s-fifth-largest?sref=Szq5ylDR) (Bloomberg)
@@ -1568,7 +1568,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 06 2022**
+**Monday, June 06 2022 - Mon. 06/06 – WWDC 2022**
 
   * [Apple debuts iOS 16 with customizable lock screen, Messages updates, much more](https://9to5mac.com/2022/06/06/ios-16-features-2/) (9to5Mac)
   * [Apple brings ‘undo send’ to iMessage](https://techcrunch.com/2022/06/06/apple-brings-undo-send-to-imessage/) (TechCrunch)
@@ -1587,7 +1587,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 03 2022**
+**Friday, June 03 2022 - Fri. 06/03 – Time To Get Your Driverless Ride On?**
 
   * [Cruise can finally charge for driverless robotaxi rides in San Francisco](https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/) (TechCrunch)
   * [Twitter is building a tool for keyword alerts, in case you need more Twitter notifications](https://www.theverge.com/2022/6/2/23151492/twitter-keyword-alerts-notifications) (The Verge)
@@ -1596,7 +1596,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 02 2022**
+**Thursday, June 02 2022 - Thu. 06/02 – Something Something, A Joke About Leaning Out?**
 
   * [Facebook parent Meta COO Sheryl Sandberg is stepping down](https://www.cnbc.com/2022/06/01/facebook-coo-sheryl-sandberg-says-she-is-stepping-down.html) (CNBC)
   * [Sandberg’s Advertising Empire Leaves a Complicated Legacy](https://www.bloomberg.com/news/articles/2022-06-02/sandberg-s-advertising-empire-leaves-a-complicated-legacy#xj4y7vzkg?sref=Szq5ylDR) (Bloomberg)
@@ -1606,7 +1606,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 01 2022**
+**Wednesday, June 01 2022 - Wed. 06/01 – Surface Laptop Go Update**
 
   * [Microsoft’s compact Surface Laptop Go updated with 11th Gen Intel processor](https://www.theverge.com/2022/6/1/23149723/microsoft-surface-laptop-go-2-price-features-compact-chromebook-competitor?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [High Court Halts Texas Law Targeting Social Media Platforms (2)](https://news.bloomberglaw.com/tech-and-telecom-law/supreme-court-halts-texas-law-on-social-media-content-moderation) (Bloomberg Law)
@@ -1618,7 +1618,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 31 2022**
+**Tuesday, May 31 2022 - Tue. 05/31 – The New Fastest Computer In The World**
 
   * [AMD-Powered Frontier Supercomputer Breaks the Exascale Barrier, Now Fastest in the World](https://www.tomshardware.com/news/amd-powered-frontier-supercomputer-breaks-the-exascale-barrier-now-fastest-in-the-world) (Tom's Hardware)
   * [Kuo: PlayStation VR2 Mass Production To Start H2 2022](https://uploadvr.com/kuo-psvr-mass-production-h2-2022/) (UploadVR)
@@ -1629,7 +1629,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 27 2022**
+**Friday, May 27 2022 - Fri. 05/27 – An Xbox Gaming Dongle**
 
   * [Exclusive: Microsoft continues to iterate on an Xbox cloud streaming device codenamed 'Keystone'](https://www.windowscentral.com/gaming/xbox/exclusive-microsoft-continues-to-iterate-on-an-xbox-cloud-streaming-stick-codenamed-keystone) (Windows Central)
   * [Twitter shareholders sue Elon Musk and Twitter over chaotic deal](https://www.cnbc.com/2022/05/26/twitter-shareholders-sue-elon-musk-and-twitter-over-chaotic-deal.html) (CNBC)
@@ -1638,7 +1638,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 26 2022**
+**Thursday, May 26 2022 - Thu. 05/26 – Apple Raises Wages**
 
   * [Apple Boosting Pay Budget for Workers Amid Tight Labor Market](https://www.wsj.com/articles/apple-boosting-pay-budget-for-workers-amid-tight-labor-market-11653527996?mod=djemalertNEWS) (WSJ)
   * [Leaked Audio: Apple VP Gives Apple Store Workers Anti-Union Speech](https://www.vice.com/en/article/jgmymy/leaked-audio-apple-vp-gives-apple-store-workers-anti-union-speech) (Motherboard)
@@ -1653,7 +1653,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 25 2022**
+**Wednesday, May 25 2022 - Wed. 05/25 – Seth Green Wants His Apes Back**
 
   * [Someone Stole Seth Green's Bored Ape, Which Was Supposed To Star In His New Show](https://www.buzzfeednews.com/article/sarahemerson/seth-green-bored-ape-stolen-tv-show?scrolla=5eb6d68b7fedc32c19ef33b4) (Buzzfeed News)
   * [Andreessen Horowitz bets on crypto ‘golden era’ with new $4.5bn fund](https://www.ft.com/content/47b05080-67ac-4468-b530-76325d6aba35) (FT)
@@ -1668,7 +1668,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 24 2022**
+**Tuesday, May 24 2022 - Tue. 05/24 – Does Apple REALLY Want You To Repair Your Own iPhone?**
 
   * [OpenAI: Look at our awesome image generator! Google: Hold my Shiba Inu](https://techcrunch.com/2022/05/23/openai-look-at-our-awesome-image-generator-google-hold-my-shiba-inu/) (TechCrunch)
   * [Zoom pops 16% on first-quarter earnings beat and strong guidance](https://www.cnbc.com/2022/05/23/zoom-pops-19percent-on-first-quarter-results.html) (CNBC)
@@ -1678,7 +1678,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 23 2022**
+**Monday, May 23 2022 - Mon. 05/23 – Big Tech Consolidation Coming?**
 
   * [Broadcom in Talks to Acquire Cloud Company VMware](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware?sref=Szq5ylDR) (Bloomberg)
   * [Report: EA Looking To Sell Or Merge](https://kotaku.com/ea-acquisition-apex-legends-star-wars-fifa-nbcuniversal-1848957274?scrolla=5eb6d68b7fedc32c19ef33b4) (Kotaku)
@@ -1688,7 +1688,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 20 2022**
+**Friday, May 20 2022 - Fri. 05/20 – The Apple Headset Has Been Demoed!**
 
   * [Qualcomm announces Snapdragon 8 Plus Gen 1, for when flagship isn’t flagship enough](https://www.theverge.com/23131792/qualcomm-snapdragon-8-gen-1-plus-soc-cpu-gpu?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple Shows AR/VR Headset to Board in Sign of Progress on Key Project](https://www.bloomberg.com/news/articles/2022-05-19/apple-shows-headset-to-board-in-sign-it-s-reached-advanced-stage?sref=Szq5ylDR) (Bloomberg)
@@ -1700,7 +1700,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 19 2022**
+**Thursday, May 19 2022 - Thu. 05/19 – TikTok To Get Into Games?**
 
   * [2 vulnerabilities with 9.8 severity ratings are under exploit. A 3rd looms](https://arstechnica.com/information-technology/2022/05/2-vulnerabilities-with-9-8-severity-ratings-are-under-exploit-a-3rd-looms/) (ArsTechnica)
   * [TikTok’s new ad product gives creators a chance to partner with marketers on branded content](https://techcrunch.com/2022/05/18/tiktoks-ad-product-gives-creators-opportunities-partner-marketers-branded-content/) (TechCrunch)
@@ -1712,7 +1712,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 18 2022**
+**Wednesday, May 18 2022 - Wed. 05/18 – Apple Takes A Covid Step Back**
 
   * [Apple Delays Plan to Have Staff in Office Three Days a Week](https://www.bloomberg.com/news/articles/2022-05-17/apple-delays-plan-to-have-workers-in-office-three-days-a-week?sref=Szq5ylDR) (Bloomberg)
   * [Apple Executive Who Left Over Return-to-Office Policy Joins Google AI Unit](https://www.bloomberg.com/news/articles/2022-05-17/ian-goodfellow-former-apple-director-of-machine-learning-to-join-deepmind?sref=Szq5ylDR) (Bloomberg)
@@ -1725,7 +1725,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 17 2022**
+**Tuesday, May 17 2022 - Tue. 05/17 – Sigh… More Elon/Twitter Stuff**
 
   * [Elon Musk Says Twitter Must Prove Bot Claims for $44 Billion Deal to Proceed](https://www.bloomberg.com/news/articles/2022-05-17/elon-musk-says-twitter-must-prove-bot-claims-for-deal-to-proceed?sref=Szq5ylDR) (Bloomberg)
   * [Apple ‘testing’ foldable with secondary E Ink display, says analyst](https://www.theverge.com/2022/5/17/23086673/apple-e-ink-foldable-external-screen-tablet-electronic-paper) (The Verge)
@@ -1738,7 +1738,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 16 2022**
+**Monday, May 16 2022 - Mon. 05/16 – F It! Netflix Is Doin’ It Live! (Maybe)**
 
   * [Netflix Exploring Live Streaming For First Time; Plans To Roll Out For Unscripted Series & Stand-Up Specials](https://deadline.com/2022/05/netflix-live-streaming-1235023539/) (Deadline)
   * [LFG Reserves Dwindle to Just 313 Bitcoins From 80K After UST Crash](https://www.coindesk.com/business/2022/05/16/luna-foundation-guard-left-with-313-bitcoin-after-ust-crash/) (CoinDesk)
@@ -1750,7 +1750,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 13 2022**
+**Friday, May 13 2022 - Fri. 05/13 – Elon Puts Twitter Bid On “Hold,” But Is “Still Committed”**
 
   * [Elon Musk says Twitter deal ‘on hold’ after spam / fake account report](https://www.theverge.com/2022/5/13/23070306/elon-musk-twitter-deal-on-hold-spam-inauthentic-accounts) (The Verge)
   * [Terraform Again Halts Blockchain Behind UST Stablecoin, Luna](https://www.bloomberg.com/news/articles/2022-05-13/terraform-again-halts-blockchain-behind-ust-stablecoin-luna?sref=Szq5ylDR) (Bloomberg)
@@ -1758,7 +1758,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 12 2022**
+**Thursday, May 12 2022 - Thu. 05/12 – The Everything Everywhere All At Once File Overflows**
 
   * [Terra Crunch Shakes Foundations of Crypto Stablecoin Complex](https://www.bloomberg.com/news/articles/2022-05-12/terra-implosion-shakes-foundations-of-crypto-stablecoin-complex?sref=Szq5ylDR) (Bloomberg)
   * [Exclusive: Facebook-owner Meta tells hardware staffers to prepare for cutbacks](https://www.reuters.com/technology/exclusive-facebook-owner-meta-tells-hardware-staffers-prepare-cutbacks-2022-05-11/) (Reuters)
@@ -1771,7 +1771,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 11 2022**
+**Wednesday, May 11 2022 - Wed. 05/11 – Google I/O 2022**
 
   * [Google Maps bringing a new ‘immersive view’ of select cities, Live View’s AR for other apps](https://9to5google.com/2022/05/11/google-maps-immersive-view/) (9to5Google)
   * [Google’s new ‘multisearch’ features hint towards an AR glasses future](https://techcrunch.com/2022/05/11/googles-new-multisearch-features-hint-towards-an-ar-glasses-future/?tpcc=tcplustwitter) (TechCrunch)
@@ -1788,7 +1788,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 10 2022**
+**Tuesday, May 10 2022 - Tue. 05/10 – UST Stablecoin Not So Stable**
 
   * [UST Stablecoin Loses Dollar Peg for Second Time in 48 Hours, LUNA Market Cap Falls Below UST's](https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/) (CoinDesk)
   * [Crypto’s Audacious Algorithmic Stablecoin Experiment Crumbles](https://www.bloomberg.com/news/articles/2022-05-10/crypto-s-audacious-algorithmic-stablecoin-experiment-crumbles?sref=Szq5ylDR) (Bloomberg)
@@ -1800,7 +1800,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 09 2022**
+**Monday, May 09 2022 - Mon. 05/09 – Everything Is Down**
 
   * [Bitcoin’s Unraveling Hits 50% From Peak With Drop Below $33,000](https://www.bloomberg.com/news/articles/2022-05-09/bitcoin-tumbles-below-33-000-to-lowest-level-since-july-2021?sref=Szq5ylDR) (Bloomberg)
   * [Uber CEO tells staff company will cut down on costs, treat hiring as a ‘privilege’](https://www.cnbc.com/2022/05/09/uber-to-cut-down-on-costs-treat-hiring-as-a-privilege-ceo-email.html) (CNBC)
@@ -1811,7 +1811,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 06 2022**
+**Friday, May 06 2022 - Fri. 05/06 – Give Us The Passwordless Future Already**
 
   * [Apple, Google, Microsoft Back 'FIDO' Tech to Dump Passwords on Websites and Apps](https://www.cnet.com/tech/services-and-software/apple-google-microsoft-back-fido-tech-to-dump-passwords-on-websites-and-apps/) (CNET)
   * [China Orders Government, State Firms to Dump Foreign PCs](https://www.bloomberg.com/news/articles/2022-05-06/china-orders-government-state-firms-to-dump-foreign-pcs?sref=Szq5ylDR) (Bloomberg)
@@ -1820,7 +1820,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 05 2022**
+**Thursday, May 05 2022 - Thu. 05/05 – Elon To Be Twitter CEO?**
 
   * [Ellison, Binance and Sequoia back Musk’s $44bn bid for Twitter](https://www.ft.com/content/e2c6123b-eb42-41df-bc82-111f67882ac3) (FT)
   * [Google bought a MicroLED display company that could help make AR headsets better and cheaper](https://www.theverge.com/2022/5/4/23057579/google-acquires-raxium-microled-ar-vr-displays?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1832,7 +1832,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 04 2022**
+**Wednesday, May 04 2022 - Wed. 05/04 – Uber Back To Pre-Covid Levels**
 
   * [Uber reports surging revenue as drivers return, but posts massive loss on investments](https://www.cnbc.com/2022/05/04/uber-q1-2022-earnings.html) (CNBC)
   * [NFT Sales Are Flatlining](https://www.wsj.com/articles/nft-sales-are-flatlining-11651552616?mod=djemalertNEWS) (WSJ)
@@ -1845,7 +1845,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 03 2022**
+**Tuesday, May 03 2022 - Tue. 05/03 – No More Podcasting On Facebook**
 
   * [Facebook Pulls the Plug on Podcast Business After a Year](https://www.bloomberg.com/news/articles/2022-05-02/facebook-is-planning-to-leave-the-podcast-business-after-a-year?sref=Szq5ylDR) (Bloomberg)
   * [SEC to Hire More Crypto Cops to Fight Digital Frauds](https://www.wsj.com/articles/sec-to-hire-more-crypto-cops-to-fight-digital-frauds-11651568403?mod=djemalertNEWS) (WSJ)
@@ -1857,7 +1857,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 02 2022**
+**Monday, May 02 2022 - Mon. 05/02 – EU Says Apple’s NFC Chips Don’t Play Well With Others**
 
   * [Apple charged by Brussels with abusing its market power in mobile payments](https://www.ft.com/content/de7a0c50-e087-4db3-9cb3-ed1d3c1a4b8b) (Financial Times)
   * [Bored Ape Metaverse Frenzy Raises Millions, Crashes Ethereum](https://www.bloomberg.com/news/articles/2022-05-01/bored-ape-metaverse-frenzy-raises-millions-disrupts-ethereum?sref=Szq5ylDR) (Bloomberg)
@@ -1869,7 +1869,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 29 2022**
+**Friday, April 29 2022 - Fri. 04/29 – Snap’s Pixy Drone Is A Flying Camera**
 
   * [Snap announces a mini drone called Pixy](https://techcrunch.com/2022/04/28/snap-announces-a-mini-drone-called-pixy/) (TechCrunch)
   * [Snap Pixy Review: Don’t Call It a Drone or a Selfie Stick—Even Though It’s Both](https://www.wsj.com/articles/snap-pixy-review-dont-call-it-a-drone-or-a-selfie-stickeven-though-its-both-11651165460?mod=djemalertNEWS) (WSJ)
@@ -1879,7 +1879,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 28 2022**
+**Thursday, April 28 2022 - Thu. 04/28 – Twitter’s Last Ever Earnings Report?**
 
   * [Twitter reports user bump, revenue miss for Q1, days after accepting Musk’s takeover bid](https://www.cnbc.com/2022/04/28/twitter-twtr-earnings-q1-2022.html) (CNBC)
   * [Twitter miscounted its daily users for three years straight](https://www.theverge.com/2022/4/28/23046170/twitter-miscounted-daily-users-three-years-q1-2022-earnings?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1892,7 +1892,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 27 2022**
+**Wednesday, April 27 2022 - Wed. 04/27 – Earnings Quick Hits**
 
   * [Alphabet Announces First Quarter 2022 Results](https://abc.xyz/investor/static/pdf/2022Q1_alphabet_earnings_release.pdf) (Alphabet)
   * [Earnings Release FY22 Q3](https://www.microsoft.com/en-us/Investor/earnings/FY-2022-Q3/) (Microsoft)
@@ -1904,7 +1904,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 26 2022**
+**Tuesday, April 26 2022 - Tue. 04/26 – Twitter, Now Under New Management**
 
   * [Twitter accepts Elon Musk’s buyout deal](https://www.cnbc.com/2022/04/25/twitter-accepts-elon-musks-buyout-deal.html) (CNBC)
   * [Elon Musk buys Twitter](https://www.platformer.news/p/elon-musk-buys-twitter?s=r) (Platformer/Casey Newton)
@@ -1928,7 +1928,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 22 2022**
+**Friday, April 22 2022 - Fri. 04/22 – The Demise Of CNN+ Makes Quibi Look Good**
 
   * [CNN+ Streaming Service Will Shut Down Weeks After Its Start](https://www.nytimes.com/2022/04/21/business/cnn-plus-shutting-down.html) (NYTimes)
   * [a16z Crypto is launching an academic research lab focused on web3](https://www.theblockcrypto.com/post/142869/a16z-crypto-is-launching-an-academic-research-lab-focused-on-web3) (The Block)
@@ -1936,7 +1936,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 21 2022**
+**Thursday, April 21 2022 - Thu. 04/21 – Ok. Funding Actually Secured?**
 
   * [Twitter Has a Poison Pill Now](https://www.bloomberg.com/opinion/articles/2022-04-18/twitter-has-a-poison-pill-now?sref=Szq5ylDR) (Matt Levine/Bloomberg)
   * [Elon Musk Says He Has Commitments for $46.5 Billion in Financing for Twitter Deal](https://www.wsj.com/articles/elon-musk-says-he-has-commitments-for-46-5-billion-in-financing-for-twitter-deal-11650549097?mod=djemalertNEWS) (WSJ)
@@ -1951,7 +1951,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 20 2022**
+**Wednesday, April 20 2022 - Wed. 04/20 – Netflix Earnings Bomb; Ads To The Rescue?**
 
   * [Netflix Q1 net subscribers unexpectedly decline, revenue misses expectations](https://finance.yahoo.com/news/netflix-earnings-preview-q1-2022-subscribers-145328663.html) (Yahoo!Finance)
   * [Netflix Plans to Launch Cheaper Ad-Supported Plans](https://www.hollywoodreporter.com/business/digital/netflix-launching-ad-supported-plans-1235132378/) (The Hollywood Reporter)
@@ -1964,7 +1964,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 19 2022**
+**Tuesday, April 19 2022 - Tue. 04/19 – Scraping The Web’s Still Legal**
 
   * [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/) (TechCrunch)
   * [Twitter's in-development Edit button offers hints as to how the feature could work](https://techcrunch.com/2022/04/18/twitters-in-development-edit-button-offers-hints-as-to-how-the-feature-could-work/) (TechCrunch)
@@ -1975,13 +1975,13 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Saturday, April 16 2022**
+**Saturday, April 16 2022 - (TWTR SPC) How To Navigate Tech As An Employee W/ @GergelyOrosz**
 
   * [**Composer.trade/ride**](https://composer.trade/ride)
 
 
 
-**Friday, April 15 2022**
+**Friday, April 15 2022 - Fri. 04/15 – Twitter To (Poison) Pill Elon?**
 
   * [Twitter Is Weighing a Poison Pill Defense to Thwart Elon Musk’s Takeover Bid](https://www.bloomberg.com/news/articles/2022-04-14/twitter-is-said-to-weigh-poison-pill-defense-to-thwart-musk-bid?sref=Szq5ylDR) (Bloomberg)
   * [Twitter Board Expected To Fight Musk Offer](https://www.theinformation.com/articles/twitter-board-expected-to-fight-musk-offer?rc=64g9cw) (The Information)
@@ -1991,7 +1991,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 14 2022**
+**Thursday, April 14 2022 - Thu. 04/14 – Elon Hostile Takeover Of Twitter (Funding Secured?)**
 
   * [Elon Musk Makes $43 Billion Unsolicited Bid to Take Twitter Private](https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter?sref=Szq5ylDR) (Bloomberg)
   * [US agencies warn of custom-made hacking tools targeting energy sector systems](https://therecord.media/us-agencies-warn-of-custom-made-hacking-tools-targeting-energy-sector-systems/) (The Record)
@@ -2001,7 +2001,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 13 2022**
+**Wednesday, April 13 2022 - Wed. 04/13 – Microsoft and ESET Help Ukraine Keep The Lights On**
 
   * [Researchers find new malware variant after stopping attack on Ukrainian energy provider](https://therecord.media/researchers-find-new-malware-variant-after-stopping-attack-on-ukrainian-energy-provider/) (The Record)
   * [Former Ethereum Developer Virgil Griffith Sentenced to 5+ Years in Prison for North Korea Trip](https://www.coindesk.com/business/2022/04/12/former-ethereum-developer-virgil-griffith-sentenced-to-5-years-in-prison-for-north-korea-trip/) (CoinDesk)
@@ -2014,7 +2014,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 12 2022**
+**Tuesday, April 12 2022 - Tue. 04/12 – Meta Will Pay You To Get Creative In VR**
 
   * [Meta will let Horizon creators sell virtual items](https://www.theverge.com/2022/4/11/23020684/meta-horizon-worlds-test-creators-sell-virtual-items-monetization?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Ethereum Undergoes Another Stress Test Ahead of Software Change](https://www.bloomberg.com/news/articles/2022-04-11/ethereum-undergoes-another-stress-test-ahead-of-software-change?sref=Szq5ylDR) (Bloomberg)
@@ -2027,7 +2027,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 11 2022**
+**Monday, April 11 2022 - Mon. 04/11 – Elon DECLINES A Twitter Board Seat**
 
   * [Elon has decided not to join our board. I sent a brief note to the company, sharing with you all here.](https://twitter.com/paraga/status/1513354622466867201) (Parag Agrawal)
   * [China Ends Game Freeze by Approving First Titles Since July](https://www.bloomberg.com/news/articles/2022-04-11/china-ends-game-freeze-by-handing-out-first-licenses-since-july?sref=Szq5ylDR) (Bloomberg)
@@ -2037,7 +2037,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 08 2022**
+**Friday, April 08 2022 - Fri. 04/08 – Elon To Give A “Hello, Fellow Tweeps” AMA**
 
   * [Elon Musk to address Twitter staff after internal outcry](https://www.washingtonpost.com/technology/2022/04/07/musk-twitter-employee-outcry/) (Washington Post)
   * [Twitter test lets you 'unmention' yourself in tweets](https://www.engadget.com/twitter-unmention-web-test-191218964.html) (Engadget)
@@ -2047,7 +2047,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 07 2022**
+**Thursday, April 07 2022 - Thu. 04/07 – Zuck Bucks**
 
   * [Facebook owner Meta targets finance with ‘Zuck Bucks’ and creator coins](https://www.ft.com/content/50fbe9ba-32c8-4caf-a34e-234031019371) (FT)
   * [Google Play will hide and block downloads for outdated apps starting later this year](https://techcrunch.com/2022/04/06/google-play-will-hide-and-block-downloads-for-outdated-apps-starting-later-this-year/) (TechCrunch)
@@ -2060,7 +2060,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 06 2022**
+**Wednesday, April 06 2022 - Wed. 04/06 – Twitter Says Yes To An Edit Button?**
 
   * [Musk Refiles Twitter Disclosure to Show He’s an Active Investor](https://www.bloomberg.com/news/articles/2022-04-05/musk-refiles-twitter-stake-disclosure-to-active-investor-status?sref=Szq5ylDR) (Bloomberg)
   * [Twitter is adding an edit button](https://www.theverge.com/2022/4/5/23011327/twitter-edit-button-blue-test?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2073,7 +2073,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 05 2022**
+**Tuesday, April 05 2022 - Tue. 04/05 – Twitter Adds “Passive Investor” Elon Musk To Its Board**
 
   * [Elon Musk to join Twitter’s board of directors, teases ‘significant improvements’](https://www.cnbc.com/2022/04/05/elon-musk-to-join-twitters-board-of-directors.html) (CNBC)
   * [Elon Musk Bought Some Twitter](https://www.bloomberg.com/opinion/articles/2022-04-04/elon-musk-bought-some-twitter?sref=Szq5ylDR) (Bloomberg/Matt Levine)
@@ -2086,7 +2086,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 04 2022**
+**Monday, April 04 2022 - Mon. 04/04 – Elon Musk To Take Twitter Private? Funding Secured?**
 
   * [Elon Musk Takes 9.2% Stake in Twitter After Hinting at Shake-Up](https://www.bloomberg.com/news/articles/2022-04-04/musk-takes-9-2-stake-in-twitter-after-questioning-platform?sref=Szq5ylDR) (Bloomberg)
   * [Alphabet's Wing will begin drone deliveries in Dallas-Fort Worth on April 7th](https://www.engadget.com/alphabets-wing-drone-delivery-service-comes-to-texas-on-april-7th-120059178.html) (Engadget)
@@ -2097,7 +2097,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 01 2022**
+**Friday, April 01 2022 - Fri 04/01 – Is E3 Dead? Or Just Resting?**
 
   * [E3 2022 - Digital and Physical - Has Officially Been Canceled](https://www.ign.com/articles/e3-2022-officially-canceled) (IGN)
   * [Food Delivery Stocks Lose $24 Billion in Just Three Months](https://www.bloomberg.com/news/articles/2022-04-01/food-delivery-stocks-in-the-cold-without-showing-path-to-profit?sref=Szq5ylDR) (Bloomberg)
@@ -2106,7 +2106,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 31 2022**
+**Thursday, March 31 2022 - Thu. 03/31 – Hackers Forging Emergency Data Requests**
 
   * [Apple and Meta Gave User Data to Hackers Who Used Forged Legal Requests](https://www.bloomberg.com/news/articles/2022-03-30/apple-meta-gave-user-data-to-hackers-who-forged-legal-requests?sref=Szq5ylDR) (Bloomberg)
   * [Wyze Cam flaw lets hackers remotely access your saved videos](https://www.bleepingcomputer.com/news/security/wyze-cam-flaw-lets-hackers-remotely-access-your-saved-videos/) (BleepingComputer)
@@ -2118,7 +2118,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 30 2022**
+**Wednesday, March 30 2022 - Wed. 03/30 – The Axie Infinity Hack**
 
   * [Axie Infinity’s Ronin Network Suffers $625M Exploit](https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/) (CoinDesk)
   * [Axie Infinity Owner ‘Fully Committed’ to Reimbursing Players After Hack](https://www.bloomberg.com/news/articles/2022-03-30/axie-owner-fully-committed-to-reimbursing-players-after-hack?sref=Szq5ylDR) (Bloomberg)
@@ -2131,7 +2131,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 29 2022**
+**Tuesday, March 29 2022 - Tue. 03/29 – And Now NFL+ ?**
 
   * [Sony merges PS Now and PS Plus to create three-tier subscription service](https://www.gamesindustry.biz/articles/2022-03-29-sony-merges-ps-now-and-ps-plus-to-create-three-tier-subscription-service) (GamesIndustry.biz)
   * [Sony announces new PlayStation Plus subscriptions, its answer to Xbox Game Pass](https://www.theverge.com/2022/3/29/23001164/sony-playstation-plus-subscriptions-price-release-date) (The Verge)
@@ -2142,7 +2142,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 28 2022**
+**Monday, March 28 2022 - Mon. 03/28 – Apple Wins Best Picture Oscar**
 
   * [Apple Is First Streamer to Win Best Picture Oscar for ‘CODA’](https://variety.com/2022/film/news/apple-best-picture-oscar-coda-1235213717/) (Variety)
   * [Kuo: iPhone 14 Pro's Larger Camera Bump Due to New 48MP Camera System](https://www.macrumors.com/2022/03/27/iphone-14-pro-larger-camera-bump-48mp-system/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2155,7 +2155,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 25 2022**
+**Friday, March 25 2022 - Fri. 03/25 – Will Europe’s DMA Force AIM And MSN Messenger To Talk To Each Other?**
 
   * [https://bank.gov.ua/en/about/support-the-armed-forces](https://mailtrack.io/trace/link/0903bd822ea413270b70b989af72a30fa0223fcf?url=https%3A%2F%2Fbank.gov.ua%2Fen%2Fabout%2Fsupport-the-armed-forces&userId=5147503&signature=59a03585290e818f)
   * [https://www.1kproject.org/](https://mailtrack.io/trace/link/08e9072287d15f07fca800aa069e776bcdbb4c4d?url=https%3A%2F%2Fwww.1kproject.org%2F&userId=5147503&signature=0059c24d497a356f)
@@ -2169,7 +2169,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 24 2022**
+**Thursday, March 24 2022 - Thu. 03/24 – Is A 16-Year-Old Behind Lapsus$?**
 
   * [Teen Suspected by Cyber Researchers of Being Lapsus$ Mastermind](https://www.bloomberg.com/news/articles/2022-03-23/teen-suspected-by-cyber-researchers-of-being-lapsus-mastermind?sref=Szq5ylDR) (Bloomberg)
   * [A Closer Look at the LAPSUS$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/) (KrebsonSecurity)
@@ -2181,7 +2181,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 23 2022**
+**Wednesday, March 23 2022 - Wed. 03/23 – Maybe Apple Should Just Start A Bank**
 
   * [The Third-Party Okta Hack Leaves Customers Scrambling](https://www.wired.com/story/okta-hack-customers-lapsus-breach/) (Wired)
   * [Apple acquires UK open banking startup Credit Kudos](https://www.theblockcrypto.com/post/138898/apple-acquires-uk-open-banking-startup-credit-kudos) (The Block)
@@ -2195,7 +2195,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 22 2022**
+**Tuesday, March 22 2022 - Tue. 03/22 – A Day Of All The Infosec News**
 
   * [Statement by President Biden on our Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/statements-releases/2022/03/21/statement-by-president-biden-on-our-nations-cybersecurity/) (WhiteHouse.gov)
   * [Is Russia exploring cyberattacks against U.S. in response to hacktivists?](https://venturebeat.com/2022/03/21/is-russia-exploring-cyberattacks-against-u-s-in-response-to-hacktivists/?mid=1) (VentureBeat)
@@ -2208,7 +2208,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 21 2022**
+**Monday, March 21 2022 - Mon. 03/21 – Telegram Was Banned In Brazil Until It Wasn’t**
 
   * [Telegram forgot to check its email and now it’s banned in Brazil](https://www.theverge.com/2022/3/18/22985737/telegram-brazil-supreme-court-ban-email-address-statement-durov) (The Verge)
   * [Brazil Lifts Its Ban on Telegram After Two Days](https://www.nytimes.com/2022/03/20/world/americas/brazil-telegram-bolsonaro.html) (NYTimes)
@@ -2220,7 +2220,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 18 2022**
+**Friday, March 18 2022 - $APE GMI?**
 
   * [Australian watchdog sues Facebook-owner Meta over scam advertisements](https://www.reuters.com/technology/australia-watchdog-sues-facebook-owner-meta-over-false-cryptocurrency-ads-2022-03-17/) (Reuters)
   * [Bored Ape Yacht Club Ethereum NFT Sales Surge as ApeCoin Price Pops, Then Drops](https://decrypt.co/95318/bored-ape-yacht-club-ethereum-nft-sales-apecoin-price) (Decrypt)
@@ -2228,7 +2228,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 17 2022**
+**Thursday, March 17 2022 - Thu. 03/17 – Netflix Wants You To Make Your Freeloaders Pay Up**
 
   * [Google I/O takes place May 11th and 12th, and it will be fully available online](https://www.theverge.com/2022/3/16/22981868/google-i-o-2022-may-11th-12th-online-virtual?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Tech Executives Threatened With Jail Time Under Proposed U.K. Law](https://www.theinformation.com/articles/tech-executives-threatened-with-jail-time-under-proposed-u-k-law?rc=64g9cw) (The Information)
@@ -2239,7 +2239,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 16 2022**
+**Wednesday, March 16 2022 - Wed. 03/16 – NFTs Coming To Instagram “Soon”**
 
   * [Instagram rolls out new safety tools for parents](https://techcrunch.com/2022/03/16/instagram-rolls-out-new-safety-tools-for-parents/) (TechCrunch)
   * [Mark Zuckerberg confirms NFTs are coming to Instagram](https://www.engadget.com/mark-zuckerberg-confirms-nf-ts-are-coming-to-instagram-204435805.html) (Engadget)
@@ -2252,7 +2252,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 15 2022**
+**Tuesday, March 15 2022 - Tue. 03/15 – Rebuilding The Cable Bundle, Example #937**
 
   * [UK chipmaker Arm to cut up to 1,000 jobs after $40bn sale collapses](https://www.theguardian.com/business/2022/mar/15/uk-chipmaker-arm-cut-jobs-sale-uk-us-nvidia) (The Guardian)
   * [Get Ready for Faster Game Load Times With DirectStorage for Windows](https://www.pcmag.com/news/get-ready-for-faster-game-load-times-with-directstorage-for-windows) (PC Mag)
@@ -2266,7 +2266,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 14 2022**
+**Monday, March 14 2022 - Mon. 03/14 – Foxconn Shutting Factories Cause Of Covid. Again.**
 
   * [Foxconn Halts iPhone Shenzhen Site Due to Covid Lockdown](https://www.bloomberg.com/news/articles/2022-03-14/foxconn-halts-iphone-shenzhen-site-due-to-covid-lockdown?sref=Szq5ylDR) (Bloomberg)
   * [Kuo: Only iPhone 14 Pro Models to Get 'A16' Chip, Standard Models to Retain A15](https://www.macrumors.com/2022/03/13/kuo-only-iphone-14-pro-models-to-get-a16-chip/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2278,7 +2278,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 11 2022**
+**Friday, March 11 2022 - Fri. 03/11 – Russia Bans Instagram And Designates Meta As An “Extremist Organization”**
 
   * [Russia Asks Court to Label Facebook, Instagram as ‘Extremist’](https://www.bloomberg.com/news/articles/2022-03-11/russia-asks-court-to-label-facebook-instagram-as-extremist?sref=Szq5ylDR) (Bloomberg)
   * [DuckDuckGo reverses course, will demote Russian propaganda in search results](https://www.engadget.com/duck-duck-go-reverses-course-will-demote-russian-propaganda-in-search-results-014336389.html) (Engadget)
@@ -2288,7 +2288,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 10 2022**
+**Thursday, March 10 2022 - Thu. 03/10 – Apple Hasn’t Forgotten About The Mac Mini**
 
   * [Exclusive: Updated Mac mini to have versions with M2 and M2 Pro chip](https://9to5mac.com/2022/03/09/exclusive-updated-mac-mini-to-have-versions-with-m2-and-m2-pro-chip/) (9to5Mac)
   * [27-Inch 'Studio Display Pro' With Mini-LED and ProMotion Could Launch in June](https://www.macrumors.com/2022/03/10/studio-display-pro-launch-in-june/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2299,7 +2299,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 09 2022**
+**Wednesday, March 09 2022 - Wed. 03/09 – The Regulatory Era For Crypto Starts Today**
 
   * [Biden Orders Study of Cryptocurrency Risk, Creation of U.S. Digital Currency](https://www.wsj.com/articles/biden-to-order-study-of-cryptocurrency-risk-creation-of-u-s-digital-currency-11646823600?mod=djemalertNEWS) (WSJ)
   * [Amazon Flagged to Justice Department for Possible Criminal Obstruction of Congress](https://www.wsj.com/articles/amazon-flagged-to-justice-department-for-possible-criminal-obstruction-of-congress-11646827200?mod=djemalertNEWS) (WSJ)
@@ -2311,7 +2311,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 08 2022**
+**Tuesday, March 08 2022 - Tue. 03/08 – The Spring Apple Event**
 
   * [Apple’s Mac Studio is a new desktop for creative professionals](https://www.theverge.com/2022/3/8/22962081/apple-mac-studio-m1-max-ultra-price-specs-processor-release-date?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple unveils the M1 Ultra, its most powerful chip yet](https://www.engadget.com/apple-m1-ultra-chip-183009164.html) (Engadget)
@@ -2323,7 +2323,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 07 2022**
+**Monday, March 07 2022 - Mon. 03/07 – Samsung Source Code Leaked?**
 
   * [Cybercriminals who breached Nvidia issue one of the most unusual demands ever](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/) (ArsTechnica)
   * [Malware now using NVIDIA's stolen code signing certificates](https://www.bleepingcomputer.com/news/security/malware-now-using-nvidias-stolen-code-signing-certificates/) (Bleeping Computer)
@@ -2335,7 +2335,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 04 2022**
+**Friday, March 04 2022 - Fri. 03/04 – Disney+ Now With Ads!**
 
   * [Twitter to reopen offices March 15, though remote work remains an option](https://www.cnbc.com/2022/03/03/twitter-to-reopen-offices-march-15-though-remote-work-still-an-option.html) (CNBC)
   * [Disney+ to launch cheaper ad-supported tier later this year](https://www.cnbc.com/2022/03/04/disney-to-launch-cheaper-ad-supported-tier-later-this-year.html) (CNBC)
@@ -2345,7 +2345,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 03 2022**
+**Thursday, March 03 2022 - Thu. 03/03 – Epic Buys Bandcamp; Amazon Retrenches From Physical Retail**
 
   * [Ukraine cancels crypto airdrop, plans to sell NFTs instead](https://www.theblockcrypto.com/linked/136211/ukraine-cancels-crypto-airdrop-plans-to-sell-nfts-instead) (The Block)
   * [The Ukrainian leader who is pushing Silicon Valley to stand up to Russia](https://www.washingtonpost.com/technology/2022/03/02/mykhailo-fedorov-ukraine-tech/) (Washington Post)
@@ -2358,7 +2358,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 02 2022**
+**Wednesday, March 02 2022 - Wed. 03/02 – Will Poker Be The Killer App For The Metaverse?**
 
   * [Prominent tech companies that originated from Ukraine](https://analyticsindiamag.com/prominent-tech-companies-that-originated-from-ukraine/#:~:text=Samsung%2C%20Microsoft%2C%20Ring%2C%20Snap,such%20as%20Britain%20and%20Poland) (Analytics India)
   * [Fitbit recall confirms its Ionic smartwatch could overheat and burn you](https://www.engadget.com/fitibit-recall-ionic-smartwatches-burn-hazard-131539888.html) (Engadget)
@@ -2369,7 +2369,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 01 2022**
+**Tuesday, March 01 2022 - Tue. 03/01 – Uber “Explore”**
 
   * [Netflix Won’t Add Russian Broadcasters to Service, Defying New Regulation](https://www.wsj.com/articles/netflix-wont-add-russian-channels-to-service-defying-new-regulation-11646076964?mod=djemalertNEWS) (WSJ)
   * [Crypto Exchanges Refuse to Freeze All Russian Accounts](https://www.vice.com/en/article/7kbdqq/crypto-exchanges-refuse-to-freeze-all-russian-accounts) (Motherboard)
@@ -2381,7 +2381,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 28 2022**
+**Monday, February 28 2022 - Mon. 02/28 – The Tech World Rides The War Whirlwind**
 
   * [Customers of banks targeted by Russia sanctions are unable to use Apple Pay or Google Pay](https://www.businessinsider.com/russian-banks-sanctions-apple-google-pay-ukraine-invasion-money-cards-2022-2?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
   * [Google blocks RT, other Russian channels from earning ad dollars](https://www.reuters.com/technology/youtube-blocks-rt-other-russian-channels-generating-revenue-2022-02-26/) (Reuters)
@@ -2401,7 +2401,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 25 2022**
+**Friday, February 25 2022 - Fri. 02/25 – The Ukraine Fallout Continues For Tech**
 
   * [Social media platforms on the defensive as Russian-based disinformation about Ukraine spreads](https://www.politico.com/news/2022/02/24/social-media-platforms-russia-ukraine-disinformation-00011559) (Politico)
   * [Google Faces Sanctions Dilemma With Pro-Russia YouTube Channels](https://www.bloomberg.com/news/articles/2022-02-24/google-faces-sanctions-dilemma-with-pro-russia-youtube-channels?sref=Szq5ylDR) (Bloomberg)
@@ -2411,7 +2411,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 24 2022**
+**Thursday, February 24 2022 - Thu. 02/24 – There Actually IS A Tech Angle To Ukraine**
 
   * [Ukrainian gov't sites disrupted by DDoS, wiper malware discovered](https://www.zdnet.com/article/ukrainian-govt-sites-banks-disrupted-by-ddos-amid-invasion-fears/) (ZDNet)
   * [Stablecoins Soar in Value as Everything Else in Crypto Shrinks](https://www.bloomberg.com/news/articles/2022-02-24/stablecoins-soar-in-value-as-everything-else-in-crypto-shrinks?sref=Szq5ylDR) (Bloomberg)
@@ -2422,7 +2422,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 23 2022**
+**Wednesday, February 23 2022 - Wed. 02/23 – The Troubles At Truth Social**
 
   * [Trump’s Truth Social’s disastrous launch raises doubts about its long-term viability](https://www.washingtonpost.com/technology/2022/02/22/trump-truth-social-disaster/) (Washington Post)
   * [Fed Up With Google, Conspiracy Theorists Turn to DuckDuckGo](https://www.nytimes.com/2022/02/23/technology/duckduckgo-conspiracy-theories.html) (NYTimes)
@@ -2434,7 +2434,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 22 2022**
+**Tuesday, February 22 2022 - Tue. 02/22 – The Original (DAO) Sin Solved?**
 
   * [Exclusive: Austrian Programmer And Ex Crypto CEO Likely Stole $11 Billion Of Ether](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=1c6fe8fc7f58) (Forbes)
   * [Sony finally reveals the PlayStation VR2’s design](https://www.theverge.com/2022/2/22/21437559/sony-playstation-vr2-psvr-announcement-design-reveal) (The Verge)
@@ -2445,7 +2445,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 21 2022**
+**Monday, February 21 2022 - Mon. 02/21 – When The Contract Allows Your NFTs To Be Stolen**
 
   * [OpenSea Investigating ‘Exploit Rumors’ as Users Complain of Missing NFTs](https://www.coindesk.com/business/2022/02/20/opensea-investigating-exploit-rumors-as-users-complain-of-missing-nfts/) (CoinDesk)
   * [$1.7 million in NFTs stolen in apparent phishing attack on OpenSea users](https://www.theverge.com/2022/2/20/22943228/opensea-phishing-hack-smart-contract-bug-stolen-nft) (The Verge)
@@ -2458,7 +2458,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 18 2022**
+**Friday, February 18 2022 - Fri. 02/18 – Microsoft Account Now Required**
 
   * [You’ll need a Microsoft account to set up future versions of Windows 11 Pro](https://arstechnica.com/gadgets/2022/02/new-preview-build-adds-microsoft-account-requirement-to-windows-11-pro/) (ArsTechnica)
   * [Intel Discloses Multi-Generation Xeon Scalable Roadmap](https://www.anandtech.com/show/17259/intel-discloses-multigeneration-xeon-scalable-roadmap-new-ecore-only-xeons-in-2024) (AnandTech)
@@ -2467,7 +2467,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 17 2022**
+**Thursday, February 17 2022 - Thu. 02/17 – A Y2K Bug For Our Times?**
 
   * [Mozilla warns Chrome, Firefox ‘100’ user agents may break sites](https://www.bleepingcomputer.com/news/software/mozilla-warns-chrome-firefox-100-user-agents-may-break-sites/) (BleepingComputer)
   * [Meta’s Clegg Promoted as Zuckerberg Steps Back From Policy](https://www.bloomberg.com/news/articles/2022-02-16/meta-s-clegg-gets-promotion-as-zuckerberg-steps-back-from-policy?sref=Szq5ylDR) (Bloomberg)
@@ -2479,7 +2479,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 16 2022**
+**Wednesday, February 16 2022 - Wed. 02/16 – Uber Pulls Back The Curtain On YOUR Ratings**
 
   * [Move fast, rename things: Facebook tries to boost morale with new slogans](https://www.washingtonpost.com/technology/2022/02/15/facebook-meta-metamates/) (Washington Post)
   * [Facebook rebrands News Feed after more than 15 years](https://www.theverge.com/2022/2/15/22935080/facebook-meta-news-feed-renaming-branding-political-content-misinformation?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2490,7 +2490,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 15 2022**
+**Tuesday, February 15 2022 - Tue. 02/15 – The Great Returning To The Office?**
 
   * [Microsoft and Expedia announce next phases in office reopenings, finally emerging from pandemic](https://www.geekwire.com/2022/microsoft-will-fully-reopen-in-washington-state-starting-feb-28-finally-emerging-from-pandemic/) (GeekWire)
   * [Intel to Buy Israel’s Tower Semiconductor for $5.4 Billion](https://www.bloomberg.com/news/articles/2022-02-15/intel-to-buy-israel-s-tower-semiconductor-for-5-4-billion?sref=Szq5ylDR) (Bloomberg)
@@ -2502,7 +2502,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 14 2022**
+**Monday, February 14 2022 - Mon. 02/14 – The Big Game Is Big For Crypto**
 
   * [Crypto apps soar in popularity after Super Bowl splurge](https://www.theblockcrypto.com/linked/134101/crypto-apps-soar-in-popularity-after-super-bowl-splurge) (The Block)
   * [iOS jailbreak dev wins $2M bounty for finding critical Optimism bug](https://cointelegraph.com/news/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug) (CoinTelegraph)
@@ -2514,7 +2514,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 11 2022**
+**Friday, February 11 2022 - Fri. 02/11 – A New CIA Bulk Surveillance Program?**
 
   * [Secret CIA Bulk Surveillance Program Includes Some Americans’ Records, Senators Say](https://www.wsj.com/articles/secret-cia-bulk-surveillance-program-includes-some-americans-records-senators-say-11644549582?mod=djemalertNEWS) (WSJ)
   * [Apple Announces AirTag Updates to Address Unwanted Tracking](https://www.macrumors.com/2022/02/10/airtag-updates-unwanted-tracking/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2522,7 +2522,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 10 2022**
+**Thursday, February 10 2022 - Thu. 02/10 – Code Hints Of Apple’s “realityOS”**
 
   * [Is ‘realityOS’ Apple’s newest operating system?](https://www.theverge.com/22925038/apple-realityos-augmented-reality-headset-operating-system-rumors?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [In a bid to appease regulators, Microsoft announces new app store principles](https://www.washingtonpost.com/technology/2022/02/09/microsoft-app-store-principles/) (The Washington Post)
@@ -2532,7 +2532,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 09 2022**
+**Wednesday, February 09 2022 - Wed. 02/09 – The Samsung Galaxy S22 Event**
 
   * [SAMSUNG’S GALAXY S22 AND S22 PLUS PUT IMPROVED CAMERAS AND PERFORMANCE IN A SAMEY DESIGN](https://www.theverge.com/2022/2/9/22922028/samsung-galaxy-s22-plus-price-features-specs?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [SAMSUNG’S GALAXY S22 ULTRA IS A NOTE BY ANOTHER NAME](https://www.theverge.com/2022/2/9/22917015/samsung-galaxy-s22-ultra-screen-price-specs-note?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2543,7 +2543,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 08 2022**
+**Tuesday, February 08 2022 - Tue. 02/08 – Nvidia And Arm Are Off**
 
   * [SoftBank’s $66bn sale of chip group Arm to Nvidia collapses](https://www.ft.com/content/59c0d5f9-ed6a-4de6-a997-f25faed58833) (THE (?)
   * [Peter Thiel to Exit Meta’s Board to Support Trump-Aligned Candidates](https://www.nytimes.com/2022/02/07/technology/peter-thiel-facebook.html) (NYTimes)
@@ -2556,7 +2556,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 07 2022**
+**Monday, February 07 2022 - Mon 02/07 – Rogangate And The ENS DAO Controversy**
 
   * [Spotify CEO Addresses Joe Rogan’s N-Word Use, Doubles Down on Keeping Podcaster on Platform](https://www.hollywoodreporter.com/business/digital/spotify-joe-rogan-daniel-ek-1235087928/) (The Hollywood Reporter)
   * [Spotify CEO defends Joe Rogan deal in tense company town hall](https://www.theverge.com/2022/2/3/22915456/spotify-ceo-joe-rogan-daniel-ek-town-hall-speech-platform-podcast) (The Verge)
@@ -2568,7 +2568,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 04 2022**
+**Friday, February 04 2022 - Fri. 02/04 – Tech Earnings Whiplash!**
 
   * [Snap shares rocket as much as 62% on first-ever quarterly net profit](https://www.cnbc.com/2022/02/03/snap-q4-2021-earnings.html) (CNBC)
   * [Amazon Flexes Its Pricing Muscles](https://www.wsj.com/articles/amazon-flexes-its-pricing-muscles-11643930874) (WSJ)
@@ -2577,7 +2577,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 03 2022**
+**Thursday, February 03 2022 - Thu. 02/03 – Meta.Bomb**
 
   * [Meta estimates Apple's iOS changes will cost it $10B in 2022](https://www.zdnet.com/article/meta-estimates-apples-ios-changes-will-cost-it-10b-in-2022/) (ZDNet)
   * [Facebook and Google’s Ad Addiction Can’t Last Forever](https://www.bloomberg.com/opinion/articles/2022-02-03/facebook-and-google-s-ad-addiction-can-t-last-forever-thanks-to-tiktok-web3?sref=Szq5ylDR) (Bloomberg Opinion)
@@ -2588,7 +2588,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 02 2022**
+**Wednesday, February 02 2022 - Wed. 02/02 – YouTube Bigger Than Netflix?**
 
   * [Google parent Alphabet announces 20-for-1 stock split](https://www.cnbc.com/2022/02/01/google-parent-alphabet-announces-20-for-1-stock-split.html) (CNBC)
   * [Cruise, loaded with another $1.35B from SoftBank, opens up driverless ride-hailing to the public](https://techcrunch.com/2022/02/01/cruise-loaded-with-another-1-35b-from-softbank-opens-up-driverless-ride-hailing-to-the-public/) (TechCrunch)
@@ -2598,7 +2598,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 01 2022**
+**Tuesday, February 01 2022 - Tue. 02/01 – Destiny And Wordle Get Acquired**
 
   * [Sony buying Bungie for $3.6 billion](https://www.gamesindustry.biz/articles/2022-01-31-sony-buying-bungie-for-usd3-6-billion) (GamesIndustry.biz)
   * [SONY’S BUNGIE ACQUISITION IS ALL ABOUT FORTNITE](https://www.theverge.com/2022/2/1/22912075/sony-bungie-acquisition-fortnite-playstation-destiny-live-service-games) (The Verge)
@@ -2610,7 +2610,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 31 2022**
+**Monday, January 31 2022 - Mon. 01/31 – Spotify “Clarifies” The Joe Rogan Situation**
 
   * [Spotify finally responds to Joe Rogan controversy with a plan to label podcasts that discuss COVID-19](https://www.theverge.com/2022/1/30/22909432/spotify-covid-19-moderation-joe-rogan-vaccine-misinformation?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Joe Rogan defends podcast and apologizes to Spotify for backlash](https://www.theverge.com/2022/1/31/22910039/joe-rogan-response-neil-young-joni-mitchell-spotify?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2622,7 +2622,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 28 2022**
+**Friday, January 28 2022 - Fri. 01/28 – Making GPT-3 Less Gross**
 
   * [Apple CEO: ‘We Don’t Make Purely Financial Decisions’ About Apple TV Plus Content](https://variety.com/2022/digital/news/apple-tv-plus-purely-financial-decisions-ceo-tim-cook-1235165656/) (Variety)
   * [iOS 15.4 Beta Lets You Use Face ID With a Mask On](https://www.macrumors.com/2022/01/27/face-id-mask-ios-15-4/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2631,7 +2631,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 27 2022**
+**Thursday, January 27 2022 - Thu. 01/27 – Apple To Block Block (Née Square)?**
 
   * [Apple to Rival Square by Turning iPhones Into Payment Terminals](https://www.bloomberg.com/news/articles/2022-01-27/apple-to-let-iphones-accept-credit-cards-without-extra-hardware?sref=Szq5ylDR) (Bloomberg)
   * [Spotify Takes Down Neil Young’s Music After His Joe Rogan Ultimatum](https://www.wsj.com/articles/neil-youngs-music-is-being-taken-down-by-spotify-after-ultimatum-over-joe-rogan-11643230104?mod=djemalertNEWS) (WSJ)
@@ -2644,7 +2644,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 26 2022**
+**Wednesday, January 26 2022 - Wed. 01/26 – Diem Dead?**
 
   * [Mark Zuckerberg’s Stablecoin Ambitions Unravel With Diem Sale Talks](https://www.bloomberg.com/news/articles/2022-01-25/zuckerberg-s-stablecoin-ambitions-unravel-with-diem-sale-talks?sref=Szq5ylDR) (Bloomberg)
   * [Ditch Bitcoin: IMF Urges El Salvador to Rethink Crypto](https://www.bloomberg.com/news/articles/2022-01-25/imf-board-urges-el-salvador-to-ditch-bitcoin-as-legal-tender?sref=Szq5ylDR) (Bloomberg)
@@ -2655,7 +2655,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 25 2022**
+**Tuesday, January 25 2022 - Tue. 01/25 – Is The Nvidia/Arm Deal Off?**
 
   * [Nvidia Quietly Prepares to Abandon $40 Billion Arm Bid](https://www.bloomberg.com/news/articles/2022-01-25/nvidia-is-said-to-quietly-prepare-to-abandon-takeover-of-arm?sref=Szq5ylDR) (Bloomberg)
   * [Google kills off FLoC, replaces it with Topics](https://techcrunch.com/2022/01/25/google-kills-off-floc-replaces-it-with-topics/) (TechCrunch)
@@ -2666,7 +2666,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 24 2022**
+**Monday, January 24 2022 - Mon. 01/24 – Do We Even Have The Infrastructure To Make The Metaverse Happen?**
 
   * [Google deceived consumers about how it profits from their location data, attorneys general allege in lawsuits](https://www.washingtonpost.com/technology/2022/01/24/google-location-data-ags-lawsuit/) (Washington Post)
   * [MEPs adopt Digital Services Act with significant last-minute changes](https://www.euractiv.com/section/digital/news/meps-adopt-digital-services-act-with-significant-last-minute-changes/) (Euractiv)
@@ -2679,7 +2679,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 21 2022**
+**Friday, January 21 2022 - Fri. 01/21 – Intel Bringing Silicon Back (To Ohio)**
 
   * [Exclusive: Intel Reveals Plans for Massive New Ohio Factory, Fighting the Chip Shortage Stateside](https://time.com/6140476/intel-building-factory-ohio/) (Time)
   * [Twitter Embraces NFTs With New Profile-Picture Feature](https://www.wsj.com/articles/twitter-embraces-nfts-with-new-profile-picture-feature-11642702418?mod=djemalertNEWS) (WSJ)
@@ -2689,7 +2689,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 20 2022**
+**Thursday, January 20 2022 - Thu. 01/20 – Meta Wants To Bring NFTs To Your Insta Profile**
 
   * [Facebook owner Meta dives into NFT digital collectibles craze](https://www.ft.com/content/2745d50b-36e4-4c0a-abe0-e93f035b0628) (FT)
   * [Google Forms Blockchain Group Under Newly Appointed Executive](https://www.bloomberg.com/news/articles/2022-01-19/google-forms-blockchain-group-under-newly-appointed-executive?sref=Szq5ylDR) (Bloomberg)
@@ -2703,7 +2703,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 19 2022**
+**Wednesday, January 19 2022 - Wed. 01/19 – The 5G Flight Issue Comes To A Head**
 
   * [Airlines Cancel Some Flights Ahead of U.S. 5G Wireless Launch](https://www.wsj.com/articles/at-t-will-avoid-airports-with-new-5g-service-to-prevent-flight-delays-11642528372?mod=djemalertNEWS) (WSJ)
   * [Major airlines cancel, change flights to US over 5G dispute](https://apnews.com/article/technology-business-dubai-middle-east-united-arab-emirates-bcac403626879062f8d07080f87e5880) (AP)
@@ -2717,7 +2717,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 18 2022**
+**Tuesday, January 18 2022 - Tue. 01/18 – Microsoft Buys Activision Blizzard In The Biggest Gaming Deal Of All Time**
 
   * [Microsoft to buy Activision in $68.7 billion all-cash deal](https://www.cnbc.com/2022/01/18/microsoft-to-buy-activision.html) (CNBC)
   * [Activision Blizzard Games Will Come To Xbox Game Pass As Part Of Acquisition](https://www.purexbox.com/news/2022/01/activision-blizzard-games-will-come-to-xbox-game-pass-as-part-of-acquisition?scrolla=5eb6d68b7fedc32c19ef33b4) (PureXbox)
@@ -2729,7 +2729,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 14 2022**
+**Friday, January 14 2022 - Fri. 01/14 – Russia Cracks Down On REvil?**
 
   * [Russia takes down REvil hacking group at U.S. request - FSB](https://www.reuters.com/technology/russia-arrests-dismantles-revil-hacking-group-us-request-report-2022-01-14/) (Reuters)
   * [Crypto Exchange FTX Sets Up $2 Billion Venture Fund](https://www.wsj.com/articles/crypto-exchange-ftx-sets-up-2-billion-venture-fund-11642163402?mod=djemalertNEWS) (WSJ)
@@ -2739,7 +2739,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 13 2022**
+**Thursday, January 13 2022 - Thu. 01/13 – China To Do NFT’s, Minus The Blockchain**
 
   * [Apple Removes Wordle Apps Fueled by Confused Users](https://www.bloomberg.com/news/articles/2022-01-12/apple-removes-wordle-apps-after-user-confusion-stokes-downloads?sref=Szq5ylDR) (Bloomberg)
   * [Game maker says Apple, Google selling rip-offs in new lawsuit](https://www.reuters.com/legal/litigation/game-maker-says-apple-google-selling-rip-offs-new-lawsuit-2022-01-11/) (Reuters)
@@ -2751,7 +2751,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 12 2022**
+**Wednesday, January 12 2022 - Wed. 01/12 – About Those Apps Cloning Wordle…**
 
   * [‘Second time lucky?’ FTC’s case against Facebook can move forward, federal judge rules.](https://www.washingtonpost.com/technology/2022/01/11/ftc-facebook-antitrust-lawsuit-move-ahead/) (Washington Post)
   * [Samsung Electronics to Unveil Exynos 2200 AP on Launch Day of Galaxy 22](http://www.businesskorea.co.kr/news/articleView.html?idxno=85865) (BusinessKorea)
@@ -2761,7 +2761,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 11 2022**
+**Tuesday, January 11 2022 - Tue. 01/11 – YC Ups The Ante**
 
   * [Moxie Marlinspike has stepped down as CEO of Signal](https://www.theverge.com/2022/1/10/22876891/signal-ceo-steps-down-moxie-marlinspike-encryption-cryptocurrency?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Y Combinator’s New Deal Sparks Fear in Seed Investors](https://www.theinformation.com/articles/y-combinators-new-deal-sparks-fear-in-seed-investors?rc=64g9cw) (The Information)
@@ -2770,7 +2770,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 10 2022**
+**Monday, January 10 2022 - Mon. 01/10 – Take-Two Acquires Zynga**
 
   * [Take-Two to acquire mobile gaming giant Zynga for $12.7B](https://techcrunch.com/2022/01/10/take-two-to-acquire-mobile-gaming-giant-zynga-for-12-7b/) (TechCrunch)
   * [SEC Pushes for More Transparency From Private Companies](https://www.wsj.com/articles/sec-pushes-for-more-transparency-from-private-companies-11641752489?mod=djemalertNEWS) (WSJ)
@@ -2781,7 +2781,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 07 2022**
+**Friday, January 07 2022 - Fri. 01/07 – Google Infringed On Sonos**
 
   * [Google Infringed on Sonos Speaker Technology, Trade Court Rules](https://www.nytimes.com/2022/01/06/technology/google-sonos-patents.html) (NYTimes)
   * [E3 shifts to online-only event because of Omicron concerns](https://venturebeat.com/2022/01/06/e3-shifts-to-online-only-event-because-of-omicron-concerns/) (GamesBeat)
@@ -2790,7 +2790,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 06 2022**
+**Thursday, January 06 2022 - Thu. 01/06 – Google Brings “It Just Works” To Everything**
 
   * [Google is working to improve Windows and Android integration](https://www.engadget.com/google-ces-2022-news-fast-pair-nearby-share-windows-chrome-cast-180055389.html) (Engadget)
   * [Google will spend 2022 trying to match Apple’s ecosystem integrations](https://www.theverge.com/2022/1/5/22864892/google-2022-ecosystem-android-chromebook-ces-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2803,7 +2803,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 05 2022**
+**Wednesday, January 05 2022 - Wed. 01/05 – Sony’s VR Version 2 Deets**
 
   * [Sony confirms PlayStation VR2’s specs, first official game](https://arstechnica.com/gaming/2022/01/sony-confirms-playstation-2-vrs-specs-first-official-game/) (ArsTechnica)
   * [Intel Says New Core i9 Processor for Laptops is Faster Than Apple's M1 Max Chip](https://www.macrumors.com/2022/01/04/intel-says-12th-gen-core-i9-faster-than-m1-max/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -2817,7 +2817,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 04 2022**
+**Tuesday, January 04 2022 - Tue. 01/04 – Apple Becomes The First $3 Trillion Dollar Company**
 
   * [Apple becomes first U.S. company to reach $3 trillion market cap](https://www.cnbc.com/2022/01/03/apple-becomes-first-us-company-to-reach-3-trillion-market-cap.html) (CNBC)
   * [The Galaxy S21 FE officially joins Samsung’s crowded midrange lineup](https://www.theverge.com/2022/1/3/22860324/samsung-galaxy-s21-fe-screen-camera-specs-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2829,7 +2829,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 03 2022**
+**Monday, January 03 2022 - Mon. 01/03 – NFTs On Smart TVs?**
 
   * [Samsung’s new 2022 TVs bring Nvidia GeForce Now and Google Stadia gaming](https://www.theverge.com/22862814/samsung-2022-tv-geforce-now-stadia-nvidia-google-utomik-cloud-gaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Samsung promises ‘groundbreaking’ new TV feature: NFT support](https://www.theverge.com/2022/1/2/22858698/samsung-2022-tvs-nft-support-announced-cryptocurrency?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)

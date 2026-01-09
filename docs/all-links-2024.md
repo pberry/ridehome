@@ -4,7 +4,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
-**Monday, December 30 2024**
+**Monday, December 30 2024 - Mon. 12/30 – Welcome To A USB-C Life**
 
   * [AT&T, Verizon Say Networks Now Clear After Salt Typhoon Hack](https://www.bloomberg.com/news/articles/2024-12-28/at-t-says-its-network-is-now-clear-after-salt-typhoon-hack?sref=Szq5ylDR) (Bloomberg)
   * [Trump Asks Supreme Court to Pause Law Threatening TikTok Ban](https://www.bloomberg.com/news/articles/2024-12-27/trump-urges-supreme-court-to-pause-law-threatening-tiktok-ban?sref=Szq5ylDR) (Bloomberg)
@@ -15,7 +15,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 27 2024**
+**Friday, December 27 2024 - Fri. 12/27 – A New “Definition” Of AGI**
 
   * [Microsoft and OpenAI Wrangle Over Terms of Their Blockbuster Partnership](https://www.theinformation.com/articles/microsoft-and-openai-wrangle-over-terms-of-their-blockbuster-partnership?rc=64g9cw) (The Information)
   * [Microsoft and OpenAI’s Secret AGI Definition](https://www.theinformation.com/articles/microsoft-and-openais-secret-agi-definition?rc=64g9cw) (The Information)
@@ -23,7 +23,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 23 2024**
+**Monday, December 23 2024 - Mon. 12/23 – The Revenge Of Google Glass?**
 
   * [Apple Explores a Face ID Doorbell and Lock Device in Smart Home Push](https://www.bloomberg.com/news/newsletters/2024-12-22/apple-explores-amazon-ring-doorbell-competitor-with-face-id-airpods-heart-rate?sref=Szq5ylDR) (Bloomberg)
   * [Meta to add display to Ray-Bans as race over smart glasses intensifies](https://www.ft.com/content/77bd9117-0a2d-4bd7-9248-4dd288f695a4) (FT)
@@ -33,7 +33,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 20 2024**
+**Friday, December 20 2024 - Fri. 12/20 – Gemini Flash Thinking**
 
   * [Google reveals AI ‘reasoning’ model that ‘explicitly shows its thoughts’](https://www.theverge.com/2024/12/19/24325169/google-ai-reasoning-model-gemini-flash-2-thinking) (The Verge)
   * [FAA Bans Drone Flights in Parts of New Jersey](https://www.bloomberg.com/news/articles/2024-12-19/us-aviation-regulator-bans-drone-flights-in-parts-of-new-jersey?sref=Szq5ylDR) (Bloomberg)
@@ -43,7 +43,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 19 2024**
+**Thursday, December 19 2024 - Thu. 12/19 – 1800CHATGPT**
 
   * [Apple hits out at Meta's numerous interoperability requests](https://www.reuters.com/technology/apple-slams-metas-numerous-interoperability-requests-2024-12-18/) (Reuters)
   * [OpenAI makes ChatGPT available for phone calls and texts](https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html) (CNBC)
@@ -56,7 +56,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 18 2024**
+**Wednesday, December 18 2024 - Wed. 12/18 – Is Your Home Internet Router About To Be Banned?**
 
   * [U.S. Weighs Ban on Chinese-Made Router in Millions of American Homes](https://www.wsj.com/politics/national-security/us-ban-china-router-tp-link-systems-7d7507e6?st=SEX5iL&reflink=desktopwebshare_permalink) (WSJ)
   * [Nvidia's new $249 AI development board promises 67 TOPS at half the price of the previous 40 TOPS model](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-new-usd249-ai-development-board-that-does-67-tops) (TomsHardware)
@@ -69,7 +69,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 17 2024**
+**Tuesday, December 17 2024 - Tue. 12/17 – TikTok CEO Dines With Trump**
 
   * [Trump meets with TikTok CEO as video app challenges potential ban](https://www.nbcnews.com/tech/social-media/trump-meets-tiktok-ceo-video-app-challenges-potential-ban-rcna184450) (NBCNews)
   * [TikTok Asks Supreme Court to Block Law Banning Its U.S. Operations](https://www.nytimes.com/2024/12/16/us/politics/tiktok-ban-supreme-court-first-amendment.html) (NYTimes)
@@ -81,7 +81,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 16 2024**
+**Monday, December 16 2024 - Mon. 12/16 – The Coming Battle Of Elon v. Sam**
 
   * [Meta Urges California Attorney General to Stop OpenAI From Becoming For-Profit](https://www.wsj.com/tech/ai/elon-musk-open-ai-lawsuit-response-c1f415f8?st=GeiGcV&reflink=desktopwebshare_permalink) (WSJ)
   * [OpenAI hits back at Elon Musk's lawsuit in court filing](https://www.axios.com/2024/12/13/elon-musk-openai-altman-lawsuit-filing-nonprofit) (Axios)
@@ -92,7 +92,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, December 13 2024**
+**Friday, December 13 2024 - Fri. 12/13 – Gemini As The New Android/OS?**
 
   * [I saw Google’s plan to put Android on your face](https://www.theverge.com/2024/12/12/24319528/google-android-xr-samsung-project-moohan-smart-glasses) (The Verge)
   * [Google’s NotebookLM AI podcast hosts can now talk to you, too](https://www.theverge.com/2024/12/13/24318099/google-notebooklm-audio-overviews-talk-plus) (The Verge)
@@ -101,7 +101,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 12 2024**
+**Thursday, December 12 2024 - Thu. 12/12 – The “Killer App” For Vision Pro?**
 
   * [The end of Cruise is the beginning of a risky new phase for autonomous vehicles](https://www.theverge.com/2024/12/11/24318651/cruise-robotaxi-gm-funding-autonomous-vehicles-risk) (The Verge)
   * [Gemini 2.0 Flash: An outstanding multi-modal LLM with a sci-fi streaming model](https://simonwillison.net/2024/Dec/11/gemini-2/) (Simon Willison's Blog)
@@ -113,7 +113,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 11 2024**
+**Wednesday, December 11 2024 - Wed. 12/11 – Gemini 2.0**
 
   * [GM to refocus autonomous driving development on personal vehicles](https://investor.gm.com/news-releases/news-release-details/gm-refocus-autonomous-driving-development-personal-vehicles) (GM Investor Relations)
   * [GM Calls It Quits on Mary Barra’s $50 Billion Robotaxi Dream](https://www.bloomberg.com/news/articles/2024-12-10/gm-to-wind-down-robotaxi-operations-once-championed-by-ceo-barra?sref=Szq5ylDR) (Bloomberg)
@@ -126,7 +126,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 10 2024**
+**Tuesday, December 10 2024 - Tue. 12/10 – Amazon Autos**
 
   * [You Can Buy a Car on Amazon Now](https://www.wired.com/story/buy-a-car-on-amazon-hyundai/) (Wired)
   * [US finalizes $6.1 bln Micron chip-making subsidy](https://www.reuters.com/technology/us-finalizes-more-than-61-bln-chips-subsidy-micron-technology-2024-12-10/) (Reuters)
@@ -139,7 +139,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 09 2024**
+**Monday, December 09 2024 - Mon. 12/09 – OpenAI Releases Sora**
 
   * [Sora is here](https://openai.com/index/sora-is-here/) (OpenAI)
   * [OpenAI’s controversial Sora is finally launching today. Will it truly disrupt Hollywood?](https://www.latimes.com/entertainment-arts/business/story/2024-12-09/openais-controversial-text-to-video-tool-sora-is-widely-released) (LATimes)
@@ -163,7 +163,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, December 05 2024**
+**Thursday, December 05 2024 - Thu. 12/05 – Bitcoin $100k!**
 
   * [Crypto Trading Volume Surged to $10 Trillion for the First Time in November](https://www.bloomberg.com/news/articles/2024-12-04/crypto-trading-volume-surged-to-10-trillion-for-the-first-time-in-november?sref=Szq5ylDR) (Bloomberg)
   * [Trump Picks Paul Atkins to Run the S.E.C.](https://www.nytimes.com/2024/12/04/business/trump-sec-paul-atkins.html) (NYTimes)
@@ -177,7 +177,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, December 04 2024**
+**Wednesday, December 04 2024 - Wed. 12/04 – Spotify Wrapped 2024 Has NotebookLM Baked In**
 
   * [U.S. officials urge Americans to use encrypted apps amid unprecedented cyberattack](https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694) (NBCNews)
   * [Ubisoft shutting down XDefiant in 2025, laying off half of its team](https://www.polygon.com/gaming/490491/ubsioft-xdefiant-shutting-down) (Polygon)
@@ -189,7 +189,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, December 03 2024**
+**Tuesday, December 03 2024 - Tue. 12/03 – Where Does Intel Go From Here?**
 
   * [Exclusive: Intel's CEO-shortlist candidates include former board member Lip-Bu Tan, sources say](https://www.reuters.com/business/intels-ceo-shortlist-candidates-include-former-board-member-lip-bu-tan-sources-2024-12-03/) (Reuters)
   * [Intel CEO Forced Out by Board Frustrated With Slow Progress](https://www.bloomberg.com/news/articles/2024-12-02/intel-ceo-pat-gelsinger-retires-amid-chipmaker-s-turnaround-plan?sref=Szq5ylDR) (Bloomberg)
@@ -199,7 +199,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, December 02 2024**
+**Monday, December 02 2024 - Mon. 12/02 – Gelsinger Out At Intel!**
 
   * [Intel CEO Pat Gelsinger retires](https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/) (TechCrunch)
   * [AWS opens physical outlets that let customers upload their data](https://techcrunch.com/2024/12/01/aws-opens-physical-locations-for-customers-to-upload-their-data/) (TechCrunch)
@@ -211,7 +211,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 27 2024**
+**Wednesday, November 27 2024 - Wed. 11/27 – OpenAI Suspends Sora**
 
   * [OpenAI’s Sora video generator appears to have leaked](https://techcrunch.com/2024/11/26/artists-appears-to-have-leaked-access-to-openais-sora/) (TechCrunch)
   * [OpenAI hits pause on video model Sora after artists leak access in protest](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/) (Washington Post)
@@ -221,7 +221,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 26 2024**
+**Tuesday, November 26 2024 - Tue. 11/26 – Apple Going Too Thin Again?**
 
   * [Intel Gets Up to $7.9 Billion Award for U.S. Chip-Plant Construction](https://www.wsj.com/tech/intel-gets-up-to-7-9-billion-award-for-u-s-chip-plant-construction-6c6818a1) (WSJ)
   * [Threads is testing the option to choose your own default feed](https://www.theverge.com/2024/11/25/24305690/threads-default-following-feed-test) (The Verge)
@@ -233,7 +233,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 25 2024**
+**Monday, November 25 2024 - Mon. 11/25 – Return Of The Vita?**
 
   * [Sony Working on Handheld Console for PS5 Games to Rival Switch](https://www.bloomberg.com/news/articles/2024-11-25/sony-working-on-new-handheld-console-for-ps5-games-to-rival-nintendo-s-switch?sref=Szq5ylDR) (Bloomberg)
   * [Bluesky breaching rules around disclosure of information, says EU](https://www.ft.com/content/9083d7f8-d2e6-4e08-a324-8def68258efd) (Financial Times)
@@ -246,7 +246,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 22 2024**
+**Friday, November 22 2024 - Fri. 11/22 – An LLM Siri But… Only The Year AFTER Next?**
 
   * [Apple Readies More Conversational Siri in Bid to Catch Up in AI](https://www.bloomberg.com/news/articles/2024-11-21/apple-readies-more-conversational-llm-siri-in-bid-to-rival-openai-s-chatgpt?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI Considers Taking on Google With Browser](https://www.theinformation.com/articles/openai-considers-taking-on-google-with-browser?rc=64g9cw) (The Information)
@@ -256,7 +256,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 21 2024**
+**Thursday, November 21 2024 - Thu. 11/21 – What The DOJ Wants Google To Do**
 
   * [US regulators seek to break up Google, forcing Chrome sale as part of monopoly punishment](https://apnews.com/article/google-search-monopoly-penalty-justice-department-84e07fec51c5c59751d846118cb900a7) (Associated Press)
   * [Google could be forced to sell Chrome – here’s what it would mean for users](https://inews.co.uk/news/world/google-forced-sell-chrome-mean-users-3392728) (iNews)
@@ -268,7 +268,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 20 2024**
+**Wednesday, November 20 2024 - Wed. 11/20 – AI To Read The Books**
 
   * [Microsoft Signs AI-Learning Deal With News Corp.’s HarperCollins](https://www.bloomberg.com/news/articles/2024-11-19/microsoft-signs-ai-learning-deal-with-news-corp-s-harpercollins?sref=Szq5ylDR) (Bloomberg)
   * [Penguin Random House underscores copyright protection in AI rebuff](https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff) (The Bookseller)
@@ -280,7 +280,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 19 2024**
+**Tuesday, November 19 2024 - Tue. 11/19 – Microsoft Ignite**
 
   * [Google’s Chrome to Fetch Up to $20 Billion If Judge Orders Sale](https://www.bloomberg.com/news/articles/2024-11-18/doj-will-push-google-to-sell-off-chrome-to-break-search-monopoly?sref=Szq5ylDR) (Bloomberg)
   * [Source: Google is turning Chrome OS into Android to compete with the iPad](https://www.androidauthority.com/chrome-os-becoming-android-3500661/) (AndroidAuthority)
@@ -293,7 +293,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 18 2024**
+**Monday, November 18 2024 - Mon. 11/18 – More Smartglasses On The Horizon**
 
   * [Trump Designates FCC Veteran Brendan Carr as Chair of Agency](https://www.bloomberg.com/news/articles/2024-11-18/trump-designates-fcc-veteran-brendan-carr-as-chair-of-agency?sref=Szq5ylDR) (Bloomberg)
   * [Report: Samsung XR glasses have Ray-Ban Meta specs with more features, seemingly no display](https://9to5google.com/2024/11/15/samsung-xr-glasses-report-specs-no-display/) (9to5Google)
@@ -304,7 +304,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 15 2024**
+**Friday, November 15 2024 - Fri. 11/15 – Crypto Ascendant**
 
   * [SEC, Gary Gensler Sued by 18 States Over Biden’s Crypto Crackdown](https://decrypt.co/291746/sec-gary-gensler-sued-crypto-crackdown) (Decrypt)
   * [US regulators plan to investigate Microsoft’s cloud business](https://www.ft.com/content/62f361eb-ce52-47c1-9857-878cfe298d54) (Financial Times)
@@ -313,7 +313,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 14 2024**
+**Thursday, November 14 2024 - Thu. 11/14 – The FBI (!) Investigating Polymarket**
 
   * [Meta fined nearly €800mn for breaking EU law over classified ads practices](https://www.ft.com/content/8dc18484-ee7d-4008-95dc-cc76320441ab) (FT)
   * [Polymarket Investigated by DOJ for Allegedly Letting US Users Bet on Platform](https://www.bloomberg.com/news/articles/2024-11-13/polymarket-investigated-by-doj-for-letting-us-users-bet-on-platform?sref=Szq5ylDR) (Bloomberg)
@@ -326,7 +326,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 13 2024**
+**Wednesday, November 13 2024 - Wed. 11/13 – Amazon Haul**
 
   * [Donald Trump’s potential antitrust enforcers may keep Big Tech in their sights](https://www.ft.com/content/4826f5c8-52d3-4ff5-9599-a327d849ff81) (Financial Times)
   * [Amazon debuts discount store with everything under $20 to take on Temu and Shein](https://www.cnbc.com/2024/11/13/amazon-haul-discount-storefront-debuts-to-take-on-temu-and-shein-.html) (CNBC)
@@ -336,7 +336,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 12 2024**
+**Tuesday, November 12 2024 - Tue. 11/12 – Apple Into The Smarthome**
 
   * [Kuo: Apple to release its own smart home camera in 2026, with AI features](https://9to5mac.com/2024/11/12/kuo-apple-smart-home-camera/) (9to5Mac)
   * [In Europe, Instagram Ads Are About to Get Less Personal](https://www.wsj.com/tech/meta-to-offer-less-personalized-ads-in-concession-to-eu-d150cd47?st=xyqawP&reflink=desktopwebshare_permalink) (WSJ)
@@ -348,7 +348,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 11 2024**
+**Monday, November 11 2024 - Mon. 11/11 – FTX Sues Everybody**
 
   * [FTX Sues Binance, Ex-CEO Zhao Seeking $1.8 Billion Clawback](https://www.bloomberg.com/news/articles/2024-11-11/ftx-sues-binance-former-ceo-zhao-seeking-1-8-billion-clawback?sref=Szq5ylDR) (Bloomberg)
   * [FTX Sues Scaramucci to Recoup Money for Creditors](https://www.bloomberg.com/news/articles/2024-11-09/ftx-sues-scaramucci-to-recoup-money-poured-in-showy-investments?sref=Szq5ylDR) (Bloomberg)
@@ -359,7 +359,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 08 2024**
+**Friday, November 08 2024 - Fri. 11/08 – Share To TikTok**
 
   * [Block reports revenue miss but a slight beat on earnings](https://www.cnbc.com/2024/11/07/block-sq-earnings-q3-2024.html) (CNBC)
   * [Jack Dorsey's Square to Invest More in Bitcoin Mining and Shut Decentralized 'Web5' Venture](https://www.coindesk.com/business/2024/11/07/jack-dorseys-square-to-invest-more-in-bitcoin-mining-and-shut-decentralized-web5-web-venture/) (CoinDesk)
@@ -369,7 +369,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, November 07 2024**
+**Thursday, November 07 2024 - Thu. 11/07 – More Election Stuff**
 
   * [Elon Musk Helped Elect Trump. What Does He Expect in Return?](https://www.nytimes.com/2024/11/06/us/politics/elon-musk-trump-benefits.html?unlocked_article_code=1.YE4.uAD6.YaxFV6LV2m_9&smid=url-share) (NYTimes)
   * [Canada orders shutdown of TikTok's Canadian business, app access to continue](https://www.reuters.com/technology/canada-orders-wind-up-tiktoks-canadian-business-app-access-continue-2024-11-06/) (Reuters)
@@ -382,7 +382,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, November 06 2024**
+**Wednesday, November 06 2024 - Wed. 11/06 – The Tech Angle To Election Day**
 
   * [Polymarket, Prediction Betting Markets Vindicated by Trump's Strong Showing](https://www.coindesk.com/business/2024/11/06/polymarket-prediction-betting-markets-vindicated-by-trumps-strong-showing/) (Coindesk)
   * [Apple to Face First EU Fine Under Bloc’s Digital Markets Act](https://www.bloomberg.com/news/articles/2024-11-05/apple-to-face-first-eu-fine-under-bloc-s-digital-markets-act?sref=Szq5ylDR) (Bloomberg)
@@ -394,7 +394,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, November 05 2024**
+**Tuesday, November 05 2024 - Tue 11/05 – Apple: Maybe Smartglasses Are The Way To Go**
 
   * [Canada Arrests Man Suspected of Hacks of Snowflake Customers](https://www.bloomberg.com/news/articles/2024-11-05/hacker-said-to-be-behind-breach-of-snowflake-customers-arrested?sref=Szq5ylDR) (Bloomberg)
   * [Apple Explores Push Into Smart Glasses With ‘Atlas’ User Study](https://www.bloomberg.com/news/articles/2024-11-04/apple-explores-push-into-smart-glasses-with-atlas-user-study?sref=Szq5ylDR) (Bloomberg)
@@ -406,7 +406,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, November 04 2024**
+**Monday, November 04 2024 - Mon. 11/04 – Apple Buying And Investing In Things**
 
   * [Apple expands iPhone satellite services deal, commits $1.1bn to expand capacity](https://9to5mac.com/2024/11/01/apple-expands-iphone-satellite-services-deal/) (9to5Mac)
   * [Apple is acquiring the popular image editing app Pixelmator](https://www.theverge.com/2024/11/1/24285443/apple-pixelmator-acquisition-image-editing) (The Verge)
@@ -419,7 +419,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, November 01 2024**
+**Friday, November 01 2024 - Fri. 11/01 – ChatGPT Search**
 
   * [OpenAI Brings Search Features to ChatGPT in Challenge to Google](https://www.bloomberg.com/news/articles/2024-10-31/openai-adds-search-features-to-chatgpt-in-challenge-to-google?sref=Szq5ylDR) (Bloomberg)
   * [China Ruins Apple's Quarter](https://247wallst.com/technology-3/2024/11/01/china-ruins-apples-quarter/) (24/7WallStreet)
@@ -428,7 +428,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 31 2024**
+**Thursday, October 31 2024 - Thu. 10/31 – Spooky… I Mean, Earnings Season**
 
   * [Meta AI has more than 500 million users](https://www.engadget.com/social-media/meta-ai-has-more-than-500-million-users-220353427.html) (Engadget)
   * [Meta’s Next Llama AI Models Are Training on a GPU Cluster ‘Bigger Than Anything’ Else](https://www.wired.com/story/meta-llama-ai-gpu-training/) (Wired)
@@ -440,7 +440,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 30 2024**
+**Wednesday, October 30 2024 - Wed. 10/30 – M4 MacBook Pros**
 
   * [Apple updates the MacBook Pro with M4 Pro and M4 Max chips](https://www.theverge.com/2024/10/30/24270706/apple-macbook-pro-m4-pro-max-14-16-announcement-specs) (The Verge)
   * [Every MacBook Air now starts with 16GB of RAM at no extra cost](https://www.engadget.com/computing/laptops/every-macbook-air-now-starts-with-16gb-of-ram-at-no-extra-cost-150041320.html) (Engadget)
@@ -454,7 +454,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 29 2024**
+**Tuesday, October 29 2024 - Tue. 10/29 – A Whole Bunch Of New Macs**
 
   * [Apple Announces iMac With M4 Chip, Upgraded Camera, Nano-Texture Display Option, and More](https://www.macrumors.com/2024/10/28/apple-announces-imac-with-m4-chip-upgraded-camera-new-colors-and-more/) (MacRumors)
   * [New Mac mini shrinks down, gains M4 and M4 Pro chips](https://sixcolors.com/post/2024/10/new-mac-mini-shrinks-down-gains-m4-and-m4-pro-chips/) (SixColors)
@@ -465,7 +465,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 28 2024**
+**Monday, October 28 2024 - Mon. 10/28 – Betting On The Election**
 
   * [Robinhood jumps into election trading, giving users chance to buy Harris or Trump contracts](https://www.cnbc.com/2024/10/28/robinhood-jumps-into-election-trading-giving-users-chance-to-buy-harris-or-trump-contracts.html) (CNBC)
   * [Billions in election bets raise the stakes of the presidential race](https://www.washingtonpost.com/technology/2024/10/19/election-betting-trump-harris-odds-polymarket-predictit/) (Washington Post)
@@ -478,7 +478,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 25 2024**
+**Friday, October 25 2024 - Fri. 10/25 – GPT-5 Coming By December?**
 
   * [OpenAI plans to release its next big AI model by December](https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december) (The Verge)
   * [UnitedHealth says data of 100 million stolen in Change Healthcare breach](https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-breach/) (BleepingComputer)
@@ -487,7 +487,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 24 2024**
+**Thursday, October 24 2024 - Thu. 10/24 – Surge Pricing In The Grocery Store?**
 
   * [Raspberry Pi releases more AI-focused add-ons](https://techcrunch.com/2024/10/24/raspberry-pi-releases-more-ai-focused-add-ons/) (TechCrunch)
   * [Raspberry Pi release higher performance AI HAT+ — 13 and 26 TOPS variants](https://www.tomshardware.com/raspberry-pi/raspberry-pi-release-higher-performance-ai-hat-13-and-26-tops-variants) (TomsHardware)
@@ -499,7 +499,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 23 2024**
+**Wednesday, October 23 2024 - Wed. 10/23 – Strong ARM Tactics**
 
   * [Arm to Scrap Qualcomm Chip Design License in Feud Escalation](https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud?sref=Szq5ylDR) (Bloomberg)
   * [Anthropic’s new AI can use computers like a human, redefining automation for enterprises](https://venturebeat.com/ai/anthropic-new-ai-can-use-computers-like-a-human-redefining-automation-for-enterprises/) (VentureBeat)
@@ -510,7 +510,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 22 2024**
+**Tuesday, October 22 2024 - Tue. 10/22 – The Next Gen Snapdragon**
 
   * [Snapdragon 8 Elite deep dive: A return to custom CPUs and much more](https://www.androidauthority.com/snapdragon-8-elite-deep-dive-3491526/) (Android Authority)
   * [Scoop: Netflix shuts down 'AAA' Team Blue gaming studio, amid gaming shake-up](https://www.gamefile.news/p/netflix-team-blue-socal-studio) (Game File)
@@ -522,7 +522,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 21 2024**
+**Monday, October 21 2024 - Mon. 10/21 – Google Get’s A Stay**
 
   * [Epic judge lets Google keep its Android app store closed to competitors — for now](https://www.theverge.com/2024/10/18/24271996/google-epic-lawsuit-play-third-party-app-store-changes-delayed-administrative-stay-granted) (The Verge)
   * [Microsoft unveils new autonomous AI agents in advance of competing Salesforce rollout](https://www.geekwire.com/2024/microsoft-unveils-new-autonomous-ai-agents-in-advance-of-competing-salesforce-rollout/) (GeekWire)
@@ -533,7 +533,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 17 2024**
+**Thursday, October 17 2024 - Thu. 10/17 – Sigh Of Relief From Chip Stocks**
 
   * [Amazon goes nuclear, to invest more than $500 million to develop small modular reactors](https://www.cnbc.com/2024/10/16/amazon-goes-nuclear-investing-more-than-500-million-to-develop-small-module-reactors.html) (CNBC)
   * [TSMC Hikes Revenue Outlook in Show of Confidence in AI Boom](https://www.bloomberg.com/news/articles/2024-10-17/tsmc-s-profit-beats-estimates-during-an-ai-chip-boom?sref=Szq5ylDR) (Bloomberg)
@@ -545,7 +545,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 16 2024**
+**Wednesday, October 16 2024 - Wed. 10/16 – Color Kindles**
 
   * [Amazon’s new seven-inch Kindle Paperwhite is bigger and faster than ever](https://www.theverge.com/2024/10/16/24271197/amazon-kindle-paperwhite-e-reader-12th-gen-2024) (The Verge)
   * [Amazon’s new Kindle Scribe takes another step toward pen and paper](https://www.theverge.com/2024/10/16/24271627/amazon-kindle-scribe-2024-notebook-specs) (The Verge)
@@ -557,7 +557,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 15 2024**
+**Tuesday, October 15 2024 - Tue. 10/15 – Tech Going Nuclear**
 
   * [Google Backs New Nuclear Plants to Power AI](https://www.wsj.com/business/energy-oil/google-nuclear-power-artificial-intelligence-87966624?st=sGoEcF&reflink=desktopwebshare_permalink) (WSJ)
   * [DHH's Original Post](https://archive.ph/gyUIJ#selection-61.0-61.37)
@@ -570,7 +570,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 14 2024**
+**Monday, October 14 2024 - Mon. 10/14 – Adobe Unleashes Firefly**
 
   * [Adobe’s AI video model is here, and it’s already inside Premiere Pro](https://www.theverge.com/2024/10/14/24268695/adobe-ai-video-generation-firefly-model-premiere-pro) (The Verge)
   * [Apple Has a New Smart Home Strategy: Screens Everywhere](https://www.bloomberg.com/news/newsletters/2024-10-13/apple-smart-home-plans-new-os-smart-displays-vision-pro-integration-robots-m27kw5m7?sref=Szq5ylDR) (Bloomberg)
@@ -581,7 +581,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 11 2024**
+**Friday, October 11 2024 - Cybercab**
 
   * [Tesla reveals 20 Cybercabs at We, Robot event, says you’ll be able to buy one for less than $30,000](https://techcrunch.com/2024/10/10/tesla-reveals-20-cybercabs-at-we-robot-event/) (TechCrunch)
   * [Tesla's Cybercab Is Here](https://www.wired.com/story/tesla-cybercab-is-here/) (Wired)
@@ -592,7 +592,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 10 2024**
+**Thursday, October 10 2024 - Thu. 10/10 – OpenAI Won’t Be Profitable Until When?**
 
   * [Amazon Adds Apple TV+ to Its Channels Store for Streaming](https://www.bloomberg.com/news/articles/2024-10-10/amazon-adds-apple-tv-to-its-channels-store-for-streaming-videos?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI says bad actors are using its platform to disrupt elections, but with little ‘viral engagement’](https://www.cnbc.com/2024/10/09/openai-says-more-cyber-actors-using-its-platform-to-disrupt-elections.html) (CNBC)
@@ -603,7 +603,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 09 2024**
+**Wednesday, October 09 2024 - Wed. 10/09 – Big Podcast Announcement**
 
   * [US Weighs Google Breakup in Historic Big Tech Antitrust Case](https://www.bloomberg.com/news/articles/2024-10-09/us-says-it-s-weighing-google-breakup-as-remedy-in-monopoly-case?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcyODQ0MzY3MCwiZXhwIjoxNzI5MDQ4NDcwLCJhcnRpY2xlSWQiOiJTTDJGTFJUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI4QzAyQjMwNDIyMjU0Mjg3OTU5OThCMUEyOUNFNDFCNCJ9.fXbpCj7zOd-IMkQZK5dtVh79uc6z5TwxXToabCuhXgE&sref=Szq5ylDR) (Bloomberg)
   * [Unmasking Bitcoin Creator Satoshi Nakamoto—Again](https://www.wired.com/story/unmasking-bitcoin-creator-satoshi-nakamoto-again/) (Wired)
@@ -613,7 +613,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 08 2024**
+**Tuesday, October 08 2024 - Tue. 10/08 – Epic’s Win V. Google**
 
   * [Google must crack open Android for third-party stores, rules Epic judge](https://www.theverge.com/policy/2024/10/7/24243316/epic-google-permanent-injunction-ruling-third-party-stores) (The Verge)
   * [Apple Potentially Facing Worst Leak Since iPhone 4 Was Left in a Bar](https://www.macrumors.com/2024/10/07/apple-potentially-facing-worst-leak-since-iphone-4/) (MacRumors)
@@ -623,7 +623,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, October 07 2024**
+**Monday, October 07 2024 - Mon. 10/07 – Apple Intelligence Gets A Date**
 
   * [Apple Slowly Moves Away From Its Annual Product Release Strategy](https://www.bloomberg.com/news/newsletters/2024-10-06/when-will-apple-intelligence-be-released-when-is-apple-releasing-m4-macs-ipad-m1xksx7q?sref=Szq5ylDR) (Bloomberg)
   * [Meta Unveils AI Video Generator, Taking On OpenAI and Google](https://www.bloomberg.com/news/articles/2024-10-04/meta-unveils-ai-video-generator-taking-on-openai-and-google?sref=Szq5ylDR) (Bloomberg)
@@ -634,7 +634,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, October 04 2024**
+**Friday, October 04 2024 - Fri. 10/04 – AI Slop Comes To Podcasting**
 
   * [Google Lens now lets you search with video](https://www.theverge.com/2024/10/3/24259759/google-lens-search-video-ai-launch) (The Verge)
   * [Google brings ads to AI Overviews as it expands AI’s role in search](https://techcrunch.com/2024/10/03/google-brings-ads-to-ai-overviews-and-rolls-out-ai-organized-pages/) (TechCrunch)
@@ -644,7 +644,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, October 03 2024**
+**Thursday, October 03 2024 - Thu. 10/03 – The Monster OpenAI Raise**
 
   * [OpenAI raises $6.6 billion in largest VC round ever](https://www.axios.com/2024/10/02/openai-new-funding-round-restructuring) (Axios)
   * [OpenAI asks investors not to back rival start-ups such as Elon Musk’s xAI](https://www.ft.com/content/66e0653e-c446-47b2-8a7f-baa54ccbfb9a) (Financial Times)
@@ -657,7 +657,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, October 02 2024**
+**Wednesday, October 02 2024 - Wed. 10/02 – A Tech Angle To The Hurricane**
 
   * [Microsoft is using AI to improve Windows search](https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos) (The Verge)
   * [Microsoft starts paying publishers for content surfaced by Copilot](https://techcrunch.com/2024/10/01/microsoft-starts-paying-publishers-for-content-in-copilot/) (TechCrunch)
@@ -669,7 +669,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, October 01 2024**
+**Tuesday, October 01 2024 - Tue. 10/01 – Running This Pod Through NotebookLM**
 
   * [AI chipmaker Cerebras files for IPO to take on Nvidia](https://www.cnbc.com/2024/09/30/cerebras-files-for-ipo.html) (CNBC)
   * [MIT spinoff Liquid debuts non-transformer AI models and they’re already state-of-the-art](https://venturebeat.com/ai/mit-spinoff-liquid-debuts-non-transformer-ai-models-and-theyre-already-state-of-the-art/) (VentureBeat)
@@ -680,7 +680,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 30 2024**
+**Monday, September 30 2024 - Mon. 09/30 – Controversial AI Bill Vetoed**
 
   * [California’s Gavin Newsom Vetoes Controversial AI Safety Bill](https://www.wsj.com/tech/ai/californias-gavin-newsom-vetoes-controversial-ai-safety-bill-d526f621?st=dJdPVj&reflink=desktopwebshare_permalink) (WSJ)
   * [California Passes Law Protecting Consumer Brain Data](https://www.nytimes.com/2024/09/29/science/california-neurorights-tech-law.html) (NYTimes)
@@ -691,7 +691,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 27 2024**
+**Friday, September 27 2024 - Fri. 09/27 – Sam Altman Declines To Go “Founder Mode”**
 
   * [Sam Altman tells OpenAI staff there’s no plan for him to receive a ‘giant equity stake’ in company](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html) (CNBC)
   * [Samsung Galaxy S24 FE goes official starting at $649 – is it still a ‘Fan Edition?’](https://9to5google.com/2024/09/26/samsung-galaxy-s24-fe-price-specs/) (9to5Google)
@@ -701,7 +701,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 26 2024**
+**Thursday, September 26 2024 - Thu. 09/26 – The Orion Smartglasses**
 
   * [OpenAI considering restructuring to for-profit, CTO Mira Murati and two top research execs depart](https://www.cnbc.com/2024/09/25/openai-cto-mira-murati-announces-shes-leaving-the-company.html) (CNBC)
   * [Exclusive: OpenAI to remove non-profit control and give Sam Altman equity](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/) (Reuters)
@@ -712,7 +712,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 25 2024**
+**Wednesday, September 25 2024 - Wed. 09/25 – Caroline Ellison Sentenced**
 
   * [Caroline Ellison sentenced to two years in prison for her role in FTX scandal](https://www.axios.com/2024/09/24/caroline-ellison-ftx-prison) (Axios)
   * [Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers) (The Record)
@@ -723,7 +723,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 24 2024**
+**Tuesday, September 24 2024 - Tue. 09/24 – Sam Altman’s Few Thousand Days**
 
   * [The Intelligence Age](https://ia.samaltman.com/) (Sam Altman)
   * [Sam Altman catapults past founder mode into ‘god mode’ with latest AI post](https://techcrunch.com/2024/09/23/sam-altman-catapults-past-founder-mode-into-god-mode-with-latest-ai-post/) (TechCrunch)
@@ -737,7 +737,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 23 2024**
+**Monday, September 23 2024 - Mon. 09/23 – Qualcomm To Buy Intel?**
 
   * [Qualcomm Approached Intel About a Takeover in Recent Days](https://www.wsj.com/business/deals/qualcomm-approached-intel-about-a-takeover-in-recent-days-fa114f9d) (WSJ)
   * [Intel Gets Multibillion-Dollar Apollo Offer as Qualcomm Circles](https://www.bloomberg.com/news/articles/2024-09-22/apollo-is-said-to-offer-multibillion-dollar-investment-in-intel?sref=Szq5ylDR) (Bloomberg)
@@ -749,7 +749,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 20 2024**
+**Friday, September 20 2024 - Fri. 09/20 – MacOS 15 Sequoia Is Breaking Things**
 
   * [Apple’s new macOS Sequoia update is breaking some cybersecurity tools](https://techcrunch.com/2024/09/19/apples-new-macos-sequoia-update-is-breaking-some-cybersecurity-tools/) (TechCrunch)
   * [EU to tell Apple how to do interoperability, DMA style](https://techcrunch.com/2024/09/19/eu-to-tell-apple-how-to-do-interoperability-dma-style/) (TechCrunch)
@@ -759,7 +759,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 19 2024**
+**Thursday, September 19 2024 - Thu. 09/19 – Pokémon: No!**
 
   * [Nintendo and Pokémon are suing Palworld maker Pocketpair](https://www.theverge.com/2024/9/18/24248602/nintendo-pokemon-palworld-pocketpair-patent-infringement-lawsuit) (The Verge)
   * [Exclusive: Google offered to sell part of ad tech business, not enough for EU publishers](https://www.reuters.com/technology/google-offered-sell-advertising-marketplace-adx-eu-antitrust-probe-sources-say-2024-09-18/) (Reuters)
@@ -771,7 +771,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 18 2024**
+**Wednesday, September 18 2024 - Wed. 09/18 – New Messages, New Headsets**
 
   * [RCS texts on the iPhone aren’t encrypted now, but that could change](https://www.theverge.com/2024/9/17/24247414/rcs-texts-iphone-e2ee-android-gsma) (The Verge)
   * [Here’s how green bubbles are getting upgraded in iOS](https://www.theverge.com/2024/9/17/24246695/apple-iphone-ios-18-rcs-green-bubbles-android-upgraded) (The Verge)
@@ -784,7 +784,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 17 2024**
+**Tuesday, September 17 2024 - Tue. 09/17 – Intel Has A Plan**
 
   * [Intel stock jumps on plan to turn foundry business into subsidiary and allow for outside funding](https://www.cnbc.com/2024/09/16/intel-turns-foundry-business-into-subsidiary-weighs-outside-funding.html) (CNBC)
   * [Intel to Make Custom AI Chip for Amazon, Delay German Plant](https://www.bloomberg.com/news/articles/2024-09-16/intel-to-make-custom-ai-chip-for-amazon-delay-german-plant?sref=Szq5ylDR) (Bloomberg)
@@ -796,7 +796,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 16 2024**
+**Monday, September 16 2024 - Mon. 09/16 – A Bunch Of Apple Stories**
 
   * [Apple Watch sleep apnea detection gets FDA approval](https://techcrunch.com/2024/09/16/apple-watch-sleep-apnea-detection-gets-fda-approval/) (TechCrunch)
   * [iPhone 16 first weekend pre-order analysis: estimated total sales of about 37 million units; Pro series demand lower than expected](https://medium.com/@mingchikuo/iphone-16-first-weekend-pre-order-analysis-estimated-total-sales-of-about-37-million-units-pro-0a04869b147c) (Ming-Chi Kuo)
@@ -808,7 +808,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 13 2024**
+**Friday, September 13 2024 - Fri. 09/13 – The First Strawberry is o1**
 
   * [OpenAI releases o1, its first model with ‘reasoning’ abilities](https://www.theverge.com/2024/9/12/24242439/openai-o1-model-reasoning-strawberry-chatgpt) (The Verge)
   * [Notes on OpenAI’s new o1 chain-of-thought models](https://simonwillison.net/2024/Sep/12/openai-o1/) (Simon Willison's Weblog)
@@ -818,7 +818,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 12 2024**
+**Thursday, September 12 2024 - Thu. 09/12 – OpenAI’s Big New Raise**
 
   * [OpenAI Fundraising Set to Vault Startup’s Valuation to $150 Billion](https://www.bloomberg.com/news/articles/2024-09-11/openai-fundraising-set-to-vault-startup-s-value-to-150-billion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcyNjA5NzMyNywiZXhwIjoxNzI2NzAyMTI3LCJhcnRpY2xlSWQiOiJTSk5XTE1EV0xVNjgwMCIsImJjb25uZWN0SWQiOiIyRjlGMjMxNTNFQTI0NTE2Qjg3N0FBQzg3OTAxOUYyQSJ9.f0erUDRAfuK66Kx3MXl68lpncibF2oXQk8XbURZDdns&sref=Szq5ylDR) (Bloomberg)
   * [The AI Spending Spree, in Charts](https://www.wsj.com/tech/ai/artificial-intelligence-investing-charts-7b8e1a97?st=oimaVs&reflink=desktopwebshare_permalink) (WSJ)
@@ -830,7 +830,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 11 2024**
+**Wednesday, September 11 2024 - Wed. 09/11 – Mistral Goes Multimodel; And An AI Model Mystery**
 
   * [Mistral releases Pixtral 12B, its first multimodal model](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/) (TechCrunch)
   * [Facebook admits to scraping every Australian adult user's public photos and posts to train AI, with no opt-out option](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170) (ABC News)
@@ -842,7 +842,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 10 2024**
+**Tuesday, September 10 2024 - Tue. 09/10 – Strawberries In 2 Weeks?**
 
   * [Apple must pay 13 billion euros in back taxes, EU’s top court rules](https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html) (CNBC)
   * [iPhone 16 battery life: How much better is it?](https://9to5mac.com/iphone-16-battery-life/) (9to5Mac)
@@ -854,7 +854,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, September 09 2024**
+**Monday, September 09 2024 - Mon. 09/09 – The iPhone 16 Event**
 
   * [Apple Announces iPhone 16 Pro and iPhone 16 Pro Max with Larger Displays, New Camera Control, and More](https://www.macrumors.com/2024/09/09/apple-announces-iphone-16-pro/) (MacRumors)
   * [Apple announces iPhone 16: camera button, new colors, AI features](https://9to5mac.com/2024/09/09/apple-announces-iphone-16-camera-button-new-colors-ai-features/) (9to5Mac)
@@ -865,7 +865,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, September 06 2024**
+**Friday, September 06 2024 - Fri. 09/06 – Telegram Blinks.**
 
   * [Pavel Durov: Telegram founder says France arrest is ‘misguided’](https://www.theguardian.com/technology/article/2024/sep/06/pavel-durov-telegram-founder-post-comments-arrest-france) (The Guardian)
   * [Exclusive: Qualcomm explores acquiring pieces of Intel chip-design business](https://www.reuters.com/technology/qualcomm-has-explored-acquiring-pieces-intel-chip-design-business-sources-say-2024-09-06/) (Reuters)
@@ -875,7 +875,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, September 05 2024**
+**Thursday, September 05 2024 - Thu. 09/05 – The DOJ Takes Down An Election Influence Campaign**
 
   * [Biden administration announces major actions to tackle Russian efforts to influence 2024 election](https://www.cnn.com/2024/09/04/politics/biden-administration-accuse-russia-election-influence-efforts) (CNN)
   * [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/) (Wired)
@@ -885,7 +885,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, September 04 2024**
+**Wednesday, September 04 2024 - Wed. 09/04 – Elon Blinks In Brazil**
 
   * [Starlink backtracks, complies with order blocking X in Brazil, says regulator](https://www.reuters.com/technology/starlink-says-its-complying-with-order-block-access-x-brazil-2024-09-03/) (Reuters)
   * [No X in Brazil? No problem, Brazilians say.](https://www.washingtonpost.com/world/2024/09/03/elon-musk-brazil-x-moraes-starlink/) (Washington Post)
@@ -898,7 +898,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, September 03 2024**
+**Tuesday, September 03 2024 - Tue. 09/03 – The X Ban In Brazil**
 
   * [Brazil’s Most Powerful Judge Is in the Spotlight—Again](https://americasquarterly.org/article/brazils-most-powerful-judge-is-in-the-spotlight-again/) (Americas Quarterly)
   * [How Brazil’s Experiment Fighting Fake News Led to a Ban on X](https://www.nytimes.com/2024/08/31/world/americas/brazil-x-ban-free-speech.html?unlocked_article_code=1.HE4.5QZx.Mh_pHIM0G_wG&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb) (NYTimes)
@@ -908,7 +908,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 30 2024**
+**Friday, August 30 2024 - Fri. 08/30 – Who ISN’T Investing In OpenAI?**
 
   * [OpenAI Funding Round Tempts Nvidia as Big Tech Leans on ChatGPT](https://www.bloomberg.com/news/articles/2024-08-29/nvidia-has-held-discussions-about-joining-openai-s-funding-round?sref=Szq5ylDR) (Bloomberg)
   * [Apple, Nvidia Are in Talks to Invest in OpenAI](https://www.wsj.com/tech/ai/openai-apple-funding-chatgpt-50754cd6) (WSJ)
@@ -918,7 +918,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 29 2024**
+**Thursday, August 29 2024 - Thu. 08/29 – Nvidia Earnings… Are Ok…**
 
   * [Nvidia’s CEO Says New Chip Will Have ‘Lots and Lots’ of Supply](https://www.bloomberg.com/news/articles/2024-08-28/nvidia-s-ceo-says-new-chip-will-have-lots-and-lots-of-supply?sref=Szq5ylDR) (Bloomberg)
   * [Telegram CEO Charged in France for Crimes Committed on His App](https://www.bloomberg.com/news/articles/2024-08-28/telegram-ceo-charged-in-france-for-alleged-criminal-use-of-app?sref=Szq5ylDR) (Bloomberg)
@@ -929,7 +929,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 28 2024**
+**Wednesday, August 28 2024 - Wed. 08/28 – Strawberry Emoji**
 
   * [OpenAI Shows ‘Strawberry’ AI to the Feds and Uses It to Develop ‘Orion’](https://www.theinformation.com/articles/openai-shows-strawberry-ai-to-the-feds-and-uses-it-to-develop-orion?rc=64g9cw) (The Information)
   * [OpenAI Races to Launch ‘Strawberry’ Reasoning AI to Boost Chatbot Business](https://www.theinformation.com/articles/openai-races-to-launch-strawberry-reasoning-ai-to-boost-chatbot-business?rc=64g9cw) (The Information)
@@ -942,7 +942,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 27 2024**
+**Tuesday, August 27 2024 - Tue. 08/27 – More On Pavel Durov**
 
   * [Telegram Founder’s Arrest Part of Broad Investigation, French Prosecutors Say](https://www.nytimes.com/2024/08/26/business/telegram-founder-arrest-france.html) (NYTimes)
   * [Macron loves Telegram. French judges hate it.](https://www.politico.eu/article/telegram-pavel-durov-arrest-emmanuel-macron-france-social-media/) (Politico)
@@ -953,7 +953,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 26 2024**
+**Monday, August 26 2024 - Mon. 08/26 – Telegram CEO Arrested**
 
   * [Telegram CEO Held Over Alleged Child Protection Failures on App](https://www.bloomberg.com/news/articles/2024-08-26/telegram-ceo-held-over-alleged-child-protection-failures-on-app?sref=Szq5ylDR) (Bloomberg)
   * [Telegram messaging app CEO Durov arrested in France](https://www.reuters.com/world/europe/telegram-messaging-app-ceo-pavel-durov-arrested-france-tf1-tv-says-2024-08-24/) (Reuters)
@@ -964,7 +964,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 23 2024**
+**Friday, August 23 2024 - Fri. 08/23 – The Bolt Saga**
 
   * [Microsoft finally officially confirms it's killing Windows Control Panel sometime soon](https://www.neowin.net/news/microsoft-finally-officially-confirms-its-killing-windows-control-panel-sometime-soon/) (Neowin)
   * [Exclusive: Chinese entities turn to Amazon cloud and its rivals to access high-end US chips, AI](https://www.reuters.com/technology/chinese-entities-turn-amazon-cloud-its-rivals-access-high-end-us-chips-ai-2024-08-23/) (Reuters)
@@ -974,7 +974,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 22 2024**
+**Thursday, August 22 2024 - Thu. 08/22 – The Mike Lynch Saga**
 
   * [Bodies of Mike Lynch and four yacht guests pulled from Bayesian wreck](https://www.ft.com/content/9f6d3a9a-32a6-4fba-8587-c1bca097957d) (Financial Times)
   * [Mike Lynch’s journey from tech founder to long legal battle](https://www.ft.com/content/92389e4c-b61e-44a3-ac43-e81a6678e79c) (Financial Times)
@@ -986,7 +986,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 21 2024**
+**Wednesday, August 21 2024 - Wed. 08/21 – AI Grabs The Spotlight Back**
 
   * [Gemini in Gmail can now help polish up your drafts](https://www.theverge.com/2024/8/20/24159832/google-gmail-gemini-help-me-write-polish) (The Verge)
   * [Microsoft releases powerful new Phi-3.5 models, beating Google, OpenAI and more](https://venturebeat.com/ai/microsoft-releases-powerful-new-phi-3-5-models-beating-google-openai-and-more/) (VentureBeat)
@@ -999,7 +999,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 20 2024**
+**Tuesday, August 20 2024 - Tue. 08/20 – Checkin On How The Vision Pro Is (Or Is Not) Coming Along**
 
   * [Raspberry Pi 5’s new 2GB model benchmarked: Do you need 2, 4 or 8GB? : We test against the 4 and 8GB versions](https://www.tomshardware.com/raspberry-pi/raspberry-pi-5s-new-2gb-model-benchmarked-do-you-need-2-4-or-8gb-we-test-against-the-4-and-8gb-versions) (Tom's Hardware)
   * [Waymo is developing a roomier robotaxi with less-expensive tech](https://www.cnbc.com/2024/08/19/waymo-generation-6-robotaxi-geely-zeekr.html) (CNBC)
@@ -1009,7 +1009,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 19 2024**
+**Monday, August 19 2024 - Mon. 08/19 – Everything Eventually Becomes An Advertising Business**
 
   * [X says it’s closing operations in Brazil](https://techcrunch.com/2024/08/17/x-says-its-closing-operations-in-brazil/) (TechCrunch)
   * [AMD Buys AI Equipment Maker for Nearly $5 Billion, Escalating Battle With Nvidia](https://www.wsj.com/tech/ai/amd-buys-ai-equipment-maker-for-nearly-5-billion-escalating-battle-with-nvidia-e1106142?st=r0f6mdevhuncght&reflink=desktopwebshare_permalink) (WSJ)
@@ -1019,7 +1019,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 16 2024**
+**Friday, August 16 2024 - Fri. 08/16 – Epic Saga Conclusion?**
 
   * [Fortnite Maker Epic Games Challenges Apple’s Dominance With New iOS App Store](https://www.wired.com/story/epic-games-store-eu-launch-vs-apple/) (Wired)
   * [California weakens bill to prevent AI disasters before final vote, taking advice from Anthropic](https://techcrunch.com/2024/08/15/california-weakens-bill-to-prevent-ai-disasters-before-final-vote-taking-advice-from-anthropic/) (TechCrunch)
@@ -1027,7 +1027,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 15 2024**
+**Thursday, August 15 2024 - Thu. 08/15 – Grok Will Let You AI Anything**
 
   * [X’s new AI image generator will make anything from Taylor Swift in lingerie to Kamala Harris with a gun](https://www.theverge.com/2024/8/14/24220173/xai-grok-image-generator-misinformation-offensive-imges) (The Verge)
   * [Apple Pushes Ahead With Tabletop Robot in Search of New Revenue](https://www.bloomberg.com/news/articles/2024-08-14/apple-pushes-ahead-with-tabletop-home-device-in-shift-to-robotics?sref=Szq5ylDR) (Bloomberg)
@@ -1038,7 +1038,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 14 2024**
+**Wednesday, August 14 2024 - Wed. 08/14 – When It Comes To AI On Phones, Google Does It Itself**
 
   * [The Google Pixel 9’s AI Camera Features Let You Reshape Reality](https://www.wired.com/story/all-the-new-generative-ai-camera-features-in-google-pixel-9-phones/) (Wired)
   * [Google Gemini’s voice chat mode is here](https://www.theverge.com/2024/8/13/24219553/google-gemini-live-voice-chat-mode) (The Verge)
@@ -1048,7 +1048,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 13 2024**
+**Tuesday, August 13 2024 - Tue. 08/13 – Apple Comes For Patreon**
 
   * [Apple says Patreon must switch to its billing system or risk removal from App Store](https://techcrunch.com/2024/08/12/apple-says-patreon-must-switch-to-its-billing-system-or-risk-removal-from-app-store/) (TechCrunch)
   * [‘Apple’s Requirements to Hit Creators and Fans on Patreon’](https://daringfireball.net/linked/2024/08/12/apple-patreon) (Daring Fireball)
@@ -1060,7 +1060,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 12 2024**
+**Monday, August 12 2024 - Mon. 08/12 – Some Apple Rumors Before Pixel Day**
 
   * [Apple’s iPhone 16 Will Keep Sales Stable Until Bigger Changes Arrive](https://www.bloomberg.com/news/newsletters/2024-08-11/iphone-16-preview-bigger-screens-new-colors-camera-button-ai-and-a18-chip-lzpk5495?sref=Szq5ylDR) (Bloomberg)
   * [Instagram is testing its own take on Snap Map](https://www.theverge.com/2024/8/9/24217027/instagram-snap-map-style-feature-testing) (The Verge)
@@ -1071,7 +1071,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 09 2024**
+**Friday, August 09 2024 - Fri. 08/09 – Mac Mini To Get Mini-er?**
 
   * [Apple announces new fee structure for apps in the EU that link out to the web for purchases](https://9to5mac.com/2024/08/08/apple-app-store-eu-link-out-changes/) (9to5Mac)
   * [Spotify and Epic Games call Apple’s revised DMA compliance plan ‘confusing,’ ‘illegal’ and ‘unacceptable’](https://techcrunch.com/2024/08/08/spotify-and-epic-games-call-apples-revised-dma-compliance-plan-confusing-illegal-and-unacceptable/) (TechCrunch)
@@ -1081,7 +1081,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 08 2024**
+**Thursday, August 08 2024 - Thu. 08/08 – Would You Buy A Subscription Mouse?**
 
   * [TikTok adds in-app hubs for videos about movies and TV shows](https://www.theverge.com/2024/8/8/24215338/tiktok-spotlight-in-app-hubs-movies-tv-shows) (The Verge)
   * [Exclusive: Meta is closing a beloved first-party Quest studio](https://www.androidcentral.com/gaming/virtual-reality/ready-at-dawn-studios-closing) (AndroidConnect)
@@ -1094,7 +1094,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, August 07 2024**
+**Wednesday, August 07 2024 - Wed. 08/07 – Is The New Google TV Streamer An Apple TV 4K Killer?**
 
   * [The Google TV Streamer might be the Apple TV 4K rival we’ve been waiting for](https://www.theverge.com/2024/8/6/24214055/google-tv-streamer-features-price-matter-thread) (The Verge)
   * [Gemini intelligence is coming to Google Home](https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware) (The Verge)
@@ -1106,7 +1106,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, August 06 2024**
+**Tuesday, August 06 2024 - Tue. 08/06 – Google Loses In Court**
 
   * [Google Monopolized Search Through Illegal Deals, Judge Rules](https://www.bloomberg.com/news/articles/2024-08-05/google-loses-doj-antitrust-suit-over-search?sref=Szq5ylDR) (Bloomberg)
   * [Forget Apple, the biggest loser in the Google search ruling could be Mozilla and its Firefox web browser](https://fortune.com/2024/08/05/mozilla-firefox-biggest-potential-loser-google-antitrust-search-ruling/) (Fortune)
@@ -1116,7 +1116,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, August 05 2024**
+**Monday, August 05 2024 - Mon. 08/05 – OpenAI Can Detect AI Text But Isn’t Sure It Wants To**
 
   * [There’s a Tool to Catch Students Cheating With ChatGPT. OpenAI Hasn’t Released It.](https://www.wsj.com/tech/ai/openai-tool-chatgpt-cheating-writing-135b755a?st=ejj4hy2haouysas&reflink=desktopwebshare_permalink) (WSJ)
   * [Bitcoin tumbles below $50,000 for the first time since February](https://www.cnbc.com/2024/08/05/crypto-market-today.html) (CNBC)
@@ -1127,7 +1127,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, August 02 2024**
+**Friday, August 02 2024 - Fri. 08/02 – Intel Is Bailing Water**
 
   * [Amazon Beats On Earnings, Revenue Comes In Light Despite Strong Cloud Performance](https://www.investors.com/news/technology/amazon-beats-on-earnings-revenue-comes-in-light-despite-strong-cloud-performance/) (Investor's Business Daily)
   * [Intel is laying off over 15,000 employees and will stop ‘non-essential work’](https://www.theverge.com/2024/8/1/24210656/intel-is-laying-off-over-10000-employees-and-will-cut-10-billion-in-costs) (The Verge)
@@ -1136,7 +1136,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, August 01 2024**
+**Thursday, August 01 2024 - Thu. 08/01 – Now Meta’s AI Spending Is Fine?**
 
   * [Meta’s Lesson in Allaying Wall Street’s A.I. Fears](https://www.nytimes.com/2024/08/01/business/dealbook/meta-ai-wall-street.html?smid=tw-dealbook&smtyp=cur) (Dealbook/NYT)
   * [Meta’s AI Costs Surge as Digital Advertising Revenue Grows](https://www.wsj.com/tech/ai/meta-platforms-q2-earnings-report-2024-43da3cfe) (WSJ)
@@ -1148,7 +1148,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 31 2024**
+**Wednesday, July 31 2024 - Wed. 07/31 – CapCut Ascendant**
 
   * [Meta Scraps Celebrity AI Chatbots That Fell Flat With Users](https://www.theinformation.com/articles/meta-scraps-celebrity-ai-chatbots-that-fell-flat-with-users?rc=64g9cw) (The Information)
   * [The Rise of ByteDance’s CapCut Threatens Adobe and Canva](https://www.bloomberg.com/news/articles/2024-07-29/adobe-canva-losing-users-to-bytedance-s-capcut-especially-on-tiktok?sref=Szq5ylDR) (Bloomberg)
@@ -1158,7 +1158,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 30 2024**
+**Tuesday, July 30 2024 - Tue. 07/30 – A (Mostly) AI Day**
 
   * [Perplexity is cutting checks to publishers following plagiarism accusations](https://www.theverge.com/2024/7/30/24208979/perplexity-publishers-program-ad-revenue-sharing-ai-time-fortune-der-spiegel) (The Verge)
   * [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/) (404Media)
@@ -1169,7 +1169,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 29 2024**
+**Monday, July 29 2024 - Mon. 07/29 – Big Tech IPO From… Honeywell?**
 
   * [Apple's AI Features Rollout Will Miss Upcoming iPhone Software Overhaul](https://www.bloomberg.com/news/articles/2024-07-28/apple-intelligence-to-miss-initial-release-of-upcoming-ios-18-ipados-overhauls?sref=Szq5ylDR) (Bloomberg)
   * [Elon Musk calls Grok 'the most powerful AI by every metric' but 'secretly' trains the new model with your X data by default](https://www.windowscentral.com/software-apps/twitter/elon-musk-grok-ai-secretly-trains-with-your-x-data) (WindowsCentral)
@@ -1180,7 +1180,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 26 2024**
+**Friday, July 26 2024 - Fri. 07/26 – SearchGPT**
 
   * [OpenAI announces SearchGPT, its AI-powered search engine](https://www.theverge.com/2024/7/25/24205701/openai-searchgpt-ai-search-engine-google-perplexity-rival) (The Verge)
   * [Video game performers will go on strike over artificial intelligence concerns](https://apnews.com/article/sagaftra-video-game-performers-ai-strike-4f4c7d846040c24553dbc2604e5b6034) (AP)
@@ -1189,7 +1189,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 25 2024**
+**Thursday, July 25 2024 - Thu. 07/25 – Reddit’s Throwing Elbows Again**
 
   * [Google's Exclusive Reddit Access](https://www.404media.co/email/4650b997-7cc3-4578-834c-7e663ed3d516/) (404Media)
   * [Microsoft unveils Bing Generative Search — enhanced with AI, it's a complete overhaul of traditional search](https://www.windowscentral.com/microsoft/microsoft-unveils-bing-generative-search-enhanced-with-ai-its-a-complete-overhaul-of-traditional-search) (WindowsCentral)
@@ -1200,7 +1200,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 24 2024**
+**Wednesday, July 24 2024 - Wed. 07/24 – Llama 3.1 Bests The “Frontier Models”?**
 
   * [Meta puts open source AI on the podium.](https://bensbites.beehiiv.com/p/metas-puts-open-source-ai-podium) (Ben's Bites)
   * [The first GPT-4-class AI model anyone can download has arrived: Llama 405B](https://arstechnica.com/information-technology/2024/07/the-first-gpt-4-class-ai-model-anyone-can-download-has-arrived-llama-405b/) (ArsTechnica)
@@ -1212,7 +1212,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 23 2024**
+**Tuesday, July 23 2024 - Tue. 07/23 – Wiz Turns Down The Money**
 
   * [After years of uncertainty, Google says it won’t be ‘deprecating third-party cookies’ in Chrome](https://digiday.com/marketing/after-years-of-uncertainty-google-says-it-wont-be-deprecating-third-party-cookies-in-chrome/) (Digiday)
   * [Wiz walks away from $23 billion deal with Google, will pursue IPO](https://www.cnbc.com/2024/07/23/google-wiz-deal-dead.html) (CNBC)
@@ -1223,7 +1223,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 22 2024**
+**Monday, July 22 2024 - Mon. 07/22 – The Big Outage Weekend**
 
   * [CrowdStrike's Falcon Sensor also linked to Linux kernel panics and crashes](https://www.theregister.com/2024/07/21/crowdstrike_linux_crashes_restoration_tools/) (The Register)
   * [Microsoft’s global sprawl comes under fire after historic outage](https://www.washingtonpost.com/technology/2024/07/20/microsoft-outage-crowdstrike-regulatory-scrutiny/) (Washington Post)
@@ -1235,7 +1235,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, July 19 2024**
+**Friday, July 19 2024 - Fri. 07/19 – The Big CrowdStrike Outage Explained**
 
   * [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue) (The Verge)
   * [Global IT Collapse Puts Cyber Firm CrowdStrike in Spotlight](https://www.bloomberg.com/news/articles/2024-07-19/global-it-collapse-puts-cyber-firm-crowdstrike-in-spotlight?sref=Szq5ylDR) (Bloomberg)
@@ -1246,7 +1246,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 18 2024**
+**Thursday, July 18 2024 - Thu. 07/18 – Crypto Exchange Hacks Are Back**
 
   * [WazirX Hacked for $230M, Largely in SHIB, as Elliptic Says North Korea Behind Attack](https://www.coindesk.com/business/2024/07/18/crypto-exchange-wazirx-sees-230m-in-suspicious-withdrawals-largely-100m-in-shib-token/) (CoinDesk)
   * [$235 million lost by WazirX in North Korea-linked breach](https://www.elliptic.co/blog/235-million-lost-by-wazirx-in-north-korea-linked-breach) (Elliptic)
@@ -1259,7 +1259,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 17 2024**
+**Wednesday, July 17 2024 - Wed. 07/17 – Sorry, More Politics…**
 
   * [Trump on Taxes, Tariffs, Jerome Powell and More](https://www.bloomberg.com/features/2024-trump-interview/?sref=Szq5ylDR) (Bloomberg)
   * [Exclusive: Google-backed software developer GitLab explores sale, sources say](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/) (Reuters)
@@ -1269,7 +1269,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 16 2024**
+**Tuesday, July 16 2024 - Tue. 07/16 – A VC VP Pick**
 
   * [J.D. Vance Is Trump’s Pick for Vice President](https://www.wired.com/story/jd-vance-trump-vice-president/) (Wired)
   * [It’s never been easier for the cops to break into your phone](https://www.theverge.com/24199357/fbi-trump-rally-shooter-phone-thomas-matthew-crooks-quantico-mdtf) (The Verge)
@@ -1280,7 +1280,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 15 2024**
+**Monday, July 15 2024 - Mon. 07/15 – Google To Make Its Biggest Acquisition Ever?**
 
   * [Google Near $23 Billion Deal for Cybersecurity Startup Wiz](https://www.wsj.com/business/deals/google-near-23-billion-deal-for-cybersecurity-startup-wiz-622edf1a?st=e3qv18l6e2p40rb&reflink=desktopwebshare_permalink) (WSJ)
   * [Zero to Billions: The Startup on the Verge of the Biggest Tech Exit in Years](https://www.wsj.com/tech/how-startup-wiz-went-from-zero-to-a-possible-23-billion-sale-to-google-in-four-years-edb7c02b?st=b1zr4z5mkodia67&reflink=desktopwebshare_permalink) (WSJ)
@@ -1292,7 +1292,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, July 11 2024**
+**Thursday, July 11 2024 - Thu. 07/11 – Samsung’s Foldable Event**
 
   * [Galaxy Z Fold 6 goes official with 7 years of updates, wider displays, starting at $1,899](https://9to5google.com/2024/07/10/samsung-galaxy-z-fold-6-price-specs-release-date/) (9to5Google)
   * [Galaxy Z Flip 6 starts at $1,099 with battery, cover display, and camera upgrades](https://9to5google.com/2024/07/10/galaxy-z-flip-6-price-specs-release-date/) (9to5Google)
@@ -1302,7 +1302,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 10 2024**
+**Wednesday, July 10 2024 - Wed. 07/10 – Why Everyone Is Fleeing OpenAI’s Board**
 
   * [Microsoft and Apple drop OpenAI seats amid antitrust scrutiny](https://www.ft.com/content/ecfa69df-5d1c-4177-9b14-a3a73072db12) (FT)
   * [Microsoft gives up observer seat on OpenAI board](https://www.axios.com/2024/07/10/microsoft-openai-board-seat-observer) (Axios)
@@ -1314,7 +1314,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 09 2024**
+**Tuesday, July 09 2024 - Tue. 07/09 – The New Nothing Phone Costs Practically Nothing**
 
   * [Nothing’s CMF Devices Prove Yet Again Cheap Doesn't Have to Mean Boring](https://www.wired.com/story/cmf-phone-1-cmf-watch-pro-2-cmf-buds-pro-2/) (Wired)
   * [Amazon announces new $79 Echo Spot alarm clock](https://www.cnbc.com/2024/07/08/amazon-new-echo-spot-alarm-clock-price-release-date.html) (CNBC)
@@ -1326,7 +1326,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 08 2024**
+**Monday, July 08 2024 - Mon. 07/08 – Thinner And Bigger Watches**
 
   * [What’s Next for the Apple Watch: Bigger Screens But a Similar Look](https://www.bloomberg.com/news/newsletters/2024-07-07/apple-watch-series-10-ultra-3-details-bigger-screens-blood-pressure-challenge-lybjqp0q?sref=Szq5ylDR) (Bloomberg)
   * [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/) (Reuters)
@@ -1336,7 +1336,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, July 03 2024**
+**Wednesday, July 03 2024 - Wed. 07/03 – Walking Back AI Products**
 
   * [Figma Disables AI App Design Tool After It Copied Apple’s Weather App](https://www.404media.co/figma-disables-ai-app-design-tool-after-it-copied-apples-weather-app/) (404 Media)
   * [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy) (The Verge)
@@ -1346,7 +1346,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, July 02 2024**
+**Tuesday, July 02 2024 - Tue. 07/02 – Single Points Of Failure For Cyberattacks**
 
   * [Fintech company Wise says some customers affected by Evolve Bank data breach](https://techcrunch.com/2024/07/01/fintech-company-wise-says-some-customers-affected-by-evolve-bank-data-breach/) (TechCrunch)
   * [CDK Global Hack Shows Risk of One Software Vendor Dominating an Industry](https://www.wsj.com/articles/cdk-global-hack-shows-risk-of-one-software-vendor-dominating-an-industry-5156420d?st=l5gbcjsgkhkaz9g&reflink=desktopwebshare_permalink) (WSJ)
@@ -1357,7 +1357,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, July 01 2024**
+**Monday, July 01 2024 - Mon. 07/01 – Now Brussels Sprouts For Meta**
 
   * [Meta's pay or consent model in crosshairs for breaching EU tech rules](https://www.reuters.com/technology/meta-charged-with-failing-comply-with-eu-tech-rules-2024-07-01/) (Reuters)
   * [Kuo: Apple to begin mass production of AirPods with cameras by 2026](https://9to5mac.com/2024/06/30/airpods-with-cameras-report-production/) (9to5Mac)
@@ -1368,7 +1368,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 28 2024**
+**Friday, June 28 2024 - Fri 06/28 – The Real King Of All Media Is… YouTube?**
 
   * [Amazon Is Investigating Perplexity Over Claims of Scraping Abuse](https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/) (Wired)
   * [OpenAI’s China Block to Reshape AI Scene as Big Players Pounce](https://www.bloomberg.com/news/articles/2024-06-26/openai-s-china-block-to-reshape-ai-scene-as-big-players-like-alibaba-pounce?sref=Szq5ylDR) (Bloomberg)
@@ -1377,7 +1377,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 27 2024**
+**Thursday, June 27 2024 - Thu. 06/27 – Add Consultants To The List Of Big Winners Of AI So Far**
 
   * [Bitcoin Falls After U.S. Sends $240M Worth of Silk Road-Related BTC to Coinbase](https://www.coindesk.com/markets/2024/06/26/bitcoin-falls-after-us-sends-240m-worth-of-silk-road-related-btc-to-coinbase/) (Coindesk)
   * [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages) (The Verge)
@@ -1389,7 +1389,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 26 2024**
+**Wednesday, June 26 2024 - Wed. 06/26 – An eInk Phone That Might Be Worth Buying?**
 
   * [OpenAI’s ChatGPT for Mac app is now available to everyone](https://9to5mac.com/2024/06/25/openais-chatgpt-for-mac-app-is-now-available-to-everyone/) (9to5Mac)
   * [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529) (Search Engine Land)
@@ -1400,7 +1400,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 25 2024**
+**Tuesday, June 25 2024 - Tue. 06/25 – AI Music Startups Get The Napster Treatment**
 
   * [Major record labels sue AI company behind ‘BBL Drizzy’](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner) (The Verge)
   * [EU charges Microsoft with antitrust violations over Teams](https://www.ft.com/content/eb83bb45-84b3-4c58-9589-684029d23243) (FT)
@@ -1413,7 +1413,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 24 2024**
+**Monday, June 24 2024 - Mon. 06/24 – Apple The First To Run Afoul Of The DMA**
 
   * [Brussels accuses Apple of breaking EU ‘gatekeeper’ rules](https://www.ft.com/content/898338c2-b9fd-4494-be3f-75b7c669c705) (FT)
   * [Apple is first company charged with violating EU’s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling) (The Verge)
@@ -1425,7 +1425,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 21 2024**
+**Friday, June 21 2024 - Fri. 06/21 – Kaspersky Banned By The US Government**
 
   * [US bans sale of Kaspersky software citing security risk from Russia](https://techcrunch.com/2024/06/20/us-bans-kaspersky-software-security-risk-russia/) (TechCrunch)
   * [Anthropic claims its latest model is best-in-class](https://techcrunch.com/2024/06/20/anthropic-claims-its-latest-model-is-best-in-class/) (TechCrunch)
@@ -1435,7 +1435,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 20 2024**
+**Thursday, June 20 2024 - Ilya Sutskever’s New AI Startup**
 
   * [Ilya Sutskever Has a New Plan for Safe Superintelligence](https://www.bloomberg.com/news/articles/2024-06-19/openai-co-founder-plans-new-ai-focused-research-lab?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxODgxNjU5NywiZXhwIjoxNzE5NDIxMzk3LCJhcnRpY2xlSWQiOiJTRkM3ODJUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI5MTM4NzMzNDcyQkY0QjlGQTg0OTI3QTVBRjY1QzBCRiJ9.9s8N3QuUytwRVZ6dzDwZ6tPOGDsV8u05fpTrUdlHcXg&sref=Szq5ylDR) (Bloomberg)
   * [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/) (Wired)
@@ -1445,7 +1445,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 19 2024**
+**Wednesday, June 19 2024 - Wed. 06/18 – Apple Pumping The Breaks On The Vision Pro?**
 
   * [Apple Suspends Work on Next Vision Pro, Focused on Releasing Cheaper Model in Late 2025](https://www.theinformation.com/articles/apple-suspends-work-on-next-high-end-headset-focused-on-releasing-cheaper-model-in-late-2025?rc=64g9cw) (The Information)
   * [Former Snap engineer launches Butterflies, a social network where AIs and humans coexist](https://techcrunch.com/2024/06/18/former-snap-engineer-launches-butterflies-a-social-network-where-ais-and-humans-coexist/) (TechCrunch)
@@ -1455,7 +1455,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 18 2024**
+**Tuesday, June 18 2024 - Tue. 06/18 – Adobe’s Time In The Woodshed**
 
   * [US sues Adobe for ‘deceiving’ subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel) (The Verge)
   * [Apple to settle ‘tap-and-go’ payments probe with EU](https://www.ft.com/content/fb939c62-4e24-4ffa-8125-b60120c4776e) (FT)
@@ -1467,7 +1467,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 17 2024**
+**Monday, June 17 2024 - Mon. 06/17 – Thinner And Lighter It Is**
 
   * [Apple’s Slow Rollout of Intelligence Features Will Stretch Into 2025](https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w?sref=Szq5ylDR) (Bloomberg)
   * [Kuo: Apple Watch Series 10 to Get Larger Screen and Thinner Design](https://www.macrumors.com/2024/06/17/kuo-apple-watch-series-10-larger-screen-thinner/) (MacRumors)
@@ -1478,7 +1478,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, June 14 2024**
+**Friday, June 14 2024 - Fri. 06/14 – Now Microsoft Delays Recall**
 
   * [Microsoft’s all-knowing Recall AI feature is being delayed](https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay) (The Verge)
   * [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works) (The Verge)
@@ -1487,7 +1487,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 13 2024**
+**Thursday, June 13 2024 - Thu. 06/13 – The Excel World Championships**
 
   * [Apple to ‘Pay’ OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI’s Annualized Revenue Doubles to $3.4 Billion Since Late 2023](https://www.theinformation.com/articles/openais-annualized-revenue-doubles-to-3-4-billion-since-late-2023?rc=64g9cw) (The Information)
@@ -1499,7 +1499,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 12 2024**
+**Wednesday, June 12 2024 - Wed. 06/12 – Elon Pulls His OpenAI Lawsuit**
 
   * [Elon Musk drops suit against OpenAI and Sam Altman](https://www.cnbc.com/2024/06/11/elon-musk-drops-suit-against-openai-and-sam-altman.html) (CNBC)
   * [X is officially making likes (mostly) private for everyone](https://www.engadget.com/x-is-officially-making-likes-mostly-private-for-everyone-035837613.html) (Engadget)
@@ -1512,7 +1512,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 11 2024**
+**Tuesday, June 11 2024 - Tue. 06/11 – Did Apple Nail AI, Or Just Do AI In An Apple Way?**
 
   * [Apple’s AI promise: “Your data is never stored or made accessible to Apple”](https://arstechnica.com/ai/2024/06/apples-ai-promise-your-data-is-never-stored-or-made-accessible-by-apple/) (ArsTechnica)
   * [How will Apple’s new AI change your phone? I asked Tim Cook.](https://www.washingtonpost.com/opinions/2024/06/11/tim-cook-apple-interview/) (Washington Post)
@@ -1525,14 +1525,14 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 10 2024**
+**Monday, June 10 2024 - Mon. 06/10 – The WWDC 2024 Keynote**
 
   * [**Miro.com**](https://www.miro.com/)
   * [**Shopify.com/ride**](https://www.shopify.com/ride)
 
 
 
-**Friday, June 07 2024**
+**Friday, June 07 2024 - Fri. 06/07 – It’s Backlash Day**
 
   * [Here’s Everything Apple Plans to Show at Its AI-Focused WWDC Event](https://www.bloomberg.com/news/articles/2024-06-07/apple-wwdc-2024-what-to-expect-ai-ipados-18-macos-15-siri-updates-more?sref=Szq5ylDR) (Bloomberg)
   * [Apple to Debut Passwords App in Challenge to 1Password, LastPass](https://www.bloomberg.com/news/articles/2024-06-06/apple-to-debut-passwords-app-in-challenge-to-1password-lastpass?sref=Szq5ylDR) (Bloomberg)
@@ -1543,7 +1543,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, June 06 2024**
+**Thursday, June 06 2024 - Thu. 06/06 – Regulators Stirring On AI**
 
   * [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html?unlocked_article_code=1.xk0.Ynfh.VR9THK54Llzm&smid=url-share) (NYTimes)
   * [FTC Opens Antitrust Probe of Microsoft AI Deal](https://www.wsj.com/tech/ai/ftc-opens-antitrust-probe-of-microsoft-ai-deal-29b5169a?st=1s8cbt84lkt6pf9&reflink=desktopwebshare_permalink) (WSJ)
@@ -1556,7 +1556,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, June 05 2024**
+**Wednesday, June 05 2024 - Wed. 06/05 – An Open Letter To OpenAI**
 
   * [OpenAI Insiders Warn of a ‘Reckless’ Race for Dominance](https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html?u2g=i&unlocked_article_code=1.xE0.qXLu.0XwdynmvKcft&smid=url-share) (NYTimes)
   * [Apple Made Once-Unlikely Deal With Sam Altman to Catch Up in AI](https://www.bloomberg.com/news/articles/2024-06-05/why-is-apple-aapl-teaming-up-with-openai-both-companies-need-each-other?sref=Szq5ylDR) (Bloomberg)
@@ -1566,7 +1566,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, June 04 2024**
+**Tuesday, June 04 2024 - Tue. 06/04 – Wait. Why More Layoffs?**
 
   * [Intel CEO Takes Aim at Nvidia in Fight for AI Chip Dominance](https://www.bloomberg.com/news/articles/2024-06-04/intel-ceo-fires-back-at-nvidia-in-battle-for-ai-chip-leadership?sref=Szq5ylDR) (Bloomberg)
   * [E*Trade Considers Kicking Meme-Stock Leader Keith Gill Off Platform](https://www.wsj.com/finance/regulation/e-trade-considers-kicking-meme-stock-leader-keith-gill-off-platform-f2003ec4?st=evc7mrhoiqh8i6y&reflink=desktopwebshare_permalink) (WSJ)
@@ -1578,7 +1578,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, June 03 2024**
+**Monday, June 03 2024 - Mon. 06/03 – An AI To Game With**
 
   * [Nvidia’s G-Assist is an AI chatbot that guides you through games and optimizes your PC](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot) (The Verge)
   * [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans) (The Verge)
@@ -1588,7 +1588,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 31 2024**
+**Friday, May 31 2024 - Fri. 05/31 – Why Not Just Kill Siri?**
 
   * [OpenAI has a has a new version of ChatGPT just for universities](https://www.engadget.com/openai-has-a-has-a-new-version-of-chatgpt-just-for-universities-191350708.html) (Engadget)
   * [OpenAI Is Rebooting Its Robotics Team](https://www.forbes.com/sites/kenrickcai/2024/05/30/openai-robotics-team/?sh=3451337f4f33) (Forbes)
@@ -1599,7 +1599,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 30 2024**
+**Thursday, May 30 2024 - Thu. 05/30 – Biggest Botnet Ever?**
 
   * [US dismantles 911 S5 botnet used for cyberattacks, arrests admin](https://www.bleepingcomputer.com/news/security/us-dismantles-911-s5-residential-proxy-botnet-used-for-cyberattacks-arrests-admin/) (BleepingComputer)
   * [Exclusive: The Atlantic, Vox Media ink licensing, product deals with OpenAI](https://www.axios.com/2024/05/29/atlantic-vox-media-openai-licensing-deal) (Axios)
@@ -1612,7 +1612,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 29 2024**
+**Wednesday, May 29 2024 - Wed. 05/29 – Did The Secret Sauce Of Google Search Just Leak?**
 
   * [An Anonymous Source Shared Thousands of Leaked Google Search API Documents with Me; Everyone in SEO Should See Them](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/) (SparkToro.com)
   * [Ex-OpenAI Director Says Board Learned of ChatGPT Launch on Twitter](https://www.bloomberg.com/news/articles/2024-05-28/ex-openai-director-says-board-learned-of-chatgpt-launch-on-twitter?sref=Szq5ylDR) (Bloomberg)
@@ -1623,7 +1623,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 28 2024**
+**Tuesday, May 28 2024 - Tue. 05/28 – GPT5 Still A Year Out?**
 
   * [OpenAI Says It Has Begun Training a New Flagship A.I. Model](https://www.nytimes.com/2024/05/28/technology/openai-gpt4-new-model.html) (NYTimes)
   * [Elon Musk’s xAI raises $6 billion to fund its race against ChatGPT and all the rest](https://www.theverge.com/2024/5/27/24165619/elon-musk-xai-startup-6-billion-funding) (The Verge)
@@ -1635,7 +1635,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 24 2024**
+**Friday, May 24 2024 - Fri. 05/24 – Now ETH Gets An ETF**
 
   * [US SEC approves exchange applications to list spot ether ETFs](https://www.reuters.com/technology/us-sec-approves-exchange-applications-list-spot-ether-etfs-2024-05-23/) (Reuters)
   * [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024) (The Verge)
@@ -1645,7 +1645,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 23 2024**
+**Thursday, May 23 2024 - Thu. 05/23 – Nvidia: Still Killing It**
 
   * [Nvidia shares pass $1,000 for first time on AI-driven sales surge](https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html) (CNBC)
   * [Nvidia’s Business Is Booming. Here’s What Could Slow It Down.](https://www.wsj.com/tech/ai/nvidias-business-is-booming-heres-what-could-slow-it-down-fd5ffa14?st=mgh7tc8mdth9tl7&reflink=desktopwebshare_permalink) (WSJ)
@@ -1657,7 +1657,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 22 2024**
+**Wednesday, May 22 2024 - Wed. 05/22 – Humane Already To The Deadpool?**
 
   * [Microsoft’s new Copilot AI agents act like virtual employees to automate tasks](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents) (The Verge)
   * [Microsoft is bringing ‘Windows Volumetric Apps’ to Meta Quest headsets](https://www.theverge.com/2024/5/21/24161817/microsoft-windows-volumetric-apps-meta-quest-api) (The Verge)
@@ -1668,7 +1668,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 21 2024**
+**Tuesday, May 21 2024 - Tue. 05/21 – Now You’ve Pissed Off Scar-Jo**
 
   * [The new, faster Surface Pro is Microsoft’s all-purpose AI PC](https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai) (The Verge)
   * [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite) (The Verge)
@@ -1679,7 +1679,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 20 2024**
+**Monday, May 20 2024 - Mon. 05/20 – That GPT Voice Is NOT Scar-Jo**
 
   * [OpenAI to Pull Johansson Soundalike Sky’s Voice From ChatGPT](https://www.bloomberg.com/news/articles/2024-05-20/openai-to-pull-johansson-soundalike-sky-s-voice-from-chatgpt?sref=Szq5ylDR) (Bloomberg)
   * [What We Lose When ChatGPT Sounds Like Scarlett Johansson](https://www.nytimes.com/2024/05/20/movies/chatgpt-4o-scarlett-johansson-her.html) (NYTimes)
@@ -1690,7 +1690,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 17 2024**
+**Friday, May 17 2024 - Fri. 05/17 – Reddit Embraces Its AI Role**
 
   * [OpenAI strikes deal to bring Reddit content to ChatGPT](https://www.reuters.com/markets/deals/openai-strikes-deal-bring-reddit-content-chatgpt-2024-05-16/) (Reuters)
   * [OpenAI strikes Reddit deal to train its AI on your posts](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising) (The Verge)
@@ -1701,7 +1701,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 16 2024**
+**Thursday, May 16 2024 - Thu. 05/16 – Instagram Founder To Anthropic**
 
   * [EU launches probe into Meta over social media addiction in children](https://www.ft.com/content/3978c96a-21b4-469f-bca9-1b1055bb3a6f) (Financial Times)
   * [Instagram’s co-founder is Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai) (The Verge)
@@ -1713,7 +1713,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 15 2024**
+**Wednesday, May 15 2024 - Wed. 05/15 – Google’s I/O Announces.**
 
   * [Google rolls out AI Overviews in US with more countries coming soon](https://searchengineland.com/google-rolls-out-ai-overviews-in-us-with-more-countries-coming-soon-440418) (SearchEngineLand)
   * [Can Google Give A.I. Answers Without Breaking the Web?](https://www.nytimes.com/2024/05/14/technology/google-ai-answers.html) (NYTimes)
@@ -1724,7 +1724,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 14 2024**
+**Tuesday, May 14 2024 - Tue. 05/14 – GPT-4o**
 
   * [OpenAI debuts GPT-4o ‘omni’ model now powering ChatGPT](https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/) (TechCrunch)
   * [OpenAI debuts new model with enhanced real-time voice abilities](https://www.axios.com/2024/05/13/openai-google-chatgpt-ai) (Axios)
@@ -1735,7 +1735,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 13 2024**
+**Monday, May 13 2024 - Mon. 05/13 – The Solar Storm Is Real (Ask Farmers)**
 
   * [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/) (404Media)
   * [Website-design firm Squarespace to go private in $6.9 billion deal with Permira](https://www.reuters.com/markets/deals/squarespace-go-private-all-cash-deal-valued-69-bln-2024-05-13/) (Reuters)
@@ -1747,7 +1747,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 10 2024**
+**Friday, May 10 2024 - Fri. 05/10 – Apple Apologizes For The “Crush” Ad**
 
   * [Apple apologizes for iPad ‘Crush’ ad that ‘missed the mark’](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology) (The Verge)
   * [Apple doesn’t understand why you use technology](https://www.theverge.com/2024/5/9/24152987/apple-crush-ad-piano-ipad) (The Verge)
@@ -1757,7 +1757,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 09 2024**
+**Thursday, May 09 2024 - Thu. 05/09 – The Weird Apple Ad Backlash**
 
   * [Google DeepMind unveils AI model for living cells](https://www.ft.com/content/77bf38b7-114d-44c8-956e-1e39e39ecb52) (FT)
   * [Microsoft’s Xbox Is Planning More Cuts After Studio Closings](https://www.bloomberg.com/news/articles/2024-05-08/xbox-studio-closures-microsoft-plans-more-cost-cutting-measures-after-layoffs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxNTE5ODUzNywiZXhwIjoxNzE1ODAzMzM3LCJhcnRpY2xlSWQiOiJTRDZOSzZEV1gyUFMwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.Ae8Wc_YmUJla6VHol8aa5AIVOUAmdYTiRnQ2nKph6NY&sref=Szq5ylDR) (Bloomberg)
@@ -1767,7 +1767,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 08 2024**
+**Wednesday, May 08 2024 - Wed. 05/08 – Bethesda Bloodbath**
 
   * [Microsoft Closes Redfall Developer Arkane Austin, Hi-Fi Rush Developer Tango Gameworks, and More in Devastating Cuts at Bethesda](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda) (IGN)
   * [US revokes licences for supply of chips to China’s Huawei](https://www.ft.com/content/cf965960-b083-49ee-bae1-6ce95fe872a3) (Financial Times)
@@ -1779,7 +1779,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, May 07 2024**
+**Tuesday, May 07 2024 - Tue. 05/07 – The Spring Apple Event**
 
   * [Apple Is Developing AI Chips for Data Centers, Seeking Edge in Arms Race](https://www.wsj.com/tech/ai/apple-is-developing-ai-chips-for-data-centers-seeking-edge-in-arms-race-0bedd2b2?st=9j32erlx4h9rk2t&reflink=desktopwebshare_permalink) (WSJ)
   * [Nintendo Teases Long-Awaited Switch Successor as Profit Slides](https://www.bloomberg.com/news/articles/2024-05-07/nintendo-braces-for-profit-decline-while-users-await-next-switch?sref=Szq5ylDR) (Bloomberg)
@@ -1789,7 +1789,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, May 06 2024**
+**Monday, May 06 2024 - Mon. 05/06 – AI Generated Books, Music Videos And… Fighter Pilots?**
 
   * [Jack Dorsey departs Bluesky board](https://techcrunch.com/2024/05/05/jack-dorsey-says-hes-no-longer-on-the-bluesky-board/) (TechCrunch)
   * [YouTube's AI-powered 'Jump Ahead' feature rolling out widely to Premium users](https://www.androidauthority.com/youtube-premium-jump-ahead-3440015/) (AndroidAuthority)
@@ -1801,7 +1801,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, May 03 2024**
+**Friday, May 03 2024 - Fri. 05/03 – Apple Earnings Underline Their Predicament**
 
   * [Apple Sales Fall as iPhone, China Businesses Remain Sluggish](https://www.wsj.com/tech/apple-aapl-q2-earnings-report-2024-d633673b) (WSJ)
   * [FDA Qualifies Apple’s AFib History feature as an MDDT](https://www.myhealthyapple.com/fda-qualifies-afib-history-mddt/) (MyHealthyApple)
@@ -1811,7 +1811,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, May 02 2024**
+**Thursday, May 02 2024 - Thu. 05/02 – TikTok Can Jam Again**
 
   * [TikTok and Universal Music Group Settle Royalty Dispute With New Licensing Agreement](https://variety.com/2024/music/news/tiktok-universal-music-group-settle-royalty-dispute-licensing-agreement-1235987271/) (Variety)
   * [UnitedHealthcare CEO says ‘maybe a third’ of US citizens were affected by recent hack](https://techcrunch.com/2024/05/01/united-healthcare-ceo-says-maybe-a-third-of-u-s-citizens-were-affected-by-recent-hack/) (TechCrunch)
@@ -1824,7 +1824,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, May 01 2024**
+**Wednesday, May 01 2024 - Wed. 05/01 – An Elon Catchup**
 
   * [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.theverge.com/2024/4/30/24140638/binance-founder-changpeng-zhao-sentence-money-laundering) (The Verge)
   * [Rabbit R1, a thing that should just be an app, actually is just an Android app (Updated)](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/) (Android Authority)
@@ -1833,7 +1833,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 30 2024**
+**Tuesday, April 30 2024 - Tue. 04/30 – Underbaked Hardware Releases**
 
   * [FCC fines AT&T, Sprint, T-Mobile, and Verizon nearly $200 million for illegally sharing location data](https://www.theverge.com/2024/4/29/24144599/fcc-fine-att-sprint-verizon-t-mobile-location-data) (The Verge)
   * [Meta Risks EU Fines Over Kremlin Lies on Facebook, Instagram](https://www.bloomberg.com/news/articles/2024-04-30/meta-risks-eu-fines-over-kremlin-lies-on-facebook-instagram?sref=Szq5ylDR) (Bloomberg)
@@ -1845,7 +1845,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 29 2024**
+**Monday, April 29 2024 - Mon. 04/29 – AI Strategies**
 
   * [Apple Intensifies Talks With OpenAI for iPhone Generative AI Features](https://www.bloomberg.com/news/articles/2024-04-26/apple-intensifies-talks-with-openai-for-iphone-generative-ai-features?sref=Szq5ylDR) (Bloomberg)
   * [Apple Rivals Retool to Challenge the iPhone and Vision Pro](https://www.bloomberg.com/news/newsletters/2024-04-28/apple-rivals-retool-to-compete-with-iphone-and-vision-pro-ios-18-and-ai-details-lvjhucsv?sref=Szq5ylDR) (Bloomberg)
@@ -1856,7 +1856,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 26 2024**
+**Friday, April 26 2024 - Fri. 04/26 – Net Neutrality Is Back**
 
   * [F.C.C. Votes to Restore Net Neutrality Rules](https://www.nytimes.com/2024/04/25/technology/fcc-net-neutrality-open-internet.html) (NYTimes)
   * [Google parent announces first-ever dividend; beats on sales, profit; shares soar](https://www.reuters.com/technology/google-parent-alphabet-announces-first-ever-divided-20-cents-per-share-2024-04-25/) (Reuters)
@@ -1866,7 +1866,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 25 2024**
+**Thursday, April 25 2024 - Thu. 04/25 – Zuck Is Disappointing Wall Street Again**
 
   * [Zuckerberg Asks for Patience as Meta’s AI Push Spooks Market](https://www.bloomberg.com/news/articles/2024-04-24/meta-projects-higher-spending-weaker-revenue-amid-ai-push?sref=Szq5ylDR) (Bloomberg)
   * [Zuckerberg says it will take Meta years to make money from generative AI](https://www.theverge.com/2024/4/24/24139591/meta-q1-2024-earnings-ai-mark-zuckerberg) (The Verge)
@@ -1879,7 +1879,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 24 2024**
+**Wednesday, April 24 2024 - Wed. 04/24 – What Now For TikTok?**
 
   * [Senate passes TikTok ban bill, sending it to President Biden’s desk](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid) (The Verge)
   * [TikTok Ban Looms With Biden Poised to Start 270-Day Countdown](https://www.bloomberg.com/news/articles/2024-04-24/tiktok-s-us-ban-looms-as-biden-prepares-to-sign-law-with-a-270-day-sale-deadline?sref=Szq5ylDR) (Bloomberg)
@@ -1890,7 +1890,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 23 2024**
+**Tuesday, April 23 2024 - Tue. 04/23 – Microsoft’s Own LLMs and Perplexity’s Big Raise**
 
   * [Microsoft launches Phi-3, its smallest AI model yet](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model) (The Verge)
   * [Meta Expands Its Mixed Reality Beyond the Quest Headsets](https://www.cnet.com/tech/computing/meta-opens-up-its-vr-os-to-third-party-headsets/) (CNET)
@@ -1902,7 +1902,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 22 2024**
+**Monday, April 22 2024 - Mon. 04/22 – TikTok Back On The Chopping Block?**
 
   * [TikTok ‘ban’ passes in the House again, moving to the Senate in foreign aid package](https://www.theverge.com/2024/4/20/24135163/tiktok-ban-divest-bytedance-house-foreign-aid-package) (The Verge)
   * [Tesla lowers price of ‘Full Self-Driving’ to $8,000, down from $12,000](https://electrek.co/2024/04/21/tesla-lowers-price-of-full-self-driving-to-8000-down-from-12000/) (Electrek)
@@ -1913,7 +1913,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 19 2024**
+**Friday, April 19 2024 - Fri. 04/19 – All The News About Llama 3**
 
   * [Meta’s battle with ChatGPT begins now](https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival) (The Verge)
   * [Meta, in Its Biggest A.I. Push, Places Smart Assistants Across Its Apps](https://www.nytimes.com/2024/04/18/technology/meta-ai-assistant-push.html) (NYTimes)
@@ -1923,7 +1923,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 18 2024**
+**Thursday, April 18 2024 - Thu. 04/18 – Game Emulators On iOS And The Atlas Robot Lives!**
 
   * [Google fires 28 employees after sit-in protest over Israel cloud contract](https://www.theverge.com/2024/4/17/24133700/google-fires-28-employees-protest-israel-cloud-contract) (The Verge)
   * [Consumer Financial Protection Bureau fines BloomTech for false claims](https://techcrunch.com/2024/04/17/consumer-financial-protection-bureau-fines-bloomtech-for-false-claims/) (TechCrunch)
@@ -1935,7 +1935,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 17 2024**
+**Wednesday, April 17 2024 - Wed. 04/17 – Copilots Or The Biggest Model Wins? The Competing AI Visions.**
 
   * [T-Mobile, Verizon workers get texts offering $300 for SIM swaps](https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/) (BleepingComputer)
   * [Microsoft’s AI Copilot Is Starting to Automate the Coding Industry](https://www.bloomberg.com/news/articles/2024-04-17/microsoft-s-ai-copilot-is-starting-to-automate-the-coding-industry?sref=Szq5ylDR) (Bloomberg)
@@ -1947,7 +1947,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 16 2024**
+**Tuesday, April 16 2024 - Tue. 04/16 – What Should An AI Wearable Be: AI Pin Or Limitless Pendant?**
 
   * [Microsoft to invest $1.5bn in Abu Dhabi AI group G42](https://www.ft.com/content/930a1c17-2e84-4ddb-8e72-4e4a1b833c40) (Financial Times)
   * [To Keep Viewers, Disney Plans a New Streaming Concept: Old-Style TV Channels](https://www.theinformation.com/articles/to-keep-viewers-disney-plans-a-new-streaming-concept-old-style-tv-channels?rc=64g9cw) (The Information)
@@ -1958,7 +1958,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, April 15 2024**
+**Monday, April 15 2024 - Mon. 04/15 – Onshoring And Halving**
 
   * [Samsung boosts Joe Biden’s chipmaking ambitions with Texas plant upgrade](https://www.ft.com/content/4124eb79-ea40-411d-85df-0235774e316b) (Financial Times)
   * [Exclusive: Google Pixel 9 series to get emergency satellite connectivity, new modem](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) (Android Authority)
@@ -1969,7 +1969,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 12 2024**
+**Friday, April 12 2024 - Fri. 04/12 – OpenAI Is The Biggest Drama Startup Since Twitter**
 
   * [US government urges Sisense customers to reset credentials after hack](https://techcrunch.com/2024/04/11/cisa-government-sisense-reset-credentials-cyberattack/) (TechCrunch)
   * [Google One VPN will be discontinued, Pixel VPN remains with upgrade coming](https://9to5google.com/2024/04/11/google-one-vpn-discontinued/) (9to5Google)
@@ -1980,7 +1980,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 11 2024**
+**Thursday, April 11 2024 - Thu. 04/11 – Humane AI Pin Reviews**
 
   * [Apple alerts users in 92 nations to mercenary spyware attacks](https://techcrunch.com/2024/04/10/apple-warning-mercenary-spyware-attacks/) (TechCrunch)
   * [Spotify Plans New Remixing Tools for the TikTok Generation](https://www.wsj.com/business/media/spotify-to-let-users-play-dj-competing-with-remixes-on-tiktok-da35e25c?st=itygp9ombqkqnok&reflink=desktopwebshare_permalink) (WSJ)
@@ -1989,7 +1989,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 10 2024**
+**Wednesday, April 10 2024 - Wed. 04/10 – A Bunch Of Datapoints**
 
   * [Google Launches Coding AIs That Could Rival Microsoft's Github Copilot](https://www.pcmag.com/news/google-launches-gemini-coding-ai-could-rival-microsoft-github-copilot) (PCMag)
   * [Apple's new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work) (AppleInsider)
@@ -2001,7 +2001,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 09 2024**
+**Tuesday, April 09 2024 - Tue. 04/09 – Google’s New AI Chips**
 
   * [Google Expands In-House Chip Efforts in Costly AI Battle](https://www.wsj.com/tech/google-expands-in-house-chip-efforts-in-costly-ai-battle-3121c852?st=6010gt7v4bee9ve&reflink=desktopwebshare_permalink) (WSJ)
   * [Google Shows AI Model Is Enterprise-Ready After Gemini Mishaps](https://www.bloomberg.com/news/articles/2024-04-09/google-shows-ai-model-is-enterprise-ready-after-gemini-mishaps?sref=Szq5ylDR) (Bloomberg)
@@ -2013,7 +2013,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, April 05 2024**
+**Friday, April 05 2024 - Fri. 04/05 – Apple Layoffs!**
 
   * [Apple Cut at Least 600 Workers When Car, Screen Projects Stopped](https://www.bloomberg.com/news/articles/2024-04-04/apple-cut-at-least-600-workers-when-car-screen-projects-stopped?sref=Szq5ylDR) (Bloomberg)
   * [China will use AI to disrupt elections in the US, South Korea and India, Microsoft warns](https://www.theguardian.com/technology/2024/apr/05/china-using-ai-disrupt-elections) (The Guardian)
@@ -2023,7 +2023,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, April 04 2024**
+**Thursday, April 04 2024 - Thu. 04/04 – How About A TRUE iRobot?**
 
   * [Apple Explores Home Robotics as Potential ‘Next Big Thing’ After Car Fizzles](https://www.bloomberg.com/news/articles/2024-04-03/apple-explores-home-robots-after-abandoning-car-efforts?sref=Szq5ylDR) (Bloomberg)
   * [Google considers charging for AI-powered search in big change to business model](https://www.ft.com/content/2f4bfeb4-6579-4819-9f5f-b3a46ff59ed1) (FT)
@@ -2035,7 +2035,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, April 03 2024**
+**Wednesday, April 03 2024 - Wed. 04/03 – Quantum Computing Breakthrough?**
 
   * [Microsoft and Quantinuum say they’ve ushered in the next era of quantum computing](https://techcrunch.com/2024/04/03/microsoft-and-quantinuum-say-theyve-ushered-in-the-next-era-of-quantum-computing/) (TechCrunch)
   * [AI-generated songs are getting longer, not necessarily better](https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds) (The Verge)
@@ -2046,7 +2046,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, April 02 2024**
+**Tuesday, April 02 2024 - Tue. 04/02 – Amazon To Enter The AI Group Chat**
 
   * [AT&T resets account passcodes after millions of customer records leak online](https://techcrunch.com/2024/03/30/att-reset-account-passcodes-customer-data/) (TechCrunch)
   * [Exclusive: Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/) (Reuters)
@@ -2057,7 +2057,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 29 2024**
+**Friday, March 29 2024 - Fri. 03/29 – SBF To The Hoosegow**
 
   * [Bankman-Fried sentenced to 25 years for multi-billion dollar FTX fraud](https://www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/) (Reuters)
   * [Elon Musk’s X Is Testing ‘Adult Content’ Groups for Users](https://www.bloomberg.com/news/articles/2024-03-28/elon-musk-s-x-is-testing-adult-content-groups-for-users?sref=Szq5ylDR) (Bloomberg)
@@ -2067,7 +2067,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 28 2024**
+**Thursday, March 28 2024 - Thu. 03/28 – Claude 3 Opus Surpasses GPT-4 For The First Time**
 
   * [“The king is dead”—Claude 3 surpasses GPT-4 on Chatbot Arena for the first time](https://arstechnica.com/information-technology/2024/03/the-king-is-dead-claude-3-surpasses-gpt-4-on-chatbot-arena-for-the-first-time/) (ArsTechnica)
   * [Amazon spends $2.75 billion on AI startup Anthropic in its largest venture investment yet](https://www.cnbc.com/2024/03/27/amazon-spends-2point7b-on-startup-anthropic-in-largest-venture-investment.html) (CNBC)
@@ -2079,7 +2079,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 27 2024**
+**Wednesday, March 27 2024 - Wed. 03/27 – Hulu Comes To Disney+; WWDC Gets A Date**
 
   * [Hulu on Disney+ Launches Out of Beta With Marketing Push to Grow Subscribers](https://www.hollywoodreporter.com/business/digital/hulu-on-disney-plus-launch-out-of-beta-1235860522/) (The Hollywood Reporter)
   * [The Disney Plus-Hulu merger is way more than a streaming bundle](https://www.theverge.com/2024/3/27/24112747/disney-plus-hulu-tile-app-streaming) (The Verge)
@@ -2093,7 +2093,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 26 2024**
+**Tuesday, March 26 2024 - Tue. 03/26 – Musical Chairs As Microsoft Reorganizes Itself Around AI**
 
   * [Microsoft has a new Windows and Surface chief](https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri) (The Verge)
   * [Canva Strikes Biggest Acquisition Yet in Chase to Take on Adobe](https://www.bloomberg.com/news/articles/2024-03-26/canva-acquires-affinity-design-suite-in-push-to-rival-adobe?sref=Szq5ylDR) (Bloomberg)
@@ -2107,7 +2107,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 25 2024**
+**Monday, March 25 2024 - Mon. 03/25 – The Wheels Of DMA Justice Move Fast**
 
   * [EU probes Apple, Meta and Alphabet under landmark new law](https://www.ft.com/content/22ce95a6-e473-4102-a330-f7d02cfb6fd1) (Financial Times)
   * [Stability AI Founder Emad Mostaque Plans To Resign As CEO, Sources Say](https://www.forbes.com/sites/kenrickcai/2024/03/22/stability-ai-founder-emad-mostaque-plans-to-resign-as-ceo-sources-say/?sh=43e844415239) (Forbes)
@@ -2119,7 +2119,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 22 2024**
+**Friday, March 22 2024 - Fri. 03/22 – Apple Antitrust Suit Fallout**
 
   * [Apple CarPlay is anticompetitive, too, US lawsuit alleges](https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key) (The Verge)
   * [U.S. versus Apple: A first reaction](https://sixcolors.com/post/2024/03/u-s-versus-apple-a-first-reaction/) (Six Colors)
@@ -2129,7 +2129,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 21 2024**
+**Thursday, March 21 2024 - Thu. 03/21 – The DOJ Sues Apple**
 
   * [U.S. Sues Apple, Alleges Tech Giant Exploits Illegal Monopoly](https://www.wsj.com/tech/apple-antitrust-lawsuit-16066694?mod=e2twd) (WSJ)
   * [Reddit prices IPO at $34 per share in first major social media offering since 2019](https://www.cnbc.com/2024/03/20/reddit-prices-ipo-at-34-per-share-sources-say.html) (CNBC)
@@ -2141,7 +2141,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 20 2024**
+**Wednesday, March 20 2024 - Wed. 03/20 – Microsoft Hires DeepMind Co-Founder And Rocks The AI Community**
 
   * [Microsoft Hires DeepMind Co-Founder Suleyman to Run Consumer AI](https://www.bloomberg.com/news/articles/2024-03-19/microsoft-hires-deepmind-co-founder-suleyman-to-run-consumer-ai?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft bets on start-ups to extend AI lead with hiring of Inflection chief](https://www.ft.com/content/1045edfb-f06b-4162-bab9-e2f019f5dec4) (Financial Times)
@@ -2151,7 +2151,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 19 2024**
+**Tuesday, March 19 2024 - Tue. 03/19 – Nvidia Developer Event**
 
   * [Nvidia CEO Jensen Huang announces new AI chips: ‘We need bigger GPUs’](https://www.cnbc.com/2024/03/18/nvidia-announces-gb200-blackwell-ai-chip-launching-later-this-year.html) (CNBC)
   * [Nvidia launches NIM to make it smoother to deploy AI models into production](https://techcrunch.com/2024/03/18/nvidia-launches-a-set-of-microservices-for-optimized-inferencing/) (TechCrunch)
@@ -2164,7 +2164,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 18 2024**
+**Monday, March 18 2024 - Mon. 03/18 – Apple To Partner With Google For AI On iOS?**
 
   * [Apple Is in Talks to Let Google Gemini Power iPhone AI Features](https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools?sref=Szq5ylDR) (Bloomberg)
   * [Apple researchers achieve breakthroughs in multimodal AI as company ramps up investments](https://venturebeat.com/ai/apple-researchers-achieve-breakthroughs-in-multimodal-ai-as-company-ramps-up-investments/) (VentureBeat)
@@ -2175,7 +2175,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 15 2024**
+**Friday, March 15 2024 - Fri. 03/15 – Apple’s Quiet AI Acquisition**
 
   * [Apple Buys Canadian AI Startup as It Races to Add Features](https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features?sref=Szq5ylDR) (Bloomberg)
   * [FCC scraps old speed benchmark, says broadband should be at least 100Mbps](https://arstechnica.com/tech-policy/2024/03/fcc-scraps-old-speed-benchmark-says-broadband-should-be-at-least-100mbps/) (ArsTechnica)
@@ -2184,7 +2184,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 14 2024**
+**Thursday, March 14 2024 - Thu. 03/14 – Who Wants TikTok?**
 
   * [House passes TikTok bill that could ban app in the U.S., spawning Senate support](https://www.washingtonpost.com/technology/2024/03/13/tiktok-ban-passes-house-vote/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEwMzAyNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExNjg0Nzk5LCJpYXQiOjE3MTAzMDI0MDAsImp0aSI6IjJjOTkwZDhmLTdjZjAtNDEyMC1hNWVkLTI1NmM1YmJlOWQ4ZiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDMvMTMvdGlrdG9rLWJhbi1wYXNzZXMtaG91c2Utdm90ZS8ifQ.23FNxNpGz4ua8Sh7AaxWOFdo5itmy00LnbLWuEdChdo) (The Washington Post)
   * [Microsoft has added the GPT-4 Turbo LLM to the free version of Copilot](https://www.neowin.net/news/microsoft-has-added-the-gpt-4-turbo-llm-to-the-free-version-of-copilot/) (Neowin)
@@ -2196,7 +2196,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 13 2024**
+**Wednesday, March 13 2024 - Wed. 03/13 – TikTok On The Brink?**
 
   * [TikTok bill, racing toward House passage, faces a minefield in the Senate](https://www.washingtonpost.com/technology/2024/03/12/tik-tok-bill-house-vote/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzEwMjE2MDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzExNTk4Mzk5LCJpYXQiOjE3MTAyMTYwMDAsImp0aSI6ImQ0NGRlMTBhLWU1MDItNGVkMi04NDhkLTg0MjI0ZjkwMWRkMiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjQvMDMvMTIvdGlrLXRvay1iaWxsLWhvdXNlLXZvdGUvIn0.NUDKFifHBGN3muaIq285CD5q_B08XOeIufG2FPivz7U) (Washington Post)
   * [How TikTok Was Blindsided by U.S. Bill That Could Ban It](https://www.wsj.com/tech/how-tiktok-was-blindsided-by-a-u-s-bill-that-could-ban-it-7201ac8b?st=d6kekmuuzb55o6m) (WSJ)
@@ -2209,7 +2209,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 12 2024**
+**Tuesday, March 12 2024 - Tue. 03/12 – Is TikTok Coming For Instagram?**
 
   * [Apple will allow users to download apps directly from a developer’s website, in latest EU App Store rule change](https://9to5mac.com/2024/03/12/iphone-app-store-changes-web-distribution-more/) (9to5Mac)
   * [The IRS launches Direct File, a pilot program for free online tax filing available in 12 states](https://apnews.com/article/irs-direct-file-taxes-98dbc44cc764972991072efbf40f2291) (AP)
@@ -2221,7 +2221,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 11 2024**
+**Monday, March 11 2024 - Mon. 03/11 – Your Car Is Spying On You, Example 212**
 
   * [Epic says Apple will reinstate developer account, clearing path for Epic Games Store on iPhone](https://9to5mac.com/2024/03/08/epic-says-apple-will-reinstate-developer-account-clearing-path-for-epic-games-store-on-iphone/) (9to5Mac)
   * [Sam Altman returns to OpenAI's board](https://www.axios.com/2024/03/08/sam-altman-returns-to-openai-board) (Axios)
@@ -2234,7 +2234,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 08 2024**
+**Friday, March 08 2024 - Fri. 03/08 – TikTok In Peril?**
 
   * [Furious Congress plows forward with TikTok bill after user revolt](https://www.axios.com/2024/03/07/tiktok-ban-congress-phone-calls) (Axios)
   * [China Readies $27 Billion Chip Fund to Counter Growing US Curbs](https://www.bloomberg.com/news/articles/2024-03-08/china-readies-27-billion-chip-fund-to-counter-growing-us-curbs?sref=Szq5ylDR) (Bloomberg)
@@ -2243,7 +2243,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, March 07 2024**
+**Thursday, March 07 2024 - Thu. 03/07 – The Epic/Apple Fight Gets Gnarly**
 
   * [Apple kills Epic’s iOS game store plans over App Store criticism](https://www.theverge.com/2024/3/6/24092158/epic-apple-developer-account-terminated-digital-markets-act-alternative-ios-app-store) (The Verge)
   * [Apple Set to Be Quizzed by EU Over ‘Fortnite’ Maker Shutout](https://www.bloomberg.com/news/articles/2024-03-07/apple-set-to-be-quizzed-by-eu-over-fortnite-maker-shutout?sref=Szq5ylDR) (Bloomberg)
@@ -2254,7 +2254,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, March 06 2024**
+**Wednesday, March 06 2024 - Wed. 03/06 – OpenAI Claps Back At Elon’s Lawsuit**
 
   * [Apple Releases iOS and iPadOS 17.4 with Major Safari and App Store Changes in the EU, Transcripts for Podcasts, New Emoji, and More](https://www.macstories.net/stories/apple-releases-ios-and-ipados-17-4-with-major-safari-and-app-store-changes-in-the-eu-transcripts-for-podcasts-new-emoji-and-more/) (MacStories)
   * [EXCLUSIVE: Microsoft will unveil OLED Surface Pro 10 and Arm Surface Laptop 6 this spring ahead of major Windows 11 AI update](https://www.windowscentral.com/hardware/surface/exclusive-microsoft-will-unveil-oled-surface-pro-10-and-arm-surface-laptop-6-this-month-ahead-of-major-windows-11-ai-update) (Windows Central)
@@ -2264,7 +2264,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, March 05 2024**
+**Tuesday, March 05 2024 - Tue. 03/05 – The Linux Phoenix?**
 
   * [Google rolls out changes for users, apps developers as EU tech rules loom](https://www.reuters.com/technology/google-rolls-out-changes-users-apps-developers-eu-tech-rules-loom-2024-03-05/) (Reuters)
   * [Instagram now lets you edit DMs up to 15 mins after sending them](https://techcrunch.com/2024/03/04/instagram-now-lets-you-edit-dms-up-to-15-mins-after-sending-them/) (TechCrunch)
@@ -2276,7 +2276,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, March 04 2024**
+**Monday, March 04 2024 - Mon. 03/04 – EU Brings The Hammer Down On Apple**
 
   * [Apple hit with €1.8bn fine for breaking EU law over music streaming](https://www.ft.com/content/05606b16-8c4d-4535-893e-af909fcf22f0) (Financial Times)
   * [Apple launches new 13-inch and 15-inch MacBook Air with M3 chip, support for two external displays, faster Wi-Fi](https://9to5mac.com/2024/03/04/apple-launches-m3-macbook-air/) (9to5Mac)
@@ -2287,7 +2287,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, March 01 2024**
+**Friday, March 01 2024 - Fri. 03/01 – Elon Sues Sam Altman And OpenAI**
 
   * [Elon Musk sues OpenAI over AI threat](https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/) (Courthouse News Service)
   * [Meta to Wind Down Its News Feature in the US and Australia](https://www.bloomberg.com/news/articles/2024-03-01/meta-to-wind-down-its-news-feature-in-the-us-and-australia?sref=Szq5ylDR) (Bloomberg)
@@ -2296,7 +2296,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 29 2024**
+**Thursday, February 29 2024 - Thu. 02/29 – What If The Vision Pro Is Selling Better Than We Think?**
 
   * [SEC Investigating Whether OpenAI Investors Were Misled](https://www.wsj.com/tech/sec-investigating-whether-openai-investors-were-misled-9d90b411?st=spz2geahrauj6zj) (WSJ)
   * [EA to lay off 5% of workforce, or about 670 employees](https://www.cnbc.com/2024/02/28/ea-layoffs-company-to-cut-5percent-of-workforce-or-about-670-employees.html) (CNBC)
@@ -2310,7 +2310,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 28 2024**
+**Wednesday, February 28 2024 - Wed. 02/28 – The Apple Car Project Is Dead**
 
   * [Apple to Wind Down Electric Car Effort After Decadelong Odyssey](https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai?sref=Szq5ylDR) (Bloomberg)
   * [Apple's Scrapped Car Project Means AI and Headset Bets Are More Urgent](https://www.bloomberg.com/news/articles/2024-02-28/apple-cancels-its-electric-car-in-favor-of-ai-vision-pro?sref=Szq5ylDR) (Bloomberg)
@@ -2321,7 +2321,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 27 2024**
+**Tuesday, February 27 2024 - Tue. 02/27 – Gaming Continues To Be A Bloodbath**
 
   * [Sony is laying off 900 PlayStation employees](https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024) (The Verge)
   * [Microsoft’s Mistral AI Investment to Be Examined by EU Watchdog](https://www.bloomberg.com/news/articles/2024-02-27/microsoft-s-mistral-ai-investment-to-be-examined-by-eu-watchdog?sref=Szq5ylDR) (Bloomberg)
@@ -2335,7 +2335,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 26 2024**
+**Monday, February 26 2024 - Mon. 02/26 – Mobile World Congress Is All About AI This Year (Corrected)**
 
   * [Samsung unveils the Galaxy Ring as a way to 'simplify everyday wellness'](https://www.engadget.com/samsung-unveils-the-galaxy-ring-as-a-way-to-simplify-everyday-wellness-080134421.html) (Engadget)
   * [Apple Ponders Whether to Develop Smart Glasses, Fitness Ring](https://www.bloomberg.com/news/newsletters/2024-02-25/apple-ponders-making-new-wearables-ai-glasses-airpods-with-cameras-smart-ring-lt1kb7cd?sref=Szq5ylDR) (Bloomberg)
@@ -2347,7 +2347,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 23 2024**
+**Friday, February 23 2024 - Fri. 02/23 – Reddit To IPO And Nvidia To The Moon**
 
   * [Reddit files to list IPO on NYSE under the ticker RDDT](https://www.cnbc.com/2024/02/22/reddit-files-to-list-ipo-on-nyse-under-the-ticker-rddt.html) (CNBC)
   * [Reddit is going public and inviting power users to invest](https://www.theverge.com/2024/2/22/24079978/reddit-ipo-public-offering-shares-power-users) (The Verge)
@@ -2358,7 +2358,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 22 2024**
+**Thursday, February 22 2024 - Thu. 02/22 – Nvidia’s Earnings Are Epic**
 
   * [Nvidia posts revenue up 265% on booming AI business](https://www.cnbc.com/2024/02/21/nvidia-nvda-earnings-report-q4-2024.html) (CNBC)
   * [Stable Diffusion 3.0 debuts new diffusion transformation architecture to reinvent text-to-image gen AI](https://venturebeat.com/ai/stable-diffusion-3-0-debuts-new-diffusion-transformation-architecture-to-reinvent-text-to-image-gen-ai/) (VentureBeat)
@@ -2370,7 +2370,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 21 2024**
+**Wednesday, February 21 2024 - Wed. 02/21 – Apple Has Quantum Encrypted iMessage**
 
   * [Signal Finally Rolls Out Usernames, So You Can Keep Your Phone Number Private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) (Wired)
   * [Apple is hardening iMessage encryption now to protect it from a threat that doesn't exist yet](https://appleinsider.com/articles/24/02/21/apple-is-hardening-imessage-encryption-now-to-protect-it-from-a-threat-that-doesnt-exist-yet) (Apple Insider)
@@ -2385,7 +2385,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 20 2024**
+**Tuesday, February 20 2024 - Tue. 02/20 – LockBit Ransomware Gang Taken Down**
 
   * [FBI Seizes LockBit Hacking Websites in Ransomware Disruption](https://www.bloomberg.com/news/articles/2024-02-19/fbi-uk-crime-agency-say-they-have-disrupted-lockbit-hacking-gang?sref=Szq5ylDR) (Bloomberg)
   * [Wyze outage led to the cameras of 13,000 customers being shown to other users](https://9to5google.com/2024/02/19/wyze-camera-thumbnails-breach/) (9to5Google)
@@ -2398,7 +2398,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 16 2024**
+**Friday, February 16 2024 - Fri. 02/16 – Sora Brings Text To Video AI To Life**
 
   * [OpenAI introduces Sora, its text-to-video AI model](https://www.theverge.com/2024/2/15/24074151/openai-sora-text-to-video-ai) (The Verge)
   * [OpenAI’s Sora Turns AI Prompts Into Photorealistic Videos](https://www.wired.com/story/openai-sora-generative-ai-video/) (Wired)
@@ -2410,7 +2410,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 15 2024**
+**Thursday, February 15 2024 - Thu. 02/15 – We Already Have Gemini 1.5!**
 
   * [Gemini 1.5 is Google’s next-gen AI model — and it’s already almost ready](https://www.theverge.com/2024/2/15/24073457/google-gemini-1-5-ai-model-llm) (The Verge)
   * [Google’s new Gemini model can analyze an hour-long video — but few people can use it](https://techcrunch.com/2024/02/15/googles-new-gemini-model-can-analyze-an-hour-long-video-but-few-people-can-use-it/) (TechCrunch)
@@ -2423,7 +2423,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 14 2024**
+**Wednesday, February 14 2024 - Wed. 02/14 – Zuck Has His Own Social Media Post About The Vision Pro**
 
   * [After trying the Vision Pro, Mark Zuckerberg says Quest 3 ‘is the better product, period’](https://www.theverge.com/2024/2/13/24072413/mark-zuckerberg-apple-vision-pro-review-quest-3) (The Verge)
   * [Walmart in Talks to Buy TV Maker Vizio](https://www.wsj.com/business/retail/walmart-vizio-tv-company-deal-b90c77f6?st=3novscgksmjwv9r) (WSJ)
@@ -2436,7 +2436,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 13 2024**
+**Tuesday, February 13 2024 - Tue. 02/13 – Why Microsoft’s Xbox Strategy Shift Is A Big Deal**
 
   * [In battle with X, Threads gets trending topics where politics will be allowed](https://techcrunch.com/2024/02/12/in-battle-with-x-threads-gets-trending-topics-where-politics-will-be-allowed/) (TechCrunch)
   * [Apple iMessage, Microsoft Bing Dodge EU’s Big Tech Crackdown](https://www.bloomberg.com/news/articles/2024-02-13/apple-imessage-microsoft-bing-dodge-eu-s-big-tech-crackdown?sref=Szq5ylDR) (Bloomberg)
@@ -2449,7 +2449,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 12 2024**
+**Monday, February 12 2024 - Mon. 02/12 – Luddite Riots?**
 
   * [A crowd destroyed a driverless Waymo car in San Francisco](https://www.theverge.com/2024/2/11/24069251/waymo-driverless-taxi-fire-vandalized-video-san-francisco-china-town) (The Verge)
   * [Google One hits 100 million subscribers](https://www.theverge.com/2024/2/10/24068539/google-one-100-million-subscribers-g-suite-ai-premium-gemini) (The Verge)
@@ -2461,7 +2461,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 09 2024**
+**Friday, February 09 2024 - Fri. 02/09 – Sam Altman Wants To Raise $5 Trillion Dollars. With a T.**
 
   * [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0) (WSJ)
   * [Exclusive: Nvidia chases $30 billion custom chip market with new unit -sources](https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/) (Reuters)
@@ -2473,7 +2473,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 08 2024**
+**Thursday, February 08 2024 - Thu. 02/08 – Google Releases Gemini Ultra 1.0**
 
   * [Google’s AI now goes by a new name: Gemini](https://www.theverge.com/2024/2/8/24065553/google-gemini-ios-android-app-duet-bard) (The Verge)
   * [Google Assistant Just Got Supercharged With AI. It Might Be the Biggest Update in Google's History.](https://gizmodo.com/google-bard-now-gemini-in-assistant-new-subscription-1851237014) (Gizmodo)
@@ -2486,7 +2486,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, February 07 2024**
+**Wednesday, February 07 2024 - Wed. 02/07 – AI Watermarks And New Apple AI Models**
 
   * [OpenAI is adding new watermarks to DALL-E 3](https://www.theverge.com/2024/2/6/24063954/ai-watermarks-dalle3-openai-content-credentials) (The Verge)
   * [Apple Develops a Foldable Clamshell iPhone](https://www.theinformation.com/articles/apple-develops-a-foldable-clamshell-iphone?rc=64g9cw) (The Information)
@@ -2497,7 +2497,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, February 06 2024**
+**Tuesday, February 06 2024 - Tue. 02/06 – Don’t Forget Your Vision Pro Password!**
 
   * [Forgot Your Apple Vision Pro’s Passcode? You May Have to Take It Back to Store](https://www.bloomberg.com/news/articles/2024-02-05/forgot-your-apple-vision-pro-s-passcode-you-may-have-to-take-it-back-to-store?sref=Szq5ylDR) (Bloomberg)
   * [YouTube says a Vision Pro app is ‘on the roadmap’](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video) (The Verge)
@@ -2509,7 +2509,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, February 05 2024**
+**Monday, February 05 2024 - Mon. 02/05 – The Most Shocking Deepfake Scam Of The AI Era**
 
   * [Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’](https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/) (CNN)
   * [Vision Pro Teardown—Why Those Fake Eyes Look So Weird](https://www.ifixit.com/News/90137/vision-pro-teardown-why-those-fake-eyes-look-so-weird) (iFixIt)
@@ -2518,7 +2518,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, February 02 2024**
+**Friday, February 02 2024 - Fri. 02/02 – Facebook’s Golden Age Is Now**
 
   * [Amazon debuts ‘Rufus,’ an AI shopping assistant in its mobile app](https://techcrunch.com/2024/02/01/amazon-debuts-rufus-an-ai-shopping-assistant-in-its-mobile-app/) (TechCrunch)
   * [Cloudflare hacked using auth tokens stolen in Okta attack](https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/) (BleepingComputer)
@@ -2527,7 +2527,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, February 01 2024**
+**Thursday, February 01 2024 - Thu. 02/01 – A Tech Regulation Tipping Point?**
 
   * [Microsoft, X throw their weight behind KOSA, the controversial kids online safety bill](https://techcrunch.com/2024/01/31/x-microsoft-kosa-kids-online-safety-bill/) (TechCrunch)
   * [Americans’ Social Media Use](https://www.pewresearch.org/internet/2024/01/31/americans-social-media-use/) (Pew Research Center)
@@ -2536,7 +2536,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 31 2024**
+**Wednesday, January 31 2024 - Wed. 01/31 – Tech Execs Back Before Congress**
 
   * [Social media chiefs on defensive at US online child protection hearing](https://www.ft.com/content/87840b12-08b5-4b90-9afc-bc8fba730ff9) (FT)
   * [TikTok CEO Pledges $2 Billion to Protect 170 Million US Users](https://www.bloomberg.com/news/articles/2024-01-31/tiktok-ceo-pledges-2-billion-to-protect-170-million-us-users?sref=Szq5ylDR) (Bloomberg)
@@ -2551,7 +2551,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 30 2024**
+**Tuesday, January 30 2024 - Tue. 01/30 – The Vision Pro Reviews Are Here**
 
   * [Elon Musk’s Neuralink implants brain tech in human patient for the first time](https://www.cnbc.com/2024/01/29/elon-musks-neuralink-implants-brain-tech-in-human-patient-for-the-first-time.html) (CNBC)
   * [Microsoft Closes Loophole That Created AI Porn of Taylor Swift](https://www.404media.co/microsoft-closes-loophole-that-created-ai-porn-of-taylor-swift/) (404 Media)
@@ -2564,7 +2564,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 29 2024**
+**Monday, January 29 2024 - Mon. 01/29 – Is Arc Search The Future Of Search I Was Talking About?**
 
   * [Amazon Drops $1.4 Billion iRobot Deal; Vacuum Maker Cuts Jobs](https://www.bloomberg.com/news/articles/2024-01-29/amazon-drops-irobot-acquisition-after-eu-veto-threat?sref=Szq5ylDR) (Bloomberg)
   * [Arc Search combines browser, search engine, and AI into something new and different](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios) (The Verge)
@@ -2576,7 +2576,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 26 2024**
+**Friday, January 26 2024 - Fri. 01/26 – CRACK! The App Store Opens Up. Or Does It?**
 
   * [iOS 17.4 Introduces Alternative App Marketplaces With No Commission in EU](https://www.macrumors.com/2024/01/25/ios-17-4-alternative-app-marketplaces-eu/) (MacRumors)
   * [Apple will prompt users to set default browsers and allow third-party web engines on iPhone in the EU](https://9to5mac.com/2024/01/25/third-party-default-browsers-engines/) (9to5Mac)
@@ -2587,7 +2587,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 25 2024**
+**Thursday, January 25 2024 - Thu. 01/25 – Will Nintendo Try To Shut Down Palworld?**
 
   * [Inquiries Regarding Other Companies’ Games](https://corporate.pokemon.co.jp/media/news/detail/335.html) (The Pokemon Company)
   * [Microsoft lays off 1,900 Activision Blizzard and Xbox employees](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs) (The Verge)
@@ -2599,7 +2599,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 24 2024**
+**Wednesday, January 24 2024 - Wed. 01/24 – Netflix’s Cheapest Ad-Free Plan Is Going Away**
 
   * [Netflix is going to take away its cheapest ad-free plan](https://www.theverge.com/2024/1/23/24048107/netflix-basic-subscription-ads-earnings-q4-2023) (The Verge)
   * [The secret to Netflix's total dominance](https://www.businessinsider.com/netflix-wins-streaming-wars-this-chart-shows-why-2024-1) (Business Insider)
@@ -2611,7 +2611,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 23 2024**
+**Tuesday, January 23 2024 - Tue. 01/23 – Netflix Buys Rights To Raw And WWE Shows**
 
   * [Netflix Pays $5 Billion for ‘Raw’ in Bet on Live Events](https://www.bloomberg.com/news/articles/2024-01-23/netflix-buys-rights-to-wwe-s-raw-its-first-big-live-event?sref=Szq5ylDR) (Bloomberg)
   * [Fake Joe Biden robocall tells New Hampshire Democrats not to vote Tuesday](https://www.nbcnews.com/politics/2024-election/fake-joe-biden-robocall-tells-new-hampshire-democrats-not-vote-tuesday-rcna134984) (NBCNews)
@@ -2624,7 +2624,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 22 2024**
+**Monday, January 22 2024 - Mon. 01/22 – How Many Vision Pros Did Apple Sell This Weekend?**
 
   * [Vision Pro sales estimated at 160k to 180k over first three days](https://9to5mac.com/2024/01/22/vision-pro-sales-estimate/) (9to5Mac)
   * [Apple’s Testy Developer Relationships Threaten to Hamper Vision Pro](https://www.bloomberg.com/news/newsletters/2024-01-21/apple-vision-pro-lack-of-netflix-youtube-app-store-tensions-threaten-device-lrnjwjb3?sref=Szq5ylDR) (Bloomberg)
@@ -2635,7 +2635,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 19 2024**
+**Friday, January 19 2024 - Fri. 01/19 – Vision Pro Pre-Order Begin With New Questions**
 
   * [YouTube and Spotify Won’t Launch Apple Vision Pro Apps, Joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps?sref=Szq5ylDR) (Bloomberg)
   * [A Survey of Popular Apps Currently Compatible With Apple Vision Pro](https://www.macstories.net/news/a-survey-of-popular-apps-currently-compatible-with-apple-vision-pro/) (MacStories)
@@ -2646,7 +2646,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 18 2024**
+**Thursday, January 18 2024 - Thu. 01/18 – Google: The Layoffs Will Continue Until Strategy Improves**
 
   * [Google CEO tells employees to expect more job cuts this year](https://www.theverge.com/2024/1/17/24042417/google-layoffs-2024-internal-employee-memo-sundar-pichai) (The Verge)
   * [YouTube is restructuring creator management teams](https://www.tubefilter.com/2024/01/17/youtube-corporate-restructuring/) (TubeFilter)
@@ -2658,7 +2658,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 17 2024**
+**Wednesday, January 17 2024 - Wed. 01/17 – The Galaxy Unpacked Event. Galaxy AI Is Here.**
 
   * [The Galaxy S24 Ultra is smarter, pricier, and just as big as ever](https://www.theverge.com/2024/1/17/24040715/samsung-galaxy-s24-ultra-specs-price-ai) (The Verge)
   * [Apple revises US App Store rules to let developers link to outside payment methods, but it will still charge a commission](https://9to5mac.com/2024/01/16/apple-revises-us-app-store-rules-to-let-developers-link-to-outside-payment-methods-but-it-will-still-charge-a-commission/) (9to5Mac)
@@ -2669,7 +2669,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 16 2024**
+**Tuesday, January 16 2024 - Tue. 01/16 – Apple Tops Global Smartphones Sales For The First Time Ever**
 
   * [Instagram co-founders’ news aggregation startup Artifact to shut down](https://techcrunch.com/2024/01/12/instagram-co-founders-news-aggregation-startup-artifact-to-shut-down/) (TechCrunch)
   * [Apple Grabs the Top Spot in the Smartphone Market in 2023](https://www.idc.com/getdoc.jsp?containerId=prUS51776424) (IDC)
@@ -2680,7 +2680,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 12 2024**
+**Friday, January 12 2024 - Fri. 01/12 – Perplexity, The AI Challenger To Google Search**
 
   * [US bitcoin ETFs see $4.6 billion in volume in first day of trading](https://www.reuters.com/technology/spot-bitcoin-etfs-start-trading-big-boost-crypto-industry-2024-01-11/) (Reuters)
   * [Discord is laying off 17 percent of employees](https://www.theverge.com/2024/1/11/24034705/discord-layoffs-17-percent-employees) (The Verge)
@@ -2689,7 +2689,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 11 2024**
+**Thursday, January 11 2024 - Thu. 01/11 – Bitcoin ETFs, For Real This Time**
 
   * [US SEC approves bitcoin ETFs in watershed for crypto market](https://www.reuters.com/technology/bitcoin-etf-hopefuls-still-expect-sec-approval-despite-social-media-hack-2024-01-10/) (Reuters)
   * [Gary Gensler's Begrudging Bitcoin ETF Concession: 'We Did Not Approve or Endorse Bitcoin'](https://www.coindesk.com/policy/2024/01/10/we-did-not-approve-or-endorse-bitcoin-gary-genslers-begrudging-etf-statement/) (CoinDesk)
@@ -2703,7 +2703,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 10 2024**
+**Wednesday, January 10 2024 - Wed. 01/10 – The X Post That Sent Crypto Reeling**
 
   * [SEC Has Not Approved Bitcoin ETFs, but Its Hacked X Account Briefly Said Otherwise](https://www.coindesk.com/policy/2024/01/09/sec-twitter-compromised-chair-gensler-says-after-account-said-bitcoin-etfs-approved/) (CoinDesk)
   * [Amazon’s Twitch to Cut 500 Employees, About 35% of Staff](https://www.bloomberg.com/news/articles/2024-01-09/amazon-s-twitch-to-cut-500-employees-about-35-of-staff?sref=Szq5ylDR) (Bloomberg)
@@ -2715,7 +2715,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 09 2024**
+**Tuesday, January 09 2024 - Tue. 01/09 – Do We Need ChatGPT In Our Cars?**
 
   * [OpenAI and journalism](https://openai.com/blog/openai-and-journalism) (OpenAI Blog)
   * [Amazon Debuts Video-Streaming Feature That Rivals Apple AirPlay](https://www.bloomberg.com/news/articles/2024-01-09/amazon-debuts-video-streaming-feature-that-rivals-apple-airplay?sref=Szq5ylDR) (Bloomberg)
@@ -2729,7 +2729,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Monday, January 08 2024**
+**Monday, January 08 2024 - Mon. 01/08 – Vision Pro Announce Steals CES Spotlight**
 
   * [The Apple Vision Pro will launch in February](https://www.theverge.com/2024/1/8/24001858/apple-vision-pro-release-date-availability-price) (The Verge)
   * [Apple’s Biggest Challenges in 2024 Have Little to Do With the iPhone](https://www.bloomberg.com/news/newsletters/2024-01-07/apple-2024-plans-challenges-gen-ai-vision-pro-china-sales-app-store-changes-lr3k9p8p?sref=Szq5ylDR) (Bloomberg)
@@ -2740,7 +2740,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Friday, January 05 2024**
+**Friday, January 05 2024 - Fri. 01/05 – Bringing Back The Hardware Keyboard For Smartphones?**
 
   * [Tesla Recalls 1.6 Million Cars in China Due to Autopilot Crash Risk](https://www.bloomberg.com/news/articles/2024-01-05/tesla-recalls-1-6-million-cars-in-china-due-to-autopilot-crash-risk?sref=Szq5ylDR) (Bloomberg)
   * [Adobe: Online Holiday Sales Reached Record $222 Billion in 2023](https://www.pymnts.com/news/retail/2024/adobe-online-holiday-sales-reached-record-221-billion-in-2023/) (PMNTS)
@@ -2751,7 +2751,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Thursday, January 04 2024**
+**Thursday, January 04 2024 - Thu. 01/04 – A New Keyboard Button Just For AI**
 
   * [Microsoft’s new Copilot key is the first big change to Windows keyboards in 30 years](https://www.theverge.com/2024/1/4/24023809/microsoft-copilot-key-keyboard-windows-laptops-pcs) (The Verge)
   * [SpaceX Launches First Cell Service Satellites With T-Mobile](https://www.bloomberg.com/news/articles/2024-01-03/spacex-launches-first-cell-service-satellites-with-t-mobile?sref=Szq5ylDR) (Bloomberg)
@@ -2763,7 +2763,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Wednesday, January 03 2024**
+**Wednesday, January 03 2024 - Wed. 01/03 – Why Is Facebook Rolling Out Link History?**
 
   * [Meet ‘Link History,’ Facebook’s New Way to Track the Websites You Visit](https://gizmodo.com/meet-link-history-facebook-s-new-way-to-track-the-we-1851134018) (Gizmodo)
   * [Fidelity sets Bitcoin ETF fee at 0.39% ahead of expected SEC approvals](https://fortune.com/crypto/2024/01/02/bitcoin-etf-fee-authorized-participant-fidelity-blackrock-galaxy-grayscale/) (Fortune)
@@ -2773,7 +2773,7 @@ _This collection is no longe being updated. [The Ride Home](https://www.ridehome
 
 
 
-**Tuesday, January 02 2024**
+**Tuesday, January 02 2024 - Tue. 02/01 – The Premium Smartphone Market, And The Premium-Premium**
 
   * [Telegram rolls out revamped voice and video calls, new delete animation on Android](https://9to5google.com/2024/01/01/telegram-call-redesign-10-5-0-update/) (9to5Google)
   * [Bitcoin climbs above $45,000 to 21-month peak as new year kicks off](https://www.reuters.com/technology/bitcoin-climbs-above-45000-first-time-since-april-2022-2024-01-02/) (Reuters)

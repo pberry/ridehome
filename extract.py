@@ -74,16 +74,17 @@ def extract_html_content(post):
 	return htmlContent.replace('\n', '')
 
 
-def extract_links_from_ul(ul_element, episode_date):
+def extract_links_from_ul(ul_element, episode_date, episode_title):
 	"""
 	Extract structured link data from BeautifulSoup <ul> element.
 
 	Args:
 		ul_element: BeautifulSoup Tag object representing <ul>
 		episode_date: datetime object for the episode
+		episode_title: str, title of the podcast episode
 
 	Returns:
-		List of dicts with keys: date, title, url, source, episode_date
+		List of dicts with keys: date, title, url, source, episode_date, episode_title
 	"""
 	links = []
 
@@ -116,7 +117,8 @@ def extract_links_from_ul(ul_element, episode_date):
 			'title': title,
 			'url': url,
 			'source': source,
-			'episode_date': episode_date
+			'episode_date': episode_date,
+			'episode_title': episode_title
 		})
 
 	return links
@@ -174,12 +176,20 @@ def format_entry_with_links(post, config, include_year=None):
 	if content_ul:
 		content = html2text.html2text(str(content_ul))
 
+		# Extract episode title from post.title
+		# Format: "The Ride Home - [Episode Title]"
+		pod_title_array = post.title.split(' - ')
+		if len(pod_title_array) > 1:
+			episode_title = pod_title_array[1]
+		else:
+			episode_title = pod_title_array[0]
+
 		# Extract structured links from the <ul> element
 		# Convert UTC time from feed to Pacific time
 		entry_time = time.struct_time(post.published_parsed)
 		entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
 		episode_date = entry_dt_utc.astimezone(PACIFIC_TZ).replace(tzinfo=None)
-		links = extract_links_from_ul(content_ul, episode_date)
+		links = extract_links_from_ul(content_ul, episode_date, episode_title)
 
 		return (header, content, links)
 	else:

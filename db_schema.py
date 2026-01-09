@@ -32,6 +32,7 @@ def create_schema(db_path='ridehome.db'):
             link_type TEXT NOT NULL CHECK(link_type IN ('showlink', 'longread')),
             episode_date TEXT NOT NULL,
             episode_date_unix INTEGER NOT NULL,
+            episode_title TEXT,
             created_at TEXT DEFAULT CURRENT_TIMESTAMP,
             ai_category TEXT,
             ai_categorized_at TIMESTAMP,
@@ -44,6 +45,9 @@ def create_schema(db_path='ridehome.db'):
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_date_unix ON links(date_unix)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_link_type ON links(link_type)')
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_source ON links(source)')
+
+    # Create index for episode titles
+    cursor.execute('CREATE INDEX IF NOT EXISTS idx_episode_title ON links(episode_title)')
 
     # Create indexes for AI categorization queries
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_links_ai_category ON links(ai_category)')
