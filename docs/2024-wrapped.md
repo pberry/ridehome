@@ -44,16 +44,6 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **NYTimes** | 11 |
-| 🥈 | **The Verge** | 11 |
-| 🥉 | **Bloomberg** | 11 |
-| 4 | Wired | 9 |
-| 5 | WSJ | 8 |
-| 6 | The Atlantic | 5 |
-| 7 | The New Yorker | 5 |
-| 8 | ArsTechnica | 4 |
-| 9 | Bloomberg Businessweek | 4 |
-| 10 | Financial Times | 3 |
 
 ---
 
@@ -63,15 +53,15 @@ Topics covered across 1,676 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **[AI/Machine Learning](categories/ai-machine-learning.html)** | 462 | 27.6% |
+| 🥇 | **[AI/Machine Learning](categories/ai-machine-learning.html)** | 460 | 27.4% |
 | 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 304 | 18.1% |
 | 🥉 | **[Regulation/Policy](categories/regulation-policy.html)** | 200 | 11.9% |
-| 4 | [Other Tech News](categories/other-tech-news.html) | 186 | 11.1% |
-| 5 | [Social Media](categories/social-media.html) | 95 | 5.7% |
-| 6 | [Security/Privacy](categories/security-privacy.html) | 94 | 5.6% |
+| 4 | [Other Tech News](categories/other-tech-news.html) | 179 | 10.7% |
+| 5 | [Security/Privacy](categories/security-privacy.html) | 93 | 5.5% |
+| 6 | [Social Media](categories/social-media.html) | 92 | 5.5% |
 | 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 88 | 5.3% |
 | 8 | [Gaming](categories/gaming.html) | 67 | 4.0% |
-| 9 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 56 | 3.3% |
+| 9 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 55 | 3.3% |
 | 10 | [Automotive/Mobility](categories/automotive-mobility.html) | 44 | 2.6% |
 
 ---
@@ -82,24 +72,23 @@ The tech companies that dominated headlines in 2024:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **424** | ████████████████████████████████████████████████████████████████████████████████████ |
-| 🤖 **OpenAI** | **269** | █████████████████████████████████████████████████████ |
-| 🔍 **Google** | **263** | ████████████████████████████████████████████████████ |
-| 💼 **Microsoft** | **201** | ████████████████████████████████████████ |
-| 👤 **Meta** | **122** | ████████████████████████ |
-| 📦 **Amazon** | **100** | ████████████████████ |
-| 🎮 **Nvidia** | **88** | █████████████████ |
-| 🤖 **Anthropic** | **44** | ████████ |
-| 🎬 **Netflix** | **41** | ████████ |
+| 🏆 **Apple** | **453** | ██████████████████████████████████████████████████████████████████████████████████████████ |
+| 🤖 **OpenAI** | **282** | ████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **278** | ███████████████████████████████████████████████████████ |
+| 💼 **Microsoft** | **207** | █████████████████████████████████████████ |
+| 👤 **Meta** | **124** | ████████████████████████ |
+| 📦 **Amazon** | **103** | ████████████████████ |
+| 🎮 **Nvidia** | **93** | ██████████████████ |
+| 🤖 **Anthropic** | **45** | █████████ |
+| 🎬 **Netflix** | **43** | ████████ |
 | 🚗 **Tesla** | **20** | ████ |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 424 mentions - hardware and services still commanded attention
+- 🏆 **Most Mentioned Company:** Apple dominated with 453 mentions - hardware and services still commanded attention
 - 📰 **Top Daily News Source:** Bloomberg with 249 links
-- 📖 **Top Longreads Source:** NYTimes (11 articles)
 - 📊 **Links Per Episode:** An average of 6.4 daily links kept listeners informed
 - 📅 **Consistency:** 245 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,676 total links from premium sources
@@ -114,4 +103,4 @@ The tech companies that dominated headlines in 2024:
 
 ---
 
-_Generated 12/31/25_ | _Data source: docs/all-links-2024.md and docs/longreads-2024.md_
+_Generated 01/09/26_ | _Data source: docs/all-links-2024.md and docs/longreads-2024.md_

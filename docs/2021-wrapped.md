@@ -7,8 +7,8 @@
 | Metric | Count |
 |--------|-------|
 | **Daily Show Episodes** | 264 days |
-| **Friday Longreads Episodes** | 51 Fridays |
-| **Total Episodes** | **315 episodes** |
+| **Friday Longreads Episodes** | 50 Fridays |
+| **Total Episodes** | **314 episodes** |
 | **Year Coverage** | **72.3%** of 2021 |
 
 ---
@@ -18,7 +18,7 @@
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
 | **Daily Show Links** | 1,657 | 6.3 links/episode |
-| **Weekend Longreads** | 273 | 5.4 links/episode |
+| **Weekend Longreads** | 273 | 5.5 links/episode |
 | **TOTAL** | **1,930** | - |
 
 ---
@@ -49,9 +49,9 @@
 | 🥉 | **NYTimes** | 16 |
 | 4 | WSJ | 16 |
 | 5 | Bloomberg Businessweek | 11 |
-| 6 | The Atlantic | 10 |
-| 7 | Wired | 9 |
-| 8 | The New Yorker | 8 |
+| 6 | Wired | 10 |
+| 7 | The Atlantic | 10 |
+| 8 | The New Yorker | 9 |
 | 9 | Protocol | 8 |
 | 10 | CNBC | 6 |
 
@@ -64,14 +64,14 @@ Topics covered across 1,930 categorized links:
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
 | 🥇 | **[Hardware/Chips](categories/hardware-chips.html)** | 351 | 18.2% |
-| 🥈 | **[Other Tech News](categories/other-tech-news.html)** | 287 | 14.9% |
+| 🥈 | **[Other Tech News](categories/other-tech-news.html)** | 282 | 14.6% |
 | 🥉 | **[Social Media](categories/social-media.html)** | 210 | 10.9% |
-| 4 | [Regulation/Policy](categories/regulation-policy.html) | 194 | 10.1% |
+| 4 | [Regulation/Policy](categories/regulation-policy.html) | 187 | 9.7% |
 | 5 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 169 | 8.8% |
 | 6 | [Security/Privacy](categories/security-privacy.html) | 168 | 8.7% |
 | 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 115 | 6.0% |
 | 8 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 107 | 5.5% |
-| 9 | [E-commerce/Retail](categories/e-commerce-retail.html) | 104 | 5.4% |
+| 9 | [E-commerce/Retail](categories/e-commerce-retail.html) | 94 | 4.9% |
 | 10 | [Gaming](categories/gaming.html) | 88 | 4.6% |
 
 ---
@@ -82,21 +82,21 @@ The tech companies that dominated headlines in 2021:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **485** | █████████████████████████████████████████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **232** | ██████████████████████████████████████████████ |
-| 📦 **Amazon** | **191** | ██████████████████████████████████████ |
-| 💼 **Microsoft** | **171** | ██████████████████████████████████ |
-| 🚗 **Tesla** | **51** | ██████████ |
-| 🎬 **Netflix** | **50** | ██████████ |
-| 👤 **Meta** | **33** | ██████ |
-| 🎮 **Nvidia** | **32** | ██████ |
+| 🏆 **Apple** | **516** | ███████████████████████████████████████████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **246** | █████████████████████████████████████████████████ |
+| 📦 **Amazon** | **198** | ███████████████████████████████████████ |
+| 💼 **Microsoft** | **176** | ███████████████████████████████████ |
+| 🚗 **Tesla** | **55** | ███████████ |
+| 🎬 **Netflix** | **53** | ██████████ |
+| 👤 **Meta** | **38** | ███████ |
+| 🎮 **Nvidia** | **33** | ██████ |
 | 🤖 **OpenAI** | **9** | █ |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 485 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 516 mentions
 - 📰 **Top Daily News Source:** The Verge with 297 links
 - 📖 **Top Longreads Source:** The Verge (17 articles)
 - 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
@@ -107,10 +107,10 @@ The tech companies that dominated headlines in 2021:
 
 ## 📈 Key Takeaways
 
-**2021 in tech** featured 1,930 curated links across 315 episodes, bringing the most important tech news to listeners.
+**2021 in tech** featured 1,930 curated links across 314 episodes, bringing the most important tech news to listeners.
 
 **The Ride Home covered 72.3% of 2021**, bringing tech news to thousands of listeners.
 
 ---
 
-_Generated 12/31/25_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_
+_Generated 01/09/26_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_

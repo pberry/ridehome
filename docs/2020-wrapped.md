@@ -63,15 +63,15 @@ Topics covered across 2,207 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **[Hardware/Chips](categories/hardware-chips.html)** | 433 | 19.6% |
-| 🥈 | **[Other Tech News](categories/other-tech-news.html)** | 399 | 18.1% |
-| 🥉 | **[Regulation/Policy](categories/regulation-policy.html)** | 235 | 10.6% |
-| 4 | [Social Media](categories/social-media.html) | 182 | 8.2% |
+| 🥇 | **[Hardware/Chips](categories/hardware-chips.html)** | 430 | 19.5% |
+| 🥈 | **[Other Tech News](categories/other-tech-news.html)** | 392 | 17.8% |
+| 🥉 | **[Regulation/Policy](categories/regulation-policy.html)** | 231 | 10.5% |
+| 4 | [Social Media](categories/social-media.html) | 181 | 8.2% |
 | 5 | [Security/Privacy](categories/security-privacy.html) | 176 | 8.0% |
-| 6 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 164 | 7.4% |
-| 7 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 162 | 7.3% |
-| 8 | [E-commerce/Retail](categories/e-commerce-retail.html) | 146 | 6.6% |
-| 9 | [Gaming](categories/gaming.html) | 120 | 5.4% |
+| 6 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 163 | 7.4% |
+| 7 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 159 | 7.2% |
+| 8 | [E-commerce/Retail](categories/e-commerce-retail.html) | 130 | 5.9% |
+| 9 | [Gaming](categories/gaming.html) | 118 | 5.3% |
 | 10 | [Automotive/Mobility](categories/automotive-mobility.html) | 91 | 4.1% |
 
 ---
@@ -82,20 +82,20 @@ The tech companies that dominated headlines in 2020:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **527** | █████████████████████████████████████████████████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **384** | ████████████████████████████████████████████████████████████████████████████ |
-| 💼 **Microsoft** | **200** | ████████████████████████████████████████ |
-| 📦 **Amazon** | **190** | ██████████████████████████████████████ |
-| 🎬 **Netflix** | **44** | ████████ |
-| 🚗 **Tesla** | **29** | █████ |
-| 🎮 **Nvidia** | **29** | █████ |
+| 🏆 **Apple** | **563** | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **398** | ███████████████████████████████████████████████████████████████████████████████ |
+| 💼 **Microsoft** | **208** | █████████████████████████████████████████ |
+| 📦 **Amazon** | **201** | ████████████████████████████████████████ |
+| 🎬 **Netflix** | **45** | █████████ |
+| 🎮 **Nvidia** | **32** | ██████ |
+| 🚗 **Tesla** | **31** | ██████ |
 | 🤖 **OpenAI** | **2** |  |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 527 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 563 mentions
 - 📰 **Top Daily News Source:** The Verge with 294 links
 - 📖 **Top Longreads Source:** NYTimes (29 articles)
 - 📊 **Links Per Episode:** An average of 7.3 daily links kept listeners informed
@@ -112,4 +112,4 @@ The tech companies that dominated headlines in 2020:
 
 ---
 
-_Generated 12/31/25_ | _Data source: docs/all-links-2020.md and docs/longreads-2020.md_
+_Generated 01/09/26_ | _Data source: docs/all-links-2020.md and docs/longreads-2020.md_

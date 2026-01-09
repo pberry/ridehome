@@ -18,8 +18,8 @@
 | Category | Links | Average per Episode |
 |----------|-------|---------------------|
 | **Daily Show Links** | 1,534 | 6.3 links/episode |
-| **Weekend Longreads** | 171 | 3.6 links/episode |
-| **TOTAL** | **1,705** | - |
+| **Weekend Longreads** | 174 | 3.7 links/episode |
+| **TOTAL** | **1,708** | - |
 
 ---
 
@@ -44,16 +44,6 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **Bloomberg** | 15 |
-| 🥈 | **NYTimes** | 14 |
-| 🥉 | **The Verge** | 13 |
-| 4 | Wired | 9 |
-| 5 | The Atlantic | 6 |
-| 6 | Vulture | 6 |
-| 7 | WSJ | 6 |
-| 8 | Vox | 5 |
-| 9 | Fast Company | 4 |
-| 10 | ArsTechnica | 4 |
 
 ---
 
@@ -63,13 +53,13 @@ Topics covered across 1,708 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **[AI/Machine Learning](categories/ai-machine-learning.html)** | 399 | 23.4% |
-| 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 277 | 16.2% |
-| 🥉 | **[Other Tech News](categories/other-tech-news.html)** | 198 | 11.6% |
+| 🥇 | **[AI/Machine Learning](categories/ai-machine-learning.html)** | 398 | 23.3% |
+| 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 273 | 16.0% |
+| 🥉 | **[Other Tech News](categories/other-tech-news.html)** | 194 | 11.4% |
 | 4 | [Social Media](categories/social-media.html) | 172 | 10.1% |
 | 5 | [Regulation/Policy](categories/regulation-policy.html) | 160 | 9.4% |
-| 6 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 100 | 5.9% |
-| 7 | [Security/Privacy](categories/security-privacy.html) | 100 | 5.9% |
+| 6 | [Security/Privacy](categories/security-privacy.html) | 100 | 5.9% |
+| 7 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 99 | 5.8% |
 | 8 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 93 | 5.4% |
 | 9 | [Gaming](categories/gaming.html) | 76 | 4.4% |
 | 10 | [Cloud/Enterprise](categories/cloud-enterprise.html) | 50 | 2.9% |
@@ -82,27 +72,26 @@ The tech companies that dominated headlines in 2023:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **357** | ███████████████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **274** | ██████████████████████████████████████████████████████ |
-| 💼 **Microsoft** | **236** | ███████████████████████████████████████████████ |
-| 🤖 **OpenAI** | **157** | ███████████████████████████████ |
-| 👤 **Meta** | **156** | ███████████████████████████████ |
-| 📦 **Amazon** | **126** | █████████████████████████ |
-| 🎬 **Netflix** | **48** | █████████ |
-| 🎮 **Nvidia** | **29** | █████ |
-| 🤖 **Anthropic** | **23** | ████ |
-| 🚗 **Tesla** | **9** | █ |
+| 🏆 **Apple** | **374** | ██████████████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **287** | █████████████████████████████████████████████████████████ |
+| 💼 **Microsoft** | **249** | █████████████████████████████████████████████████ |
+| 👤 **Meta** | **163** | ████████████████████████████████ |
+| 🤖 **OpenAI** | **163** | ████████████████████████████████ |
+| 📦 **Amazon** | **132** | ██████████████████████████ |
+| 🎬 **Netflix** | **49** | █████████ |
+| 🎮 **Nvidia** | **32** | ██████ |
+| 🤖 **Anthropic** | **24** | ████ |
+| 🚗 **Tesla** | **12** | ██ |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 357 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 374 mentions
 - 📰 **Top Daily News Source:** The Verge with 251 links
-- 📖 **Top Longreads Source:** Bloomberg (15 articles)
 - 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
 - 📅 **Consistency:** 244 daily episodes means coverage on most weekdays throughout the year
-- 🎯 **Quality Curation:** 1,705 total links from premium sources
+- 🎯 **Quality Curation:** 1,708 total links from premium sources
 
 ---
 
@@ -114,4 +103,4 @@ The tech companies that dominated headlines in 2023:
 
 ---
 
-_Generated 12/31/25_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_
+_Generated 01/09/26_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_
