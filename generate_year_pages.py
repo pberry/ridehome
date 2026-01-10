@@ -20,7 +20,7 @@ PAGE_CONFIGS = {
         'output_prefix': 'all-links',
         'link_type': 'showlink',
         'header_template': 'showlinks-header.md',
-        'deprecation_notice': "_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._",
+        'deprecation_notice': "[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/).",
         'header_spacing': '\n\n',  # Double newline after date header
         'frontmatter': None,
         'include_episode_title': True,  # Show episode titles for showlinks

@@ -30,7 +30,7 @@ CONFIGS = {
 	'showlinks': {
 		'output_file_prefix': 'all-links',
 		'header_template': 'showlinks-header.md',
-		'deprecation_notice': "_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._",
+		'deprecation_notice': "[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/).",
 		'entry_type': 'showlinks',
 		'no_content_message': 'entries',
 		'include_podcast_title': True,
@@ -40,7 +40,7 @@ CONFIGS = {
 	'longreads': {
 		'output_file_prefix': 'longreads',
 		'header_template': 'longreads-header.md',
-		'deprecation_notice': "_This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._",
+		'deprecation_notice': "[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/).",
 		'entry_type': 'longreads',
 		'no_content_message': 'longreads',
 		'include_podcast_title': False,
