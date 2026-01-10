@@ -9,6 +9,7 @@ title: Hardware/Chips
 ### January
 
 - [Chinese Firms Dominated Global Humanoid Robot Shipments in 2025](https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025) (Bloomberg)
+- [The Man Who Could Be Apple’s Next C.E.O.](https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html) (NYTimes)
 - [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises) (The Verge)
 - [AMD shows off new higher performing AI chip at CES event](https://www.reuters.com/business/amd-unveils-new-chips-ces-event-las-vegas-2026-01-06/) (Reuters)
 - [Dell Admits It Made a Huge Mistake When It Abandoned XPS](https://gizmodo.com/dell-admits-it-made-a-huge-mistake-when-it-abandoned-xps-2000705053) (Gizmodo)

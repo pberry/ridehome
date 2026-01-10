@@ -21,8 +21,8 @@
       <h3>Show Links 2026</h3>
       <p class="nav-description">Daily tech news links from The Ride Home podcast</p>
     </a>
-    <a href="longreads-2025.html" class="nav-card">
-      <h3>Longreads 2025</h3>
+    <a href="longreads-2026.html" class="nav-card">
+      <h3>Longreads 2026</h3>
       <p class="nav-description">Weekend reading recommendations from Friday episodes</p>
     </a>
     <a href="2025-wrapped.html" class="nav-card">
@@ -36,14 +36,14 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-09T20:58:02-08:00">January 09, 2026 at 08:58 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-10T12:01:52-08:00">January 10, 2026 at 12:01 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
         <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,118</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,741</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,743</span></li>
       </ul>
     </div>
 
@@ -60,7 +60,7 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(291 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(114 links)</span></li>
+        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(115 links)</span></li>
         <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
@@ -87,6 +87,7 @@
     <div class="archive-column">
       <h3>Longreads</h3>
       <ul>
+        <li><a href="longreads-2025.html">2025</a></li>
         <li><a href="longreads-2024.html">2024</a></li>
         <li><a href="longreads-2023.html">2023</a></li>
         <li><a href="longreads-2022.html">2022</a></li>
