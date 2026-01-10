@@ -7,6 +7,9 @@ title: Weekend Longreads 2019
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Friday, December 27 2019**
 
   * [Where Are the Tech Zillionaires? San Francisco Faces the I.P.O. Fizzle](https://www.nytimes.com/2019/12/19/technology/tech-IPO-san-francisco.html) (NYTimes)
@@ -566,3 +569,7 @@ title: Weekend Longreads 2019
   * [The Hacker News discussion of the Quanta piece](https://news.ycombinator.com/item?id=18817410)
 
 
+
+</div>
+
+</div>

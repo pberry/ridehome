@@ -7,6 +7,9 @@ title: Weekend Longreads 2021
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Wednesday, December 29 2021**
 
   * [How Discord, Born From an Obscure Game, Became a Social Hub for Young People](https://www.nytimes.com/2021/12/29/business/discord-server-social-media.html) (NYTimes)
@@ -529,3 +532,7 @@ title: Weekend Longreads 2021
   * [Here are the 6 most exciting space missions of 2021](https://thenextweb.com/syndication/2021/01/05/here-are-the-6-most-exciting-space-missions-of-2021/) (TNW)
 
 
+
+</div>
+
+</div>

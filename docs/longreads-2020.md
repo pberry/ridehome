@@ -7,6 +7,9 @@ title: Weekend Longreads 2020
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Wednesday, December 30 2020**
 
   * [The Turing Test is obsolete. It’s time to build a new barometer for AI](https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa) (Fast Company)
@@ -590,3 +593,7 @@ title: Weekend Longreads 2020
   * [This time, for sure! Ars Technica’s 2020 Deathwatch](https://arstechnica.com/information-technology/2020/01/deathwatch-2020-trying-again-this-time-with-feeling/) (Ars Technica)
 
 
+
+</div>
+
+</div>

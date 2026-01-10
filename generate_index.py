@@ -15,6 +15,72 @@ from status_generator import get_status_data, format_status_section
 PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
+def category_to_slug(category_name):
+    """Convert category name to URL-safe slug."""
+    return category_name.lower().replace('/', '-').replace(' ', '-')
+
+
+def get_most_recent_episode(db_path='ridehome.db'):
+    """
+    Get the most recent episode with links.
+
+    Returns:
+        dict: {
+            'date': 'YYYY-MM-DD',
+            'episode_title': str,
+            'links': [
+                {'title': str, 'url': str, 'source': str, 'ai_category': str},
+                ...
+            ]
+        } or None if no episodes found
+    """
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    # Get most recent episode date
+    cursor.execute("""
+        SELECT DISTINCT episode_date, episode_title
+        FROM links
+        WHERE link_type = 'showlink'
+          AND episode_title IS NOT NULL
+        ORDER BY episode_date_unix DESC
+        LIMIT 1
+    """)
+
+    result = cursor.fetchone()
+    if not result:
+        conn.close()
+        return None
+
+    episode_date, episode_title = result
+
+    # Get all links for this episode
+    cursor.execute("""
+        SELECT title, url, source, ai_category
+        FROM links
+        WHERE episode_date = ?
+          AND link_type = 'showlink'
+        ORDER BY id
+    """, (episode_date,))
+
+    links = []
+    for row in cursor.fetchall():
+        links.append({
+            'title': row[0],
+            'url': row[1],
+            'source': row[2],
+            'ai_category': row[3]
+        })
+
+    conn.close()
+
+    return {
+        'date': episode_date,
+        'episode_title': episode_title,
+        'links': links
+    }
+
+
 def get_max_year_from_db(db_path='ridehome.db'):
     """
     Get the most recent year in the database.
@@ -93,6 +159,53 @@ def scan_existing_files(docs_dir='docs'):
     return existing
 
 
+def format_recent_shows_section(episode_data):
+    """
+    Format Recent Shows section with robot/bubble styling.
+
+    Args:
+        episode_data: dict from get_most_recent_episode()
+
+    Returns:
+        str: HTML for Recent Shows section
+    """
+    if not episode_data:
+        return ''
+
+    parts = []
+    parts.append('<section class="recent-shows">')
+    parts.append('  <h2>Most Recent Episode</h2>')
+
+    # Format date
+    date_obj = datetime.strptime(episode_data['date'], '%Y-%m-%d')
+    formatted_date = date_obj.strftime('%A, %B %d, %Y')
+
+    parts.append(f'  <h3>{formatted_date} - {episode_data["episode_title"]}</h3>')
+    parts.append('  <ul>')
+
+    for link in episode_data['links']:
+        title = link['title']
+        url = link['url']
+        source = link['source']
+        ai_category = link.get('ai_category')
+
+        # Build link with robot/bubble if category exists
+        if source and ai_category:
+            category_slug = category_to_slug(ai_category)
+            category_url = f"/categories/{category_slug}.html"
+            parts.append(f'    <li><a href="{url}">{title}</a> ({source}) &mdash; 🤖 <a href="{category_url}" class="ai-category">{ai_category}</a></li>')
+        elif source:
+            parts.append(f'    <li><a href="{url}">{title}</a> ({source})</li>')
+        else:
+            parts.append(f'    <li><a href="{url}">{title}</a></li>')
+
+    parts.append('  </ul>')
+    parts.append('</section>')
+    parts.append('')
+
+    return '\n'.join(parts)
+
+
 def determine_recent_wrapped_year():
     """
     Determine which wrapped year should be in "recent" section.
@@ -123,6 +236,10 @@ def generate_index_content(db_path='ridehome.db', docs_dir='docs'):
     # Scan filesystem for existing files
     existing = scan_existing_files(docs_dir)
 
+    # Get most recent episode
+    recent_episode = get_most_recent_episode(db_path)
+    recent_shows_section = format_recent_shows_section(recent_episode)
+
     # Get status section
     status_data = get_status_data(db_path)
     status_section = format_status_section(status_data)
@@ -135,12 +252,9 @@ def generate_index_content(db_path='ridehome.db', docs_dir='docs'):
     parts.append('[The Ride Home](https://www.ridehome.info/show/techmeme-ride-home/) now has a proper web site and [RSS feed](https://rss.art19.com/techmeme-ridehome).')
     parts.append('')
 
-    # Status section
-    parts.append('<!-- STATUS_SECTION -->')
-    parts.append('')
-    parts.append(status_section)
-    parts.append('<!-- END_STATUS_SECTION -->')
-    parts.append('')
+    # Recent Shows section (NEW - at top)
+    if recent_shows_section:
+        parts.append(recent_shows_section)
 
     # Recent Content section
     parts.append('<nav class="recent-nav" aria-labelledby="recent-heading">')
@@ -172,6 +286,13 @@ def generate_index_content(db_path='ridehome.db', docs_dir='docs'):
 
     parts.append('  </div>')
     parts.append('</nav>')
+    parts.append('')
+
+    # Status section (moved below Recent Content)
+    parts.append('<!-- STATUS_SECTION -->')
+    parts.append('')
+    parts.append(status_section)
+    parts.append('<!-- END_STATUS_SECTION -->')
     parts.append('')
 
     # Archive section

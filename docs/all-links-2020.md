@@ -1,8 +1,9 @@
 {% include_relative _includes/showlinks-header.md %}
 
-[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/).
-
 <!-- AUTO-GENERATED CONTENT BELOW -->
+
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
 
 **Wednesday, December 30 2020 - Wed. 12/30 – Apple Loses A Copyright Lawsuit**
 
@@ -3176,3 +3177,26 @@
   * [Google veterans: The company has become ‘unrecognizable’](https://www.cnbc.com/2019/12/31/google-veterans-the-company-has-become-unrecognizable.html) (CNBC)
 
 
+
+</div>
+
+<aside class="category-sidebar">
+  <h2>Browse by Topic</h2>
+  <ul>
+    <li><a href="/categories/hardware-chips.html">Hardware/Chips<span class="category-count">(2250)</span></a></li>
+    <li><a href="/categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1612)</span></a></li>
+    <li><a href="/categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1310)</span></a></li>
+    <li><a href="/categories/other-tech-news.html">Other Tech News<span class="category-count">(1292)</span></a></li>
+    <li><a href="/categories/social-media.html">Social Media<span class="category-count">(1082)</span></a></li>
+    <li><a href="/categories/security-privacy.html">Security/Privacy<span class="category-count">(899)</span></a></li>
+    <li><a href="/categories/streaming-entertainment.html">Streaming/Entertainment<span class="category-count">(736)</span></a></li>
+    <li><a href="/categories/crypto-blockchain.html">Crypto/Blockchain<span class="category-count">(674)</span></a></li>
+    <li><a href="/categories/cloud-enterprise.html">Cloud/Enterprise<span class="category-count">(628)</span></a></li>
+    <li><a href="/categories/e-commerce-retail.html">E-commerce/Retail<span class="category-count">(529)</span></a></li>
+    <li><a href="/categories/gaming.html">Gaming<span class="category-count">(513)</span></a></li>
+    <li><a href="/categories/automotive-mobility.html">Automotive/Mobility<span class="category-count">(426)</span></a></li>
+    <li><a href="/categories/ipo.html">IPO<span class="category-count">(147)</span></a></li>
+    <li><a href="/categories/fintech.html">FinTech<span class="category-count">(20)</span></a></li>
+  </ul>
+</aside>
+</div>
