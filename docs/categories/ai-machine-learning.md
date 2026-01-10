@@ -8,6 +8,11 @@ title: AI/Machine Learning
 
 ### January
 
+- [No, Grok hasn’t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting) (The Verge)
+- [Musk’s xAI Burns Almost $8 Billion, Reveals Optimus Plan](https://www.bloomberg.com/news/articles/2026-01-09/musk-s-xai-reports-higher-quarterly-loss-plans-to-power-optimus?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2Nzk2NTU3MSwiZXhwIjoxNzY4NTcwMzcxLCJhcnRpY2xlSWQiOiJUOEpOU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.f6EPP--2spNrCIMeKB_I4LPpwGX9BMe1Y1FnLCJNnT8) (Bloomberg)
+- [DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?rc=i9gkgs) (The Information)
+- [Grok Is Generating Sexual Content Far More Graphic Than What's on X](https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/) (Wired)
+- [Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews) (The Verge)
 - [Elon Musk’s xAI Raises $20 Billion](https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html) (NYTimes)
 - [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
 - [Exclusive: Samsung to double AI mobile devices to 800 million units this year](https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/) (Reuters)

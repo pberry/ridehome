@@ -4,6 +4,13 @@ title: FinTech
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Andreessen Horowitz raises $15 billion for new funds](https://www.axios.com/2026/01/09/andreessen-horowitz-15-billion-for-new-funds) (Axios)
+- [A16z’s $15 Billion Fund Vacuumed Up A Fifth Of Venture Dollars Raised Last Year](https://www.forbes.com/sites/iainmartin/2026/01/09/a16zs-15-billion-fund-vacuumed-up-a-fifth-of-venture-dollars-raised-last-year/) (Forbes)
+
 ## 2025
 
 ### September

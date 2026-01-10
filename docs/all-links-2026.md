@@ -4,6 +4,24 @@
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+**Friday, January 09 2026 - Grok Still Groking**
+
+  * [No, Grok hasn’t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting) (The Verge)
+  * [Musk’s xAI Burns Almost $8 Billion, Reveals Optimus Plan](https://www.bloomberg.com/news/articles/2026-01-09/musk-s-xai-reports-higher-quarterly-loss-plans-to-power-optimus?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2Nzk2NTU3MSwiZXhwIjoxNzY4NTcwMzcxLCJhcnRpY2xlSWQiOiJUOEpOU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.f6EPP--2spNrCIMeKB_I4LPpwGX9BMe1Y1FnLCJNnT8) (Bloomberg)
+  * [Chinese Firms Dominated Global Humanoid Robot Shipments in 2025](https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025) (Bloomberg)
+  * [DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?rc=i9gkgs) (The Information)
+  * [Andreessen Horowitz raises $15 billion for new funds](https://www.axios.com/2026/01/09/andreessen-horowitz-15-billion-for-new-funds) (Axios)
+  * [A16z’s $15 Billion Fund Vacuumed Up A Fifth Of Venture Dollars Raised Last Year](https://www.forbes.com/sites/iainmartin/2026/01/09/a16zs-15-billion-fund-vacuumed-up-a-fifth-of-venture-dollars-raised-last-year/) (Forbes)
+
+
+
+**Thursday, January 08 2026 - ChatGPT Health**
+
+  * [Grok Is Generating Sexual Content Far More Graphic Than What's on X](https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/) (Wired)
+  * [Google is taking over your Gmail inbox with AI](https://www.theverge.com/news/857883/google-gmail-ai-inbox-overviews) (The Verge)
+
+
+
 **Wednesday, January 07 2026 - CES Day 3**
 
   * [Elon Musk’s xAI Raises $20 Billion](https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html) (NYTimes)
@@ -15,7 +33,7 @@
 
 
 
-**Tuesday, January 06 2026 - CES Day Two**
+**Tuesday, January 06 2026 - CES Day 2**
 
   * [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
   * [AMD shows off new higher performing AI chip at CES event](https://www.reuters.com/business/amd-unveils-new-chips-ces-event-las-vegas-2026-01-06/) (Reuters)
