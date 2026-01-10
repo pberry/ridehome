@@ -7,6 +7,9 @@ title: Weekend Longreads 2023
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Friday, December 22 2023**
 
   * [The Race to Fill Crypto’s FTX-Shaped Hole](https://www.wired.co.uk/article/ftx-new-crypto-exchanges-backpack?utm_source=flipboard&utm_content=tech%2Fmagazine%2FLongreads)
@@ -415,3 +418,7 @@ title: Weekend Longreads 2023
   * [Dungeons & Dragons content creators are fighting to protect their livelihoods](https://techcrunch.com/2023/01/12/dungeons-and-dragons-ogl-wizards-of-the-coast/)
 
 
+
+</div>
+
+</div>

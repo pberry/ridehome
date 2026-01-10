@@ -7,6 +7,9 @@ title: Weekend Longreads 2022
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Thursday, December 22 2022**
 
   * [How TikTok Became a Diplomatic Crisis](https://www.nytimes.com/2022/12/20/magazine/tiktok-us-china-diplomacy.html)
@@ -515,3 +518,7 @@ title: Weekend Longreads 2022
   * [Wordle Is a Love Story](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html)
 
 
+
+</div>
+
+</div>

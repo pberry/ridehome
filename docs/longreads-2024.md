@@ -7,6 +7,9 @@ title: Weekend Longreads 2024
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Friday, December 27 2024**
 
   * [Video Games Can’t Afford to Look This Good](https://www.nytimes.com/2024/12/26/arts/video-games-graphics-budgets.html?unlocked_article_code=1.kU4.kZgi.GhLcvDdLUkB1)
@@ -371,3 +374,7 @@ title: Weekend Longreads 2024
   * [Full game of Tetris beaten for the first time by 13-year-old Willis Gibson AKA 'Blue Scuti'](https://www.youtube.com/watch?v=BUYt6Zp8a04)
 
 
+
+</div>
+
+</div>

@@ -7,6 +7,9 @@ title: Weekend Longreads 2018
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Friday, December 28 2018**
 
   * [The Devchat.tv podcasts](https://devchat.tv/)
@@ -366,3 +369,7 @@ title: Weekend Longreads 2018
   * [South Korean millennials are reeling from the Bitcoin bust](https://www.theverge.com/2018/4/3/17192886/bitcoin-cryptocurrency-south-korea-millennials) (The Verge)
 
 
+
+</div>
+
+</div>

@@ -1,41 +1,18 @@
 
 [The Ride Home](https://www.ridehome.info/show/techmeme-ride-home/) now has a proper web site and [RSS feed](https://rss.art19.com/techmeme-ridehome).
 
-<!-- STATUS_SECTION -->
-
-<section class="status-section" aria-labelledby="status-heading">
-  <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-09T20:58:02-08:00">January 09, 2026 at 08:58 PM PST</time></p>
-
-  <div class="status-grid">
-    <div class="status-card">
-      <h3>Archive Size</h3>
-      <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,118</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,741</span></li>
-      </ul>
-    </div>
-
-    <div class="status-card">
-      <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
-      <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(113 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(90 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(71 links)</span></li>
-      </ol>
-    </div>
-
-    <div class="status-card">
-      <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
-      <ol class="status-list">
-        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(297 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(116 links)</span></li>
-        <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(81 links)</span></li>
-      </ol>
-    </div>
-  </div>
+<section class="recent-shows">
+  <h2>Most Recent Episode</h2>
+  <h3>Friday, January 09, 2026 - Grok Still Groking</h3>
+  <ul>
+    <li><a href="https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting">No, Grok hasn’t paywalled its deepfake image feature</a> (The Verge) &mdash; 🤖 <a href="/categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-01-09/musk-s-xai-reports-higher-quarterly-loss-plans-to-power-optimus?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2Nzk2NTU3MSwiZXhwIjoxNzY4NTcwMzcxLCJhcnRpY2xlSWQiOiJUOEpOU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.f6EPP--2spNrCIMeKB_I4LPpwGX9BMe1Y1FnLCJNnT8">Musk’s xAI Burns Almost $8 Billion, Reveals Optimus Plan</a> (Bloomberg) &mdash; 🤖 <a href="/categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025">Chinese Firms Dominated Global Humanoid Robot Shipments in 2025</a> (Bloomberg) &mdash; 🤖 <a href="/categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?rc=i9gkgs">DeepSeek To Release Next Flagship AI Model With Strong Coding Ability</a> (The Information) &mdash; 🤖 <a href="/categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.axios.com/2026/01/09/andreessen-horowitz-15-billion-for-new-funds">Andreessen Horowitz raises $15 billion for new funds</a> (Axios) &mdash; 🤖 <a href="/categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.forbes.com/sites/iainmartin/2026/01/09/a16zs-15-billion-fund-vacuumed-up-a-fifth-of-venture-dollars-raised-last-year/">A16z’s $15 Billion Fund Vacuumed Up A Fifth Of Venture Dollars Raised Last Year</a> (Forbes) &mdash; 🤖 <a href="/categories/fintech.html" class="ai-category">FinTech</a></li>
+  </ul>
 </section>
-<!-- END_STATUS_SECTION -->
 
 <nav class="recent-nav" aria-labelledby="recent-heading">
   <h2 id="recent-heading">Recent Content</h2>
@@ -54,6 +31,42 @@
     </a>
   </div>
 </nav>
+
+<!-- STATUS_SECTION -->
+
+<section class="status-section" aria-labelledby="status-heading">
+  <h2 id="status-heading">Current Status</h2>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-09T20:58:02-08:00">January 09, 2026 at 08:58 PM PST</time></p>
+
+  <div class="status-grid">
+    <div class="status-card">
+      <h3>Archive Size</h3>
+      <ul class="status-list">
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,118</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,741</span></li>
+      </ul>
+    </div>
+
+    <div class="status-card">
+      <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
+      <ol class="status-list">
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
+      </ol>
+    </div>
+
+    <div class="status-card">
+      <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
+      <ol class="status-list">
+        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(291 links)</span></li>
+        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(114 links)</span></li>
+        <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(81 links)</span></li>
+      </ol>
+    </div>
+  </div>
+</section>
+<!-- END_STATUS_SECTION -->
 
 <nav class="archive-nav" aria-labelledby="archive-heading">
   <h2 id="archive-heading">Archive</h2>

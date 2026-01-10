@@ -7,6 +7,9 @@ title: Weekend Longreads 2025
 
 <!-- AUTO-GENERATED CONTENT BELOW -->
 
+<div class="page-with-sidebar" markdown="1">
+<div class="page-main-content" markdown="1">
+
 **Wednesday, December 31 2025**
 
   * [2025 letter](https://zhengdongwang.com/2025/12/30/2025-letter.html) (Zhengdong Wang)
@@ -357,3 +360,7 @@ title: Weekend Longreads 2025
   * [AI Needs So Much Power, It’s Making Yours Worse](https://www.bloomberg.com/graphics/2024-ai-power-home-appliances/?sref=Szq5ylDR)
 
 
+
+</div>
+
+</div>
