@@ -850,6 +850,15 @@ a.ai-category:visited {
   opacity: 1;
 }
 
+/* Visited+hover state - ensure readable text on colored background */
+a.ai-category:visited:hover {
+  color: $base3;  /* Light text on blue background (light mode) */
+}
+
+[data-theme="dark"] a.ai-category:visited:hover {
+  color: $base03;  /* Dark text on cyan background (dark mode) */
+}
+
 /* Focus state for accessibility */
 a.ai-category:focus {
   outline: 2px solid var(--focus-indicator);
