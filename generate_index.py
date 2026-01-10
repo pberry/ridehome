@@ -192,7 +192,7 @@ def format_recent_shows_section(episode_data):
         # Build link with robot/bubble if category exists
         if source and ai_category:
             category_slug = category_to_slug(ai_category)
-            category_url = f"/categories/{category_slug}.html"
+            category_url = f"categories/{category_slug}.html"
             parts.append(f'    <li><a href="{url}">{title}</a> ({source}) &mdash; 🤖 <a href="{category_url}" class="ai-category">{ai_category}</a></li>')
         elif source:
             parts.append(f'    <li><a href="{url}">{title}</a> ({source})</li>')

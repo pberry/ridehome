@@ -256,7 +256,7 @@ def generate_markdown_content(year, link_type, links, config, db_path='ridehome.
         parts.append('  <ul>')
 
         for cat in categories:
-            parts.append(f'    <li><a href="/categories/{cat["slug"]}.html">{cat["name"]}<span class="category-count">({cat["count"]})</span></a></li>')
+            parts.append(f'    <li><a href="categories/{cat["slug"]}.html">{cat["name"]}<span class="category-count">({cat["count"]})</span></a></li>')
 
         parts.append('  </ul>')
         parts.append('</aside>')
