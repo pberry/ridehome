@@ -8,6 +8,8 @@ title: AI/Machine Learning
 
 ### January
 
+- [Elon Musk’s xAI Raises $20 Billion](https://www.nytimes.com/2026/01/06/technology/xai-elon-musk-funding.html) (NYTimes)
+- [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
 - [Exclusive: Samsung to double AI mobile devices to 800 million units this year](https://www.reuters.com/world/china/samsung-double-mobile-devices-powered-by-googles-gemini-800-mln-units-this-year-2026-01-05/) (Reuters)
 
 ## 2025

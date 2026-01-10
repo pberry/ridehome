@@ -44,15 +44,15 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **Wired** | 16 |
-| 🥈 | **The Atlantic** | 12 |
-| 🥉 | **The Verge** | 10 |
-| 4 | Bloomberg | 10 |
-| 5 | NYTimes | 9 |
-| 6 | WSJ | 9 |
+| 🥇 | **Wired** | 17 |
+| 🥈 | **The Atlantic** | 13 |
+| 🥉 | **Bloomberg** | 12 |
+| 4 | WSJ | 10 |
+| 5 | The Verge | 10 |
+| 6 | NYTimes | 9 |
 | 7 | The New Yorker | 6 |
-| 8 | The Information | 4 |
-| 9 | Motherboard | 4 |
+| 8 | Motherboard | 5 |
+| 9 | The Information | 4 |
 | 10 | Fortune | 4 |
 
 ---
@@ -63,14 +63,14 @@ Topics covered across 1,202 categorized links:
 
 | Rank | Topic | Links | Percentage |
 |------|-------|-------|------------|
-| 🥇 | **[Other Tech News](categories/other-tech-news.html)** | 240 | 20.0% |
+| 🥇 | **[Other Tech News](categories/other-tech-news.html)** | 234 | 19.5% |
 | 🥈 | **[Hardware/Chips](categories/hardware-chips.html)** | 197 | 16.4% |
 | 🥉 | **[Social Media](categories/social-media.html)** | 122 | 10.1% |
-| 4 | [Regulation/Policy](categories/regulation-policy.html) | 102 | 8.5% |
-| 5 | [E-commerce/Retail](categories/e-commerce-retail.html) | 92 | 7.7% |
-| 6 | [Security/Privacy](categories/security-privacy.html) | 92 | 7.7% |
+| 4 | [Regulation/Policy](categories/regulation-policy.html) | 101 | 8.4% |
+| 5 | [Security/Privacy](categories/security-privacy.html) | 91 | 7.6% |
+| 6 | [E-commerce/Retail](categories/e-commerce-retail.html) | 85 | 7.1% |
 | 7 | [Streaming/Entertainment](categories/streaming-entertainment.html) | 74 | 6.2% |
-| 8 | [Automotive/Mobility](categories/automotive-mobility.html) | 70 | 5.8% |
+| 8 | [Automotive/Mobility](categories/automotive-mobility.html) | 69 | 5.7% |
 | 9 | [Crypto/Blockchain](categories/crypto-blockchain.html) | 59 | 4.9% |
 | 10 | [AI/Machine Learning](categories/ai-machine-learning.html) | 53 | 4.4% |
 
@@ -82,21 +82,21 @@ The tech companies that dominated headlines in 2018:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **197** | ███████████████████████████████████████ |
-| 🔍 **Google** | **195** | ███████████████████████████████████████ |
-| 📦 **Amazon** | **155** | ███████████████████████████████ |
-| 💼 **Microsoft** | **71** | ██████████████ |
-| 🎬 **Netflix** | **52** | ██████████ |
-| 🚗 **Tesla** | **47** | █████████ |
+| 🏆 **Apple** | **211** | ██████████████████████████████████████████ |
+| 🔍 **Google** | **210** | ██████████████████████████████████████████ |
+| 📦 **Amazon** | **165** | █████████████████████████████████ |
+| 💼 **Microsoft** | **73** | ██████████████ |
+| 🎬 **Netflix** | **56** | ███████████ |
+| 🚗 **Tesla** | **49** | █████████ |
 | 🎮 **Nvidia** | **10** | ██ |
 
 ---
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 197 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 211 mentions
 - 📰 **Top Daily News Source:** The Verge with 112 links
-- 📖 **Top Longreads Source:** Wired (16 articles)
+- 📖 **Top Longreads Source:** Wired (17 articles)
 - 📊 **Links Per Episode:** An average of 5.8 daily links kept listeners informed
 - 📅 **Consistency:** 174 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,202 total links from premium sources
@@ -111,4 +111,4 @@ The tech companies that dominated headlines in 2018:
 
 ---
 
-_Generated 12/31/25_ | _Data source: docs/all-links-2018.md and docs/longreads-2018.md_
+_Generated 01/09/26_ | _Data source: docs/all-links-2018.md and docs/longreads-2018.md_

@@ -4,6 +4,12 @@ title: Cloud/Enterprise
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [The data center rebellion is here, and it’s reshaping the political landscape](https://www.washingtonpost.com/business/2026/01/06/data-centers-backlash-impact-local-communities-opposition/) (Washington Post)
+
 ## 2025
 
 ### December

@@ -4,6 +4,12 @@ title: Regulation/Policy
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680) (Politico)
+
 ## 2025
 
 ### December

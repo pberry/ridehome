@@ -6,6 +6,75 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-01-09
+
+### Fixed
+- **Episode titles restored in generated markdown files** - CMS v2.0.0 broke episode title display
+  - **Problem:** Generated showlinks files showed only dates: `**Wednesday, January 07 2026**`
+  - **Expected:** Date with episode title: `**Wednesday, January 07 2026 - CES Day 3**`
+  - **Root cause:** Database schema had no `episode_title` column, so generators couldn't access episode titles
+  - **Solution:**
+    1. Added `episode_title TEXT` column to database schema (`db_schema.py`)
+    2. Created migration script (`add_episode_title_column.py`) to backfill 13,819 existing links from RSS feed
+    3. Updated extraction pipeline (`extract.py`) to capture episode titles from RSS `post.title` field
+    4. Updated database writer (`db_writer.py`) to store episode_title in INSERT statements
+    5. Updated year page generator (`generate_year_pages.py`) to include episode titles in showlinks headers
+  - **Behavior:** Episode titles displayed for showlinks, NOT displayed for longreads (preserves existing format)
+  - **Data coverage:** 13,819 of 13,851 links backfilled (32 older episodes not in current RSS feed)
+  - Affects: `db_schema.py`, `add_episode_title_column.py` (new), `extract.py`, `db_writer.py`, `generate_year_pages.py`
+
+## [2.0.0] - 2026-01-08
+
+### Changed
+- **🚨 BREAKING: Database-first architecture** - SQLite becomes single source of truth
+  - **Old flow:** RSS → extract.py → {markdown files, SQLite}
+  - **New flow:** RSS → extract.py → SQLite → generators → markdown files
+  - All markdown files are now **generated artifacts** (fully regenerable from database)
+  - Enables full rebuild capability: delete any markdown file, regenerate from DB
+  - Database contains richer data (AI categories) than markdown
+  - Affects: `extract.py`, all generator scripts
+
+- **Index.md now fully generated** - No more manual updates for year transitions
+  - New `generate_index.py` creates homepage from database
+  - Recent vs Archive logic codified: current year = recent, prior years = archive
+  - Wrapped reports: (current-1) year in recent during Jan-Nov, current year in Dec
+  - Only links to files that exist (defensive programming, no broken links)
+  - Integrates status dashboard automatically
+  - Affects: `generate_index.py`, `docs/index.md`
+
+### Added
+- **Year page generator** - Regenerate all-links-YYYY.md and longreads-YYYY.md from database
+  - New `generate_year_pages.py` queries database and creates yearly markdown files
+  - Hash-based incremental updates: only writes files if content changed
+  - Preserves exact format: Jekyll includes, frontmatter, deprecation notices
+  - Handles both showlinks (double newline after header) and longreads (single newline)
+  - `--force` flag to regenerate everything (bypasses hash checks)
+  - Affects: `generate_year_pages.py`
+
+- **Rebuild orchestrator** - Single command to regenerate all markdown from database
+  - New `rebuild_all.py` coordinates all generator scripts
+  - Runs in correct order: year pages → categories → wrapped → index
+  - Incremental mode (default): skip unchanged files using hash comparison
+  - Force mode (`--force`): regenerate everything
+  - Reports statistics: files written vs skipped
+  - Called automatically by `extract.py` after DB updates
+  - Affects: `rebuild_all.py`
+
+### Removed
+- **file_updater.py** - Markdown parsing and updating logic no longer needed
+  - `extract.py` now writes directly to database instead of markdown
+  - Markdown generation delegated to specialized generator scripts
+  - Deleted: `file_updater.py`, `test_file_updater.py`
+
+### Migration Notes
+- **Existing workflow:** `./extract.py` still works the same way from user perspective
+- **New capability:** Can now regenerate any markdown file: `python3 rebuild_all.py`
+- **Force full rebuild:** `python3 rebuild_all.py --force`
+- **Recovery:** If markdown is corrupted, regenerate from DB: `python3 generate_year_pages.py`
+- **Backfill:** `load_db.py` and `markdown_parser.py` kept for recovery scenarios
+
+## [1.5.0] - 2026-01-07
+
 ### Added
 - **Centralized category definitions** - Single source of truth for all topic categories
   - New `categories.py` module contains `TOPIC_CATEGORIES` list and `TOPIC_KEYWORDS` dict

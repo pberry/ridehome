@@ -29,7 +29,7 @@ def insert_links(conn: sqlite3.Connection, entries: List[Dict], link_type: str) 
 
     Args:
         conn: Database connection
-        entries: List of dicts with keys: date, title, url, source, episode_date
+        entries: List of dicts with keys: date, title, url, source, episode_date, episode_title
         link_type: Either 'showlink' or 'longread'
 
     Returns:
@@ -49,8 +49,8 @@ def insert_links(conn: sqlite3.Connection, entries: List[Dict], link_type: str) 
 
         try:
             cursor.execute('''
-                INSERT INTO links (date, date_unix, title, url, source, link_type, episode_date, episode_date_unix)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                INSERT INTO links (date, date_unix, title, url, source, link_type, episode_date, episode_date_unix, episode_title)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
             ''', (
                 date_iso,
                 date_unix,
@@ -59,7 +59,8 @@ def insert_links(conn: sqlite3.Connection, entries: List[Dict], link_type: str) 
                 entry['source'],
                 link_type,
                 episode_date_iso,
-                episode_date_unix
+                episode_date_unix,
+                entry.get('episode_title')
             ))
             inserted += 1
         except sqlite3.IntegrityError:
@@ -84,7 +85,8 @@ if __name__ == '__main__':
             'title': 'Test Article',
             'url': 'https://example.com/test',
             'source': 'Example',
-            'episode_date': datetime(2025, 12, 12)
+            'episode_date': datetime(2025, 12, 12),
+            'episode_title': 'Test Episode'
         }
     ]
 

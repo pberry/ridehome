@@ -12,7 +12,7 @@ import os
 import sys
 import tempfile
 from unittest.mock import patch, MagicMock
-from add_ai_category_columns import add_ai_category_columns
+from db_schema import create_schema
 from backfill_ai_categories import (
     get_uncategorized_links,
     save_categorizations,
@@ -22,39 +22,23 @@ from backfill_ai_categories import (
 
 
 class TestDatabaseSchema(unittest.TestCase):
-    """Test database schema migration"""
+    """Test that base database schema includes AI categorization columns"""
 
     def setUp(self):
         """Create temporary database for testing"""
         self.db_fd, self.db_path = tempfile.mkstemp(suffix='.db')
-
-        # Create a basic links table
-        conn = sqlite3.connect(self.db_path)
-        cursor = conn.cursor()
-        cursor.execute("""
-            CREATE TABLE links (
-                id INTEGER PRIMARY KEY,
-                title TEXT,
-                url TEXT,
-                source TEXT,
-                date_unix INTEGER
-            )
-        """)
-        conn.commit()
-        conn.close()
 
     def tearDown(self):
         """Remove temporary database"""
         os.close(self.db_fd)
         os.unlink(self.db_path)
 
-    def test_add_columns_to_new_database(self):
-        """Test adding AI categorization columns to a fresh database"""
-        result = add_ai_category_columns(self.db_path)
-        self.assertTrue(result)
+    def test_base_schema_includes_ai_columns(self):
+        """Test that create_schema includes AI categorization columns"""
+        # Create database with base schema
+        conn = create_schema(self.db_path)
 
-        # Verify columns were added
-        conn = sqlite3.connect(self.db_path)
+        # Verify columns exist
         cursor = conn.cursor()
         cursor.execute("PRAGMA table_info(links)")
         columns = {row[1] for row in cursor.fetchall()}
@@ -64,27 +48,19 @@ class TestDatabaseSchema(unittest.TestCase):
         self.assertIn('ai_categorized_at', columns)
         self.assertIn('ai_model', columns)
 
-    def test_add_columns_idempotent(self):
-        """Test that running migration twice doesn't fail"""
-        # Run once
-        result1 = add_ai_category_columns(self.db_path)
-        self.assertTrue(result1)
+    def test_base_schema_includes_ai_indexes(self):
+        """Test that create_schema includes AI categorization indexes"""
+        # Create database with base schema
+        conn = create_schema(self.db_path)
 
-        # Run again
-        result2 = add_ai_category_columns(self.db_path)
-        self.assertTrue(result2)
-
-        # Verify columns still exist
-        conn = sqlite3.connect(self.db_path)
+        # Verify indexes exist
         cursor = conn.cursor()
-        cursor.execute("PRAGMA table_info(links)")
-        columns = [row[1] for row in cursor.fetchall()]
+        cursor.execute("PRAGMA index_list(links)")
+        indexes = {row[1] for row in cursor.fetchall()}
         conn.close()
 
-        # Should only have each column once
-        self.assertEqual(columns.count('ai_category'), 1)
-        self.assertEqual(columns.count('ai_categorized_at'), 1)
-        self.assertEqual(columns.count('ai_model'), 1)
+        self.assertIn('idx_links_ai_category', indexes)
+        self.assertIn('idx_links_ai_categorized_at', indexes)
 
 
 class TestUncategorizedLinks(unittest.TestCase):

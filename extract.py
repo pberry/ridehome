@@ -14,11 +14,15 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from bs4 import BeautifulSoup
 from html_parser import find_links_section, find_section
-from file_updater import parse_top_date, find_new_entries, group_entries_by_year, infer_year_from_context, PACIFIC_TZ
 from db_schema import create_schema
 from db_writer import insert_links
 from status_generator import get_status_data, format_status_section, update_homepage
 from claude_categorizer import categorize_with_retry
+import sqlite3
+import subprocess
+
+# Pacific timezone for The Ride Home podcast
+PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
 # Configuration for each extraction type
@@ -26,7 +30,7 @@ CONFIGS = {
 	'showlinks': {
 		'output_file_prefix': 'all-links',
 		'header_template': 'showlinks-header.md',
-		'deprecation_notice': "_This collection is no longe being updated. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._",
+		'deprecation_notice': "[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/).",
 		'entry_type': 'showlinks',
 		'no_content_message': 'entries',
 		'include_podcast_title': True,
@@ -36,7 +40,7 @@ CONFIGS = {
 	'longreads': {
 		'output_file_prefix': 'longreads',
 		'header_template': 'longreads-header.md',
-		'deprecation_notice': "_This collection is no longer being updated regularly. I still update it from time to time because this is the entire Long Read archive and I don't think everything transitioned to the site. [The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/)._",
+		'deprecation_notice': "[The Ride Home](https://www.ridehome.info/podcast/techmeme-ride-home/) now has a proper web site and [RSS feed](https://feedly.com/i/subscription/feed/https://www.ridehome.info/rss/).",
 		'entry_type': 'longreads',
 		'no_content_message': 'longreads',
 		'include_podcast_title': False,
@@ -70,16 +74,17 @@ def extract_html_content(post):
 	return htmlContent.replace('\n', '')
 
 
-def extract_links_from_ul(ul_element, episode_date):
+def extract_links_from_ul(ul_element, episode_date, episode_title):
 	"""
 	Extract structured link data from BeautifulSoup <ul> element.
 
 	Args:
 		ul_element: BeautifulSoup Tag object representing <ul>
 		episode_date: datetime object for the episode
+		episode_title: str, title of the podcast episode
 
 	Returns:
-		List of dicts with keys: date, title, url, source, episode_date
+		List of dicts with keys: date, title, url, source, episode_date, episode_title
 	"""
 	links = []
 
@@ -112,7 +117,8 @@ def extract_links_from_ul(ul_element, episode_date):
 			'title': title,
 			'url': url,
 			'source': source,
-			'episode_date': episode_date
+			'episode_date': episode_date,
+			'episode_title': episode_title
 		})
 
 	return links
@@ -170,16 +176,115 @@ def format_entry_with_links(post, config, include_year=None):
 	if content_ul:
 		content = html2text.html2text(str(content_ul))
 
+		# Extract episode title from post.title
+		# Format: "The Ride Home - [Episode Title]"
+		pod_title_array = post.title.split(' - ')
+		if len(pod_title_array) > 1:
+			episode_title = pod_title_array[1]
+		else:
+			episode_title = pod_title_array[0]
+
 		# Extract structured links from the <ul> element
 		# Convert UTC time from feed to Pacific time
 		entry_time = time.struct_time(post.published_parsed)
 		entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
 		episode_date = entry_dt_utc.astimezone(PACIFIC_TZ).replace(tzinfo=None)
-		links = extract_links_from_ul(content_ul, episode_date)
+		links = extract_links_from_ul(content_ul, episode_date, episode_title)
 
 		return (header, content, links)
 	else:
 		return (None, None, [])
+
+
+def get_latest_date_from_db(link_type, db_path='ridehome.db'):
+	"""
+	Get the most recent date for a given link type from database.
+
+	Returns:
+		datetime or None: Most recent date, or None if no data
+	"""
+	if not os.path.exists(db_path):
+		return None
+
+	conn = sqlite3.connect(db_path)
+	cursor = conn.cursor()
+
+	cursor.execute("""
+		SELECT MAX(date)
+		FROM links
+		WHERE link_type = ?
+	""", (link_type,))
+
+	result = cursor.fetchone()[0]
+	conn.close()
+
+	if result:
+		return datetime.fromisoformat(result)
+
+	return None
+
+
+def find_new_entries(feed_entries, top_date=None, target_year=None):
+	"""
+	Filter feed entries to only those newer than top_date.
+
+	Args:
+		feed_entries: List of feedparser entry objects
+		top_date: datetime object representing the most recent entry in DB
+		target_year: Optional year to filter entries
+
+	Returns:
+		List of entries newer than top_date, in reverse chronological order
+	"""
+	def get_pacific_time(entry):
+		"""Convert feed entry to Pacific timezone datetime"""
+		entry_time = time.struct_time(entry['published_parsed'])
+		entry_dt_utc = datetime(*entry_time[:6], tzinfo=ZoneInfo("UTC"))
+		return entry_dt_utc.astimezone(PACIFIC_TZ)
+
+	if top_date is None:
+		if target_year is not None:
+			# Filter to only entries from target_year
+			filtered_entries = []
+			for entry in feed_entries:
+				entry_dt_pacific = get_pacific_time(entry)
+				if entry_dt_pacific.year == target_year:
+					filtered_entries.append(entry)
+
+			filtered_entries.sort(key=get_pacific_time, reverse=True)
+			return filtered_entries
+		else:
+			return feed_entries
+
+	new_entries = []
+	top_date_only = top_date.date()
+
+	for entry in feed_entries:
+		entry_dt_pacific = get_pacific_time(entry)
+		entry_date_only = entry_dt_pacific.date()
+
+		if entry_date_only > top_date_only:
+			new_entries.append(entry)
+
+	new_entries.sort(key=get_pacific_time, reverse=True)
+	return new_entries
+
+
+def group_entries_by_year(entries):
+	"""
+	Group feed entries by year.
+
+	Returns:
+		Dictionary mapping year (int) to list of entries for that year
+	"""
+	groups = {}
+	for entry in entries:
+		year = entry['published_parsed'].tm_year
+		if year not in groups:
+			groups[year] = []
+		groups[year].append(entry)
+
+	return groups
 
 
 def print_mode(feed_entries, config):
@@ -200,33 +305,19 @@ def print_mode(feed_entries, config):
 
 
 def update_mode(feed_entries, config, skip_db=False):
-	"""Update mode: detect new entries and update markdown file(s) and database"""
+	"""Update mode: detect new entries and update database, then regenerate markdown"""
 	if not feed_entries:
 		print("No entries in feed")
 		return
 
-	# Determine current year file path using Pacific timezone
-	# Convert first entry's UTC time to Pacific to get the correct year
+	# Determine current year using Pacific timezone
 	first_entry_time = time.struct_time(feed_entries[0].published_parsed)
 	first_entry_utc = datetime(*first_entry_time[:6], tzinfo=ZoneInfo("UTC"))
 	latest_year = first_entry_utc.astimezone(PACIFIC_TZ).year
-	file_path = f"docs/{config['output_file_prefix']}-{latest_year}.md"
 
-	# Parse top date from existing file (with year inference for longreads)
-	if config['entry_type'] == 'longreads':
-		year_context = infer_year_from_context(file_path)
-		top_date = parse_top_date(file_path, entry_type=config['entry_type'], year_context=year_context)
-	else:
-		top_date = parse_top_date(file_path, entry_type=config['entry_type'])
-
-	# Check if marker exists in file (only error if file exists but marker is missing)
-	if top_date is None and os.path.exists(file_path):
-		with open(file_path, 'r', encoding='utf-8') as f:
-			content = f.read()
-		if '<!-- AUTO-GENERATED CONTENT BELOW -->' not in content:
-			print(f"Error: No AUTO-GENERATED marker found in {file_path}")
-			print("Please add '<!-- AUTO-GENERATED CONTENT BELOW -->' marker to the file.")
-			return
+	# Get latest date from database instead of markdown files
+	link_type = 'showlink' if config['entry_type'] == 'showlinks' else 'longread'
+	top_date = get_latest_date_from_db(link_type)
 
 	# Find new entries
 	new_entries = find_new_entries(feed_entries, top_date, target_year=latest_year)
@@ -280,22 +371,6 @@ def update_mode(feed_entries, config, skip_db=False):
 	if response != 'y':
 		print("Cancelled")
 		return
-
-	# Insert entries for each year
-	for year, formatted_entries in all_formatted.items():
-		year_file_path = f"docs/{config['output_file_prefix']}-{year}.md"
-
-		# Parse year-specific top date
-		if config['entry_type'] == 'longreads':
-			year_context = infer_year_from_context(year_file_path)
-			year_top_date = parse_top_date(year_file_path, entry_type=config['entry_type'], year_context=year_context)
-		else:
-			year_top_date = parse_top_date(year_file_path, entry_type=config['entry_type'])
-
-		create_new = (year_top_date is None and not os.path.exists(year_file_path))
-
-		insert_entries(year_file_path, formatted_entries, config, create_if_missing=create_new)
-		print(f"✓ Added {len(formatted_entries)} {config['no_content_message']} to {year_file_path}")
 
 	# Insert links into database (unless --skip-db flag is set)
 	if not skip_db and all_db_links:
@@ -354,48 +429,21 @@ def update_mode(feed_entries, config, skip_db=False):
 				print(f"✓ Added {inserted} links to database (ridehome.db)")
 			if duplicates > 0:
 				print(f"  ({duplicates} duplicates skipped in database)")
+
+			# Regenerate markdown files from database
+			if inserted > 0:
+				print("\n=== Regenerating markdown files ===")
+				try:
+					result = subprocess.run(['python3', 'rebuild_all.py'],
+						capture_output=True, text=True, check=True)
+					print(result.stdout)
+				except subprocess.CalledProcessError as e:
+					print(f"⚠ Warning: Failed to regenerate markdown: {e}")
+					print(e.stdout)
+					print(e.stderr)
 		except Exception as e:
 			print(f"⚠ Warning: Failed to update database: {e}")
-			print("  Markdown files were updated successfully")
-
-
-def insert_entries(file_path, formatted_entries, config, create_if_missing=False):
-	"""Insert formatted entries above the AUTO-GENERATED marker"""
-	if create_if_missing and not os.path.exists(file_path):
-		# Create new file with header
-		header = """{% include_relative _includes/""" + config['header_template'] + """ %}
-
-""" + config['deprecation_notice'] + """
-
- <!-- AUTO-GENERATED CONTENT BELOW -->
-
-"""
-		with open(file_path, 'w', encoding='utf-8') as f:
-			f.write(header)
-
-	# Read existing file
-	with open(file_path, 'r', encoding='utf-8') as f:
-		content = f.read()
-
-	# Find marker
-	marker = '<!-- AUTO-GENERATED CONTENT BELOW -->'
-	if marker not in content:
-		raise ValueError(f"Marker not found in {file_path}")
-
-	# Split at marker
-	before_marker, after_marker = content.split(marker, 1)
-
-	# Format new entries as markdown (use config's header spacing)
-	new_content = ""
-	for header, entry_content in formatted_entries:
-		new_content += f"{header}{config['header_spacing']}{entry_content}\n\n"
-
-	# Reconstruct file: before marker + marker + new content + after marker
-	updated_content = before_marker + marker + "\n\n" + new_content + after_marker.lstrip('\n')
-
-	# Write back
-	with open(file_path, 'w', encoding='utf-8') as f:
-		f.write(updated_content)
+			print("  No changes were made")
 
 
 def process_type(feed_entries, extract_type, print_only=False, skip_db=False):

@@ -4,6 +4,12 @@ title: Automotive/Mobility
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [I tested Nvidia’s Tesla Full Self-Driving competitor — Tesla should be worried](https://www.theverge.com/news/852880/nvidia-autonomous-driving-demo-tesla-fsd) (The Verge)
+
 ## 2025
 
 ### December

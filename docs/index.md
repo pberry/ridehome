@@ -74,7 +74,6 @@
     <div class="archive-column">
       <h3>Longreads</h3>
       <ul>
-        <li><a href="longreads-2025.html">2025</a></li>
         <li><a href="longreads-2024.html">2024</a></li>
         <li><a href="longreads-2023.html">2023</a></li>
         <li><a href="longreads-2022.html">2022</a></li>
@@ -82,7 +81,6 @@
         <li><a href="longreads-2020.html">2020</a></li>
         <li><a href="longreads-2019.html">2019</a></li>
         <li><a href="longreads-2018.html">2018</a></li>
-        <li><a href="longreads.html">Pre-2018</a></li>
         <li><a href="coronavirus-daily-briefing.html">COVID-19 Archive</a></li>
       </ul>
     </div>
@@ -106,8 +104,10 @@
         <li><a href="categories/cloud-enterprise.html">Cloud/Enterprise</a></li>
         <li><a href="categories/crypto-blockchain.html">Crypto/Blockchain</a></li>
         <li><a href="categories/e-commerce-retail.html">E-commerce/Retail</a></li>
+        <li><a href="categories/fintech.html">Fintech</a></li>
         <li><a href="categories/gaming.html">Gaming</a></li>
         <li><a href="categories/hardware-chips.html">Hardware/Chips</a></li>
+        <li><a href="categories/ipo.html">Ipo</a></li>
         <li><a href="categories/other-tech-news.html">Other Tech News</a></li>
         <li><a href="categories/regulation-policy.html">Regulation/Policy</a></li>
         <li><a href="categories/security-privacy.html">Security/Privacy</a></li>
@@ -117,5 +117,4 @@
     </div>
   </div>
 </nav>
-
 

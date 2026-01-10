@@ -8,6 +8,7 @@ title: Other Tech News
 
 ### January
 
+- [Lego announces Smart Brick, the ‘most significant evolution’ in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years) (The Verge)
 - [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture) (The Verge)
 
 ## 2025
