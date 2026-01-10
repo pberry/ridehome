@@ -15,7 +15,7 @@
 
 
 
-**Tuesday, January 06 2026 - CES Day 2**
+**Tuesday, January 06 2026 - CES Day Two**
 
   * [Nvidia launches Vera Rubin AI computing platform at CES 2026](https://www.theverge.com/tech/855412/nvidia-launches-vera-rubin-ai-computing-platform-at-ces-2026) (The Verge)
   * [AMD shows off new higher performing AI chip at CES event](https://www.reuters.com/business/amd-unveils-new-chips-ces-event-las-vegas-2026-01-06/) (Reuters)
