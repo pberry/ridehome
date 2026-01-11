@@ -75,6 +75,7 @@ def generate_category_markdown(grouped_links, category_name):
     # Jekyll front matter
     lines.append('---')
     lines.append(f'title: {category_name}')
+    lines.append('layout: category')
     lines.append('---')
     lines.append('')
 

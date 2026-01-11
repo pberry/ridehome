@@ -1,5 +1,6 @@
 ---
 title: Other Tech News
+layout: category
 ---
 
 {% include categories/header.md %}
@@ -392,7 +393,7 @@ title: Other Tech News
 - [Uber, Lyft drivers to strike on Valentine’s Day over pay](https://www.washingtonpost.com/business/2024/02/14/strike-uber-lyft-doordash-protest-valentines-day/) (Washington Post)
 - [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait) (The Verge)
 - [TECHCRUNCH+ TERMINATION ("Securities")](https://www.luxcapital.com/securities/techcrunch-plus-termination)
-- [The 150 Greatest Science Fiction Movies of All Time](https://www.rollingstone.com/tv-movies/tv-movie-lists/best-sci-fi-movies-1234893930/the-martian-2013-1234931143/)
+- [The 150 Greatest Science Fiction Movies of All Time](https://www.rollingstone.com/tv-movies/tv-movie-lists/best-sci-fi-movies-1234893930/the-martian-2013-1234931143/) (Rolling Stone)
 - [LATE BLOOMER](https://archive.vanityfair.com/article/2024/2/1/late-bloomer)
 
 ### January
@@ -761,7 +762,7 @@ title: Other Tech News
 - [Tweet Storm #2](https://twitter.com/courtneymilan/status/1545597073092857856) (Twitter)
 - [Keeping Phones Running in Wartime Pushes Kyivstar to the Limit](https://www.bloomberg.com/news/articles/2022-07-04/keeping-phones-running-in-wartime-pushes-kyivstar-to-the-limit?sref=Szq5ylDR) (Bloomberg)
 - [Not Just a Tennis Podcast, but Rather ‘The’ Tennis Podcast](https://www.nytimes.com/2022/06/28/sports/tennis/tennis-podcast-wimbledon.html?partner=slack&smid=sl-shar) (NYTimes)
-- [Inside a Superfan's Secret Friendship With Eddie Van Halen](https://www.rollingstone.com/music/music-features/eddie-van-halen-secret-friendship-emails-1367678/)
+- [Inside a Superfan's Secret Friendship With Eddie Van Halen](https://www.rollingstone.com/music/music-features/eddie-van-halen-secret-friendship-emails-1367678/) (Rolling Stone)
 - [Number Three](https://entrepreneurshandbook.co/number-three-511f334d8fae) (Entrepreneurs Handbook)
 - [President Biden to award Steve Jobs with posthumous Medal of Freedom](https://9to5mac.com/2022/07/01/steve-jobs-medal-of-freedom-biden/) (9to5Mac)
 

@@ -1,5 +1,6 @@
 ---
 title: Security/Privacy
+layout: category
 ---
 
 {% include categories/header.md %}

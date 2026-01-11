@@ -1,5 +1,6 @@
 ---
 title: Cloud/Enterprise
+layout: category
 ---
 
 {% include categories/header.md %}

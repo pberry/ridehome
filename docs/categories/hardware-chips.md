@@ -1,5 +1,6 @@
 ---
 title: Hardware/Chips
+layout: category
 ---
 
 {% include categories/header.md %}

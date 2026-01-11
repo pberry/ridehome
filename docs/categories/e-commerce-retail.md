@@ -1,5 +1,6 @@
 ---
 title: E-commerce/Retail
+layout: category
 ---
 
 {% include categories/header.md %}

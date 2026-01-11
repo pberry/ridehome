@@ -1,5 +1,6 @@
 ---
 title: Automotive/Mobility
+layout: category
 ---
 
 {% include categories/header.md %}

@@ -1,5 +1,6 @@
 ---
 title: Gaming
+layout: category
 ---
 
 {% include categories/header.md %}

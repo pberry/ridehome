@@ -1,5 +1,6 @@
 ---
 title: AI/Machine Learning
+layout: category
 ---
 
 {% include categories/header.md %}
@@ -1005,7 +1006,7 @@ title: AI/Machine Learning
 - [ChatGPT essay cheats are a menace to us all](https://www.ft.com/content/cde75f58-20b9-460c-89fb-e64fe06e24b9) (FT)
 - [OpenAI Researchers, Including Ally of Sutskever, Fired for Alleged Leaking](https://www.theinformation.com/articles/openai-researchers-including-ally-of-sutskever-fired-for-alleged-leaking?rc=64g9cw) (The Information)
 - [Is Google's AI Actually Discovering 'Millions of New Materials?'](https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/) (404 Media)
-- [AI-Music Arms Race: Meet Udio, the Other ChatGPT for Music](https://www.rollingstone.com/music/music-features/udio-ai-music-chatgpt-suno-1235001675/)
+- [AI-Music Arms Race: Meet Udio, the Other ChatGPT for Music](https://www.rollingstone.com/music/music-features/udio-ai-music-chatgpt-suno-1235001675/) (Rolling Stone)
 - [Adobe Is Buying Videos for $3 Per Minute to Build AI Model](https://www.bloomberg.com/news/articles/2024-04-10/adobe-is-buying-video-clips-for-3-per-minute-to-build-ai-model?sref=Szq5ylDR) (Bloomberg)
 - [Google Launches Coding AIs That Could Rival Microsoft's Github Copilot](https://www.pcmag.com/news/google-launches-gemini-coding-ai-could-rival-microsoft-github-copilot) (PCMag)
 - [Apple's new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work) (AppleInsider)

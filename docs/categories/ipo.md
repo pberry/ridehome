@@ -1,5 +1,6 @@
 ---
 title: IPO
+layout: category
 ---
 
 {% include categories/header.md %}

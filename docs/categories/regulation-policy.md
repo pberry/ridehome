@@ -1,5 +1,6 @@
 ---
 title: Regulation/Policy
+layout: category
 ---
 
 {% include categories/header.md %}

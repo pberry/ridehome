@@ -1,5 +1,6 @@
 ---
 title: Streaming/Entertainment
+layout: category
 ---
 
 {% include categories/header.md %}

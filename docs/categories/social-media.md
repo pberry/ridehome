@@ -1,5 +1,6 @@
 ---
 title: Social Media
+layout: category
 ---
 
 {% include categories/header.md %}

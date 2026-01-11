@@ -1,5 +1,6 @@
 ---
 title: FinTech
+layout: category
 ---
 
 {% include categories/header.md %}

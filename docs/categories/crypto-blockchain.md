@@ -1,5 +1,6 @@
 ---
 title: Crypto/Blockchain
+layout: category
 ---
 
 {% include categories/header.md %}
@@ -610,7 +611,7 @@ title: Crypto/Blockchain
 - [LooksRare Has Reportedly Generated $8B in Ethereum NFT Wash Trading](https://decrypt.co/91510/looksrare-has-reportedly-generated-8b-ethereum-nft-wash-trading) (Decrypt)
 - [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) (YouTube)
 - [Three things web3 should fix in 2022](https://www.platformer.news/p/three-things-web3-should-fix-in-2022)
-- [The NFT Art World Wouldn’t Be the Same Without This Woman’s ‘Wide-Awake Hallucinations’](https://www.rollingstone.com/culture/culture-features/seneca-bored-ape-yacht-club-digital-art-nfts-1280341/)
+- [The NFT Art World Wouldn’t Be the Same Without This Woman’s ‘Wide-Awake Hallucinations’](https://www.rollingstone.com/culture/culture-features/seneca-bored-ape-yacht-club-digital-art-nfts-1280341/) (Rolling Stone)
 - [Facebook’s Cryptocurrency Venture to Wind Down, Sell Assets](https://www.wsj.com/articles/facebooks-cryptocurrency-venture-to-wind-down-sell-assets-11643248799?mod=djemalertNEWS) (WSJ)
 - [Mark Zuckerberg’s Stablecoin Ambitions Unravel With Diem Sale Talks](https://www.bloomberg.com/news/articles/2022-01-25/zuckerberg-s-stablecoin-ambitions-unravel-with-diem-sale-talks?sref=Szq5ylDR) (Bloomberg)
 - [Solana Slides 17% to Lead Losses Amid Crypto Market Plunge](https://www.coindesk.com/markets/2022/01/24/solana-slides-17-to-lead-losses-amid-crypto-market-plunge/) (CoinDesk)
