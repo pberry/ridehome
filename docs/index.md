@@ -59,9 +59,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(289 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(113 links)</span></li>
-        <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(80 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(289 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(113 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>
   </div>

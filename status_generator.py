@@ -15,6 +15,11 @@ from collections import Counter
 from categories import TOPIC_KEYWORDS
 
 
+def category_to_slug(category_name):
+    """Convert category name to URL-safe slug."""
+    return category_name.lower().replace('/', '-').replace(' ', '-')
+
+
 def categorize_topic(title):
     """
     Categorize a link title into a topic based on keyword matching.
@@ -155,7 +160,8 @@ def format_status_section(status_data):
     # Build topics list
     topics_html = ""
     for i, (topic, count) in enumerate(status_data['top_topics'], 1):
-        topics_html += f'        <li><span class="stat-label">{topic}</span> <span class="stat-value">({count:,} links)</span></li>\n'
+        slug = category_to_slug(topic)
+        topics_html += f'        <li><a href="categories/{slug}.html" class="stat-label">{topic}</a> <span class="stat-value">({count:,} links)</span></li>\n'
 
     status = f"""<section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
