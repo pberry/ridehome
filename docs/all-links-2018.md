@@ -64,7 +64,7 @@
 
   * [As Facebook Raised a Privacy Wall, It Carved an Opening for Tech Giants](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html) (NYTimes)
   * [ELON MUSK UNVEILS THE BORING COMPANY’S CAR-FLINGING TUNNEL](https://www.wired.com/story/elon-musk-boring-company-car-flinging-tunnel/) (Wired)
-  * [Elon Musk unveils his company’s first tunnel in Hawthorne, and it’s not a smooth ride](https://www.latimes.com/local/lanow/la-me-ln-elon-musk-tunnel-20181218-story.html) (LATimes)
+  * [Elon Musk unveils his company’s first tunnel in Hawthorne, and it’s not a smooth ride](https://www.latimes.com/local/lanow/la-me-ln-elon-musk-tunnel-20181218-story.html) (LA Times)
   * [Apple tweaks iOS animation in China in attempt to avoid sales ban](https://www.theverge.com/2018/12/19/18148645/apple-iphone-ios-12-1-2-china-sales-ban-qualcomm) (The Verge)
   * [Zwift, which turns indoor cycling workouts into multiplayer games, raises $120M](https://techcrunch.com/2018/12/19/zwift-which-turns-indoor-cycling-workouts-into-multiplayer-games-raises-120m/) (TechCrunch)
   * [This free online tool uses AI to quickly remove the background from images](https://www.theverge.com/2018/12/19/18148020/remove-bg-ai-background-foreground-without-photoshop) (The Verge)
@@ -100,7 +100,7 @@
 
   * [Bitcoin scammers send bomb threats worldwide, causing evacuations](https://www.theverge.com/2018/12/13/18139724/bitcoin-bomb-threat-scam-email-us-police-department-investigation-evacuations) (The Verge)
   * [Facebook bug exposed up to 6.8M users’ unposted photos to apps](https://techcrunch.com/2018/12/14/facebook-photo-bug/) (TechCrunch)
-  * [Irish regulator to investigate Facebook after new data leak](https://www.ft.com/content/d796b5a8-ffc1-11e8-ac00-57a2a826423e) (Financial Times)
+  * [Irish regulator to investigate Facebook after new data leak](https://www.ft.com/content/d796b5a8-ffc1-11e8-ac00-57a2a826423e) (FT)
   * [Apple Says China iPhone Ban Would Force Settlement With Qualcomm](https://www.bloomberg.com/news/articles/2018-12-14/apple-says-china-iphone-ban-would-force-settlement-with-qualcomm) (Bloomberg)
   * [Apple Music removes ability for artists to post to Connect, posts removed from Artist Pages and For You](https://9to5mac.com/2018/12/13/apple-music-connect-ping/) (9to5Mac)
   * [Ming-Chi Kuo cuts first quarter iPhone sales estimates by 20%, says iPhone XR demand is low](https://9to5mac.com/2018/12/14/iphone-xr-demand-iphone-sales/) (9to5Mac)
@@ -272,7 +272,7 @@
 **Monday, November 26 2018 - Apple Visits the Supreme Court**
 
   * [U.S. top court leans toward allowing Apple App Store antitrust suit](https://www.reuters.com/article/usa-court-apple-int/u-s-top-court-leans-toward-allowing-apple-app-store-antitrust-suit-idUSKCN1NV161) (Reuters)
-  * [My Amicus Brief](https://avc.com/2018/11/my-amicus-brief/) (AVC/Fred Wilson)
+  * [My Amicus Brief](https://avc.com/2018/11/my-amicus-brief/) (AVC)
   * [Parliament seizes cache of Facebook internal papers](https://www.theguardian.com/technology/2018/nov/24/mps-seize-cache-facebook-internal-papers) (The Guardian)
   * [Internal documents Facebook has fought to keep private obtained by UK Parliament](https://www.cnn.com/2018/11/24/us/six4three-facebook-uk-parliament/index.html) (CNN)
   * [Atari CEO interview — How Rollercoaster Tycoon revival saved the company](https://venturebeat.com/2018/11/25/atari-ceo-interview-how-rollercoaster-tycoon-revival-saved-the-company/) (VentureBeat)
@@ -381,7 +381,7 @@
   * [Google says Android will natively support ‘foldables’ to limit fragmentation](https://www.theverge.com/2018/11/7/18071720/google-android-foldables-fragmentation-displays) (The Verge)
   * [Amazon is mailing a printed holiday toy catalog to millions of customers](https://www.cnbc.com/2018/11/06/amazon-begins-mailing-printed-holiday-toy-catalog.html) (CNBC)
   * [Google Plans Large New York City Expansion](https://www.wsj.com/articles/google-plans-large-new-york-city-expansion-1541636579) (WSJ)
-  * [The Anchor Tenant](https://avc.com/2018/11/the-anchor-tenant/) (Fred Wilson/AVC)
+  * [The Anchor Tenant](https://avc.com/2018/11/the-anchor-tenant/) (Fred Wilson)
   * [Google's Gift to NYC](https://continuations.com/post/32040035/googles-gift-to-nyc/amp?__twitter_impression=true) (Albert Wenger)
   * [Ford buys electric scooter startup Spin](https://techcrunch.com/2018/11/07/ford-buys-electric-scooter-startup-spin/) (TechCrunch)
   * [Comcast is developing a video-streaming platform for broadband-only customers](https://www.cnbc.com/2018/11/07/comcast-making-video-streaming-box-for-broadband-only-customers.html) (CNBC)
@@ -432,11 +432,11 @@
   * [Apple results: A record September quarter with $62.9B revenue](https://sixcolors.com/post/2018/11/reminder-apple-financial-results-released-today/) (Six Colors)
   * [Apple’s price hike strategy is paying off](https://www.theverge.com/2018/11/1/18053012/apple-q4-earnings-report-iphone-ipad-macbook-price-bump) (The Verge)
   * [Flickr will end 1TB of free storage and limit free users to 1,000 photos](https://www.theverge.com/2018/11/1/18051950/flickr-1000-photo-limit-free-accounts-changes-pro-subscription-smugmug) (The Verge)
-  * [Several thoughts from your old pal Jason](https://twitter.com/textfiles/status/1058012283761319936?s=11) (Jason Scott/Twitter)
+  * [Several thoughts from your old pal Jason](https://twitter.com/textfiles/status/1058012283761319936?s=11) (Twitter)
   * [The Cartoon That Invented Internet Culture Gets a High-Definition Rerelease](http://nymag.com/intelligencer/2018/11/don-hertzfeldts-famous-cartoon-rejected-is-in-hd.html) (Intelligencer)
   * [Private messages from 81,000 hacked Facebook accounts for sale](https://www.bbc.com/news/technology-46065796) (BBC News)
   * [It’s not your imagination: Phone battery life is getting worse](https://www.washingtonpost.com/technology/2018/11/01/its-not-your-imagination-phone-battery-life-is-getting-worse/?utm_term=.9aad01b3e25b) (Washington Post)
-  * [‘How the Internet Happened’ Review: Building a World Online](https://www.wsj.com/articles/how-the-internet-happened-review-building-a-world-online-1541111101) (Wall Street Journal)
+  * [‘How the Internet Happened’ Review: Building a World Online](https://www.wsj.com/articles/how-the-internet-happened-review-building-a-world-online-1541111101) (WSJ)
 
 
 
@@ -481,11 +481,11 @@
   * [Forget Watson, the Red Hat acquisition may be the thing that saves IBM](https://techcrunch.com/2018/10/28/forget-watson-the-red-hat-acquisition-may-be-the-thing-that-saves-ibm/) (TechCrunch)
   * [IBM’s Old Playbook](https://stratechery.com/2018/ibms-old-playbook/) (Stratechery)
   * [Copyright Law Just Got Better for Video Game History](https://motherboard.vice.com/en_us/article/zm9az5/copyright-law-just-got-better-for-video-game-history) (Motherboard)
-  * [Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies](https://s3.amazonaws.com/public-inspection.federalregister.gov/2018-23241.pdf) (PDF - US Copyright Office, Library of Congress)
+  * [Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies](https://s3.amazonaws.com/public-inspection.federalregister.gov/2018-23241.pdf) (PDF)
   * [Here are the 20 games shipping with the PlayStation Classic](https://techcrunch.com/2018/10/29/here-are-the-20-games-shipping-with-the-playstation-classic) (TechCrunch)
   * [DJI's latest Mavic 2 drone is built for search and rescue](https://www.engadget.com/2018/10/29/dji-mavic-2-enterprise-drone-search-rescue/) (Engadget)
   * [Two more platforms have suspended Gab in the wake of Pittsburgh shooting](https://www.theverge.com/2018/10/28/18034126/gab-social-network-stripe-joyent-deplatforming-hate-speech-pittsburgh-shooting) (TechCrunch)
-  * [On Gab, an Extremist-Friendly Site, Pittsburgh Shooting Suspect Aired His Hatred in Full](https://www.nytimes.com/2018/10/28/us/gab-robert-bowers-pittsburgh-synagogue-shootings.html) (New York Times)
+  * [On Gab, an Extremist-Friendly Site, Pittsburgh Shooting Suspect Aired His Hatred in Full](https://www.nytimes.com/2018/10/28/us/gab-robert-bowers-pittsburgh-synagogue-shootings.html) (NYTimes)
 
 
 
@@ -494,18 +494,18 @@
   * [Twitter Stock Soars after Strong Earnings Beat](https://www.cnbc.com/2018/10/25/twitter-q3-2018-earnings.html) (CNBC)
   * [Tesla Shares Soar on Surprise Third-Quarter Profit That Beats Wall Street Expectations](https://www.cnbc.com/2018/10/24/tesla-earnings-q3-2018.html) (CNBC)
   * [Microsoft Reports $29.1 Billion in Q1 2019 Revenue: Azure up 76%, Surface up 14%, and Windows up 3%](https://venturebeat.com/2018/10/24/microsoft-earnings-q1-2019/) (VentureBeat)
-  * [Amazon Squeezes Out More Profit as Sales Growth Slows](https://www.nytimes.com/2018/10/25/technology/amazon-quarterly-earnings.html?smid=tw-nytimesbits&smtyp=cur) (New York Times)
+  * [Amazon Squeezes Out More Profit as Sales Growth Slows](https://www.nytimes.com/2018/10/25/technology/amazon-quarterly-earnings.html?smid=tw-nytimesbits&smtyp=cur) (NYTimes)
   * [Snap Hits All-Time Low After Lackluster Earnings Report](https://www.cnbc.com/2018/10/25/snap-earnings-q3-2018.html) (CNBC)
   * [Copyright Office Ruling Issues Sweeping Right to Repair Reforms](https://ifixit.org/blog/11951/1201-copyright-final-rule/) (iFixit)
   * [In Groundbreaking Decision, Feds Say Hacking DRM to Fix Your Electronics Is Legal](https://motherboard.vice.com/en_us/article/xw9bwd/1201-exemptions-right-to-repair) (Motherboard)
   * [How China's GPS 'Rival' Beidou is Plotting to Go Global](https://www.bbc.com/news/technology-45471959) (BBC News)
-  * [AI Art at Christie’s Sells for $432,500](https://www.nytimes.com/2018/10/25/arts/design/ai-art-sold-christies.html) (New York Times)
+  * [AI Art at Christie’s Sells for $432,500](https://www.nytimes.com/2018/10/25/arts/design/ai-art-sold-christies.html) (NYTimes)
 
 
 
 **Thursday, October 25 2018 - The Andy Rubin Scandal**
 
-  * [How Google Protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html) (New York Times)
+  * [How Google Protected Andy Rubin, the ‘Father of Android’](https://www.nytimes.com/2018/10/25/technology/google-sexual-harassment-andy-rubin.html) (NYTimes)
   * [Uber’s Secret Restaurant Empire](https://www.bloomberg.com/news/articles/2018-10-24/uber-s-secret-empire-of-virtual-restaurants) (Bloomberg)
   * [A New Approach to Our Work on Drip](https://www.kickstarter.com/blog/a-new-approach-to-our-work-on-drip) (Kickstarter Blog)
   * [Kickstarter to End Drip, Fund New Platform with XOXO Festival Creators](https://www.theverge.com/2018/10/24/18019720/kickstarter-drip-xoxo-andy-baio-mcmillan) (The Verge)
@@ -545,7 +545,7 @@
   * [Who Are My Investors?](https://avc.com/2018/10/who-are-my-investors/) (AVC)
   * [Thieves steal a Tesla Model S by hacking the entry fob](https://www.engadget.com/2018/10/22/tesla-model-s-theft-keyfob-hack/) (Engadget)
   * [A tech executive's video of his Tesla Model S being hacked and stolen is going viral](https://www.businessinsider.com/tesla-model-s-stolen-antony-kennedy-video-2018-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29) (Business Insider)
-  * [Video of the Tesla theft](https://www.youtube.com/watch?v=odG2GX4_cUQ)
+  * [Video of the Tesla theft](https://www.youtube.com/watch?v=odG2GX4_cUQ) (YouTube)
   * [Google Home Hub review](https://www.cnet.com/reviews/google-home-hub-review/) (CNET)
   * [Google Home Hub review—Awesome hardware for Google’s nascent smart display software](https://arstechnica.com/gadgets/2018/10/google-home-hub-review-a-minimum-viable-product-with-potential/) (Ars Technica)
   * [Google Home Hub review: A more personal smart display](https://www.engadget.com/2018/10/22/google-home-hub-review/) (Engadget)
@@ -554,10 +554,10 @@
 
 **Friday, October 19 2018 - Google Wants China, But Will China Want Google?**
 
-  * [Facebook Hires Nick Clegg, Former UK Deputy Prime Minister, as Head of Global Affairs and Communications, to Succeed Elliot Schrage](https://t.co/l5IHYRU0H5) (Financial Times)
+  * [Facebook Hires Nick Clegg, Former UK Deputy Prime Minister, as Head of Global Affairs and Communications, to Succeed Elliot Schrage](https://t.co/l5IHYRU0H5) (FT)
   * [Twitter Suspends Pro-Saudi Bots Spreading Propaganda About the Murder of Jamal Khashoggi](https://gizmodo.com/twitter-suspends-pro-saudi-bots-spreading-propaganda-ab-1829859773) (Gizmodo)
   * [Twitter Pulls Down Bot Network That Pushed Pro-Saudi Talking Points about Disappeared Journalist](https://www.nbcnews.com/tech/tech-news/exclusive-twitter-pulls-down-bot-network-pushing-pro-saudi-talking-n921871) (NBC News)
-  * [Powerful Executives Have Stepped Away From the Saudis. Not SoftBank's.](https://www.nytimes.com/2018/10/17/business/saudi-investment-conference-masayoshi-son.html) (New York Times)
+  * [Powerful Executives Have Stepped Away From the Saudis. Not SoftBank's.](https://www.nytimes.com/2018/10/17/business/saudi-investment-conference-masayoshi-son.html) (NYTimes)
   * [Google App Suite Costs as Much as $40 Per Phone Under New EU Android Deal](https://www.theverge.com/2018/10/19/17999366/google-eu-android-licensing-terms) (The Verge)
   * [Google Wants China. Will Chinese Users Want Google?](https://www.wired.com/story/google-wants-china-will-chinese-users-want-google/) (Wired)
 
@@ -566,7 +566,7 @@
 **Thursday, October 18 2018 - Apple Says: No... Sleep... Till Brooklyn!**
 
   * [Spotify Premium gets personalized artist radio stations and better search](https://www.theverge.com/2018/10/18/17992758/spotify-premium-personalized-artist-radio-search-update-2018) (The Verge)
-  * [Twitter makes it easier to see enforcement taken on reported tweets](https://techcrunch.com/2018/10/17/twitter-makes-it-easier-to-see-enforcement-taken-on-reported-tweets/) (Tech Crunch)
+  * [Twitter makes it easier to see enforcement taken on reported tweets](https://techcrunch.com/2018/10/17/twitter-makes-it-easier-to-see-enforcement-taken-on-reported-tweets/) (TechCrunch)
   * [Facebook Finds Hack Was Done by Spammers, Not Foreign State](https://www.wsj.com/articles/facebook-tentatively-concludes-recent-hack-was-perpetrated-by-spammers-1539821869) (WSJ)
   * [Android Creator’s Startup Essential Products Cuts About 30% of Staff](https://www.bloomberg.com/news/articles/2018-10-17/andy-rubin-s-startup-essential-products-cuts-about-30-of-staff) (Bloomberg)
   * [Inside the $2.6 billion subscription box wars](https://www.fastcompany.com/90248232/inside-the-2-6-billion-subscription-box-wars) (Fast Company)
@@ -593,7 +593,7 @@
   * [GOOGLE PIXEL 3 AND 3 XL REVIEW: THE BEST CAMERA GETS A BETTER PHONE](https://www.theverge.com/2018/10/15/17973484/google-pixel-3-xl-review-camera-features-screen-battery-price-photos) (The Verge)
   * [The Google Pixel 3 XL review](https://techcrunch.com/2018/10/15/google-pixel-3-xl-review/) (TechCrunch)
   * [Google Pixel 3 Review: The Other Way to Make a Killer Phone](https://gizmodo.com/google-pixel-3-review-the-other-way-to-make-a-killer-p-1829749807) (Gizmodo)
-  * [Paul G. Allen, Microsoft’s Co-Founder, Is Dead at 65](https://www.nytimes.com/2018/10/15/obituaries/paul-allen-dead.html) (NyTimes)
+  * [Paul G. Allen, Microsoft’s Co-Founder, Is Dead at 65](https://www.nytimes.com/2018/10/15/obituaries/paul-allen-dead.html) (NYTimes)
 
 
 
@@ -606,7 +606,7 @@
   * [THE NEW PALM IS A TINY PHONE TO KEEP YOU AWAY FROM YOUR PHONE](https://www.theverge.com/2018/10/15/17974850/new-palm-smartphone-android-lifemode-time-well-spent-verizon) (The Verge)
   * [GENOME HACKERS SHOW NO ONE’S DNA IS ANONYMOUS ANYMORE](https://www.wired.com/story/genome-hackers-show-no-ones-dna-is-anonymous-anymore/) (Wired)
   * [Blockchain isn't about democracy and decentralisation – it's about greed](https://www.theguardian.com/technology/2018/oct/15/blockchain-democracy-decentralisation-bitcoin-price-cryptocurrencies) (The Guardian)
-  * [Tweetstorm about Google+ from](https://twitter.com/morganknutson/status/1049523067506966529)
+  * [Tweetstorm about Google+ from](https://twitter.com/morganknutson/status/1049523067506966529) (Twitter)
 
 
 
@@ -715,7 +715,7 @@
 
   * [Amazon raises minimum wage to $15 for all US employees](https://www.cnbc.com/2018/10/02/amazon-raises-minimum-wage-to-15-for-all-us-employees.html) (CNBC)
   * [The Story of Henry Ford's $5 a Day Wages: It's Not What You Think](https://www.forbes.com/sites/timworstall/2012/03/04/the-story-of-henry-fords-5-a-day-wages-its-not-what-you-think/#7c39df1f766d) (Forbes)
-  * [Tesla delivered over 55,000 Model 3s in Q3](https://www.cnet.com/roadshow/news/tesla-q3-production/#ftag=COS-05-10aaa2h) (Road Show/CNET)
+  * [Tesla delivered over 55,000 Model 3s in Q3](https://www.cnet.com/roadshow/news/tesla-q3-production/#ftag=COS-05-10aaa2h) (Road Show)
   * [Three US universities now let students use iPhone and Apple Watch as their campus ID card](https://9to5mac.com/2018/10/02/campus-id-cards-apple-wallet/) (9to5Mac)
   * [THESE TECH COMPANIES WILL NEED MORE WOMEN ON THEIR BOARDS](https://www.wired.com/story/these-tech-companies-will-need-more-women-on-boards/) (Wired)
   * [Google's Project Stream lets you play Assassin's Creed Odyssey in Chrome](https://www.cnet.com/news/googles-project-stream-lets-you-play-assassins-creed-odyssey-in-chrome/) (CNET)
@@ -740,7 +740,7 @@
 **Friday, September 28 2018 - Facebook Breached, Musk Faces A Ban**
 
   * [Slack Actively Preparing for Early 2019 IPO](https://www.wsj.com/articles/slack-actively-preparing-for-early-2019-ipo-1538137541) (WSJ)
-  * [Coinbase now lets users buy 'bundles](https://techcrunch.com/2018/09/27/coinbase-bundles-asset-pages/)
+  * [Coinbase now lets users buy 'bundles](https://techcrunch.com/2018/09/27/coinbase-bundles-asset-pages/) (TechCrunch)
   * [Compound launches easy way to short cryptocurrencies](https://techcrunch.com/2018/09/27/short-ethereum-zrx-bat-rep/) (TechCrunch)
   * [Tesla's Musk pulled the plug on a settlement with the SEC at the last minute](https://www.cnbc.com/2018/09/28/teslas-musk-pulled-plug-on-settlement-with-sec-at-last-minute.html) (CNBC)
 
@@ -820,7 +820,7 @@
   * [Amazon becoming 3rd-biggest digital ad platform](https://www.axios.com/amazon-becoming-3rd-biggest-digital-ad-platform-37338b9c-54f5-42cd-b081-79698e89f559.html) (Axios)
   * [Google Home Mini was the best-selling smart speaker in Q2](https://techcrunch.com/2018/09/19/google-home-mini-was-the-best-selling-smart-speaker-in-q2/) (TechCrunch)
   * [Sony is launching a PlayStation Classic console this December loaded with 20 games](https://www.theverge.com/2018/9/19/17877890/sony-playstation-classic-console-20-games-release-date-pricing) (The Verge)
-  * [Evernote just slashed 54 jobs, or 15 percent of its workforce](https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/)
+  * [Evernote just slashed 54 jobs, or 15 percent of its workforce](https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/) (TechCrunch)
   * [HQ expands beyond trivia with new ‘Wheel of Fortune’-type game](https://digiday.com/media/hq-expands-beyond-trivia-new-wheel-fortune-game/) (Digiday)
   * [Google Maps for CarPlay in iOS 12 is now available](https://9to5mac.com/2018/09/18/google-maps-for-carplay-in-ios-12-is-now-available/) (9to5Mac)
   * [iOS 12.1 references ‘iPad2018Fall’, all but confirming new iPad Pro debut next month](https://9to5mac.com/2018/09/18/ios-12-1-new-ipads-coming-this-year/) (9to5Mac)
@@ -853,10 +853,10 @@
 
   * [Google Employees Are Quitting Over The Company’s Secretive China Search Project](https://www.buzzfeednews.com/article/carolineodonovan/google-project-dragonfly-employees-quitting) (Buzzfeed News)
   * [Google’s internal political battles keep spilling out into the public](https://www.theverge.com/2018/9/13/17853192/google-leaked-video-breitbart-2016-election-politics) (The Verge)
-  * [The new heart-monitoring capabilities on the Apple Watch aren’t all that](https://qz.com/1389202/the-apple-watch-series-4-health-features-arent-all-that-impressive/)
+  * [The new heart-monitoring capabilities on the Apple Watch aren’t all that](https://qz.com/1389202/the-apple-watch-series-4-health-features-arent-all-that-impressive/) (Quartz)
   * [iPhone XS Max and Apple Watch Series 4 shipping dates now slipping into October](https://9to5mac.com/2018/09/14/iphone-xs-max-and-apple-watch-series-4-shipping-dates-now-slipping-into-october/) (9to5Mac)
   * [Apple Is Deleting Bought Films From iTunes Accounts - And Don't Expect A Refund](https://www.forbes.com/sites/johnarcher/2018/09/13/apple-is-deleting-bought-films-from-itunes-accounts-and-dont-expect-a-refund/#71c897b95f74) (Forbes)
-  * [Yes, You Can Name A Website “F***nazis.us”](https://www.eff.org/deeplinks/2018/09/yes-you-can-name-website-fucknazisus)
+  * [Yes, You Can Name A Website “F***nazis.us”](https://www.eff.org/deeplinks/2018/09/yes-you-can-name-website-fucknazisus) (EFF)
   * [HOW THE WEATHER CHANNEL MADE THAT INSANE STORM SURGE ANIMATION](https://www.wired.com/story/weather-channel-hurricane-florence-storm-surge-graphic/) (Wired)
 
 
@@ -909,7 +909,7 @@
 
   * [Verizon’s Internet Boss Tim Armstrong in Talks to Leave](https://www.wsj.com/articles/verizons-internet-boss-in-talks-to-leave-1536321413) (WSJ)
   * [Tim Armstrong is headed out of Verizon. What happens to the $9 billion content company he is leaving behind?](https://www.recode.net/2018/9/7/17831210/tim-armstrong-leaving-verizon-oath-yahoo-aol-spinout) (Recode)
-  * [Charlie Warzel Twitter Thread](https://twitter.com/cwarzel/status/1037805443605643264)
+  * [Charlie Warzel Twitter Thread](https://twitter.com/cwarzel/status/1037805443605643264) (Twitter)
   * [HOW THAT MAGICAL JACK DORSEY–ALEX JONES PHOTO HAPPENED](https://www.wired.com/story/jack-dorsey-alex-jones-photo/) (Wired)
   * [A Facebook scientist tied to Cambridge Analytica has quietly left Facebook](https://www.fastcompany.com/90231904/a-facebook-employee-tied-to-cambridge-analytica-quietly-left-facebook) (Fast Company)
   * [Weed, whiskey, Tesla and a flamethrower: Elon Musk meets Joe Rogan](https://money.cnn.com/2018/09/07/technology/elon-musk-joe-rogan/index.html) (CNN Tech)
@@ -1020,7 +1020,7 @@
   * [Why Elon Musk Reversed Course on Taking Tesla Private](https://www.nytimes.com/2018/08/25/business/elon-musk-tesla-private.html) (NYTimes)
   * [Epic's first Fortnite Installer allowed hackers to download and install anything on your Android phone silently](https://www.androidcentral.com/epic-games-first-fortnite-installer-allowed-hackers-download-install-silently) (Android Central)
   * [Magic Leap is a Tragic Heap](http://palmerluckey.com/magic-leap-is-a-tragic-heap/) (PalmerLuckey.com)
-  * [Uber plans shift from cars to bikes for shorter trips](https://www.ft.com/content/986d878a-a7c4-11e8-8ecf-a7ae1beff35b) (The Financial Times)
+  * [Uber plans shift from cars to bikes for shorter trips](https://www.ft.com/content/986d878a-a7c4-11e8-8ecf-a7ae1beff35b) (FT)
 
 
 
@@ -1041,7 +1041,7 @@
   * [DJI Mavic 2 Pro, Mavic 2 Zoom add Hasselblad quality and optical zoom to folding drones](https://www.cnet.com/reviews/dji-mavic-2-pro-preview/) (CNET)
   * [How the U.S. Has Failed to Protect the 2018 Election--and Four Ways to Protect 2020](https://www.lawfareblog.com/how-us-has-failed-protect-2018-election-and-four-ways-protect-2020) (Lawfare)
   * [Apple and Google Face Growing Revolt Over App Store ‘Tax’](https://www.bloomberg.com/news/articles/2018-08-22/apple-and-google-face-growing-revolt-over-app-store-tax) (Bloomberg)
-  * [The 30% Tax](https://avc.com/2018/08/the-30-tax/) (Fred Wilson/AVC)
+  * [The 30% Tax](https://avc.com/2018/08/the-30-tax/) (Fred Wilson)
 
 
 
@@ -1072,7 +1072,7 @@
 **Monday, August 20 2018 - Fitness Trackers Ain't Dead Yet**
 
   * [With Charge 3, Fitbit blurs the smartwatch line](https://techcrunch.com/2018/08/20/with-charge-3-fitbit-blurs-the-smartwatch-line/) (TechCrunch)
-  * [EU Weighs Regulations For Terrorist Content](https://www.ft.com/content/a4068e88-a22a-11e8-85da-eeb7a9ce36e4) (Financial Times)
+  * [EU Weighs Regulations For Terrorist Content](https://www.ft.com/content/a4068e88-a22a-11e8-85da-eeb7a9ce36e4) (FT)
   * [‘Minecraft: Education Edition’ comes to iPad, as education features expand to mainstream version of game](https://www.geekwire.com/2018/minecraft-education-edition-comes-apples-ipad-education-features-expand-mainstream-version-game/) (GeekWire)
   * [Karma raises $12 million for marketplace that helps restaurants and supermarkets reduce food waste](https://venturebeat.com/2018/08/15/karma-raises-12-million-for-marketplace-that-helps-restaurants-and-supermarkets-reduce-food-waste/) (Venture Beat)
   * [Arm Unveils Client CPU Performance Roadmap Through 2020 - Taking Intel Head On](https://www.anandtech.com/show/13226/arm-unveils-client-cpu-performance-roadmap) (AnAndTech)
@@ -1271,7 +1271,7 @@
 
 **Tuesday, July 24 2018 - Laptops Are Too Thin and Too Light!**
 
-  * [Alphabet surges to all-time high as Wall Street says internet giant’s big bets are ‘paying off’ (CNBC)](https://www.cnbc.com/2018/07/24/alphabet-set-to-hit-all-time-high-as-wall-street-says-internet-giants.html)
+  * [Alphabet surges to all-time high as Wall Street says internet giant’s big bets are ‘paying off’ (CNBC)](https://www.cnbc.com/2018/07/24/alphabet-set-to-hit-all-time-high-as-wall-street-says-internet-giants.html) (CNBC)
   * [Alphabet’s experimental investments in the future continue to cost it a fortune](https://www.theverge.com/2018/7/23/17604936/alphabet-google-other-bets-waymo-nest-future-investments-costs-fortune) (The Verge)
   * [Google CEO Sundar Pichai revealed a jaw-dropping fact about its translation app that shows how much money is still sitting on the table](https://www.businessinsider.com/sundar-pichai-google-translate-143-billion-words-daily-2018-7) (Business Insider)
   * [Miles is an app that tracks your every move in exchange for deals and discounts](https://www.theverge.com/2018/7/24/17604438/miles-app-tracking-transportation-deals-discounts) (The Verge)
@@ -1390,12 +1390,12 @@
 
 **Tuesday, July 03 2018 - Dell Returns!**
 
-  * [Dell to Return to Public Markets With Tracking Stock (NYTimes)](https://www.nytimes.com/2018/07/02/business/dealbook/dell-deal-vmware.html)
+  * [Dell to Return to Public Markets With Tracking Stock (NYTimes)](https://www.nytimes.com/2018/07/02/business/dealbook/dell-deal-vmware.html) (NYTimes)
   * [Alphabet adds to transport bets with scooter deal](https://www.ft.com/content/821f4410-7bf4-11e8-bc55-50daf11b720d) (FT)
   * [N.S.A. Purges Hundreds of Millions of Call and Text Records](https://www.nytimes.com/2018/06/29/us/politics/nsa-call-records-purged.html) (NYTimes)
   * [IPO Market Posts Blistering First Half](https://www.wsj.com/articles/ipo-market-posts-blistering-first-half-1530523801?redirect=amp) (WSJ)
   * [In Q2 2018, Global VC Scales Tipped In Favor Of Chinese Startups Over North America](https://news.crunchbase.com/news/in-q2-2018-global-vc-scales-tipped-in-favor-chinese-startups-over-north-america/) (CrunchBase)
-  * [These are the top iPhone apps of all time](https://techcrunch.com/2018/07/02/these-are-the-top-iphone-apps-of-all-time/) (Tech Crunch)
+  * [These are the top iPhone apps of all time](https://techcrunch.com/2018/07/02/these-are-the-top-iphone-apps-of-all-time/) (TechCrunch)
   * [“Perhaps it is simpler to say that Intel…was disrupted”](https://medium.learningbyshipping.com/intel-disruption-594f806cfc21) (Steven Sinofsky)
 
 
@@ -1436,8 +1436,8 @@
   * [Uber wins the right to keep operating in London](https://www.theverge.com/2018/6/26/17500510/uber-london-license-appeal-court-decision) (The Verge)
   * [Wi-Fi security is starting to get its biggest upgrade in over a decade](https://www.theverge.com/circuitbreaker/2018/6/26/17501594/wpa3-wifi-security-certification) (The Verge)
   * [Fortnite is generating more revenue than any other free game ever](https://www.recode.net/2018/6/26/17502072/fortnite-revenue-game-growth-318-million) (ReCode)
-  * [Intel and the Danger of Integration](https://stratechery.com/2018/intel-and-the-danger-of-integration/) (Ben Thompson/Stratechery)
-  * [Steven Sinofsky Tweet Thread on the Above](https://twitter.com/stevesi/status/1011284522179031040)
+  * [Intel and the Danger of Integration](https://stratechery.com/2018/intel-and-the-danger-of-integration/) (Stratechery)
+  * [Steven Sinofsky Tweet Thread on the Above](https://twitter.com/stevesi/status/1011284522179031040) (Twitter)
 
 
 
@@ -1479,7 +1479,7 @@
 
   * [In China Trade War, Apple Worries It Will Be Collateral Damage](https://www.nytimes.com/2018/06/18/technology/apple-tim-cook-china.html) (NYTimes)
   * [One Year in, Bird Founder Sells Some Shares](https://www.theinformation.com/articles/one-year-in-bird-founder-sells-some-shares) (The Information)
-  * [The EU's bizarre war on memes is totally unwinnable](http://www.wired.co.uk/article/eu-meme-war-article-13-regulation) (Wired UK)
+  * [The EU's bizarre war on memes is totally unwinnable](http://www.wired.co.uk/article/eu-meme-war-article-13-regulation) (Wired)
 
 
 
@@ -1616,19 +1616,19 @@
 **Tuesday, May 29 2018 - Uber Gets a Panic Button and Facebook Gets Paused**
 
   * [Uber adds a panic button in its app](https://www.theverge.com/2018/5/29/17402172/uber-911-panic-button-app-live-us) (The Verge)
-  * [Uber’s Exit From Southeast Asia Upsets Regulators and Drivers](https://www.nytimes.com/2018/05/28/technology/uber-grab-southeast-asia.html) (New York Times)
+  * [Uber’s Exit From Southeast Asia Upsets Regulators and Drivers](https://www.nytimes.com/2018/05/28/technology/uber-grab-southeast-asia.html) (NYTimes)
   * [Apple’s HomePod Speaker Finally Gets Multi-Room Audio And Stereo Mode](https://www.buzzfeed.com/nicolenguyen/apple-homepod-multi-room-stereo-mode) (Buzzfeed)
   * [Papua New Guinea To Shutdown Facebook](http://news.pngfacts.com/2018/05/papua-new-guinea-to-shutdown-facebook.html) (Post Courier)
   * [Mark Zuckerberg on Facebook’s hardest year, and what comes next](https://www.vox.com/2018/4/2/17185052/mark-zuckerberg-facebook-interview-fake-news-bots-cambridge) (Vox)
   * [Bid to Block Trump's Deal on ZTE Would Have Support, Rubio Says](https://www.bloomberg.com/news/articles/2018-05-27/rubio-sees-supermajority-backing-for-possible-bid-to-block-zte) (Bloomberg News)
-  * [The Next Privacy Battle in Europe Is Over This New Law](https://www.nytimes.com/2018/05/27/technology/europe-eprivacy-regulation-battle.html) (New York Times)
+  * [The Next Privacy Battle in Europe Is Over This New Law](https://www.nytimes.com/2018/05/27/technology/europe-eprivacy-regulation-battle.html) (NYTimes)
   * [How The Internet Is Changing The Way Dogs Find Homes](https://www.buzzfeed.com/graychapman/social-media-viral-memes-dog-rescue-adoption?utm_term=.dvyWqy6G78#.ph2V8eOA1K) (Buzzfeed)
 
 
 
 **Friday, May 25 2018 - Musk Rages and Alexa Listens In**
 
-  * [Publications block EU readers](https://www.nytimes.com/2018/05/25/business/media/europe-privacy-gdpr-us.html) (New York Times)
+  * [Publications block EU readers](https://www.nytimes.com/2018/05/25/business/media/europe-privacy-gdpr-us.html) (NYTimes)
   * [Google late to update advertisers and ad-tech networks on GDPR changes](https://digiday.com/media/gdpr-mayhem-programmatic-ad-buying-plummets-europe/) (Digiday)
   * [Tesla settles on auto-pilot](https://www.reuters.com/article/us-tesla-autopilot-lawsuit/tesla-settles-class-action-lawsuit-over-dangerous-autopilot-system-idUSKCN1IQ1SH) (Reuters)
   * [Alexa forwards private conversation by couple](https://www.kiro7.com/news/local/woman-says-her-amazon-device-recorded-private-conversation-sent-it-out-to-random-contact/755507974) (KIRO)
@@ -1741,14 +1741,14 @@
   * [Tweet thread about using crypto for social networking](https://twitter.com/pt/status/994066600323158018) (Parker Thompson @pt)
   * [Red Alert For Net Neutrality Email Your Senator Form](https://www.battleforthenet.com/redalert/) (Do it!)
   * [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html) (Google AI Blog)
-  * [FX and New York Times partner for new series 'The Weekly'](http://money.cnn.com/2018/05/09/media/fx-new-york-times-the-weekly/) (CNN/Money)
+  * [FX and New York Times partner for new series 'The Weekly'](http://money.cnn.com/2018/05/09/media/fx-new-york-times-the-weekly/) (CNN)
 
 
 
 **Tuesday, May 08 2018 - Google I/O Highlights**
 
   * [Link to the video of the full I/O keynote](https://youtu.be/ogfYd705cRs)
-  * [Best video I could find (in a rush) of the Duplex Demo](https://twitter.com/journeydan/status/993908878818529280)
+  * [Best video I could find (in a rush) of the Duplex Demo](https://twitter.com/journeydan/status/993908878818529280) (Twitter)
   * [Twitter has an unlaunched ‘Secret’ encrypted messages feature](https://techcrunch.com/2018/05/07/encrypted-dms/) (TechCrunch)
   * [Bitcoin Sees Wall Street Warm to Trading Virtual Currency](https://www.nytimes.com/2018/05/07/technology/bitcoin-new-york-stock-exchange.html) (NYTimes)
   * [Uber shows its flying car prototype, which looks like a giant drone](https://www.cnbc.com/2018/05/08/uber-flying-car-prototype.html) (CNBC)

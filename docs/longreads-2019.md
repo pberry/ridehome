@@ -24,7 +24,7 @@ title: Weekend Longreads 2019
 **Friday, December 20 2019**
 
   * [SoftBank Vision Fund Employees Depict a Culture of Recklessness](https://www.bloomberg.com/news/features/2019-12-18/softbank-vision-fund-employees-depict-a-culture-of-recklessness) (Bloomberg Businessweek)
-  * [Shopify: A StarCraft Inspired Business Strategy](https://nongaap.substack.com/p/shopify-a-starcraft-inspired-business) (Non-GAAP Thoughts)
+  * [Shopify: A StarCraft Inspired Business Strategy](https://nongaap.substack.com/p/shopify-a-starcraft-inspired-business) (Non)
   * [IKEA 2.0](https://www.theverge.com/2019/12/18/21024497/ikea-smart-home-tech-sweden-furniture-sonos-meatballs-bjorn-block) (The Verge)
   * [State of the Stream 2019: Platform Wars, the New King of Streaming, Most Watched Game and More!](https://blog.streamelements.com/state-of-the-stream-2019-platform-wars-the-new-king-of-streaming-most-watched-game-and-more-ab0596d5c13d) (Stream Elements)
   * [Meet the Mad Scientist Who Wrote the Book on How to Hunt Hackers](https://www.wired.com/story/meet-the-mad-scientist-who-wrote-the-book-on-how-to-hunt-hackers/) (Wired)
@@ -75,7 +75,7 @@ title: Weekend Longreads 2019
   * [How VCs Make Money](https://vcstarterkit.substack.com/p/how-vcs-make-money) (VCStarterKit)
   * [Superhero or Supervillain? Technology’s Role Changes Comic Books](https://www.nytimes.com/2019/11/13/arts/comic-books-computers-dc-marvel.html) (NYTimes)
   * [AN ORAL HISTORY OF LIMEWIRE: THE LITTLE APP THAT CHANGED THE MUSIC INDUSTRY FOREVER](https://melmagazine.com/en-us/story/an-oral-history-of-limewire-the-little-app-that-changed-the-music-industry-forever) (MelMagazine)
-  * [As L.A. ports automate, some workers are cheering on the robots](https://www.latimes.com/business/story/2019-11-07/port-automation-dockworkers-vs-truckers) (LATimes)
+  * [As L.A. ports automate, some workers are cheering on the robots](https://www.latimes.com/business/story/2019-11-07/port-automation-dockworkers-vs-truckers) (LA Times)
   * [Managing Your Friendships, With Software](https://www.theatlantic.com/technology/archive/2019/11/personal-crm-software-uphabit-dex-google-spreadsheets/601531/) (The Atlantic)
   * [From Instagram to Candy Crush: These are the most important apps of the decade](https://www.cnet.com/news/instagram-to-candy-crush-these-are-the-most-important-apps-of-the-decade/#ftag=CAD-01-10aai3d) (CNET)
 
@@ -83,7 +83,7 @@ title: Weekend Longreads 2019
 
 **Friday, November 08 2019**
 
-  * [Pessimists Archive Podcast](https://podcasts.apple.com/us/podcast/pessimists-archive-podcast/id1104682320)
+  * [Pessimists Archive Podcast](https://podcasts.apple.com/us/podcast/pessimists-archive-podcast/id1104682320) (Apple Podcasts)
   * [The new dot com bubble is here: it’s called online advertising](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) (The Correspondent)
   * [THE BIG BITCOIN HEIST](https://www.vanityfair.com/news/2019/11/the-big-bitcoin-heist) (Vanity Fair)
   * [We are living in Hideo Kojima’s dystopian nightmare. Can he save us?](https://www.washingtonpost.com/video-games/2019/11/08/we-are-living-hideo-kojimas-dystopian-nightmare-can-he-save-us/) (Washington Post)
@@ -151,7 +151,7 @@ title: Weekend Longreads 2019
 
 **Friday, September 27 2019**
 
-  * [Slack Is a Hell of Our Own Making](http://nymag.com/intelligencer/2019/09/the-anxiety-inducing-peril-of-old-slack-posts.html) (NY Magazine/Intelligencer)
+  * [Slack Is a Hell of Our Own Making](http://nymag.com/intelligencer/2019/09/the-anxiety-inducing-peril-of-old-slack-posts.html) (NY Magazine)
   * [Every Company is Becoming a Software Company](https://www.confluent.io/blog/every-company-is-becoming-software) (Confluent Blog)
   * [Artificial Intelligence Confronts a 'Reproducibility' Crisis](https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/) (Wired)
   * [INSIDE UBER’S PLAN TO TAKE OVER CITY LIFE WITH CEO DARA KHOSROWSHAHI](https://www.theverge.com/2019/9/26/20885185/uber-ceo-dara-khosrowshahi-interview-exclusive) (The Verge)
@@ -230,7 +230,7 @@ title: Weekend Longreads 2019
 
 **Friday, August 02 2019**
 
-  * [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/)
+  * [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/) (Wired)
   * [Your Next iPhone Might Be Made in Vietnam. Thank the Trade War.](https://www.nytimes.com/2019/07/30/technology/trump-trade-war-vietnam.html) (NYTimes)
   * [Late Night Dispatch: Tuca & Bertie versus The Algorithm](https://medium.com/@julia.alexander/late-night-dispatch-tuca-bertie-versus-the-algorithm-36404af91bf7) (Julia Alexander)
   * [Where Everyone’s an Influencer](https://www.theatlantic.com/technology/archive/2019/07/where-everyones-an-influencer/595213/) (The Atlantic)
@@ -307,7 +307,7 @@ title: Weekend Longreads 2019
   * [EverQuest’s long, strange 20-year trip still has no end in sight](https://arstechnica.com/gaming/2019/06/everquests-long-strange-20-year-trip-still-has-no-end-in-sight/) (Ars Technica)
   * [The story of the first E3](https://www.polygon.com/platform/amp/features/2019/6/7/18653968/e3-history-1995-sega-saturn-nintendo-64-playstation-launch?__twitter_impression=true) (Polygon)
   * [THE NEWEST HAVEN FOR CRYPTOCURRENCY COMPANIES? WYOMING](https://www.wired.com/story/newest-haven-cryptocurrency-companies-wyoming/) (Wired)
-  * [Comcast CEO’s Son Wants to Turn Philly Into an E-Sports Town](https://www.bloomberg.com/news/features/2019-06-11/comcast-scion-tucker-roberts-leads-the-company-into-e-sports?cid=eml_dbm_20190612&utm_source=Sailthru&utm_medium=email&utm_campaign=BYERS%20MARKET%202019.06.12&utm_term=Byers%20Market) (Bloomberg BusinessWeek)
+  * [Comcast CEO’s Son Wants to Turn Philly Into an E-Sports Town](https://www.bloomberg.com/news/features/2019-06-11/comcast-scion-tucker-roberts-leads-the-company-into-e-sports?cid=eml_dbm_20190612&utm_source=Sailthru&utm_medium=email&utm_campaign=BYERS%20MARKET%202019.06.12&utm_term=Byers%20Market) (Bloomberg Businessweek)
   * [Beyond the PC: Lenovo's ambitious plan for the future of computing](https://www.zdnet.com/article/beyond-the-pc-lenovos-big-plan-for-the-future-of-computing/) (ZDNet)
 
 
@@ -326,7 +326,7 @@ title: Weekend Longreads 2019
 
 **Friday, May 31 2019**
 
-  * [Product Breakfast Club](https://podcasts.apple.com/us/podcast/the-product-breakfast-club/id1320916842)
+  * [Product Breakfast Club](https://podcasts.apple.com/us/podcast/the-product-breakfast-club/id1320916842) (Apple Podcasts)
   * [The unlikely origins of USB, the port that changed everything](https://www.fastcompany.com/3060705/an-oral-history-of-the-usb) (Fast Company)
   * [Bing turns 10: Why it’s been more disruptive than you think](https://searchengineland.com/bing-turns-10-why-its-been-more-disruptive-than-you-think-317510) (Search Engine Land)
   * [The Collapsing Crime Rates of the ’90s Might Have Been Driven by Cellphones](https://www.theatlantic.com/technology/archive/2019/05/how-mobile-phones-could-have-changed-the-drug-game/590503/) (The Atlantic)
@@ -340,7 +340,7 @@ title: Weekend Longreads 2019
 **Friday, May 24 2019**
 
   * [Special report - Hobbling Huawei: Inside the U.S. war on China's tech giant](https://mobile.reuters.com/article/amp/idUSKCN1SR1EU?__twitter_impression=true) (Reuters)
-  * [WeWork Wants to Become Its Own Landlord With Latest Spending Spree](https://www.bloomberg.com/news/features/2019-05-15/wework-wants-to-be-its-own-landlord-it-also-wants-2-8-billion) (Bloomberg BusinessWeek)
+  * [WeWork Wants to Become Its Own Landlord With Latest Spending Spree](https://www.bloomberg.com/news/features/2019-05-15/wework-wants-to-be-its-own-landlord-it-also-wants-2-8-billion) (Bloomberg Businessweek)
   * [How Silicon Valley gamed Europe’s privacy rules](https://www.politico.eu/article/europe-data-protection-gdpr-general-data-protection-regulation-facebook-google/) (Politico)
   * [AFTER 15 YEARS, THE PIRATE BAY STILL CAN’T BE KILLED](https://melmagazine.com/en-us/story/after-15-years-the-pirate-bay-still-cant-be-killed) (Mel)
   * [One Inventor’s Race to Manage His Parkinson’s Disease With an App](https://onezero.medium.com/one-inventors-race-to-treat-parkinson-s-with-an-app-f2bf197ee70) (OneZero)
@@ -356,7 +356,7 @@ title: Weekend Longreads 2019
   * [How the Promise of a $120 Billion Uber I.P.O. Evaporated](https://www.nytimes.com/2019/05/15/technology/uber-ipo-price.html?smid=nytcore-ios-share) (NYTimes)
   * [WHY I (STILL) LOVE TECH: IN DEFENSE OF A DIFFICULT INDUSTRY](https://www.wired.com/story/why-we-love-tech-defense-difficult-industry/) (Wired)
   * [Editorial: Why Apple created Apple TV+ rather than buying Netflix](https://appleinsider.com/articles/19/05/15/editorial-why-apple-created-apple-tv-rather-than-buying-netflix) (AppleInsider)
-  * [The Pivot](http://www.asymco.com/2019/05/16/the-pivot/) (Asymco/Horace Dediu)
+  * [The Pivot](http://www.asymco.com/2019/05/16/the-pivot/) (Asymco)
   * [AS COMMERCIAL SPACEFLIGHT TAKES OFF, THE AVIATION INDUSTRY GETS PROTECTIVE OF AIRSPACE](https://www.theverge.com/2019/5/16/18535813/commercial-spaceflight-federation-aviation-falcon-heavy-airspace-faa-traffic) (The Verge)
 
 
@@ -386,7 +386,7 @@ title: Weekend Longreads 2019
 
   * [How Fortnite’s success led to months of intense crunch at Epic Games](https://www.polygon.com/2019/4/23/18507750/fortnite-work-crunch-epic-games) (Polygon)
   * [Red Dead Redemption 2: six months later](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-review-rdr2-story-design-criticism) (Polygon)
-  * [WE’VE BEEN WARNED ABOUT AI AND MUSIC FOR OVER 50 YEARS, BUT NO ONE’S PREPARED](https://www.theverge.com/2019/4/17/18299563/ai-algorithm-music-law-copyright-human) (TheVerge)
+  * [WE’VE BEEN WARNED ABOUT AI AND MUSIC FOR OVER 50 YEARS, BUT NO ONE’S PREPARED](https://www.theverge.com/2019/4/17/18299563/ai-algorithm-music-law-copyright-human) (The Verge)
   * [How the Kleiner Perkins Empire Fell](http://fortune.com/longform/kleiner-perkins-vc-fall/) (Fortune)
   * [These home security startups aren’t afraid of Amazon and Google](https://www.fastcompany.com/90337606/how-smart-home-security-companies-plan-to-survive-amazon-and-google) (Fast Company)
   * [Amazon Has Gone From Neutral Platform to Cutthroat Competitor, Say Open Source Developers](https://onezero.medium.com/open-source-betrayed-industry-leaders-accuse-amazon-of-playing-a-rigged-game-with-aws-67177bc748b7) (OneZero)
@@ -407,9 +407,9 @@ title: Weekend Longreads 2019
 
 **Friday, April 12 2019**
 
-  * [The basics of modern AI—how does it work and will it destroy society this year?](https://arstechnica.com/features/2019/04/from-ml-to-gan-to-hal-a-peak-behind-the-modern-artificial-intelligence-curtain/) (ArsTechnica)
+  * [The basics of modern AI—how does it work and will it destroy society this year?](https://arstechnica.com/features/2019/04/from-ml-to-gan-to-hal-a-peak-behind-the-modern-artificial-intelligence-curtain/) (Ars Technica)
   * [FOXCONN IS CONFUSING THE HELL OUT OF WISCONSIN](https://www.theverge.com/2019/4/10/18296793/foxconn-wisconsin-location-factory-innovation-centers-technology-hub-no-news) (The Verge)
-  * [The man behind Huawei](https://www.latimes.com/projects/la-fi-tn-huawei-5g-trade-war/) (The Los Angeles Times)
+  * [The man behind Huawei](https://www.latimes.com/projects/la-fi-tn-huawei-5g-trade-war/) (LA Times)
   * [The Improbable Rise of Huawei](https://foreignpolicy.com/2019/04/03/the-improbable-rise-of-huawei-5g-global-network-china/) (Foreign Policy)
   * [Inside the Biotech Startup That Wants to Extend Your Life](https://onezero.medium.com/inside-the-biotech-startup-that-wants-to-extend-your-life-e007e62c8cb7) (OneZero)
   * [VIDEO OF APPLE’S W.A.L.T. IN ACTION – THE 1993-EDITION IPHONE](https://sonnydickson.com/2019/04/09/video-of-apples-w-a-l-t-in-action-the-1993-edition-iphone/) (Sonny Dickson)
@@ -433,7 +433,7 @@ title: Weekend Longreads 2019
   * [The danger of 'I already pay for Apple News+'](https://techcrunch.com/2019/03/26/no-need-to-subscribe/) (TechCrunch)
   * [Europe is splitting the internet into three](https://www.theverge.com/2019/3/27/18283541/european-union-copyright-directive-internet-article-13) (The Verge)
   * [‘A battle for the top of the funnel’: Pinterest’s long road to becoming a commerce platform](https://digiday.com/retail/battle-top-funnel-pinterests-long-road-becoming-commerce-platform/) (Digiday)
-  * [Forget Brexit and trade wars, Europe’s start-ups are thriving](https://www.ft.com/content/ed1c57a2-2ebf-11e9-80d2-7b637a9e1ba1) (Financial Times)
+  * [Forget Brexit and trade wars, Europe’s start-ups are thriving](https://www.ft.com/content/ed1c57a2-2ebf-11e9-80d2-7b637a9e1ba1) (FT)
   * [The Enormous Numbers Behind Amazon’s Market Reach](https://www.bloomberg.com/graphics/2019-amazon-reach-across-markets/) (Bloomberg)
   * [The Elaborate, Dying Art of Hustling for Money at Dave & Buster's](https://www.vice.com/en_us/article/pan43y/the-elaborate-dying-art-of-hustling-for-money-at-dave-and-busters-arcades) (Vice)
 
@@ -462,7 +462,7 @@ title: Weekend Longreads 2019
 **Friday, March 08 2019**
 
   * [THE HYPOCRISY OF THE TECHNO-MORALISTS IN THE COMING AGE OF AUTONOMY](https://warontherocks.com/2019/03/the-hypocrisy-of-the-techno-moralists-in-the-coming-age-of-autonomy/) (WarOnTheRocks)
-  * [HOW ARTIFICIAL INTELLIGENCE WILL REVOLUTIONIZE THE WAY VIDEO GAMES ARE DEVELOPED AND PLAYED](https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning) (TheVerge)
+  * [HOW ARTIFICIAL INTELLIGENCE WILL REVOLUTIONIZE THE WAY VIDEO GAMES ARE DEVELOPED AND PLAYED](https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning) (The Verge)
   * [Delete Never: The Digital Hoarders Who Collect Tumblrs, Medieval Manuscripts, and Terabytes of Text Files](https://gizmodo.com/delete-never-the-digital-hoarders-who-collect-tumblrs-1832900423) (Gizmodo)
   * [How Munchery’s high hopes led to its decline and fall](https://www.fastcompany.com/90315825/how-muncherys-high-hopes-led-to-its-decline-and-fall?partner=rss&utm_source=feedly&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss) (FastCompany)
   * [Triton is the world’s most murderous malware, and it’s spreading](https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/) (MIT Technology Review)
@@ -476,7 +476,7 @@ title: Weekend Longreads 2019
   * [The Car That Killed Glamour](https://www.theatlantic.com/technology/archive/2015/09/the-car-that-killed-glamour/407248/) (The Atlantic)
   * [How Disney Built Star Wars, in real life](https://techcrunch.com/2019/02/27/how-disney-built-star-wars-in-real-life/) (TechCrunch)
   * [THE TRAUMA FLOOR](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona) (The Verge)
-  * [Outgrowing Advertising: Multimodal Business Models as a Product Strategy](https://a16z.com/2018/12/07/when-advertising-isnt-enough-multimodal-business-models-product-strategy/) (A16Z/Connie Chan)
+  * [Outgrowing Advertising: Multimodal Business Models as a Product Strategy](https://a16z.com/2018/12/07/when-advertising-isnt-enough-multimodal-business-models-product-strategy/) (A16Z)
 
 
 
@@ -496,7 +496,7 @@ title: Weekend Longreads 2019
   * [The Strong Web](https://itunes.apple.com/us/podcast/the-strong-web/id1375737954?mt=2) (podcast suggestion)
   * [Why data, not privacy, is the real danger](https://www.nbcnews.com/business/business-news/why-data-not-privacy-real-danger-n966621) (NBCNews)
   * [Uber’s Secret Gold Mine: How Uber Eats Is Turning Into A Billion-Dollar Business To Rival Grubhub](https://www.forbes.com/sites/bizcarson/2019/02/06/ubers-secret-gold-mine-how-uber-eats-is-turning-into-a-billion-dollar-business-to-rival-grubhub/#4b0a82c61fa9) (Forbes)
-  * [Zillow Wants to Flip Your House](https://www.bloomberg.com/news/features/2019-02-14/zillow-wants-to-flip-your-house) (Bloomberg BusinessWeek)
+  * [Zillow Wants to Flip Your House](https://www.bloomberg.com/news/features/2019-02-14/zillow-wants-to-flip-your-house) (Bloomberg Businessweek)
   * [The Strange Experience of Being Australia’s First Tech Billionaires](https://www.nytimes.com/2019/02/13/technology/atlassian-cannon-brookes-farquhar.html) (NYTimes)
   * [The Secret History of Women in Coding](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html) (NYTimes Magazine)
 
@@ -528,7 +528,7 @@ title: Weekend Longreads 2019
   * [EVERYBODY DOES IT: THE MESSY TRUTH ABOUT INFILTRATING COMPUTER SUPPLY CHAINS](https://theintercept.com/2019/01/24/computer-supply-chain-attacks/) (The Intercept)
   * [Katzenberg and Whitman: Hollywood’s New Odd Couple](http://fortune.com/longform/katzenberg-whitman-hollywood-mobile-streaming-quibi/) (Fortune)
   * [Twitter CEO Jack Dorsey: The Rolling Stone Interview](https://www.rollingstone.com/culture/culture-features/twitter-ceo-jack-dorsey-rolling-stone-interview-782298/) (Rolling Stone)
-  * [“The Linux of social media”—How LiveJournal pioneered (then lost) blogging](https://arstechnica.com/gadgets/2019/01/the-linux-of-social-media-how-livejournal-pioneered-then-lost-web-blogging/) (ArsTechnica)
+  * [“The Linux of social media”—How LiveJournal pioneered (then lost) blogging](https://arstechnica.com/gadgets/2019/01/the-linux-of-social-media-how-livejournal-pioneered-then-lost-web-blogging/) (Ars Technica)
   * [Reddit’s r/changemyview is a template for how all online discussion should be](https://thenextweb.com/socialmedia/2019/01/23/reddits-model-community-offers-a-prototype-for-controversial-discussions/) (TNW)
 
 
@@ -550,9 +550,9 @@ title: Weekend Longreads 2019
 
   * [Demon Underneath: John DeLorean and the Invention of the Future](https://theoutline.com/post/6776/john-delorean-rise-and-fall-big-money-the-fbi-celebrities-and-cocaine?zd=1&zi=nxbg2epw) (The Outline)
   * [The Rise and Demise of RSS](https://motherboard.vice.com/en_us/article/a3mm4z/the-rise-and-demise-of-rss) (Motherboard)
-  * [Pitchfork’s Ryan Schreiber shaped Internet music journalism and now leaves it behind](https://www.latimes.com/entertainment/music/la-et-ms-pitchfork-ryan-schreiber-20190109-story.html) (Los Angeles Times)
+  * [Pitchfork’s Ryan Schreiber shaped Internet music journalism and now leaves it behind](https://www.latimes.com/entertainment/music/la-et-ms-pitchfork-ryan-schreiber-20190109-story.html) (LA Times)
   * [Inside look at modern web browser (part 1)](https://developers.google.com/web/updates/2018/09/inside-browser-part1) (Developers.Google)
-  * [The Race to Diagnose Cancer With a Simple Blood Test](https://medium.com/s/2069/the-race-to-diagnose-cancer-with-a-simple-blood-test-6ec5d38eb1c9) (2069 - Medium)
+  * [The Race to Diagnose Cancer With a Simple Blood Test](https://medium.com/s/2069/the-race-to-diagnose-cancer-with-a-simple-blood-test-6ec5d38eb1c9) (2069)
   * [Lasers vs. Microwaves: The Billion-Dollar Bet on the Future of Magnetic Storage](https://spectrum.ieee.org/computing/hardware/lasers-vs-microwaves-the-billiondollar-bet-on-the-future-of-magnetic-storage) (ieee Spectrum)
   * [PREPARING FOR Y2038 (ALREADY?!)](https://blogs.akamai.com/2019/01/preparing-for-y2038-already.html) (blogs.akamai)
 

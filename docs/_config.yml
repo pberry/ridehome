@@ -2,6 +2,9 @@
 title: The Ride Home - Link Archive
 description: Daily tech news links from The Ride Home podcast
 
+exclude:
+  - gems
+
 # Build settings
 theme: minima
 

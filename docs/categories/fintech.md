@@ -1,5 +1,4 @@
 ---
-layout: category
 title: FinTech
 ---
 
@@ -21,8 +20,8 @@ title: FinTech
 ### March
 
 - [Klarna, nearing IPO, plucks lucrative Walmart fintech partnership from rival Affirm](https://www.cnbc.com/2025/03/17/walmart-klarna-nearing-ipo-wins-fintech-partnership-from-affirm.html) (CNBC)
-- [Banks and fintechs join ‘stablecoin gold rush’](https://www.ft.com/content/d033e015-f726-4d5f-ab38-2949171f2cdc) (Financial Times)
-- [Peter Thiel-backed fintech Ramp nearly doubles valuation to $13bn](https://www.ft.com/content/458a96ba-e022-4b06-b028-b4bc41a969b6) (Financial Times)
+- [Banks and fintechs join ‘stablecoin gold rush’](https://www.ft.com/content/d033e015-f726-4d5f-ab38-2949171f2cdc) (FT)
+- [Peter Thiel-backed fintech Ramp nearly doubles valuation to $13bn](https://www.ft.com/content/458a96ba-e022-4b06-b028-b4bc41a969b6) (FT)
 
 ## 2024
 
@@ -38,7 +37,7 @@ title: FinTech
 
 ### June
 
-- [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over?sref=Szq5ylDR)
+- [How a $13 Billion Fintech That Angered Jamie Dimon Won Over Banks](https://www.bloomberg.com/news/features/2023-05-31/plaid-scared-jamie-dimon-but-fintech-behind-venmo-and-robinhood-won-him-over?sref=Szq5ylDR) (Bloomberg)
 
 ## 2022
 
@@ -78,7 +77,7 @@ title: FinTech
 
 ### January
 
-- [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange/A16Z)
+- [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange)
 - [Islamic fintechs are on the rise — but how viable is this tailored offering?](https://sifted.eu/articles/islamic-fintechs-europe-survive/) (Sifted)
 - [Visa to acquire Plaid, the fintech powering Venmo and other banking apps, in $5.3 billion deal](https://www.cnbc.com/2020/01/13/visa-to-acquire-plaid-the-fintech-powering-venmo-and-other-banking-apps-for-5point3-billion.html) (CNBC)
 

@@ -9,7 +9,7 @@
 
   * [Apple loses copyright battle against security start-up Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/) (Washington Post)
   * [Google pilots a search feature that aggregates short-form videos from TikTok and Instagram](https://techcrunch.com/2020/12/29/google-pilots-a-search-feature-that-aggregates-short-form-videos-from-tiktok-and-instagram/) (TechCrunch)
-  * [Amazon’s advertising business booms in pandemic](https://www.ft.com/content/095d73d5-a7a6-4acc-9dcc-9ee3e3d1fff4) (Financial Times)
+  * [Amazon’s advertising business booms in pandemic](https://www.ft.com/content/095d73d5-a7a6-4acc-9dcc-9ee3e3d1fff4) (FT)
   * [Apple iPhone Devices Sweep 9 of Top 10 Devices on Christmas 2020](https://www.flurry.com/blog/christmas-2020-smartphone-activations/) (Flurry)
 
 
@@ -27,12 +27,12 @@
 
 **Monday, December 28 2020 - Mon. 12/28 – After Jack Ma, Is China Freezing Its Entire Tech Sector?**
 
-  * [Beijing launches antitrust investigation into Alibaba](https://www.ft.com/content/bdcc073f-3b70-4411-92d7-ee36973a8b7a) (Financial Times)
+  * [Beijing launches antitrust investigation into Alibaba](https://www.ft.com/content/bdcc073f-3b70-4411-92d7-ee36973a8b7a) (FT)
   * [China Tells Ant to Return to Its Payment Roots, Places Curbs](https://www.bloomberg.com/news/articles/2020-12-27/china-asks-ant-to-return-to-origin-of-payments-service?sref=sZAFdZwV) (Bloomberg)
   * [Alibaba Probe Stirs Global Worry on What’s Next for Chinese Tech](https://www.bloomberg.com/news/articles/2020-12-28/alibaba-hikes-share-buyback-plan-to-10-billion-from-6-billion?sref=sZAFdZwV) (Bloomberg)
   * [Kuo: Apple Car Still in Early Stages, Unlikely to Launch Until 2025-2027 at Earliest](https://www.macrumors.com/2020/12/27/kuo-apple-car-2025-2027-at-earliest/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Drone-Crowded Skies Get One Step Closer With U.S. Security Rules](https://www.bloomberg.com/news/articles/2020-12-28/civilian-drone-use-in-u-s-to-get-boost-in-new-security-rules?utm_campaign=socialflow-organic&utm_medium=social&utm_source=twitter&cmpid%3D=socialflow-twitter-politics&utm_content=politics&sref=sZAFdZwV) (Bloomberg)
-  * [Search engine start-ups try to take on Google](https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b) (Financial Times)
+  * [Search engine start-ups try to take on Google](https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b) (FT)
   * [Covid-19 Propelled Businesses Into the Future. Ready or Not.](https://www.wsj.com/articles/covid-19-propelled-businesses-into-the-future-ready-or-not-11608958806?mod=djemalertNEWS) (WSJ)
 
 
@@ -200,7 +200,7 @@
   * [Sequoia Capital Warned of a ‘Black Swan.’ Instead, 2020 Is One of Its Best Years Ever](https://www.bloomberg.com/news/articles/2020-12-06/sequoia-capital-s-black-swan-warning-gives-way-to-huge-returns?sref=sZAFdZwV) (Bloomberg)
   * [Exclaimer raises $133 million to help companies manage email signatures](https://venturebeat.com/2020/12/07/exclaimer-raises-135-million-to-help-companies-manage-email-signatures/) (VentureBeat)
   * [DRONES ARE POISED TO RESHAPE HOME DESIGN](https://www.wsj.com/articles/drones-are-poised-to-reshape-home-design-11607194801?mod=djemalertNEWS) (WSJ)
-  * [Disney faces digital dilemma despite streaming success](https://www.ft.com/content/cf22ac6b-c065-4657-bbe6-6689c625461d) (Financial Times)
+  * [Disney faces digital dilemma despite streaming success](https://www.ft.com/content/cf22ac6b-c065-4657-bbe6-6689c625461d) (FT)
 
 
 
@@ -242,8 +242,8 @@
   * [Why Salesforce bought Slack](https://divinations.substack.com/p/why-salesforce-bought-slack-430) (Divinations)
   * [Hewlett Packard Enterprise is the latest tech company to leave Silicon Valley, and is moving to Houston](https://www.cnbc.com/2020/12/01/hpe-is-relocating-headquarters-to-houston-from-california.html) (CNBC)
   * [Qualcomm's Snapdragon 888 is a glimpse into how much better your next Android phone will be](https://www.cnet.com/news/qualcomms-snapdragon-888-is-a-glimpse-into-how-much-better-your-next-android-phone-will-be/) (CNET)
-  * [Amazon to roll out tools to monitor factory workers and machines](https://www.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8) (Financial Times)
-  * [Techmeme Snapshot of re:Invent headlines](https://www.techmeme.com/201201/h1615)
+  * [Amazon to roll out tools to monitor factory workers and machines](https://www.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8) (FT)
+  * [Techmeme Snapshot of re:Invent headlines](https://www.techmeme.com/201201/h1615) (Techmeme)
   * [Wyze announces $20 smartwatch with nine-day battery life](https://www.theverge.com/2020/12/1/21726548/wyze-watch-44-47-smartwatch-price-release-date-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Looking Glass’s next product is a holographic digital photo frame](https://techcrunch.com/2020/12/02/looking-glasss-next-product-is-a-holographic-digital-photo-frame/) (TechCrunch)
 
@@ -454,7 +454,7 @@
   * [DJI Mini 2 drone arrives with 4K camera and ultra-portable design](https://www.slashgear.com/dji-mini-2-drone-arrives-with-4k-camera-and-ultra-portable-design-04645835/) (SlashGear)
   * [Fortnite set to return to iPhones via Nvidia cloud gaming service](https://www.bbc.com/news/technology-54825891) (BBCNews)
   * [Ethereum 2.0 Set to Launch on December 1](https://decrypt.co/47193/ethereum-2-0-set-to-launch-on-december-1) (Decrypt)
-  * [‘The party is pushing back’: why Beijing reined in Jack Ma and Ant](https://www.ft.com/content/3d2f174d-aa73-44fc-8c90-45c2a554e97b) (Financial Times)
+  * [‘The party is pushing back’: why Beijing reined in Jack Ma and Ant](https://www.ft.com/content/3d2f174d-aa73-44fc-8c90-45c2a554e97b) (FT)
   * [TikTok Parent ByteDance Seeks to Raise Cash at $180 Billion Valuation](https://www.bloomberg.com/news/articles/2020-11-05/bytedance-seeks-funds-at-180-billion-value-before-ipo-of-assets?sref=sZAFdZwV) (Bloomberg)
   * [Razer's first mainstream laptop still has an RGB keyboard](https://www.engadget.com/razer-book-13-specs-price-availability-pre-order-160026252.html) (Engadget)
   * [XBOX SERIES X REVIEW: A NEXT-GEN PC](https://www.theverge.com/21548987/xbox-series-x-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -480,7 +480,7 @@
   * [China Halts Ant’s Record IPO, Throwing Ma’s Empire Into Turmoil](https://www.bloomberg.com/news/articles/2020-11-03/ant-group-says-hong-kong-ipo-also-suspended?sref=sZAFdZwV) (Bloomberg)
   * [AWS launches its next-gen GPU instances](https://techcrunch.com/2020/11/02/aws-launches-its-next-gen-gpu-instances/) (TechCrunch)
   * [Walmart Scraps Plan to Have Robots Scan Shelves](https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341?mod=djemalertNEWS) (WSJ)
-  * [NASA objects to new mega-constellation, citing risk of “catastrophic collision”](https://arstechnica.com/science/2020/11/nasa-objects-to-new-megaconstellation-citing-risk-of-catastrophic-collison/) (ArsTechnica)
+  * [NASA objects to new mega-constellation, citing risk of “catastrophic collision”](https://arstechnica.com/science/2020/11/nasa-objects-to-new-megaconstellation-citing-risk-of-catastrophic-collison/) (Ars Technica)
   * [Spotify will now allow artists and labels to promote tracks in your recommendations](https://techcrunch.com/2020/11/02/spotify-will-now-allow-artists-and-labels-promote-tracks-in-your-recommendations/) (TechCrunch)
 
 
@@ -489,7 +489,7 @@
 
   * [The Raspberry Pi 400 is a compact keyboard with a built-in computer](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [What to Expect From Facebook, Twitter and YouTube on Election Day](https://www.nytimes.com/2020/11/02/technology/facebook-twitter-youtube-election-day.html) (NYTimes)
-  * [Huawei develops plan for chip plant to help beat US sanctions](https://www.ft.com/content/84eb666e-0af3-48eb-8b60-3f53b19435cb) (Financial Times)
+  * [Huawei develops plan for chip plant to help beat US sanctions](https://www.ft.com/content/84eb666e-0af3-48eb-8b60-3f53b19435cb) (FT)
   * [Tencent claims record 100M daily users on mobile game Honor of Kings](https://techcrunch.com/2020/11/01/tencent-claims-record-100m-daily-users-on-mobile-game-honor-of-kings/) (TechCrunch)
   * [What it's like to get locked out of Google indefinitely](https://www.businessinsider.com/google-users-locked-out-after-years-2020-10?r=US&IR=T) (Business Insider)
 
@@ -522,7 +522,7 @@
 **Wednesday, October 28 2020 - Wed. 10/28 – Does The iPhone 12 Have A Secret Reverse Wireless Charging Feature?**
 
   * [Apple’s iPhone 12 seems to have a secret reverse wireless charging feature](https://www.theverge.com/2020/10/28/21537855/iphone-12-mini-pro-max-reverse-wireless-charging-fcc-filings-hidden?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Apple develops alternative to Google search](https://www.ft.com/content/fd311801-e863-41fe-82cf-3d98c4c47e26) (Financial Times)
+  * [Apple develops alternative to Google search](https://www.ft.com/content/fd311801-e863-41fe-82cf-3d98c4c47e26) (FT)
   * [Microsoft Q1 Earnings Release](https://www.microsoft.com/en-us/Investor/earnings/FY-2021-Q1)
   * [Republicans Accuse Zuckerberg and Dorsey of Censorship: Live Updates](https://www.nytimes.com/live/2020/10/28/technology/tech-hearing) (NYTimes)
   * [Visa’s Planned Purchase of Plaid Faces Antitrust Scrutiny at the Justice Department](https://www.wsj.com/articles/visas-planned-purchase-of-plaid-faces-antitrust-scrutiny-at-the-justice-department-11603819000?mod=djemalertNEWS) (WSJ)
@@ -560,7 +560,7 @@
 
   * [**BitTrustIRA.com/techmeme**](https://bittrustira.com/techmeme/)
   * [**Monday.com/ride**](https://monday.com/ride)
-  * [**NewYorker.com/techmeme**](https://newyorker.com/techmeme)
+  * [**NewYorker.com/techmeme**](https://newyorker.com/techmeme) (The New Yorker)
 
 
 
@@ -664,9 +664,9 @@
 
 **Tuesday, October 13 2020 - Tue. 10/13 – The iPhone 12 Event: All The Deets**
 
-  * [Techmeme Headline Cluster About the iPhone 12 Pro](https://www.techmeme.com/201013/p32#a201013p32)
-  * [Techmeme Headline Cluster About the iPhone 12](https://www.techmeme.com/201013/p28#a201013p28)
-  * [Techmeme Headline Cluster About the iPhone 12 mini](https://www.techmeme.com/201013/p31#a201013p31)
+  * [Techmeme Headline Cluster About the iPhone 12 Pro](https://www.techmeme.com/201013/p32#a201013p32) (Techmeme)
+  * [Techmeme Headline Cluster About the iPhone 12](https://www.techmeme.com/201013/p28#a201013p28) (Techmeme)
+  * [Techmeme Headline Cluster About the iPhone 12 mini](https://www.techmeme.com/201013/p31#a201013p31) (Techmeme)
   * [PC shipments climb in Q3, Gartner and IDC report](https://www.zdnet.com/article/pc-shipments-climb-in-q3-gartner-and-idc-report/) (ZDNet)
   * [The Digital Divide Starts With a Laptop Shortage](https://www.nytimes.com/2020/10/12/technology/laptops-schools-digital-divide.html) (NYTimes)
   * [Disney says its ‘primary focus’ for entertainment is streaming — announces a major reorg](https://www.cnbc.com/2020/10/12/disney-reorganizes-to-focus-on-streaming-direct-to-consumer.html) (CNBC)
@@ -694,7 +694,7 @@
   * [AMD Is in Advanced Talks to Buy Xilinx](https://www.wsj.com/articles/amd-is-in-advanced-talks-to-buy-xilinx-11602205553?mod=djemalertNEWS) (WSJ)
   * [Waymo Begins Fully Driverless Rides for All Arizona Customers](https://www.bloomberg.com/news/articles/2020-10-08/waymo-one-app-offers-driverless-alternative-to-uber-in-arizona?sref=sZAFdZwV) (Bloomberg)
   * [Google Assistant finally works with some third-party apps](https://www.engadget.com/google-assistant-work-with-other-apps-170025490.html) (Engadget)
-  * [Comcast says gigabit downloads and uploads are now possible over cable](https://arstechnica.com/information-technology/2020/10/comcast-says-gigabit-downloads-and-uploads-are-now-possible-over-cable/) (ArsTechnica)
+  * [Comcast says gigabit downloads and uploads are now possible over cable](https://arstechnica.com/information-technology/2020/10/comcast-says-gigabit-downloads-and-uploads-are-now-possible-over-cable/) (Ars Technica)
 
 
 
@@ -892,7 +892,7 @@
   * [The PS5 will launch on November 12th for $499.99](https://www.theverge.com/2020/9/16/21277234/ps5-playstation-5-price-release-date-sony?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Sony confirms PS5’s first-party launch lineup and free game upgrade plans for PS4 titles](https://www.theverge.com/2020/9/16/21440554/sony-ps5-launch-games-free-upgrades-ps4-spiderman-miles-morales-horizon-forbidden-west?utm_medium=email&utm_campaign=The%20PS5%20is%20priced%20the%20Oculus%20Quest%202%20launched%20and%20the%20GoPro%20Hero%209%20reviewed&utm_content=The%20PS5%20is%20priced%20the%20Oculus%20Quest%202%20launched%20and%20the%20GoPro%20Hero%209%20reviewed+CID_21e75f08a4782c253d1c68cc2cd250d4&utm_source=cm_email&utm_term=Sony%20confirms%20PS5s%20first-party%20launch%20lineup%20and%20free%20game%20upgrade%20plans%20for%20PS4%20titles) (The Verge)
   * [Oracle’s TikTok Bid Leaves Open Some U.S. Security Concerns](https://www.bloomberg.com/news/articles/2020-09-16/oracle-s-tiktok-bid-leaves-u-s-security-concerns-unaddressed?sref=MzDxCtkS) (Bloomberg)
-  * [Pro Rata Newsletter](https://www.axios.com/newsletters/axios-pro-rata-085a7385-4ca7-4128-8a6f-7b9f61c84743.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (Dan Primack/Axios)
+  * [Pro Rata Newsletter](https://www.axios.com/newsletters/axios-pro-rata-085a7385-4ca7-4128-8a6f-7b9f61c84743.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (Axios)
   * [Snowflake IPO Spurs Flood of Wealth for Silicon Valley Elite](https://www.bloomberg.com/news/articles/2020-09-16/snowflake-ipo-creates-flood-of-wealth-for-silicon-valley-royalty?utm_source=flipboard&utm_medium=bd&cmpId=flipboard&sref=MzDxCtkS) (Bloomberg)
   * [‘Helping people discover information’: How Red Ventures grew into a giant](https://digiday.com/media/red-ventures-grew-into-a-giant/) (Digiday)
   * [Sit Like an Apple Engineer in This 70s-Era British Office Chair](https://www.gearpatrol.com/tech/a34032310/sit-like-an-apple-engineer-in-this-70s-era-british-office-chair/) (Gear Patrol)
@@ -916,7 +916,7 @@
 
 **Tuesday, September 15 2020 - Tue. 09/15 – The Apple “Time Flies” Event**
 
-  * [Techmeme Headline Rundown of the Apple Event](https://www.techmeme.com/200915/h1420)
+  * [Techmeme Headline Rundown of the Apple Event](https://www.techmeme.com/200915/h1420) (Techmeme)
   * [Sony Cuts PlayStation 5 Forecast by 4 Million Due to Chip Woes](https://www.bloomberg.com/news/articles/2020-09-15/sony-is-said-to-cut-ps5-forecast-by-4-million-due-to-chip-woes?sref=MzDxCtkS) (Bloomberg)
   * [Sen. Hawley calls for US to reject Oracle’s TikTok deal](https://www.theverge.com/2020/9/14/21437034/oracle-tiktok-deal-hawley-mnuchin-cfius-approval-trump?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [We’re Heading Toward the Worst Possible Outcome on TikTok](https://nymag.com/intelligencer/2020/09/were-heading-toward-the-worst-possible-outcome-on-tiktok.html) (Intelligencer)
@@ -999,7 +999,7 @@
   * [Facebook will stop accepting new political ads a week before the US presidential election](https://www.theverge.com/2020/9/3/21419258/facebook-political-ads-deadline-announcements-voter-registration-mark-zuckerberg?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Facebook Moves to Limit Election Chaos in November](https://www.nytimes.com/2020/09/03/technology/facebook-election-chaos-november.html) (NYTimes)
   * [Court rules NSA phone snooping illegal — after 7-year delay](https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727) (Politico)
-  * [Feds can’t ask Google for every phone in a 100-meter radius, court says](https://arstechnica.com/tech-policy/2020/09/feds-cant-ask-google-for-every-phone-in-a-100-meter-radius-court-says/) (ArsTechnica)
+  * [Feds can’t ask Google for every phone in a 100-meter radius, court says](https://arstechnica.com/tech-policy/2020/09/feds-cant-ask-google-for-every-phone-in-a-100-meter-radius-court-says/) (Ars Technica)
   * [Intel announces its new 11th Gen Tiger Lake CPUs, available on laptops this fall](https://www.theverge.com/2020/9/2/21408718/intel-11th-gen-tiger-lake-cpu-processor-announcement-laptops-fall?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Qualcomm promises better AI for its next Snapdragon PC chip](https://www.engadget.com/qualcomm-snapdragon-8cx-gen-2-073041304.html) (Engadget)
   * [China to Plan Sweeping Support for Chip Sector to Counter Trump](https://www.bloomberg.com/news/articles/2020-09-03/china-is-said-to-plan-broad-chip-sector-support-to-counter-trump?sref=MzDxCtkS) (Bloomberg)
@@ -1042,7 +1042,7 @@
   * [Qualcomm announces Snapdragon 732G, a follow-up to the Pixel 4a’s chipset](https://9to5google.com/2020/08/31/qualcomm-snapdragon-732g/) (9to5Google)
   * [Netflix Is Offering Free Access to Select Original Movies and Series, Even Without an Account](https://gadgets.ndtv.com/entertainment/news/netflix-free-movies-tv-shows-series-watch-android-computer-browsers-2287882) (Gadgets360)
   * [Amazon wins FAA approval for Prime Air drone delivery fleet](https://www.cnbc.com/2020/08/31/amazon-prime-now-drone-delivery-fleet-gets-faa-approval.html) (CNBC)
-  * [Drug Cartel Now Assassinates Its Enemies With Bomb-Toting Drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones) (The Drive/The Warzone)
+  * [Drug Cartel Now Assassinates Its Enemies With Bomb-Toting Drones](https://www.thedrive.com/the-war-zone/36013/mexican-drug-cartel-now-assassinating-its-enemies-with-improvised-explosive-toting-drones) (The Drive)
   * [Stolen Fortnite Accounts Sold as Part of $1 Billion Black Market](https://www.bloomberg.com/news/articles/2020-08-27/stolen-fortnite-accounts-sold-as-part-of-1-billion-black-market?sref=MzDxCtkS) (Bloomberg)
   * [Jack Ma’s Ant Fuels Tech IPO Frenzy Not Seen Since Dotcom Bubble](https://www.bloomberg.com/news/articles/2020-08-30/jack-ma-s-ant-fuels-tech-ipo-frenzy-not-seen-since-dotcom-bubble?sref=MzDxCtkS) (Bloomberg)
 
@@ -1086,12 +1086,12 @@
 
   * [Fitbit unveils Sense and Versa 3 smartwatches with Google Assistant](https://venturebeat.com/2020/08/25/fitbit-sense-versa-3-inspire-2-google/) (VentureBeat)
   * [Level’s latest smart lock can be unlocked with a touch](https://www.theverge.com/21400301/level-touch-smart-lock-price-design-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Nintendo Plans Upgraded Switch Console and Major Games for 202](https://www.bloomberg.com/news/articles/2020-08-25/nintendo-plans-upgraded-switch-console-and-major-games-for-2021?sref=MzDxCtkS)
+  * [Nintendo Plans Upgraded Switch Console and Major Games for 202](https://www.bloomberg.com/news/articles/2020-08-25/nintendo-plans-upgraded-switch-console-and-major-games-for-2021?sref=MzDxCtkS) (Bloomberg)
   * [Nintendo reportedly releasing upgraded Switch next year](https://www.theverge.com/2020/8/25/21400521/new-nintendo-switch-report-release-date-2021) (The Verge)
   * [Epic judge will protect Unreal Engine — but not Fortnite](https://www.theverge.com/2020/8/25/21400240/epic-apple-ruling-unreal-engine-fortnite-temporary-restraining-order?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [iRobot is giving its vacuum cleaners a new AI-powered brain](https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [TSMC Details 3nm Process Technology: Full Node Scaling for 2H22 Volume Production](https://www.anandtech.com/show/16024/tsmc-details-3nm-process-technology-details-full-node-scaling-for-2h22) (AnandTech)
-  * [Going Public Circa 2020; Door #3: The SPAC](https://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/) (Above The Crowd/Bill Gurley)
+  * [Going Public Circa 2020; Door #3: The SPAC](https://abovethecrowd.com/2020/08/23/going-public-circa-2020-door-3-the-spac/) (Above The Crowd)
 
 
 
@@ -1150,7 +1150,7 @@
 **Tuesday, August 18 2020 - Tue. 08/18 – Apple Goes Nuclear Against Epic Games**
 
   * [Epic says Apple threatens ‘catastrophic’ response in two weeks if Fortnite doesn’t comply with rules](https://www.theverge.com/2020/8/17/21372480/apple-epic-threat-developer-tools-agreement-unreal-engine-fortnite?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Oracle enters race to buy TikTok’s US operations](https://www.ft.com/content/272cfc69-b268-45ac-88d6-d55821f27e78) (Financial Times)
+  * [Oracle enters race to buy TikTok’s US operations](https://www.ft.com/content/272cfc69-b268-45ac-88d6-d55821f27e78) (FT)
   * [Apple Gives Users More Time to Buy AppleCare After Sales Slow](https://www.bloomberg.com/news/articles/2020-08-17/apple-gives-users-more-time-to-buy-applecare-after-sales-slow?sref=MzDxCtkS) (Bloomberg)
   * [Amazon Bets on Office-Based Work With Expansion in Major Cities](https://www.wsj.com/articles/amazon-bets-on-office-based-work-with-expansion-in-major-cities-11597741203?mod=djemalertNEWS) (WSJ)
   * [Uber and Lyft Consider Franchise-Like Model in California](https://www.nytimes.com/2020/08/18/technology/uber-lyft-franchise-california.html) (NYTimes)
@@ -1160,7 +1160,7 @@
 
 **Monday, August 17 2020 - Mon. 08/17 – Why Regulatory Change For Big Tech Is Maybe Inevitable**
 
-  * [Google says Australian news rule threatens free search services](https://www.ft.com/content/8a957a0f-5875-4c84-9c7c-b20bbe6d3bac) (Financial Times)
+  * [Google says Australian news rule threatens free search services](https://www.ft.com/content/8a957a0f-5875-4c84-9c7c-b20bbe6d3bac) (FT)
   * [Exclusive: Amazon in talks to invest in cloud services company Rackspace, say sources](https://www.reuters.com/article/us-amazon-com-rackspace-tech-exclusive/exclusive-amazon-in-talks-to-invest-in-cloud-services-company-rackspace-say-sources-idUSKCN25D1Q6) (Reuters)
   * [ZTE's Axon 20 5G smartphone will have the first under-display camera](https://www.engadget.com/zte-axon-20-5g-will-have-the-first-underdisplay-camera-065530680.html) (Engadget)
   * [Dear Google Cloud: Your Deprecation Policy is Killing You](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) (Steve Yegge)
@@ -1174,7 +1174,7 @@
   * [Fortnite for Android has also been kicked off the Google Play Store](https://www.theverge.com/2020/8/13/21368079/fortnite-epic-android-banned-google-play-app-store-rule-violation?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Epic is suing Google over Fortnite’s removal from the Google Play Store](https://www.theverge.com/2020/8/13/21368363/epic-google-fortnite-lawsuit-antitrust-app-play-store-apple-removal?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Epic rallies Fortnite players against Apple with a warning that they’ll miss the next season](https://www.theverge.com/2020/8/13/21368065/epic-fortnite-players-apple-block-updates-next-season-warning?utm_medium=email&utm_campaign=Fortnite%20vs%20Apple%20vs%20Google%20a%20brief%20and%20very%20incomplete%20timeline&utm_content=Fortnite%20vs%20Apple%20vs%20Google%20a%20brief%20and%20very%20incomplete%20timeline+CID_c02b99c29d58c465b8df7bfc591ffa79&utm_source=cm_email&utm_term=Epic%20rallies%20Fortnite%20players%20against%20Apple%20with%20a%20warning%20that%20theyll%20miss%20the%20next%20season) (The Verge)
-  * [Epic's 1984 Parody Video](https://www.youtube.com/watch?v=euiSHuaw6Q4&feature=emb_logo)
+  * [Epic's 1984 Parody Video](https://www.youtube.com/watch?v=euiSHuaw6Q4&feature=emb_logo) (YouTube)
   * [Photoshop Will Help ID Images That Have Been … Photoshopped](https://www.wired.com/story/photoshop-id-images-photoshopped-deepfake/) (Wired)
   * [Disney+ Gains Foothold in Streaming Battlefield, Nielsen Says](https://www.hollywoodreporter.com/live-feed/disney-gains-foothold-streaming-battlefield-nielsen-says-1307189) (The Hollywood Reporter)
 
@@ -1212,7 +1212,7 @@
   * [MicroStrategy becomes first listed company to buy bitcoin as part of its capital allocation strategy](https://www.theblockcrypto.com/linked/74534/microstrategy-becomes-first-listed-company-to-buy-bitcoin) (The Block)
   * [Parallels Desktop 16 adds Big Sur support, 3D Metal support, and more](https://arstechnica.com/gadgets/2020/08/parallels-desktop-16-adds-big-sur-support-3d-metal-support-and-more/) (Ars Technica)
   * [Nreal’s augmented reality glasses are shipping this month in Korea](https://www.theverge.com/2020/8/10/21362407/nreal-light-ar-glasses-lg-uplus-samsung-galaxy-note-retail-launch-availability-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Airbnb Plans to File Confidentially for IPO in August (WSJ)](https://www.cnbc.com/2020/08/10/spacex-starlink-satellte-production-now-120-per-month.html?__source=twitter%7Cmain)
+  * [Airbnb Plans to File Confidentially for IPO in August (WSJ)](https://www.cnbc.com/2020/08/10/spacex-starlink-satellte-production-now-120-per-month.html?__source=twitter%7Cmain) (CNBC)
   * [Tesla is involved in the development of a smartwatch, but why?](https://electrek.co/2020/08/10/tesla-smartwatch-why/) (Electrek)
   * [Onyx Launches a 6-Inch Color E-Reader](https://www.pcmag.com/news/onyx-launches-a-6-inch-color-e-reader-for-299) (PCMag)
 
@@ -1257,7 +1257,7 @@
   * [Samsung announces the Galaxy Z Fold 2 with bigger screens and better cameras](https://www.theverge.com/2020/8/5/21349537/samsung-galaxy-z-fold-2-specs-camera-screen-design?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Disney+ grows to more than 60.5M subscribers](https://techcrunch.com/2020/08/04/disney-grows-to-more-than-60-5m-subscribers/) (TechCrunch)
   * [Instagram Reels launches globally in over 50 countries, including US](https://techcrunch.com/2020/08/05/instagram-reels-launches-globally-in-over-50-countries-including-u-s/) (TechCrunch)
-  * [ByteDance CEO Says Trump’s Real Goal Is to Kill Off TikTok](https://www.bloomberg.com/news/articles/2020-08-04/bytedance-ceo-says-trump-s-real-goal-is-to-kill-off-tiktok?sref=MzDxCtkS)
+  * [ByteDance CEO Says Trump’s Real Goal Is to Kill Off TikTok](https://www.bloomberg.com/news/articles/2020-08-04/bytedance-ceo-says-trump-s-real-goal-is-to-kill-off-tiktok?sref=MzDxCtkS) (Bloomberg)
   * [Anthony Levandowski sentenced to 18 months in prison as new $4B lawsuit against Uber is filed](https://techcrunch.com/2020/08/04/anthony-levandowski-sentenced-to-18-months-in-prison-as-new-4b-lawsuit-against-uber-is-filed/) (TechCrunch)
   * [Files by Google adds PIN protection for your most sensitive files on Android](https://www.theverge.com/2020/8/5/21355278/files-by-google-secure-folder-pin-protected-encrypted-safe?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
@@ -1293,7 +1293,7 @@
 
 **Friday, July 31 2020 - Fri. 07/31 – Nvidia In Talks To Buy Arm?**
 
-  * [Nvidia in talks to buy Arm from SoftBank for more than $32bn](https://www.ft.com/content/4ed67726-1a56-4ce2-9d62-a5ec2a8f35b5) (Financial Times)
+  * [Nvidia in talks to buy Arm from SoftBank for more than $32bn](https://www.ft.com/content/4ed67726-1a56-4ce2-9d62-a5ec2a8f35b5) (FT)
   * [Facebook Is Set to Finally Get the Rights to Show Music Videos](https://www.bloomberg.com/news/articles/2020-07-31/facebook-is-set-to-finally-get-the-rights-to-show-music-videos?sref=MzDxCtkS) (Bloomberg)
   * [Apple confirms short release delay for this year's iPhones](https://www.axios.com/apple-confirms-release-delay-for-this-years-iphones-0454bf66-4fa9-42af-b973-711c62a70103.html) (Axios)
   * [Comment: Analysts half-right about AAPL’s Q3 … but so wrong!](https://9to5mac.com/2020/07/31/aapls-q3/) (9to5Mac)
@@ -1387,7 +1387,7 @@
   * [iPhone SE attracting Android switchers, unlikely to cannibalize iPhone 12 sales](https://9to5mac.com/2020/07/20/iphone-se-android-iphone-12/) (9to5Mac)
   * [Coinbase says it prevented over 1,000 customers from sending $280,000 worth of bitcoin to Twitter hackers](https://www.theblockcrypto.com/post/72200/coinbase-says-it-prevented-over-1000-customers-from-sending-280000-worth-of-bitcoin-to-twitter-hackers) (The Block)
   * [AMD’s first 7nm Ryzen 4000 desktop chips bring the fight to Intel](https://www.theverge.com/circuitbreaker/2020/7/21/21331824/amd-7nm-ryzen-4000-desktop-chips-apu-processor-prebuilt-systems-intel?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Self-driving industry takes to the highway after robotaxi failure](https://www.ft.com/content/96d3eeff-7f52-46e3-a8a8-aeb668472034) (Financial Times)
+  * [Self-driving industry takes to the highway after robotaxi failure](https://www.ft.com/content/96d3eeff-7f52-46e3-a8a8-aeb668472034) (FT)
 
 
 
@@ -1400,8 +1400,8 @@
   * [Microsoft plans for single-screen Windows 10X rollout in spring 2021; dual-screen in spring 2022](https://www.zdnet.com/article/microsoft-plans-for-single-screen-windows-10x-rollout-in-spring-2021-dual-screen-in-spring-2022/) (ZDNet)
   * [Quick thoughts on GPT3](https://delian.substack.com/p/quick-thoughts-on-gpt3) (Operators & Delian's Ramblings)
   * [Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html) (Kevin Lacker's Blog)
-  * [Video Example 1](https://twitter.com/sharifshameem/status/1283322990625607681)
-  * [Video Example 2](https://twitter.com/sharifshameem/status/1284095222939451393)
+  * [Video Example 1](https://twitter.com/sharifshameem/status/1283322990625607681) (Twitter)
+  * [Video Example 2](https://twitter.com/sharifshameem/status/1284095222939451393) (Twitter)
 
 
 
@@ -1538,7 +1538,7 @@
 **Wednesday, July 01 2020 - Wed. 07/01 – YouTube TV Has Recreated The TV Bundle At Essentially The Same Price Point**
 
   * [Facebook frustrates advertisers as boycott over hate speech kicks off](https://www.reuters.com/article/us-facebook-ads-boycott/facebook-frustrates-advertisers-as-boycott-over-hate-speech-kicks-off-idUSKBN2424GS) (Reuters)
-  * [Third of top brands likely to suspend social media spending, survey finds](https://www.ft.com/content/aa723316-67e6-41a3-9f37-e9c6b8855edb) (Financial Times)
+  * [Third of top brands likely to suspend social media spending, survey finds](https://www.ft.com/content/aa723316-67e6-41a3-9f37-e9c6b8855edb) (FT)
   * [Spotify brings its Premium Duo plan to the US, UK and dozens more countries (updated)](https://www.engadget.com/spotify-premium-duo-streaming-plan-us-pricing-details-100016592.html) (Engadget)
   * [YouTube TV hikes price to $64.99 per month following new channel additions](https://techcrunch.com/2020/06/30/youtube-tv-hikes-price-to-64-99-per-month-following-new-channel-additions/) (TechCrunch)
   * [Apple races to push ahead with 5G iPhone mass production](https://asia.nikkei.com/Business/Technology/Apple-races-to-push-ahead-with-5G-iPhone-mass-production) (Nikkei Asian Review)
@@ -1635,7 +1635,7 @@
   * [Apple’s Secretive AR and VR Headset Plans Altered by Internal Differences](https://www.bloomberg.com/news/articles/2020-06-19/apple-team-working-on-vr-and-ar-headset-and-ar-glasses?sref=MzDxCtkS) (Bloomberg Businessweek)
   * [Exclusive: Massive spying on users of Google's Chrome shows new security weakness](https://www.reuters.com/article/us-alphabet-google-chrome-exclusive/exclusive-massive-spying-on-users-of-googles-chrome-shows-new-security-weakness-idUSKBN23P0JO) (Reuters)
   * [Facebook Removes Trump Ads With Symbol Used By Nazis. Campaign Calls It An 'Emoji'](https://www.npr.org/2020/06/18/880377872/facebook-removes-trump-political-ads-with-nazi-symbol-campaign-calls-it-an-emoji) (NPR)
-  * [Wirecard chief quits as crisis deepens](https://www.ft.com/content/120a27bf-ae35-4aae-b220-54a2eff3a9e5) (Financial Times)
+  * [Wirecard chief quits as crisis deepens](https://www.ft.com/content/120a27bf-ae35-4aae-b220-54a2eff3a9e5) (FT)
   * [Japanese insurer Sompo investing $500 million in data analytics firm Palantir](https://www.reuters.com/article/us-palantir-funding/japanese-insurer-sompo-investing-500-million-in-data-analytics-firm-palantir-idUSKBN23P3R0) (Reuters)
   * [Twitch’s Streaming Boom Is Jolting the Music Industry](https://www.bloomberg.com/news/articles/2020-06-18/twitch-s-streaming-boom-is-jolting-the-music-industry?sref=MzDxCtkS) (Bloomberg)
 
@@ -1649,7 +1649,7 @@
   * [Zoom to Offer All Users Full Encryption, Bending to Pressure](https://www.bloomberg.com/news/articles/2020-06-17/zoom-to-offer-free-users-full-encryption-bending-to-pressure?sref=MzDxCtkS) (Bloomberg)
   * [Exclusive: DoorDash valued at $16 billion after new funding round](https://www.axios.com/doordash-funding-16-billion-valuation-coronavirus-96842ef2-8be3-4d9b-8d87-b2d2b85d65b9.html) (Axios)
   * [India's Reliance Jio Platforms to sell $1.5 billion stake to Saudi Arabia's Public Investment Fund](https://techcrunch.com/2020/06/18/indias-reliance-jio-platforms-sells-1-5-billion-stake-to-the-public-investment-fund/) (TechCrunch)
-  * [Wirecard says €1.9bn of cash is missing](https://www.ft.com/content/1e753e2b-f576-4f32-aa19-d240be26e773) (Financial Times)
+  * [Wirecard says €1.9bn of cash is missing](https://www.ft.com/content/1e753e2b-f576-4f32-aa19-d240be26e773) (FT)
   * [6 eBay Executives And Employees Charged With Sending Threats, Bloody Pig Mask To Natick Couple](https://boston.cbslocal.com/2020/06/15/ebay-employees-arrested-u-s-attorney-andrew-lelling-cyberstalking/) (WBZ Boston)
   * [Former eBay Execs Allegedly Made Life Hell for Critics](https://www.wired.com/story/ebay-employees-charged-cyberstalking-harassment-campaign/) (Wired)
 
@@ -1674,7 +1674,7 @@
   * [Apple says its App Store facilitated $519B in commerce in 2019](https://techcrunch.com/2020/06/15/as-antitrust-investigation-looms-apple-says-its-app-store-facilitated-519b-in-commerce-in-2019/) (TechCrunch)
   * [Instagram ‘will overtake Twitter as a news source’](https://www.bbc.com/news/technology-53050959) (BBC News)
   * [Basecamp’s founders are trying to start an email rebellion](https://www.protocol.com/hey-email) (Protocol)
-  * [Hey YouTube WalkThrough](https://www.youtube.com/watch?v=UCeYTysLyGI)
+  * [Hey YouTube WalkThrough](https://www.youtube.com/watch?v=UCeYTysLyGI) (YouTube)
   * [Dropbox officially launches its own password manager and a secure vault for your files](https://www.theverge.com/2020/6/16/21290101/dropbox-passwords-manager-vault-computer-backup-hellosign-app-center?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Boston Dynamics will now sell any business its own Spot robot for $74,500](https://www.theverge.com/21292684/boston-dynamics-spot-robot-on-sale-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
@@ -1688,7 +1688,7 @@
   * [Why People Are More Honest When Writing on Their Smartphones](https://www.wsj.com/articles/why-people-are-more-honest-when-writing-on-their-smartphones-11591999279?mod=djemalertNEWS) (WSJ)
   * [Coronavirus contact tracing apps were tech's chance to step up. They haven't.](https://www.nbcnews.com/tech/tech-news/coronavirus-contact-tracing-apps-were-tech-s-chance-step-they-n1230211) (NBC News)
   * [Jeffrey Katzenberg and Meg Whitman Struggle With Their Startup—and Each Other](https://www.wsj.com/articles/quibi-katzenberg-whitman-streaming-startup-11592157291?mod=djemalertNEWS) (WSJ)
-  * [SoftBank invests in Credit Suisse funds that finance its technology bets](https://www.ft.com/content/6995af3b-5f66-4e1b-9143-1e9daccfc9b4?shareType=nongift) (Financial Times)
+  * [SoftBank invests in Credit Suisse funds that finance its technology bets](https://www.ft.com/content/6995af3b-5f66-4e1b-9143-1e9daccfc9b4?shareType=nongift) (FT)
 
 
 
@@ -1761,7 +1761,7 @@
 
 **Thursday, June 04 2020 - Thu. 06/04 – A Class-Action Lawsuit Around Incognito Mode**
 
-  * [Speaking up on racism](https://www.apple.com/speaking-up-on-racism/) (Tim Cook/Apple.com)
+  * [Speaking up on racism](https://www.apple.com/speaking-up-on-racism/) (Tim Cook)
   * [Early Facebook Employees Disavow Zuckerberg’s Stance on Trump Posts](https://www.nytimes.com/2020/06/03/technology/facebook-trump-employees-letter.html) (NYTimes)
   * [Snap will stop promoting Trump’s account after concluding his tweets incited violence](https://www.theverge.com/2020/6/3/21279280/snapchat-snap-remove-trump-account-discover-promotion-incite-violence-twitter) (The Verge)
   * [Exclusive: Amazon in talks to buy $2 billion stake in Indian telco Bharti Airtel - sources](https://www.reuters.com/article/us-amazon-india-bharti-exclusive/exclusive-amazon-in-talks-to-buy-2-billion-stake-in-indian-telco-bharti-airtel-sources-idUSKBN23B1F8) (Reuters)
@@ -2199,7 +2199,7 @@
 **Wednesday, April 15 2020**
 
   * [Apple announces the new $399 iPhone SE for 2020](https://www.theverge.com/2020/4/15/21221918/iphone-se-announcement-apple-price-specs-release-date-features) (The Verge)
-  * [Airbnb raises another $1bn](https://www.ft.com/content/bc26db3c-34dd-4ba9-bf0b-2ef422bfd3b6) (Financial Times)
+  * [Airbnb raises another $1bn](https://www.ft.com/content/bc26db3c-34dd-4ba9-bf0b-2ef422bfd3b6) (FT)
   * [Amazon slashes commission rates for program that gives publishers a cut of sales](https://www.cnbc.com/2020/04/14/amazon-slashes-commission-rates-for-affiliate-program.html) (CNBC)
   * [Github is now free for all teams](https://techcrunch.com/2020/04/14/github-is-now-free-for-all-teams/) (TechCrunch)
   * [Washington AG sues Facebook for violating state political ad law](https://www.geekwire.com/2020/washington-ag-sues-facebook-violating-state-political-ad-law/) (GeekWire)
@@ -2226,13 +2226,13 @@
 
 **Monday, April 13 2020 - Mon. 04/13 – Back To The iPhone 5 Design Future?**
 
-  * [@moxie Tweet Thread](https://twitter.com/moxie/status/1248707315626201088)
+  * [@moxie Tweet Thread](https://twitter.com/moxie/status/1248707315626201088) (Twitter)
   * [How Apple and Google are tackling one of the toughest parts about tracking COVID-19 exposures](https://www.theverge.com/interface/2020/4/11/21216652/apple-google-contact-tracing-covid-19-coronavirus-api-public-health-app-challenges) (The Verge)
   * [NHS phone app holds key to lifting UK’s coronavirus lockdown](https://www.thetimes.co.uk/article/nhs-phone-app-holds-key-to-lifting-uks-coronavirus-lockdown-wfmt3pt0g) (The Times (UK)
   * [Apple Plans iPad-Like Design for Next iPhone, Smaller HomePod](https://www.bloomberg.com/news/articles/2020-04-13/apple-plans-ipad-like-design-for-next-iphone-smaller-homepod) (Bloomberg)
   * [SoftBank Group forecasts $7-bn full-year net loss](https://finance.yahoo.com/news/softbank-group-forecasts-7-bn-full-net-loss-111845217--finance.html) (Yahoo Finance)
   * [Son’s $2 Billion Guarantee at Risk as Virus Hits SoftBank Star](https://www.bloomberg.com/news/articles/2020-04-12/son-s-2-billion-guarantee-at-risk-as-virus-hits-softbank-star) (Bloomberg)
-  * [Fall of the roaming empire: telecom groups face revenue loss as travel collapses](https://www.ft.com/content/18b853b6-c9fa-4821-a5f3-29fb09899312) (Financial Times)
+  * [Fall of the roaming empire: telecom groups face revenue loss as travel collapses](https://www.ft.com/content/18b853b6-c9fa-4821-a5f3-29fb09899312) (FT)
   * [As YouTube Traffic Soars, YouTubers Say Pay Is Plummeting](https://onezero.medium.com/as-youtube-traffic-soars-youtubers-say-pay-is-plummeting-30dc1ba444db) (OneZero)
   * [‘It’s still niche’: Esports see audience surge, more tepid ad demand](https://digiday.com/media/its-still-niche-esports-see-audience-surge-more-tepid-ad-demand/) (Digiday)
   * [Anyone's a Celebrity Streamer With This Open Source App](https://www.wired.com/story/anyones-celebrity-streamer-open-source-app/) (Wired)
@@ -2267,7 +2267,7 @@
 
 **Wednesday, April 08 2020 - Wed. 04/08 – The Desktop Web Is Back (for the time being…)**
 
-  * [@jack's tweet storm](https://twitter.com/jack/status/1247616214769086465)
+  * [@jack's tweet storm](https://twitter.com/jack/status/1247616214769086465) (Twitter)
   * [Airbnb Paying More Than 10% Interest on $1 Billion Financing Announced Monday](https://www.wsj.com/articles/airbnb-paying-more-than-10-interest-on-1-billion-financing-announced-monday-11586297484) (WSJ)
   * [Airbnb In Talks To Raise More Debt](https://www.bloomberg.com/news/articles/2020-04-07/airbnb-in-talks-to-raise-more-debt-amid-global-crisis) (Bloomberg)
   * [Update on Zoom’s 90-Day Plan to Bolster Key Privacy and Security Initiatives](https://blog.zoom.us/wordpress/2020/04/08/update-on-zoom-90-day-plan-to-bolster-key-privacy-and-security-initiatives/) (Zoom Blog)
@@ -2311,7 +2311,7 @@
 **Friday, April 03 2020 - It’s An 80’s Style Free HBO Bonanza!**
 
   * [Google uses location data to show which places are complying with stay-at-home orders — and which aren’t](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy) (The Verge)
-  * [In coronavirus fight, oft-criticized Facebook data aids U.S.](https://www.reuters.com/article/health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ)
+  * [In coronavirus fight, oft-criticized Facebook data aids U.S.](https://www.reuters.com/article/health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ) (Reuters)
   * [PRIVACY EXPERTS SAY RESPONSIBLE CORONAVIRUS SURVEILLANCE IS POSSIBLE](https://theintercept.com/2020/04/02/coronavirus-covid-19-surveillance-privacy/) (The Intercept)
   * [Exclusive: iPhone 9 launch imminent, 2020 ‘iPhone SE’ in red, white, and black with up to 256GB](https://9to5mac.com/2020/04/02/exclusive-iphone-9-launch-imminent-2020-iphone-se-in-red-white-and-black/) (9to5Mac)
   * [Tesla soars on delivery numbers -- company delivered 88,400 vehicles in Q1](https://www.cnbc.com/2020/04/02/tesla-tsla-1q-2020-production-and-delivery-numbers.html) (CNBC)
@@ -2340,7 +2340,7 @@
   * [Marriott discloses new data breach impacting 5.2 million hotel guests](https://www.zdnet.com/article/marriott-discloses-new-data-breach-impacting-5-2-million-hotel-guests/) (ZDNet)
   * [Comcast waiving data caps hasn’t hurt its network—why not make it permanent?](https://arstechnica.com/tech-policy/2020/03/comcast-waiving-data-cap-hasnt-hurt-its-network-why-not-make-it-permanent/) (Ars Technica)
   * [Zoom Lets Attackers Steal Windows Credentials via UNC Links](https://www.bleepingcomputer.com/news/security/zoom-lets-attackers-steal-windows-credentials-via-unc-links/) (Bleeping Computer)
-  * [@c1truz_ thread about Zoom](https://twitter.com/c1truz_/status/1244737672930824193)
+  * [@c1truz_ thread about Zoom](https://twitter.com/c1truz_/status/1244737672930824193) (Twitter)
   * [Amazon's Covid Hiring Boom Has Applicants Packed Into Job Fairs With No Special Precautions](https://www.bloomberg.com/news/articles/2020-04-01/amazon-s-hiring-spree-followed-no-special-coronavirus-precautions) (Bloomberg)
   * [Amazon Struggles to Find Its Coronavirus Footing. ‘It’s a Time of Great Stress.’](https://www.wsj.com/articles/amazon-struggles-to-find-its-coronavirus-footing-its-a-time-of-great-stress-11585664987?mod=hp_lead_pos5&utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter) (WSJ)
   * [Amazon's past catches up with it](https://www.getrevue.co/profile/caseynewton/issues/amazon-s-past-catches-up-with-it-237179?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=The+Interface) (The Interface)
@@ -2406,7 +2406,7 @@
 **Wednesday, March 25 2020 - Google Podcasts Comes To iOS**
 
   * [Facebook Is ‘Just Trying to Keep the Lights On’ as Traffic Soars in Pandemic](https://www.nytimes.com/2020/03/24/technology/virus-facebook-usage-traffic.html) (NYTimes)
-  * [The Coronavirus Revives Facebook as a News Powerhouse](https://www.nytimes.com/2020/03/23/technology/coronavirus-facebook-news.html)
+  * [The Coronavirus Revives Facebook as a News Powerhouse](https://www.nytimes.com/2020/03/23/technology/coronavirus-facebook-news.html) (NYTimes)
   * [Google Podcasts is finally available of iOS](https://techcrunch.com/2020/03/25/google-podcasts-is-finally-available-on-ios/) (TechCrunch)
   * [Apple updates Safari’s anti-tracking tech with full third-party cookie blocking](https://www.theverge.com/2020/3/24/21192830/apple-safari-intelligent-tracking-privacy-full-third-party-cookie-blocking) (The Verge)
   * [Apple May Start Reopening Stores in First Half of April](https://www.bloomberg.com/news/articles/2020-03-24/apple-expects-to-start-re-opening-stores-in-first-half-of-april) (Bloomberg)
@@ -2461,11 +2461,11 @@
   * [Square gains FDIC conditional approval for a banking license](https://siliconangle.com/2020/03/18/square-gains-conditional-approval-banking-license-fdic/) (Silicon Angle)
   * [Microsoft Teams passes 44 million daily active users, thanks in part to coronavirus](https://venturebeat.com/2020/03/19/microsoft-teams-passes-44-million-daily-active-users-thanks-in-part-to-coronavirus/) (VentureBeat)
   * [What worries Mark Zuckerberg](https://www.getrevue.co/profile/caseynewton/issues/what-worries-mark-zuckerberg-234152) (The Interface)
-  * [EU warns of broadband strain as millions work from home](https://www.ft.com/content/b4ab03db-de1f-4f98-bcc2-b09007427e1b) (Financial Times)
+  * [EU warns of broadband strain as millions work from home](https://www.ft.com/content/b4ab03db-de1f-4f98-bcc2-b09007427e1b) (FT)
   * [Improved iPhone, AirPods availability suggests Chinese production nearing normality](https://appleinsider.com/articles/20/03/18/improved-iphone-airpods-availability-suggests-chinese-production-nearing-normal-capacity) (Apple Insider)
   * [Music streaming may actually be falling because of coronavirus](https://qz.com/1820896/music-streaming-may-actually-be-falling-because-of-coronavirus/) (QZ)
   * [Apple's iPad Pro becomes more like a Surface, and that's a problem for Microsoft](https://www.windowscentral.com/apple-ipad-pro-magic-keyboard-surface) (Windows Central)
-  * [Steven Sinofsky tweet thread about the iPad](https://twitter.com/stevesi/status/1240327411478061056)
+  * [Steven Sinofsky tweet thread about the iPad](https://twitter.com/stevesi/status/1240327411478061056) (Twitter)
 
 
 
@@ -2580,7 +2580,7 @@
   * [Apple opens repair program for 2019 iPad Air models suffering from blank screen issue](https://appleinsider.com/articles/20/03/06/apple-opens-repair-program-for-2019-ipad-air-models-suffering-from-blank-screen-issue) (AppleInsider)
   * [iPhone 12 Pro leak reveals how Apple will beat the Samsung Galaxy S20](https://www.tomsguide.com/news/iphone-12-pro-leak-reveals-how-apple-will-annihilate-samsung-galaxy-s20) (Tom's Guide)
   * [New AMD Side Channel Attacks Discovered, Impacts Zen Architecture (AMD Responds)](https://www.tomshardware.com/uk/news/new-amd-side-channel-attacks-discovered-impacts-zen-architecture) (Tom's Hardware)
-  * [ARM-ed Mac: Not Again Or For Real This Time?](https://mondaynote.com/arm-ed-mac-not-again-or-for-real-this-time-a3548eece86) (Jean-Louis Gassee)
+  * [ARM-ed Mac: Not Again Or For Real This Time?](https://mondaynote.com/arm-ed-mac-not-again-or-for-real-this-time-a3548eece86) (Jean)
   * [How to Make Money in Your Sleep](https://www.nytimes.com/2020/03/06/style/sleep-tiktok-live.html) (NYTimes)
 
 
@@ -2808,7 +2808,7 @@
 **Wednesday, February 12 2020 - Is CISO A Thankless Job?**
 
   * [U.S. Officials Say Huawei Can Covertly Access Telecom Networks](https://www.wsj.com/articles/u-s-officials-say-huawei-can-covertly-access-telecom-networks-11581452256) (WSJ)
-  * [Facebook accuses telecoms groups of disinformation tactics](https://www.ft.com/content/1096ad54-4d5f-11ea-95a0-43d18ec715f5) (Financial Times)
+  * [Facebook accuses telecoms groups of disinformation tactics](https://www.ft.com/content/1096ad54-4d5f-11ea-95a0-43d18ec715f5) (FT)
   * [FTC Expands Antitrust Investigation Into Big Tech](https://www.wsj.com/articles/ftc-plans-to-examine-past-acquisitions-by-big-tech-companies-11581440270) (WSJ)
   * [Airbnb Swings to a Loss as Costs Climb Ahead of IPO](https://www.wsj.com/articles/airbnb-swings-to-a-loss-as-costs-climb-ahead-of-ipo-11581443123) (WSJ)
   * [Apple Pay is on pace to account for 10% of all global card transactions](https://qz.com/1799912/apple-pay-on-pace-to-account-for-10-percent-of-global-card-transactions/) (QZ)
@@ -2892,7 +2892,7 @@
   * [YouTube is a $15 billion-a-year business, Google reveals for the first time](https://www.theverge.com/2020/2/3/21121207/youtube-google-alphabet-earnings-revenue-first-time-reveal-q4-2019) (The Verge)
   * [This Is The Buzzy Democratic Firm That Botched The Iowa Caucuses](https://www.huffpost.com/entry/iowa-caucus-app-shadow_n_5e390191c5b687dacc722824) (HuffPost)
   * [Some Google Photos videos in ‘Takeout’ backups were sent to strangers last November](https://ww.9to5google.com/2020/02/03/google-photos-video-strangers/#) (9to5Google)
-  * [Mastercard chief speaks out against nationalism and Facebook](https://www.ft.com/content/16bec8aa-42e8-11ea-a43a-c4b328d9061c) (Financial Times)
+  * [Mastercard chief speaks out against nationalism and Facebook](https://www.ft.com/content/16bec8aa-42e8-11ea-a43a-c4b328d9061c) (FT)
   * [Asana Says It’s Filed to Go Public Through a Direct Listing](https://www.bloomberg.com/news/articles/2020-02-03/asana-says-it-s-filed-to-go-public-through-a-direct-listing) (Bloomberg)
   * [Chip Industry Had Worst Sales Year Since Dot-Com Bubble Burst](https://www.bloomberg.com/news/articles/2020-02-03/chip-industry-had-worst-sales-year-since-dot-com-bubble-burst) (Bloomberg)
   * [Top Antitrust Official Is Said to Recuse Himself From Google Inquiry](https://www.nytimes.com/2020/02/03/technology/makan-delrahim-antitrust-google-tech.html) (NYTimes)
@@ -2918,7 +2918,7 @@
 
   * [Amazon Revenue Jumps on Holiday Sales as Profit Rises](https://www.wsj.com/articles/amazon-beats-earnings-estimates-as-shipping-costs-stabilize-11580419032) (WSJ)
   * [Apple's redesigned Maps app is available across the US](https://techcrunch.com/2020/01/30/apples-redesigned-maps-app-is-available-across-the-u-s-adds-real-time-transit-for-miami/) (TechCrunch)
-  * [Uber and DoorDash held merger talks after SoftBank push](https://www.ft.com/content/e46a250a-4352-11ea-a43a-c4b328d9061c) (Financial Times)
+  * [Uber and DoorDash held merger talks after SoftBank push](https://www.ft.com/content/e46a250a-4352-11ea-a43a-c4b328d9061c) (FT)
   * [SoftBank Is Funding Every Side of a Bruising Startup Battle](https://www.wsj.com/articles/softbank-is-funding-every-side-of-latin-americas-bruising-startup-battle-11580398900) (WSJ)
   * [EU lawmakers snub Apple's pleas, overwhelmingly vote to push for charging cable standard](https://appleinsider.com/articles/20/01/30/eu-lawmakers-snub-apples-pleas-overwhelmingly-vote-to-push-for-charging-cable-standard) (Apple Insider)
   * [How Dubsmash revived itself as #2 to TikTok](https://techcrunch.com/2020/01/31/dubsmash-songs/) (TechCrunch)
@@ -2977,7 +2977,7 @@
   * [Online mattress retailer Casper IPO to raise $182.4 million](https://www.cnbc.com/2020/01/27/online-mattress-retailer-casper-ipo-to-raise-182point4-million.html) (CNBC)
   * [Leaked Documents Expose the Secretive Market for Your Web Browsing Data](https://www.vice.com/en_us/article/qjdkq7/avast-antivirus-sells-user-browsing-data-investigation) (Motherboard)
   * [Seamless, Grubhub deliver confusion with mistaken restaurant listings](https://www.sfchronicle.com/food/article/SF-restaurant-Kin-Khao-doesn-t-offer-delivery-15005797.php) (The San Francisco Chronicle)
-  * [Alex Danco Tweet Thread](https://twitter.com/alex_danco/status/1221802282611814404)
+  * [Alex Danco Tweet Thread](https://twitter.com/alex_danco/status/1221802282611814404) (Twitter)
 
 
 
@@ -3000,7 +3000,7 @@
   * [Microsoft starts rolling out developer tools for its dual-screen Surface Duo Android phone](https://www.zdnet.com/article/microsoft-starts-rolling-out-developer-tools-for-its-dual-screen-surface-duo-android-phone/) (ZDNet)
   * [Match Group invests in Noonlight to power new safety features in Tinder and other dating apps](https://techcrunch.com/2020/01/23/match-group-invests-in-noonlight-to-power-new-safety-features-in-tinder-and-other-dating-apps/) (TechCrunch)
   * [Here Is the Technical Report Suggesting Saudi Arabia’s Prince Hacked Jeff Bezos’ Phone](https://www.vice.com/en_us/article/v74v34/saudi-arabia-hacked-jeff-bezos-phone-technical-report) (Motherboard)
-  * [Alex Stamos Tweet Storm](https://twitter.com/alexstamos/status/1220099472325148672)
+  * [Alex Stamos Tweet Storm](https://twitter.com/alexstamos/status/1220099472325148672) (Twitter)
   * [Google’s ads just look like search results now](https://www.theverge.com/tldr/2020/1/23/21078343/google-ad-desktop-design-change-favicon-icon-ftc-guidelines) (The Verge)
 
 
@@ -3008,10 +3008,10 @@
 **Wednesday, January 22 2020 - The Bezos Phone Hacking Thing**
 
   * [Jeff Bezos hack: Amazon boss's phone 'hacked by Saudi crown prince'](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) (The Guardian)
-  * [Saudi’s MBS implicated in hacking of Jeff Bezos’s phone](https://www.ft.com/content/83dcdf74-3c9b-11ea-a01a-bae547046735) (Financial Times)
+  * [Saudi’s MBS implicated in hacking of Jeff Bezos’s phone](https://www.ft.com/content/83dcdf74-3c9b-11ea-a01a-bae547046735) (FT)
   * [UN calls for investigation into alleged Saudi crown prince involvement in Bezos phone hack](https://www.cnbc.com/2020/01/22/bezos-phone-hacking-un-calls-for-immediate-investigation.html) (CNBC)
   * [New Low-Cost iPhone to Enter Mass Production in February](https://www.bloomberg.com/news/articles/2020-01-21/new-low-cost-iphone-said-to-enter-mass-production-in-february) (Bloomberg)
-  * [Amazon Music subscriber numbers close in on Apple](https://www.ft.com/content/8acedb52-3be2-11ea-a01a-bae547046735) (Financial Times)
+  * [Amazon Music subscriber numbers close in on Apple](https://www.ft.com/content/8acedb52-3be2-11ea-a01a-bae547046735) (FT)
   * [Exclusive: Seattle-Area Voters To Vote By Smartphone In 1st For U.S. Elections](https://www.npr.org/2020/01/22/798126153/exclusive-seattle-area-voters-to-vote-by-smartphone-in-1st-for-u-s-elections) (NPR)
   * [EXCLUSIVE LOOK AT CRUISE’S FIRST DRIVERLESS CAR WITHOUT A STEERING WHEEL OR PEDALS](https://www.theverge.com/2020/1/21/21075977/cruise-driverless-car-gm-no-steering-wheel-pedals-ev-exclusive-first-look) (The Verge)
   * [Netflix says Disney and Baby Yoda may have cut into the streaming service’s growth](https://www.vox.com/recode/2020/1/21/21075873/netflix-disney-mandalorian-earnings) (Recode)
@@ -3153,7 +3153,7 @@
   * [Samsung details its stunning bezel-less 8K TV](https://www.theverge.com/2020/1/5/21050207/samsung-qled-8k-bezel-less-tv-q950ts-ces-2020) (The Verge)
   * [The 10 Neatest Things We've Seen at CES So Far](https://www.wired.com/story/ces-2020-photo-gallery-day-1/) (Wired)
   * [Intel just confirmed it’s building this tiny modular desktop gaming PC](https://www.theverge.com/2020/1/6/21051276/intel-ghost-canyon-nuc-9-extreme-confirmed-ces-2020-modular-gaming-desktop) (The Verge)
-  * [Processor With Dieter Bohn Newsletter Signup](https://www.theverge.com/2020/1/2/21046395/processor-newsletter-tech-computers-gadgets-software-dieter-bohn-consumer)
+  * [Processor With Dieter Bohn Newsletter Signup](https://www.theverge.com/2020/1/2/21046395/processor-newsletter-tech-computers-gadgets-software-dieter-bohn-consumer) (The Verge)
 
 
 
@@ -3173,7 +3173,7 @@
   * [Dell debuts 5G-ready Latitude 9510 laptop, adds iOS mirroring to PCs](https://venturebeat.com/2020/01/02/dell-debuts-5g-ready-latitude-9510-laptop-adds-ios-mirroring-to-pcs/) (VentureBeat)
   * [Apple restores Imagination GPU chip agreement after public dispute and employee poaching](https://ww.9to5mac.com/2020/01/01/apple-imagination-agreement/) (9to5Mac)
   * [IRS Reforms Free File Program, Drops Agreement Not to Compete With TurboTax](https://www.propublica.org/article/irs-reforms-free-file-program-drops-agreement-not-to-compete-with-turbotax) (ProPublica)
-  * [I Was Google’s Head of International Relations. Here’s Why I Left.](https://medium.com/@rossformaine/i-was-googles-head-of-international-relations-here-s-why-i-left-49313d23065) (Ross LaJeunesse/Medium)
+  * [I Was Google’s Head of International Relations. Here’s Why I Left.](https://medium.com/@rossformaine/i-was-googles-head-of-international-relations-here-s-why-i-left-49313d23065) (Ross LaJeunesse)
   * [Google veterans: The company has become ‘unrecognizable’](https://www.cnbc.com/2019/12/31/google-veterans-the-company-has-become-unrecognizable.html) (CNBC)
 
 

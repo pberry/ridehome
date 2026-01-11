@@ -1,5 +1,4 @@
 ---
-layout: category
 title: Crypto/Blockchain
 ---
 
@@ -24,7 +23,7 @@ title: Crypto/Blockchain
 - [Polymarket Secures CFTC Approval for Regulated U.S. Return](https://www.coindesk.com/business/2025/11/25/polymarket-secures-cftc-approval-for-regulated-u-s-return) (CoinDesk)
 - [In Las Vegas, Kalshi Is King](https://www.theinformation.com/articles/las-vegas-kalshi-king?rc=i9gkgs) (The Information)
 - [Source: Kalshi’s valuation jumps to $11B after raising massive $1B round](https://techcrunch.com/2025/11/20/source-kalshis-valuation-jumps-to-11b-after-raising-massive-1b-round/) (TechCrunch)
-- [Crypto market sheds $1.2tn as traders shun speculative assets](https://www.ft.com/content/6b171d3e-4a9e-4e2d-aafc-3b4047e44f32) (Financial Times)
+- [Crypto market sheds $1.2tn as traders shun speculative assets](https://www.ft.com/content/6b171d3e-4a9e-4e2d-aafc-3b4047e44f32) (FT)
 - [CRYPTO: Realm of the Coin](https://vanityfair.azurewebsites.net/article/2025/11/crypto-realm-of-the-coin)
 - [Coinbase Launches Platform for Digital Token Offerings](https://www.wsj.com/finance/currencies/coinbase-launches-platform-for-digital-token-offerings-de699cbf?st=7XXRBi&reflink=desktopwebshare_permalink) (WSJ)
 - [AI models given $10K to compete in first-of-its-kind crypto-trading competition — and most crashed and burned](https://nypost.com/2025/11/08/business/ai-models-given-10k-to-compete-in-first-of-its-kind-crypto-trading-competition-and-most-crashed-and-burned/) (NYPost)
@@ -39,7 +38,7 @@ title: Crypto/Blockchain
 
 ### September
 
-- [Stablecoin issuer Circle examines ‘reversible’ transactions in departure for crypto](https://www.ft.com/content/5b00127e-1f26-4b36-9b19-d20b38392e8c) (Financial Times)
+- [Stablecoin issuer Circle examines ‘reversible’ transactions in departure for crypto](https://www.ft.com/content/5b00127e-1f26-4b36-9b19-d20b38392e8c) (FT)
 - [Coinbase CEO: We Want To Become A Super App](https://www.coindesk.com/markets/2025/09/20/coinbase-ceo-we-want-to-become-a-super-app-and-provide-all-types-of-financial-services) (CoinDesk)
 - [PayPal Links lets you send and receive money much faster now - even crypto](https://www.zdnet.com/article/paypal-links-lets-you-send-and-receive-money-much-faster-now-even-crypto/) (ZDNet)
 - [Nasdaq makes push to launch trading of tokenized securities](https://www.reuters.com/business/finance/nasdaq-makes-push-launch-trading-tokenized-securities-2025-09-08/) (Reuters)
@@ -48,19 +47,19 @@ title: Crypto/Blockchain
 ### August
 
 - [Google Cloud is developing its own blockchain for payments, currently in private testnet](https://www.theblock.co/post/368399/google-cloud-blockchain-gcul) (The Block)
-- [Behind Wall Street’s Abrupt Flip on Crypto](https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html?unlocked_article_code=1.eE8.qoJM.WdlNjZYqL8S5&smid=nytcore-ios-share&referringSource=articleShare)
+- [Behind Wall Street’s Abrupt Flip on Crypto](https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html?unlocked_article_code=1.eE8.qoJM.WdlNjZYqL8S5&smid=nytcore-ios-share&referringSource=articleShare) (NYTimes)
 
 ### July
 
 - [PayPal to Roll Out ‘Pay With Crypto’ Feature for Merchants](https://www.bloomberg.com/news/articles/2025-07-28/paypal-to-roll-out-pay-with-crypto-feature-for-merchants) (Bloomberg)
-- [Companies load up on niche crypto tokens to boost share prices](https://www.ft.com/content/50f98757-3823-4cd2-9adf-738f9e41b546) (Financial Times)
-- [Donald Trump set to open US retirement market to crypto investments](https://www.ft.com/content/07906211-5ab8-4917-bcad-5397c0bc3170) (Financial Times)
+- [Companies load up on niche crypto tokens to boost share prices](https://www.ft.com/content/50f98757-3823-4cd2-9adf-738f9e41b546) (FT)
+- [Donald Trump set to open US retirement market to crypto investments](https://www.ft.com/content/07906211-5ab8-4917-bcad-5397c0bc3170) (FT)
 
 ### June
 
 - [Walmart and Amazon Are Exploring Issuing Their Own Stablecoins](https://www.wsj.com/finance/banking/walmart-amazon-stablecoin-07de2fdd) (WSJ)
-- [Why we should worry about the rise of stablecoins](https://www.ft.com/content/e5701ff2-d976-451f-9ca2-68cd5f833c1a)
-- [How stablecoins are entering the financial mainstream](https://www.ft.com/content/b69f304c-798e-4dc3-9f17-6f7a7c8d3ac0) (Financial Times)
+- [Why we should worry about the rise of stablecoins](https://www.ft.com/content/e5701ff2-d976-451f-9ca2-68cd5f833c1a) (FT)
+- [How stablecoins are entering the financial mainstream](https://www.ft.com/content/b69f304c-798e-4dc3-9f17-6f7a7c8d3ac0) (FT)
 - [Pump.fun plans $1B token sale at $4B valuation: Sources](https://blockworks.co/news/pumpdotfun-token-sale) (Blockworks)
 
 ### May
@@ -80,7 +79,7 @@ title: Crypto/Blockchain
 
 - [Crypto’s Trumpian Embrace Is Leaving Bitcoin’s Big Rival Behind](https://www.bloomberg.com/news/articles/2025-03-29/crypto-s-trumpian-embrace-is-leaving-bitcoin-s-big-rival-behind?sref=Szq5ylDR) (Bloomberg)
 - [Fidelity plans to launch stablecoin in digital assets push](https://www.ft.com/content/7df7c1d9-9e1f-4de4-8161-1cdb6f4e0e7f) (FT)
-- [One Man’s Crypto Windfall Is Funding a $1 Billion Space Station Dream](https://www.bloomberg.com/news/features/2025-03-20/crypto-windfall-is-funding-vast-s-space-station-ambitions?sref=Szq5ylDR)
+- [One Man’s Crypto Windfall Is Funding a $1 Billion Space Station Dream](https://www.bloomberg.com/news/features/2025-03-20/crypto-windfall-is-funding-vast-s-space-station-ambitions?sref=Szq5ylDR) (Bloomberg)
 - [Donald Trump signs executive order for Strategic Bitcoin Reserve](https://cointelegraph.com/news/donald-trump-signs-executive-order-strategic-bitcoin-reserve) (CoinTelegraph)
 - [Bored Ape Creator Yuga Labs Says SEC Closing Investigation in 'Huge Win' for NFT Sector](https://decrypt.co/308539/bored-ape-creator-yuga-labs-says-sec-closing-investigation-in-huge-win-for-nft-sector) (Decrypt)
 - [Donald Trump Names Components Of Crypto Reserve](https://www.coindesk.com/policy/2025/03/02/trump-to-establish-u-s-crypto-reserve) (CoinDesk)
@@ -90,7 +89,7 @@ title: Crypto/Blockchain
 - [SEC says most meme coins are not securities](https://www.cnbc.com/2025/02/27/sec-says-most-meme-coins-are-not-securities.html) (CNBC)
 - [Illicit Crypto Volume in 2024 Hit a Record $40B in 2024](https://www.coindesk.com/business/2025/02/27/illicit-crypto-volume-in-2024-hit-usd40b-a-record-year-for-stablecoin-crime-chainalysis) (CoinDesk)
 - [Bitcoin ETFs Are Hit by a Record $1 Billion Outflow in One Day](https://www.bloomberg.com/news/articles/2025-02-26/bitcoin-etfs-see-record-1-billion-outflow-qqq-spy-gain?sref=Szq5ylDR) (Bloomberg)
-- [How North Korea pulled off a $1.5 billion crypto heist—the biggest in history](https://arstechnica.com/security/2025/02/how-north-korea-pulled-off-a-1-5-billion-crypto-heist-the-biggest-in-history/) (ArsTechnica)
+- [How North Korea pulled off a $1.5 billion crypto heist—the biggest in history](https://arstechnica.com/security/2025/02/how-north-korea-pulled-off-a-1-5-billion-crypto-heist-the-biggest-in-history/) (Ars Technica)
 - [Bybit Hit by Crypto’s Worst Hack With Almost $1.5 Billion Stolen](https://www.bloomberg.com/news/articles/2025-02-21/bybit-says-exchange-wallet-hacked-1-5-billion-estimated-loss?sref=Szq5ylDR) (Bloomberg)
 - [Bybit Hack](https://www.coindesk.com/business/2025/02/22/bybit-sees-over-usd4-billion-bank-run-after-crypto-s-biggest-hack) (CoinDesk)
 - [Polymarket Bettors Punt $1.1B on Superbowl Results, Despite Regulatory Overhang](https://www.coindesk.com/markets/2025/02/10/polymarket-bettors-punt-usd1-1b-on-superbowl-results-despite-regulatory-overhang) (CoinDesk)
@@ -131,7 +130,7 @@ title: Crypto/Blockchain
 - [Suspects behind $230 million cryptocurrency theft arrested in Miami](https://www.bleepingcomputer.com/news/security/suspects-behind-230-million-cryptocurrency-theft-arrested-in-miami/) (BleepingComputer)
 - [Adam Neumann’s Climate Company Is Issuing Refunds After Failing To Launch Crypto Token](https://www.forbes.com/sites/sarahemerson/2024/09/11/adam-neumanns-climate-company-is-issuing-refunds-after-failing-to-launch-crypto-token/) (Forbes)
 - [Payments in Singapore With Stablecoins Rise to Almost $1 Billion](https://www.bloomberg.com/news/articles/2024-09-11/payments-in-singapore-with-stablecoins-rise-to-almost-1-billion?sref=Szq5ylDR) (Bloomberg)
-- [When the Bitcoin Scammers Came for Me](https://www.theatlantic.com/ideas/archive/2024/09/bitcoin-scams-lonely-americans/679700/)
+- [When the Bitcoin Scammers Came for Me](https://www.theatlantic.com/ideas/archive/2024/09/bitcoin-scams-lonely-americans/679700/) (The Atlantic)
 - [Pump.fun surpasses $100 million in revenue as Polymarket outshines NFTs in August](https://www.theblock.co/post/314054/pump-fun-surpasses-100-million-in-revenue-as-polymarket-outshines-nfts-in-august) (The Block)
 
 ### August
@@ -198,19 +197,19 @@ title: Crypto/Blockchain
 
 ### October
 
-- [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/)
+- [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/) (Wired)
 - [Worldcoin to pay orb operators in WLD rather than USDC](https://www.theblock.co/post/258862/worldcoin-to-pay-orb-operators-in-wld-rather-than-usdc) (The Block)
 - [Worldcoin to cease paying Orb operators in USDC as early as November](https://cointelegraph.com/news/worldcoin-cease-usdc-payments-native-token-wld) (CoinTelegraph)
 - [U.S. Treasury Seeks to Name Crypto Mixers as 'Money Laundering Concern'](https://www.coindesk.com/policy/2023/10/19/us-treasury-seeks-to-name-crypto-mixers-as-money-laundering-concern/) (CoinDesk)
 - [SEC Drops Charges Against Ripple CEO Garlinghouse, Chairman Larsen](https://www.coindesk.com/policy/2023/10/19/sec-drops-charges-against-ripple-ceo-garlinghouse-chairman-larsen/) (CoinDesk)
 - [Chainalysis says some reports might be overestimating crypto's role in terrorist financing](https://www.theblock.co/post/258284/chainalysis-says-some-reports-might-be-overestimating-cryptos-role-in-terrorist-financing) (The Block)
 - [NY Attorney General sues Gemini, Genesis and DCG for allegedly defrauding crypto investors of over $1B](https://techcrunch.com/2023/10/19/ny-attorney-general-sues-gemini-genesis-and-dcg-for-defrauding-crypto-investors-of-over-1b/) (TechCrunch)
-- [Israel orders freeze on crypto accounts in bid to block funding for Hamas](https://www.ft.com/content/e03a370b-777f-46c2-8576-d1cee731efe2) (FinancialTimes)
+- [Israel orders freeze on crypto accounts in bid to block funding for Hamas](https://www.ft.com/content/e03a370b-777f-46c2-8576-d1cee731efe2) (FT)
 - [Caroline Ellison, Adviser to Sam Bankman-Fried, Says He ‘Directed’ Her to Commit Crimes](https://www.nytimes.com/2023/10/10/technology/caroline-ellison-sam-bankman-fried-trial.html) (NYTimes)
 
 ### September
 
-- [Can FTX Be Revived—Without Sam Bankman-Fried?](https://www.wired.com/story/can-ftx-be-revived-without-sam-bankman-fried-sbf/)
+- [Can FTX Be Revived—Without Sam Bankman-Fried?](https://www.wired.com/story/can-ftx-be-revived-without-sam-bankman-fried-sbf/) (Wired)
 - [Coinbase Role in Crypto Firm Celsius’s Bankruptcy Plan Questioned by SEC](https://www.bloomberg.com/news/articles/2023-09-25/sec-questions-coinbase-role-in-celsius-bankruptcy-plan-coin-cel?sref=Szq5ylDR) (Bloomberg)
 - [Defi Project Mixin Network Suspends Services After $200 Million Crypto Hack](https://www.bloomberg.com/news/articles/2023-09-25/defi-project-mixin-suspends-services-after-200-million-hack?sref=Szq5ylDR) (Bloomberg)
 - [Judge Allows Bankrupt FTX to Sell Its Crypto Holdings, Including BTC and SOL](https://www.coindesk.com/policy/2023/09/13/judge-allows-bankrupt-ftx-to-sell-its-crypto-holdings-including-btc-and-sol/) (CoinDesk)
@@ -250,7 +249,7 @@ title: Crypto/Blockchain
 - [Andreessen Horowitz believes that crypto's future may be in the U.K.](https://www.axios.com/2023/06/11/andreesse-horowitz-a16z-crypto-future-london) (Axios)
 - [Binance.US Set to Be Cut Off From Banking System After SEC Lawsuit](https://www.bloomberg.com/news/articles/2023-06-09/binance-us-set-to-be-cut-off-from-banking-system-after-sec-suit?sref=Szq5ylDR) (Bloomberg)
 - [SEC says Binance and US affiliate redirected billions in customer assets to Zhao's funds](https://www.theblock.co/post/233652/sec-binance-and-us-affiliate-redirected-billions-in-customer-assets-to-zhaos-funds) (The Block)
-- [The SEC Comes for Crypto](https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto?sref=Szq5ylDR) (Matt Levine/Bloomberg)
+- [The SEC Comes for Crypto](https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto?sref=Szq5ylDR) (Bloomberg)
 - [US Crypto Crackdown Reaches Fever Pitch as SEC Sues Coinbase](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules?sref=Szq5ylDR) (Bloomberg)
 - [Elon 'The Dogefather' Musk Accused of Insider Trading](https://gizmodo.com/elon-musk-crypto-dogecoin-twitter-snl-1850497430) (Gizmodo)
 - [Multichain team says it can't contact CEO amid protocol problems](https://www.theblock.co/post/232754/multichain-team-says-it-cant-contact-ceo-amid-protocol-problems) (The Block)
@@ -258,15 +257,15 @@ title: Crypto/Blockchain
 ### May
 
 - [Paradigm broadening crypto-only focus to areas including AI](https://www.theblock.co/post/232247/crypto-vc-paradigm-ai) (The Block)
-- [A husband hid $500,000 in bitcoin during a divorce — and got busted by a crypto hunter](https://www.cnbc.com/2023/05/20/bitcoin-in-divorce-how-spouses-hide-assets-crypto-hunters-find-them.html)
+- [A husband hid $500,000 in bitcoin during a divorce — and got busted by a crypto hunter](https://www.cnbc.com/2023/05/20/bitcoin-in-divorce-how-spouses-hide-assets-crypto-hunters-find-them.html) (CNBC)
 - [Sanctioned Crypto Mixer Tornado Cash Hijacked by Hackers](https://www.bloomberg.com/news/articles/2023-05-21/sanctioned-crypto-mixer-tornado-cash-hijacked-by-hackers?sref=Szq5ylDR) (Bloomberg)
 - [Bankrupt crypto lender Voyager Digital predicts 35% customer payout](https://www.reuters.com/technology/bankrupt-crypto-lender-voyager-digital-predicts-35-customer-payout-2023-05-17/) (Reuters)
-- [The digital euro: a solution seeking a problem?](https://www.ft.com/content/7c892d3b-c646-4247-9504-5f755e486101) (Financial Times)
+- [The digital euro: a solution seeking a problem?](https://www.ft.com/content/7c892d3b-c646-4247-9504-5f755e486101) (FT)
 - [Coinbase CEO says SEC is on ‘lone crusade,’ dials back on suggestion exchange may relocate](https://www.cnbc.com/2023/05/08/coinbase-ceo-on-us-crypto-regulation-sec-lawsuit-international-plans.html) (CNBC)
 - [Ripple will have spent $200 million fighting SEC lawsuit, CEO says](https://www.cnbc.com/2023/05/08/ripple-will-have-spent-200-million-fighting-sec-lawsuit-ceo-says.html) (CNBC)
 - [U.S. Crypto Exchange Bittrex Files for Bankruptcy in Delaware](https://www.coindesk.com/policy/2023/05/08/us-crypto-exchange-bittrex-files-for-bankruptcy-in-delaware/) (CoinDesk)
 - [Sam Altman’s Worldcoin rolls out app as token launch looms](https://www.theblock.co/post/229742/sam-altman-worldcoin-app-token) (The Block)
-- [Is the Federal Government Trying to Kill Off Crypto?](https://nymag.com/intelligencer/2023/05/is-the-federal-government-trying-to-kill-off-crypto.html)
+- [Is the Federal Government Trying to Kill Off Crypto?](https://nymag.com/intelligencer/2023/05/is-the-federal-government-trying-to-kill-off-crypto.html) (New York Magazine)
 
 ### April
 
@@ -277,7 +276,7 @@ title: Crypto/Blockchain
 - [Ethereum Unstaking Requests Pile Up After Shanghai Upgrade, Now at 2-Week Wait](https://www.coindesk.com/tech/2023/04/13/ethereum-unstaking-requests-pile-up-after-shanghai-upgrade-now-at-2-week-wait/) (CoinDesk)
 - [Crypto VC Funding Plunges by 80% in Dire Quarter for Startups](https://www.bloomberg.com/news/articles/2023-04-12/crypto-vc-funding-plunges-by-80-in-dire-quarter-for-startups?sref=Szq5ylDR) (Bloomberg)
 - [Winklevoss Twins Lend $100 Million to Their Gemini Crypto Platform](https://www.bloomberg.com/news/articles/2023-04-10/winklevoss-twins-lend-100-million-to-gemini-crypto-exchange?sref=Szq5ylDR) (Bloomberg)
-- [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html) (NY Times)
+- [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html) (NYTimes)
 - [Crypto enthusiasts go after New York Times for its BTC mining report](https://www.cryptopolitan.com/crypto-enthusiasts-go-after-nyts-fake-news/) (Cryptopolitan)
 - [The Bitcoin Whitepaper Is Hidden in Every Modern Copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/) (Waxy.org)
 
@@ -338,17 +337,17 @@ title: Crypto/Blockchain
 - [Binance CEO Zhao Warns Bumpy Road Ahead in Message to His Staff](https://www.bloomberg.com/news/articles/2022-12-14/binance-ceo-zhao-warns-bumpy-road-ahead-in-message-to-his-staff?sref=Szq5ylDR) (Bloomberg)
 - [Federal prosecutors, SEC unveil charges against Sam Bankman-Fried](https://www.washingtonpost.com/technology/2022/12/13/sam-bankman-fried-ftx-hearing-bahamas-live/) (Washington Post)
 - [FTX founder Sam Bankman-Fried arrested in the Bahamas after U.S. files criminal charges](https://www.cnbc.com/2022/12/12/ftx-founder-sam-bankman-fried-arrested-in-the-bahamas-after-us-files-criminal-charges.html) (CNBC)
-- [Jim Edwards thread summarizing the SEC complaint](https://twitter.com/Jim_Edwards/status/1602625628972490752)
+- [Jim Edwards thread summarizing the SEC complaint](https://twitter.com/Jim_Edwards/status/1602625628972490752) (Twitter)
 - [Binance CEO addresses USDC outflows: 'feel free to withdraw any other stablecoin'](https://www.theblock.co/post/194398/binance-ceo-usdc-outflow) (The Block)
 - [Binance Is Trying to Calm Investors, but Its Finances Remain a Mystery](https://www.wsj.com/articles/binance-is-trying-to-calm-investors-but-its-finances-remain-a-mystery-11670679351?mod=djemalertNEWS) (WSJ)
 - ['Abnormal' Altcoin Trading on Binance 'Just Market Behavior,' Says CEO](https://decrypt.co/116917/abnormal-altcoin-trading-on-binance-just-market-behavior-says-ceo) (Decrypt)
 - [US Prosecutors Look to Charge Binance, Executives on Possible Money Laundering Violations: Reuters](https://www.coindesk.com/business/2022/12/12/us-prosecutors-look-to-charge-binance-and-cz-for-possible-money-laundering-violations-reuters/) (Coindesk)
 - [FTX founder Sam Bankman-Fried agrees to testify at U.S. House hearing on Tuesday](https://www.cnbc.com/2022/12/09/sam-bankman-fried-agrees-to-testify-before-house.html) (CNBC)
-- [How CoinDesk’s FTX scoop left a hole in its corporate overlord](https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis)
+- [How CoinDesk’s FTX scoop left a hole in its corporate overlord](https://www.theverge.com/2022/12/8/23498823/coindesk-ftx-dcg-barry-silbert-grayscale-genesis) (The Verge)
 - [FTX Founder Sam Bankman-Fried Is Said to Face Market Manipulation Inquiry](https://www.nytimes.com/2022/12/07/business/ftx-sbf-crypto-market-investigation.html) (NYTimes)
 - [Coinbase CEO Sees Revenue Falling 50% or More on Crypto Rout](https://www.bloomberg.com/news/articles/2022-12-07/coinbase-crypto-ceo-brian-armstrong-sees-revenue-falling-by-half-in-2022?sref=Szq5ylDR) (Bloomberg)
 - [FTX held talks with Taylor Swift over $100mn sponsorship deal](https://www.ft.com/content/2b0601e2-d371-404d-8531-227f11d4a83f) (FT)
-- [Crypto broker Genesis owes Winklevoss exchange’s customers $900mn](https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974) (Financial Times)
+- [Crypto broker Genesis owes Winklevoss exchange’s customers $900mn](https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974) (FT)
 - [Why Hasn’t Sam Bankman-Fried Been Arrested Yet?](https://nymag.com/intelligencer/2022/12/why-hasnt-sam-bankman-fried-been-arrested-yet.html) (Intelligencer)
 - [Payments giant Stripe jumps into Web3 with tool that helps companies turn cash to crypto](https://fortune.com/crypto/2022/12/01/stripe-web3-new-tool-cash-to-crypto-payments/) (Fortune Crypto)
 - [FTX Missing Billions Remain Mystery After Bankman-Fried Grilling](https://www.bloomberg.com/news/articles/2022-11-30/bankman-fried-denies-trying-to-commit-fraud-at-fallen-ftx-empire?sref=Szq5ylDR) (Bloomberg)
@@ -371,22 +370,22 @@ title: Crypto/Blockchain
 - [Sam Bankman-Fried steps down as FTX CEO as his crypto exchange files for bankruptcy](https://www.cnbc.com/2022/11/11/sam-bankman-frieds-cryptocurrency-exchange-ftx-files-for-bankruptcy.html) (CNBC)
 - [FTX US Warns of Trading Halt Hours After Bankman-Fried Says It's '100% Liquid'](https://www.coindesk.com/business/2022/11/10/ftx-us-warns-of-trading-halt-hours-after-bankman-fried-says-its-100-liquid/) (CoinDesk)
 - [Crypto Lender BlockFi Pauses Withdrawals in Wake of FTX Collapse](https://www.coindesk.com/business/2022/11/10/crypto-lender-blockfi-pauses-withdrawals-in-wake-of-ftx-collapse/) (CoinDesk)
-- [Can Crypto’s Richest Man Stand the Cold?](https://www.bloomberg.com/news/features/2022-06-23/binance-bnb-ceo-moves-to-dubai-as-us-regulators-target-the-crypto-exchange?sref=Szq5ylDR)
+- [Can Crypto’s Richest Man Stand the Cold?](https://www.bloomberg.com/news/features/2022-06-23/binance-bnb-ceo-moves-to-dubai-as-us-regulators-target-the-crypto-exchange?sref=Szq5ylDR) (Bloomberg)
 - [Binance Walks Away From Deal to Rescue FTX](https://www.wsj.com/articles/binance-is-said-to-be-likely-to-walk-away-from-deal-to-buy-ftx-11668020963?mod=djemalertNEWS) (WSJ)
-- [SBF Tweet Storm This Morning](https://twitter.com/sbf_ftx/status/1590709166515310593)
+- [SBF Tweet Storm This Morning](https://twitter.com/sbf_ftx/status/1590709166515310593) (Twitter)
 - [FTX’s Collapse Spurs $10 Billion Drop in Decentralized Finance](https://www.bloomberg.com/news/articles/2022-11-09/ftx-s-collapse-spurs-10-billion-drop-in-decentralized-finance?sref=Szq5ylDR) (Bloomberg)
 - [The Story of Sam Bankman-Fried’s Backroom Deal With Binance’s CZ](https://www.coindesk.com/layer2/2022/11/08/the-story-of-sam-bankman-frieds-backroom-deal-with-binances-cz/) (CoinDesk)
-- [Lucas Nuzzi (Twitter Thread)](https://twitter.com/LucasNuzzi/status/1590122590206824448)
+- [Lucas Nuzzi (Twitter Thread)](https://twitter.com/LucasNuzzi/status/1590122590206824448) (Twitter)
 - [FTX Venture Investors Fear Total Wipeout in Binance Rescue Deal](https://www.theinformation.com/articles/ftx-venture-investors-fear-total-wipeout-in-binance-rescue-deal?rc=64g9cw) (The Information)
 - [Binance to Sell Rest of FTX Token Holdings as Alameda CEO Defends Firm's Financial Condition](https://www.coindesk.com/business/2022/11/06/binance-sells-holdings-of-ftx-token-as-alameda-ceo-defends-firms-financial-condition/) (CoinDesk)
 - [OpenSea Breaks Silence on NFT Royalties, But Creators Don't Like What They Hear](https://decrypt.co/113698/opensea-breaks-silence-on-nft-royalties-but-creators-dont-like-what-they-hear) (Decrypt)
-- [Bored Ape Yacht Club tell all: The untold story of the $4 billion crypto startup](https://www.fastcompany.com/90796009/bored-ape-yacht-club-tell-all-the-untold-story-of-the-4-billion-crypto-startup)
+- [Bored Ape Yacht Club tell all: The untold story of the $4 billion crypto startup](https://www.fastcompany.com/90796009/bored-ape-yacht-club-tell-all-the-untold-story-of-the-4-billion-crypto-startup) (Fast Company)
 - [Meta’s Instagram Plans NFT Minting, Trading Tools](https://decrypt.co/113395/metas-instagram-plans-nft-minting-trading-tools) (Decrypt)
 
 ### October
 
 - [India's Central Bank to Start Wholesale CBDC Pilot Nov. 1](https://www.coindesk.com/policy/2022/10/31/indias-central-bank-to-start-wholesale-cbdc-pilot-nov-1/) (CoinDesk)
-- [The Crypto Story](https://www.bloomberg.com/features/2022-the-crypto-story/?sref=Szq5ylDR)
+- [The Crypto Story](https://www.bloomberg.com/features/2022-the-crypto-story/?sref=Szq5ylDR) (Bloomberg)
 - [Google's new service helps Web3 developers build for blockchain-based platforms](https://www.zdnet.com/article/googles-new-service-helps-web3-developers-build-for-blockchain-based-platforms/) (ZDNet)
 - [Aptos Token Plummets 40% After APT Airdrop for 'Early Network Participants'](https://decrypt.co/112368/aptos-token-plummetsapt-airdrop-early-network-participants) (Decrypt)
 - [Decentralized Solana-based trading platform Mango reportedly hit by $100 million exploit](https://fortune.com/crypto/2022/10/11/mango-markets-trading-platform-on-solana-seemingly-hit-by-exploit/) (Fortune)
@@ -406,12 +405,12 @@ title: Crypto/Blockchain
 - [Helium Founders, T-Mobile Launch Crypto-Powered 5G Mobile Service](https://decrypt.co/110111/helium-t-mobile-crypto-5g-mobile-service) (Decrypt)
 - [Crypto market maker Wintermute hacked for $160 million](https://www.theblock.co/post/171135/crypto-market-maker-wintermute-hacked-for-160-million) (The Block)
 - [Nasdaq is preparing to launch an institutional crypto custody service](https://www.theblock.co/post/171095/nasdaq-is-preparing-to-launch-an-institutional-crypto-custody-service) (The Block)
-- [South Korean prosecutors ask Interpol to issue red notice for Do Kwon](https://www.ft.com/content/7e9f6182-f545-4e53-9cef-1ae4f6e3bd9f) (Financial Times)
+- [South Korean prosecutors ask Interpol to issue red notice for Do Kwon](https://www.ft.com/content/7e9f6182-f545-4e53-9cef-1ae4f6e3bd9f) (FT)
 - ['No One Is Profitable': GPU Mining Faces Dark Days After Ethereum Merge](https://www.pcmag.com/news/no-one-is-profitable-gpu-mining-faces-dark-days-after-ethereum-merge) (PCMag)
 - [Ethereum activates The Merge as it shifts to proof of stake](https://www.theblock.co/post/169299/ethereum-activates-the-merge-as-it-shifts-to-proof-of-stake) (The Block)
 - [Terra Co-Founder Do Kwon Faces Arrest Warrant in South Korea](https://www.bloomberg.com/news/articles/2022-09-14/south-korea-seeks-the-arrest-of-terraform-labs-founder-do-kwon?sref=Szq5ylDR) (Bloomberg)
 - [Starbucks details its blockchain-based loyalty platform and NFT community, Starbucks Odyssey](https://techcrunch.com/2022/09/12/starbucks-unveils-its-blockchain-based-loyalty-platform-and-nft-community-starbucks-odyssey/) (TechCrunch)
-- [They built a Minecraft crypto empire. Then it all came crashing down](https://restofworld.org/2022/minecraft-nft-ban-critterz/)
+- [They built a Minecraft crypto empire. Then it all came crashing down](https://restofworld.org/2022/minecraft-nft-ban-critterz/) (Rest of World)
 - [Inside the World's First No-Coiner Conference](https://decrypt.co/109218/inside-the-worlds-first-no-coiner-conference)
 - [Y Combinator is doubling down on crypto founders despite market volatility](https://techcrunch.com/2022/09/07/y-combinator-crypto-investment-summer-2022/) (TechCrunch)
 - [Mysten Labs, creator of the Sui blockchain, closes $300 million raise led by FTX Ventures](https://www.theblock.co/post/168532/mysten-labs-sui-blockchain-fundraise-ftx-ventures) (The Block)
@@ -425,14 +424,14 @@ title: Crypto/Blockchain
 - [Crypto.com Sues Woman After Sending Her $10 Million by Mistake: Report](https://decrypt.co/108586/crypto-com-sues-woman-10-million-mistake) (Decrypt)
 - [MTV VMAs: Eminem and Snoop Dogg Perform as Bored Apes in the Metaverse](https://www.cnet.com/culture/entertainment/mtv-vmas-eminem-and-snoop-dogg-perform-as-bored-apes-in-the-metaverse/) (CNET)
 - [Looks bare: OpenSea turns into NFT ghost-town after volume plunges 99% in 90 days](https://cointelegraph.com/news/looks-bare-opensea-turns-into-nft-ghost-town-after-volume-plunges-99-in-90-days) (CoinTelegraph)
-- [The Crypto World Can’t Wait for ‘the Merge’](https://www.nytimes.com/2022/08/26/technology/crypto-ethereum-the-merge.html)
-- [Ethereum Overhaul Risks Creating a New Class of Kingpins](https://www.bloomberg.com/news/articles/2022-08-20/ethereum-overhaul-risks-creating-a-new-class-of-crypto-kingpins?sref=Szq5ylDR)
+- [The Crypto World Can’t Wait for ‘the Merge’](https://www.nytimes.com/2022/08/26/technology/crypto-ethereum-the-merge.html) (NYTimes)
+- [Ethereum Overhaul Risks Creating a New Class of Kingpins](https://www.bloomberg.com/news/articles/2022-08-20/ethereum-overhaul-risks-creating-a-new-class-of-crypto-kingpins?sref=Szq5ylDR) (Bloomberg)
 - [Ethereum Foundation confirms September dates for the Merge](https://www.theblock.co/post/165477/ethereum-foundation-confirms-september-dates-for-the-merge) (The Block)
 - [Crypto’s massive marketing efforts have drawn few new investors](https://www.washingtonpost.com/business/2022/08/24/cryptos-massive-marketing-efforts-have-drawn-few-new-investors/) (Washington Post)
 - [NFTs Turn Out to Be a Great Channel of Revenue for Businesses, Ask Nike](https://www.nftgators.com/nfts-turn-out-to-be-a-great-channel-of-revenue-for-businesses-ask-nike/) (NFT Gators)
 - [FTX grew revenue 1,000% during the crypto craze, leaked financials show](https://www.cnbc.com/2022/08/20/ftx-grew-revenue-1000percent-during-the-crypto-craze-leaked-financials.html) (CNBC)
-- [Stablecoin issuers hold $80bn of short-dated US government debt](https://www.ft.com/content/ab02119a-7696-4292-a2f6-578a13469992) (Financial Times)
-- [The Crypto Geniuses Who Vaporized a Trillion Dollars](https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html)
+- [Stablecoin issuers hold $80bn of short-dated US government debt](https://www.ft.com/content/ab02119a-7696-4292-a2f6-578a13469992) (FT)
+- [The Crypto Geniuses Who Vaporized a Trillion Dollars](https://nymag.com/intelligencer/article/three-arrows-capital-kyle-davies-su-zhu-crash.html) (New York Magazine)
 - [Mid-year Crypto Crime Update: Illicit Activity Falls With Rest of Market, With Some Notable Exceptions](https://blog.chainalysis.com/reports/crypto-crime-midyear-update-2022/) (Chainalysis)
 - [Google invested a whopping $1.5B into blockchain companies since September](https://cointelegraph.com/news/google-invested-a-whopping-1-5b-into-blockchain-companies-since-september) (CoinTelegraph)
 - [Galaxy Digital terminates its acquisition of BitGo](https://www.theblock.co/post/163540/galaxy-digital-terminates-its-acquisition-of-bitgo) (The Block)
@@ -449,14 +448,14 @@ title: Crypto/Blockchain
 - [Voyager Responds to FTX’s Offer, Calling It a ‘Low-Ball’ Bid](https://www.bloomberg.com/news/articles/2022-07-25/voyager-responds-to-ftx-s-offer-calling-it-a-low-ball-bid?sref=Szq5ylDR) (Bloomberg)
 - [Ex-Coinbase Manager Arrested in US Crypto Insider-Trading Case](https://www.bloomberg.com/news/articles/2022-07-21/ex-coinbase-manager-arrested-in-us-crypto-insider-trading-case?sref=Szq5ylDR) (Bloomberg)
 - [Elon Musk’s Tesla Has Sold 75% of Its Bitcoin Holdings](https://decrypt.co/105594/elon-musk-tesla-sold-75-percent-bitcoin) (Decrypt)
-- [@CryptoKaleo Tweet](https://twitter.com/cryptokaleo/status/1549851605520064513)
+- [@CryptoKaleo Tweet](https://twitter.com/cryptokaleo/status/1549851605520064513) (Twitter)
 - [Leaked emails: Crypto exchange Coinbase is 'temporarily shutting down' its US affiliate-marketing program](https://www.businessinsider.com/coinbase-temporarily-shutting-down-us-affiliate-marketing-program-for-influencers-2022-7?IR=T) (Insider)
 - [Coinbase stirs rumors of liquidity woes as it halts affiliate-marketing program](https://insidebitcoins.com/news/coinbase-stirs-rumors-of-liquidity-woes-as-it-halts-affiliate-marketing-program) (Insider Bitcoins)
 - [Crypto Crash Stalls WeWork Founder Adam Neumann’s Climate Venture](https://www.wsj.com/articles/crypto-crash-stalls-wework-founder-adam-neumanns-climate-venture-11657963804?mod=djemalertNEWS) (WSJ)
 - [Celsius Discloses $1.19 Billion Deficit in Bankruptcy Filing](https://www.bloomberg.com/news/articles/2022-07-14/celsius-discloses-1-19-billion-deficit-in-bankruptcy-filing?sref=Szq5ylDR) (Bloomberg)
-- [How Three Arrows Capital Blew Up and Set Off a Crypto Contagion](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac?sref=Szq5ylDR)
+- [How Three Arrows Capital Blew Up and Set Off a Crypto Contagion](https://www.bloomberg.com/news/features/2022-07-13/how-crypto-hedge-fund-three-arrows-capital-fell-apart-3ac?sref=Szq5ylDR) (Bloomberg)
 - [Embattled crypto lender Celsius files for bankruptcy protection](https://www.cnbc.com/2022/07/13/embattled-crypto-lender-celsius-informs-state-regulators-that-its-filing-for-bankruptcy-imminently-source-says-.html) (CNBC)
-- [Inside Celsius: how one of crypto’s biggest lenders ground to a halt](https://www.ft.com/content/4fa06516-119b-4722-946b-944e38b02f45) (Financial Times)
+- [Inside Celsius: how one of crypto’s biggest lenders ground to a halt](https://www.ft.com/content/4fa06516-119b-4722-946b-944e38b02f45) (FT)
 - [Three Arrows Founders’ Whereabouts Unknown, Liquidators Say](https://www.bloomberg.com/news/articles/2022-07-11/three-arrows-founders-whereabouts-unknown-stymying-liquidators?sref=Szq5ylDR) (Bloomberg)
 - [Reddit is launching a new NFT avatar marketplace](https://techcrunch.com/2022/07/07/reddit-is-launching-a-new-nft-avatar-marketplace/) (TechCrunch)
 - [Voyager Seeks Bankruptcy Protection Amid Crypto Credit Crisis](https://www.coindesk.com/policy/2022/07/06/voyager-seeks-bankruptcy-protection-amid-crypto-credit-crisis/) (CoinDesk)
@@ -468,7 +467,7 @@ title: Crypto/Blockchain
 ### June
 
 - [Genesis Faces ‘Hundreds of Millions’ in Losses as 3AC Exposure Swamps Crypto Lenders: Sources](https://www.coindesk.com/business/2022/06/29/genesis-faces-hundreds-of-millions-in-losses-as-3ac-exposure-swamps-crypto-lenders-sources/) (CoinDesk)
-- [Did Razzlekhan and Dutch Pull Off History’s Biggest Crypto Heist?](https://www.bloomberg.com/news/features/2022-06-30/how-the-world-s-biggest-bitcoin-btc-hack-at-bitfinex-got-botched?sref=Szq5ylDR)
+- [Did Razzlekhan and Dutch Pull Off History’s Biggest Crypto Heist?](https://www.bloomberg.com/news/features/2022-06-30/how-the-world-s-biggest-bitcoin-btc-hack-at-bitfinex-got-botched?sref=Szq5ylDR) (Bloomberg)
 - [Crypto Crash Widens a Divide: ‘Those With Money Will End Up Being Fine’](https://www.nytimes.com/2022/06/29/technology/crypto-crash-divide.html) (NYTimes)
 - [Crypto crash threatens North Korea's stolen funds as it ramps up weapons tests](https://www.reuters.com/technology/crypto-crash-threatens-north-koreas-stolen-funds-it-ramps-up-weapons-tests-2022-06-28/) (Reuters)
 - [More Hedge Funds Are Betting Against Tether as Crypto Melts Down](https://www.wsj.com/articles/more-hedge-funds-are-betting-against-tether-as-crypto-melts-down-11656322200?mod=djemalertNEWS) (WSJ)
@@ -478,7 +477,7 @@ title: Crypto/Blockchain
 - [Where are all the crypto use cases?](https://evanjconrad.com/posts/crypto-use-cases)
 - [Crypto lender Babel Finance announces steps to improve its liquidity situation](https://www.theblock.co/post/153067/babel-finance-steps-crypto-liquidity-situation) (The Block)
 - [New Solend vote invalidates governance decision to take over whale account](https://www.theblock.co/post/153011/new-solend-vote-invalidates-governance-decision-to-take-over-whale-account) (The Block)
-- [A Billion-Dollar Crypto Gaming Startup Promised Riches and Delivered Disaster](https://www.bloomberg.com/news/features/2022-06-10/axie-infinity-axs-crypto-game-promised-nft-riches-gave-ruin?sref=Szq5ylDR)
+- [A Billion-Dollar Crypto Gaming Startup Promised Riches and Delivered Disaster](https://www.bloomberg.com/news/features/2022-06-10/axie-infinity-axs-crypto-game-promised-nft-riches-gave-ruin?sref=Szq5ylDR) (Bloomberg)
 - [Samsung Wallet is back to organize your ID, keys, and crypto](https://www.theverge.com/2022/6/16/23169586/samsung-wallet-pay-pass-id-keys-boarding-pass?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [After facing hundreds of millions of dollars in liquidations, Three Arrows Capital's future is uncertain](https://www.theblock.co/linked/152092/after-facing-hundreds-of-millions-of-dollars-in-liquidations-three-arrows-capitals-future-is-uncertain) (The Block)
 - [Crypto Lender Celsius Hires Restructuring Lawyers After Account Freeze](https://www.wsj.com/articles/crypto-lender-celsius-hires-restructuring-lawyers-after-account-freeze-11655250575?mod=djemalertNEWS) (WSJ)
@@ -506,7 +505,7 @@ title: Crypto/Blockchain
 - [Stablegains Faces Lawsuit After Losing $44M on UST](https://cryptobriefing.com/yield-app-stablegains-faces-lawsuit-after-losing-44m-on-ust/) (CryptoBriefing)
 - [Coinbase Slashes Costs, Freezes Hiring Amid Crypto Crash](https://www.theinformation.com/articles/coinbase-memos-detail-cost-cuts-employee-stock-grant-boost?rc=64g9cw) (The Information)
 - [FTX US launching zero-commission stock trading](https://www.theblockcrypto.com/post/147745/ftx-us-launching-zero-commission-stock-trading) (The Block)
-- [Defiant Chinese netizens skirt lockdown censorship using blockchain](https://www.ft.com/content/3bbb2af3-e934-4603-8aae-26b758140c65) (Financial Times)
+- [Defiant Chinese netizens skirt lockdown censorship using blockchain](https://www.ft.com/content/3bbb2af3-e934-4603-8aae-26b758140c65) (FT)
 - [China Makes a Comeback in Bitcoin Mining Despite Government Ban](https://www.bloomberg.com/news/articles/2022-05-17/china-makes-a-comeback-in-bitcoin-mining-despite-government-ban?sref=Szq5ylDR) (Bloomberg)
 - [Coinbase Expands Features, Allowing Some App Users to Access Ethereum-Based Dapps](https://www.coindesk.com/business/2022/05/16/coinbase-expands-features-allowing-some-app-users-to-access-ethereum-based-dapps/) (CoinDesk)
 - [Coinbase slows hiring to help weather market downturn](https://www.theblockcrypto.com/linked/147266/coinbase-slows-hiring-to-help-weather-market-downturn) (The Block)
@@ -537,11 +536,11 @@ title: Crypto/Blockchain
 - [Bored Ape Instagram account hacked: NFTs worth $2.8 million stolen](https://www.theblockcrypto.com/post/143328/bored-ape-instagram-account-hacked-nfts-worth-2-8-million-stolen) (The Block)
 - [a16z Crypto is launching an academic research lab focused on web3](https://www.theblockcrypto.com/post/142869/a16z-crypto-is-launching-an-academic-research-lab-focused-on-web3) (The Block)
 - [ApeCoin & the death of staking](https://cobie.substack.com/p/apecoin-and-the-death-of-staking?s=r)
-- [Cutting-Edge Crypto Coins Tout Stability. Critics Call Them Dangerous.](https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=djemalertNEWS)
+- [Cutting-Edge Crypto Coins Tout Stability. Critics Call Them Dangerous.](https://www.wsj.com/articles/cutting-edge-crypto-coins-tout-stability-critics-call-them-dangerous-11650226597?mod=djemalertNEWS) (WSJ)
 - [Coinbase NFT marketplace goes live in beta for select customers](https://www.theblockcrypto.com/post/142684/coinbase-nft-marketplace-beta-launch) (The Block)
 - [Crypto Stocks Perform Worse Than Cryptocurrencies](https://www.wsj.com/articles/crypto-stocks-perform-worse-than-cryptocurrencies-11650338283?mod=djemalertNEWS) (WSJ)
-- [Stablecoins Are in a War for Dominance and It’s Getting Ugly](https://www.vice.com/en/article/g5q93b/stablecoins-are-in-a-war-for-dominance-and-its-getting-ugly)
-- [How Chris Dixon’s Dive Down The Crypto Rabbit Hole Made Him The World’s Top Venture Capitalist](https://www.forbes.com/sites/alexkonrad/2022/04/12/midas-list-chris-dixon-crypto-capitalist/?sh=1159d1205209)
+- [Stablecoins Are in a War for Dominance and It’s Getting Ugly](https://www.vice.com/en/article/g5q93b/stablecoins-are-in-a-war-for-dominance-and-its-getting-ugly) (Vice)
+- [How Chris Dixon’s Dive Down The Crypto Rabbit Hole Made Him The World’s Top Venture Capitalist](https://www.forbes.com/sites/alexkonrad/2022/04/12/midas-list-chris-dixon-crypto-capitalist/?sh=1159d1205209) (Forbes)
 - [‘Jack Dorsey’s First Tweet’ NFT Went on Sale for $48M. It Ended With a Top Bid of Just $280](https://www.coindesk.com/business/2022/04/13/jack-dorseys-first-tweet-nft-went-on-sale-for-48m-it-ended-with-a-top-bid-of-just-280/) (CoinDesk)
 - [Meta's New 47.5% Fee on Metaverse Items Has NFT Twitter Pissed](https://www.cnet.com/personal-finance/metas-new-47-5-fee-on-metaverse-items-has-nft-twitter-pissed/) (CNET)
 - [Ethereum Undergoes Another Stress Test Ahead of Software Change](https://www.bloomberg.com/news/articles/2022-04-11/ethereum-undergoes-another-stress-test-ahead-of-software-change?sref=Szq5ylDR) (Bloomberg)
@@ -569,15 +568,15 @@ title: Crypto/Blockchain
 - [Bored Ape Yacht Club creator raises $450 million to build an NFT metaverse](https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Crypto investor Katie Haun raises $1.5 billion, the largest debut fund ever by a female VC](https://www.cnbc.com/2022/03/22/crypto-investor-katie-haun-raises-1point5-billion-for-haun-ventures.html) (CNBC)
 - [Bored Ape Yacht Club Ethereum NFT Sales Surge as ApeCoin Price Pops, Then Drops](https://decrypt.co/95318/bored-ape-yacht-club-ethereum-nft-sales-apecoin-price) (Decrypt)
-- [Razzlekhan: The Untold Story Of How A YouTube Rapper Became A Suspect In A $4 Billion Bitcoin Fraud](https://www.forbes.com/sites/cyrusfarivar/2022/03/17/razzlekhan-bitcoin-heather-morgan/?sh=6c0511ec15f8)
-- [Six months in, El Salvador’s bitcoin gamble is crumbling](https://restofworld.org/2022/el-salvador-bitcoin/)
+- [Razzlekhan: The Untold Story Of How A YouTube Rapper Became A Suspect In A $4 Billion Bitcoin Fraud](https://www.forbes.com/sites/cyrusfarivar/2022/03/17/razzlekhan-bitcoin-heather-morgan/?sh=6c0511ec15f8) (Forbes)
+- [Six months in, El Salvador’s bitcoin gamble is crumbling](https://restofworld.org/2022/el-salvador-bitcoin/) (Rest of World)
 - [Bored Apes NFT project gets official 'ApeCoin' token](https://techcrunch.com/2022/03/16/bored-apes-nft-project-gets-official-apecoin-token/) (TechCrunch)
 - [Proposal Limiting Proof-of-Work Is Rejected in EU Parliament Committee Vote](https://www.coindesk.com/policy/2022/03/14/proposal-limiting-proof-of-work-is-rejected-in-eu-parliament-committee-vote-sources/) (CoinDesk)
 - [Stripe launches payments support for crypto businesses, partners with FTX](https://www.theblockcrypto.com/linked/137299/stripe-payments-crypto-businesses-ftx) (The Block)
 - [The great NFT sell-off: has the digital collectibles craze hit its peak?](https://www.ft.com/content/46349496-790a-4223-8c65-d6a0bde897bc) (FT)
 - [Ethereum Companies Suddenly Ban Users In Certain Countries](https://www.vice.com/en/article/g5qkb7/ethereum-companies-suddenly-ban-users-in-certain-countries) (Motherboard)
 - [NFT Mania Show Signs of Cooling as Average Price and Sales Decline](https://www.bloomberg.com/news/articles/2022-03-03/nft-mania-show-signs-of-cooling-as-average-price-sales-decline?sref=Szq5ylDR) (Bloomberg)
-- [These women are staking their claim to Web3 and the metaverse](https://www.fastcompany.com/90722634/women-web3-metaverse)
+- [These women are staking their claim to Web3 and the metaverse](https://www.fastcompany.com/90722634/women-web3-metaverse) (Fast Company)
 - [Ukraine cancels crypto airdrop, plans to sell NFTs instead](https://www.theblockcrypto.com/linked/136211/ukraine-cancels-crypto-airdrop-plans-to-sell-nfts-instead) (The Block)
 - [Crypto Powerhouse ConsenSys Faces Action by Former Employees](https://www.bloomberg.com/news/articles/2022-03-02/crypto-powerhouse-consensys-faces-action-by-former-employees?sref=Szq5ylDR) (Bloomberg)
 - [The Metaverse Finally Has a Killer App: Poker](https://www.bloomberg.com/news/articles/2022-03-01/what-is-decentraland-metaverse-is-often-used-for-crypto-poker?sref=Szq5ylDR) (Bloomberg Businessweek)
@@ -587,7 +586,7 @@ title: Crypto/Blockchain
 ### February
 
 - [Crypto Donations to Ukraine Jump to $20M](https://www.coindesk.com/business/2022/02/28/crypto-donations-to-ukraine-near-10m/) (CoinDesk)
-- [Crypto Scammers’ New Target: Dating Apps](https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html?partner=slack&smid=sl-share)
+- [Crypto Scammers’ New Target: Dating Apps](https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html?partner=slack&smid=sl-share) (NYTimes)
 - [Stablecoins Soar in Value as Everything Else in Crypto Shrinks](https://www.bloomberg.com/news/articles/2022-02-24/stablecoins-soar-in-value-as-everything-else-in-crypto-shrinks?sref=Szq5ylDR) (Bloomberg)
 - [OpenSea NFT Heist Likely Triggers Drop in Activity](https://www.bloomberg.com/news/articles/2022-02-22/opensea-nft-heist-triggers-sharp-decline-in-platform-activity?sref=Szq5ylDR) (Bloomberg)
 - [Exclusive: Austrian Programmer And Ex Crypto CEO Likely Stole $11 Billion Of Ether](https://www.forbes.com/sites/laurashin/2022/02/22/exclusive-austrian-programmer-and-ex-crypto-ceo-likely-stole-11-billion-of-ether/?sh=1c6fe8fc7f58) (Forbes)
@@ -601,7 +600,7 @@ title: Crypto/Blockchain
 - [Woman Who Allegedly Laundered $1B in Bitcoin Was Cringe YouTube Rapper](https://www.vice.com/amp/en/article/88gve4/woman-who-allegedly-laundered-dollar1b-in-bitcoin-was-cringe-youtube-rapper) (Motherboard)
 - [Ethereum Name Service Removes Core Team Member Brantly Millegan Over 2016 Tweet](https://www.coindesk.com/markets/2022/02/07/ethereum-name-service-removes-brantly-millegan-as-steward-over-2016-tweet/) (CoinDesk)
 - [Mapping the celebrity NFT complex](https://maxread.substack.com/p/mapping-the-celebrity-nft-complex) (Read Max)
-- [HOW ONE COMPANY TOOK OVER THE NFT TRADE](https://www.theverge.com/2022/2/2/22914081/open-sea-nft-marketplace-web3-fundraising-finzer-a16z?scrolla=5eb6d68b7fedc32c19ef33b4)
+- [HOW ONE COMPANY TOOK OVER THE NFT TRADE](https://www.theverge.com/2022/2/2/22914081/open-sea-nft-marketplace-web3-fundraising-finzer-a16z?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Cryptocurrency platform Wormhole hacked for an estimated $322 million](https://therecord.media/cryptocurrency-platform-wormhole-hacked-for-an-estimated-322-million/) (The Record)
 - [Bored Ape start-up in investment talks with Andreessen Horowitz](https://www.ft.com/content/acc635d6-bb05-4af6-b4da-b8462c06466d) (FT)
 
@@ -609,7 +608,7 @@ title: Crypto/Blockchain
 
 - [Facebook parent Meta joins crypto group promoting open patents](https://www.theblockcrypto.com/linked/132394/facebook-parent-meta-joins-crypto-group-promoting-open-patents) (The Block)
 - [LooksRare Has Reportedly Generated $8B in Ethereum NFT Wash Trading](https://decrypt.co/91510/looksrare-has-reportedly-generated-8b-ethereum-nft-wash-trading) (Decrypt)
-- [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g)
+- [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) (YouTube)
 - [Three things web3 should fix in 2022](https://www.platformer.news/p/three-things-web3-should-fix-in-2022)
 - [The NFT Art World Wouldn’t Be the Same Without This Woman’s ‘Wide-Awake Hallucinations’](https://www.rollingstone.com/culture/culture-features/seneca-bored-ape-yacht-club-digital-art-nfts-1280341/)
 - [Facebook’s Cryptocurrency Venture to Wind Down, Sell Assets](https://www.wsj.com/articles/facebooks-cryptocurrency-venture-to-wind-down-sell-assets-11643248799?mod=djemalertNEWS) (WSJ)
@@ -650,7 +649,7 @@ title: Crypto/Blockchain
 - [Elon Musk: metaverse isn’t ‘compelling’ and Web3 ‘more marketing than reality’](https://www.theverge.com/2021/12/22/22849717/elon-musk-metaverse-web3-more-marketing-than-reality) (The Verge)
 - [Jack Dorsey Stirs Uproar by Dismissing Web3 as a Venture Capitalists’ Plaything](https://www.bloomberg.com/news/articles/2021-12-21/jack-dorsey-stirs-uproar-by-dismissing-web3-as-a-vc-plaything?sref=sZAFdZwV) (Bloomberg)
 - [The New Get-Rich-Faster Job in Silicon Valley: Crypto Start-Ups](https://www.nytimes.com/2021/12/20/technology/silicon-valley-cryptocurrency-start-ups.html) (NYTimes)
-- [Players invest $54M in Molyneux’s NFT game Legacy in hopes of earning even more](https://arstechnica.com/gaming/2021/12/peter-molyneux-raises-54m-on-promise-of-play-to-earn-nft-game-legacy/) (ArsTechnica)
+- [Players invest $54M in Molyneux’s NFT game Legacy in hopes of earning even more](https://arstechnica.com/gaming/2021/12/peter-molyneux-raises-54m-on-promise-of-play-to-earn-nft-game-legacy/) (Ars Technica)
 - [The ‘To the Moon’ Crash Is Coming](https://www.vice.com/en/article/7kbx9b/the-to-the-moon-crash-is-coming) (Motherboard)
 - [Adidas Originals launches NFTs and buys a plot in the Sandbox metaverse](https://venturebeat.com/2021/12/15/adidas-originals-launches-nft-drop-and-buys-a-plot-in-the-sandbox-metaverse/) (VentureBeat)
 - [Scoop: Crypto investor Katie Haun leaving Andreessen Horowitz](https://www.axios.com/crypto-investor-katie-haun-leave-andreessen-horowitz-e11aa2f2-6ad9-4b27-abb4-b44e461174ec.html) (Axios)
@@ -668,12 +667,12 @@ title: Crypto/Blockchain
 
 ### November
 
-- [China’s exiled crypto machines fuel global mining boom](https://www.ft.com/content/0dbe4f9f-a433-4288-858e-c4b852f4c340) (Financial Times)
+- [China’s exiled crypto machines fuel global mining boom](https://www.ft.com/content/0dbe4f9f-a433-4288-858e-c4b852f4c340) (FT)
 - [Texas Plans to Become the Bitcoin Capital, Vulnerable Power Grid and All](https://www.bloomberg.com/news/articles/2021-11-19/texas-plans-to-become-the-u-s-bitcoin-capital-can-its-grid-ercot-handle-it?sref=Szq5ylDR) (Bloomberg)
 - [Crypto Investors Lose Out In $43.2 Million Sale Of Rare Copy Of U.S. Constitution](https://www.forbes.com/sites/abrambrown/2021/11/18/constitution-dao-crypto-ether-constitutional-sothebys-sale-auction/) (Forbes)
 - [Gemini Raises $400 Million To Build A Metaverse Outside Facebook’s Walled Garden](https://www.forbes.com/sites/michaeldelcastillo/2021/11/18/gemini-raises-400-million-to-protect-the-metaverse-from-meta-facebook/?sh=6f69c59a5f57) (Forbes)
 - [Crypto Group’s Bid for Constitution Faces Real-World Snags—Who Picks It Up?](https://www.wsj.com/articles/crypto-groups-bid-for-constitution-faces-real-world-snagswho-picks-it-up-11637187153?mod=djemalertNEWS) (WSJ)
-- [Goodbye, Staples Center. Hello, Crypto.com Arena](https://www.latimes.com/business/story/2021-11-16/crypto-staples) (LATimes)
+- [Goodbye, Staples Center. Hello, Crypto.com Arena](https://www.latimes.com/business/story/2021-11-16/crypto-staples) (LA Times)
 - [Miramax Sues Quentin Tarantino Over ‘Pulp Fiction’ NFT Auction](https://variety.com/2021/film/news/miramax-tarantino-pulp-fiction-nft-1235113383/) (Variety)
 - [Right-clickers vs. the monkey JPG owners](https://www.garbageday.email/p/right-clickers-vs-the-monkey-jpg) (Garbage Day)
 - [A major upgrade to bitcoin just activated — here’s what investors should know](https://www.cnbc.com/2021/11/12/what-investors-should-know-about-the-bitcoin-taproot-upgrade.html) (CNBC Make It)
@@ -762,13 +761,13 @@ title: Crypto/Blockchain
 ### June
 
 - [Sam Altman Wants to Scan Your Eyeball in Exchange for Cryptocurrency](https://www.bloomberg.com/news/articles/2021-06-29/sam-altman-s-worldcoin-will-give-free-crypto-for-eyeball-scans) (Bloomberg)
-- [Financial watchdog bans crypto exchange Binance from UK](https://www.ft.com/content/8bc0e5e0-2705-496d-a265-acccaffaee87) (Financial Times)
+- [Financial watchdog bans crypto exchange Binance from UK](https://www.ft.com/content/8bc0e5e0-2705-496d-a265-acccaffaee87) (FT)
 - [The world’s biggest crypto exchange is running into trouble everywhere](https://qz.com/2025673/binance-is-banned-in-the-uk-and-ontario/) (Quartz)
 - [The Boy Who Could DeFi: Meet the 13-Year-Old Who Built a $7M Money Manager on Ethereum](https://decrypt.co/73781/gajesh-naik-defi-ethereum-polygaj) (Decrypt)
 - [South African Brothers Vanish, and So Does $3.6 Billion in Bitcoin](https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin) (Bloomberg)
-- [Monero emerges as crypto of choice for cybercriminals](https://www.ft.com/content/13fb66ed-b4e2-4f5f-926a-7d34dc40d8b6) (Financial Times)
+- [Monero emerges as crypto of choice for cybercriminals](https://www.ft.com/content/13fb66ed-b4e2-4f5f-926a-7d34dc40d8b6) (FT)
 - [China to shut down over 90% of its Bitcoin mining capacity after local bans](https://www.globaltimes.cn/page/202106/1226598.shtml) (Global Times)
-- [Web inventor Berners-Lee to auction original code as NFT](https://www.ft.com/content/a77ad1bf-fae0-478b-aa05-a07790314ebc) (Financial Times)
+- [Web inventor Berners-Lee to auction original code as NFT](https://www.ft.com/content/a77ad1bf-fae0-478b-aa05-a07790314ebc) (FT)
 - [Bitcoin just got its first makeover in four years](https://www.cnbc.com/2021/06/12/bitcoin-taproot-upgrade-what-it-means.html) (CNBC)
 - [When ransomware strikes, this company helps victims make bitcoin payments](https://www.cnbc.com/2021/06/10/digitalmint-helps-ransomware-victims-make-bitcoin-payments.html) (CNBC)
 - [El Salvador becomes first country to adopt bitcoin as legal tender after passing law](https://www.cnbc.com/2021/06/09/el-salvador-proposes-law-to-make-bitcoin-legal-tender.html) (CNBC)
@@ -785,7 +784,7 @@ title: Crypto/Blockchain
 - [Nvidia is nerfing new RTX 3080 and 3070 cards for Ethereum cryptocurrency mining](https://www.theverge.com/2021/5/18/22441847/nvidia-rtx-3080-3070-ethereum-mining-drivers-limit-cryptocurrency) (The Verge)
 - [Ethereum Staking Will Drop Power Consumption by 99%](https://cryptobriefing.com/ethereum-staking-will-drop-power-consumption-by-99/) (Crypto Briefing)
 - [Facebook-backed crypto project Diem abandons Swiss license application, will move to the U.S.](https://www.cnbc.com/2021/05/12/facebook-backed-diem-is-moving-from-switzerland-to-the-us.html) (CNBC)
-- [Ethereum creator donates meme coins worth $1 billion to help India fight COVID-19](https://techcrunch.com/2021/05/12/vitalik-buterin-donates-1-billion-worth-of-meme-coins-to-india-covid-relief-fund/) (Tech Crunch)
+- [Ethereum creator donates meme coins worth $1 billion to help India fight COVID-19](https://techcrunch.com/2021/05/12/vitalik-buterin-donates-1-billion-worth-of-meme-coins-to-india-covid-relief-fund/) (TechCrunch)
 - [SNL was a good night for Elon Musk — and a bad one for Dogecoin](https://www.protocol.com/bulletins/elon-musk-snl-dogecoin) (Protocol)
 - [Square gets a bitcoin boost with revenue up 266%](https://www.cnbc.com/2021/05/06/square-sq-earnings-q1-2021.html) (CNBC)
 - [How Much Energy Does Bitcoin Actually Consume?](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume) (Harvard Business Review)
@@ -823,7 +822,7 @@ title: Crypto/Blockchain
 - [Ethereum now an option on Amazon’s managed blockchain service](https://www.theblockcrypto.com/linked/96875/amazon-managed-blockchain-ethereum) (The Block)
 - [Grimes made $5.8 million in under 20 minutes selling crypto-based artwork](https://www.businessinsider.com/grimes-nft-art-warnymph-sells-for-millions-20-minutes-2021-3?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
 - [How a 10-second video clip sold for $6.6 million](https://www.reuters.com/article/retail-trading-nfts-idUKL8N2KV6X9) (Reuters)
-- [NFTs and a Thousand True Fans](https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/) (Chris Dixon/Andreessen Horowitz)
+- [NFTs and a Thousand True Fans](https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/) (Chris Dixon)
 
 ### February
 
@@ -941,8 +940,8 @@ title: Crypto/Blockchain
 
 ### August
 
-- [Binance enters into crypto lending space, offers interest-earning opportunities for BNB, ETC and Tethe](https://www.reuters.com/article/us-amazon-com-lawsuit/top-u-s-publishers-sue-amazons-audible-for-copyright-infringement-idUSKCN1VD1ZY)
-- [Facebook’s Libra backers look to distance themselves from project](https://www.ft.com/content/05be7adc-c4c1-11e9-a8e9-296ca66511c9) (Financial Times)
+- [Binance enters into crypto lending space, offers interest-earning opportunities for BNB, ETC and Tethe](https://www.reuters.com/article/us-amazon-com-lawsuit/top-u-s-publishers-sue-amazons-audible-for-copyright-infringement-idUSKCN1VD1ZY) (Reuters)
+- [Facebook’s Libra backers look to distance themselves from project](https://www.ft.com/content/05be7adc-c4c1-11e9-a8e9-296ca66511c9) (FT)
 - [Top 10 Crypto Memes](https://medium.com/brd-blog/top-10-crypto-memes-f26b25343659) (BRD)
 - [Binance planning to launch ‘Venus,’ similar to Facebook’s upcoming cryptocurrency Libra](https://www.theblockcrypto.com/2019/08/19/binance-planning-to-launch-venus-similar-to-facebooks-upcoming-cryptocurrency-libra/) (The Block)
 - [Exclusive: Coinbase Buys Xapo Custody for $55 Million, Eyes Lending Business](https://fortune.com/2019/08/15/coinbase-xapo-bitcoin-custody/) (Fortune)
@@ -999,7 +998,7 @@ title: Crypto/Blockchain
 - [Bitcoin drops 12% to below $5,000](https://www.cnbc.com/2018/11/19/bitcoin-skids-to-a-13-month-low-nearing-5000.html) (CNBC)
 - [Bitcoin Cash Declares War: Why Coming Hard Fork Could Mean Another Split](https://www.coindesk.com/bitcoin-cash-declares-war-why-this-could-mean-another-split) (CoinDesk)
 - [One Day After the Bitcoin Cash Hard Fork: Takeaways and Latest Developments](https://bitcoinmagazine.com/articles/one-day-after-bitcoin-cash-hard-fork-takeaways-and-latest-developments/#1542409994) (Bitcoin Magazine)
-- [A Cryptocurrency Millionaire Wants to Build a Utopia in Nevada](https://www.nytimes.com/2018/11/01/technology/nevada-bitcoin-blockchain-society.html) (New York Times)
+- [A Cryptocurrency Millionaire Wants to Build a Utopia in Nevada](https://www.nytimes.com/2018/11/01/technology/nevada-bitcoin-blockchain-society.html) (NYTimes)
 
 ### October
 
@@ -1010,7 +1009,7 @@ title: Crypto/Blockchain
 
 ### September
 
-- [Coinbase now lets users buy 'bundles](https://techcrunch.com/2018/09/27/coinbase-bundles-asset-pages/)
+- [Coinbase now lets users buy 'bundles](https://techcrunch.com/2018/09/27/coinbase-bundles-asset-pages/) (TechCrunch)
 - [Compound launches easy way to short cryptocurrencies](https://techcrunch.com/2018/09/27/short-ethereum-zrx-bat-rep/) (TechCrunch)
 - [Coinbase Wants To Be Too Big To Fail](http://fortune.com/longform/coinbase-bitcoin-brian-armstrong/) (Fortune)
 - [Coinbase will add cryptocurrencies more rapidly, with ratings and reviews](https://finance.yahoo.com/news/coinbase-will-add-cryptocurrencies-rapidly-ratings-reviews-213014512.html) (Yahoo Finance)

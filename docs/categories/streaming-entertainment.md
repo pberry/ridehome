@@ -1,5 +1,4 @@
 ---
-layout: category
 title: Streaming/Entertainment
 ---
 
@@ -11,7 +10,7 @@ title: Streaming/Entertainment
 
 - [Listen to This: Some Audiobooks Are Outselling Hardcovers](https://www.wsj.com/tech/personal-tech/listen-to-this-some-audiobooks-are-outselling-hardcovers-179ed593?st=ryAPTh&reflink=desktopwebshare_permalink) (WSJ)
 - [YouTube Has a Firm Grip on Daytime TV](https://www.nytimes.com/2025/12/23/business/media/youtube-has-a-firm-grip-on-daytime-tv.html?unlocked_article_code=1._E8.OkVe.QXcnwmsajwuM&smid=url-share) (NYTimes)
-- [Netflix and the Hollywood End Game (Stratechery)](https://stratechery.com/2025/netflix-and-the-hollywood-end-game/)
+- [Netflix and the Hollywood End Game (Stratechery)](https://stratechery.com/2025/netflix-and-the-hollywood-end-game/) (Stratechery)
 - [Netflix agrees $83bn takeover of Warner Bros Discovery](https://www.ft.com/content/6532be94-c0bf-4101-8126-f249aa6be3c5) (FT)
 - [The ‘Mad Men’ 4K Stream on HBO Max Had So Many Problems (Not All of Which Involved a Barf Machine)](https://www.hollywoodreporter.com/tv/tv-news/mad-men-hbo-max-4k-stream-roger-sterling-barf-tube-errors-1236439517/) (THR)
 - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed) (The Verge)
@@ -25,7 +24,7 @@ title: Streaming/Entertainment
 
 - [Warner Bros. Discovery says it’s open to a sale; shares jump 10%](https://www.cnbc.com/2025/10/21/wbd-sale-warner-bros-media.html) (CNBC)
 - [Apple and F1 reach 5-year media deal, bringing all races to Apple TV streaming in the U.S.](https://www.cnbc.com/2025/10/17/apple-f1-media-deal-streaming.html) (CNBC)
-- [TiVo Has Sold Its Last DVR. These People Refuse to Let Go.](https://www.wsj.com/lifestyle/tivo-dvr-cord-cutting-5a428638)
+- [TiVo Has Sold Its Last DVR. These People Refuse to Let Go.](https://www.wsj.com/lifestyle/tivo-dvr-cord-cutting-5a428638) (WSJ)
 - [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/) (TechCrunch)
 - [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes) (The Verge)
 
@@ -65,8 +64,8 @@ title: Streaming/Entertainment
 
 ### May
 
-- [Cricket gives Disney-Ambani unit in India almost as many users as Netflix](https://www.ft.com/content/ea6f401d-2989-48ba-aa8b-d0d7325cd021) (Financial Times)
-- [Is Mubi Really Worth $1 Billion? Inside Efe Cakarel’s Plan to Make the Global Streamer Cooler Than A24](https://variety.com/2025/film/features/mubi-worth-billion-streamer-taking-on-a24-1236395959/)
+- [Cricket gives Disney-Ambani unit in India almost as many users as Netflix](https://www.ft.com/content/ea6f401d-2989-48ba-aa8b-d0d7325cd021) (FT)
+- [Is Mubi Really Worth $1 Billion? Inside Efe Cakarel’s Plan to Make the Global Streamer Cooler Than A24](https://variety.com/2025/film/features/mubi-worth-billion-streamer-taking-on-a24-1236395959/) (Variety)
 - [Netflix debuts its generative AI-powered search tool](https://techcrunch.com/2025/05/07/netflix-debuts-its-generative-ai-powered-search-tool/) (TechCrunch)
 - [Netflix Overhauls Its Home Screen for the First Time in 12 Years](https://www.nytimes.com/2025/05/07/business/media/netflix-new-home-screen.html) (NYTimes)
 
@@ -81,7 +80,7 @@ title: Streaming/Entertainment
 - [Apple Streaming Losses Top $1 Billion a Year](https://www.theinformation.com/articles/apple-streaming-losses-top-1-billion-year?rc=64g9cw) (The Information)
 - [“Awful”: Roku tests autoplaying ads loading before the home screen](https://arstechnica.com/gadgets/2025/03/roku-says-unpopular-autoplay-ads-are-just-a-test/) (Ars Technica)
 - [Sonos has canceled its streaming video player](https://www.theverge.com/tech/628297/sonos-pinewood-streaming-box-canceled) (The Verge)
-- [YouTube at 20: How the Video Colossus Launched the Creator Economy and Turned From Hollywood Foe to Friend](https://variety.com/2025/digital/news/youtube-20th-anniversary-sean-evans-hollywood-1236327520/)
+- [YouTube at 20: How the Video Colossus Launched the Creator Economy and Turned From Hollywood Foe to Friend](https://variety.com/2025/digital/news/youtube-20th-anniversary-sean-evans-hollywood-1236327520/) (Variety)
 - [YouTube launches a $7.99 per month, ad-free Premium Lite subscription](https://techcrunch.com/2025/03/05/youtube-launches-a-7-99-per-month-ad-free-premium-lite-subscription/) (TechCrunch)
 - [YouTube Music hits 125 million subscribers, adding 2m subs per month on average over the past year](https://www.musicbusinessworldwide.com/youtube-music-hits-125m-paid-subscribers-adding-2m-subs-per-month-on-average-over-the-past-year/) (Music Business Worldwide)
 
@@ -94,10 +93,10 @@ title: Streaming/Entertainment
 
 ### January
 
-- [Streaming prices climb in 2025 after already surpassing inflation rates](https://arstechnica.com/gadgets/2025/01/streaming-prices-climb-in-2025-after-already-surpassing-inflation-rates/) (ArsTechnica)
+- [Streaming prices climb in 2025 after already surpassing inflation rates](https://arstechnica.com/gadgets/2025/01/streaming-prices-climb-in-2025-after-already-surpassing-inflation-rates/) (Ars Technica)
 - [Netflix won the streaming wars, and we’re all about to pay for it](https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars) (The Verge)
 - [Spotify Paid Out $10 Billion to the Music Industry in 2024 — $1 Billion More Than Last Year — and $60 Billion Total](https://variety.com/2025/digital/news/spotify-paid-out-10-billion-to-music-industry-2024-1236287781/) (Variety)
-- [As Netflix stock surges, an ‘anti-ESPN’ sports strategy emerges](https://www.nytimes.com/athletic/6080706/2025/01/22/netflix-espn-nfl-jake-paul-beyonce-wwe-ufc-earnings-nflx/)
+- [As Netflix stock surges, an ‘anti-ESPN’ sports strategy emerges](https://www.nytimes.com/athletic/6080706/2025/01/22/netflix-espn-nfl-jake-paul-beyonce-wwe-ufc-earnings-nflx/) (NYTimes)
 - [Oscar Nomination Scorecard: Netflix Leads Among Studios With 16, A24 Close Behind With 14](https://variety.com/2025/film/news/oscar-nomination-scorecard-netflix-leads-emilia-perez-1236283054/) (Variety)
 - [Netflix Adds 19 Million Subscribers in Latest Quarter](https://www.nytimes.com/2025/01/21/business/media/netflix-earnings.html) (NYTimes)
 - [Disney, Warner Bros. Discovery and Fox Pull the Plug on Venu Sports Streaming Venture](https://www.hollywoodreporter.com/business/business-news/venu-sports-dead-streaming-service-pulled-before-launch-1236106145/) (THR)
@@ -119,7 +118,7 @@ title: Streaming/Entertainment
 - [Netflix’s Tyson-Paul Boxing Bout Gets 65 Million Viewers at Peak](https://www.bloomberg.com/news/articles/2024-11-16/downdetector-shows-netflix-having-issues-before-paul-tyson-fight?sref=Szq5ylDR) (Bloomberg)
 - [Why Everyone Is Now Watching Podcasts on YouTube](https://www.wsj.com/business/youtube-podcasts-spotify-apple-f52d9f70?st=MDvkbm&reflink=desktopwebshare_permalink) (WSJ)
 - [Netflix Says Ad Tier Reaches 70 Million Users Globally](https://variety.com/2024/tv/news/netflix-ad-tier-reaches-70-million-global-users-1236207015/) (Variety)
-- [Your TV set has become a digital billboard. And it’s only getting worse.](https://arstechnica.com/gadgets/2024/08/tv-industrys-ads-tracking-obsession-is-turning-your-living-room-into-a-store/?utm_source=flipboard&utm_content=tech%2Fmagazine%2FTech+Longreads)
+- [Your TV set has become a digital billboard. And it’s only getting worse.](https://arstechnica.com/gadgets/2024/08/tv-industrys-ads-tracking-obsession-is-turning-your-living-room-into-a-store/?utm_source=flipboard&utm_content=tech%2Fmagazine%2FTech+Longreads) (Ars Technica)
 
 ### October
 
@@ -127,13 +126,13 @@ title: Streaming/Entertainment
 - [Hulu and Disney+ No Longer Support Signups and Payment Using App Store](https://www.macrumors.com/2024/10/21/hulu-disney-plus-no-app-store-signup/) (MacRumors)
 - [Amazon Adds Apple TV+ to Its Channels Store for Streaming](https://www.bloomberg.com/news/articles/2024-10-10/amazon-adds-apple-tv-to-its-channels-store-for-streaming-videos?sref=Szq5ylDR) (Bloomberg)
 - [Spotify adds a new, automatically updating playlist for offline listening](https://techcrunch.com/2024/10/03/spotify-adds-a-new-automatically-updating-playlist-for-offline-listening/) (TechCrunch)
-- [Amazon to increase number of advertisements on Prime Video](https://www.ft.com/content/f8112991-820c-4e09-bcf4-23b5e0f190a5) (Financial Times)
+- [Amazon to increase number of advertisements on Prime Video](https://www.ft.com/content/f8112991-820c-4e09-bcf4-23b5e0f190a5) (FT)
 - [Christian Selig’s unofficial YouTube app for the Vision Pro just got taken down](https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig) (The Verge)
 
 ### September
 
 - [Songs by Adele, Bob Dylan, Green Day, Many More Blocked by YouTube in Legal Dispute](https://variety.com/2024/digital/news/adele-bob-dylan-songs-blocked-by-youtube-legal-dispute-1236159099/) (Variety)
-- [Apple Rolls Back Its Big Plans to Release Movies in Theaters](https://www.bloomberg.com/news/articles/2024-09-27/apple-movies-won-t-be-coming-to-theaters-anytime-soon?sref=Szq5ylDR)
+- [Apple Rolls Back Its Big Plans to Release Movies in Theaters](https://www.bloomberg.com/news/articles/2024-09-27/apple-movies-won-t-be-coming-to-theaters-anytime-soon?sref=Szq5ylDR) (Bloomberg)
 - [TikTok to Shut Down its Music Streaming Business in November](https://www.bloomberg.com/news/articles/2024-09-24/tiktok-to-shut-down-its-music-streaming-business-in-november?sref=Szq5ylDR) (Bloomberg)
 - [How Netflix won the streaming wars](https://www.ft.com/content/465a2d0d-8973-4d8d-827d-8729737e6606) (FT)
 
@@ -141,7 +140,7 @@ title: Streaming/Entertainment
 
 - [Apple Rethinks Its Movie Strategy After a String of Misses](https://www.nytimes.com/2024/08/25/business/media/apple-movies-theaters-wolfs.html) (NYTimes)
 - [Report: “FAST correcting issues that VoD created”](https://advanced-television.com/2024/08/22/report-fast-correcting-issues-that-vod-created/) (Advanced Television)
-- [The Little Streamer That Could](https://www.nytimes.com/2024/08/13/business/media/tubi-movies-tv-streaming.html)
+- [The Little Streamer That Could](https://www.nytimes.com/2024/08/13/business/media/tubi-movies-tv-streaming.html) (NYTimes)
 - [Sonos considers relaunching its old app](https://www.theverge.com/2024/8/14/24220421/sonos-s2-app-relaunch) (The Verge)
 - [Crunchyroll Passes 15 Million Monthly Paid Subscribers](https://www.thewrap.com/crunchyroll-15-million-subscribers/) (The Wrap)
 - [Crunchyroll Is Thriving Thanks to Gen Z and Appointment Anime Viewing, COO Says](https://www.thewrap.com/crunchyroll-gita-rebbapragada-coo-interview/) (The Wrap)
@@ -154,15 +153,15 @@ title: Streaming/Entertainment
 - [The Rise of ByteDance’s CapCut Threatens Adobe and Canva](https://www.bloomberg.com/news/articles/2024-07-29/adobe-canva-losing-users-to-bytedance-s-capcut-especially-on-tiktok?sref=Szq5ylDR) (Bloomberg)
 - [Amazon Paid Almost $1 Billion for Twitch in 2014. It’s Still Losing Money.](https://www.wsj.com/tech/twitch-amazon-video-games-investment-9020db87) (WSJ)
 - [Netflix Q2 Profits Surge 44% to $2.15 Billion As Streamer Adds 8 Million Subscribers](https://www.thewrap.com/netflix-earnings-q2-2024/) (The Wrap)
-- [A One-Man Telemundo on TikTok](https://www.nytimes.com/2024/07/18/business/media/carlos-espina-tiktok.html)
+- [A One-Man Telemundo on TikTok](https://www.nytimes.com/2024/07/18/business/media/carlos-espina-tiktok.html) (NYTimes)
 - [Spotify is going to let you leave comments on podcast episodes](https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments) (The Verge)
 
 ### June
 
 - [An AI version of Al Michaels will deliver Olympic recaps on Peacock](https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps) (The Verge)
-- [YouTube dominates streaming, forcing media companies to decide whether it’s friend or foe](https://www.cnbc.com/2024/06/26/youtube-streaming-dominance-media-strategy.html)
+- [YouTube dominates streaming, forcing media companies to decide whether it’s friend or foe](https://www.cnbc.com/2024/06/26/youtube-streaming-dominance-media-strategy.html) (CNBC)
 - [The song Stevie Nicks wrote to “haunt” Lindsey Buckingham](https://faroutmagazine.co.uk/song-stevie-nicks-wrote-haunt-lindsey-buckingham/)
-- [As streaming becomes more expensive, Tubi cashes in on the value of free](https://www.latimes.com/entertainment-arts/business/story/2024-06-13/amid-streaming-inflation-tubi-cashes-in-on-the-value-of-free-fox) (Los Angeles Times)
+- [As streaming becomes more expensive, Tubi cashes in on the value of free](https://www.latimes.com/entertainment-arts/business/story/2024-06-13/amid-streaming-inflation-tubi-cashes-in-on-the-value-of-free-fox) (LA Times)
 - [Spotify to Introduce More Expensive Subscription Tier for Music Lovers](https://www.bloomberg.com/news/articles/2024-06-11/spotify-to-introduce-more-expensive-subscription-tier-for-music-lovers?sref=Szq5ylDR) (Bloomberg)
 - [Twitch is raising US subscription prices for the first time](https://www.engadget.com/twitch-is-raising-us-subscription-prices-for-the-first-time-193204538.html) (Engadget)
 - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans) (The Verge)
@@ -170,7 +169,7 @@ title: Streaming/Entertainment
 ### May
 
 - [Spotify offers Car Thing refunds as it faces lawsuit over bricking the streaming device](https://techcrunch.com/2024/05/30/spotify-begins-offering-car-thing-refunds-as-it-faces-lawsuit-over-bricking-the-streaming-device/) (TechCrunch)
-- [Disney Is Banking On Sequels to Help Get Pixar Back on Track](https://www.bloomberg.com/news/features/2024-05-30/disney-s-inside-out-2-could-hold-key-to-pixar-restoring-movie-magic?sref=Szq5ylDR)
+- [Disney Is Banking On Sequels to Help Get Pixar Back on Track](https://www.bloomberg.com/news/features/2024-05-30/disney-s-inside-out-2-could-hold-key-to-pixar-restoring-movie-magic?sref=Szq5ylDR) (Bloomberg)
 - [Apple Signals That It’s Working on TV+ App for Android Phones](https://www.bloomberg.com/news/articles/2024-05-29/apple-signals-that-it-s-working-on-tv-app-for-android-phones?sref=Szq5ylDR) (Bloomberg)
 - [What Happened to Our Ad-Free TV?](https://www.nytimes.com/2024/05/26/business/media/ads-tv-streaming.html?unlocked_article_code=1.u00.-NgX._JWeWd_10adI&smid=url-share) (NYTimes)
 - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024) (The Verge)
@@ -185,7 +184,7 @@ title: Streaming/Entertainment
 - [To Keep Viewers, Disney Plans a New Streaming Concept: Old-Style TV Channels](https://www.theinformation.com/articles/to-keep-viewers-disney-plans-a-new-streaming-concept-old-style-tv-channels?rc=64g9cw) (The Information)
 - [YouTube cracking down on third-party apps that block ads](https://9to5google.com/2024/04/15/youtube-app-block-ads/) (9to5Google)
 - [YouTube Accounted for Nearly 10% of All TV Viewing in March, Nielsen Says](https://www.thewrap.com/nielsen-march-2024-gauge-report-youtube-ratings/) (TheWrap)
-- [How Bluey Became a $2 Billion Smash Hit—With an Uncertain Future](https://www.bloomberg.com/news/features/2024-04-03/is-bluey-ending-disney-s-worried-biggest-kids-show-ever-is-at-risk?sref=Szq5ylDR)
+- [How Bluey Became a $2 Billion Smash Hit—With an Uncertain Future](https://www.bloomberg.com/news/features/2024-04-03/is-bluey-ending-disney-s-worried-biggest-kids-show-ever-is-at-risk?sref=Szq5ylDR) (Bloomberg)
 - [Spotify Plans New Remixing Tools for the TikTok Generation](https://www.wsj.com/business/media/spotify-to-let-users-play-dj-competing-with-remixes-on-tiktok-da35e25c?st=itygp9ombqkqnok&reflink=desktopwebshare_permalink) (WSJ)
 - [Spotify launches personalized AI playlists that you can build using prompts](https://techcrunch.com/2024/04/07/spotify-launches-personalized-ai-playlists-you-can-build-using-prompts/) (TechCrunch)
 - [Disney+ will crack down on password sharing in June](https://www.cnn.com/2024/04/04/media/disney-password-crackdown/) (CNN)
@@ -199,7 +198,7 @@ title: Streaming/Entertainment
 - [Spotify adds video learning courses in latest experiment](https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso) (The Verge)
 - [MusicWatch Reports Results of 2023 Annual Music Study: Record Numbers of Music Streamers and Paid Subscribers](https://musicwatchinc.com/blog/musicwatch-reports-results-of-2023-annual-music-study/) (Music Watch)
 - [Spotify adds music videos in some countries](https://techcrunch.com/2024/03/13/spotify-adds-music-videos-in-some-countries/) (TechCrunch)
-- [How Netflix’s Massive Paydays, COVID and TikTok Caused ‘Explosion of Comedians’](https://variety.com/2024/tv/features/netflix-covid-tiktok-caused-explosion-of-comedians-1235932345/)
+- [How Netflix’s Massive Paydays, COVID and TikTok Caused ‘Explosion of Comedians’](https://variety.com/2024/tv/features/netflix-covid-tiktok-caused-explosion-of-comedians-1235932345/) (Variety)
 
 ### February
 
@@ -207,7 +206,7 @@ title: Streaming/Entertainment
 - [Tuned In: Amazon Said To Be Paying Record $120M To Stream NFL Playoff Game](https://frontofficesports.com/sources-amazon-paying-a-record-120m-to-stream-an-nfl-playoff-game/) (Front Office Sports)
 - [Apple Sports: New Free App Provides Real-Time Scores and Stats, Designed to Drive Apple TV Tune-In](https://variety.com/2024/digital/news/apple-sports-app-free-scores-stats-1235917206/) (Variety)
 - [Apple launches Apple Sports app with scores and betting odds](https://www.theverge.com/2024/2/21/24079064/apple-sports-app-launch-iphone-live-scores-odds-stats) (The Verge)
-- [How an African streaming service dethroned Netflix](https://restofworld.org/2024/showmax-subscription-africa-netflix/)
+- [How an African streaming service dethroned Netflix](https://restofworld.org/2024/showmax-subscription-africa-netflix/) (Rest of World)
 - [ESPN, Fox and Warner Team Up to Create Sports Streaming Platform](https://www.wsj.com/business/media/fox-warner-bros-discovery-and-disney-create-new-sports-streaming-venture-c9836792?st=s3jhguss89ne97o) (WSJ)
 - [YouTube says a Vision Pro app is ‘on the roadmap’](https://www.theverge.com/2024/2/5/24062425/youtube-vision-pro-app-360-vr-video) (The Verge)
 
@@ -221,7 +220,7 @@ title: Streaming/Entertainment
 - [Netflix Pays $5 Billion for ‘Raw’ in Bet on Live Events](https://www.bloomberg.com/news/articles/2024-01-23/netflix-buys-rights-to-wwe-s-raw-its-first-big-live-event?sref=Szq5ylDR) (Bloomberg)
 - [YouTube and Spotify Won’t Launch Apple Vision Pro Apps, Joining Netflix](https://www.bloomberg.com/news/articles/2024-01-18/youtube-and-spotify-join-netflix-in-not-launching-apple-vision-pro-apps?sref=Szq5ylDR) (Bloomberg)
 - [A Survey of Popular Apps Currently Compatible With Apple Vision Pro](https://www.macstories.net/news/a-survey-of-popular-apps-currently-compatible-with-apple-vision-pro/) (MacStories)
-- [How Twitch lost its way](https://www.fastcompany.com/91010966/how-twitch-lost-its-way)
+- [How Twitch lost its way](https://www.fastcompany.com/91010966/how-twitch-lost-its-way) (Fast Company)
 - [YouTube is restructuring creator management teams](https://www.tubefilter.com/2024/01/17/youtube-corporate-restructuring/) (TubeFilter)
 - [Apple's Vision Pro Won't Launch With Netflix App](https://www.bloomberg.com/news/articles/2024-01-17/watching-netflix-on-apple-vision-pro-you-ll-have-to-use-the-web?sref=Szq5ylDR) (Bloomberg)
 - [The NFL and Taylor Swift surprisingly aren’t enough to crash Peacock](https://www.theverge.com/2024/1/13/24037524/peacock-nfl-exclusive-miami-dolphins-kansas-city-chiefs-streaming) (The Verge)
@@ -264,16 +263,16 @@ title: Streaming/Entertainment
 - [Twitch launches stories for streamers](https://techcrunch.com/2023/10/16/twitch-launches-stories-streamers/) (TechCrunch)
 - [Netflix to Open Stores Where Fans Can Play, Shop and Eat in 2025](https://www.bloomberg.com/news/articles/2023-10-12/netflix-to-open-stores-where-fans-can-play-shop-and-eat-in-2025?sref=Szq5ylDR) (Bloomberg)
 - [YouTube passes Netflix as top video source for teens](https://www.cnbc.com/2023/10/11/youtube-passes-netflix-as-top-video-source-for-teens.html) (CNBC)
-- [How Bandcamp makes more money than Spotify](https://www.fastcompany.com/90951664/bandcamp-spotify-vinyl-renaissance)
+- [How Bandcamp makes more money than Spotify](https://www.fastcompany.com/90951664/bandcamp-spotify-vinyl-renaissance) (Fast Company)
 - [Netflix Plans to Raise Prices After Actors Strike Ends](https://www.wsj.com/business/media/netflix-price-increase-actors-strike-792de9be) (WSJ)
 
 ### September
 
-- [Netflix Prepares to Send Its Final Red Envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
+- [Netflix Prepares to Send Its Final Red Envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html) (NYTimes)
 - [Spotify launches Jam, a real-time collaborative playlist controlled by up to 32 people](https://techcrunch.com/2023/09/26/spotify-launches-jam-a-real-time-collaborative-playlist-controlled-by-up-to-32-people/) (TechCrunch)
 - [Amazon to Run Ads on Prime Video in Key Markets Starting in 2024](https://www.bloomberg.com/news/articles/2023-09-22/amazon-prime-video-content-to-include-ads-staring-early-2024?sref=Szq5ylDR) (Bloomberg)
 - [Streaming Is Changing the Sound of Music](https://www.wsj.com/arts-culture/music/streaming-is-changing-the-sound-of-music-182dc907) (WSJ)
-- [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
+- [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html) (Vulture)
 - [Spotify’s $1 Billion Podcast Bet Turns Into a Serial Drama](https://www.wsj.com/business/media/spotify-podcast-gimlet-harry-meghan-kardashian-59866a5d) (WSJ)
 - [Messi Drives Jump in Apple TV+ and MLS Subscriptions](https://www.wsj.com/business/media/messi-apple-mls-subscriptions-inter-miami-ee777c26) (WSJ)
 
@@ -301,17 +300,17 @@ title: Streaming/Entertainment
 
 ### June
 
-- [Mixtape Sites Like DatPiff Propelled Rap. Can They Be Preserved?](https://www.nytimes.com/2023/06/28/arts/music/rap-mixtape-websites-datpiff.html)
+- [Mixtape Sites Like DatPiff Propelled Rap. Can They Be Preserved?](https://www.nytimes.com/2023/06/28/arts/music/rap-mixtape-websites-datpiff.html) (NYTimes)
 - [Twitch will require new labels for streams with sexual themes, gambling and M-rated games](https://techcrunch.com/2023/06/20/twitch-mature-content-labels/) (TechCrunch)
 - [Netflix Tweaks Its Top 10 Rankings, Adds View Count](https://www.hollywoodreporter.com/tv/tv-news/wednesday-stranger-things-netflix-changes-top-10-rankings-1235519752/) (THR)
 - [Spotify Plans New Premium Tier, Expected to Include HiFi Audio](https://www.bloomberg.com/news/articles/2023-06-20/spotify-plans-new-premium-tier-expected-to-include-hifi-audio?sref=Szq5ylDR) (Bloomberg)
-- [How MrBeast Became the Willy Wonka of YouTube](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
+- [How MrBeast Became the Willy Wonka of YouTube](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html) (NYTimes)
 - [Spotify Takes a Sharp Turn With Its $1 Billion Podcast Division](https://www.bloomberg.com/news/articles/2023-06-14/parcast-and-gimlet-layoffs-reflect-a-bigger-spotify-podcast-pivot?sref=Szq5ylDR) (Bloomberg)
 - [Netflix to Enter Live-Streamed Sports With Celebrity Golf Event](https://www.wsj.com/articles/netflix-plans-first-live-streamed-sports-event-with-celebrity-golf-tournament-cd76c2c1?mod=djemalertNEWS) (WSJ)
 - [Spotify says it’s testing an ‘offline mix’ for when your connection’s patchy](https://www.theverge.com/2023/6/9/23755097/spotify-offline-mix-test) (The Verge)
 - [Netflix Subscriptions Jump as U.S. Password-Sharing Crackdown Begins](https://www.wsj.com/articles/netflix-subscriptions-jump-as-u-s-password-sharing-crackdown-begins-4aff1be4?mod=djemalertNEWS) (WSJ)
-- [The Binge Purge TV’s streaming model is broken. It’s also not going away. For Hollywood, figuring that out will be a horror show.](https://www.vulture.com/2023/06/streaming-industry-netflix-max-disney-hulu-apple-tv-prime-video-peacock-paramount.html)
-- [The Simpsons Is Good Again After 34 seasons, 750 episodes, and a decades-long funk, the show innovated its way back to popularity and relevance.](https://www.vulture.com/article/the-simpsons-is-good-again.html)
+- [The Binge Purge TV’s streaming model is broken. It’s also not going away. For Hollywood, figuring that out will be a horror show.](https://www.vulture.com/2023/06/streaming-industry-netflix-max-disney-hulu-apple-tv-prime-video-peacock-paramount.html) (Vulture)
+- [The Simpsons Is Good Again After 34 seasons, 750 episodes, and a decades-long funk, the show innovated its way back to popularity and relevance.](https://www.vulture.com/article/the-simpsons-is-good-again.html) (Vulture)
 - [Amazon Plans Ad Tier for Prime Video Streaming Service](https://www.wsj.com/articles/amazon-plans-ad-tier-for-prime-video-streaming-service-8944fe51?mod=djemalertNEWS) (WSJ)
 
 ### May
@@ -323,7 +322,7 @@ title: Streaming/Entertainment
 - [Netflix Plans to Cut Spending by $300 Million in 2023](https://www.wsj.com/articles/netflix-plans-to-cut-spending-by-300-million-in-2023-7940b06a?st=xpxf2ol7xsk8xqa) (WSJ)
 - [A Growing Number of Streaming Video Customers Watch Ads](https://www.bloomberg.com/news/newsletters/2023-05-14/netflix-login-most-new-us-customers-watch-ads?sref=Szq5ylDR) (Bloomberg)
 - [Telly’s wild idea: Free TVs with inescapable ads](https://www.fastcompany.com/90896112/telly-free-tv-with-inescapable-ads) (Fast Company)
-- [ESPN’s Jimmy Pitaro Will Decide the Fate of Cable Television](https://www.bloomberg.com/news/articles/2023-05-01/espn-s-jimmy-pitaro-and-disney-s-bob-iger-often-chew-over-future-of-espn?sref=Szq5ylDR)
+- [ESPN’s Jimmy Pitaro Will Decide the Fate of Cable Television](https://www.bloomberg.com/news/articles/2023-05-01/espn-s-jimmy-pitaro-and-disney-s-bob-iger-often-chew-over-future-of-espn?sref=Szq5ylDR) (Bloomberg)
 - [Hollywood Writers Strike Over Pay Disputes with Streaming Giants and AI Concerns](https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107) (Gizmodo)
 
 ### April
@@ -335,7 +334,7 @@ title: Streaming/Entertainment
 - ['The Penguin' Trailer: Colin Farrell Returns to Gotham as 'The Batman' Spinoff Series Confirms 2024 Release](https://variety.com/2023/tv/news/the-penguin-trailer-colin-farrell-2024-release-date-1235579984/) (Variety)
 - [YouTube Premium adds more perks with SharePlay support, higher quality video and more](https://techcrunch.com/2023/04/10/youtube-premium-adds-more-perks-with-shareplay-support-higher-quality-video-and-more/) (TechCrunch)
 - [NFL Sunday Ticket on YouTube starts at $249 for the 2023 season](https://www.theverge.com/23677643/nfl-sunday-ticket-2023-youtube-price-tv) (The Verge)
-- [Blockbuster pushed HBO to start investing in original content, cable giant’s ex-chief says](https://www.cnbc.com/2023/04/05/blockbuster-pushed-hbo-to-invest-in-original-content-ex-chief.html)
+- [Blockbuster pushed HBO to start investing in original content, cable giant’s ex-chief says](https://www.cnbc.com/2023/04/05/blockbuster-pushed-hbo-to-invest-in-original-content-ex-chief.html) (CNBC)
 - [Spotify shuts down its Clubhouse-style audio app Spotify Live](https://musically.com/2023/04/03/spotify-shuts-down-clubhouse-app-spotify-live/) (Musically)
 
 ### March
@@ -373,13 +372,13 @@ title: Streaming/Entertainment
 - [‘South Park’ Creators Trey Parker and Matt Stone Land $20 Million in Funding for Their Deepfake VFX Studio](https://variety.com/2022/digital/news/trey-parker-matt-stone-deep-voodoo-deepfake-funding-1235466563/) (Variety)
 - [Netflix’s Ad-Supported Tier Was Its Least Popular Plan, Analytics Firm Estimates](https://www.wsj.com/articles/netflixs-ad-supported-tier-was-its-least-popular-plan-in-launch-month-analytics-firm-estimates-11671539939?mod=djemalertNEWS) (WSJ)
 - [Netflix lets advertisers take their money back after missing viewership targets](https://digiday.com/future-of-tv/netflix-lets-advertisers-take-their-money-back-after-missing-viewership-targets/) (Digiday)
-- [YouTube Stars Cash In Video Rights for Millions of Dollars](https://www.wsj.com/articles/youtube-stars-cash-in-video-rights-for-millions-of-dollars-11670883441?mod=djemalertNEWS)
+- [YouTube Stars Cash In Video Rights for Millions of Dollars](https://www.wsj.com/articles/youtube-stars-cash-in-video-rights-for-millions-of-dollars-11670883441?mod=djemalertNEWS) (WSJ)
 - [The Grown-Up Art of Andor](https://newrepublic.com/article/169206/grown-up-art-andor)
 
 ### November
 
 - [Apple Music reveals top music in 2022 and listener charts](https://apnews.com/article/technology-entertainment-music-elton-john-cd536b3a09f22565bbeb26fe0d75d03a) (AP News)
-- [Robert Iger Returns to Disney Facing Radically Different Streaming Landscape](https://www.wsj.com/articles/robert-iger-returns-to-disney-facing-radically-different-streaming-landscape-11669150125?mod=djemalertNEWS)
+- [Robert Iger Returns to Disney Facing Radically Different Streaming Landscape](https://www.wsj.com/articles/robert-iger-returns-to-disney-facing-radically-different-streaming-landscape-11669150125?mod=djemalertNEWS) (WSJ)
 - [Disney Shocker: Bob Iger Returning as CEO, Bob Chapek Exits](https://www.hollywoodreporter.com/business/business-news/disney-bob-iger-returning-ceo-bob-chapek-exits-1235266823/) (The Hollywood Reporter)
 - [Apple Kicks Off Major League Soccer Plans With Pricing & Launch Details](https://deadline.com/2022/11/apple-major-league-soccer-price-launch-details-1235174066/) (Deadline)
 - [Netflix's new feature lets subscribers kick devices off their accounts](https://techcrunch.com/2022/11/15/netflix-new-manage-access-and-devices-feature/) (TechCrunch)
@@ -393,12 +392,12 @@ title: Streaming/Entertainment
 ### October
 
 - [YouTube redesign gives long-form videos, Shorts and Live videos their own tabs on channel pages](https://techcrunch.com/2022/10/27/youtube-redesign-gives-long-form-videos-shorts-and-live-videos-their-own-tabs-on-channel-pages/) (TechCrunch)
-- [The beginning of the monster Game of Thrones Twitter Thread](https://twitter.com/rejectedjokes/status/1575550274369777664?s=12&t=Ug37XoK-uxxYl2v5lqIV9w)
+- [The beginning of the monster Game of Thrones Twitter Thread](https://twitter.com/rejectedjokes/status/1575550274369777664?s=12&t=Ug37XoK-uxxYl2v5lqIV9w) (Twitter)
 - [Spotify Boosts Subscribers and Revenue, Says 2023 Price Increases Likely](https://www.wsj.com/articles/spotify-spot-q3-earnings-report-2022-11666728321?mod=djemalertNEWS) (WSJ)
 - [Alphabet misses on earnings as YouTube shrinks; company will cut headcount growth by half in Q4](https://www.cnbc.com/2022/10/25/alphabet-googl-q3-2022-earnings-.html) (CNBC)
 - [Apple is raising the price of Apple Music, Apple TV+ and Apple One from today](https://9to5mac.com/2022/10/24/apple-music-tv-prices-going-up/) (9to5Mac)
 - [Netflix adds more than 2.4 million subscribers, reveals details about password-sharing crackdown](https://www.cnbc.com/2022/10/18/netflix-nflx-earnings-q3-2022.html) (CNBC)
-- [The New Netflix Age Has Arrived](https://puck.news/the-new-netflix-age-has-arrived/?_cio_id=f6c6060685df01a6dd0c&utm_campaign=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_content=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_medium=email_action&utm_source=customer.io) (Puck/Julia Alexander)
+- [The New Netflix Age Has Arrived](https://puck.news/the-new-netflix-age-has-arrived/?_cio_id=f6c6060685df01a6dd0c&utm_campaign=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_content=What+I%27m+Hearing%2B+-+LEADS+%2810%2F18%2F22%29&utm_medium=email_action&utm_source=customer.io) (Puck)
 - [Netflix’s ad tier will cost $6.99 a month and launch in November](https://www.theverge.com/2022/10/13/23402725/netflix-basic-with-ads?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [TikTok Parent ByteDance Sets Sights on Spotify With Music-Streaming Expansion](https://www.wsj.com/articles/tiktok-parent-bytedance-plans-music-streaming-expansion-11665602937?mod=djemalertNEWS) (WSJ)
 - [You Hated Your Cable Package. Your Streaming Services Are Bringing It Back.](https://www.wsj.com/articles/streaming-service-bundle-cable-11665151236?mod=djemalertNEWS) (WSJ)
@@ -413,14 +412,14 @@ title: Streaming/Entertainment
 - [Spotify Launches Audiobooks Business With A La Carte Pricing, No Discounts for Subscribers](https://www.hollywoodreporter.com/business/digital/spotify-audiobooks-1235223861/) (The Hollywood Reporter)
 - [Roku to Launch ‘The Buzz’ Short-Form Content Hub on Home Screen, Refreshes $30 Streaming Device](https://variety.com/2022/digital/news/roku-buzz-content-discovery-home-screen-1235366136/) (Variety)
 - [Why Disney didn’t buy Twitter](https://www.vox.com/recode/2022/9/7/23339402/bob-iger-disney-streaming-code?scrolla=5eb6d68b7fedc32c19ef33b4) (Vox)
-- [AMAZON’S THE LORD OF THE RINGS: THE RINGS OF POWER IS SMALL-SCREEN HIGH FANTASY DONE RIGHT](https://www.theverge.com/23329415/the-lord-of-the-rings-of-power-review-amazon-prime?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)
+- [AMAZON’S THE LORD OF THE RINGS: THE RINGS OF POWER IS SMALL-SCREEN HIGH FANTASY DONE RIGHT](https://www.theverge.com/23329415/the-lord-of-the-rings-of-power-review-amazon-prime?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
 - [Disney Explores Membership Program Like Amazon Prime to Offer Discounts and Perks](https://www.wsj.com/articles/disney-explores-amazon-prime-like-membership-program-to-offer-discounts-and-perks-11661978329?mod=djemalertNEWS) (WSJ)
 
 ### August
 
 - [Netflix Eyes $7-to-$9 Price for Its New Ad-Supported Plan](https://www.bloomberg.com/news/articles/2022-08-26/netflix-eyes-7-to-9-price-for-its-new-ad-supported-plan?sref=Szq5ylDR) (Bloomberg)
 - [Twitter is becoming a podcast app](https://www.theverge.com/2022/8/25/23321940/twitter-podcast-spaces-spotify-apple?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [Streaming Is Starting to Look A Lot Like Cable TV](https://www.bloomberg.com/news/newsletters/2022-08-14/streaming-is-starting-to-look-a-lot-like-cable-tv?sref=Szq5ylDR)
+- [Streaming Is Starting to Look A Lot Like Cable TV](https://www.bloomberg.com/news/newsletters/2022-08-14/streaming-is-starting-to-look-a-lot-like-cable-tv?sref=Szq5ylDR) (Bloomberg)
 - [Netflix’s Ad-Supported Plan Will Block Downloads of Shows, Films](https://www.bloomberg.com/news/articles/2022-08-17/netflix-s-ad-supported-plan-will-block-downloads-of-shows-films?sref=Szq5ylDR) (Bloomberg)
 - [U.S. Streaming Tops Cable TV Viewing for First Time, Nielsen Says](https://variety.com/2022/digital/news/streaming-tops-cable-tv-viewing-nielsen-1235344466/) (Variety)
 - [Cameo Now Lets You Have 10-Minute Calls With Celebs](https://gizmodo.com/cameo-live-calls-celebs-1849425448?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
@@ -479,7 +478,7 @@ title: Streaming/Entertainment
 - [NFL considers creating a streaming service of its own](https://theathletic.com/3213873/2022/03/28/nfl-considers-creating-a-streaming-service-of-its-own/) (The Athletic)
 - [Apple Is First Streamer to Win Best Picture Oscar for ‘CODA’](https://variety.com/2022/film/news/apple-best-picture-oscar-coda-1235213717/) (Variety)
 - [YouTube is taking on over-the-air TV with nearly 4,000 free episodes of TV](https://www.theverge.com/2022/3/23/22991810/youtube-free-tv-shows-with-ads?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [TV, merchant media and the unbundling of advertising](https://www.ben-evans.com/benedictevans/2022/3/18/unbundling-advertising) (Ben-Evans.com)
+- [TV, merchant media and the unbundling of advertising](https://www.ben-evans.com/benedictevans/2022/3/18/unbundling-advertising) (Ben)
 - [Netflix Will Prompt Subscribers to Pay for Users Outside Their Households in New Test to Address Unauthorized Password Sharing (EXCLUSIVE)](https://variety.com/2022/digital/news/netflix-subscribers-pay-users-outside-households-1235206575/) (Variety)
 - [Vimeo is telling creators to suddenly pay thousands of dollars — or leave the platform](https://www.theverge.com/2022/3/15/22979126/vimeo-patreon-creators-price-increase?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [FC Barcelona agree to sponsorship deal with Spotify, will rebrand stadium as 'Spotify Camp Nou'](https://www.cbssports.com/soccer/news/fc-barcelona-agree-to-sponsorship-deal-with-spotify-will-rebrand-stadium-as-spotify-camp-nou/) (CBS Sports)
@@ -492,11 +491,11 @@ title: Streaming/Entertainment
 
 ### February
 
-- [Francis Ford Coppola’s $100 Million Bet](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather)
+- [Francis Ford Coppola’s $100 Million Bet](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather) (GQ)
 - [Spotify is acquiring two major podcast tech platforms](https://www.theverge.com/2022/2/16/22937826/spotify-podsights-chartable-acquisitions-podcast-marketing-platforms?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Spotter raises $200M to invest $1 billion into YouTubers’ back catalogs](https://techcrunch.com/2022/02/16/spotter-invest-youtubers-back-catalog/) (TechCrunch)
 - [ViacomCBS rebrands to Paramount in focus on streaming](https://www.theverge.com/2022/2/15/22936147/viacomcbs-rebrands-paramount-streaming-focus) (The Verge)
-- [The Little Streaming Comedy Platform That Couldn’t](https://www.vulture.com/article/seeso-oral-history.html?utm_source=tw&utm_medium=s1&utm_campaign=vulture)
+- [The Little Streaming Comedy Platform That Couldn’t](https://www.vulture.com/article/seeso-oral-history.html?utm_source=tw&utm_medium=s1&utm_campaign=vulture) (Vulture)
 - [Amazon’s Lord of the Rings Series Rises: Inside The Rings of Power](https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look)
 - [Spotify CEO Addresses Joe Rogan’s N-Word Use, Doubles Down on Keeping Podcaster on Platform](https://www.hollywoodreporter.com/business/digital/spotify-joe-rogan-daniel-ek-1235087928/) (The Hollywood Reporter)
 - [Spotify CEO defends Joe Rogan deal in tense company town hall](https://www.theverge.com/2022/2/3/22915456/spotify-ceo-joe-rogan-daniel-ek-town-hall-speech-platform-podcast) (The Verge)
@@ -507,8 +506,8 @@ title: Streaming/Entertainment
 - [Joe Rogan defends podcast and apologizes to Spotify for backlash](https://www.theverge.com/2022/1/31/22910039/joe-rogan-response-neil-young-joni-mitchell-spotify?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Spotify’s big Rogan mistake](https://www.protocol.com/newsletters/sourcecode/spotifys-big-rogan-mistake?rebelltitem=1#rebelltitem1) (Protocol)
 - [Apple CEO: ‘We Don’t Make Purely Financial Decisions’ About Apple TV Plus Content](https://variety.com/2022/digital/news/apple-tv-plus-purely-financial-decisions-ceo-tim-cook-1235165656/) (Variety)
-- [Why Netflix Just Had Its Worst Day in A Decade](https://www.bloomberg.com/news/newsletters/2022-01-23/why-netflix-just-had-its-worst-day-in-a-decade?sref=Szq5ylDR)
-- [Netflix stock market woe is warning to Hollywood](https://www.ft.com/content/70f478ab-e48a-464e-ace9-33b86b51e2de)
+- [Why Netflix Just Had Its Worst Day in A Decade](https://www.bloomberg.com/news/newsletters/2022-01-23/why-netflix-just-had-its-worst-day-in-a-decade?sref=Szq5ylDR) (Bloomberg)
+- [Netflix stock market woe is warning to Hollywood](https://www.ft.com/content/70f478ab-e48a-464e-ace9-33b86b51e2de) (FT)
 - [Spotify Takes Down Neil Young’s Music After His Joe Rogan Ultimatum](https://www.wsj.com/articles/neil-youngs-music-is-being-taken-down-by-spotify-after-ultimatum-over-joe-rogan-11643230104?mod=djemalertNEWS) (WSJ)
 - [Netflix Falls Short of Q4 Subscriber Target, Stock Tumbles on Weak Forecast](https://variety.com/2022/digital/news/netflix-q4-2021-earnings-subscribers-1235158494/) (Variety)
 
@@ -535,7 +534,7 @@ title: Streaming/Entertainment
 
 ### October
 
-- [Life in the FAST Lane: Free Streaming, Big Money](https://www.vulture.com/newsletter/2021/10/buffering-october-28-2021.html) (Vulture/NYMag)
+- [Life in the FAST Lane: Free Streaming, Big Money](https://www.vulture.com/newsletter/2021/10/buffering-october-28-2021.html) (Vulture)
 - [Inside Wheel of Time, Amazon’s Huge Gamble on the Next Game of Thrones](https://www.gq.com/story/inside-amazons-wheel-of-time) (GQ)
 - [Comcast Launches XClass TV, Its First TV Sets in the U.S., Taking Streaming Platform Direct-to-Consumer](https://variety.com/2021/digital/news/comcast-xclass-tv-streaming-hisense-1235092484/) (Variety)
 - [YouTube Has Surpassed $3 Billion in Consumer Spend on iOS — Giving The World Access to Tailored Quality Content](https://www.appannie.com/en/insights/market-data/youtube-has-surpassed-3-billion-in-consumer-spend/) (App Annie)
@@ -553,7 +552,7 @@ title: Streaming/Entertainment
 - [Adult Swim: How an Animation Experiment Conquered Late-Night TV](https://www.nytimes.com/2021/09/02/arts/television/adult-swim-history-anniversary.html?smid=li-share) (NYTimes)
 - [Amazon Unveils First of Its Own Smart TVs, Will Bring TikTok to Fire TV in U.S. and Canada](https://variety.com/2021/digital/news/amazon-own-fire-tv-tiktok-netflix-shuffle-1235059585/) (Variety)
 - [EXCLUSIVE: Amazon is close to launching its own TV in the US](https://www.businessinsider.com/amazon-close-to-launching-its-own-tv-in-the-us-2021-9?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
-- [YouTube music services hit 50m subscribers in race to catch Spotify](https://www.ft.com/content/ae722400-561c-431a-85eb-e09e1f6b0bb2) (Financial Times)
+- [YouTube music services hit 50m subscribers in race to catch Spotify](https://www.ft.com/content/ae722400-561c-431a-85eb-e09e1f6b0bb2) (FT)
 
 ### August
 
@@ -583,16 +582,16 @@ title: Streaming/Entertainment
 
 - [YouTube TV Unveils Dolby Digital Support & Premium Add-on with 4K, Offline Downloads, and Unlimited Streams](https://thestreamable.com/news/youtube-tv-unveils-dolby-digital-support-premium-add-on-with-4k-offline-downloads-and-unlimited-streams) (The Streamable)
 - [How Roku used the Netflix playbook to beat bigger players and rule streaming video](https://www.cnbc.com/2021/06/18/how-roku-dominated-streaming-anthony-woods-new-content-obsession.html) (CNBC)
-- [Inside Comcast’s Plan to Become a Streaming Giant](https://www.wsj.com/articles/comcasts-ceo-built-a-cable-giant-can-he-build-a-streaming-giant-11624473722?mod=djemalertNEWS) (Wall Street Journal)
+- [Inside Comcast’s Plan to Become a Streaming Giant](https://www.wsj.com/articles/comcasts-ceo-built-a-cable-giant-can-he-build-a-streaming-giant-11624473722?mod=djemalertNEWS) (WSJ)
 - [Steven Spielberg’s Amblin Partners, Netflix Forge Film Deal in Sign of Changing Hollywood](https://variety.com/2021/film/news/steven-spielberg-netflix-amblin-deal-1235001513/) (Variety)
-- [Can Streaming Pay? Musicians Are Pinning Fresh Hopes on Twitch.](https://www.nytimes.com/2021/06/16/arts/music/twitch-streaming-music.html) (New York Times)
-- [Spotify launches its live audio app and Clubhouse rival, Spotify Greenroom](https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/) (Tech Crunch)
+- [Can Streaming Pay? Musicians Are Pinning Fresh Hopes on Twitch.](https://www.nytimes.com/2021/06/16/arts/music/twitch-streaming-music.html) (NYTimes)
+- [Spotify launches its live audio app and Clubhouse rival, Spotify Greenroom](https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/) (TechCrunch)
 - [Netflix Has a Plan to Sell You Toys, T-Shirts and Concert Tickets](https://www.bloomberg.com/news/newsletters/2021-06-13/netflix-has-a-plan-to-sell-you-toys-t-shirts-and-concert-tickets) (Bloomberg)
 - [Marcus Graham: Looking back on 10 years of Twitch’s experiment with livestreaming](https://venturebeat.com/2021/06/06/marcus-graham-looking-back-on-10-years-of-twitchs-experiment-with-livestreaming/) (Venture Beat)
 
 ### May
 
-- [James Bond, Meet Jeff Bezos: Amazon Makes $8.45 Billion Deal for MGM](https://www.nytimes.com/2021/05/26/business/amazon-MGM.html) (New York Times)
+- [James Bond, Meet Jeff Bezos: Amazon Makes $8.45 Billion Deal for MGM](https://www.nytimes.com/2021/05/26/business/amazon-MGM.html) (NYTimes)
 - [Amazon to buy MGM Studios for $8.45 billion](https://www.cnbc.com/2021/05/26/amazon-to-buy-mgm-studios-for-8point45-billion.html) (CNBC)
 - [Spotify finally adds offline music downloads on Apple Watch](https://www.theverge.com/2021/5/21/22447222/spotify-adding-feature-music-downloads-offline-apple-watch) (The Verge)
 - [Now that WarnerMedia and Discovery have tied the knot, the pressure’s on ViacomCBS and NBCUniversal](https://www.cnbc.com/2021/05/17/warnermedia-discovery-deal-pressures-viacomcbs-and-nbcuniversal.html) (CNBC)
@@ -601,7 +600,7 @@ title: Streaming/Entertainment
 - [Amazon Music Drops HD Tier to $9.99, Shaking Up Hi-Fi Streaming Market](https://www.billboard.com/articles/business/9573513/amazon-music-hd-unlimited-hi-fi-price-streaming) (Billboard)
 - [AT&T to spin off and combine WarnerMedia with Discovery in deal that would create streaming giant](https://www.cnn.com/2021/05/17/media/warnermedia-discovery-deal/) (CNN Business)
 - [Disney Plus Hits 103.6 Million Subscribers as Rapid Growth Slows, ESPN Plus Perks Up](https://variety.com/2021/digital/news/disney-plus-hits-103-6-million-subscribers-1234972672/) (Variety)
-- [Roku will launch original programming fueled by Quibi’s content on May 20](https://techcrunch.com/2021/05/13/roku-launches-an-original-programming-lineup-fueled-by-quibis-content/) (Tech Crunch)
+- [Roku will launch original programming fueled by Quibi’s content on May 20](https://techcrunch.com/2021/05/13/roku-launches-an-original-programming-lineup-fueled-by-quibis-content/) (TechCrunch)
 - [Playlists and podcasts? Netflix is exploring developing ‘N-Plus’](https://www.protocol.com/netflix-survey-nplus-show-playlists) (Protocol)
 - [Verizon sells media businesses including Yahoo and AOL to Apollo for $5 billion](https://www.cnbc.com/2021/05/03/verizon-sells-yahoo-and-aol-businesses-to-apollo-for-5-billion.html) (CNBC)
 
@@ -613,12 +612,12 @@ title: Streaming/Entertainment
 - [Inside Netflix’s Quest to End Scrolling: How the company is working to solve one of its biggest threats: decision fatigue.](https://www.vulture.com/article/netflix-play-something-decision-fatigue.html) (Vulture)
 - [Spotify launches podcast subscriptions, but you can’t subscribe in-app](https://www.theverge.com/2021/4/27/22404273/spotify-podcast-subscriptions-monetize-subscriber-shows?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Roku says it may lose YouTube TV app after Google made anti-competitive demands](https://www.axios.com/roku-google-youtube-tv-dispute-525316c1-4d66-44e3-a96a-40db7b10e05b.html) (Axios)
-- [Apple, Spotify and the New Battle Over Who Wins Podcasting](https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS) (Wall Street Journal)
-- [Netflix, Disney and Amazon’s Streaming Wars Heat Up Overseas](https://www.wsj.com/articles/netflix-disney-and-amazons-streaming-wars-heat-up-overseas-11619083801?mod=djemalertNEWS) (Wall Street Journal)
+- [Apple, Spotify and the New Battle Over Who Wins Podcasting](https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS) (WSJ)
+- [Netflix, Disney and Amazon’s Streaming Wars Heat Up Overseas](https://www.wsj.com/articles/netflix-disney-and-amazons-streaming-wars-heat-up-overseas-11619083801?mod=djemalertNEWS) (WSJ)
 - [15 Years of Spotify: How the Streaming Giant Has Changed and Reinvented the Music Industry](https://variety.com/2021/music/news/spotify-turns-15-how-the-streaming-giant-has-changed-and-reinvented-the-music-industry-1234948299/) (Variety)
 - [Netflix falls after pandemic boom reverses to rare weakness](https://www.bloomberg.com/news/articles/2021-04-20/netflix-plunges-after-subscriber-miss-bleak-customer-outlook?sref=Szq5ylDR) (Bloomberg)
 - [Apple introduces Podcasts Subscriptions to pay creators for content in redesigned app](https://9to5mac.com/2021/04/20/apple-introduces-podcasts-subscriptions-to-pay-creators-for-content/) (9to5Mac)
-- [Apple Music Reveals How Much It Pays When You Stream a Song](https://www.wsj.com/articles/apple-music-reveals-how-much-it-pays-when-you-stream-a-song-11618579800?mod=djemalertNEWS) (Wall Street Journal)
+- [Apple Music Reveals How Much It Pays When You Stream a Song](https://www.wsj.com/articles/apple-music-reveals-how-much-it-pays-when-you-stream-a-song-11618579800?mod=djemalertNEWS) (WSJ)
 - [Roku’s latest streaming device gives 4K, HDR, and a voice remote for $40](https://arstechnica.com/gadgets/2021/04/new-roku-express-4k-plus-voice-remote-pro-announced/) (Ars Technica)
 - [Spotify’s Car Thing debuts as a limited release for selected US users](https://www.theverge.com/2021/4/13/22380014/spotify-car-thing-release-voice-control-data-interactive-ads?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [YouTube is social media’s big winner during the pandemic](https://www.cnbc.com/2021/04/07/youtube-is-social-medias-big-winner-during-the-pandemic.html) (CNBC)
@@ -680,7 +679,7 @@ title: Streaming/Entertainment
 - [Sony’s Funimation acquires anime streaming service Crunchyroll for $1.175 billion](https://www.polygon.com/2020/12/9/21547657/sonys-funimation-acquires-crunchyroll-deal-price-watching-anime?scrolla=5eb6d68b7fedc32c19ef33b4) (Polygon)
 - [Christopher Nolan Rips HBO Max as "Worst Streaming Service," Denounces Warner Bros.' Plan](https://www.hollywoodreporter.com/news/christopher-nolan-rips-hbo-max-as-worst-streaming-service-denounces-warner-bros-plan) (The Hollywood Reporter)
 - [‘Dune’ Producer Legendary Entertainment May Sue Warner Bros. Over HBO Max Deal](https://variety.com/2020/film/news/legendary-entertainment-warner-bros-hbo-max-deal-dune-godzilla-1234847605/) (Variety)
-- [Disney faces digital dilemma despite streaming success](https://www.ft.com/content/cf22ac6b-c065-4657-bbe6-6689c625461d) (Financial Times)
+- [Disney faces digital dilemma despite streaming success](https://www.ft.com/content/cf22ac6b-c065-4657-bbe6-6689c625461d) (FT)
 - [Warner Bros. will release all of its new 2021 movies simultaneously on HBO Max](https://www.theverge.com/2020/12/3/22150605/hbo-max-warner-bros-movies-2021-simultaneous-release-matrix-godzilla-suicide-squad-space-jam?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [WarnerMedia’s CEO explains why he’s blowing up the movie business](https://www.vox.com/recode/22151073/warner-bros-hbo-max-movies-jason-kilar-warnermedia-interview?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
 - [Hollywood’s Obituary, the Sequel. Now Streaming.](https://www.nytimes.com/2020/11/28/business/media/hollywood-coronavirus-streaming.html) (NYTimes)
@@ -762,7 +761,7 @@ title: Streaming/Entertainment
 - [Amazon Prime Video introduces 'Watch Party,' a social co-viewing experience included with Prime](https://techcrunch.com/2020/06/29/amazon-prime-video-introduces-watch-party-a-social-coviewing-experience-included-with-prime/) (TechCrunch)
 - [Microsoft is shutting down Mixer and partnering with Facebook Gaming](https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Twitch’s Streaming Boom Is Jolting the Music Industry](https://www.bloomberg.com/news/articles/2020-06-18/twitch-s-streaming-boom-is-jolting-the-music-industry?sref=MzDxCtkS) (Bloomberg)
-- [Hey YouTube WalkThrough](https://www.youtube.com/watch?v=UCeYTysLyGI)
+- [Hey YouTube WalkThrough](https://www.youtube.com/watch?v=UCeYTysLyGI) (YouTube)
 - [This Is How Much More Money Artists Earn From Bandcamp Compared to Streaming Services](https://pitchfork.com/thepitch/how-much-more-money-artists-earn-from-bandcamp-compared-to-spotify-apple-music-youtube/) (Pitchfork)
 - [FC Barcelona Soccer Team Launches Digital Subscription Service](https://variety.com/2020/sports/soccer-players/fc-barcelona-launches-digital-service-1234623338/) (Variety)
 - [HBO Max won’t hit AT&T data caps, but Netflix and Disney Plus will](https://www.theverge.com/2020/6/2/21277402/hbo-max-att-data-caps-netflix-disney-plus-streaming-services-net-neutrality) (The Verge)
@@ -830,7 +829,7 @@ title: Streaming/Entertainment
 
 - [New Netflix feature reveals the top 10 most popular programs on its service](https://techcrunch.com/2020/02/24/new-netflix-feature-reveals-the-top-10-most-popular-programs-on-its-service/) (TechCrunch)
 - [Netflix added a top 10 list of its most-watched content — here’s how to find it](https://thenextweb.com/basics/2020/02/25/netflix-added-top-ten-list-its-most-watched-content-heres-how-find-it/) (The Next Web)
-- [How the BBC’s Netflix-killing plan was snuffed by myopic regulation](https://www.wired.co.uk/article/bbc-netflix-rival-failure) (WiredUK)
+- [How the BBC’s Netflix-killing plan was snuffed by myopic regulation](https://www.wired.co.uk/article/bbc-netflix-rival-failure) (Wired)
 - [Cord-Cutting Accelerated in 2019, Raising Pressure on Cable Providers](https://www.wsj.com/articles/cord-cutting-accelerates-raising-pressure-on-cable-providers-11582149209) (WSJ)
 - [Spotify finally starts showing proper, complete song lyrics synced with music](https://www.androidpolice.com/2020/02/19/spotify-finally-starts-showing-proper-complete-song-lyrics-synced-with-music/) (Android Police)
 - [SiriusXM Acquires Minority Stake in SoundCloud for $75 Million](https://www.hollywoodreporter.com/news/siriusxm-buys-75-million-minority-stake-soundcloud-1278654) (The Hollywood Reporter)
@@ -850,7 +849,7 @@ title: Streaming/Entertainment
 - [CollegeHumor Helped Shape Online Comedy. What Went Wrong?](https://www.wired.com/story/collegehumor/) (Wired)
 - [Apple Hires Key Netflix Engineer in Bid to Boost Subscription Services](https://www.wsj.com/articles/apple-hires-key-netflix-engineer-in-bid-to-boost-subscription-services-11580324237) (WSJ)
 - [Behind the Scenes at Rotten Tomatoes](https://www.wired.com/story/behind-the-scenes-rotten-tomatoes/) (Wired)
-- [Amazon Music subscriber numbers close in on Apple](https://www.ft.com/content/8acedb52-3be2-11ea-a01a-bae547046735) (Financial Times)
+- [Amazon Music subscriber numbers close in on Apple](https://www.ft.com/content/8acedb52-3be2-11ea-a01a-bae547046735) (FT)
 - [Netflix says Disney and Baby Yoda may have cut into the streaming service’s growth](https://www.vox.com/recode/2020/1/21/21075873/netflix-disney-mandalorian-earnings) (Recode)
 - [Spotify in Early Talks to Buy Sports and Pop-Culture Outlet the Ringer](https://www.wsj.com/articles/spotify-in-early-talks-to-buy-sports-and-pop-culture-outlet-the-ringer-11579302564?emailToken=e16426a45e3f1b1fb83bea7f6ada66c4lr7qRObHFeMnfVrA1U9gqGJAMmvGGX0RrJ2x+eogfmvQaP3N+bc7tCEVZBcKy/myQPl7OHKOkzR3Jqezfr4Ct8uj8he8PTnVyhlObczDorSJUvPl+phqy6YQeI4uuodSD6PUp9MNksHkYl3mMt7OpA%3D%3D&reflink=article_copyURL_share) (WSJ)
 - [NBC’s Peacock streaming service will launch on July 15th with three different price tiers](https://www.theverge.com/2020/1/16/21068607/nbc-peacock-streaming-service-price-launch-date-ads-universal-comcast-office-harry-potter) (The Verge)
@@ -886,7 +885,7 @@ title: Streaming/Entertainment
 - [Far Side creator Gary Larson launches website with promise of new work](https://www.theguardian.com/books/2019/dec/17/far-side-creator-gary-larson-launches-website-with-promise-of-new-work) (The Guardian)
 - [A Letter From Gary Larson](https://www.thefarside.com/about/48/a-letter-from-gary-larson) (TheFarSide.com)
 - [Why Do We Still Pay Only $10 a Month for Music?](https://www.rollingstone.com/music/music-news/music-streaming-10-month-fee-924809/) (Rolling Stone)
-- [Roku Built the Dominant Streaming Box. Now It’s Under Siege](https://www.bloomberg.com/news/articles/2019-12-11/streaming-box-king-roku-is-under-seige-from-amazon-and-apple) (Bloomberg BusinessWeek)
+- [Roku Built the Dominant Streaming Box. Now It’s Under Siege](https://www.bloomberg.com/news/articles/2019-12-11/streaming-box-king-roku-is-under-seige-from-amazon-and-apple) (Bloomberg Businessweek)
 - [VSCO acquires video editing startup Rylo](https://techcrunch.com/2019/12/10/vsco-acquires-video-editing-startup-rylo/) (TechCrunch)
 - [Spotify Year In Review Thread](https://twitter.com/baekdal/status/1202626186171555841?s=12) (@baekdal)
 - [Inside VSCO, a Gen Z-approved photo-sharing app, with CEO Joel Flory](https://techcrunch.com/2019/12/05/inside-vsco-a-gen-z-approved-photo-sharing-app-with-ceo-joel-flory/) (TechCrunch)
@@ -896,7 +895,7 @@ title: Streaming/Entertainment
 
 - [Spotify’s Daniel Ek Has a Plan to Harness Hollywood for Podcasts and Create "the World’s No. 1 Audio Platform"](https://www.hollywoodreporter.com/features/spotify-aims-become-worlds-no-1-audio-platform-1256162) (The Hollywood Reporter)
 - [Inside the Most Watched YouTube Channel in the World](https://www.bloomberg.com/news/features/2019-11-14/how-t-series-beat-pewdiepie-to-be-world-s-biggest-youtube-channel) (Bloomberg Businessweek)
-- [ByteDance to take on rivals with music streaming launch](https://www.ft.com/content/ffaed23a-07dd-11ea-a984-fbbacad9e7dd) (Financial Times)
+- [ByteDance to take on rivals with music streaming launch](https://www.ft.com/content/ffaed23a-07dd-11ea-a984-fbbacad9e7dd) (FT)
 - [Apple Plans Mega Bundle of Music, News, TV as Early as 2020](https://www.bloomberg.com/news/articles/2019-11-14/apple-mulls-bundling-digital-subscriptions-as-soon-as-2020) (Bloomberg)
 - [Netflix and Nickelodeon partner on original programming, following Disney+ launch](https://techcrunch.com/2019/11/13/netflix-and-nickelodeon-partner-on-original-programming-following-disney-launch/) (TechCrunch)
 - [Here’s what time every episode of The Mandalorian and other Disney+ shows go live](https://www.theverge.com/2019/11/12/20959191/disney-plus-live-time-date-launch-mandalorian-marvel-high-school-musical-shows-movies) (The Verge)
@@ -920,7 +919,7 @@ title: Streaming/Entertainment
 - [AMC Theater Chain Gets Into Streaming With On-Demand Movies](https://www.nytimes.com/2019/10/14/business/media/amc-theaters-streaming.html) (NYTimes)
 - [Apple Launches In-House Studio With 'Band of Brothers'/'The Pacific' Follow-Up](https://www.hollywoodreporter.com/live-feed/apple-launches-house-studio-band-brothers-pacific-follow-up-1246746) (The Hollywood Reporter)
 - [Hulu finally launches support for downloads, initially to ad-free viewers](https://techcrunch.com/2019/10/07/hulu-finally-launches-support-for-downloads-initially-to-ad-free-viewers/) (TechCrunch)
-- [Music labels wary as Apple tries to bundle subscriptions](https://www.ft.com/content/85967cd2-e86b-11e9-a240-3b065ef5fc55) (Financial Times)
+- [Music labels wary as Apple tries to bundle subscriptions](https://www.ft.com/content/85967cd2-e86b-11e9-a240-3b065ef5fc55) (FT)
 - [Inside Disney’s New York Stream Factory](https://variety.com/2019/digital/news/disney-streaming-services-new-york-disney-plus-1203354576/) (Variety)
 
 ### September
@@ -932,10 +931,10 @@ title: Streaming/Entertainment
 - [Netflix Lands 'Seinfeld' Rights in $500M-Plus Deal After Losing 'Friends' and 'The Office'](https://www.hollywoodreporter.com/live-feed/netflix-lands-seinfeld-rights-losing-friends-office-1239934) (The Hollywood Reporter)
 - [‘The Big Bang Theory’ to Show on New Streaming Service HBO Max](https://www.wsj.com/articles/the-big-bang-theory-to-show-on-new-streaming-service-hbo-max-11568721604?mod=e2tw) (WSJ)
 - [NBCUniversal’s Streaming Service Is Called Peacock and It’s Launching Next April](https://www.vulture.com/2019/09/nbc-streaming-service-peacock.html) (Vulture)
-- [Iger Departs Board of Apple, Disney’s New Streaming Competitor](https://www.nytimes.com/2019/09/13/business/iger-apple-board.html) (NY Times)
+- [Iger Departs Board of Apple, Disney’s New Streaming Competitor](https://www.nytimes.com/2019/09/13/business/iger-apple-board.html) (NYTimes)
 - [MoviePass will shut down for good on Sept. 14](https://www.cnbc.com/2019/09/13/moviepass-will-shut-down-for-good-on-sept-14.html) (CNBC)
 - [J.J. Abrams Officially Closes Sizable WarnerMedia Film, TV Partnership](https://www.hollywoodreporter.com/live-feed/jj-abrams-officially-closes-sizable-warnermedia-film-tv-partnership-1232979) (The Hollywood Reporter)
-- [The end of the backend? Disney wants to limit profit participation on its new TV shows](https://www.latimes.com/entertainment-arts/business/story/2019-09-12/disney-tv-shows-backend-profit-participation-changes) (Los Angeles Times)
+- [The end of the backend? Disney wants to limit profit participation on its new TV shows](https://www.latimes.com/entertainment-arts/business/story/2019-09-12/disney-tv-shows-backend-profit-participation-changes) (LA Times)
 - [Apple TV+ costs $4.99 per month and launches on November 1](https://venturebeat.com/2019/09/10/apple-tv-pricing-availability/) (Venture Beat)
 - [Apple Music launches a public beta on the web](https://techcrunch.com/2019/09/05/apple-music-launches-a-public-beta-on-the-web/) (TechCrunch)
 - [Streaming makes up 80 percent of the music industry’s revenue](https://www.theverge.com/2019/9/6/20852568/streaming-revenue-growth-spotify-apple-music-industry-ariana-grande-drake-taylor-swift) (The Verge)
@@ -950,7 +949,7 @@ title: Streaming/Entertainment
 - [Martin Scorsese’s The Irishman is a perfect example of Netflix’s big screening dilemma](https://www.theverge.com/2019/8/22/20826968/irishman-netflix-martin-scorsese-al-pacino-robert-deniro-streaming-wars-theater-release) (The Verge)
 - [Shazam data is powering Apple Music's newest chart, the Shazam Discovery Top 25](https://techcrunch.com/2019/08/20/shazam-data-is-powering-apple-musics-newest-chart-the-shazam-discovery-top-50/) (TechCrunch)
 - [Apple Targets Apple TV+ Launch in November, Weighs $9.99 Price After Free Trial](https://www.bloomberg.com/news/articles/2019-08-19/apple-is-targeting-launch-of-apple-video-service-by-november) (Bloomberg)
-- [Apple splashes $6bn on new shows in streaming wars](https://www.ft.com/content/4f7f4326-c2bf-11e9-a8e9-296ca66511c9) (Financial Times)
+- [Apple splashes $6bn on new shows in streaming wars](https://www.ft.com/content/4f7f4326-c2bf-11e9-a8e9-296ca66511c9) (FT)
 - [Spotify's Premium Family plans get an explicit content filter](https://www.engadget.com/2019/08/19/spotify-premium-family-swearing-filter/) (Engadget)
 - [The Roku Channel is adding a kids and family section with free TV shows and movies](https://www.theverge.com/2019/8/19/20811189/roku-channel-kids-family-section-free-streaming) (The Verge)
 - [Disney+ will stream on these devices at launch](https://www.theverge.com/2019/8/19/20811513/disney-plus-launch-devices-iphone-ipad-apple-tv-roku-android-subscription) (The Verge)
@@ -1011,9 +1010,9 @@ title: Streaming/Entertainment
 
 ### February
 
-- [Rotten Tomatoes tweaks audience ratings system to thwart online trolls](https://www.latimes.com/business/hollywood/la-fi-ct-rotten-tomatoes-audience-ratings-20190226-story.html) (The Los Angeles Times)
+- [Rotten Tomatoes tweaks audience ratings system to thwart online trolls](https://www.latimes.com/business/hollywood/la-fi-ct-rotten-tomatoes-audience-ratings-20190226-story.html) (LA Times)
 - [Apple Music Integration Possibly Coming to Google Home Devices](https://www.macrumors.com/2019/02/25/google-home-apple-music-integration-possible/) (MacRumors)
-- [Close Enough](https://slate.com/technology/2019/02/reverse-location-search-warrants-google-police.html) (Slate/Future Tense)
+- [Close Enough](https://slate.com/technology/2019/02/reverse-location-search-warrants-google-police.html) (Slate)
 - [Can Subscriptions Save All Media Companies, or Just the New York Times?](http://nymag.com/intelligencer/2019/02/new-york-times-subscription-revenue-is-mixed-news-for-media.html) (NYMag)
 - [“Do We Want to Be in Business?” The Strange, Never-Ending Saga of MoviePass](https://www.theringer.com/movies/2019/2/6/18212482/moviepass-mitch-lowe-khalid-itum-interview-2019) (The Ringer)
 - [Spotify has bought two podcast startups and it wants to buy more](https://www.recode.net/2019/2/6/18213456/spotify-podcast-gimlet-anchor-q4-results) (ReCode)
@@ -1045,7 +1044,7 @@ title: Streaming/Entertainment
 
 ### December
 
-- [Bird Box Is the First Great Monster Movie About This Poisonous Invention](https://paleofuture.gizmodo.com/bird-box-is-the-first-great-monster-movie-about-this-po-1831318490) (PaleoFuture/Gizmodo)
+- [Bird Box Is the First Great Monster Movie About This Poisonous Invention](https://paleofuture.gizmodo.com/bird-box-is-the-first-great-monster-movie-about-this-po-1831318490) (PaleoFuture)
 - [Movie Theaters Bounce Back: What’s Behind the 2018 Rebound](https://variety.com/2018/film/news/box-office-2018-review-theaters-bounce-back-1203095729/) (Variety)
 - [Watch the trailer for Black Mirror: Bandersnatch, releasing Friday 28th on Netflix](https://www.theverge.com/2018/12/27/18157399/black-mirror-netflix-special-bandersnatch-trailer-release-date) (The Verge)
 - [Apple Music removes ability for artists to post to Connect, posts removed from Artist Pages and For You](https://9to5mac.com/2018/12/13/apple-music-connect-ping/) (9to5Mac)
@@ -1116,7 +1115,7 @@ title: Streaming/Entertainment
 - [Verizon Is Seeking Google or Apple as 5G TV Provider](https://www.bloomberg.com/news/articles/2018-07-23/verizon-is-said-to-seek-google-or-apple-as-5g-tv-provider) (Bloomberg)
 - [What Netflix's big miss means for the new tech economy](https://www.axios.com/netflix-big-miss-subscribers-stock-share-growth-40443540-1238-4a0f-a23c-4719030a8948.html) (Axios)
 - [THE ONLY GOOD ONLINE FANDOM LEFT IS DUNE](https://theoutline.com/post/5333/dune-revival-2018-david-lynch?zd=2&zi=odt3zeom) (The Outline)
-- [Netflix Isn’t Being Reckless, It’s Just Playing a Game No One Else Dares (Netflix Misunderstandings, Pt. 3)](https://redef.com/original/netflix-isnt-being-reckless-its-just-playing-a-game-no-one-else-dares-netflix-misunderstandings-pt-3) (Matthew Ball/Redef)
+- [Netflix Isn’t Being Reckless, It’s Just Playing a Game No One Else Dares (Netflix Misunderstandings, Pt. 3)](https://redef.com/original/netflix-isnt-being-reckless-its-just-playing-a-game-no-one-else-dares-netflix-misunderstandings-pt-3) (Matthew Ball)
 - [European Networks Are Joining Forces to Take On Netflix and Amazon](https://www.hollywoodreporter.com/news/european-networks-are-joining-forces-take-netflix-amazon-1125563) (The Hollywood Reporter)
 - [Netflix Binge-Watching Just Got Even Easier: Now It Automatically Downloads New Episodes To Watch Offline](https://www.buzzfeed.com/pranavdixit/netflix-smart-downloads-feature?utm_term=.ho2qvYBMP#.dwRXeVdjZ) (BuzzFeed)
 - [Apple slices into Spotify’s lead in the US music market](https://www.cnbc.com/2018/07/09/apple-slices-into-spotifys-lead-in-the-us-music-market.html) (CNBC)
@@ -1135,7 +1134,7 @@ title: Streaming/Entertainment
 
 - [Impatient, distracted consumers upend the media landscape](https://www.axios.com/how-on-demand-media-took-over-the-world-1526912650-b13562ca-d88a-4158-a7db-bf60b356dce8.html) (Axios)
 - [Roku Earnings Beat Expectations as Ads, Services Surpass Hardware Revenue](http://variety.com/2018/digital/news/roku-q1-2018-earnings-1202804874/) (Variety)
-- [FX and New York Times partner for new series 'The Weekly'](http://money.cnn.com/2018/05/09/media/fx-new-york-times-the-weekly/) (CNN/Money)
+- [FX and New York Times partner for new series 'The Weekly'](http://money.cnn.com/2018/05/09/media/fx-new-york-times-the-weekly/) (CNN)
 - [Pandora Learns the Cost of Ads, and of Subscriptions](https://www.wired.com/story/pandora-learns-the-cost-of-ads-and-of-subscriptions) (Wired)
 
 ### April

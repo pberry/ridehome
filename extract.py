@@ -18,6 +18,7 @@ from db_schema import create_schema
 from db_writer import insert_links
 from status_generator import get_status_data, format_status_section, update_homepage
 from claude_categorizer import categorize_with_retry
+from source_normalizer import normalize_source
 import sqlite3
 import subprocess
 
@@ -111,6 +112,8 @@ def extract_links_from_ul(ul_element, episode_date, episode_title):
 		match = re.search(pattern, text_after_link)
 		if match:
 			source = match.group(1).strip()
+			# Normalize source to canonical form
+			source = normalize_source(source)
 
 		links.append({
 			'date': episode_date,

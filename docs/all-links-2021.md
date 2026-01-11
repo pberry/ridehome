@@ -76,7 +76,7 @@
   * [Apple Builds New Team in Southern California to Bring More Wireless Chips In-House](https://www.bloomberg.com/news/articles/2021-12-16/apple-builds-team-in-new-office-to-bring-wireless-chips-in-house?sref=Szq5ylDR) (Bloomberg)
   * [Biden administration concerned about U.S. investments in Chinese tech companies with military or surveillance ties](https://www.washingtonpost.com/national-security/us-investments-china-biden/2021/12/15/835876a0-5772-11ec-a808-3197a22b19fa_story.html) (Washington Post)
   * [FTC Slows Meta Platforms’ Metaverse Strategy By Extending Antitrust Probe of VR Deal](https://www.theinformation.com/articles/ftc-slows-meta-platforms-metaverse-strategy-by-extending-antitrust-probe-of-vr-deal?rc=64g9cw) (The Information)
-  * [Players invest $54M in Molyneux’s NFT game Legacy in hopes of earning even more](https://arstechnica.com/gaming/2021/12/peter-molyneux-raises-54m-on-promise-of-play-to-earn-nft-game-legacy/) (ArsTechnica)
+  * [Players invest $54M in Molyneux’s NFT game Legacy in hopes of earning even more](https://arstechnica.com/gaming/2021/12/peter-molyneux-raises-54m-on-promise-of-play-to-earn-nft-game-legacy/) (Ars Technica)
   * [S.T.A.L.K.E.R. 2 will no longer have NFTs after fan outcry](https://www.theverge.com/2021/12/16/22840488/stalker-2-nft-metahuman-gsc-web3-canceled?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
 
 
@@ -98,7 +98,7 @@
   * [Oppo’s Find N is an impressive first folding phone](https://www.theverge.com/2021/12/15/22837149/oppo-find-n-hands-on-announcement-specs-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter adds auto captions feature to make videos more accessible](https://techcrunch.com/2021/12/14/twitter-adds-auto-captions-feature-to-make-videos-more-accessible/) (TechCrunch)
   * [Apple and Google's mobile duopoly likely to face UK antitrust action](https://techcrunch.com/2021/12/14/cma-mobile-ecosystem-market-study/) (TechCrunch)
-  * [US to blacklist eight more Chinese companies including dronemaker DJI](https://www.ft.com/content/fbcf9467-5b7e-4a81-8b40-d829fefa09ae) (Financial Times)
+  * [US to blacklist eight more Chinese companies including dronemaker DJI](https://www.ft.com/content/fbcf9467-5b7e-4a81-8b40-d829fefa09ae) (FT)
   * [How Shein beat Amazon at its own game — and reinvented fast fashion](https://restofworld.org/2021/how-shein-beat-amazon-and-reinvented-fast-fashion/) (Rest of World)
 
 
@@ -117,8 +117,8 @@
 
 **Monday, December 13 2021 - Mon. 12/13 – Why the Log4j Bug Is Such A Big Deal**
 
-  * [Zero-day in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/) (ArsTechnica)
-  * [The Internet’s biggest players are all affected by critical Log4Shell 0-day](https://arstechnica.com/information-technology/2021/12/the-critical-log4shell-zero-day-affects-a-whos-who-of-big-cloud-services/) (ArsTechnica)
+  * [Zero-day in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/) (Ars Technica)
+  * [The Internet’s biggest players are all affected by critical Log4Shell 0-day](https://arstechnica.com/information-technology/2021/12/the-critical-log4shell-zero-day-affects-a-whos-who-of-big-cloud-services/) (Ars Technica)
   * [PROFESSIONAL MAINTAINERS: A WAKE-UP CALL](https://blog.filippo.io/professional-maintainers/) (Filippo.io)
   * [Apple Set to Release Nudity Detection in Texting, But Other Features Remain on Hold](https://www.bloomberg.com/news/newsletters/2021-12-12/what-s-in-apple-s-ios-15-2-ipados-15-2-nude-image-detection-legacy-contacts-kx3m3nmb?sref=Szq5ylDR) (Bloomberg)
   * [Her Instagram Handle Was ‘Metaverse.’ Last Month, It Vanished.](https://www.nytimes.com/2021/12/13/technology/instagram-handle-metaverse.html) (NYTimes)
@@ -165,7 +165,7 @@
   * [Ubisoft Becomes First Major Gaming Company to Launch In-Game NFTs](https://decrypt.co/87752/ubisoft-first-major-gaming-company-launch-in-game-nfts) (Decrypt)
   * [Roku, Google settle messy battle over YouTube distribution](https://www.axios.com/roku-youtube-google-deal-57c4193f-a350-4af8-bbe0-f465c9ced762.html) (Axios)
   * [Facebook's new website lets fans buy 'Stars' without paying the app stores' commissions](https://techcrunch.com/2021/12/07/facebooks-new-website-lets-fans-buy-stars-without-paying-the-app-stores-commissions/) (TechCrunch)
-  * [African Startup Inflows Seen Hitting Record $5 Billion This Yea](https://www.bloomberg.com/news/articles/2021-12-08/african-startup-inflows-seen-hitting-record-5-billion-this-year?sref=Szq5ylDR)
+  * [African Startup Inflows Seen Hitting Record $5 Billion This Yea](https://www.bloomberg.com/news/articles/2021-12-08/african-startup-inflows-seen-hitting-record-5-billion-this-year?sref=Szq5ylDR) (Bloomberg)
   * [Twitter’s New CEO Agrawal Got Early Nod From Dorsey a Year Ago](https://www.bloomberg.com/news/articles/2021-12-07/dorsey-s-successor-at-twitter-agrawal-got-nod-for-next-ceo-a-year-ago?sref=Szq5ylDR) (Bloomberg)
 
 
@@ -184,7 +184,7 @@
 
 **Monday, December 06 2021 - Mon. 12/06 – DoorDash Tries Something Radical: Employees**
 
-  * [DoorDash breaks gig worker model to hire couriers as employees in New York trial](https://www.ft.com/content/663359a2-f67a-4b86-938e-734145e452b0) (Financial Times)
+  * [DoorDash breaks gig worker model to hire couriers as employees in New York trial](https://www.ft.com/content/663359a2-f67a-4b86-938e-734145e452b0) (FT)
   * [Apple Attempts to Stop Developers Promoting Alternative Payment Options for In-App Purchases in Russia](https://www.macrumors.com/2021/12/06/apple-to-stop-promoting-payment-options-in-russia/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Crypto exchange BitMart confirms hack resulting in loss of $150 million in crypto](https://www.theblockcrypto.com/linked/126367/crypto-exchange-bitmart-reportedly-hacked-for-100-million) (The Block)
   * [The Verizon app might be collecting your browsing history and more](https://www.theverge.com/2021/12/5/22818783/verizon-app-data-collection-browsing-history?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -248,7 +248,7 @@
 
   * [Twitter CTO Parag Agrawal will replace Jack Dorsey as CEO](https://www.cnbc.com/2021/11/29/twitter-ceo-jack-dorsey-is-expected-to-step-down-sources-say.html) (CNBC)
   * [Twitter CTO Parag Agrawal replaces Jack Dorsey as CEO](https://www.theverge.com/2021/11/29/22807651/jack-dorsey-steps-down-twitter-ceo-parag-agrawal-replacement?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
-  * [UK regulator expected to block Meta’s Giphy deal](https://www.ft.com/content/662c8e3f-4909-4bec-9131-c0237bb4897d) (Financial Times)
+  * [UK regulator expected to block Meta’s Giphy deal](https://www.ft.com/content/662c8e3f-4909-4bec-9131-c0237bb4897d) (FT)
   * [Social media companies could be forced to give out names and contact details, under new anti-troll laws](https://www.abc.net.au/news/2021-11-28/social-media-laws-online-trolls/100657004) (ABC News)
   * [EU companies issue formal complaint against Microsoft OneDrive Windows integration](https://www.zdnet.com/article/eu-companies-sue-microsoft-onedrive-windows-integration/) (ZDNet)
   * [Report: Apple still working on multi-device charger, a future where all devices ‘can charge each other’](https://9to5mac.com/2021/11/28/apple-multi-device-wireless-charger/) (9to5Mac)
@@ -261,7 +261,7 @@
 **Wednesday, November 24 2021 - (TWTR SPC) That Feeling When You Almost Buy The Constitution**
 
   * [**FindYourFidelity.com**](https://findyourfidelity.com/)
-  * [**ARM Viewpoints Podcast**](https://podcasts.apple.com/gb/podcast/the-arm-podcast/id1528983070)
+  * [**ARM Viewpoints Podcast**](https://podcasts.apple.com/gb/podcast/the-arm-podcast/id1528983070) (Apple Podcasts)
   * [**VPLS.com/goit**](https://vpls.com/goit)
 
 
@@ -283,7 +283,7 @@
   * [Meta delays encrypted messages on Facebook and Instagram to 2023](https://www.theguardian.com/technology/2021/nov/21/meta-delays-encrypted-messages-on-facebook-and-instagram-to-2023) (The Guardian)
   * [Wear OS Share Surges on Samsung’s Highest Quarterly Smartwatch Shipments in Q3 2021](https://www.counterpointresearch.com/wear-os-share-surges-samsungs-highest-quarterly-smartwatch-shipments-q3-2021/) (CounterpointResearch)
   * [India’s Paytm Tumbles Another 13% After First-Day IPO Flop](https://www.bloomberg.com/news/articles/2021-11-22/paytm-under-scrutiny-after-first-day-flop-followed-record-ipo?sref=Szq5ylDR) (Boomberg)
-  * [China’s exiled crypto machines fuel global mining boom](https://www.ft.com/content/0dbe4f9f-a433-4288-858e-c4b852f4c340) (Financial Times)
+  * [China’s exiled crypto machines fuel global mining boom](https://www.ft.com/content/0dbe4f9f-a433-4288-858e-c4b852f4c340) (FT)
   * [Texas Plans to Become the Bitcoin Capital, Vulnerable Power Grid and All](https://www.bloomberg.com/news/articles/2021-11-19/texas-plans-to-become-the-u-s-bitcoin-capital-can-its-grid-ercot-handle-it?sref=Szq5ylDR) (Bloomberg)
   * [Desperate Parents Turn to Shopping Bots to Hunt for Hottest Christmas Gifts](https://www.wsj.com/articles/desperate-parents-turn-to-shopping-bots-to-hunt-for-hottest-christmas-gifts-11637417633?mod=djemalertNEWS) (WSJ)
   * [Sweden's Ericsson snaps up cloud firm Vonage in $6.2 bln deal](https://www.reuters.com/business/media-telecom/ericsson-buy-cloud-firm-vonage-62-bln-2021-11-22/) (Reuters)
@@ -315,7 +315,7 @@
 
   * [Beginning next year, Apple will send you parts and tools to fix your iPhone and Mac at home](https://techcrunch.com/2021/11/17/beginning-next-year-apple-will-mail-you-parts-and-tools-to-fix-your-iphone-and-mac-at-home/?tpcc=tcplustwitter) (TechCrunch)
   * [Activision CEO Bobby Kotick Knew for Years About Sexual-Misconduct Allegations at Videogame Giant](https://www.wsj.com/articles/activision-videogames-bobby-kotick-sexual-misconduct-allegations-11637075680?mod=djemalertNEWS) (WSJ)
-  * [Goodbye, Staples Center. Hello, Crypto.com Arena](https://www.latimes.com/business/story/2021-11-16/crypto-staples) (LATimes)
+  * [Goodbye, Staples Center. Hello, Crypto.com Arena](https://www.latimes.com/business/story/2021-11-16/crypto-staples) (LA Times)
   * [Meta’s sci-fi haptic glove prototype lets you feel VR objects using air pockets](https://www.theverge.com/2021/11/16/22782860/meta-facebook-reality-labs-soft-robotics-haptic-glove-prototype?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft states that x64 emulation is only available on Windows 11 on ARM PCs](https://www.windowscentral.com/microsoft-states-x64-emulation-only-available-windows-11-arm-pcs) (Windows Central)
   * [Netflix’s Expanded Viewing Data Move Is Mainly a Flex](https://variety.com/2021/digital/news/netflix-expanded-top-10-viewing-data-flex-1235113030/) (Variety)
@@ -327,7 +327,7 @@
 
   * [TWITTER MAKES BIG CHANGES FOR DEVS AS IT EYES DECENTRALIZED FUTURE](https://www.theverge.com/2021/11/15/22779149/twitter-api-version-2-official-decentralized?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Nvidia’s $40 billion takeover of chip designer Arm faces a UK national security probe](https://www.cnbc.com/2021/11/16/nvidias-arm-takeover-faces-uk-national-security-inquiry.html) (CNBC)
-  * [Newsletter start-up Substack hits 1m subscribers](https://www.ft.com/content/ee71edee-eae7-46e2-99e1-61af23ce56e2) (Financial Times)
+  * [Newsletter start-up Substack hits 1m subscribers](https://www.ft.com/content/ee71edee-eae7-46e2-99e1-61af23ce56e2) (FT)
   * [Apple Defends Its Ads for Third-Party Apps, Says It Regularly Communicates With Developers and Has Been Running Them for Five Years](https://www.macrumors.com/2021/11/15/apple-defends-its-ads-for-third-party-apps/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Right-clickers vs. the monkey JPG owners](https://www.garbageday.email/p/right-clickers-vs-the-monkey-jpg) (Garbage Day)
 
@@ -354,7 +354,7 @@
 
 **Friday, November 12 2021 - Fri. 11/12 – MoviePass Is Coming Back**
 
-  * [Google Caught Hackers Using a Mac Zero-Day Against Hong Kong Users](https://www.vice.com/en/article/93bw8y/google-caught-hackers-using-a-mac-zero-day-against-hong-kong-users) (Vice/Motherboard)
+  * [Google Caught Hackers Using a Mac Zero-Day Against Hong Kong Users](https://www.vice.com/en/article/93bw8y/google-caught-hackers-using-a-mac-zero-day-against-hong-kong-users) (Vice)
   * [Amazon will let you easily share clips from its Prime Video content](https://www.theverge.com/2021/11/11/22776572/amazon-prime-video-share-clip-social-media-iphone-ipad?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Spotify expands into audiobooks with acquisition of Findaway](https://techcrunch.com/2021/11/11/spotify-expands-into-audiobooks-with-acquisition-of-findaway/) (TechCrunch)
   * [MoviePass cofounder Stacy Spikes has bought the company back and is planning a relaunch](https://www.businessinsider.com/moviepass-cofounder-stacy-spikes-buys-back-company-and-plans-relaunch-2021-11) (Insider)
@@ -450,7 +450,7 @@
 
 **Monday, November 01 2021 - Mon. 11/01 – How Much Money Is Apple’s ATT Costing Snap, Facebook, Et Al?**
 
-  * [Snap, Facebook, Twitter and YouTube lose nearly $10bn after iPhone privacy changes](https://www.ft.com/content/4c19e387-ee1a-41d8-8dd2-bc6c302ee58e) (Financial Times)
+  * [Snap, Facebook, Twitter and YouTube lose nearly $10bn after iPhone privacy changes](https://www.ft.com/content/4c19e387-ee1a-41d8-8dd2-bc6c302ee58e) (FT)
   * [The Chip Shortage Slams Into Apple at the Worst Possible Time](https://www.bloomberg.com/news/newsletters/2021-10-31/why-are-apple-aapl-iphone-13-watch-series-7-ipads-taking-so-long-to-arrive-kvfjgjkx?sref=Szq5ylDR) (Bloomberg)
   * [Global Chip Shortage ‘Is Far From Over’ as Wait Times Get Longer](https://www.wsj.com/articles/global-chip-shortage-is-far-from-over-as-wait-times-get-longer-11635413402?mod=djemalertNEWS) (WSJ)
   * [Apple Wants iPhones to Detect Car Crashes, Auto-Dial 911](https://www.wsj.com/articles/apple-wants-iphones-to-detect-car-crashes-auto-dial-911-11635768001?mod=djemalertNEWS) (WSJ)
@@ -485,11 +485,11 @@
 
   * [Microsoft beats revenue expectations, reporting 22% growth](https://www.cnbc.com/2021/10/26/microsoft-msft-earnings-q1-2022.html) (CNBC)
   * [Robinhood shares tank as revenue falls way short of expectations on lighter crypto trading](https://www.cnbc.com/2021/10/26/robinhood-third-quarter-earnings-2021.html) (CNBC)
-  * [FCC kicks China Telecom Americas out of US, cites Chinese government control](https://arstechnica.com/tech-policy/2021/10/fcc-kicks-china-telecom-americas-out-of-us-cites-chinese-government-control/) (ArsTechnica)
+  * [FCC kicks China Telecom Americas out of US, cites Chinese government control](https://arstechnica.com/tech-policy/2021/10/fcc-kicks-china-telecom-americas-out-of-us-cites-chinese-government-control/) (Ars Technica)
   * [Federal Trade Commission Scrutinizing Facebook Disclosures](https://www.wsj.com/articles/facebook-ftc-privacy-kids-11635289993?mod=djemalertNEWS) (WSJ)
   * [Amazon launches AWS instances powered by Habana’s AI accelerator chip](https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/) (VentureBeat)
   * [Biden appoints Jessica Rosenworcel to lead the FCC](https://www.theverge.com/2021/10/26/22746223/net-neutrality-fcc-jessica-rosenworcel-chair-gigi-sohn-ajit-pai-broadband?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [The ‘Dune’ Screenplay Was Written in MS-DOS](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos) (Motherboard/Vice)
+  * [The ‘Dune’ Screenplay Was Written in MS-DOS](https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos) (Vice)
 
 
 
@@ -580,7 +580,7 @@
   * [Apple unveils next-generation M1 Pro and M1 Max chips for new Macs](https://9to5mac.com/2021/10/18/apple-unveils-next-generation-m1-pro-and-m1-max-chips-for-new-macs/) (9to5Mac)
   * [Apple announces 14-inch and 16-inch MacBook Pro: new design, display notch, 120Hz, M1 Pro chip, HDMI, MagSafe, more](https://9to5mac.com/2021/10/18/apple-announces-new-m1-pro-macbook-pro/) (9to5Mac)
   * [Bitcoin Comes to the Big Board](https://www.nytimes.com/2021/10/18/business/dealbook/bitcoin-etf-proshares.html) (NYTimes)
-  * [Apple’s privacy changes create windfall for its own advertising business](https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d) (Financial Times)
+  * [Apple’s privacy changes create windfall for its own advertising business](https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d) (FT)
   * [Valve bans blockchain games and NFTs on Steam, Epic will try to make it work](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Netflix Estimates ‘Squid Game’ Will Be Worth Almost $900 Million](https://www.bloomberg.com/news/articles/2021-10-17/squid-game-season-2-series-worth-900-million-to-netflix-so-far?sref=Szq5ylDR) (Bloomberg)
 
@@ -637,7 +637,7 @@
   * [1Password's new feature lets you safely share passwords using just a link](https://www.engadget.com/1-passwords-new-feature-will-let-you-securely-share-logins-with-anyone-130044719.html) (Engadget)
   * [Microsoft said it mitigated a 2.4 Tbps DDoS attack, the largest ever](https://therecord.media/microsoft-said-it-mitigated-a-2-4-tbps-ddos-attack-the-largest-ever/) (The Record)
   * [Microsoft and Nvidia team up to train one of the world’s largest language models](https://venturebeat.com/2021/10/11/microsoft-and-nvidia-team-up-to-train-one-of-the-worlds-largest-language-models/) (VentureBeat)
-  * [US has already lost AI fight to China, says ex-Pentagon software chief](https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0) (Financial Times)
+  * [US has already lost AI fight to China, says ex-Pentagon software chief](https://www.ft.com/content/f939db9a-40af-4bd1-b67d-10492535f8e0) (FT)
 
 
 
@@ -689,7 +689,7 @@
 **Tuesday, October 05 2021 - Tue. 10/05 – The Great Facebook Outage**
 
   * [Gone in Minutes, Out for Hours: Outage Shakes Facebook](https://www.nytimes.com/2021/10/04/technology/facebook-down.html) (NYTimes)
-  * [Google’s AI unit DeepMind makes first-ever profit](https://www.ft.com/content/16bb7b92-b88e-4393-85c6-de1f94cdfecc) (Financial Times)
+  * [Google’s AI unit DeepMind makes first-ever profit](https://www.ft.com/content/16bb7b92-b88e-4393-85c6-de1f94cdfecc) (FT)
   * [ANDROID 12 REVIEW: IT’S MOSTLY ABOUT THE LOOKS](https://www.theverge.com/22708720/android-12-review-features-pixel-update-software?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [WINDOWS 11 REVIEW: A FAMILIAR HOME THAT’S STILL BEING RENOVATED](https://www.theverge.com/22708762/microsoft-windows-11-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft's Surface Laptop Studio Does It All](https://gizmodo.com/microsofts-surface-laptop-studio-does-it-all-1847799107?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
@@ -720,14 +720,14 @@
 **Thursday, September 30 2021 - Thu. 09/30 – Facebook: Who You Gonna Trust? Us? Or Your Lying Eyes?**
 
   * [**TinyCaptial.com**](https://www.tinycapital.com/)
-  * [**Modern Finance Podcast**](https://podcasts.apple.com/us/podcast/modern-finance/id1338620184)
+  * [**Modern Finance Podcast**](https://podcasts.apple.com/us/podcast/modern-finance/id1338620184) (Apple Podcasts)
 
 
 
 **Wednesday, September 29 2021 - Wed. 09/29 – Is Amazon’s Astro Robot… Ready?**
 
   * [Leaked Documents Show How Amazon’s Astro Robot Tracks Everything You Do](https://www.vice.com/en/article/93ypp8/leaked-documents-amazon-astro-surveillance-robot-tracking) (Motherboard)
-  * [Netflix acquires its first game studio in deal with Oxenfree creator Night School Studio](https://venturebeat.com/2021/09/28/netflix-acquires-its-first-game-studio-in-deal-with-oxenfree-creator-night-school-studio/) (VentureBeat/GamesBeat)
+  * [Netflix acquires its first game studio in deal with Oxenfree creator Night School Studio](https://venturebeat.com/2021/09/28/netflix-acquires-its-first-game-studio-in-deal-with-oxenfree-creator-night-school-studio/) (VentureBeat)
   * [Imgur has been bought by the owner of Kik, Genius, and WorldStarHipHop](https://www.theverge.com/2021/9/28/22697957/imgur-acquisition-medialab-kik-genius-whisper-worldstarhiphop) (The Verge)
   * [Microsoft opens its Windows store up to third-party app stores](https://www.theverge.com/2021/9/28/22698196/microsoft-store-third-party-app-stores-epic-games-amazon?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Facebook’s Effort to Attract Preteens Goes Beyond Instagram Kids, Documents Show](https://www.wsj.com/articles/facebook-instagram-kids-tweens-attract-11632849667?mod=djemalertNEWS) (WSJ)
@@ -739,7 +739,7 @@
 
   * [Amazon introduces Amazon Glow, an interactive, video calling device for kids and families](https://techcrunch.com/2021/09/28/amazon-introduces-amazon-glow-an-interactive-video-calling-device-for-kids-and-families/) (TechCrunch)
   * [SAY HELLO TO ASTRO, ALEXA ON WHEELS](https://www.theverge.com/2021/9/28/22697244/amazon-astro-home-robot-hands-on-features-price?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Astro Intro YouTube Video](https://www.youtube.com/watch?v=sj1t3msy8dc)
+  * [Astro Intro YouTube Video](https://www.youtube.com/watch?v=sj1t3msy8dc) (YouTube)
   * [Cloudflare’s Matthew Prince: ‘We’re aiming to be the fourth major public cloud](https://www.protocol.com/enterprise/cloudflare-r2-storage-aws)
   * [Facebook will publish some of its research on teens and Instagram](https://www.engadget.com/facebook-instagram-teen-safety-research-212546087.html) (Engadget)
   * [Coinbase dives deeper into banking by letting users deposit paychecks into their accounts](https://www.cnbc.com/2021/09/27/coinbase-adds-direct-deposit-into-crypto-accounts-.html) (CNBC)
@@ -827,7 +827,7 @@
 
   * [Facebook Employees Flag Drug Cartels and Human Traffickers. The Company’s Response Is Weak, Documents Show.](https://www.wsj.com/articles/facebook-drug-cartels-human-traffickers-response-is-weak-documents-11631812953?mod=djemalertNEWS) (WSJ)
   * [How Facebook Hobbled Mark Zuckerberg’s Bid to Get America Vaccinated](https://www.wsj.com/articles/facebook-mark-zuckerberg-vaccinated-11631880296?mod=djemalertNEWS) (WSJ)
-  * [The Algorithm Tweaks Won't Save Us](https://warzel.substack.com/p/the-algorithm-tweaks-wont-save-us) (Galaxy Brain/Charlie Warzel)
+  * [The Algorithm Tweaks Won't Save Us](https://warzel.substack.com/p/the-algorithm-tweaks-wont-save-us) (Galaxy Brain)
   * [Google and Apple Remove App Aimed at Spurring Protest Voting in Russia](https://www.nytimes.com/2021/09/17/world/europe/russia-navalny-app-election.html) (NYTimes)
 
 
@@ -867,8 +867,8 @@
 
 **Monday, September 13 2021 - Mon. 09/13 – Is China Dismantling Its Super Apps?**
 
-  * [Beijing to break up Ant’s Alipay and force creation of separate loans app](https://www.ft.com/content/01b7c7ca-71ad-4baa-bddf-a4d5e65c5d79) (Financial Times)
-  * [Tencent and Alibaba pledge to open up apps to competitors](https://www.ft.com/content/5ca8e92f-1bda-424b-9a11-99c40f4af99f) (Financial Times)
+  * [Beijing to break up Ant’s Alipay and force creation of separate loans app](https://www.ft.com/content/01b7c7ca-71ad-4baa-bddf-a4d5e65c5d79) (FT)
+  * [Tencent and Alibaba pledge to open up apps to competitors](https://www.ft.com/content/5ca8e92f-1bda-424b-9a11-99c40f4af99f) (FT)
   * [Commercetools raises $140M at a $1.9B valuation as 'headless' commerce continues to boom](https://techcrunch.com/2021/09/13/commercetools-raises-140m-at-a-1-9b-valuation-as-headless-commerce-continues-to-boom/) (TechCrunch)
   * [iPhone 13 Pro will get 1TB option & new 'AirPods 3' will not replace AirPods](https://appleinsider.com/articles/21/09/12/iphone-13-pro-will-get-1tb-option-new-airpods-3-will-not-replace-airpods) (AppleInsider)
   * [Apple must allow other forms of in-app purchase, rules judge in Epic v. Apple](https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -947,7 +947,7 @@
   * [Twitter launches Super Follows on iOS](https://www.theverge.com/2021/9/1/22651138/twitter-super-follow-launch-subscription-ios?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter is testing a new anti-abuse feature called ‘Safety Mode’](https://techcrunch.com/2021/09/01/twitter-safety-mode-harassment/) (TechCrunch)
   * [Twitter Plans New Privacy Tools to Get More People Tweeting](https://www.bloomberg.com/news/articles/2021-09-02/twitter-plans-new-privacy-features-to-get-more-people-tweeting?sref=Szq5ylDR) (Bloomberg)
-  * [YouTube music services hit 50m subscribers in race to catch Spotify](https://www.ft.com/content/ae722400-561c-431a-85eb-e09e1f6b0bb2) (Financial Times)
+  * [YouTube music services hit 50m subscribers in race to catch Spotify](https://www.ft.com/content/ae722400-561c-431a-85eb-e09e1f6b0bb2) (FT)
 
 
 
@@ -1042,7 +1042,7 @@
   * [Razer bug lets you become a Windows 10 admin by plugging in a mouse](https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/) (BleepingComputer)
   * [Facebook’s Stealth M&A Puts Focus on Deals Under Antitrust Radar](https://www.bloomberg.com/news/articles/2021-08-23/facebook-s-stealth-m-a-puts-focus-on-deals-under-antitrust-radar?sref=Szq5ylDR) (Bloomberg)
   * [Facebook says post that cast doubt on covid-19 vaccine was most popular on the platform from January through March](https://www.washingtonpost.com/technology/2021/08/21/facebook-coronavirus-vaccine/) (The Washington Post)
-  * [Post-Culture Review Twitter Thread](https://twitter.com/postcultrev/status/1428584131835748359)
+  * [Post-Culture Review Twitter Thread](https://twitter.com/postcultrev/status/1428584131835748359) (Twitter)
 
 
 
@@ -1192,7 +1192,7 @@
   * [Apple Makes Magic Keyboard With Touch ID Available for Separate Purchase](https://www.macrumors.com/2021/08/03/apple-magic-keyboard-touch-id-purchase/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Tencent Sinks After China Denounces Online Gaming](https://www.wsj.com/articles/tencent-plummets-as-china-takes-aim-at-online-videogames-11627962018?mod=djemalertNEWS) (WSJ)
   * [Xiaomi Tops European Smartphone Market in Q2 2021](https://www.strategyanalytics.com/strategy-analytics/blogs/devices/smartphones/smart-phones/2021/08/02/xiaomi-tops-european-smartphone-market-in-q2-2021) (Strategy Analytics)
-  * [The slow collapse of Amazon’s drone delivery dream](https://www.wired.co.uk/article/amazon-drone-delivery-prime-air) (Wired UK)
+  * [The slow collapse of Amazon’s drone delivery dream](https://www.wired.co.uk/article/amazon-drone-delivery-prime-air) (Wired)
   * [Spotify is testing a less restrictive ad-supported tier costing $0.99 a month](https://www.theverge.com/2021/8/3/22607203/spotify-plus-ad-supported-tier-unlimited-skips-on-demand-listening?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
 
@@ -1261,7 +1261,7 @@
   * [Gurman: Face ID on the Mac Coming Within a 'Couple of Years'](https://www.macrumors.com/2021/07/25/face-id-for-mac-couple-of-years/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Leaked Surface Duo 2 photos reveal new triple camera system](https://www.theverge.com/2021/7/26/22593992/microsoft-surface-duo-2-triple-camera-leak-photos) (The Verge)
   * [China Bans For-Profit School Tutoring in Sweeping Overhaul](https://www.bloomberg.com/news/articles/2021-07-24/china-bans-school-curriculum-tutoring-firms-from-going-public?sref=Szq5ylDR) (Bloomberg)
-  * [China’s education sector crackdown hits foreign investors](https://www.ft.com/content/dfae3282-e14e-4fea-aa5f-c2e914444fb8) (Financial Times)
+  * [China’s education sector crackdown hits foreign investors](https://www.ft.com/content/dfae3282-e14e-4fea-aa5f-c2e914444fb8) (FT)
   * [Why is China smashing its tech industry?](https://noahpinion.substack.com/p/why-is-china-smashing-its-tech-industry) (Noahpinion.substack.com)
 
 
@@ -1388,7 +1388,7 @@
   * [Global Venture Funding Hits All-Time High In First Half Of 2021, With $288B Invested](https://news.crunchbase.com/news/global-vc-funding-h1-2021-monthly-recap/) (Crunchbase News)
   * [London fintech funding soars in first half of the year](https://www.reuters.com/business/finance/london-fintech-funding-soars-first-half-year-2021-07-07/) (Reuters)
   * [Twitter Pledges to ‘Fully Comply’ With India Internet Rules](https://www.bloomberg.com/news/articles/2021-07-08/twitter-pledges-to-fully-comply-with-india-internet-rules) (Bloomberg)
-  * [Robinhood’s Debut Is Clouded by SEC Scrutiny of Payment for Order Flow](https://www.wsj.com/articles/robinhoods-debut-is-clouded-by-sec-scrutiny-of-payment-for-order-flow-11625655600?mod=djemalertNEWS) (Wall Street Journal)
+  * [Robinhood’s Debut Is Clouded by SEC Scrutiny of Payment for Order Flow](https://www.wsj.com/articles/robinhoods-debut-is-clouded-by-sec-scrutiny-of-payment-for-order-flow-11625655600?mod=djemalertNEWS) (WSJ)
 
 
 
@@ -1406,29 +1406,29 @@
 **Tuesday, July 06 2021 - Tue. 07/06 – New Nintendo Switch (Finally/Kinda)**
 
   * [Nintendo Switch OLED model will go on sale October 8th for $350](https://www.theverge.com/2021/7/6/22456337/nintendo-switch-oled-model-specs-date-price) (The Verge)
-  * [Chinese Regulators Suggested Didi Delay Its U.S. IPO](https://www.wsj.com/articles/chinese-regulators-suggested-didi-delay-its-u-s-ipo-11625510600?mod=djemalertNEWS) (Wall Street Journal)
+  * [Chinese Regulators Suggested Didi Delay Its U.S. IPO](https://www.wsj.com/articles/chinese-regulators-suggested-didi-delay-its-u-s-ipo-11625510600?mod=djemalertNEWS) (WSJ)
   * [Didi Shows China’s Tech Giants Must First Answer to Beijing](https://www.bloomberg.com/news/articles/2021-07-05/didi-shows-all-chinese-tech-giants-must-first-answer-to-beijing?utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&cmpid=socialflow-twitter-business&utm_medium=social) (Bloomberg)
   * [China’s Big Tech Crackdown Puts Dozens of U.S. IPOs at Risk](https://www.bloomberg.com/news/articles/2021-07-06/big-tech-crackdown-seen-hurting-china-s-pipeline-for-u-s-ipos?sref=sZAFdZwV) (Bloomberg)
-  * [Hundreds of Businesses, From Sweden to U.S., Affected by Cyberattack](https://www.nytimes.com/2021/07/02/technology/cyberattack-businesses-ransom.html) (New York Times)
+  * [Hundreds of Businesses, From Sweden to U.S., Affected by Cyberattack](https://www.nytimes.com/2021/07/02/technology/cyberattack-businesses-ransom.html) (NYTimes)
   * [REvil gang asks for $70 million to decrypt systems locked in Kaseya attack](https://therecord.media/revil-gang-asks-70-million-to-decrypt-systems-locked-in-kaseya-attack/) (The Record)
-  * [Twitter has lost liability protection in India, government says](https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/) (Tech Crunch)
-  * [American Internet Giants Hit Back at Hong Kong Doxxing Law](https://www.nytimes.com/2021/07/05/technology/hong-kong-doxxing-national-security-law.html) (New York Times)
+  * [Twitter has lost liability protection in India, government says](https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/) (TechCrunch)
+  * [American Internet Giants Hit Back at Hong Kong Doxxing Law](https://www.nytimes.com/2021/07/05/technology/hong-kong-doxxing-national-security-law.html) (NYTimes)
 
 
 
 **Saturday, July 03 2021 - (SPC CST)  The Facebook Antitrust Blowup With @Kantrowitz**
 
-  * [**@chrismessina**](https://twitter.com/chrismessina)
-  * [**@brianmcc**](https://twitter.com/brianmcc)
+  * [**@chrismessina**](https://twitter.com/chrismessina) (Twitter)
+  * [**@brianmcc**](https://twitter.com/brianmcc) (Twitter)
 
 
 
 **Friday, July 02 2021 - Fri. 07/02 – Robinhood’s IPO Success Depends On Doge?**
 
   * [Robinhood files for long-awaited IPO](https://www.axios.com/robinhood-ipo-0b9a27b1-69d1-41d0-b44e-69e137b92dd2.html) (Axios)
-  * [How Robinhood's explosive growth rate came to be](https://techcrunch.com/2021/07/01/how-robinhoods-explosive-growth-rate-came-to-be/?tpcc=ECTW2020) (Tech Crunch)
+  * [How Robinhood's explosive growth rate came to be](https://techcrunch.com/2021/07/01/how-robinhoods-explosive-growth-rate-came-to-be/?tpcc=ECTW2020) (TechCrunch)
   * [Didi shares fall after China announces cybersecurity review just days after IPO](https://www.cnbc.com/2021/07/02/didi-shares-fall-after-china-announces-cybersecurity-review.html) (CNBC)
-  * [Twitter considers new features for tweeting only to friends, under different personas and more](https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/) (Tech Crunch)
+  * [Twitter considers new features for tweeting only to friends, under different personas and more](https://techcrunch.com/2021/07/01/twitter-considers-new-features-for-tweeting-only-to-friends-under-different-personas-and-more/) (TechCrunch)
   * [Apple and Intel become first to adopt TSMC's latest chip tech](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-and-Intel-become-first-to-adopt-TSMC-s-latest-chip-tech) (Nikkei Asia)
 
 
@@ -1451,11 +1451,11 @@
 **Wednesday, June 30 2021 - Wed. 06/30 – Facebook’s Substack Clone**
 
   * [Facebook announces Bulletin, its Substack newsletter competitor](https://www.theverge.com/2021/6/29/22555957/facebook-bulletin-newsletter-subscriptions-substack-competitor?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Shopify drops its App Store commissions to 0% on developers’ first million in revenue](https://techcrunch.com/2021/06/29/shopify-drops-its-app-store-commissions-to-0-on-developers-first-million-in-revenue/) (Tech Crunch)
+  * [Shopify drops its App Store commissions to 0% on developers’ first million in revenue](https://techcrunch.com/2021/06/29/shopify-drops-its-app-store-commissions-to-0-on-developers-first-million-in-revenue/) (TechCrunch)
   * [Google and Microsoft End Their Five-Year Cease-Fire](https://www.bloomberg.com/news/articles/2021-06-30/google-microsoft-truce-crumbles-amid-feud-over-cloud-ad-tech?sref=Szq5ylDR) (Bloomberg)
   * [T-Mobile is offering iPhone owners no-hassle network ‘test drives’](https://www.theverge.com/2021/6/29/22555810/t-mobile-test-drive-iphone-esim?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Alphabet’s Wing launches OpenSky drone airspace authorization app in US](https://techcrunch.com/2021/06/29/alphabets-wing-launches-opensky-drone-airspace-authorization-app-in-us/) (Tech Crunch)
-  * [Zipline raises $250M at $2.75B valuation to build out its instant logistics service](https://techcrunch.com/2021/06/30/zipline-raises-250m-at-2-75b-valuation-to-build-out-its-instant-logistics-service/) (Tech Crunch)
+  * [Alphabet’s Wing launches OpenSky drone airspace authorization app in US](https://techcrunch.com/2021/06/29/alphabets-wing-launches-opensky-drone-airspace-authorization-app-in-us/) (TechCrunch)
+  * [Zipline raises $250M at $2.75B valuation to build out its instant logistics service](https://techcrunch.com/2021/06/30/zipline-raises-250m-at-2-75b-valuation-to-build-out-its-instant-logistics-service/) (TechCrunch)
   * [Inside Neeva, the ad-free, privacy-first search engine from ex-Googlers](https://www.fastcompany.com/90650719/neeva-search-engine-google-alternative-privacy-sridhar-ramaswamy-tech) (Fast Company)
 
 
@@ -1472,14 +1472,14 @@
 
 **Monday, June 28 2021 - Mon. 06/28 – Binance Runs Into Trouble Around The Globe**
 
-  * [Financial watchdog bans crypto exchange Binance from UK](https://www.ft.com/content/8bc0e5e0-2705-496d-a265-acccaffaee87) (Financial Times)
+  * [Financial watchdog bans crypto exchange Binance from UK](https://www.ft.com/content/8bc0e5e0-2705-496d-a265-acccaffaee87) (FT)
   * [The world’s biggest crypto exchange is running into trouble everywhere](https://qz.com/2025673/binance-is-banned-in-the-uk-and-ontario/) (Quartz)
   * [Qualcomm's Snapdragon 888 Plus will speed up gaming, AI in high-end 5G phones](https://www.cnet.com/news/qualcomms-snapdragon-888-plus-will-speed-up-gaming-ai-in-high-end-5g-phones/) (Cnet)
   * [Lenovo announces $679 13-inch Android tablet that works as a portable monitor](https://www.theverge.com/2021/6/28/22550590/lenovo-yoga-tab-13-stainless-steel-kickstand-android-tablet?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple Explores Bigger iPads and Reshuffles Its Car Team](https://www.bloomberg.com/news/newsletters/2021-06-27/big-ipads-apple-car-changes-amazon-ar-glasses-inside-big-tech-labs) (Bloomberg)
   * [Microsoft admits to signing rootkit malware in supply chain fiasco](https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/) (Bleeping Computer)
   * [Microsoft keeps hinting at an October release for Windows 11](https://www.theverge.com/2021/6/28/22553666/microsoft-windows-11-october-20th-release-date-hint-rumor?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Meet the activists perfecting the craft of anti-surveillance](https://www.ft.com/content/a0f8d8c5-ee5c-4618-bfbd-6bfb383b803e) (Financial Times)
+  * [Meet the activists perfecting the craft of anti-surveillance](https://www.ft.com/content/a0f8d8c5-ee5c-4618-bfbd-6bfb383b803e) (FT)
 
 
 
@@ -1497,44 +1497,44 @@
   * [Microsoft announces Windows 11, with a new design, Start menu, and more](https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Google delays Chrome's cookie-blocking privacy plan by nearly 2 years](https://www.cnet.com/news/google-delays-chromes-cookie-blocking-privacy-plan-by-nearly-2-years/) (Cnet)
   * [BuzzFeed announces plans to go public via SPAC, targets $1.5 billion valuation](https://www.cnbc.com/2021/06/24/buzzfeed-announces-plans-to-go-public-via-spac.html) (CNBC)
-  * [Inside Comcast’s Plan to Become a Streaming Giant](https://www.wsj.com/articles/comcasts-ceo-built-a-cable-giant-can-he-build-a-streaming-giant-11624473722?mod=djemalertNEWS) (Wall Street Journal)
-  * [Google and India’s Jio Platforms announce budget Android smartphone JioPhone Next](https://techcrunch.com/2021/06/24/google-and-jio-platforms-announce-worlds-cheapest-smartphone-jiophone-next/) (Tech Crunch)
+  * [Inside Comcast’s Plan to Become a Streaming Giant](https://www.wsj.com/articles/comcasts-ceo-built-a-cable-giant-can-he-build-a-streaming-giant-11624473722?mod=djemalertNEWS) (WSJ)
+  * [Google and India’s Jio Platforms announce budget Android smartphone JioPhone Next](https://techcrunch.com/2021/06/24/google-and-jio-platforms-announce-worlds-cheapest-smartphone-jiophone-next/) (TechCrunch)
   * [South African Brothers Vanish, and So Does $3.6 Billion in Bitcoin](https://www.bloomberg.com/news/articles/2021-06-23/s-african-brothers-vanish-and-so-does-3-6-billion-in-bitcoin) (Bloomberg)
-  * [John McAfee, Software Pioneer Turned Fugitive, Dies in Spanish Prison](https://www.nytimes.com/2021/06/23/business/john-mcafee-dead.html) (New York Times)
+  * [John McAfee, Software Pioneer Turned Fugitive, Dies in Spanish Prison](https://www.nytimes.com/2021/06/23/business/john-mcafee-dead.html) (NYTimes)
 
 
 
 **Wednesday, June 23 2021 - Wed. 06/23 – Microsoft Joins The $2T Club**
 
   * [Twitter is opening applications to test Ticketed Spaces and Super Follows](http://theverge.com/2021/6/22/22545167/twitter-opens-super-follows-ticketed-spaces-new-feature-test-application-ios-android?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Apple’s Fight for Control Over Apps Moves to Congress and EU](https://www.wsj.com/articles/apples-fight-for-control-over-apps-moves-to-congress-and-eu-11624440601?mod=djemalertNEWS) (Wall Street Journal)
+  * [Apple’s Fight for Control Over Apps Moves to Congress and EU](https://www.wsj.com/articles/apples-fight-for-control-over-apps-moves-to-congress-and-eu-11624440601?mod=djemalertNEWS) (WSJ)
   * [Microsoft Rises to Join Apple in Exclusive $2 Trillion Club](https://www.bloomberg.com/news/articles/2021-06-22/microsoft-rallies-to-join-apple-in-exclusive-2-trillion-club?sref=Szq5ylDR) (Bloomberg)
-  * [Vercel raises $102M Series C for its front-end development platform](https://techcrunch.com/2021/06/23/vercel-raises-102m-series-c-for-its-next-js-based-front-end-development-platform/) (Tech Crunch)
-  * [Brave’s nontracking search engine is now in beta](https://techcrunch.com/2021/06/22/braves-non-tracking-search-engine-is-now-in-beta/) (Tech Crunch)
+  * [Vercel raises $102M Series C for its front-end development platform](https://techcrunch.com/2021/06/23/vercel-raises-102m-series-c-for-its-next-js-based-front-end-development-platform/) (TechCrunch)
+  * [Brave’s nontracking search engine is now in beta](https://techcrunch.com/2021/06/22/braves-non-tracking-search-engine-is-now-in-beta/) (TechCrunch)
   * [What is the 'brushing' scam and how can you protect yourself?](https://uk.style.yahoo.com/what-is-brushing-scam-how-to-protect-yourself-084947955.html?guccounter=1) (Yahoo Life)
 
 
 
 **Tuesday, June 22 2021 - Tue. 06/22 – More EU Trouble For Google**
 
-  * [EU opens antitrust probe into Google’s advertising business](https://www.ft.com/content/b8d7bc05-7e58-43f9-b977-47bbbe5802aa) (Financial Times)
+  * [EU opens antitrust probe into Google’s advertising business](https://www.ft.com/content/b8d7bc05-7e58-43f9-b977-47bbbe5802aa) (FT)
   * [Resolution Games Pulls Blaston Out Of Facebook Ad Test](https://uploadvr.com/blaston-ad-test/) (Upload)
   * [Entire London Underground to receive mobile coverage by end of 2024](https://www.theverge.com/2021/6/22/22544890/london-underground-tube-2024-4g-5g-mobile-signal?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Tinder lets people add videos to their dating profiles](https://www.engadget.com/tinder-video-profile-update-130041493.html) (Engadget)
   * [Epic Games releases free anti-cheat and voice chat services for developers](https://www.theverge.com/2021/6/22/22544447/epic-games-anti-cheat-voice-chat-online-services-free?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Steven Spielberg’s Amblin Partners, Netflix Forge Film Deal in Sign of Changing Hollywood](https://variety.com/2021/film/news/steven-spielberg-netflix-amblin-deal-1235001513/) (Variety)
-  * [Monero emerges as crypto of choice for cybercriminals](https://www.ft.com/content/13fb66ed-b4e2-4f5f-926a-7d34dc40d8b6) (Financial Times)
+  * [Monero emerges as crypto of choice for cybercriminals](https://www.ft.com/content/13fb66ed-b4e2-4f5f-926a-7d34dc40d8b6) (FT)
   * [Amazon Snaps Up Option to Buy Stake in AI Truck-Driving Startup](https://www.bloomberg.com/news/articles/2021-06-21/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus?sref=Szq5ylDR) (Bloomberg)
 
 
 
 **Monday, June 21 2021 - Mon. 06/21 – Can Facebook Win Audio?**
 
-  * [Facebook officially launches Live Audio Rooms and podcasts in the US](https://techcrunch.com/2021/06/21/facebook-officially-launches-live-audio-rooms-and-podcasts-in-the-u-s/) (Tech Crunch)
+  * [Facebook officially launches Live Audio Rooms and podcasts in the US](https://techcrunch.com/2021/06/21/facebook-officially-launches-live-audio-rooms-and-podcasts-in-the-u-s/) (TechCrunch)
   * [China to shut down over 90% of its Bitcoin mining capacity after local bans](https://www.globaltimes.cn/page/202106/1226598.shtml) (Global Times)
-  * [Digital euro will protect consumer privacy, ECB executive pledges](https://www.ft.com/content/e59e5d61-043a-4293-8692-f8267e5984c2) (Financial Times)
+  * [Digital euro will protect consumer privacy, ECB executive pledges](https://www.ft.com/content/e59e5d61-043a-4293-8692-f8267e5984c2) (FT)
   * ['Woke up sweating': Some Texans shocked to find their smart thermostats were raised remotely](https://www.khou.com/article/news/local/texas/remote-thermostat-adjustment-texas-energy-shortage/285-5acf2bc5-54b7-4160-bffe-1f9a5ef4362a) (KHOU)
-  * [Apple Watch accessory maker Wristcam raises $25M](https://techcrunch.com/2021/06/15/apple-watch-accessory-maker-wristcam-raises-25m/) (Tech Crunch)
+  * [Apple Watch accessory maker Wristcam raises $25M](https://techcrunch.com/2021/06/15/apple-watch-accessory-maker-wristcam-raises-25m/) (TechCrunch)
   * [Russia has flown prototypes of its six-seat hybrid VTOL Cyclocar](https://newatlas.com/aircraft/russia-cyclocar-evtol-protoype-flight/) (New Atlas)
 
 
@@ -1542,7 +1542,7 @@
 **Friday, June 18 2021 - Fri. 06/18 – Cell Networks Security Deliberately Nerfed?**
 
   * [Bombshell Report Finds Phone Network Encryption Was Deliberately Weakened](https://www.vice.com/en/article/4avnan/bombshell-report-finds-phone-network-encryption-was-deliberately-weakened) (Vice)
-  * [Ukraine arrests ransomware gang in global cyber criminal crackdown](https://www.ft.com/content/de3b7a60-e38d-43a0-ad85-348fbed90d67) (Financial Times)
+  * [Ukraine arrests ransomware gang in global cyber criminal crackdown](https://www.ft.com/content/de3b7a60-e38d-43a0-ad85-348fbed90d67) (FT)
   * [Google may be working on an Android version of Apple’s “Find My” network](https://www.xda-developers.com/google-find-my-device-network/) (XDA Developers)
   * [Gopuff to Buy Siemens-Backed RideOS in $100 Million-Plus Deal](https://www.bloomberg.com/news/articles/2021-06-17/gopuff-to-buy-siemens-backed-rideos-in-100-million-plus-deal?sref=Szq5ylDR) (Bloomberg)
 
@@ -1555,31 +1555,31 @@
   * [Podcasts start coming to Facebook next week](https://www.theverge.com/2021/6/16/22537023/facebook-podcast-rss-feed-publish-clips-pages?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon Appstore will reduce developer revenue cut from 30% to 20% and give 10% in Free AWS Credit](https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/) (AFTV News)
   * [EXCLUSIVE: Google is downsizing its health team and moving employees to Fitbit as part of a major reorganization](https://www.businessinsider.com/google-health-splitting-reorganization-sending-employees-fitbit-search-2021-6?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
-  * [Can Streaming Pay? Musicians Are Pinning Fresh Hopes on Twitch.](https://www.nytimes.com/2021/06/16/arts/music/twitch-streaming-music.html) (New York Times)
+  * [Can Streaming Pay? Musicians Are Pinning Fresh Hopes on Twitch.](https://www.nytimes.com/2021/06/16/arts/music/twitch-streaming-music.html) (NYTimes)
   * [Is Facebook cornering the VR market?](https://www.platformer.news/p/is-facebook-cornering-the-vr-market) (Platformer)
 
 
 
 **Wednesday, June 16 2021 - Wed. 06/16 – A Nightmare FTC Chair For Big Tech?**
 
-  * [Biden Names Lina Khan, a Big-Tech Critic, as F.T.C. Chair](https://www.nytimes.com/2021/06/15/technology/lina-khan-ftc.html) (New York Times)
+  * [Biden Names Lina Khan, a Big-Tech Critic, as F.T.C. Chair](https://www.nytimes.com/2021/06/15/technology/lina-khan-ftc.html) (NYTimes)
   * [Alphabet’s self-driving car company Waymo announces $2.5 billion investment round](https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html) (CNBC)
   * [GM ups spending on EVs and autonomous vehicles by 30% to $35 billion by 2025 on higher profits](https://www.cnbc.com/2021/06/16/gm-ups-spending-on-evs-and-autonomous-vehicles-to-35-billion-by-2025.html) (CNBC)
-  * [Spotify launches its live audio app and Clubhouse rival, Spotify Greenroom](https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/) (Tech Crunch)
+  * [Spotify launches its live audio app and Clubhouse rival, Spotify Greenroom](https://techcrunch.com/2021/06/16/spotify-launches-its-live-audio-app-and-clubhouse-rival-spotify-greenroom/) (TechCrunch)
   * [Windows 11 leak reveals new UI, Start menu, and more](https://www.theverge.com/2021/6/15/22535123/microsoft-windows-11-leak-screenshots-start-menu?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Apple Struggles in Push to Make Healthcare Its Greatest Legacy](https://www.wsj.com/articles/apple-struggles-in-push-to-make-healthcare-greatest-legacy-11623832200?mod=djemalertNEWS) (Wall Street Journal)
+  * [Apple Struggles in Push to Make Healthcare Its Greatest Legacy](https://www.wsj.com/articles/apple-struggles-in-push-to-make-healthcare-greatest-legacy-11623832200?mod=djemalertNEWS) (WSJ)
 
 
 
 **Tuesday, June 15 2021 - Tue. 06/15 – Automattic Acquires Day One**
 
-  * [WordPress.com owner Automattic acquires journaling app Day One](https://techcrunch.com/2021/06/14/wordpress-com-owner-automattic-acquires-journaling-app-day-one/) (Tech Crunch)
+  * [WordPress.com owner Automattic acquires journaling app Day One](https://techcrunch.com/2021/06/14/wordpress-com-owner-automattic-acquires-journaling-app-day-one/) (TechCrunch)
   * [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/) (Reuters)
-  * [Investors Clamor for a Bigger Piece of Payments Company Stripe](https://www.wsj.com/articles/investors-clamor-for-a-bigger-piece-of-payments-company-stripe-11623668400?mod=djemalertNEWS) (Wall Street Journal)
-  * [Stripe goes beyond payments with Stripe Identity to provide AI-based ID verification for transactions and much more](https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/) (Tech Crunch)
+  * [Investors Clamor for a Bigger Piece of Payments Company Stripe](https://www.wsj.com/articles/investors-clamor-for-a-bigger-piece-of-payments-company-stripe-11623668400?mod=djemalertNEWS) (WSJ)
+  * [Stripe goes beyond payments with Stripe Identity to provide AI-based ID verification for transactions and much more](https://techcrunch.com/2021/06/14/stripe-goes-beyond-payments-with-stripe-identity-to-provide-ai-based-id-verification-for-transactions-and-much-more/) (TechCrunch)
   * [Amazon brings cashierless tech to full-size grocery store for first time at new Seattle-area location](https://www.geekwire.com/2021/amazon-brings-cashierless-tech-full-size-grocery-store-first-time-new-seattle-area-location/) (Geek Wire)
   * [Netflix Has a Plan to Sell You Toys, T-Shirts and Concert Tickets](https://www.bloomberg.com/news/newsletters/2021-06-13/netflix-has-a-plan-to-sell-you-toys-t-shirts-and-concert-tickets) (Bloomberg)
-  * [Web inventor Berners-Lee to auction original code as NFT](https://www.ft.com/content/a77ad1bf-fae0-478b-aa05-a07790314ebc) (Financial Times)
+  * [Web inventor Berners-Lee to auction original code as NFT](https://www.ft.com/content/a77ad1bf-fae0-478b-aa05-a07790314ebc) (FT)
 
 
 
@@ -1596,7 +1596,7 @@
 
 **Friday, June 11 2021 - Fri. 06/11 – Now The Hackers Have Come For Our Hamburgers**
 
-  * [McDonald’s Hit by Data Breach](https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800?mod=djemalertNEWS) (Wall Street Journal)
+  * [McDonald’s Hit by Data Breach](https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800?mod=djemalertNEWS) (WSJ)
   * [Hackers Steal Wealth of Data from Game Giant EA](https://www.vice.com/en/article/wx5xpx/hackers-steal-data-electronic-arts-ea-fifa-source-code) (Vice)
   * [Apple says its new logon tech is as easy as passwords but far more secure](http://cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/) (Cnet)
   * [Tesla begins deliveries of its new Model S Plaid](https://www.cnbc.com/2021/06/11/tesla-model-s-plaid-delivery-event.html) (CNBC)
@@ -1606,11 +1606,11 @@
 
 **Thursday, June 10 2021 - Thu. 06/10 – Another Payoff To Ransomware Hackers**
 
-  * [JBS Paid $11 Million to Resolve Ransomware Attack](https://www.wsj.com/articles/jbs-paid-11-million-to-resolve-ransomware-attack-11623280781?mod=djemalertNEWS) (Wall Street Journal)
+  * [JBS Paid $11 Million to Resolve Ransomware Attack](https://www.wsj.com/articles/jbs-paid-11-million-to-resolve-ransomware-attack-11623280781?mod=djemalertNEWS) (WSJ)
   * [Facebook plans first smartwatch for next summer with two cameras, heart rate monitor](https://www.theverge.com/2021/6/9/22526266/facebook-smartwatch-two-cameras-heart-rate-monitor?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Microsoft is building its own streaming devices as part of a major Xbox Game Pass expansion](https://www.protocol.com/microsoft-xbox-game-pass-expansion) (Protocol)
   * [Samsung pushes pixel size even further with new camera sensor](https://www.theverge.com/2021/6/10/22527312/samsung-isocell-jn1-camera-sensor-pixel-size?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Payments giant Stripe launches Stripe Tax to integrate sales tax calculations for 30+ countries](https://techcrunch.com/2021/06/10/payments-giant-stripe-launches-stripe-tax-to-integrate-sales-tax-calculations-for-30-countries/) (Tech Crunch)
+  * [Payments giant Stripe launches Stripe Tax to integrate sales tax calculations for 30+ countries](https://techcrunch.com/2021/06/10/payments-giant-stripe-launches-stripe-tax-to-integrate-sales-tax-calculations-for-30-countries/) (TechCrunch)
   * [The creator economy is running into the Apple Tax — this startup is fighting back](https://www.theverge.com/2021/6/9/22525904/fanhouse-apple-tax-app-store-creator-fees?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
 
@@ -1621,7 +1621,7 @@
   * [Biden revokes and replaces Trump orders banning TikTok and WeChat](https://www.theverge.com/2021/6/9/22525953/biden-tiktok-wechat-trump-bans-revoked-alipay?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Fastly claims single customer responsible for widespread internet outage](https://www.theverge.com/2021/6/9/22525820/fastly-outage-bug-customer?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Solana Labs raises $314 million in new funding led by A16z and Polychain Capital](https://www.theblockcrypto.com/post/107749/solana-labs-raises-314-million-funding-a16z-polychain-capital) (The Block)
-  * [Vivaldi 4.0 launches with built-in email and calendar clients, RSS reader](https://techcrunch.com/2021/06/09/vivaldi-4-0-launches-with-built-in-email-and-calendar-clients-rss-reader/) (Tech Crunch)
+  * [Vivaldi 4.0 launches with built-in email and calendar clients, RSS reader](https://techcrunch.com/2021/06/09/vivaldi-4-0-launches-with-built-in-email-and-calendar-clients-rss-reader/) (TechCrunch)
   * [FBI and Australian police ran an encrypted chat platform to catch criminal gangs](https://therecord.media/fbi-and-australian-police-ran-an-encrypted-chat-platform-to-catch-criminal-gangs/) (The Record)
   * [Encrypted messaging app used by criminals was actually an FBI honeypot](https://www.inputmag.com/tech/encrypted-messaging-app-anom-used-by-criminals-was-a-secret-fbi-honeypot) (Input)
 
@@ -1629,8 +1629,8 @@
 
 **Tuesday, June 08 2021 - Tue. 06/08 – Fastly Takes Down The Internet**
 
-  * [Twitch, Pinterest, Reddit and more go down in Fastly CDN outage](https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/) (Tech Crunch)
-  * [U.S. Retrieves Millions in Ransom Paid to Colonial Pipeline Hackers](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399?mod=djemalertNEWS) (Wall Street Journal)
+  * [Twitch, Pinterest, Reddit and more go down in Fastly CDN outage](https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/) (TechCrunch)
+  * [U.S. Retrieves Millions in Ransom Paid to Colonial Pipeline Hackers](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399?mod=djemalertNEWS) (WSJ)
   * [Facebook will show creators how much money Apple and Google take from them](https://www.theverge.com/2021/6/7/22522706/facebook-creators-apple-google-fees-payment-interface-events?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [EXCLUSIVE Apple in talks with CATL, BYD over battery supplies for its electric car](https://www.reuters.com/world/china/exclusive-apple-talks-with-catl-byd-over-battery-supplies-its-electric-car-2021-06-08/) (Reuters)
   * [Adobe launches M1 Mac-native versions of Lightroom Classic and more](https://www.theverge.com/2021/6/8/22523944/lightroom-classic-indesign-illustrator-m1-mac-native-version?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -1653,7 +1653,7 @@
 
   * [Apple Working on iPad Pro with Wireless Charging, New iPad Mini](https://www.bloomberg.com/news/articles/2021-06-04/apple-working-on-ipad-pro-with-wireless-charging-new-ipad-mini) (Bloomberg)
   * [Facebook to end special treatment for politicians after Trump ban](https://www.theverge.com/2021/6/3/22474738/facebook-ending-political-figure-exemption-moderation-policy?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Biden Expands Trump-Era Ban on Investment in Chinese Firms Linked to Military](https://www.nytimes.com/live/2021/06/03/us/biden-news-today) (New York Times)
+  * [Biden Expands Trump-Era Ban on Investment in Chinese Firms Linked to Military](https://www.nytimes.com/live/2021/06/03/us/biden-news-today) (NYTimes)
   * [Exclusive-U.S. to give ransomware hacks similar priority as terrorism, official says](https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD) (Reuters)
 
 
@@ -1664,19 +1664,19 @@
   * [Apple asks staff to return to office three days a week starting in early September](https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [WhatsApp to Roll Out Multi-Device Support, Hints at Future iPad App](https://www.macrumors.com/2021/06/03/whatsapp-multi-device-support-hints-ipad-app/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
   * [Cybersecurity firm NortonLifeLock will let customers mine crypto](https://www.cnn.com/2021/06/02/investing/nortonlifelock-crypto-mining-ethereum/) (CNN)
-  * [Stack Overflow Sold to Tech Giant Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400?mod=djemalertNEWS) (Wall Street Journal)
+  * [Stack Overflow Sold to Tech Giant Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400?mod=djemalertNEWS) (WSJ)
   * [Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.](https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
 
 
 
 **Wednesday, June 02 2021 - Wed. 06/02 – Facebook’s F8 Refresh**
 
-  * [Facebook opens its Messenger API for Instagram to all](https://techcrunch.com/2021/06/02/facebook-opens-its-messenger-api-for-instagram-to-all-businesses/) (Tech Crunch)
+  * [Facebook opens its Messenger API for Instagram to all](https://techcrunch.com/2021/06/02/facebook-opens-its-messenger-api-for-instagram-to-all-businesses/) (TechCrunch)
   * [Microsoft to reveal its next generation of Windows on June 24th](https://www.theverge.com/2021/6/2/22465126/microsoft-windows-event-june-24th?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon Prime Day set for June 21 and 22](https://www.cnbc.com/2021/06/02/amazon-prime-day-is-june-21-and-june-22.html) (CNBC)
-  * [Etsy is buying the fashion resale app Depop for $1.6 billion.](https://www.nytimes.com/2021/06/02/business/etsy-depop.html) (New York Times)
+  * [Etsy is buying the fashion resale app Depop for $1.6 billion.](https://www.nytimes.com/2021/06/02/business/etsy-depop.html) (NYTimes)
   * [U.S. says ransomware attack on meatpacker JBS likely from Russia; cattle slaughter resuming](https://www.cnbc.com/2021/06/01/big-north-american-meat-plants-halt-operations-after-jbs-cyberattack.html) (CNBC)
-  * [Meat Buyers Scramble After Cyberattack Hobbles JBS](https://www.wsj.com/articles/meatpacker-jbs-hit-by-cyberattack-affecting-north-american-australian-operations-11622548864?mod=djemalertNEWS) (Wall Street Journal)
+  * [Meat Buyers Scramble After Cyberattack Hobbles JBS](https://www.wsj.com/articles/meatpacker-jbs-hit-by-cyberattack-affecting-north-american-australian-operations-11622548864?mod=djemalertNEWS) (WSJ)
   * [Coinbase Lists Dogecoin on Professional Trading Platform](https://www.coindesk.com/coinbase-lists-dogecoin-on-professional-trading-platform) (Coindesk)
   * [Judge dismisses charges against Apple security chief in gun-permit probe](https://www.reuters.com/technology/judge-dismisses-charges-against-apple-security-chief-gun-permit-probe-2021-06-01/) (Reuters)
 
@@ -1689,21 +1689,21 @@
   * [AMD and Samsung are collaborating on Exynos mobile chips capable of ray-tracing](https://www.engadget.com/amd-samsung-exynos-mobile-ray-tracing-120041157.html) (Engadget)
   * [Alienware's New X-Series Laptops Are Its Thinnest Gaming Notebooks Yet](https://gizmodo.com/alienwares-new-x-series-laptops-are-its-thinnest-gaming-1846995173?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
   * [Twitter teams with climate vet to launch local weather news service](https://www.axios.com/twitter-holthaus-tomorrow-weather-meteorologists-6ca8692a-112c-45a4-92f2-3fae5ea813f0.html) (Axios)
-  * [Amazon devices will soon automatically share your Internet with neighbors](https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/) (ArsTechnica)
-  * [Prepare to Pay More for Uber and Lyft Rides](https://www.nytimes.com/2021/05/30/technology/uber-lyft-surge.html) (New York Times)
+  * [Amazon devices will soon automatically share your Internet with neighbors](https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/) (Ars Technica)
+  * [Prepare to Pay More for Uber and Lyft Rides](https://www.nytimes.com/2021/05/30/technology/uber-lyft-surge.html) (NYTimes)
 
 
 
 **Monday, May 31 2021**
 
-  * [**Subscribe on Apple Podcasts**](https://podcasts.apple.com/us/podcast/spacecasts/id1568772123)
+  * [**Subscribe on Apple Podcasts**](https://podcasts.apple.com/us/podcast/spacecasts/id1568772123) (Apple Podcasts)
   * [**Subscribe on Spotify**](https://open.spotify.com/show/3PkIkrSM5VNqeHjsrfcrvZ)
 
 
 
 **Friday, May 28 2021 - Fri. 05/28 – SolarWinds Back In The Headlines**
 
-  * [Russia Appears to Carry Out Hack Through System Used by U.S. Aid Agency](https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html) (New York Times)
+  * [Russia Appears to Carry Out Hack Through System Used by U.S. Aid Agency](https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html) (NYTimes)
   * [Apple Plans Redesigned AirPods for 2021, New AirPods Pro in 2022](https://www.bloomberg.com/news/articles/2021-05-28/apple-plans-redesigned-airpods-for-2021-new-airpods-pro-in-2022) (Bloomberg)
   * [Have I been Pwned goes open source](https://www.zdnet.com/article/have-i-been-pwned-goes-open-source/) (ZDnet)
 
@@ -1713,7 +1713,7 @@
 
   * [Nintendo Plans Upgraded Switch Replacement as Soon as September](https://www.bloomberg.com/news/articles/2021-05-27/nintendo-plans-upgraded-switch-replacement-as-soon-as-september?sref=Szq5ylDR) (Bloomberg)
   * [You can join Twitter’s Clubhouse-like Spaces rooms from a browser starting Wednesday](https://www.theverge.com/2021/5/26/22455799/twitter-spaces-web-browser-clubhouse-social-audio-room?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [James Bond, Meet Jeff Bezos: Amazon Makes $8.45 Billion Deal for MGM](https://www.nytimes.com/2021/05/26/business/amazon-MGM.html) (New York Times)
+  * [James Bond, Meet Jeff Bezos: Amazon Makes $8.45 Billion Deal for MGM](https://www.nytimes.com/2021/05/26/business/amazon-MGM.html) (NYTimes)
   * [Facebook to Limit Reach of Personal Accounts That Spread Misinformation](https://www.bloomberg.com/news/articles/2021-05-26/facebook-to-limit-reach-of-personal-accounts-that-spread-misinformation?sref=Szq5ylDR) (Bloomberg)
   * [PayPal to Let Users Send Bitcoin Off PayPal](https://decrypt.co/71982/paypal-users-send-bitcoin-off) (Decrypt)
   * [App Store Scam App Required a Good Review to Function at All](https://www.macrumors.com/2021/05/26/app-store-scam-app-required-a-good-review/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
@@ -1740,9 +1740,9 @@
 
   * [Google is officially releasing its Fuchsia OS, starting w/ first-gen Nest Hub](https://9to5google.com/2021/05/25/google-releases-fuchsia-os-nest-hub/) (9to5 Google)
   * [ARM's first v9 CPUs are built for computers, not just phones](https://www.engadget.com/armv9-cortex-x2-cpu-mali-g710-gpu-130055653.html) (Engadget)
-  * [Florida, in a First, Will Fine Social Media Companies That Bar Candidates](https://www.nytimes.com/2021/05/24/technology/florida-twitter-facebook-ban-politicians.html) (New York Times)
+  * [Florida, in a First, Will Fine Social Media Companies That Bar Candidates](https://www.nytimes.com/2021/05/24/technology/florida-twitter-facebook-ban-politicians.html) (NYTimes)
   * [Apple Says iPad Pro's XDR Display Designed to Minimize Blooming, but Some Users Still Notice the Effect](https://www.macrumors.com/2021/05/24/users-notice-blooming-on-ipad-pro-xdr-display/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
-  * [Airbnb doubles down on flexible search, improves the host flow in preparation for summer 2021](https://techcrunch.com/2021/05/24/airbnb-doubles-down-on-flexible-search-improves-the-host-flow-in-preparation-for-summer-2021/) (Tech Crunch)
+  * [Airbnb doubles down on flexible search, improves the host flow in preparation for summer 2021](https://techcrunch.com/2021/05/24/airbnb-doubles-down-on-flexible-search-improves-the-host-flow-in-preparation-for-summer-2021/) (TechCrunch)
   * [Poparazzi debuts at #1 on the App Store charts](https://www.protocol.com/bulletins/what-is-poparazzi-app) (Protocol)
   * [Weight-Loss App Noom Gets $540 Million in Silver Lake-Led Round](https://www.bloomberg.com/news/articles/2021-05-25/weight-loss-app-noom-gets-540-million-in-silver-lake-led-round?sref=Szq5ylDR) (Bloomberg)
 
@@ -1750,7 +1750,7 @@
 
 **Monday, May 24 2021 - Reading The Tea Leaves Of The Epic/Apple Trial**
 
-  * [Tim Cook plays innocent in Epic v Apple’s culminating testimony](https://techcrunch.com/2021/05/21/tim-cook-plays-innocent-in-epic-v-apples-culminating-testimony/) (Tech Crunch)
+  * [Tim Cook plays innocent in Epic v Apple’s culminating testimony](https://techcrunch.com/2021/05/21/tim-cook-plays-innocent-in-epic-v-apples-culminating-testimony/) (TechCrunch)
   * [Judge in Fortnite case holds Tim Cook's feet to the fire over App Store competition](https://www.protocol.com/apple-epic-trial/tim-cook-apple-epic-grilled) (Protocol)
   * [HomePod and HomePod mini to support Apple Music Lossless in a future software update](https://9to5mac.com/2021/05/22/homepod-apple-music-lossless-support/) (9to5 Mac)
   * [Leaked Emails Show Crime App Citizen Is Testing On-Demand Security Force](https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails) (Vice)
@@ -1779,8 +1779,8 @@
 
 **Thursday, May 20 2021 - Thu. 05/20 – Hello F-150 Lightning; Goodbye IE; Hello Again, RSS…**
 
-  * [Ford’s Electric F-150 Pickup Aims to Be the Model T of E.V.s](https://www.nytimes.com/2021/05/19/business/ford-electric-vehicle-f-150.html) (New York Times)
-  * [Ford unveils the F-150 Lightning, its all-electric pickup truck that will start under $40,000](https://techcrunch.com/2021/05/19/ford-unveils-the-f-150-lightning-its-all-electric-pickup-truck-that-will-start-under-40000/?tpcc=ECTW2020) (Tech Crunch)
+  * [Ford’s Electric F-150 Pickup Aims to Be the Model T of E.V.s](https://www.nytimes.com/2021/05/19/business/ford-electric-vehicle-f-150.html) (NYTimes)
+  * [Ford unveils the F-150 Lightning, its all-electric pickup truck that will start under $40,000](https://techcrunch.com/2021/05/19/ford-unveils-the-f-150-lightning-its-all-electric-pickup-truck-that-will-start-under-40000/?tpcc=ECTW2020) (TechCrunch)
   * ['I'm not very social': ByteDance founder to hand CEO reins to college roommate](https://www.reuters.com/article/us-bytedance-ceo-exclusive-idUSKCN2D104I) (Reuters)
   * [Google is opening its first physical retail store this summer in NYC](https://www.theverge.com/2021/5/20/22445472/google-first-physical-retail-store-chelsea-nyc-summer-2021?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple cites 'significant' malware on Mac while defending iOS App Store in Fortnite trial](https://www.cnet.com/news/apple-cites-significant-malware-on-mac-while-defending-ios-app-store-in-fortnite-trial/) (CNet)
@@ -1820,7 +1820,7 @@
   * [Microsoft Teams launches for friends and family with free all-day video calling](https://www.theverge.com/2021/5/17/22439924/microsoft-teams-personal-version-launch-available-download?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [GitHub now lets all developers upload videos to demo bugs and features](https://venturebeat.com/2021/05/14/github-now-lets-all-developers-upload-videos-to-demo-bugs-and-features/) (Venture Beat)
   * [‘Twitter Blue’ subscription service to include undo tweets feature and ‘Collections,’ priced at $2.99](https://9to5mac.com/2021/05/15/twitter-blue-subscription-service-to-include-undo-tweets-feature-and-collections-priced-at-2-99/) (9to5 Mac)
-  * [Bill Gates Left Microsoft Board Amid Probe Into Prior Relationship With Staffer](https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803?mod=djemalertNEWS) (Wall Street Journal)
+  * [Bill Gates Left Microsoft Board Amid Probe Into Prior Relationship With Staffer](https://www.wsj.com/articles/microsoft-directors-decided-bill-gates-needed-to-leave-board-due-to-prior-relationship-with-staffer-11621205803?mod=djemalertNEWS) (WSJ)
   * [Google's Android 12 redesign leaks with theme support, new animations, more](https://www.phonearena.com/news/android-12-redesign-theme-support-leak_id132133) (Phone Arena)
 
 
@@ -1844,10 +1844,10 @@
   * [Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm](https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Elon Musk’s SpaceX inks satellite connectivity deal with Google Cloud](https://www.theverge.com/2021/5/13/22433982/elon-musk-spacex-internet-connectivity-deal-google-cloud?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Biden signs executive order designed to strengthen federal digital defenses](https://www.washingtonpost.com/national-security/biden-executive-order-cybersecurity/2021/05/12/9269e932-acd5-11eb-acd3-24b44a57093a_story.html) (Washington Post)
-  * [Roku will launch original programming fueled by Quibi’s content on May 20](https://techcrunch.com/2021/05/13/roku-launches-an-original-programming-lineup-fueled-by-quibis-content/) (Tech Crunch)
+  * [Roku will launch original programming fueled by Quibi’s content on May 20](https://techcrunch.com/2021/05/13/roku-launches-an-original-programming-lineup-fueled-by-quibis-content/) (TechCrunch)
   * [Apple parts ways with employee amid backlash](https://www.axios.com/apple-severs-ties-with-antonio-garcia-martinez-c099fc67-de5d-4a2d-8b46-d29448dcab84.html) (Axios)
   * [Facebook-backed crypto project Diem abandons Swiss license application, will move to the U.S.](https://www.cnbc.com/2021/05/12/facebook-backed-diem-is-moving-from-switzerland-to-the-us.html) (CNBC)
-  * [Ethereum creator donates meme coins worth $1 billion to help India fight COVID-19](https://techcrunch.com/2021/05/12/vitalik-buterin-donates-1-billion-worth-of-meme-coins-to-india-covid-relief-fund/) (Tech Crunch)
+  * [Ethereum creator donates meme coins worth $1 billion to help India fight COVID-19](https://techcrunch.com/2021/05/12/vitalik-buterin-donates-1-billion-worth-of-meme-coins-to-india-covid-relief-fund/) (TechCrunch)
 
 
 
@@ -1899,7 +1899,7 @@
   * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Square gets a bitcoin boost with revenue up 266%](https://www.cnbc.com/2021/05/06/square-sq-earnings-q1-2021.html) (CNBC)
   * [Playlists and podcasts? Netflix is exploring developing ‘N-Plus’](https://www.protocol.com/netflix-survey-nplus-show-playlists) (Protocol)
-  * [You can now build a “mini media empire” on Substack](https://www.ft.com/content/7b9fea53-db83-4cd4-a9bd-10af24aebfea) (Financial Times)
+  * [You can now build a “mini media empire” on Substack](https://www.ft.com/content/7b9fea53-db83-4cd4-a9bd-10af24aebfea) (FT)
   * [Everyone yells at the Oversight Board](https://www.platformer.news/p/everyone-yells-at-the-oversight-board) (Platformer)
 
 
@@ -1909,7 +1909,7 @@
   * [IBM Creates First 2nm Chip](https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip) (AnandTech)
   * [Google is going to start automatically enrolling users in two-step verification](https://www.zdnet.com/article/google-is-going-to-start-automatically-enrolling-users-in-two-step-verification/) (ZDNet)
   * [Google relaxes work from home rules to let more staff be remote](https://www.bloomberg.com/news/articles/2021-05-05/google-relaxes-work-from-home-rules-to-let-more-staff-be-remote?sref=Szq5ylDR) (Bloomberg)
-  * [Twitter rolls out improved ‘reply prompts’ to cut down on harmful tweets](https://techcrunch.com/2021/05/05/twitter-rolls-out-improved-reply-prompts-to-cut-down-on-harmful-tweets/) (Tech Crunch)
+  * [Twitter rolls out improved ‘reply prompts’ to cut down on harmful tweets](https://techcrunch.com/2021/05/05/twitter-rolls-out-improved-reply-prompts-to-cut-down-on-harmful-tweets/) (TechCrunch)
   * [Emails reveal Apple’s attempts to stop Netflix from dropping App Store In-App Purchase support](https://9to5mac.com/2021/05/05/netflix-apple-in-app-purchase/) (9to5 Mac)
   * [EXCLUSIVE China's Tencent in talks with U.S. to keep gaming investments -sources](https://www.reuters.com/technology/exclusive-chinas-tencent-talks-with-us-keep-gaming-investments-sources-2021-05-05/) (Reuters)
   * [SpaceX successfully lands its massive Starship for the first time](https://newatlas.com/space/spacex-lands-starship-first-time/) (New Atlas)
@@ -1932,7 +1932,7 @@
 
 **Tuesday, May 04 2021 - Tue. 05/04 – How Many People Still Pay For AOL?**
 
-  * [Twitter expands Spaces to anyone with 600+ followers, details plans for tickets, reminders and more](https://techcrunch.com/2021/05/03/twitter-expands-spaces-to-anyone-with-600-followers-details-plans-for-tickets-reminders-and-more/?guccounter=1) (Tech Crunch)
+  * [Twitter expands Spaces to anyone with 600+ followers, details plans for tickets, reminders and more](https://techcrunch.com/2021/05/03/twitter-expands-spaces-to-anyone-with-600-followers-details-plans-for-tickets-reminders-and-more/?guccounter=1) (TechCrunch)
   * [Twitter is buying Scroll, the subscription service that removes ads from news sites](https://www.theverge.com/2021/5/4/22417852/twitter-buying-scroll-subscription-service-news-revue-newsletter?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Twitter makes all of its money from ads. It’s trying to change that.](https://www.vox.com/recode/22417844/twitter-scroll-subscription-ads) (Recode)
   * [Apple hires ex-Google AI scientist who resigned after colleagues' firings](https://www.reuters.com/technology/apple-hires-ex-google-ai-scientist-who-resigned-after-colleagues-firing-2021-05-03/) (Reuters)
@@ -1956,10 +1956,10 @@
 
 **Friday, April 30 2021 - Fri. 04/30 – The EU Brings The Hammer Down On Apple**
 
-  * [EU Charges Apple With App Store Antitrust Violations in Spotify Case](https://www.wsj.com/articles/apple-faces-eu-antitrust-charges-over-app-store-payments-in-spotify-case-11619777595?mod=djemalertNEWS) (Wall Street Jounal)
+  * [EU Charges Apple With App Store Antitrust Violations in Spotify Case](https://www.wsj.com/articles/apple-faces-eu-antitrust-charges-over-app-store-payments-in-spotify-case-11619777595?mod=djemalertNEWS) (WSJ)
   * [YouTube TV removed from Roku channel store amid Google contract dispute](https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html) (Axios)
   * [Apple says the new 12.9-inch iPad Pro will work with the old Magic Keyboard, but ‘may not precisely fit when closed’](https://9to5mac.com/2021/04/29/12-9-inch-ipad-pro-magic-keyboard-fit/) (9to5 Mac)
-  * ['A Perfect Positive Storm’: Bonkers Dollars for Big Tech](https://www.nytimes.com/2021/04/29/technology/big-tech-pandemic-economy.html) (New York Times)
+  * ['A Perfect Positive Storm’: Bonkers Dollars for Big Tech](https://www.nytimes.com/2021/04/29/technology/big-tech-pandemic-economy.html) (NYTimes)
 
 
 
@@ -1968,7 +1968,7 @@
   * [Facebook Revenue Grows 48% as Ad Prices Increase](https://www.theinformation.com/briefings/c85ea6) (The Information)
   * [Apple warns of supply shortages likely to impact iPad and Mac in Q3](https://9to5mac.com/2021/04/28/apple-supply-shortages-ipad-mac/) (9to5 Mac)
   * [WarnerMedia plans to charge $9.99 per month for ad-supported HBO Max](https://www.cnbc.com/2021/04/28/warnermedia-plans-to-charge-9point99-per-month-for-ad-supported-hbo-max.html) (CNBC)
-  * [Verizon Explores Sale of Media Assets, Including Parts of Yahoo and AOL](https://www.wsj.com/articles/verizon-explores-sale-of-media-assets-11619642003?mod=djemalertNEWS) (Wall Street Journal)
+  * [Verizon Explores Sale of Media Assets, Including Parts of Yahoo and AOL](https://www.wsj.com/articles/verizon-explores-sale-of-media-assets-11619642003?mod=djemalertNEWS) (WSJ)
   * [Amazon to spend $1B to boost pay for 500k operations workers by as much as $3 an hour](https://www.geekwire.com/2021/amazon-boost-pay-500k-operations-workers-much-3-hour-1b-investment/) (Geek Wire)
   * [Mighty wants to ‘make Chrome faster’ by streaming a browser from the cloud, starting on macOS](https://9to5google.com/2021/04/27/mighty-browser/) (9to5 Google)
   * [Verizon “leads” all US carriers in mmWave 5G availability at 0.8%](https://arstechnica.com/information-technology/2021/04/verizon-leads-all-us-carriers-in-mmwave-5g-availability-at-0-8/) (Ars Technica)
@@ -1988,23 +1988,23 @@
 
 **Tuesday, April 27 2021 - Tue. 04/27 – EU To Charge Apple This Week?**
 
-  * [EU to charge Apple with anti-competitive behaviour this week](https://www.ft.com/content/df07e3f2-2d6e-4ced-a819-779e743d85ff) (Financial Times)
+  * [EU to charge Apple with anti-competitive behaviour this week](https://www.ft.com/content/df07e3f2-2d6e-4ced-a819-779e743d85ff) (FT)
   * [Spotify launches podcast subscriptions, but you can’t subscribe in-app](https://www.theverge.com/2021/4/27/22404273/spotify-podcast-subscriptions-monetize-subscriber-shows?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Apple's follow-up to M1 chip goes into mass production for Mac](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-s-follow-up-to-M1-chip-goes-into-mass-production-for-Mac) (Nikkei Asia)
   * [Amazon’s new Fire HD 10 tablet has slimmer bezels and better specs](https://www.theverge.com/2021/4/27/22405230/amazon-fire-hd-10-2021-announced-kids-pro?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Lyft sells self-driving unit to Toyota’s Woven Planet for $550M](https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/) (Tech Crunch)
+  * [Lyft sells self-driving unit to Toyota’s Woven Planet for $550M](https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/) (TechCrunch)
   * [Ransomware gang threatens to expose police informants if ransom is not paid](https://therecord.media/ransomware-gang-threatens-to-expose-police-informants-if-ransom-is-not-paid/) (The Record)
 
 
 
 **Monday, April 26 2021 - Mon. 04/26 – Listen To The Podcast On Facebook, I Guess?**
 
-  * [Facebook introduces a new miniplayer that streams Spotify within the Facebook app](https://techcrunch.com/2021/04/26/facebook-introduces-a-new-miniplayer-that-streams-spotify-within-the-facebook-app/) (Tech Crunch)
+  * [Facebook introduces a new miniplayer that streams Spotify within the Facebook app](https://techcrunch.com/2021/04/26/facebook-introduces-a-new-miniplayer-that-streams-spotify-within-the-facebook-app/) (TechCrunch)
   * [Zoom launches Immersive View to unify participants in the same virtual room](https://venturebeat.com/2021/04/26/zoom-launches-immersive-view-to-unify-participants-in-the-same-virtual-room/) (Venture Beat)
   * [Roku says it may lose YouTube TV app after Google made anti-competitive demands](https://www.axios.com/roku-google-youtube-tv-dispute-525316c1-4d66-44e3-a96a-40db7b10e05b.html) (Axios)
-  * [OnlyFans feels the lockdown love as transactions hit £1.7bn](https://www.ft.com/content/6d4562f8-166f-4a89-a3cb-db97123a6cf0) (Financial Times)
-  * [German groups file Apple antitrust complaint as it makes privacy changes](https://www.ft.com/content/0a48d9aa-244b-4945-b2a0-01c68683544a) (Financial Times)
-  * [To Be Tracked or Not? Apple Is Now Giving Us the Choice.](https://www.nytimes.com/2021/04/26/technology/personaltech/apple-app-tracking-transparency.html) (New York Times)
+  * [OnlyFans feels the lockdown love as transactions hit £1.7bn](https://www.ft.com/content/6d4562f8-166f-4a89-a3cb-db97123a6cf0) (FT)
+  * [German groups file Apple antitrust complaint as it makes privacy changes](https://www.ft.com/content/0a48d9aa-244b-4945-b2a0-01c68683544a) (FT)
+  * [To Be Tracked or Not? Apple Is Now Giving Us the Choice.](https://www.nytimes.com/2021/04/26/technology/personaltech/apple-app-tracking-transparency.html) (NYTimes)
   * [Apple will spend $1 billion to open 3,000-employee campus in North Carolina](https://www.cnbc.com/2021/04/26/apple-announces-1-billion-north-carolina-campus.html) (CNBC)
   * [DoNotPay's new tool makes your photos undetectable to facial recognition software](https://www.inputmag.com/tech/photo-ninja-makes-photos-undetectable-to-facial-recognition-software) (Input)
 
@@ -2012,7 +2012,7 @@
 
 **Friday, April 23 2021 - Fri. 04/23 – Spotify Quick To Counter Apple’s Podcast Moves**
 
-  * [Apple, Spotify and the New Battle Over Who Wins Podcasting](https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS) (Wall Street Journal)
+  * [Apple, Spotify and the New Battle Over Who Wins Podcasting](https://www.wsj.com/articles/apple-spotify-and-the-new-battle-over-who-wins-podcasting-11619170206?mod=djemalertNEWS) (WSJ)
   * [Did a Human or a Computer Crash This Tesla?](https://nymag.com/intelligencer/2021/04/did-a-human-or-a-computer-crash-this-tesla.html) (Intelligencer)
   * [Snap reports accelerating revenue growth, strong user numbers for first quarter](https://www.cnbc.com/2021/04/22/snap-snap-earnings-q1-2021.html) (CNBC)
 
@@ -2020,7 +2020,7 @@
 
 **Thursday, April 22 2021 - Thu. 04/22 – Cloud Based Cellular Networking?**
 
-  * [US satellite company Dish taps Amazon for 5G launch](https://www.ft.com/content/e9e61099-a216-4b12-b054-24ac76745a73) (Financial Times)
+  * [US satellite company Dish taps Amazon for 5G launch](https://www.ft.com/content/e9e61099-a216-4b12-b054-24ac76745a73) (FT)
   * [Apple Plans Notifications, iPad Home Screen Upgrades for iOS 15](https://www.bloomberg.com/news/articles/2021-04-22/apple-plans-notifications-ipad-home-screen-upgrades-for-ios-15?sref=Szq5ylDR) (Bloomberg)
   * [Stolen MacBook Pro Schematics Confirm Apple's Plans to Add More Ports and Remove Touch Bar](https://www.macrumors.com/2021/04/21/macbook-pro-stolen-schematics-ports/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
   * [Software product planning platform Productboard raises $72M](https://venturebeat.com/2021/04/22/software-product-planning-platform-productboard-raises-72m/) (Venture Beat)
@@ -2030,8 +2030,8 @@
 
 **Wednesday, April 21 2021 - Wed. 04/21 – GDPR But For AI?**
 
-  * [Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal](https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520?mod=djemalertNEWS) (Wall Street Journal)
-  * [Instagram launches tools to filter out abusive DMs based on keywords and emojis, and to block people, even on new accounts](https://techcrunch.com/2021/04/21/instagram-launches-tools-to-filter-out-abusive-dms-based-on-keywords-and-emojis-and-to-block-people-even-on-new-accounts/) (Tech Crunch)
+  * [Artificial Intelligence, Facial Recognition Face Curbs in New EU Proposal](https://www.wsj.com/articles/artificial-intelligence-facial-recognition-face-curbs-in-new-eu-proposal-11619000520?mod=djemalertNEWS) (WSJ)
+  * [Instagram launches tools to filter out abusive DMs based on keywords and emojis, and to block people, even on new accounts](https://techcrunch.com/2021/04/21/instagram-launches-tools-to-filter-out-abusive-dms-based-on-keywords-and-emojis-and-to-block-people-even-on-new-accounts/) (TechCrunch)
   * [Apple announces AirTag accessories that cost more than the device](https://9to5mac.com/2021/04/20/apple-announces-airtag-accessories-that-cost-more-than-the-device/) (9 to 5 Mac)
   * [Ransomware gang tries to extort Apple hours ahead of Spring Loaded event](https://therecord.media/ransomware-gang-tries-to-extort-apple-hours-ahead-of-spring-loaded-event/) (The Record)
   * [Netflix falls after pandemic boom reverses to rare weakness](https://www.bloomberg.com/news/articles/2021-04-20/netflix-plunges-after-subscriber-miss-bleak-customer-outlook?sref=Szq5ylDR) (Bloomberg)
@@ -2053,7 +2053,7 @@
 **Monday, April 19 2021 - Mon. 04/19 – Facebook To Announce Going Big On Audio, Via Audio?**
 
   * [Facebook plans to go after Clubhouse — and podcasts — with a suite of new audio products](https://www.vox.com/recode/2021/4/18/22390742/facebook-podcasts-clubhouse-audio-launch-spotify-zuckerberg-apple?scrolla=5eb6d68b7fedc32c19ef33b4) (Vox)
-  * [Clubhouse closes an undisclosed $4B valuation Series C round, as tech giants’ clones circle](https://techcrunch.com/2021/04/19/clubhouse/) (Tech Crunch)
+  * [Clubhouse closes an undisclosed $4B valuation Series C round, as tech giants’ clones circle](https://techcrunch.com/2021/04/19/clubhouse/) (TechCrunch)
   * [UK invokes national security to investigate Nvidia's ARM deal](https://www.reuters.com/world/uk/uk-intervenes-nvidias-takeover-arm-national-security-grounds-2021-04-19/) (Reuters)
   * [Tencent's Ma dangles billions in aid as antitrust scrutiny grows](https://www.bloomberg.com/news/articles/2021-04-19/tencent-s-ma-dangles-billions-in-aid-as-antitrust-scrutiny-grows) (Bloomberg)
   * [Microsoft’s xCloud beta arrives on iOS and PC this week](https://www.theverge.com/2021/4/19/22391561/microsoft-xcloud-ios-pc-xbox-game-streaming-beta-features?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2064,8 +2064,8 @@
 **Friday, April 16 2021 - Fri. 04/16 – Chip Shortage To Continue; Sucks For Everyone, Basically**
 
   * [Intel, Nvidia, TSMC execs agree: Chip shortage could last into 2023](https://arstechnica.com/gadgets/2021/04/intel-nvidia-tsmc-execs-agree-chip-shortage-could-last-into-2023/) (Ars Technica)
-  * [Facebook faces ‘mass action’ lawsuit in Europe over 2019 breach](https://techcrunch.com/2021/04/16/facebook-faces-mass-action-lawsuit-in-europe-over-2019-breach/) (Tech Crunch)
-  * [Apple Music Reveals How Much It Pays When You Stream a Song](https://www.wsj.com/articles/apple-music-reveals-how-much-it-pays-when-you-stream-a-song-11618579800?mod=djemalertNEWS) (Wall Street Journal)
+  * [Facebook faces ‘mass action’ lawsuit in Europe over 2019 breach](https://techcrunch.com/2021/04/16/facebook-faces-mass-action-lawsuit-in-europe-over-2019-breach/) (TechCrunch)
+  * [Apple Music Reveals How Much It Pays When You Stream a Song](https://www.wsj.com/articles/apple-music-reveals-how-much-it-pays-when-you-stream-a-song-11618579800?mod=djemalertNEWS) (WSJ)
 
 
 
@@ -2113,7 +2113,7 @@
 
 **Friday, April 09 2021 - Fri. 04/09 – Amazon Wins The Union Battle**
 
-  * [Partial tally in Amazon union drive favors ‘No’ votes](https://www.nytimes.com/2021/04/08/technology/amazon-union-vote.html)
+  * [Partial tally in Amazon union drive favors ‘No’ votes](https://www.nytimes.com/2021/04/08/technology/amazon-union-vote.html) (NYTimes)
   * [Epic v. Apple discovery details ‘Project Liberty’ scheme to skirt App Store with Fortnite](https://9to5mac.com/2021/04/08/epic-games-apple-discovery-details-project-liberty-scheme-to-skirt-app-store-with-fortnite/) (9to5Mac)
   * [Apple Admits Purposely Keeping iMessage Off Android Helps Lock Users In](https://www.droid-life.com/2021/04/08/apple-android-imessage-lock-in/) (DroidLife)
   * [Hackers scraped data from 500 million LinkedIn users — about two-thirds of the platform's userbase — and have posted it for sale online](https://www.businessinsider.com/linkedin-data-scraped-500-million-users-for-sale-online-2021-4?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
@@ -2166,7 +2166,7 @@
   * [LG Electronics to end loss-making smartphone business](https://asia.nikkei.com/Business/Technology/LG-Electronics-to-end-loss-making-smartphone-business) (NikkeiAsia)
   * [Amazon Illegally Fired Activist Workers, Labor Board Finds](https://www.nytimes.com/2021/04/05/technology/amazon-nlrb-activist-workers.html) (NYTimes)
   * [533 million Facebook users' phone numbers and personal data have been leaked online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
-  * [Is Apple's Privacy Push Facebook's Existential Threat‪?](https://podcasts.apple.com/us/podcast/is-apples-privacy-push-facebooks-existential-threat/id1528594034?i=1000515797139)
+  * [Is Apple's Privacy Push Facebook's Existential Threat‪?](https://podcasts.apple.com/us/podcast/is-apples-privacy-push-facebooks-existential-threat/id1528594034?i=1000515797139) (Apple Podcasts)
   * [Sideloading Apps Would 'Break' the Security and Privacy of iPhone, Says Tim Cook](https://www.macrumors.com/2021/04/05/tim-cook-sideloading-apps-would-break-the-iphone/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Tim Cook says Apple is committed to AR, TV+ and privacy but not to Apple Car](https://www.cultofmac.com/738944/tim-cook-apple-committed-ar-tv-privacy-car/) (Cult of Mac)
 
@@ -2198,7 +2198,7 @@
   * [Facebook Adds New 'Most Recent' Timeline to Switch to Chronological Posts](https://www.macrumors.com/2021/03/31/facebook-most-recent-timeline/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [LinkedIn confirms it’s working on a Clubhouse rival, too](https://techcrunch.com/2021/03/30/linkedin-confirms-its-working-on-a-clubhouse-rival-too/) (TechCrunch)
   * [Apple invests $50M into music distributor UnitedMasters alongside A16z and Alphabet](https://techcrunch.com/2021/03/31/apple-invests-50m-into-music-distributor-unitedmasters-alongside-a16z-and-alphabet/) (TechCrunch)
-  * [Android sends 20x more data to Google than iOS sends to Apple, study says](https://arstechnica.com/gadgets/2021/03/android-sends-20x-more-data-to-google-than-ios-sends-to-apple-study-says/) (ArsTechnica)
+  * [Android sends 20x more data to Google than iOS sends to Apple, study says](https://arstechnica.com/gadgets/2021/03/android-sends-20x-more-data-to-google-than-ios-sends-to-apple-study-says/) (Ars Technica)
   * [Deliveroo drags on the LSE; closes down 44% on debut](https://techcrunch.com/2021/03/31/deliveroo-prices-its-shares-on-the-lse-at-3-90-at-the-lower-end-of-the-range-with-a-market-cap-of-7-59b/) (TechCrunch)
   * [Maker of NBA Top Shot Scores $305 Million in New Funding](https://www.wsj.com/articles/maker-of-nba-top-shot-scores-305-million-in-new-funding-11617109275?mod=djemalertNEWS) (WSJ)
   * [ConsenSys Lines Up Damien Hirst to Launch New NFT Art Protocol](https://decrypt.co/63314/consensys-lines-up-damien-hirst-to-launch-new-nft-art-protocol) (Decrypt)
@@ -2225,7 +2225,7 @@
   * [New York launches nation's first 'vaccine passports.' Others are working on similar ideas, but many details must be worked out.](https://www.usatoday.com/story/news/health/2021/03/26/covid-vaccine-passports-new-york-first-vaccination-proof-system/6976009002/?scrolla=5eb6d68b7fedc32c19ef33b4) (USAToday)
   * [Exclusive: Visa moves to allow payment settlements using cryptocurrency](https://www.reuters.com/article/us-crypto-currency-visa-exclusive-idUSKBN2BL0X9) (Reuters)
   * [PHP's Git server hacked to add backdoors to PHP source code](https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/) (BleepingComputer)
-  * [Boston Dynamics unveils Stretch: a new robot designed to move boxes in warehouses (The Verge)](https://www.theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4)
+  * [Boston Dynamics unveils Stretch: a new robot designed to move boxes in warehouses (The Verge)](https://www.theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon keeps trying to troll US Congress members in perplexing new PR strategy](https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Amazon Union Vote Ends as Both Sides Brace for Contentious Count](https://www.bloomberg.com/news/articles/2021-03-29/amazon-union-vote-ends-as-both-sides-brace-for-contentious-count?sref=sZAFdZwV) (Bloomberg)
   * [Amazon started a Twitter war because Jeff Bezos was pissed](https://www.vox.com/recode/2021/3/28/22354604/amazon-twitter-bernie-sanders-jeff-bezos-union-alabama-elizabeth-warren?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
@@ -2286,7 +2286,7 @@
   * [Spark Capital decides to “sever all ties” with David Dobrik’s Dispo app weeks after leading deal](https://techcrunch.com/2021/03/21/spark-capital-decides-to-sever-all-ties-with-david-dobriks-dispo-app-weeks-after-leading-investment/) (TechCrunch)
   * [Zoom introduces new SDK to help developers tap into video services](https://techcrunch.com/2021/03/22/zoom-introduces-new-sdk-to-help-developers-tap-into-video-services/) (TechCrunch)
   * [Microsoft to start reopening headquarters on March 29th, with hybrid workplace focus](https://www.theverge.com/2021/3/22/22344273/microsoft-redmond-headquarters-open-hybrid-workplace?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Apple’s HomePod Mini Has a Secret Sensor Waiting to Be Switched On](https://www.bloomberg.com/news/articles/2021-03-22/apple-homepod-mini-secret-sensor-for-smart-home-thermostats?sref=sZAFdZwV) (BLoomberg)
+  * [Apple’s HomePod Mini Has a Secret Sensor Waiting to Be Switched On](https://www.bloomberg.com/news/articles/2021-03-22/apple-homepod-mini-secret-sensor-for-smart-home-thermostats?sref=sZAFdZwV) (Bloomberg)
   * [Inside the Democrats' strategy to bombard Big Tech](https://www.axios.com/tech-antitrust-facebook-google-amazon-apple-275f122d-b3f5-49cb-b223-f77c95a49252.html) (Axios)
   * [On-demand logistics and fulfillment startup Flowspace raises $31M](https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/) (VentureBeat)
 
@@ -2342,7 +2342,7 @@
 
 **Monday, March 15 2021 - Mon. 03/15 – Stripe The Most Successful (Private) SV Startup Ever?**
 
-  * [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f) (Financial Times)
+  * [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f) (FT)
   * [Airtable Tops $5.7 Billion Valuation On Growing Enterprise Sales And A Soaring Cloud Market](https://www.forbes.com/sites/stevenbertoni/2021/03/15/airtable-tops-57-billion-valuation-on-growing-enterprise-sales-and-a-soaring-cloud-market/?sh=3a445d60249a) (Forbes)
   * [Facebook aims to get more people vaccinated against COVID-19](https://www.cnet.com/news/facebook-aims-to-get-more-people-vaccinated-against-covid-19/) (CNET)
   * [Massive Facebook study on users’ doubt in vaccines finds a small group appears to play a big role in pushing the skepticism](https://www.washingtonpost.com/technology/2021/03/14/facebook-vaccine-hesistancy-qanon/) (Washington Post)
@@ -2391,7 +2391,7 @@
 
 **Tuesday, March 09 2021 - Tue. 03/09 – An FTC Commissioner To Make Silicon Valley Cower?**
 
-  * [POLITICO Playbook: Scoop: Biden taps another Big Tech trustbuster](https://www.politico.com/newsletters/playbook/2021/03/09/scoop-biden-taps-another-big-tech-trustbuster-492042) (Politico/Playbook)
+  * [POLITICO Playbook: Scoop: Biden taps another Big Tech trustbuster](https://www.politico.com/newsletters/playbook/2021/03/09/scoop-biden-taps-another-big-tech-trustbuster-492042) (Politico)
   * [Amazon’s Antitrust Antagonist Has a Breakthrough Idea](https://www.nytimes.com/2018/09/07/technology/monopoly-antitrust-lina-khan-amazon.html) (NYTimes)
   * [Attacks on SolarWinds Servers Also Linked To Chinese Threat Actor](https://therecord.media/attacks-on-solarwinds-servers-also-linked-to-chinese-threat-actor/) (The Record)
   * [Microsoft Surface Laptop 4 will reportedly include both AMD and Intel configurations](https://www.theverge.com/2021/3/8/22319854/microsoft-surface-laptop-4-specs-features-release-price-leak?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -2463,10 +2463,10 @@
   * [Instagram launches ‘Live Rooms’ for live broadcasts with up to four creators](https://techcrunch.com/2021/03/01/instagram-launches-live-rooms-for-live-broadcasts-with-up-to-four-creators/) (TechCrunch)
   * [Verizon support says you should turn off 5G to save your phone’s battery](https://www.theverge.com/2021/2/28/22305899/verizon-support-turn-off-5g-save-phone-battery?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Lime says it will spend $50 million on a huge e-bike expansion](https://www.theverge.com/2021/3/1/22303364/lime-ebike-expansion-new-cities-50-million-investment?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-  * [Skydio valuation raises American hopes in drone war with China](https://www.ft.com/content/113c6e36-c91d-49d4-8a70-c4ab8da9bf09?list=intlhomepage) (Financial Times)
+  * [Skydio valuation raises American hopes in drone war with China](https://www.ft.com/content/113c6e36-c91d-49d4-8a70-c4ab8da9bf09?list=intlhomepage) (FT)
   * [Klarna Valued at $31 Billion After U.S. Growth Stoked Investors](https://www.bloomberg.com/news/articles/2021-03-01/klarna-valued-at-31-billion-after-u-s-growth-stoked-investors?sref=sZAFdZwV) (Bloomberg)
   * [As BNPL startups raise, a look at Klarna, Affirm and Afterpay earnings](https://techcrunch.com/2021/02/26/as-bnpl-startups-raise-a-look-at-klarna-affirm-and-afterpay-earnings/) (TechCrunch Extra)
-  * [NFTs and a Thousand True Fans](https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/) (Chris Dixon/Andreessen Horowitz)
+  * [NFTs and a Thousand True Fans](https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/) (Chris Dixon)
 
 
 
@@ -2511,7 +2511,7 @@
   * [PlayStation CEO says PS5 will get its own VR headset, explains console supply chain shortfall](https://www.washingtonpost.com/video-games/2021/02/23/ps5-vr/) (Washington Post)
   * [Huawei’s Mate X2 foldable adopts Samsung’s dual-screen design](https://www.theverge.com/2021/2/22/22294983/huawei-mate-x2-fold-specs-price) (The Verge)
   * [Kuo: New MacBook Pro Models With HDMI Port and SD Card Reader to Launch Later This Year](https://www.macrumors.com/2021/02/22/2021-macbook-pro-sd-hdmi-port-kuo/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
-  * [New malware found on 30,000 Macs has security pros stumped](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/) (ArsTechnica)
+  * [New malware found on 30,000 Macs has security pros stumped](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/) (Ars Technica)
   * [Inside 'NBA Top Shot,' the Digital Highlights Marketplace Worth Millions](https://bleacherreport.com/articles/2930587-inside-nba-top-shot-the-digital-highlights-marketplace-worth-millions) (Bleacher Report)
 
 
@@ -2602,7 +2602,7 @@
 **Thursday, February 11 2021 - Facebook Wants To Copy Clubhouse Too.**
 
   * [Facebook Is Said to Be Building a Product to Compete With Clubhouse](https://www.nytimes.com/2021/02/10/technology/facebook-building-product-clubhouse.html) (NYTimes)
-  * [Microsoft approached Pinterest about a takeover](https://www.ft.com/content/f88b8474-e791-4efb-a9f6-54c8222680fe) (Financial Times)
+  * [Microsoft approached Pinterest about a takeover](https://www.ft.com/content/f88b8474-e791-4efb-a9f6-54c8222680fe) (FT)
   * [iOS 14.5 Beta Directs 'Safe Browsing' Traffic in Safari Through Apple Server Instead of Google to Protect Personal User Data](https://www.macrumors.com/2021/02/11/ios-14-5-beta-safe-browsing-safari-apple-google/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
   * [Bumble makes Wall Street debut in a milestone moment for female founders](https://www.cnn.com/2021/02/11/tech/bumble-wall-street-debut/index.html) (CNN Business)
   * [NBCUniversal’s Streaming Strategy Raises Prospect of WarnerMedia Merger](https://www.theinformation.com/articles/nbcuniversals-streaming-strategy-raise-prospect-of-warnermedia-merger) (The Information)
@@ -2701,11 +2701,11 @@
   * [Apple’s iCloud Passwords extension for Chrome on Windows is now available](https://9to5google.com/2021/01/31/apple-icloud-passwords-chrome-windows/) (9to5Google)
   * [Microsoft CEO Satya Nadella: There is ‘a big crisis right now’ for cybersecurity](https://finance.yahoo.com/news/microsoft-ceo-satya-nadella-there-is-a-big-crisis-right-now-for-cybersecurity-192533356.html) (Yahoo Finance)
   * [Facebook Knew Calls for Violence Plagued ‘Groups,’ Now Plans Overhaul](https://www.wsj.com/articles/facebook-knew-calls-for-violence-plagued-groups-now-plans-overhaul-11612131374?mod=djemalertNEWS) (WSJ)
-  * [US police and fire departments partnering with Amazon’s Ring passes 2,000](https://www.ft.com/content/61968b3b-c093-4c4a-a7b7-29b565bc0bc0) (Financial Times)
+  * [US police and fire departments partnering with Amazon’s Ring passes 2,000](https://www.ft.com/content/61968b3b-c093-4c4a-a7b7-29b565bc0bc0) (FT)
   * [New Linux SUDO flaw lets local users gain root privileges](https://www.bleepingcomputer.com/news/security/new-linux-sudo-flaw-lets-local-users-gain-root-privileges/) (Bleeping Computer)
   * [Augmented Reality Gets Pandemic Boost](https://www.wsj.com/articles/augmented-reality-gets-pandemic-boost-11611866795?mod=djemalertNEWS) (WSJ)
   * [Elon Musk busts Clubhouse limit](https://techcrunch.com/2021/01/31/elon-musk-goes-live-on-clubhouse-but-with-the-room-full-fans-stream-audio-on-youtube/) (TechCrunch)
-  * [Recording of Musk on Clubhouse](https://www.youtube.com/watch?v=w2MQfb40LLM&feature=youtu.be) (Final Stand/YouTube)
+  * [Recording of Musk on Clubhouse](https://www.youtube.com/watch?v=w2MQfb40LLM&feature=youtu.be) (YouTube)
 
 
 
@@ -2737,7 +2737,7 @@
 **Friday, January 29 2021 - Fri. 01/29 – Robinhood Is Now The Crazy Stock Story**
 
   * [Robinhood, in Need of Cash, Raises $1 Billion From Its Investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html) (NYTimes)
-  * [Facebook is said to be planning newsletter tools to court independent writers](https://www.nytimes.com/live/2021/01/28/business/us-economy-coronavirus#facebook-is-said-to-be-planning-newsletter-tools-to-court-independent-writers)
+  * [Facebook is said to be planning newsletter tools to court independent writers](https://www.nytimes.com/live/2021/01/28/business/us-economy-coronavirus#facebook-is-said-to-be-planning-newsletter-tools-to-court-independent-writers) (NYTimes)
   * [Hyundai wrestles with the risks of embracing Apple](https://www.reuters.com/article/idUSKBN29Y0FU) (Reuters)
   * [SEC scrutiny delays Roblox stock market listing](https://www.cnbc.com/2021/01/29/sec-scrutiny-delays-roblox-stock-market-listing.html) (CNBC)
 
@@ -2746,7 +2746,7 @@
 **Thursday, January 28 2021 - Thu. 01/28 – Robinhood Freezes Stonks!**
 
   * [How WallStreetBets Pushed GameStop Shares to the Moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon?sref=sZAFdZwV) (Bloomberg)
-  * [WallStreetBets Founder Reckons With Legacy Amid Stock](https://www.wsj.com/articles/wallstreetbets-founder-reckons-with-legacy-amid-memes-loss-porn-and-online-threats-11611829800)
+  * [WallStreetBets Founder Reckons With Legacy Amid Stock](https://www.wsj.com/articles/wallstreetbets-founder-reckons-with-legacy-amid-memes-loss-porn-and-online-threats-11611829800) (WSJ)
   * ['Smack It Like E. Honda': Buying NFTs for Pleasure and Profit](https://podcasts.apple.com/us/podcast/smack-it-like-e-honda-buying-nfts-for-pleasure-and-profit/id1332061471?i=1000506825420) (CoinTalk)
   * [Mark Zuckerberg says Apple is now one of Facebook’s biggest competitors](https://www.cnbc.com/2021/01/27/facebook-ceo-zuckerberg-says-it.html) (CNBC)
   * [Facebook Preps Antitrust Lawsuit Against Apple](https://www.theinformation.com/articles/facebook-looks-to-take-its-fight-with-apple-to-court) (The Information)
@@ -2757,7 +2757,7 @@
 
 **Wednesday, January 27 2021 - Wed. 01/27 – Introducing The Ride Home+ Premium Feed**
 
-  * [Microsoft profits jump 33 percent as pandemic continues shift to cloud computing](https://www.nytimes.com/2021/01/26/business/microsoft-earnings.html)
+  * [Microsoft profits jump 33 percent as pandemic continues shift to cloud computing](https://www.nytimes.com/2021/01/26/business/microsoft-earnings.html) (NYTimes)
   * [AT&T Q4: HBO Max Activations Double to 17.2 Million, Warner Bros. Revenue Declines 21%](https://variety.com/2021/tv/news/att-q4-hbo-max-activations-double-warner-bros-impairment-1234893211/) (Variety)
   * [Apple fixes another three iOS zero-days exploited in the wild](https://www.zdnet.com/article/apple-fixes-another-three-ios-zero-days-exploited-in-the-wild/) (ZDNet)
   * [Apple just had its best quarter in India](https://techcrunch.com/2021/01/26/apple-india-q4-2020/) (TechCrunch)
@@ -2831,7 +2831,7 @@
   * [Netflix shares rise on strong subscriber growth, considers share buybacks](https://www.cnbc.com/2021/01/19/netflix-nflx-q4-2020-earnings.html) (CNBC)
   * [Netflix’s ‘Shuffle Play’ feature will roll out to all users worldwide this year](https://techcrunch.com/2021/01/19/netflixs-shuffle-play-feature-will-roll-out-to-all-users-worldwide-this-year/) (TechCrunch)
   * [Intel Problems](https://stratechery.com/2021/intel-problems/) (Stratechery)
-  * [Twitter Thread on the Intel stuff](https://twitter.com/cynicalsecurity/status/1351561130917945344)
+  * [Twitter Thread on the Intel stuff](https://twitter.com/cynicalsecurity/status/1351561130917945344) (Twitter)
 
 
 
@@ -2868,7 +2868,7 @@
   * [Online clothing reseller Poshmark closes up more than 140% on first day of trading](https://www.cnbc.com/2021/01/14/poshmark-ipo-posh-starts-trading-on-nasdaq.html) (CNBC)
   * [Amazon opens Alexa AI tech for the first time so car makers can build custom assistants](https://www.theverge.com/2021/1/15/22231336/amazon-alexa-auto-ai-custom-digital-assistants-car-makers?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
   * [Galaxy Book Flex2: Samsung’s first 5G laptop has an 11th-gen Intel Processor](https://www.digitaltrends.com/computing/samsung-galaxy-book-flex2-5g-news/) (Digital Trends)
-  * [Shares in China’s Xiaomi tumble after US investment ban](https://www.ft.com/content/8807f7dd-bf76-400c-9bbf-9f713ce5ba57) (Financial Times)
+  * [Shares in China’s Xiaomi tumble after US investment ban](https://www.ft.com/content/8807f7dd-bf76-400c-9bbf-9f713ce5ba57) (FT)
 
 
 
@@ -2925,7 +2925,7 @@
 **Friday, January 08 2021 - Fri. 01/08 – An Apple/Hyundai Car?**
 
   * [Hyundai Motor says it’s in early talks with Apple to develop a car, sends shares soaring 19%](https://www.cnbc.com/2021/01/08/hyundai-motor-says-it-is-in-early-talks-with-apple.html) (CNBC)
-  * [SolarWinds hires former Trump cyber security chief Chris Krebs](https://www.ft.com/content/df641e33-9150-4846-b4f7-db4e3175d290) (Financial Times)
+  * [SolarWinds hires former Trump cyber security chief Chris Krebs](https://www.ft.com/content/df641e33-9150-4846-b4f7-db4e3175d290) (FT)
   * [Encrypted Messaging App Signal Sees Surge in Popularity Following WhatsApp Privacy Policy Update](https://www.macrumors.com/2021/01/08/messaging-app-signal-sees-surge-signups/) (MacRumors)
   * [Roku TV Was the Top Selling Smart TV OS in 2020](https://thestreamable.com/news/roku-tv-was-the-top-selling-smart-tv-os-in-2020) (The Streamable)
   * [A New Service Seeks to Streamline Your Streaming](https://www.wsj.com/articles/a-new-service-seeks-to-streamline-your-streaming-11610024400?mod=rss_Technology) (WSJ)
@@ -2949,7 +2949,7 @@
   * [This avocado armchair could be the future of AI](https://www.technologyreview.com/2021/01/05/1015754/avocado-armchair-future-ai-openai-deep-learning-nlp-gpt3-computer-vision-common-sense/) (MIT Technology Review)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/) (OpenAI Blog)
   * [Trump bars U.S. transactions with eight Chinese apps including Alipay](https://www.reuters.com/article/us-usa-china-tech-exclusive-idUSKBN29A2PA) (Reuters)
-  * [WhatsApp updates its Terms and Privacy Policy to mandate data-sharing with Facebook](https://www.xda-developers.com/whatsapp-updates-terms-privacy-policy-mandate-data-sharing-facebook/) (XDA-Developers)
+  * [WhatsApp updates its Terms and Privacy Policy to mandate data-sharing with Facebook](https://www.xda-developers.com/whatsapp-updates-terms-privacy-policy-mandate-data-sharing-facebook/) (XDA)
   * [CIRP: iPhone 12 sales strong at launch, but iPhone 12 mini ‘likely disappointed Apple’](https://9to5mac.com/2021/01/05/iphone-12-mini-sales-disappointed/) (9to5Mac)
   * [Players in Eve Online broke a world record — and then the game itself](https://www.polygon.com/2021/1/5/22214982/eve-online-world-record-massacre-m2-xfe-ghost-titans?utm_campaign=polygon&utm_content=chorus&utm_medium=social&utm_source=twitter) (Polygon)
   * [Cameo launches hiring spree following banner year](https://www.axios.com/cameo-executives-hired-26a6673d-4513-4788-aa59-5b1ecdfa11ca.html) (Axios)

@@ -10,7 +10,7 @@
   * [The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work](https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html) (NYTimes)
   * [Amazon Prime Video will start showing ads on January 29th](https://www.theverge.com/2023/12/26/24015595/amazon-prime-video-ads-coming-january-29) (The Verge)
   * [Apple’s iPhone Design Chief Enlisted by Jony Ive, Sam Altman to Work on AI Devices](https://www.bloomberg.com/news/articles/2023-12-26/apple-iphone-design-head-tang-tan-to-work-with-jony-ive-sam-altman-on-ai-tech?sref=Szq5ylDR) (Bloomberg)
-  * [Big Tech outspends venture capital firms in AI investment frenzy](https://www.ft.com/content/c6b47d24-b435-4f41-b197-2d826cce9532) (Financial Times)
+  * [Big Tech outspends venture capital firms in AI investment frenzy](https://www.ft.com/content/c6b47d24-b435-4f41-b197-2d826cce9532) (FT)
   * [Anthropic Projects At Least $850 Million in Annualized Revenue Rate Next Year](https://www.theinformation.com/articles/anthropic-projects-at-least-850-million-in-annualized-revenue-rate-next-year?rc=64g9cw) (The Information)
   * [Microsoft’s game changer feature reinstalls Windows 11 directly via Windows Update](https://www.windowslatest.com/2023/12/26/microsofts-game-changer-feature-reinstalls-windows-11-directly-via-windows-update/) (Windows Latest)
   * [GM stops Chevy Blazer EV sales after early software problems](https://techcrunch.com/2023/12/23/gm-chevy-blazer-ev-stop-sale/) (TechCrunch)
@@ -25,8 +25,8 @@
   * [OpenAI Is in Talks to Raise New Funding at Valuation of $100 Billion or More](https://www.bloomberg.com/news/articles/2023-12-22/openai-in-talks-to-raise-new-funding-at-100-billion-valuation?sref=Szq5ylDR) (Bloomberg)
   * [Ubisoft says it's investigating reports of a new security breach](https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/) (BleepingComputer)
   * [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/) (BleepingComputer)
-  * [Puzzle game ‘Royal Match’ dethrones ‘Candy Crush’ from top of app store](https://www.ft.com/content/1bb1ed54-821e-49bf-b12d-353b98fa9912) (Financial Times)
-  * [Apple Watch battle heralds further patent wrangles](https://www.ft.com/content/7fe859fe-8449-41fe-a4a4-678940d46386) (Financial Times)
+  * [Puzzle game ‘Royal Match’ dethrones ‘Candy Crush’ from top of app store](https://www.ft.com/content/1bb1ed54-821e-49bf-b12d-353b98fa9912) (FT)
+  * [Apple Watch battle heralds further patent wrangles](https://www.ft.com/content/7fe859fe-8449-41fe-a4a4-678940d46386) (FT)
 
 
 
@@ -56,7 +56,7 @@
   * [Rite Aid Banned From AI Facial Recognition by FTC After Misuse](https://www.bloomberg.com/news/articles/2023-12-19/rite-aid-banned-from-ai-facial-recognition-by-ftc-after-misuse?sref=Szq5ylDR) (Bloomberg)
   * [PlayStation sales and blockbuster games propel console market back to growth](https://www.ft.com/content/3b89e9f7-e3cf-4e60-bfa4-987af24efa75) (FT)
   * [ByteDance’s Sales Break $110 Billion to Pass Tencent This Year](https://www.bloomberg.com/news/articles/2023-12-20/tiktok-owner-bytedance-s-revenue-set-to-surpass-china-s-tencent-s-this-year?sref=Szq5ylDR) (ByteDance)
-  * [SSH protects the world’s most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/) (ArsTechnica)
+  * [SSH protects the world’s most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/) (Ars Technica)
   * [Microsoft Copilot gets a music creation feature via Suno integration](https://techcrunch.com/2023/12/19/microsoft-copilot-gets-a-music-creation-feature-via-suno-integration/) (TechCrunch)
   * [Scooter Company Bird Global Files Bankruptcy to Sell Itself](https://www.bloomberg.com/news/articles/2023-12-20/scooter-company-bird-global-files-for-chapter-11-bankruptcy?sref=Szq5ylDR) (Bloomberg)
   * [What Do AI Companies Want With the Media?](https://nymag.com/intelligencer/2023/12/what-do-ai-companies-want-with-the-media.html) (NYMag)
@@ -179,7 +179,7 @@
   * [Instagram and Facebook Messenger chats are being disconnected this month](https://9to5google.com/2023/12/04/instagram-facebook-messenger-chats-disconnected/) (9to5Google)
   * [Meta, IBM Create Industrywide AI Alliance to Share Technology](https://www.bloomberg.com/news/articles/2023-12-05/meta-ibm-create-industrywide-ai-alliance-to-share-technology?sref=Szq5ylDR) (Bloomberg)
   * [Amazon Fails To Renew Live UK Premier League Rights As Sky & TNT Maintain Grip On Games](https://deadline.com/2023/12/premier-league-tv-rights-amazon-sky-tnt-1235650921/) (Deadline)
-  * [Gmail’s AI-powered spam detection is its biggest security upgrade in years](https://arstechnica.com/gadgets/2023/12/gmails-ai-powered-spam-detection-is-its-biggest-security-upgrade-in-years/) (ArsTechnica)
+  * [Gmail’s AI-powered spam detection is its biggest security upgrade in years](https://arstechnica.com/gadgets/2023/12/gmails-ai-powered-spam-detection-is-its-biggest-security-upgrade-in-years/) (Ars Technica)
   * [ChatGPT will no longer comply if you ask it to repeat a word 'forever'— after a recent prompt revealed training data and personal info](https://www.businessinsider.com/chatgpt-ai-refuse-to-respond-prompt-asking-repeat-word-forever-2023-12) (Business Insider)
   * [‘Grand Theft Auto VI’ Coming in 2025, Rockstar Says After Trailer Leak](https://www.bloomberg.com/news/articles/2023-12-04/gta-6-rockstar-releases-new-grand-theft-auto-vi-full-trailer?sref=Szq5ylDR) (Bloomberg)
 
@@ -197,7 +197,7 @@
 
 **Saturday, December 02 2023 - (Bonus) The Sam Altman Saga Timeline With Alex Konrad Of Forbes**
 
-  * [**_A Secretive $10 Billion Firm Backed By WhatsApp Billionaire Jan Koum Is Quietly Building A Startup Portfolio_**](https://www.forbes.com/sites/alexkonrad/2023/11/26/secretive-firm-backed-by-whatsapp-billionaire-jan-koum-has-10-billion/?sh=1afe778629a2)
+  * [**_A Secretive $10 Billion Firm Backed By WhatsApp Billionaire Jan Koum Is Quietly Building A Startup Portfolio_**](https://www.forbes.com/sites/alexkonrad/2023/11/26/secretive-firm-backed-by-whatsapp-billionaire-jan-koum-has-10-billion/?sh=1afe778629a2) (Forbes)
 
 
 
@@ -242,7 +242,7 @@
   * [US Thanksgiving weekend sales hit record on big discounts, online boost](https://www.reuters.com/business/retail-consumer/us-cyber-monday-sales-hit-record-124-billion-big-discounts-report-2023-11-28/) (Reuters)
   * [NameDrop is safe. The fearmongering about it is not.](https://www.washingtonpost.com/technology/2023/11/27/namedrop-iphone-ios17-safety/) (Washington Post)
   * [Google investigating missing files on Drive, caused by desktop app](https://9to5google.com/2023/11/27/google-drive-missing-file-desktop-app-sync/) (9to5Google)
-  * [OpenAI Is Still an $86 Billion Nonprofit](https://www.bloomberg.com/opinion/articles/2023-11-27/openai-is-still-an-86-billion-nonprofit?sref=Szq5ylDR) (Matt Levine/Bloomberg)
+  * [OpenAI Is Still an $86 Billion Nonprofit](https://www.bloomberg.com/opinion/articles/2023-11-27/openai-is-still-an-86-billion-nonprofit?sref=Szq5ylDR) (Bloomberg)
   * [Ikea debuts a trio of affordable smart home sensors](https://www.theverge.com/2023/11/28/23977693/ikea-sensors-door-window-water-motion-price-date-specs) (The Verge)
 
 
@@ -262,7 +262,7 @@
 
   * [Sam Altman is still trying to return as OpenAI CEO](https://www.theverge.com/2023/11/20/23969586/sam-altman-plotting-return-open-ai-microsoft) (The Verge)
   * [OpenAI’s Board Approached Anthropic About Merger](https://www.theinformation.com/articles/openai-approached-anthropic-about-merger?rc=64g9cw) (The Information)
-  * [@eastdakota's Tweet Thread on Microsoft and OpenAI](https://twitter.com/eastdakota/status/1726735785188073726)
+  * [@eastdakota's Tweet Thread on Microsoft and OpenAI](https://twitter.com/eastdakota/status/1726735785188073726) (Twitter)
   * [Elon Musk Sues Media Matters for ‘Knowingly and Maliciously’ Misrepresenting Amount of Antisemitic Content on X](https://www.thewrap.com/elon-musk-sues-media-matters-x-twitter/) (TheWrap)
   * [YouTube is reportedly slowing down videos for Firefox users (Update: Statement)](https://www.androidauthority.com/youtube-reportedly-slowing-down-videos-firefox-3387206/) (AndroidAuthority)
 
@@ -281,7 +281,7 @@
 
   * [Apple announces that RCS support is coming to iPhone next year](https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/) (9to5Mac)
   * [What color bubbles will RCS messages be? Apple confirms the answer](https://9to5mac.com/2023/11/16/apple-confirms-rcs-messages-will-have-green-bubbles/) (9to5Mac)
-  * [IBM pulls adverts from X after report finding they ran next to Nazi content](https://www.ft.com/content/647b4c4d-f4d5-46cd-bc26-8c943b6995e7) (Financial Times)
+  * [IBM pulls adverts from X after report finding they ran next to Nazi content](https://www.ft.com/content/647b4c4d-f4d5-46cd-bc26-8c943b6995e7) (FT)
   * [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39?mod=followamazon) (WSJ)
   * [A Quibi-like app called ReelShort hit record downloads and revenue this month](https://techcrunch.com/2023/11/16/a-quibi-like-app-called-reelshort-hit-record-downloads-and-revenue-this-month/) (TechCrunch)
   * [2023's Apparent Biggest Mobile Game Launch Is Not What You Expect](https://www.gamespot.com/articles/2023s-apparent-biggest-mobile-game-launch-is-not-what-you-expect/1100-6519222/) (GameSpot)
@@ -302,10 +302,10 @@
 **Wednesday, November 15 2023 - Wed. 11/15 – Bridging The Great Blue Bubble Divide**
 
   * [Coming soon: A fix for the Android green-bubble problem](https://www.washingtonpost.com/technology/2023/11/14/imessage-on-android-nothing-sunbird/) (Washington Post)
-  * [Intel fixes high-severity CPU bug that causes “very strange behavior”](https://arstechnica.com/security/2023/11/intel-fixes-high-severity-cpu-bug-that-causes-very-strange-behavior/) (ArsTechnica)
+  * [Intel fixes high-severity CPU bug that causes “very strange behavior”](https://arstechnica.com/security/2023/11/intel-fixes-high-severity-cpu-bug-that-causes-very-strange-behavior/) (Ars Technica)
   * [OpenAI Pauses New ChatGPT Plus Subscriptions Due To Surge In Demand](https://www.searchenginejournal.com/openai-pauses-new-chatgpt-plus-subscriptions-due-to-surge-in-demand/501360/) (Search Engine Journal)
   * [Apple extends free period for iPhone 14 satellite features](https://9to5mac.com/2023/11/15/apple-extends-free-period-for-iphone-14-satellite-features/) (9to5Mac)
-  * [AI outperforms conventional weather forecasting methods for first time](https://www.ft.com/content/ca5d655f-d684-4dec-8daa-1c58b0674be1) (Financial Times)
+  * [AI outperforms conventional weather forecasting methods for first time](https://www.ft.com/content/ca5d655f-d684-4dec-8daa-1c58b0674be1) (FT)
   * [Opal’s second camera is the Tadpole, a tiny webcam for laptops](https://www.theverge.com/23959171/opal-tadpole-webcam-laptops) (The Verge)
 
 
@@ -324,7 +324,7 @@
 
 **Monday, November 13 2023 - (Portfolio Profile) Automated Data (Corrected)**
 
-  * [OpenAI chief seeks new Microsoft funds to build ‘superintelligence’](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded) (Financial Times)
+  * [OpenAI chief seeks new Microsoft funds to build ‘superintelligence’](https://www.ft.com/content/dd9ba2f6-f509-42f0-8e97-4271c7b84ded) (FT)
   * [Exclusive: Google in talks to invest in AI startup Character.AI](https://www.reuters.com/technology/google-talks-invest-ai-startup-characterai-sources-2023-11-10/) (Reuters)
   * [Payments app Zelle begins refunds for imposter scams after Washington pressure](https://www.reuters.com/technology/cybersecurity/payments-app-zelle-begins-refunds-imposter-scams-after-washington-pressure-2023-11-13/) (Reuters)
   * [Key Witness at Sam Bankman-Fried Trial to Launch New Crypto Exchange](https://www.wsj.com/finance/currencies/key-witness-at-sam-bankman-fried-trial-to-launch-new-crypto-exchange-80d1edce?mod=followamazon) (WSJ)
@@ -379,7 +379,7 @@
   * [Elon Musk debuts ‘Grok’ AI bot to rival ChatGPT, others](https://www.cnbc.com/2023/11/05/elon-musk-debuts-grok-ai-bot-to-rival-chatgpt-others-.html) (CNBC)
   * [AI Pioneer Kai-Fu Lee Builds $1 Billion Startup in Eight Months](https://www.bloomberg.com/news/articles/2023-11-05/kai-fu-lee-s-open-source-01-ai-bests-llama-2-according-to-hugging-face?sref=Szq5ylDR) (Bloomberg)
   * [Bumble CEO Whitney Wolfe Herd Steps Down](https://www.wsj.com/business/bumble-ceo-whitney-wolfe-herd-steps-down-d688ffad?mod=followamazon) (WSJ)
-  * [Review: Apple’s 16-inch M3 Max MacBook Pro crams Ultra-level speed into a laptop](https://arstechnica.com/gadgets/2023/11/review-apples-16-inch-m3-max-macbook-pro-crams-ultra-level-speed-into-a-laptop/) (ArsTechnica)
+  * [Review: Apple’s 16-inch M3 Max MacBook Pro crams Ultra-level speed into a laptop](https://arstechnica.com/gadgets/2023/11/review-apples-16-inch-m3-max-macbook-pro-crams-ultra-level-speed-into-a-laptop/) (Ars Technica)
   * [Apple has no plans to make a 27-inch iMac with Apple Silicon](https://www.theverge.com/2023/11/6/23947196/apple-no-27-inch-apple-silicon-imac) (The Verge)
 
 
@@ -401,7 +401,7 @@
   * [Joe Biden Wants US Government Algorithms Tested for Potential Harm Against Citizens](https://www.wired.com/story/joe-biden-wants-us-government-algorithms-tested-for-potential-harm-against-citizens/) (Wired)
   * [Attenuating Innovation (AI)](https://stratechery.com/2023/attenuating-innovation-ai/) (Stratechery)
   * [DoorDash now warns you that your food might get cold if you don’t tip](https://www.theverge.com/2023/10/31/23940442/doordash-delivery-delayed-no-tip-warning) (The Verge)
-  * [‘Our secret weapon’: how a university bolstered Phoenix’s rise as US chip capital](https://www.ft.com/content/32c5707b-3e18-4f24-ac2e-dcd1e9f72133) (Financial Times)
+  * [‘Our secret weapon’: how a university bolstered Phoenix’s rise as US chip capital](https://www.ft.com/content/32c5707b-3e18-4f24-ac2e-dcd1e9f72133) (FT)
 
 
 
@@ -473,7 +473,7 @@
 **Tuesday, October 24 2023 - Tue. 10/24 – Nvidia Is Gunning For Intel**
 
   * [Exclusive: Nvidia to make Arm-based PC chips in major new challenge to Intel](https://www.reuters.com/technology/nvidia-make-arm-based-pc-chips-major-new-challenge-intel-2023-10-23/) (Reuters)
-  * [1Password detects “suspicious activity” in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/) (ArsTechnica)
+  * [1Password detects “suspicious activity” in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/) (Ars Technica)
   * [Xreal’s Air 2 glasses put a big screen on your face and ship in the US next month](https://www.theverge.com/2023/10/24/23928925/xreal-air-2-pro-ar-glasses-pricing-availability-preorders-open) (The Verge)
   * [‘Pause Ads’ Creep Onto Hulu, Peacock and Max as Streamers Seek New Revenue](https://variety.com/2023/tv/news/pause-ads-hulu-max-peacock-streaming-1235764850/) (Variety)
   * [Matter 1.2 is a big move for the smart home standard](https://www.theverge.com/2023/10/23/23925489/matter-1-2-smart-home-support-new-devices) (The Verge)
@@ -487,7 +487,7 @@
   * [Inside Apple’s Big Plan to Bring Generative AI to All Its Devices](https://www.bloomberg.com/news/newsletters/2023-10-22/what-is-apple-doing-in-ai-revamping-siri-search-apple-music-and-other-apps-lo1ffr7p?sref=Szq5ylDR) (Bloomberg)
   * [Okta shares fall 11% after company says client files were accessed by hackers via its support system](https://www.cnbc.com/2023/10/20/okta-shares-fall-after-company-says-client-files-were-accessed-by-hackers-via-its-support-system.html) (CNBC)
   * [Web Summit CEO Cosgrave Quits After Israel Controversy](https://www.bloomberg.com/news/articles/2023-10-21/web-summit-ceo-cosgrave-steps-down-after-israel-controversy?sref=Szq5ylDR) (Bloomberg)
-  * [China launches investigation into iPhone maker Foxconn, says state media](https://www.ft.com/content/e6abcb86-1c80-4914-ae54-c7df94d7a9e0) (Financial Times)
+  * [China launches investigation into iPhone maker Foxconn, says state media](https://www.ft.com/content/e6abcb86-1c80-4914-ae54-c7df94d7a9e0) (FT)
   * [Worldcoin to pay orb operators in WLD rather than USDC](https://www.theblock.co/post/258862/worldcoin-to-pay-orb-operators-in-wld-rather-than-usdc) (The Block)
   * [Worldcoin to cease paying Orb operators in USDC as early as November](https://cointelegraph.com/news/worldcoin-cease-usdc-payments-native-token-wld) (CoinTelegraph)
   * [Tinder now lets mom pick your next date](https://www.theverge.com/2023/10/23/23928363/tinder-matchmaker-dating-app-feature-recommendations) (The Verge)
@@ -534,9 +534,9 @@
 **Tuesday, October 17 2023 - Mon. 10/16 – Nikola Tesla’s Dream Now A Reality**
 
   * [Apple unveils brand new 'affordable' Apple Pencil that costs $79 and has a USB-C port](https://www.imore.com/ipad/apple-unveils-brand-new-affordable-apple-pencil-that-costs-dollar79) (iMore)
-  * [Actively exploited Cisco 0-day with maximum 10 severity gives full network control](https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/) (ArsTechnica)
-  * [Social Media Users Accuse Facebook and Instagram of Suppressing Pro-Palestinian Posts](https://www.nytimes.com/2023/10/16/world/middleeast/israel-hamas-war-facebook-instagram.html) (NyTimes)
-  * [Israel orders freeze on crypto accounts in bid to block funding for Hamas](https://www.ft.com/content/e03a370b-777f-46c2-8576-d1cee731efe2) (FinancialTimes)
+  * [Actively exploited Cisco 0-day with maximum 10 severity gives full network control](https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/) (Ars Technica)
+  * [Social Media Users Accuse Facebook and Instagram of Suppressing Pro-Palestinian Posts](https://www.nytimes.com/2023/10/16/world/middleeast/israel-hamas-war-facebook-instagram.html) (NYTimes)
+  * [Israel orders freeze on crypto accounts in bid to block funding for Hamas](https://www.ft.com/content/e03a370b-777f-46c2-8576-d1cee731efe2) (FT)
   * [Web Summit derailed by founder’s public fight with those supporting Israel in Hamas war](https://techcrunch.com/2023/10/16/websummit-derailed-by-founders-public-fight-with-those-supporting-israel-in-hamas-conflict/?guccounter=1) (TechCrunch)
   * [Microsoft-owned LinkedIn lays off nearly 700 employees — read the memo here](https://www.cnbc.com/2023/10/16/microsoft-owned-linkedin-lays-off-nearly-700-read-the-memo-here.html) (CNBC)
   * [Twitch launches stories for streamers](https://techcrunch.com/2023/10/16/twitch-launches-stories-streamers/) (TechCrunch)
@@ -555,7 +555,7 @@
 **Friday, October 13 2023 - Fri. 10/13 – The Activision Acquisition Goes Through**
 
   * [Microsoft's purchase of Activision Blizzard for Xbox has been fully APPROVED by the UK regulator](https://www.windowscentral.com/gaming/xbox/microsofts-purchase-of-activision-blizzard-for-xbox-fully-approved-by-uk-regulator) (Windows Central)
-  * [EU opens probe into Elon Musk’s X over Israel-Hamas war misinformation](https://www.ft.com/content/a4ab23c7-977a-46b1-8d00-33923ceaee89) (Financial Times)
+  * [EU opens probe into Elon Musk’s X over Israel-Hamas war misinformation](https://www.ft.com/content/a4ab23c7-977a-46b1-8d00-33923ceaee89) (FT)
   * [U.S. VC funding hit lowest level in 6 years in Q3 \| A story told in charts](https://venturebeat.com/ai/u-s-vc-funding-hit-lowest-level-in-6-years-in-q3-a-story-told-in-charts/) (VentureBeat)
   * [Netflix to Open Stores Where Fans Can Play, Shop and Eat in 2025](https://www.bloomberg.com/news/articles/2023-10-12/netflix-to-open-stores-where-fans-can-play-shop-and-eat-in-2025?sref=Szq5ylDR) (Bloomberg)
 
@@ -588,7 +588,7 @@
 **Tuesday, October 10 2023 - Tue. 10/10 – The Veil Between Online And IRL Is Thin**
 
   * [John Riccitiello steps down as CEO of Unity after pricing battle](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/) (GamesBeat)
-  * [23andMe says private user data is up for sale after being scraped](https://arstechnica.com/security/2023/10/private-23andme-user-data-is-up-for-sale-after-online-scraping-spree/) (ArsTechnica)
+  * [23andMe says private user data is up for sale after being scraped](https://arstechnica.com/security/2023/10/private-23andme-user-data-is-up-for-sale-after-online-scraping-spree/) (Ars Technica)
   * [Social media scams are costing Americans more than ever](https://www.techradar.com/pro/social-media-scams-are-costing-americans-more-than-ever) (TechRadar)
   * [Big Tech Struggles to Turn AI Hype Into Profits](https://www.wsj.com/tech/ai/ais-costly-buildup-could-make-early-products-a-hard-sell-bdd29b9f?mod=followamazon) (WSJ)
   * [Google has shipped almost 40 million Pixel phones since 2016, 10 million last year](https://9to5google.com/2023/10/07/google-pixel-40-million-shipments-total/) (9to5Google)
@@ -678,7 +678,7 @@
   * [FTC and 17 states sue Amazon on antitrust charges](https://www.cnbc.com/2023/09/26/ftc-and-17-states-sue-amazon-on-antitrust-charges.html) (CNBC)
   * [Designer Jony Ive and OpenAI’s Sam Altman Discuss AI Hardware Project](https://www.theinformation.com/articles/designer-jony-ive-and-open-ais-sam-altman-discuss-ai-hardware-project?rc=64g9cw) (The Information)
   * [OpenAI Seeks New Valuation of Up to $90 Billion in Sale of Existing Shares](https://www.wsj.com/tech/ai/openai-seeks-new-valuation-of-up-to-90-billion-in-sale-of-existing-shares-ed6229e0) (WSJ)
-  * [The iPhone 15 Pro series overheating issues are unrelated to TSMC’s advanced 3nm node / iPhone 15 Pro](https://medium.com/@mingchikuo/the-iphone-15-pro-series-overheating-issues-are-unrelated-to-tsmcs-advanced-3nm-node-iphone-15-5f354b1ab155) (Ming-Chi Kuo)
+  * [The iPhone 15 Pro series overheating issues are unrelated to TSMC’s advanced 3nm node / iPhone 15 Pro](https://medium.com/@mingchikuo/the-iphone-15-pro-series-overheating-issues-are-unrelated-to-tsmcs-advanced-3nm-node-iphone-15-5f354b1ab155) (Ming)
   * [The new WGA contract will change how Hollywood works](https://www.theverge.com/2023/9/26/23891835/wga-contract-summary-ai-streaming-data) (The Verge)
   * [Hollywood Studios Can Train AI Models on Writers’ Work Under Tentative Deal](https://www.wsj.com/business/media/hollywood-studios-can-train-ai-models-on-writers-work-under-tentative-deal-aedae589) (WSJ)
   * [We put our blind faith in Mercedes-Benz’s first-of-its-kind autonomous Drive Pilot feature](https://www.theverge.com/2023/9/27/23892154/mercedes-benz-drive-pilot-autonomous-level-3-test) (The Verge)
@@ -699,12 +699,12 @@
 
 **Monday, September 25 2023 - Mon. 09/25 – Amazon Makes A Big Bet On Anthropic**
 
-  * [Amazon to invest up to $4bn in AI start-up Anthropic](https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f) (Financial Times)
+  * [Amazon to invest up to $4bn in AI start-up Anthropic](https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f) (FT)
   * [Defi Project Mixin Network Suspends Services After $200 Million Crypto Hack](https://www.bloomberg.com/news/articles/2023-09-25/defi-project-mixin-suspends-services-after-200-million-hack?sref=Szq5ylDR) (Bloomberg)
   * [Booking to appeal after EU vetoes $1.7 bln ETraveli deal](https://www.reuters.com/markets/deals/bookings-17-bln-etraveli-deal-hit-with-eu-antitrust-veto-2023-09-25/) (Reuters)
   * [White House could force cloud companies to disclose AI customers](https://www.semafor.com/article/09/22/2023/white-house-could-force-cloud-companies-to-disclose-ai-customers) (Semafor)
   * [You can now prompt ChatGPT with pictures and voice commands](https://www.theverge.com/2023/9/25/23886699/chatgpt-pictures-voice-commands-ai-chatbot-openai) (The Verge)
-  * [WGA and the studios reach tentative deal to end writers’ strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors) (Los Angeles Times)
+  * [WGA and the studios reach tentative deal to end writers’ strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors) (LA Times)
   * [Nearly 500 Brands Exited Smartphone Market During 2017-2023](https://www.counterpointresearch.com/insights/nearly-500-brands-exited-smartphone-market-during-2017-2023/) (Counterpoint)
 
 
@@ -739,7 +739,7 @@
   * [Apple and Goldman were planning stock-trading feature for iPhones until markets turned last year](https://www.cnbc.com/2023/09/20/apple-goldman-sachs-were-planning-a-stock-trading-feature-for-iphones.html) (CNBC)
   * [WhatsApp appears to be about to launch its long-overdue iPad app](https://www.theverge.com/2023/9/19/23880855/whatsapp-ipad-app-beta) (The Verge)
   * [Musk's Neuralink to start human trial of brain implant for paralysis patients](https://www.reuters.com/technology/musks-neuralink-start-human-trials-brain-implant-2023-09-19/) (Reuters)
-  * [Telling AI model to “take a deep breath” causes math scores to soar in study](https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/) (ArsTechnica)
+  * [Telling AI model to “take a deep breath” causes math scores to soar in study](https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/) (Ars Technica)
 
 
 
@@ -758,7 +758,7 @@
 
   * [Google won’t repair cracked Pixel Watch screens](https://www.theverge.com/23874281/google-pixel-watch-cracks-no-repairs-warranty) (The Verge)
   * [Google Extends Lifespan of Chromebooks With 10-Year Update Policy](https://www.wsj.com/tech/personal-tech/google-extends-lifespan-of-chromebooks-with-10-year-update-policy-38910da1) (WSJ)
-  * [How the Lazarus Group is stepping up crypto hacks and changing its tactics (Elliptic)](https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content?sref=Szq5ylDR)
+  * [How the Lazarus Group is stepping up crypto hacks and changing its tactics (Elliptic)](https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content?sref=Szq5ylDR) (Bloomberg)
   * [Streaming Is Changing the Sound of Music](https://www.wsj.com/arts-culture/music/streaming-is-changing-the-sound-of-music-182dc907) (WSJ)
   * [Apple’s AirPods Pro just got much better — no matter what port is on the case](https://www.theverge.com/23878402/apple-airpods-pro-usb-c-adaptive-audio-conversation-awareness-test-review) (The Verge)
 
@@ -768,7 +768,7 @@
 
   * [TikTok fined $379M in EU for failing to keep kids’ data safe](https://techcrunch.com/2023/09/15/tiktok-gdpr-childrens-data-decision/) (TechCrunch)
   * [Apple moves to defuse French iPhone 12 dispute as EU scrutiny steps up](https://www.reuters.com/technology/apple-implement-iphone-12-update-next-few-days-france-minister-2023-09-15/) (Reuters)
-  * [MGM hack followed failed bid to rig slot machines, ‘Scattered Spider’ group claims](https://www.ft.com/content/a25d2897-b0ce-4ba7-92ed-ff5df09d1b47) (Financial Times)
+  * [MGM hack followed failed bid to rig slot machines, ‘Scattered Spider’ group claims](https://www.ft.com/content/a25d2897-b0ce-4ba7-92ed-ff5df09d1b47) (FT)
   * [Video-Game Company Unity Closes Offices Following Death Threat](https://www.bloomberg.com/news/articles/2023-09-14/video-game-company-unity-closes-offices-following-death-threat?sref=Szq5ylDR) (Bloomberg)
   * [Microsoft Publishes Garbled AI Article Calling Tragically Deceased NBA Player "Useless"](https://futurism.com/msn-ai-brandon-hunter-useless) (Futurism)
 
@@ -847,7 +847,7 @@
 **Wednesday, September 06 2023 - Wed. 09/06 – The Modern Antitrust Era Begins Now**
 
   * [EU Challenges Apple, Microsoft in New Push to Rein in Big Tech Dominance](https://www.bloomberg.com/news/articles/2023-09-06/eu-challenges-apple-microsoft-in-new-antitrust-push-to-rein-in-big-tech?sref=Szq5ylDR) (Bloomberg)
-  * [UK pulls back from clash with Big Tech over private messaging](https://www.ft.com/content/770e58b1-a299-4b7b-a129-bded8649a43b) (Financial Times)
+  * [UK pulls back from clash with Big Tech over private messaging](https://www.ft.com/content/770e58b1-a299-4b7b-a129-bded8649a43b) (FT)
   * [In Its First Monopoly Trial of Modern Internet Era, U.S. Sets Sights on Google](https://www.nytimes.com/2023/09/06/technology/modern-internet-first-monopoly-trial-us-google-dominance.html) (NYTimes)
   * [There are just six bitcoin billionaires in the world, new crypto super-rich report says](https://www.cnbc.com/2023/09/06/six-bitcoin-btc-billionaires-in-the-world-new-crypto-super-rich-report-says.html) (CNBC)
   * [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416) (Gizmodo)
@@ -942,7 +942,7 @@
   * [Sorry, But LinkedIn Is Cool Now](https://www.bloomberg.com/news/articles/2023-08-22/instagram-twitter-and-tiktok-upheavals-are-helping-linkedin?sref=Szq5ylDR) (Bloomberg)
   * [Salesforce Leads Financing of AI Startup at More Than $4 Billion Valuation](https://www.theinformation.com/articles/salesforce-leads-financing-of-ai-startup-at-more-than-4-billion-valuation?rc=64g9cw) (The Information)
   * [Tiger Global Nears Deal to Sell Slice of Cohere Stake at $3 Billion Valuation](https://www.theinformation.com/articles/tiger-global-nears-deal-to-sell-slice-of-cohere-stake-at-3-billion-valuation?rc=64g9cw) (The Information)
-  * [3D printers printing without consent is a cautionary tale on cloud reliance](https://arstechnica.com/gadgets/2023/08/3d-printers-print-break-on-their-own-due-to-cloud-outage/) (ArsTechnica)
+  * [3D printers printing without consent is a cautionary tale on cloud reliance](https://arstechnica.com/gadgets/2023/08/3d-printers-print-break-on-their-own-due-to-cloud-outage/) (Ars Technica)
 
 
 
@@ -961,7 +961,7 @@
 
   * [Twitter Deletes All User Photos And Links From 2011-2014](https://www.forbes.com/sites/mattnovak/2023/08/19/twitter-deletes-all-user-photos-and-links-from-2011-2014/?sh=7fb61b7978fe) (Forbes)
   * [REVEALED: THE AUTHORS WHOSE PIRATED BOOKS ARE POWERING GENERATIVE AI](https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/) (The Atlantic)
-  * [Silicon Valley start-ups revive listing plans as Arm reignites IPO market](https://www.ft.com/content/4a305ad3-f91f-46ad-977f-830a2e1ee5af) (Financial Times)
+  * [Silicon Valley start-ups revive listing plans as Arm reignites IPO market](https://www.ft.com/content/4a305ad3-f91f-46ad-977f-830a2e1ee5af) (FT)
   * [Europe’s Stripe rival Adyen saw $20 billion wiped off its value in a single day. Here’s what’s going on](https://www.cnbc.com/2023/08/21/adyen-europes-fintech-darling-faces-big-challenges.html?__source=sharebar%7Ctwitter&par=sharebar) (CNBC)
   * [UK to spend £100m in global race to produce AI chips](https://www.theguardian.com/business/2023/aug/20/uk-global-race-produce-ai-chips) (The Guardian)
   * [A cargo ship that harnesses wind power has set sail on its maiden journey](https://qz.com/cargill-pyxis-ocean-cargo-ship-wing-power-windwings-1850756956) (Quartz)
@@ -1071,7 +1071,7 @@
   * [Apple Admits There Is a Smartphone Slowdown Ahead of iPhone 15 Debut](https://www.bloomberg.com/news/newsletters/2023-08-06/apple-iphone-15-comes-amid-us-sales-slowdown-tim-cook-q3-earnings-comments-lkzfs14u?sref=Szq5ylDR) (Bloomberg)
   * [PayPal Launches a Stablecoin in Latest Crypto Payments Push](https://www.bloomberg.com/news/articles/2023-08-07/paypal-launches-us-dollar-stablecoin-pyusd-for-payments-transfers?sref=Szq5ylDR) (Bloomberg)
   * [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/) (BleepingComputer)
-  * [A New Frontier for Travel Scammers: A.I.-Generated Guidebooks](https://www.nytimes.com/2023/08/05/travel/amazon-guidebooks-artificial-intelligence.html) (NyTimes)
+  * [A New Frontier for Travel Scammers: A.I.-Generated Guidebooks](https://www.nytimes.com/2023/08/05/travel/amazon-guidebooks-artificial-intelligence.html) (NYTimes)
   * [Samsung Galaxy Z Flip 5 review: the flip phone we’ve been waiting for](https://www.theverge.com/23820202/samsung-galaxy-z-flip-5-review-screen-battery-camera-hinge) (The Verge)
 
 
@@ -1172,7 +1172,7 @@
   * [TikTok is adding support for text posts](https://techcrunch.com/2023/07/24/tiktok-is-adding-support-for-text-posts/) (TechCrunch)
   * [The excellent Arc browser is now available for anyone to download](https://www.theverge.com/2023/7/25/23802843/arc-browser-mac-ios-waitlist-availability) (The Verge)
   * [Spotify now has 220 million paying subscribers](https://www.theverge.com/2023/7/25/23805766/spotify-earnings-q2-2023-subscribers-monthly-active-users) (The Verge)
-  * [Sam Altman’s vision for AI puts him on collision course with regulators](https://www.ft.com/content/1d1cb2b3-391c-4dc8-ba5b-fedd379b7fb0) (Financial Times)
+  * [Sam Altman’s vision for AI puts him on collision course with regulators](https://www.ft.com/content/1d1cb2b3-391c-4dc8-ba5b-fedd379b7fb0) (FT)
   * [Sam Altman explains why he’s helping to take nuclear microreactor company Oklo public via SPAC](https://www.cnbc.com/2023/07/11/sam-altman-talks-about-oklo-nuclear-microreactor-spac.html) (CNBC)
 
 
@@ -1204,7 +1204,7 @@
 
   * [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google?sref=Szq5ylDR) (Bloomberg)
   * [Google Tests A.I. Tool That Is Able to Write News Articles](https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html) (NYTimes)
-  * [Study claims ChatGPT is losing capability, but some experts aren’t convinced](https://arstechnica.com/information-technology/2023/07/is-chatgpt-getting-worse-over-time-study-claims-yes-but-others-arent-sure/) (ArsTechnica)
+  * [Study claims ChatGPT is losing capability, but some experts aren’t convinced](https://arstechnica.com/information-technology/2023/07/is-chatgpt-getting-worse-over-time-study-claims-yes-but-others-arent-sure/) (Ars Technica)
   * [Meta open-sources Llama 2, but with strings attached](https://www.moneycontrol.com/news/technology/meta-open-sources-llama-2-but-with-strings-attached-10989681.html) (MoneyControl)
   * [Apple slams UK surveillance-bill proposals](https://www.bbc.com/news/technology-66256081) (BBC News)
   * [Google raising price of YouTube Premium to $13.99 per month](https://9to5google.com/2023/07/19/youtube-premium-price-increase/) (9to5Google)
@@ -1241,7 +1241,7 @@
   * [SEC accepts BlackRock’s Bitcoin ETF application, signaling regulatory review](https://cointelegraph.com/news/sec-accepts-black-rock-bitcoin-etf-application-signaling-regulatory-review) (CoinTelegraph)
   * [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/) (StackDiary)
   * [Hacker News Thread On The Brave Thing](https://news.ycombinator.com/item?id=36735777)
-  * [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0) (Financial Times)
+  * [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0) (FT)
   * [Apple’s New Vision Group Reflects Shift Away From Steve Jobs Approach](https://www.bloomberg.com/news/newsletters/2023-07-16/apple-creates-new-vision-products-group-vpg-for-future-mixed-reality-headsets-lk5g2ee4?sref=Szq5ylDR) (Bloomberg)
   * [Bob Iger Shifts From Building an Empire to a Disney Yard Sale](https://www.bloomberg.com/news/newsletters/2023-07-16/bob-iger-shifts-from-building-an-empire-to-a-disney-yard-sale?sref=Szq5ylDR) (Bloomberg)
 
@@ -1376,7 +1376,7 @@
   * [FTX Bankruptcy Team Says the Exchange Owed Customers $8.7B](https://www.coindesk.com/policy/2023/06/26/ftx-bankruptcy-team-says-the-exchange-owed-customers-87b/) (CoinDesk)
   * [Thomson Reuters buys Casetext, an AI legal tech startup, for $650M in cash](https://techcrunch.com/2023/06/26/thomson-reuters-buys-casetext-an-ai-legal-tech-startup-for-650m-in-cash/) (TechCrunch)
   * [OpenAI Plans ChatGPT ‘Personal Assistant for Work,’ Setting Up Microsoft Rivalry](https://www.theinformation.com/articles/openai-plans-chatgpt-personal-assistant-for-work-setting-up-microsoft-rivalry?rc=64g9cw) (The Information)
-  * [RIP to my Pixel Fold: Dead after four days](https://arstechnica.com/google/2023/06/rip-to-my-pixel-fold-dead-after-four-days/) (ArsTechnica)
+  * [RIP to my Pixel Fold: Dead after four days](https://arstechnica.com/google/2023/06/rip-to-my-pixel-fold-dead-after-four-days/) (Ars Technica)
   * [Google Pixel Fold review: closing the gap](https://www.theverge.com/23773594/google-pixel-fold-review-screen-battery-hinge-camera) (The Verge)
 
 
@@ -1438,14 +1438,14 @@
   * [Alphabet Selling Google Domains Assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace?sref=Szq5ylDR) (Bloomberg)
   * [Reddit says it won’t force subreddits back open (but will it?)](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities) (The Verge)
   * [Reddit CEO slams protest leaders, saying he'll change rules that favor ‘landed gentry’](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544) (NCBNews)
-  * [AI and media companies negotiate landmark deals over news content](https://www.ft.com/content/79eb89ce-cea2-4f27-9d87-e8e312c8601d) (Financial Times)
+  * [AI and media companies negotiate landmark deals over news content](https://www.ft.com/content/79eb89ce-cea2-4f27-9d87-e8e312c8601d) (FT)
   * [BlackRock files for bitcoin ETF in push into crypto](https://www.reuters.com/business/finance/blackrock-close-filing-bitcoin-etf-coindesk-2023-06-15/) (Reuters)
 
 
 
 **Thursday, June 15 2023 - Thu. 06/15 – Everbody Does Ads Now**
 
-  * [Video Ads Are Coming to All Your Uber Apps](https://www.wsj.com/articles/video-ads-are-coming-to-all-your-uber-apps-cb11d48e?mod=djemalertNEWS) (The Wall Street Journal)
+  * [Video Ads Are Coming to All Your Uber Apps](https://www.wsj.com/articles/video-ads-are-coming-to-all-your-uber-apps-cb11d48e?mod=djemalertNEWS) (WSJ)
   * [Intel To Launch New Core Processor Branding: Drop the i, Add Ultra Tier](https://www.anandtech.com/show/18911/intel-new-core-branding-for-meteor-lake-no-i-new-ultra-tier) (AnandTech)
   * [Google Lens can now identify rashes and other skin conditions](https://9to5google.com/2023/06/14/google-lens-skin/) (9to5Google)
   * [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/) (TechCrunch)
@@ -1483,7 +1483,7 @@
   * [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps) (The Verge)
   * [Andreessen Horowitz believes that crypto's future may be in the U.K.](https://www.axios.com/2023/06/11/andreesse-horowitz-a16z-crypto-future-london) (Axios)
   * [Meta's open source AI MusicGen turns text and melody into new songs](https://the-decoder.com/metas-open-source-ai-musicgen-turns-text-and-melody-into-new-songs/) (The Decoder)
-  * [Researchers discover that ChatGPT prefers repeating 25 jokes over and over](https://arstechnica.com/information-technology/2023/06/researchers-discover-that-chatgpt-prefers-repeating-25-jokes-over-and-over/) (ArsTechnica)
+  * [Researchers discover that ChatGPT prefers repeating 25 jokes over and over](https://arstechnica.com/information-technology/2023/06/researchers-discover-that-chatgpt-prefers-repeating-25-jokes-over-and-over/) (Ars Technica)
   * [How AI art killed an indie book cover contest](https://www.theverge.com/2023/6/9/23752354/ai-spfbo-cover-art-contest-midjourney-clarkesworld) (The Verge)
   * [Apple MacBook Air 15-inch review: exactly what was asked for](https://www.theverge.com/23757441/apple-macbook-air-15-inch-2023-review) (The Verge)
 
@@ -1521,7 +1521,7 @@
   * [Apple makes iOS 17 developer beta free for registered developers](https://9to5mac.com/2023/06/06/apple-makes-ios-17-developer-beta-free/) (9to5Mac)
   * [Sequoia’s Split Sends Warning to US Companies Doing Business in China](https://www.bloomberg.com/news/articles/2023-06-07/sequoia-s-split-sends-warning-to-every-company-doing-us-china-business?sref=Szq5ylDR) (Bloomberg)
   * [Samsung officially confirms first Unpacked event in Korea for new foldables](https://9to5google.com/2023/06/06/samsung-unpacked-korea/) (9to5Google)
-  * [The SEC Comes for Crypto](https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto?sref=Szq5ylDR) (Matt Levine/Bloomberg)
+  * [The SEC Comes for Crypto](https://www.bloomberg.com/opinion/articles/2023-06-06/the-sec-comes-for-crypto?sref=Szq5ylDR) (Bloomberg)
 
 
 
@@ -1529,7 +1529,7 @@
 
   * [US Crypto Crackdown Reaches Fever Pitch as SEC Sues Coinbase](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules?sref=Szq5ylDR) (Bloomberg)
   * [Sequoia Is Splitting Into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/?sh=7f5254b47e8a) (Forbes)
-  * [Apple avoids “AI” hype at WWDC keynote by baking ML into products](https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/) (ArsTechnica)
+  * [Apple avoids “AI” hype at WWDC keynote by baking ML into products](https://arstechnica.com/information-technology/2023/06/at-apples-wwdc-keynote-ai-never-came-up-by-name-but-it-was-there/) (Ars Technica)
   * [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/) (TechCrunch)
   * [I wore the Apple Vision Pro. It’s the best headset demo ever.](https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever) (The Verge)
 
@@ -1585,9 +1585,9 @@
 
 **Tuesday, May 30 2023 - Tue. 05/30 – Nvidia Joins The $1T Club**
 
-  * [How Nvidia created the chip powering the generative AI boom](https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266) (Financial Times)
+  * [How Nvidia created the chip powering the generative AI boom](https://www.ft.com/content/315d804a-6ce1-4fb7-a86a-1fa222b77266) (FT)
   * [World’s Most Valuable Chipmaker Nvidia Unveils More AI Products After $184 Billion Rally](https://www.bloomberg.com/news/articles/2023-05-29/nvidia-nvda-unveils-more-ai-products-to-further-capitalize-on-frenzy?sref=Szq5ylDR) (Bloomberg)
-  * [Video of the NPC character demo](https://twitter.com/rowancheung/status/1663531335380508677?s=20)
+  * [Video of the NPC character demo](https://twitter.com/rowancheung/status/1663531335380508677?s=20) (Twitter)
   * [Arm Unveils 2023 Mobile CPU Core Designs](https://www.anandtech.com/show/18871/arm-unveils-armv92-mobile-architecture-cortex-x4-a720-and-a520-64bit-exclusive) (AnandTech)
   * [A First Look at the Headset That Could Be Apple’s Biggest Competition](https://www.bloomberg.com/news/newsletters/2023-05-28/meta-quest-3-real-life-hands-on-how-it-compares-to-apple-mixed-reality-headset-li7h3suy?sref=Szq5ylDR) (Bloomberg)
   * [Captcha Is Asking Users to Identify Objects That Don't Exist](https://www.vice.com/en/article/xgwy5n/captcha-is-asking-users-to-identify-objects-that-dont-exist) (Motherboard)
@@ -1617,7 +1617,7 @@
   * [Twitter glitches plague Ron DeSantis’ much-hyped presidential announcement with Elon Musk](https://www.cnbc.com/2023/05/24/twitter-glitches-plague-desantis-presidential-announcement.html) (CNBC)
   * [Microsoft warns that China hackers attacked U.S. infrastructure](https://www.cnbc.com/2023/05/24/microsoft-warns-that-china-hackers-attacked-us-infrastructure.html) (CNBC)
   * [Chinese Malware Hits Systems on Guam. Is Taiwan the Real Target?](https://www.nytimes.com/2023/05/24/us/politics/china-guam-malware-cyber-microsoft.html?smid=nytcore-ios-share&referringSource=articleShare) (NYTimes)
-  * [OpenAI warns over split with Europe as regulation advances](https://www.ft.com/content/5814b408-8111-49a9-8885-8a8434022352) (Financial Times)
+  * [OpenAI warns over split with Europe as regulation advances](https://www.ft.com/content/5814b408-8111-49a9-8885-8a8434022352) (FT)
   * [Sony’s new Q handheld is official: 8-inch screen, streams PS5 games](https://www.theverge.com/2023/5/24/23736595/sony-project-q-playstation-handheld-official-showcase) (The Verge)
   * [Apple Plans to Turn Locked iPhones Into Smart Displays With iOS 17](https://www.bloomberg.com/news/articles/2023-05-24/apple-aapl-plans-to-turn-locked-iphones-into-smart-displays-with-ios-17?sref=Szq5ylDR) (Bloomberg)
   * [A Paralyzed Man Can Walk Naturally Again With Brain and Spine Implants](https://www.nytimes.com/2023/05/24/science/paralysis-brain-implants-ai.html) (NYTimes)
@@ -1657,14 +1657,14 @@
   * [Sanctioned Crypto Mixer Tornado Cash Hijacked by Hackers](https://www.bloomberg.com/news/articles/2023-05-21/sanctioned-crypto-mixer-tornado-cash-hijacked-by-hackers?sref=Szq5ylDR) (Bloomberg)
   * [Neeva, the would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown) (The Verge)
   * [The E-Sports World Is Starting to Teeter](https://www.nytimes.com/2023/05/20/technology/e-sports-revenue-video-gaming.html) (NYTimes)
-  * [Facebook parent in talks with Magic Leap over augmented reality deal](https://www.ft.com/content/476dd2ca-8dd9-4b75-9d74-7b978c250fef) (Financial Times)
+  * [Facebook parent in talks with Magic Leap over augmented reality deal](https://www.ft.com/content/476dd2ca-8dd9-4b75-9d74-7b978c250fef) (FT)
   * [We Put Google’s New AI Writing Assistant to the Test](https://www.wired.com/story/googles-duet-ai-writing-assistant-review-test/) (Wired)
 
 
 
 **Friday, May 19 2023 - Fri. 05/19 – ChatGPT Comes To The App Store**
 
-  * [AI in your pocket: ChatGPT officially comes to iPhone with new app](https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/) (ArsTechnica)
+  * [AI in your pocket: ChatGPT officially comes to iPhone with new app](https://arstechnica.com/information-technology/2023/05/ai-in-your-pocket-chatgpt-officially-comes-to-iphone-with-new-app/) (Ars Technica)
   * [Link to the official ChatGPT App in the App Store](https://apps.apple.com/app/openai-chatgpt/id6448311069)
   * [Supreme Court shields Twitter from liability for terror-related content and leaves Section 230 untouched](https://www.cnn.com/2023/05/18/politics/supreme-court-twitter-google-social-media) (CNN)
   * [Supreme Court Leaves 230 Alone For Now, But Justice Thomas Gives A Pretty Good Explanation For Why It Exists In The First Place](https://www.techdirt.com/2023/05/18/supreme-court-leaves-230-alone-for-now-but-justice-thomas-gives-a-pretty-good-explanation-for-why-it-exists-in-the-first-place/) (TechDirt)
@@ -1688,7 +1688,7 @@
   * [Google will delete accounts, including Gmail & Photos, that haven’t logged on in 2 years](https://9to5google.com/2023/05/16/google-account-delete/) (9to5Google)
   * [New ZIP domains spark debate among cybersecurity experts](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/) (BleepingComputer)
   * [StableStudio is Stability AI’s latest commitment to open-source AI](https://www.theverge.com/2023/5/17/23726751/stability-ai-stablestudio-dreamstudio-stable-diffusion-artificial-intelligence) (The Verge)
-  * [The race to bring generative AI to mobile devices](https://www.ft.com/content/6579591d-4469-4b28-81a2-64d1196b44ab) (Financial Times)
+  * [The race to bring generative AI to mobile devices](https://www.ft.com/content/6579591d-4469-4b28-81a2-64d1196b44ab) (FT)
   * [Google I/O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/) (Stratechery)
 
 
@@ -1701,7 +1701,7 @@
   * [Ransomware gang steals data of 5.8 million PharMerica patients](https://www.bleepingcomputer.com/news/security/ransomware-gang-steals-data-of-58-million-pharmerica-patients/) (BleepingComputer)
   * [Twitter makes its first acquisition with a recruiting startup](https://www.axios.com/2023/05/16/twitter-elon-musk-acquisition) (Axios)
   * [EU’s Crypto Legal Framework Inches Towards Law With Finance Ministers’ Sign-Off](https://www.coindesk.com/policy/2023/05/16/eus-crypto-legal-framework-inches-towards-law-with-finance-ministers-sign-off/) (CoinDesk)
-  * [The digital euro: a solution seeking a problem?](https://www.ft.com/content/7c892d3b-c646-4247-9504-5f755e486101) (Financial Times)
+  * [The digital euro: a solution seeking a problem?](https://www.ft.com/content/7c892d3b-c646-4247-9504-5f755e486101) (FT)
   * [AI startup Together raises funding for open-source AI and cloud platform](https://venturebeat.com/ai/ai-startup-together-raises-funding-for-open-source-ai-and-cloud-platform/) (VentureBeat)
 
 
@@ -1782,12 +1782,12 @@
 
 **Thursday, May 04 2023 - Thu. 05/04 – The Regulators Come For AI**
 
-  * [“We must regulate AI,” FTC Chair Khan says](https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/) (ArsTechnica)
-  * [UK competition watchdog launches review of AI market](https://www.ft.com/content/76f12980-657e-405c-b510-9ee8bbfb81b7) (Financial Times)
+  * [“We must regulate AI,” FTC Chair Khan says](https://arstechnica.com/information-technology/2023/05/we-must-regulate-ai-ftc-chair-khan-says/) (Ars Technica)
+  * [UK competition watchdog launches review of AI market](https://www.ft.com/content/76f12980-657e-405c-b510-9ee8bbfb81b7) (FT)
   * [Microsoft’s Bing chatbot gets smarter with restaurant bookings, image results, and more](https://www.theverge.com/2023/5/4/23710022/microsoft-bing-chatbot-ai-image-video-chat-history-features) (The Verge)
   * [Gmail is adding a blue checkmark to better verify senders](https://9to5google.com/2023/05/03/gmail-blue-checkmark/) (9to5Google)
   * [Airbnb Revamps Site to Ease Tensions Between Guests, Hosts](https://www.bloomberg.com/news/articles/2023-05-03/airbnb-revamps-site-to-ease-tensions-between-guests-hosts?sref=Szq5ylDR) (Bloomberg)
-  * [ChatGPT ‘portfolio’ outperforms leading UK funds](https://www.ft.com/content/c8de53ac-6978-4b88-b7ed-7cdbcbfebbbf) (Financial Times)
+  * [ChatGPT ‘portfolio’ outperforms leading UK funds](https://www.ft.com/content/c8de53ac-6978-4b88-b7ed-7cdbcbfebbbf) (FT)
   * [Gen Zers Are Snapping Up Flip Phones. They Might Be Onto Something.](https://www.wsj.com/articles/gen-z-flip-phones-might-be-onto-something-c4744796?mod=djemalertNEWS) (WSJ)
 
 
@@ -1799,7 +1799,7 @@
   * [TSMC Plans for First German Chip Fab With Cost Up to €10 Billion](https://www.bloomberg.com/news/articles/2023-05-03/tsmc-plans-for-first-german-chip-fab-with-cost-up-to-10-billion?sref=Szq5ylDR) (Bloomberg)
   * [Meta Is Trying to Push Attackers to the Brink](https://www.wired.com/story/meta-attacker-tactics-business-tool/) (Wired)
   * [Bluesky showed everyone’s ass](https://www.theverge.com/2023/5/2/23708385/bluesky-weather-report-moderation-app-store) (The Verge)
-  * [Quantum computing could break the internet. This is how](https://ig.ft.com/quantum-computing/) (Financial Times)
+  * [Quantum computing could break the internet. This is how](https://ig.ft.com/quantum-computing/) (FT)
   * [You can blame this Pixies song for Assistant canceling your alarm](https://www.androidpolice.com/pixies-where-is-my-mind-dismissing-alarms/) (AndroidPolice)
 
 
@@ -1808,7 +1808,7 @@
 
   * [Hollywood Writers Strike Over Pay Disputes with Streaming Giants and AI Concerns](https://gizmodo.com/wga-hollywood-writers-strike-ai-streaming-giants-netfli-1850392107) (Gizmodo)
   * [Apple and Google team up to stop unwanted AirTag tracking](https://www.cnbc.com/2023/05/02/apple-and-google-team-up-to-stop-unwanted-airtag-tracking.html) (CNBC)
-  * [Apple uses iOS and macOS Rapid Security Response feature for the first time](https://arstechnica.com/gadgets/2023/05/seven-months-in-ios-and-macos-get-their-first-rapid-security-updates/) (ArsTechnica)
+  * [Apple uses iOS and macOS Rapid Security Response feature for the first time](https://arstechnica.com/gadgets/2023/05/seven-months-in-ios-and-macos-get-their-first-rapid-security-updates/) (Ars Technica)
   * [Pornhub Blocks All of Utah From Its Site](https://www.vice.com/en/article/93kbkv/pornhub-blocks-utah-age-verification) (Motherboard)
   * [It’s getting easier to make an account on Mastodon](https://www.theverge.com/2023/5/1/23707019/mastodon-account-creation-twitter-alternative) (The Verge)
   * [WordPress drops Twitter social sharing due to API price hike](https://mashable.com/article/wordpress-drops-twitter-jetpack-social-sharing) (Mashable)
@@ -1880,7 +1880,7 @@
 
   * [Elon Caves, Gives Blue Checks Back to Twitter’s Biggest Celebs](https://www.thedailybeast.com/elon-musks-backs-off-legacy-checkmark-purge-re-verifies-platforms-biggest-celebs) (Daily Beast)
   * [Apple Will Take Scattershot Approach to Pitching AR/VR Headset](https://www.bloomberg.com/news/newsletters/2023-04-23/apple-s-ar-vr-headset-plans-ipad-apps-fitness-sports-viewing-gaming-music-lgtgopgx?sref=Szq5ylDR) (Bloomberg)
-  * [Chip designer Arm makes its own advanced prototype semiconductor](https://www.ft.com/content/72897dde-2d84-48b1-8bd7-390e66049d40) (Financial Times)
+  * [Chip designer Arm makes its own advanced prototype semiconductor](https://www.ft.com/content/72897dde-2d84-48b1-8bd7-390e66049d40) (FT)
   * [These Are The Most Popular TV Shows on the Internet](https://www.bloomberg.com/news/newsletters/2023-04-23/these-are-the-most-popular-tv-shows-on-the-internet?sref=Szq5ylDR) (Bloomberg)
   * [Silicon Valley Startups Brace for a Summer of Pain](https://www.bloomberg.com/news/articles/2023-04-24/tech-startups-vcs-brace-for-wave-of-down-rounds-as-downturn-lingers?sref=Szq5ylDR) (Bloomberg)
 
@@ -1904,7 +1904,7 @@
   * [Coinbase gets Bermuda license, plans to launch offshore exchange in coming weeks](https://fortune.com/crypto/2023/04/19/coinbase-gets-bermuda-license-plans-to-launch-offshore-exchange-in-coming-weeks/) (FortuneCrypto)
   * [First EU-Wide Crypto Regulations Clear Final Parliament Vote](https://www.bloomberg.com/news/articles/2023-04-20/eu-s-mica-crypto-regulations-clear-final-parliament-vote?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI’s hunger for data is coming back to bite it](https://www.technologyreview.com/2023/04/19/1071789/openais-hunger-for-data-is-coming-back-to-bite-it/) (MIT Technology Review)
-  * [Google to deploy generative AI to create sophisticated ad campaigns](https://www.ft.com/content/36d09d32-8735-466a-97a6-868dfa34bdd5) (Financial Times)
+  * [Google to deploy generative AI to create sophisticated ad campaigns](https://www.ft.com/content/36d09d32-8735-466a-97a6-868dfa34bdd5) (FT)
   * [Stability AI releases ChatGPT-like language models](https://techcrunch.com/2023/04/19/stability-ai-releases-chatgpt-like-language-models/) (TechCrunch)
 
 
@@ -1927,7 +1927,7 @@
   * [Major Photography Prize Winner Reveals Image Is AI-Generated, Rejects Award](https://www.vice.com/en/article/dy3vxy/sony-world-photography-awards-ai-generated) (Motherboard)
   * [Apple finally launches high-yield Apple Savings account](https://appleinsider.com/articles/23/04/17/apple-finally-launches-high-yield-apple-savings-account) (Apple Insider)
   * [Bluesky’s CEO wants to build a Musk-proof, decentralized version of Twitter](https://www.theverge.com/23686778/bluesky-ceo-jay-graber-interview-decentralized-social-media-twitter-mastodon) (The Verge)
-  * [Hype grows over “autonomous” AI agents that loop GPT-4 outputs](https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/) (ArsTechnica)
+  * [Hype grows over “autonomous” AI agents that loop GPT-4 outputs](https://arstechnica.com/information-technology/2023/04/hype-grows-over-autonomous-ai-agents-that-loop-gpt-4-outputs/) (Ars Technica)
 
 
 
@@ -1946,8 +1946,8 @@
 
 **Friday, April 14 2023 - AWS Enters the Gen AI Race**
 
-  * [Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT](https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738) (Wall Street Journal)
-  * [Amazon Is Joining the Generative AI Race](https://www.wired.com/story/amazon-is-joining-the-generative-ai-race/) (WIRED)
+  * [Amazon Joins Microsoft, Google in AI Race Spurred by ChatGPT](https://www.wsj.com/articles/amazon-joins-microsoft-google-in-ai-race-spurred-by-chatgpt-d7c34738) (WSJ)
+  * [Amazon Is Joining the Generative AI Race](https://www.wired.com/story/amazon-is-joining-the-generative-ai-race/) (Wired)
   * [WhatsApp makes it harder for scammers to steal your account](https://www.engadget.com/whatsapp-makes-it-harder-for-scammers-to-steal-your-account-130054789.html) (Engadget)
   * [Key transparency explainer](https://twitter.com/matthew_d_green/status/1646529341797572608) (Matthew Green, Twitter)
   * [Twitter Blue’s new 10,000 character limit turns tweets into essays](https://www.theverge.com/2023/4/14/23683082/twitter-blue-10000-character-limit-bold-italic-features-substack-newsletter) (The Verge)
@@ -1961,10 +1961,10 @@
 
   * [Apple reportedly nixes iPhone 15 button upgrade, sending supplier stock down 12%](https://www.cnbc.com/2023/04/12/apple-nixes-iphone-15-button-upgrade-sending-supplier-shares-down.html) (CNBC)
   * [iPhone 15 Pro may not have new solid-state volume buttons after all](https://9to5mac.com/2023/04/11/iphone-15-pro-may-not-have-new-volume-buttons/) (9to5 Mac)
-  * [IBM Explores Sale of Weather Business](https://www.wsj.com/articles/ibm-explores-sale-of-weather-business-c174f75c) (Wall Street Journal)
+  * [IBM Explores Sale of Weather Business](https://www.wsj.com/articles/ibm-explores-sale-of-weather-business-c174f75c) (WSJ)
   * [IBM Mulling Sale of Weather Technology Assets](https://www.theinformation.com/briefings/ibm-mulling-sale-of-weather-technology-assets) (The Information)
   * [LinkedIn rolls out ways to verify your identity and employment, without a price tag](https://techcrunch.com/2023/04/12/linkedin-rolls-out-ways-to-verify-your-identity-and-employment-without-a-price-tag/) (TechCrunch)
-  * [LinkedIn Verification Now Lets You Verify Your Job and Account](https://www.wired.com/story/linkedin-verification-clear/) (WIRED)
+  * [LinkedIn Verification Now Lets You Verify Your Job and Account](https://www.wired.com/story/linkedin-verification-clear/) (Wired)
   * [Ethereum’s (ETH) Shanghai, Shapella Upgrade Looks ‘Stable,’ Developer Beiko Says](https://www.bloomberg.com/news/articles/2023-04-12/ethereum-s-eth-shanghai-shapella-upgrade-looks-stable-developer-beiko-says) (Bloomberg)
   * [Ethereum Unstaking Requests Pile Up After Shanghai Upgrade, Now at 2-Week Wait](https://www.coindesk.com/tech/2023/04/13/ethereum-unstaking-requests-pile-up-after-shanghai-upgrade-now-at-2-week-wait/) (CoinDesk)
   * ['The Penguin' Trailer: Colin Farrell Returns to Gotham as 'The Batman' Spinoff Series Confirms 2024 Release](https://variety.com/2023/tv/news/the-penguin-trailer-colin-farrell-2024-release-date-1235579984/) (Variety)
@@ -1979,7 +1979,7 @@
   * [Crypto VC Funding Plunges by 80% in Dire Quarter for Startups](https://www.bloomberg.com/news/articles/2023-04-12/crypto-vc-funding-plunges-by-80-in-dire-quarter-for-startups?sref=Szq5ylDR) (Bloomberg)
   * [AI is already taking video game illustrators' jobs in China](https://restofworld.org/2023/ai-image-china-video-game-layoffs/) (Rest of World)
   * [Reddit Moderators Brace for a ChatGPT Spam Apocalypse](https://www.vice.com/en/article/jg5qy8/reddit-moderators-brace-for-a-chatgpt-spam-apocalypse) (VICE)
-  * [NPR to Suspend Twitter Use After ‘Government-Funded’ Label](https://www.nytimes.com/2023/04/12/business/npr-twitter-suspension.html) (NY Times)
+  * [NPR to Suspend Twitter Use After ‘Government-Funded’ Label](https://www.nytimes.com/2023/04/12/business/npr-twitter-suspension.html) (NYTimes)
 
 
 
@@ -1999,7 +1999,7 @@
   * [Twitter stops throttling tweets with Substack links](https://www.engadget.com/twitter-stops-throttling-tweets-with-substack-links-171858782.html) (Engadget)
   * [Elon Musk Denies Substack Links Are Blocked On Twitter, A Claim That’s Very Misleading](https://www.forbes.com/sites/mattnovak/2023/04/08/elon-musk-denies-substack-links-are-blocked-on-twitter-a-claim-thats-very-misleading) (Forbes)
   * [Apple (AAPL) Continues Efforts to Keep Retail Stores From Unionizing](https://www.bloomberg.com/news/newsletters/2023-04-09/apple-aapl-continues-efforts-to-keep-retail-stores-from-unionizing-lg9gjdx2) (Bloomberg)
-  * [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html) (NY Times)
+  * [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html) (NYTimes)
   * [Crypto enthusiasts go after New York Times for its BTC mining report](https://www.cryptopolitan.com/crypto-enthusiasts-go-after-nyts-fake-news/) (Cryptopolitan)
   * [Rebuttal to the NYT article](https://twitter.com/DSBatten/status/1645329005397282819?s=20) (Daniel Batten, Twitter)
   * [Dell XPS 13 review: Dell is coasting (and that’s fine)](https://www.theverge.com/23674395/dell-xps-13-2022-intel-review) (The Verge)
@@ -2044,7 +2044,7 @@
   * [Google to cut down on employee laptops, services and staplers for ‘multi-year’ savings](https://www.cnbc.com/2023/04/03/google-to-cut-down-on-employee-laptops-services-and-staplers-to-save.html) (CNBC)
   * [Apple to Cut Jobs in Some Corporate Retail Teams in First Known Layoffs](https://www.bloomberg.com/news/articles/2023-04-03/apple-to-make-small-number-of-job-cuts-in-some-corporate-retail-teams?sref=Szq5ylDR) (Bloomberg)
   * [Apple Weather forecasts suffer rare outage](https://appleinsider.com/articles/23/04/04/apple-weather-forecasts-suffer-rare-outage) (AppleInsider)
-  * [Universities express doubt over tool to detect AI-powered plagiarism](https://www.ft.com/content/d872d65d-dfd0-40b3-8db9-a17fea20c60c) (Financial Times)
+  * [Universities express doubt over tool to detect AI-powered plagiarism](https://www.ft.com/content/d872d65d-dfd0-40b3-8db9-a17fea20c60c) (FT)
   * [AI is entering an era of corporate control](https://www.theverge.com/23667752/ai-progress-2023-report-stanford-corporate-control) (The Verge)
 
 
@@ -2084,7 +2084,7 @@
 **Wednesday, March 29 2023 - Wed. 03/29 – Hit Pause On AI Development?**
 
   * [Elon Musk and top AI researchers call for pause on ‘giant AI experiments’](https://www.theverge.com/2023/3/29/23661374/elon-musk-ai-researchers-pause-research-open-letter) (The Verge)
-  * [Generative AI set to affect 300mn jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999) (Financial Times)
+  * [Generative AI set to affect 300mn jobs across major economies](https://www.ft.com/content/7dec4483-ad34-4007-bb3a-7ac925643999) (FT)
   * [North Korea Is Now Mining Crypto to Launder Its Stolen Loot](https://www.wired.com/story/north-korea-apt43-crypto-mining-laundering/) (Wired)
   * [Google Search is adding new ‘Perspectives’ and ‘About this author’ features to help users verify info](https://techcrunch.com/2023/03/28/google-search-is-adding-new-perspectives-and-about-this-author-features-to-help-users-verify-info/) (TechCrunch)
   * [TikTok ban backup plan? ByteDance-owned Instagram rival Lemon8 hits the US App Store’s Top 10](https://techcrunch.com/2023/03/28/tiktok-ban-backup-plan-bytedance-owned-instagram-rival-lemon8-hits-the-u-s-app-stores-top-10/) (TechCrunch)
@@ -2180,8 +2180,8 @@
 
   * [Amazon will discontinue newspaper and magazine subscriptions in September](https://goodereader.com/blog/kindle/amazon-will-discontinue-newspaper-and-magazine-subscriptions-in-september) (GoodEReader)
   * [SVB Financial files for Ch. 11 bankruptcy protection, says it has $2.2B in liquidity](https://techcrunch.com/2023/03/17/svb-financial-files-for-ch-11-bankruptcy-protection-says-it-has-2-2b-in-liquidity/) (TechCrunch)
-  * [Pornhub owner sold to Canadian private equity firm Ethical Capital](https://www.ft.com/content/69c3295e-6f45-4b5f-8e7b-3b8d56ca46c8) (Financial Times)
-  * [AI-imager Midjourney v5 stuns with photorealistic images—and 5-fingered hands](https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/) (ArsTechnica)
+  * [Pornhub owner sold to Canadian private equity firm Ethical Capital](https://www.ft.com/content/69c3295e-6f45-4b5f-8e7b-3b8d56ca46c8) (FT)
+  * [AI-imager Midjourney v5 stuns with photorealistic images—and 5-fingered hands](https://arstechnica.com/information-technology/2023/03/ai-imager-midjourney-v5-stuns-with-photorealistic-images-and-5-fingered-hands/) (Ars Technica)
 
 
 
@@ -2190,7 +2190,7 @@
   * [Introducing Microsoft 365 Copilot — your copilot for work](https://news.microsoft.com/reinventing-productivity/) (Microsoft)
   * [Microsoft 365 gets a host of new AI-powered features](https://techcrunch.com/2023/03/16/microsoft-365-gets-a-host-of-new-ai-powered-features/) (TechCrunch)
   * [U.S. Threatens Ban if TikTok’s Chinese Owners Don’t Sell Stakes](https://www.wsj.com/articles/u-s-threatens-to-ban-tiktok-if-chinese-founder-doesnt-sell-ownership-stake-36d7295c?mod=djemalertNEWS) (WSJ)
-  * [OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’](https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview) (TheVerge)
+  * [OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’](https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview) (The Verge)
   * [Payments giant Stripe raises $6.5 billion at a $50 billion valuation](https://www.axios.com/2023/03/15/stripe-50-billion) (Axios)
 
 
@@ -2257,7 +2257,7 @@
   * [Twitter just let its privacy- and security-protecting Tor service expire](https://www.theverge.com/2023/3/7/23629504/twitter-tor-onion-site-security-certificate-expired) (The Verge)
   * [Elon Musk apologizes after mocking disabled Twitter employee](https://apnews.com/article/twitter-musk-iceland-fired-wheelchair-haraldur-employee-0329405846dac8f1f08ac55594881bb6) (AP)
   * [DuckDuckGo Releases Its Own ChatGPT-Powered Search Engine, DuckAssist](https://gizmodo.com/chat-gpt-ai-duckduckgo-duckassist-search-engine-1850199552) (Gizmodo)
-  * [Google’s PaLM-E is a generalist robot brain that takes commands](https://arstechnica.com/information-technology/2023/03/embodied-ai-googles-palm-e-allows-robot-control-with-natural-commands/) (ArsTechnica)
+  * [Google’s PaLM-E is a generalist robot brain that takes commands](https://arstechnica.com/information-technology/2023/03/embodied-ai-googles-palm-e-allows-robot-control-with-natural-commands/) (Ars Technica)
   * [Google’s Plan to Catch ChatGPT Is to Stuff AI Into Everything](https://www.bloomberg.com/news/articles/2023-03-08/chatgpt-success-drives-google-to-put-ai-in-all-its-products?sref=Szq5ylDR) (Bloomberg)
 
 
@@ -2301,7 +2301,7 @@
 
   * [OpenAI launches an API for ChatGPT, plus dedicated capacity for enterprise customers](https://techcrunch.com/2023/03/01/openai-launches-an-api-for-chatgpt-plus-dedicated-capacity-for-enterprise-customers/) (TechCrunch)
   * [Microsoft now lets you change Bing’s chatbot personality to be more entertaining](https://www.theverge.com/2023/3/2/23621772/microsoft-bing-ai-chatbot-personality-toggle) (The Verge)
-  * [Microsoft unveils AI model that understands image content, solves visual puzzles](https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/) (ArsTechnica)
+  * [Microsoft unveils AI model that understands image content, solves visual puzzles](https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/) (Ars Technica)
   * [Apple Blocks Update of ChatGPT-Powered App, as Concerns Grow Over AI’s Potential Harm](https://www.wsj.com/articles/apple-blocks-update-of-chatgpt-powered-app-as-concerns-grow-over-ais-potential-harm-c4ca9372?mod=djemalertNEWS) (WSJ)
   * [Coinbase is no longer accepting, initiating payments with Silvergate](https://www.theblock.co/post/216537/coinbase-drops-silvergate-for-signature-for-prime-customers) (The Block)
   * [Snapchat will now let you pause your Snap Streaks](https://techcrunch.com/2023/03/01/snapchat-will-now-let-you-pause-your-snap-streaks/) (TechCrunch)
@@ -2382,8 +2382,8 @@
   * [Google Chrome rolls out long awaited battery saving features](https://www.androidpolice.com/google-chrome-110-energy-saver-memory-features/) (AndroidPolice)
   * [Facebook and Instagram are testing selling you blue checks for $12 a month](https://www.theverge.com/2023/2/19/23606268/meta-instagram-facebook-test-paid-verification) (The Verge)
   * [Official: Twitter will now charge for SMS two-factor authentication](https://www.theverge.com/2023/2/17/23605073/twitter-blue-charge-sms-2fa) (The Verge)
-  * [Almost-unbeatable AI comes to Gran Turismo 7](https://arstechnica.com/gaming/2023/02/almost-unbeatable-ai-comes-to-gran-turismo-7/) (ArsTechnica)
-  * [How Apple captured Gen Z in the US — and changed their social circles](https://www.ft.com/content/8a2e8442-449e-4dbd-bd6d-2656b4503526) (Financial Times)
+  * [Almost-unbeatable AI comes to Gran Turismo 7](https://arstechnica.com/gaming/2023/02/almost-unbeatable-ai-comes-to-gran-turismo-7/) (Ars Technica)
+  * [How Apple captured Gen Z in the US — and changed their social circles](https://www.ft.com/content/8a2e8442-449e-4dbd-bd6d-2656b4503526) (FT)
 
 
 
@@ -2437,7 +2437,7 @@
   * [PayPal Pauses Stablecoin Work Amid Regulatory Scrutiny of Crypto](https://www.bloomberg.com/news/articles/2023-02-10/paypal-pauses-stablecoin-work-amid-regulatory-scrutiny-of-crypto?sref=Szq5ylDR) (Bloomberg)
   * [Meta delays setting team budgets as it plans fresh round of job cuts](https://www.ft.com/content/3f3c3fe7-fedd-4fcd-a3d9-6ce44fe56e08) (FT)
   * [Microsoft Kills Its Industrial Metaverse Team After 4 Months](https://www.theinformation.com/articles/microsoft-kills-its-industrial-metaverse-team-after-4-months?rc=64g9cw) (The Information)
-  * [AI-powered Bing Chat spills its secrets via prompt injection attack](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) (ArsTechnica)
+  * [AI-powered Bing Chat spills its secrets via prompt injection attack](https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/) (Ars Technica)
   * [Apple Reportedly Planning to Limit iPhone 15's USB-C Port in the Same Way as Lightning](https://www.macrumors.com/2023/02/10/apple-planning-to-limit-iphone-15-usb-c-port/) (MacRumors)
 
 
@@ -2503,7 +2503,7 @@
   * [Google Shares Slip after Sales Miss as Advertising Demand Slows](https://www.bloomberg.com/news/articles/2023-02-02/google-shares-gain-as-revenue-meets-analyst-estimates?sref=Szq5ylDR) (Bloomberg)
   * [Apple Sales Shrink as Pandemic Rally Ends for iPhone Maker, Other Tech Giants](https://www.wsj.com/articles/apple-aapl-q1-earnings-report-2023-11675281851?mod=djemalertNEWS) (WSJ)
   * [Amazon stock falls as least profitable holiday quarter since 2014 leads to its worst annual loss on record](https://www.marketwatch.com/story/amazon-stock-falls-after-earnings-miss-shows-worst-annual-loss-on-record-least-profitable-holiday-quarter-since-2014-11675372658?mod=technology) (MarketWatch)
-  * [Google invests $300mn in artificial intelligence start-up Anthropic](https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c) (Financial Times)
+  * [Google invests $300mn in artificial intelligence start-up Anthropic](https://www.ft.com/content/583ead66-467c-4bd5-84d0-ed5df7b5bf9c) (FT)
 
 
 
@@ -2571,7 +2571,7 @@
   * [SoftBank Deals Hit Record Low, Sapping Funding for Startups](https://www.bloomberg.com/news/articles/2023-01-25/softbank-deals-hit-record-low-sapping-funding-for-startups?sref=Szq5ylDR) (Bloomberg)
   * [Meta Pays BuzzFeed Millions to Generate Creator Content for Facebook and Instagram](https://www.wsj.com/articles/meta-pays-buzzfeed-millions-to-generate-creator-content-for-facebook-and-instagram-11674693687?mod=djemalertNEWS) (WSJ)
   * [University of Texas Will Offer Large-Scale Online Master’s Degree in A.I.](https://www.nytimes.com/2023/01/26/technology/ai-masters-degree-texas.html) (NYTimes)
-  * [We tried to run a social media site and it was awful](https://www.ft.com/content/8d995a24-d77c-4208-a3a6-603d8788ebcd) (Financial Times)
+  * [We tried to run a social media site and it was awful](https://www.ft.com/content/8d995a24-d77c-4208-a3a6-603d8788ebcd) (FT)
 
 
 
@@ -2673,7 +2673,7 @@
   * [Apple Maps’ business listings are about to get more detailed with launch of ‘Apple Business Connect’](https://techcrunch.com/2023/01/11/apple-maps-business-listings-are-about-to-get-more-detailed-with-launch-of-apple-business-connect/) (TechCrunch)
   * [Twitter Said to Consider Selling User Names to Boost Revenue](https://www.nytimes.com/2023/01/11/technology/twitter-user-names-elon-musk.html) (NYTimes)
   * [Carta lays off 10% as CTO lawsuit looms](https://techcrunch.com/2023/01/11/carta-lays-off-10-as-cto-lawsuit-looms/) (TechCrunch)
-  * [CNET IS QUIETLY PUBLISHING ENTIRE ARTICLES GENERATED BY AI](https://futurism.com/the-byte/cnet-publishing-articles-by-ai) (The Byte/Futurism)
+  * [CNET IS QUIETLY PUBLISHING ENTIRE ARTICLES GENERATED BY AI](https://futurism.com/the-byte/cnet-publishing-articles-by-ai) (The Byte)
   * [OpenAI begins piloting ChatGPT Professional, a premium version of its viral chatbot](https://techcrunch.com/2023/01/11/openai-begins-piloting-chatgpt-professional-a-premium-version-of-its-viral-chatbot/) (TechCrunch)
 
 
@@ -2691,7 +2691,7 @@
 
 **Tuesday, January 10 2023 - Tue. 01/10 – Now We Have VALL-E To Take Over My Podcast Voice**
 
-  * [Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/) (ArsTechnica)
+  * [Microsoft’s new AI can simulate anyone’s voice with 3 seconds of audio](https://arstechnica.com/information-technology/2023/01/microsofts-new-ai-can-simulate-anyones-voice-with-3-seconds-of-audio/) (Ars Technica)
   * [Microsoft eyes $10 billion bet on ChatGPT](https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt) (Semafor)
   * [Buy with Prime, which brings Prime to third-party sites, officially launches in U.S. on Jan. 31](https://techcrunch.com/2023/01/10/buy-with-prime-which-brings-prime-to-third-party-sites-officially-launches-in-u-s-on-jan-31/) (TechCrunch)
   * [Coinbase to slash 20% of workforce in second major round of job cuts](https://www.cnbc.com/2023/01/10/coinbase-to-slash-20percent-of-workforce-in-second-major-round-of-job-cuts.html) (CNBC)

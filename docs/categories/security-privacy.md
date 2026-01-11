@@ -1,5 +1,4 @@
 ---
-layout: category
 title: Security/Privacy
 ---
 
@@ -47,14 +46,14 @@ title: Security/Privacy
 - [Hackers leak 13,000 user photos and IDs from the Tea app, designed as a women's safe space](https://www.nbcnews.com/tech/social-media/tea-app-hacked-13000-photos-leaked-4chan-call-action-rcna221139) (NBCNews)
 - [Microsoft links Sharepoint ToolShell attacks to Chinese hackers](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/) (BleepingComputer)
 - [Hackers Exploit Microsoft SharePoint as Firm Works to Patch](https://www.bloomberg.com/news/articles/2025-07-21/microsoft-server-software-comes-under-widespread-cyberattack?sref=Szq5ylDR) (Bloomberg)
-- [OpenAI clamps down on security after foreign spying threats](https://www.ft.com/content/f896c4d9-bab7-40a2-9e67-4058093ce250) (Financial Times)
+- [OpenAI clamps down on security after foreign spying threats](https://www.ft.com/content/f896c4d9-bab7-40a2-9e67-4058093ce250) (FT)
 
 ### June
 
 - [Israeli Officials Warn Iran Is Hijacking Security Cameras to Spy](https://www.bloomberg.com/news/articles/2025-06-20/iran-hijacking-home-security-cameras-to-spy-within-israel?sref=Szq5ylDR) (Bloomberg)
 - [OpenAI warns models with higher bioweapons risk are imminent](https://www.axios.com/2025/06/18/openai-bioweapons-risk) (Axios)
 - [The Meta AI app is a privacy disaster](https://techcrunch.com/2025/06/12/the-meta-ai-app-is-a-privacy-disaster/) (TechCrunch)
-- [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) (ArsTechica)
+- [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) (Ars Technica)
 - ['Forest Blizzard' vs 'Fancy Bear' - cyber companies hope to untangle weird hacker nicknames](https://www.reuters.com/sustainability/boards-policy-regulation/forest-blizzard-vs-fancy-bear-cyber-companies-hope-untangle-weird-hacker-2025-06-02/) (Reuters)
 
 ### May
@@ -101,7 +100,7 @@ title: Security/Privacy
 - [Hackers are exploiting a new Ivanti VPN security bug to hack into company networks](https://techcrunch.com/2025/01/09/hackers-are-exploiting-a-new-ivanti-vpn-security-bug-to-hack-into-company-networks/) (TechCrunch)
 - [Apple says Siri isn’t sending your conversations to advertisers](https://www.theverge.com/2025/1/8/24337477/apple-responds-rumors-siri-advertising-privacy-lawsuit) (The Verge)
 - [Apple to pay $95 million to settle Siri privacy lawsuit](https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/) (Reuters)
-- [AI-generated phishing scams target corporate executives](https://www.ft.com/content/d60fb4fb-cb85-4df7-b246-ec3d08260e6f) (Financial Times)
+- [AI-generated phishing scams target corporate executives](https://www.ft.com/content/d60fb4fb-cb85-4df7-b246-ec3d08260e6f) (FT)
 
 ## 2024
 
@@ -109,7 +108,7 @@ title: Security/Privacy
 
 - [AT&T, Verizon Say Networks Now Clear After Salt Typhoon Hack](https://www.bloomberg.com/news/articles/2024-12-28/at-t-says-its-network-is-now-clear-after-salt-typhoon-hack?sref=Szq5ylDR) (Bloomberg)
 - [Biden administration proposes new cybersecurity rules to limit impact of healthcare data leaks](https://www.reuters.com/technology/cybersecurity/biden-administration-proposes-new-cybersecurity-rules-limit-impact-healthcare-2024-12-27/) (Reuters)
-- [You Need to Create a Secret Password With Your Family](https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/)
+- [You Need to Create a Secret Password With Your Family](https://www.wired.com/story/you-need-to-create-a-secret-passphrase-with-your-family/) (Wired)
 - [U.S. officials urge Americans to use encrypted apps amid unprecedented cyberattack](https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694) (NBCNews)
 - [Why does the name ‘David Mayer’ crash ChatGPT? Digital privacy requests may be at fault](https://techcrunch.com/2024/12/02/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/) (TechCrunch)
 
@@ -141,10 +140,10 @@ title: Security/Privacy
 - [Israel’s Pager Attacks Have Changed the World](https://www.nytimes.com/2024/09/22/opinion/israel-pager-attacks-supply-chain.html) (NYTimes)
 - [Apple’s new macOS Sequoia update is breaking some cybersecurity tools](https://techcrunch.com/2024/09/19/apples-new-macos-sequoia-update-is-breaking-some-cybersecurity-tools/) (TechCrunch)
 - [RCS texts on the iPhone aren’t encrypted now, but that could change](https://www.theverge.com/2024/9/17/24247414/rcs-texts-iphone-e2ee-android-gsma) (The Verge)
-- [Rogue WHOIS server gives researcher superpowers no one should ever have](https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/) (ArsTechnica)
+- [Rogue WHOIS server gives researcher superpowers no one should ever have](https://arstechnica.com/security/2024/09/rogue-whois-server-gives-researcher-superpowers-no-one-should-ever-have/) (Ars Technica)
 - [Facebook admits to scraping every Australian adult user's public photos and posts to train AI, with no opt-out option](https://www.abc.net.au/news/2024-09-11/facebook-scraping-photos-data-no-opt-out/104336170) (ABC News)
 - [How Telegram Became a Playground for Criminals, Extremists and Terrorists](https://www.nytimes.com/2024/09/07/technology/telegram-crime-terrorism.html?unlocked_article_code=1.JE4.kNyF.2Va2ccNIxfAT&smid=url-share) (NYTimes)
-- [YubiKeys are vulnerable to cloning attacks thanks to newly discovered side channel](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/) (ArsTechnica)
+- [YubiKeys are vulnerable to cloning attacks thanks to newly discovered side channel](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/) (Ars Technica)
 
 ### August
 
@@ -156,8 +155,8 @@ title: Security/Privacy
 - [FBI probing alleged Iran hack attempts targeting Trump, Biden camps](https://www.washingtonpost.com/national-security/2024/08/12/trump-hack-iran-fbi/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzIzNDM1MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzI0ODE3NTk5LCJpYXQiOjE3MjM0MzUyMDAsImp0aSI6IjQ5YzM5ODVkLWY3MzYtNDEzMy1hOTI5LTQ1ZWY1NDNlZTUzNCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA4LzEyL3RydW1wLWhhY2staXJhbi1mYmkvIn0.x6EiElzUdYztujjgN5b8rs_7YhCgVS7wtFGC0bo_tTg) (Washington Post)
 - [CrowdStrike Exec Shows Up to Accept 'Most Epic Fail' Award in Person](https://www.pcmag.com/news/crowdstrike-exec-shows-up-to-accept-most-epic-fail-award-in-person) (PCMag)
 - [Iran Emerges as the Most Aggressive Foreign Threat to U.S. Election](https://www.wsj.com/politics/national-security/iran-emerges-as-the-most-aggressive-foreign-threat-to-u-s-election-b61161ad?st=dbh6dt247dnjujj&reflink=desktopwebshare_permalink) (WSJ)
-- [Moscow’s Spies Were Stealing US Tech — Until the FBI Started a Sabotage Campaign](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126)
-- [A $500 Open Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/)
+- [Moscow’s Spies Were Stealing US Tech — Until the FBI Started a Sabotage Campaign](https://www.politico.com/news/magazine/2024/08/04/us-spies-soviet-technology-00164126) (Politico)
+- [A $500 Open Source Tool Lets Anyone Hack Computer Chips With Lasers](https://www.wired.com/story/rayv-lite-laser-chip-hacking-tool/) (Wired)
 
 ### July
 
@@ -184,7 +183,7 @@ title: Security/Privacy
 ### May
 
 - [US dismantles 911 S5 botnet used for cyberattacks, arrests admin](https://www.bleepingcomputer.com/news/security/us-dismantles-911-s5-residential-proxy-botnet-used-for-cyberattacks-arrests-admin/) (BleepingComputer)
-- [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)
+- [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks) (The Verge)
 - [Android will be able to detect if your phone has been snatched](https://www.theverge.com/2024/5/15/24157068/android-15-ai-theft-detection-lock-privacy-security) (The Verge)
 - [China hacked Ministry of Defence, Sky News learns](https://news.sky.com/story/china-hacked-ministry-of-defence-sky-news-learns-13130757) (SkyNews)
 - [UnitedHealthcare CEO says ‘maybe a third’ of US citizens were affected by recent hack](https://techcrunch.com/2024/05/01/united-healthcare-ceo-says-maybe-a-third-of-u-s-citizens-were-affected-by-recent-hack/) (TechCrunch)
@@ -206,14 +205,14 @@ title: Security/Privacy
 - [Recent ‘MFA Bombing’ Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/) (KrebsonSecurity)
 - [US sanctions APT31 hackers behind critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-apt31-hackers-behind-critical-infrastructure-attacks/) (BleepingComputer)
 - [Elon Musk’s Starlink Terminals Are Falling Into the Wrong Hands](https://www.bloomberg.com/news/features/2024-03-25/elon-musk-s-spacex-sees-starlink-black-market-trade-grow-worldwide?sref=Szq5ylDR) (Bloomberg)
-- [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/) (ArsTechnica)
+- [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/) (Ars Technica)
 - [Massive ‘Apex Legends’ Hack Disrupts NA Finals, Raises Serious Security Concerns](https://www.forbes.com/sites/paultassi/2024/03/17/massive-apex-legends-hack-disrupts-na-finals-raises-serious-security-questions/?sh=4adc2fa36ea0) (Forbes)
 - [Airbnb is banning indoor security cameras](https://www.theverge.com/2024/3/11/24097107/airbnb-indoor-security-camera-ban) (The Verge)
 - ['Exit scam' - hackers that hit UnitedHealth pull disappearing act](https://www.reuters.com/technology/cybersecurity/blackcat-ransomware-site-claims-it-was-seized-uk-law-enforcement-denies-being-2024-03-05/) (Reuters)
 
 ### February
 
-- [GitHub besieged by millions of malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/) (ArsTechnica)
+- [GitHub besieged by millions of malicious repositories in ongoing attack](https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/) (Ars Technica)
 - [These Video Doorbells Have Terrible Security. Amazon Sells Them Anyway.](https://www.consumerreports.org/home-garden/home-security-cameras/video-doorbells-sold-by-major-retailers-have-security-flaws-a2579288796/) (Consumer Reports)
 - [US pharmacy outage triggered by 'Blackcat' ransomware at UnitedHealth unit, sources say](https://www.reuters.com/technology/cybersecurity/cyber-security-outage-change-healthcare-continues-sixth-straight-day-2024-02-26/) (Reuters)
 - [Signal Finally Rolls Out Usernames, So You Can Keep Your Phone Number Private](https://www.wired.com/story/signal-launches-usersnames-phone-number-privacy/) (Wired)
@@ -241,10 +240,10 @@ title: Security/Privacy
 - [Ubisoft says it's investigating reports of a new security breach](https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/) (BleepingComputer)
 - [Beeper is giving up on its iMessage dream](https://www.theverge.com/2023/12/21/24010952/beeper-android-imessage-android-shut-down) (The Verge)
 - [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.com/news/technology-67663128) (BBC)
-- [SSH protects the world’s most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/) (ArsTechnica)
+- [SSH protects the world’s most sensitive networks. It just got a lot weaker](https://arstechnica.com/security/2023/12/hackers-can-break-ssh-channel-integrity-using-novel-data-corruption-attack/) (Ars Technica)
 - [Xfinity discloses data breach affecting over 35 million people](https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/) (Bleeping Computer)
 - [Marketing Company Claims That It Actually Is Listening to Your Phone and Smart Speakers to Target Ads](https://www.404media.co/cmg-cox-media-actually-listening-to-phones-smartspeakers-for-ads-marketing/) (404Media)
-- [Microsoft’s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime](https://www.wired.com/story/microsoft-digital-crime-unit-2023/)
+- [Microsoft’s Digital Crime Unit Goes Deep on How It Disrupts Cybercrime](https://www.wired.com/story/microsoft-digital-crime-unit-2023/) (Wired)
 - [Polish Hackers Repaired Trains the Manufacturer Artificially Bricked. Now The Train Company Is Threatening Them](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/) (404 Media)
 - [Apple Makes Security Changes to Protect Users From iPhone Thefts](https://www.wsj.com/tech/personal-tech/apple-iphone-ios-update-stolen-device-protection-698d760e?mod=followamazon) (WSJ)
 - [China’s cyber army is invading critical U.S. services](https://www.washingtonpost.com/technology/2023/12/11/china-hacking-hawaii-pacific-taiwan-conflict/) (Washington Post)
@@ -252,7 +251,7 @@ title: Security/Privacy
 - [Federal government is using data from push notifications to track contacts](https://www.washingtonpost.com/technology/2023/12/06/push-notifications-surveillance-apple-google/) (Washington Post)
 - [Governments spying on Apple, Google users through push notifications - US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/) (Reuters)
 - [23andMe confirms hackers stole ancestry data on 6.9 million users](https://techcrunch.com/2023/12/04/23andme-confirms-hackers-stole-ancestry-data-on-6-9-million-users/) (TechCrunch)
-- [Gmail’s AI-powered spam detection is its biggest security upgrade in years](https://arstechnica.com/gadgets/2023/12/gmails-ai-powered-spam-detection-is-its-biggest-security-upgrade-in-years/) (ArsTechnica)
+- [Gmail’s AI-powered spam detection is its biggest security upgrade in years](https://arstechnica.com/gadgets/2023/12/gmails-ai-powered-spam-detection-is-its-biggest-security-upgrade-in-years/) (Ars Technica)
 - [Apple fixes two new iOS zero-days in emergency updates](https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-in-emergency-updates/) (Bleeping Computer)
 
 ### November
@@ -264,24 +263,24 @@ title: Security/Privacy
 ### October
 
 - [Microsoft: Octo Tempest is one of the most dangerous financial hacking groups](https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/) (BleepingComputer)
-- [1Password detects “suspicious activity” in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/) (ArsTechnica)
+- [1Password detects “suspicious activity” in its internal Okta account](https://arstechnica.com/security/2023/10/1password-detects-suspicious-activity-in-its-internal-okta-account/) (Ars Technica)
 - [Life360 Sued for Selling Location Data](https://themarkup.org/privacy/2023/06/01/life360-sued-for-selling-location-data) (The Markup)
 - [Okta shares fall 11% after company says client files were accessed by hackers via its support system](https://www.cnbc.com/2023/10/20/okta-shares-fall-after-company-says-client-files-were-accessed-by-hackers-via-its-support-system.html) (CNBC)
 - [Teens Want Parents to Track Their Phones and Monitor Their Every Move](https://www.wsj.com/tech/personal-tech/track-my-phone-teens-feel-safer-when-parents-monitor-7ad437ff?mod=followamazon) (WSJ)
-- [Actively exploited Cisco 0-day with maximum 10 severity gives full network control](https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/) (ArsTechnica)
+- [Actively exploited Cisco 0-day with maximum 10 severity gives full network control](https://arstechnica.com/security/2023/10/actively-exploited-cisco-0-day-with-maximum-10-severity-gives-full-network-control/) (Ars Technica)
 - [A New Protocol Vulnerability Will Haunt the Web for Years](https://www.wired.com/story/http-2-rapid-reset-flaw/) (Wired)
 - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) (Simon Willison's Blog)
 - [New technique leads to largest DDoS attacks ever, Google and Amazon say](https://therecord.media/largest-ddos-incidents-amazon-cloudflare-google) (The Record)
-- [23andMe says private user data is up for sale after being scraped](https://arstechnica.com/security/2023/10/private-23andme-user-data-is-up-for-sale-after-online-scraping-spree/) (ArsTechnica)
+- [23andMe says private user data is up for sale after being scraped](https://arstechnica.com/security/2023/10/private-23andme-user-data-is-up-for-sale-after-online-scraping-spree/) (Ars Technica)
 - [Apple Considered, Rejected Switch to DuckDuckGo From Google](https://www.bloomberg.com/news/articles/2023-10-04/apple-considered-switch-to-search-engine-duckduckgo-from-google?sref=Szq5ylDR) (Bloomberg)
 - [Google is making big changes to prevent Gmail spam](https://www.cnbc.com/2023/10/03/googles-making-big-changes-to-prevent-gmail-spam.html) (CNBC)
 
 ### September
 
 - [Apple emergency updates fix 3 new zero-days exploited in attacks](https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-3-new-zero-days-exploited-in-attacks/) (BleepingComputer)
-- [How the Lazarus Group is stepping up crypto hacks and changing its tactics (Elliptic)](https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content?sref=Szq5ylDR)
+- [How the Lazarus Group is stepping up crypto hacks and changing its tactics (Elliptic)](https://www.bloomberg.com/news/articles/2023-09-18/ai-startup-writer-raises-100-million-to-pen-corporate-content?sref=Szq5ylDR) (Bloomberg)
 - [TikTok fined $379M in EU for failing to keep kids’ data safe](https://techcrunch.com/2023/09/15/tiktok-gdpr-childrens-data-decision/) (TechCrunch)
-- [MGM hack followed failed bid to rig slot machines, ‘Scattered Spider’ group claims](https://www.ft.com/content/a25d2897-b0ce-4ba7-92ed-ff5df09d1b47) (Financial Times)
+- [MGM hack followed failed bid to rig slot machines, ‘Scattered Spider’ group claims](https://www.ft.com/content/a25d2897-b0ce-4ba7-92ed-ff5df09d1b47) (FT)
 - [Inside The Ransomware Attack That Shut Down MGM Resorts](https://www.forbes.com/sites/suzannerowankelleher/2023/09/13/ransomware-attack-mgm-resorts/?sh=21f89d665f38) (Forbes)
 - [Caesars Entertainment Paid Millions to Hackers in Attack](https://www.bloomberg.com/news/articles/2023-09-13/caesars-entertainment-paid-millions-in-ransom-in-recent-attack?sref=Szq5ylDR) (Bloomberg)
 - [Apple discloses zero-days linked to NSO Group spyware](https://therecord.media/apple-discloses-two-zero-days-in-new-updates) (The Record)
@@ -305,7 +304,7 @@ title: Security/Privacy
 - [Google restricting internet access to some employees to reduce cyberattack risk](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html) (CNBC)
 - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/) (StackDiary)
 - [Hacker News Thread On The Brave Thing](https://news.ycombinator.com/item?id=36735777)
-- [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0) (Financial Times)
+- [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0) (FT)
 - [macOS Sonoma Brings Apple Password Manager to Third-Party Browsers](https://www.macrumors.com/2023/07/12/macos-sonoma-apple-passwords-third-party-browsers/) (MacRumors)
 - [HCA Healthcare patient data stolen and for sale by hackers](https://www.cnbc.com/2023/07/10/hca-healthcare-patient-data-stolen-and-for-sale-by-hackers.html) (CNBC)
 
@@ -330,9 +329,9 @@ title: Security/Privacy
 - [Gmail is adding a blue checkmark to better verify senders](https://9to5google.com/2023/05/03/gmail-blue-checkmark/) (9to5Google)
 - [You no longer need a password to sign in to your Google account](https://www.theverge.com/2023/5/3/23709318/google-accounts-passkey-support-password-2fa-fido-security-phishing) (The Verge)
 - [Meta Is Trying to Push Attackers to the Brink](https://www.wired.com/story/meta-attacker-tactics-business-tool/) (Wired)
-- [Quantum computing could break the internet. This is how](https://ig.ft.com/quantum-computing/) (Financial Times)
+- [Quantum computing could break the internet. This is how](https://ig.ft.com/quantum-computing/) (FT)
 - [Apple and Google team up to stop unwanted AirTag tracking](https://www.cnbc.com/2023/05/02/apple-and-google-team-up-to-stop-unwanted-airtag-tracking.html) (CNBC)
-- [Apple uses iOS and macOS Rapid Security Response feature for the first time](https://arstechnica.com/gadgets/2023/05/seven-months-in-ios-and-macos-get-their-first-rapid-security-updates/) (ArsTechnica)
+- [Apple uses iOS and macOS Rapid Security Response feature for the first time](https://arstechnica.com/gadgets/2023/05/seven-months-in-ios-and-macos-get-their-first-rapid-security-updates/) (Ars Technica)
 
 ### April
 
@@ -357,7 +356,7 @@ title: Security/Privacy
 - [Twitter just let its privacy- and security-protecting Tor service expire](https://www.theverge.com/2023/3/7/23629504/twitter-tor-onion-site-security-certificate-expired) (The Verge)
 - [How a single engineer brought down Twitter on Monday](https://www.platformer.news/p/how-a-single-engineer-brought-down) (Platformer)
 - [They thought loved ones were calling for help. It was an AI scam.](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) (WashingtonPost)
-- [The Satellite Hack Everyone Is Finally Talking About](https://www.bloomberg.com/features/2023-russia-viasat-hack-ukraine/?sref=Szq5ylDR)
+- [The Satellite Hack Everyone Is Finally Talking About](https://www.bloomberg.com/features/2023-russia-viasat-hack-ukraine/?sref=Szq5ylDR) (Bloomberg)
 - [The next big threat to AI might already be lurking on the web](https://www.zdnet.com/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/)
 
 ### February
@@ -380,7 +379,7 @@ title: Security/Privacy
 - [Google is letting businesses try out client-side encryption for Gmail](https://www.theverge.com/2022/12/16/23513243/google-gmail-client-side-encryption-beta-enterprise) (The Verge)
 - [Twitter is considering forcing users to let the company sell their data and phone numbers to advertisers, in potential breach of Apple rules](https://www.businessinsider.com/twitter-plans-to-force-users-to-share-data-with-advertisers-2022-12?op=1) (Insider)
 - [Apple Plans New Encryption System to Ward Off Hackers and Protect iCloud Data](https://www.wsj.com/articles/apple-plans-new-encryption-system-to-ward-off-hackers-and-protect-icloud-data-11670435635?mod=djemalertNEWS) (WSJ)
-- [@matthew_d_green's twitter thread on Apple's new encryption push](https://twitter.com/matthew_d_green/status/1600567604015497216)
+- [@matthew_d_green's twitter thread on Apple's new encryption push](https://twitter.com/matthew_d_green/status/1600567604015497216) (Twitter)
 - [Telegram drops SIM requirement for sign-ups, adds Global Auto-Delete timers](https://9to5google.com/2022/12/06/telegram-drops-sim-requirement-sign-ups/) (9to5Google)
 - [Rackspace rocked by ‘security incident’ that has taken out hosted Exchange services](https://www.theregister.com/2022/12/03/rackspace_security_incident_hosted_exchange/) (The Register)
 
@@ -388,7 +387,7 @@ title: Security/Privacy
 
 - [Amazon Security Lake is a standards-based data lake for security data](https://techcrunch.com/2022/11/29/awss-new-amazon-security-lake-is-a-standards-based-data-lake-for-security-data/) (TechCrunch)
 - [Apple Says Your iPhone's Usage Data is Anonymous, but New Tests Say That's Not True](https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619) (Gizmodo)
-- [1Password wants to ditch passwords without locking you in to one platform](https://www.fastcompany.com/90812818/1password-wants-to-ditch-passwords-without-locking-you-in-to-one-platform)
+- [1Password wants to ditch passwords without locking you in to one platform](https://www.fastcompany.com/90812818/1password-wants-to-ditch-passwords-without-locking-you-in-to-one-platform) (Fast Company)
 - [DuckDuckGo’s App Tracking Protection beta is now available to all Android users](https://www.theverge.com/2022/11/16/23462053/duckduckgo-app-tracking-tool-beta-android-users) (The Verge)
 - [The Most Vulnerable Place on the Internet](https://www.wired.co.uk/article/submarine-internet-cables-egypt)
 - [TikTok tells European users its staff in China get access to their data](https://www.theguardian.com/technology/2022/nov/02/tiktok-tells-european-users-its-staff-in-china-get-access-to-their-data) (The Guardian)
@@ -397,8 +396,8 @@ title: Security/Privacy
 ### October
 
 - [TikTok Parent ByteDance Planned To Use TikTok To Monitor The Physical Location Of Specific American Citizens](https://www.forbes.com/sites/emilybaker-white/2022/10/20/tiktok-bytedance-surveillance-american-user-data/?sh=174f5786c2db) (Forbes)
-- [I Turned My Home Into a Fortress of Surveillance](https://www.theatlantic.com/technology/archive/2022/10/home-security-surveillance-system-cameras/671760/)
-- [WhatsApp is now a spammers’ paradise in India](https://restofworld.org/2022/india-whatsapp-spam/)
+- [I Turned My Home Into a Fortress of Surveillance](https://www.theatlantic.com/technology/archive/2022/10/home-security-surveillance-system-cameras/671760/) (The Atlantic)
+- [WhatsApp is now a spammers’ paradise in India](https://restofworld.org/2022/india-whatsapp-spam/) (Rest of World)
 - [Signal will remove support for SMS text messages on Android](https://www.bleepingcomputer.com/news/technology/signal-will-remove-support-for-sms-text-messages-on-android/) (BleepingComputer)
 - [Former Uber Security Chief Found Guilty of Hiding Hack From Authorities](https://www.nytimes.com/2022/10/05/technology/uber-security-chief-joe-sullivan-verdict.html) (NYTimes)
 - [Former Uber security chief convicted of covering up 2016 data breach](https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/) (Washington Post)
@@ -413,7 +412,7 @@ title: Security/Privacy
 - [Uber links breach to Lapsus$ group, blames contractor for hack](https://www.bleepingcomputer.com/news/security/uber-links-breach-to-lapsus-group-blames-contractor-for-hack/) (BleepingComputer)
 - [Uber Investigating Breach of Its Computer Systems](https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html) (NYTimes)
 - [Uber suffers computer system breach, alerts authorities](https://www.washingtonpost.com/technology/2022/09/15/uber-hack/) (Washington Post)
-- [New Linux malware combines unusual stealth with a full suite of capabilities](https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/) (ArsTechnica)
+- [New Linux malware combines unusual stealth with a full suite of capabilities](https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/) (Ars Technica)
 - [Ring finally brings end-to-end encryption to its flagship video doorbells](https://www.theverge.com/2022/9/7/23340150/ring-end-to-end-encryption-video-doorbell-security-camera-battery?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Albania cuts diplomatic ties with Iran over July cyberattack](https://apnews.com/article/nato-technology-iran-middle-east-6be153b291f42bd549d5ecce5941c32a) (APNews)
 - [Google Chrome emergency update fixes new zero-day used in attacks](https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-new-zero-day-used-in-attacks/) (BleepingComputer)
@@ -442,7 +441,7 @@ title: Security/Privacy
 ### July
 
 - [IBM Security report finds data breaches are costlier than ever before](https://siliconangle.com/2022/07/27/ibm-security-report-finds-data-breaches-costlier-ever/) (SiliconAngle)
-- [Discovery of new UEFI rootkit exposes an ugly truth: The attacks are invisible to us](https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/) (ArsTechnica)
+- [Discovery of new UEFI rootkit exposes an ugly truth: The attacks are invisible to us](https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/) (Ars Technica)
 - [FTC to Crack Down on Sites That Claim Your Data Is 'Anonymized' When It's Not](https://www.pcmag.com/news/ftc-to-crack-down-on-sites-that-claim-your-data-is-anonymized-when-its) (PCMag)
 - [Here’s how North Korean operatives are trying to infiltrate US crypto firms](https://www.cnn.com/2022/07/10/politics/north-korean-hackers-crypto-currency-firms-infiltrate/) (CNN)
 - [Apple Announces New Lockdown Mode on iOS 16 With 'Extreme' Level of Security](https://www.macrumors.com/2022/07/06/ios-16-lockdown-mode/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -453,19 +452,19 @@ title: Security/Privacy
 
 ### June
 
-- [Cyber Pirates Prowling Ship Controls Threaten Another Big Shock](https://www.bloomberg.com/news/articles/2022-06-28/cyber-pirates-prowling-ship-controls-threaten-another-big-shock?sref=Szq5ylDR)
+- [Cyber Pirates Prowling Ship Controls Threaten Another Big Shock](https://www.bloomberg.com/news/articles/2022-06-28/cyber-pirates-prowling-ship-controls-threaten-another-big-shock?sref=Szq5ylDR) (Bloomberg)
 - [Without Roe, data will become a company headache and a user nightmare](https://www.axios.com/2022/05/06/data-company-headache-user-nightmare-abortion-roe) (Axios)
 - [Period tracker Stardust surges following Roe reversal, but its privacy claims aren’t airtight](https://techcrunch.com/2022/06/27/stardust-period-tracker-phone-number/) (TechCrunch)
 - [Google is notifying Android users targeted by Hermit government-grade spyware](https://techcrunch.com/2022/06/23/hermit-zero-day-android-spyware/) (TechCrunch)
 - [CISA, US Coast Guard warn of Log4Shell attacks after 130GB data breach in May](https://therecord.media/cisa-us-coast-guard-warn-of-log4shell-attacks-after-130gb-data-breach-in-may/) (The Record)
-- [How Russia’s vaunted cyber capabilities were frustrated in Ukraine](https://www.washingtonpost.com/opinions/2022/06/21/russia-ukraine-cyberwar-intelligence-agencies-tech-companies/)
+- [How Russia’s vaunted cyber capabilities were frustrated in Ukraine](https://www.washingtonpost.com/opinions/2022/06/21/russia-ukraine-cyberwar-intelligence-agencies-tech-companies/) (Washington Post)
 - [Privacy-focused Brave Search grew by 5,000% in a year](https://www.bleepingcomputer.com/news/software/privacy-focused-brave-search-grew-by-5-000-percent-in-a-year/) (Bleeping Computer)
 - [Announcing StackHawk’s $20.7 Million in Series B Funding to Drive Developer-First Security](https://www.stackhawk.com/blog/proudly-announcing-stackhawks-series-b/) (StackHawk)
 - [iOS 16 Will Let iPhone Users Bypass CAPTCHAs in Supported Apps and Websites](https://www.macrumors.com/2022/06/20/ios-16-bypass-captchas/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [Microsoft launches Defender for Individuals for Microsoft 365 Personal and Family subscribers](https://www.zdnet.com/article/microsoft-launches-defender-for-individuals-for-microsoft-365-personal-and-family-subscribers/) (ZDNet)
-- [Proton Is Trying to Become Google—Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/)
+- [Proton Is Trying to Become Google—Without Your Data](https://www.wired.com/story/proton-mail-calendar-drive-vpn/) (Wired)
 - [Firefox enables its anti-tracking feature by default](https://www.engadget.com/firefox-enables-anti-tracking-feature-by-default-130033590.html) (Engadget)
-- [The Surreal Case of a C.I.A. Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge)
+- [The Surreal Case of a C.I.A. Hacker’s Revenge](https://www.newyorker.com/magazine/2022/06/13/the-surreal-case-of-a-cia-hackers-revenge) (The New Yorker)
 - [US: Chinese govt hackers breached telcos to snoop on network traffic](https://www.bleepingcomputer.com/news/security/us-chinese-govt-hackers-breached-telcos-to-snoop-on-network-traffic/) (BleepingComputer)
 - [Apple Just Killed the Password—for Real This Time](https://www.wired.com/story/apple-passkeys-password-ios16-ventura/) (Wired)
 - [Security Fixes Won't Require Full iOS Update in iOS 16, Will Be Installed Automatically](https://www.macrumors.com/2022/06/06/ios-16-security-fixes-automatic/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
@@ -475,8 +474,8 @@ title: Security/Privacy
 
 - [DuckDuckGo browser allows Microsoft trackers due to search agreement](https://www.bleepingcomputer.com/news/security/duckduckgo-browser-allows-microsoft-trackers-due-to-search-agreement/) (Bleeping Computer)
 - [DOJ Announces It Won’t Prosecute White Hat Security Researchers](https://www.vice.com/en/article/v7d9nb/department-of-justice-security-researchers-new-cfaa-policy) (Motherboard)
-- [Cyber Insurers Raise Rates Amid a Surge in Costly Hacks](https://www.wsj.com/articles/cyber-insurers-raise-rates-amid-a-surge-in-costly-hacks-11652866200?mod=djemalertNEWS)
-- [2 vulnerabilities with 9.8 severity ratings are under exploit. A 3rd looms](https://arstechnica.com/information-technology/2022/05/2-vulnerabilities-with-9-8-severity-ratings-are-under-exploit-a-3rd-looms/) (ArsTechnica)
+- [Cyber Insurers Raise Rates Amid a Surge in Costly Hacks](https://www.wsj.com/articles/cyber-insurers-raise-rates-amid-a-surge-in-costly-hacks-11652866200?mod=djemalertNEWS) (WSJ)
+- [2 vulnerabilities with 9.8 severity ratings are under exploit. A 3rd looms](https://arstechnica.com/information-technology/2022/05/2-vulnerabilities-with-9-8-severity-ratings-are-under-exploit-a-3rd-looms/) (Ars Technica)
 - [Cornami raises $68M to support quantum encryption](https://venturebeat.com/2022/05/17/cornami-quantum-encryption/) (VentureBeat)
 - [Report spotlights vast scale of adtech's 'biggest data breach'](https://techcrunch.com/2022/05/16/iccl-rtb-report-google-gdpr/) (TechCrunch)
 - [Google releases Android 13 beta 2 with finer privacy controls and improved Material You](https://www.neowin.net/news/google-releases-android-13-beta-2-with-finer-privacy-controls-and-improved-material-you/?scrolla=5eb6d68b7fedc32c19ef33b4) (Neowin)
@@ -490,7 +489,7 @@ title: Security/Privacy
 ### April
 
 - [Google may now remove search results that dox you](https://www.theverge.com/2022/4/27/23044951/google-search-results-personal-information-address-phone-number?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [Major cryptography blunder in Java enables “psychic paper” forgeries](https://arstechnica.com/information-technology/2022/04/major-crypto-blunder-in-java-enables-psychic-paper-forgeries/) (ArsTechnica)
+- [Major cryptography blunder in Java enables “psychic paper” forgeries](https://arstechnica.com/information-technology/2022/04/major-crypto-blunder-in-java-enables-psychic-paper-forgeries/) (Ars Technica)
 - [Google: 2021 was a Banner Year for Exploited 0-Day Bugs](https://threatpost.com/google-2021-0-days/179355/) (ThreatPost)
 - [Brave is bypassing Google AMP pages because they’re ‘harmful to users’](https://www.theverge.com/2022/4/19/23032776/brave-de-amp-google-browser?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [US Officials Tie North Korea’s ‘Lazarus’ Hackers to $625M Crypto Theft](https://www.coindesk.com/policy/2022/04/14/us-officials-tie-north-korean-hacker-group-to-axies-ronin-exploit/) (CoinDesk)
@@ -509,7 +508,7 @@ title: Security/Privacy
 - [Leaked Details of the Lapsus$ Hack Make Okta’s Slow Response Look More Bizarre](https://www.wired.com/story/lapsus-okta-hack-sitel-leak/) (Wired)
 - [Emergency Google Chrome update fixes zero-day used in attacks](https://www.bleepingcomputer.com/news/security/emergency-google-chrome-update-fixes-zero-day-used-in-attacks/) (BleepingComputer)
 - [Lapsus$: Oxford teen accused of being multi-millionaire cyber-criminal](https://www.bbc.com/news/technology-60864283) (BBC News)
-- [LAPSUS$: How a Sloppy Extortion Gang Became One of the Most Prolific Hacking Groups](https://www.vice.com/en/article/3abedn/who-is-lapsus-hacking-gang)
+- [LAPSUS$: How a Sloppy Extortion Gang Became One of the Most Prolific Hacking Groups](https://www.vice.com/en/article/3abedn/who-is-lapsus-hacking-gang) (Vice)
 - [Teen Suspected by Cyber Researchers of Being Lapsus$ Mastermind](https://www.bloomberg.com/news/articles/2022-03-23/teen-suspected-by-cyber-researchers-of-being-lapsus-mastermind?sref=Szq5ylDR) (Bloomberg)
 - [A Closer Look at the LAPSUS$ Data Extortion Group](https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/) (KrebsonSecurity)
 - [The Third-Party Okta Hack Leaves Customers Scrambling](https://www.wired.com/story/okta-hack-customers-lapsus-breach/) (Wired)
@@ -517,12 +516,12 @@ title: Security/Privacy
 - [Okta hack puts thousands of businesses on high alert](https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Lapsus$ hackers leak 37GB of Microsoft's alleged source code](https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/) (BleepingComputer)
 - [Hacker Steals Customer Data From Circle, BlockFi, Other Big Crypto Firms](https://decrypt.co/95586/hacker-steals-customer-data-circle-blockfi-big-crypto-firms) (Decrypt)
-- [A Big Bet to Kill the Password for Good](https://www.wired.com/story/fido-alliance-ios-android-password-replacement/)
+- [A Big Bet to Kill the Password for Good](https://www.wired.com/story/fido-alliance-ios-android-password-replacement/) (Wired)
 - [Using a New Cyber Tool, Westerners Have Been Texting Russians About the War in Ukraine](https://www.wsj.com/articles/using-a-new-cyber-tool-westerners-have-been-texting-russians-about-the-war-in-ukraine-11647100803?mod=djemalertNEWS) (WSJ)
 - [Twitter Launches Tor Onion Service Making Site Easier to Access in Russia](https://www.vice.com/en/article/v7dqxd/twitter-tor-onion-service-dark-web-version) (Motherboard)
 - [Google is buying the cybersecurity company that uncovered the SolarWinds hack](https://www.theverge.com/2022/3/8/22966907/google-buying-mandiant-cybersecurity-outfit-5-4-billion?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Cloudflare, CrowdStrike and Ping Identity to provide free cybersecurity to vulnerable industries](https://siliconangle.com/2022/03/07/cloudflare-cloudstrike-ping-identity-provide-free-cybersecurity-vulnerable-industries/) (Silicon Angle)
-- [Cybercriminals who breached Nvidia issue one of the most unusual demands ever](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/) (ArsTechnica)
+- [Cybercriminals who breached Nvidia issue one of the most unusual demands ever](https://arstechnica.com/information-technology/2022/03/cybercriminals-who-breached-nvidia-issue-one-of-the-most-unusual-demands-ever/) (Ars Technica)
 - [Malware now using NVIDIA's stolen code signing certificates](https://www.bleepingcomputer.com/news/security/malware-now-using-nvidias-stolen-code-signing-certificates/) (Bleeping Computer)
 - [Hackers leak 190GB of alleged Samsung data, source code](https://www.bleepingcomputer.com/news/security/hackers-leak-190gb-of-alleged-samsung-data-source-code/) (Bleeping Computer)
 - [Chinese cyberspies target govts with their ‘most advanced’ backdoor](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-target-govts-with-their-most-advanced-backdoor/) (BleepingComputer)
@@ -535,8 +534,8 @@ title: Security/Privacy
 - [iOS jailbreak dev wins $2M bounty for finding critical Optimism bug](https://cointelegraph.com/news/ios-jailbreak-dev-wins-2m-bounty-for-finding-critical-optimism-bug) (CoinTelegraph)
 - [Secret CIA Bulk Surveillance Program Includes Some Americans’ Records, Senators Say](https://www.wsj.com/articles/secret-cia-bulk-surveillance-program-includes-some-americans-records-senators-say-11644549582?mod=djemalertNEWS) (WSJ)
 - [Signal now allows you to keep messages and groups after changing phone numbers](https://www.zdnet.com/article/signal-now-allows-you-to-keep-messages-and-groups-after-changing-phone-numbers/) (ZDNet)
-- [The Unnerving Rise of Video Games that Spy on You](https://www.wired.com/story/video-games-data-privacy-artificial-intelligence/)
-- [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/)
+- [The Unnerving Rise of Video Games that Spy on You](https://www.wired.com/story/video-games-data-privacy-artificial-intelligence/) (Wired)
+- [North Korea Hacked Him. So He Took Down Its Internet](https://www.wired.com/story/north-korea-hacker-internet-outage/) (Wired)
 - [KP Snacks giant hit by Conti ransomware, deliveries disrupted](https://www.bleepingcomputer.com/news/security/kp-snacks-giant-hit-by-conti-ransomware-deliveries-disrupted/) (BleepingComputer)
 - [European Ad Group Hit With Sanctions Over Privacy Lapses](https://www.bloomberg.com/news/articles/2022-02-02/european-ad-group-hit-with-harsh-sanctions-over-privacy-lapses?sref=Szq5ylDR) (Bloomberg)
 - [Who owns your address in AR? Probably not you.](https://www.protocol.com/entertainment/upland-augmented-reality-real-estate) (Protocol)
@@ -546,10 +545,10 @@ title: Security/Privacy
 - [Nothing Sacred: These Apps Reserve The Right To Sell Your Prayers](https://www.buzzfeednews.com/article/emilybakerwhite/apps-selling-your-prayers)
 - [Log4Shell: No Mass Abuse, But No Respite, What Happened?](https://news.sophos.com/en-us/2022/01/24/log4shell-no-mass-abuse-but-no-respite-what-happened/) (Sophos News)
 - [Google kills off FLoC, replaces it with Topics](https://techcrunch.com/2022/01/25/google-kills-off-floc-replaces-it-with-topics/) (TechCrunch)
-- [Hactivists say they hacked Belarus rail system to stop Russian military buildup](https://arstechnica.com/information-technology/2022/01/hactivists-say-they-hacked-belarus-rail-system-to-stop-russian-military-buildup/) (ArsTechnica)
+- [Hactivists say they hacked Belarus rail system to stop Russian military buildup](https://arstechnica.com/information-technology/2022/01/hactivists-say-they-hacked-belarus-rail-system-to-stop-russian-military-buildup/) (Ars Technica)
 - [DHS warns of Russian cyberattack on US if it responds to Ukraine invasion](https://abcnews.go.com/Politics/dhs-warns-russian-cyberattack-us-responds-ukraine-invasion/story?id=82441727) (ABCNews)
 - [Google deceived consumers about how it profits from their location data, attorneys general allege in lawsuits](https://www.washingtonpost.com/technology/2022/01/24/google-location-data-ags-lawsuit/) (Washington Post)
-- [How Did ID.me Get Between You and Your Identity?](https://www.bloomberg.com/news/features/2022-01-20/cybersecurity-company-id-me-is-becoming-government-s-digital-gatekeeper?sref=Szq5ylDR)
+- [How Did ID.me Get Between You and Your Identity?](https://www.bloomberg.com/news/features/2022-01-20/cybersecurity-company-id-me-is-becoming-government-s-digital-gatekeeper?sref=Szq5ylDR) (Bloomberg)
 - [IRS Will Require Facial Recognition Scans to Access Your Taxes Online](https://gizmodo.com/irs-will-require-facial-recognition-scans-to-access-you-1848387715?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
 - [IRS Will Soon Require Selfies for Online Access](https://krebsonsecurity.com/2022/01/irs-will-soon-require-selfies-for-online-access/) (KrebsonSecurity)
 - [Cross-country Exposure - Analysis of the MY2022 Olympics app](https://citizenlab.ca/2022/01/cross-country-exposure-analysis-my2022-olympics-app/) (Citizenlab.ca)
@@ -567,8 +566,8 @@ title: Security/Privacy
 - [CISA warns 'most serious' Log4j vulnerability likely to affect hundreds of millions of devices](https://www.cyberscoop.com/log4j-cisa-easterly-most-serious/) (CyberScoop)
 - [The numbers behind a cyber pandemic – detailed dive](https://blog.checkpoint.com/2021/12/13/the-numbers-behind-a-cyber-pandemic-detailed-dive/) (Check Point)
 - [Apple launches AirTags and Find My detector app for Android, in effort to boost privacy](https://www.cnet.com/tech/mobile/apple-launches-airtags-and-find-my-detector-app-for-android-in-effort-to-boost-privacy/) (CNET)
-- [Zero-day in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/) (ArsTechnica)
-- [The Internet’s biggest players are all affected by critical Log4Shell 0-day](https://arstechnica.com/information-technology/2021/12/the-critical-log4shell-zero-day-affects-a-whos-who-of-big-cloud-services/) (ArsTechnica)
+- [Zero-day in ubiquitous Log4j tool poses a grave threat to the Internet](https://arstechnica.com/information-technology/2021/12/minecraft-and-other-apps-face-serious-threat-from-new-code-execution-bug/) (Ars Technica)
+- [The Internet’s biggest players are all affected by critical Log4Shell 0-day](https://arstechnica.com/information-technology/2021/12/the-critical-log4shell-zero-day-affects-a-whos-who-of-big-cloud-services/) (Ars Technica)
 - [Apple Set to Release Nudity Detection in Texting, But Other Features Remain on Hold](https://www.bloomberg.com/news/newsletters/2021-12-12/what-s-in-apple-s-ios-15-2-ipados-15-2-nude-image-detection-legacy-contacts-kx3m3nmb?sref=Szq5ylDR) (Bloomberg)
 - [The Popular Family Safety App Life360 Is Selling Precise Location Data on Its Tens of Millions of Users](https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user) (The Markup)
 - [Honeywell Unit Offers First-Ever Quantum-Created Encryption Key](https://www.bloomberg.com/news/articles/2021-12-07/honeywell-unit-offers-first-ever-quantum-created-encryption-key?sref=Szq5ylDR) (Bloomberg)
@@ -581,7 +580,7 @@ title: Security/Privacy
 - [Meta delays encrypted messages on Facebook and Instagram to 2023](https://www.theguardian.com/technology/2021/nov/21/meta-delays-encrypted-messages-on-facebook-and-instagram-to-2023) (The Guardian)
 - [FBI system hacked to email 'urgent' warning about fake cyberattacks](https://www.bleepingcomputer.com/news/security/fbi-system-hacked-to-email-urgent-warning-about-fake-cyberattacks/) (Bleeping Computer)
 - [Hoax Email Blast Abused Poor Coding in FBI Website](https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/) (KrebsOnSecurity)
-- [Google Caught Hackers Using a Mac Zero-Day Against Hong Kong Users](https://www.vice.com/en/article/93bw8y/google-caught-hackers-using-a-mac-zero-day-against-hong-kong-users) (Vice/Motherboard)
+- [Google Caught Hackers Using a Mac Zero-Day Against Hong Kong Users](https://www.vice.com/en/article/93bw8y/google-caught-hackers-using-a-mac-zero-day-against-hong-kong-users) (Vice)
 - [Robinhood says millions of customer names and email addresses taken in data breach](https://techcrunch.com/2021/11/09/robinhood-data-breach/) (TechCrunch)
 - [US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack](https://www.cnn.com/2021/11/08/politics/revil-ransomware-attack-charges/) (CNN)
 - [A Drone Tried to Disrupt the Power Grid. It Won't Be the Last](https://www.wired.com/story/drone-attack-power-substation-threat/) (Wired)
@@ -596,7 +595,7 @@ title: Security/Privacy
 - [Privacy by Design](https://worldcoin.org/privacy-by-design) (WorldCoin)
 - [Governments turn tables on ransomware gang REvil by pushing it offline](https://www.reuters.com/technology/exclusive-governments-turn-tables-ransomware-gang-revil-by-pushing-it-offline-2021-10-21/) (Reuters)
 - [Brave Removes Google as its Default Search Engine](https://www.thurrott.com/cloud/web-browsers/258380/brave-removes-google-as-its-default-search-engine) (Thurrott.com)
-- [Apple’s privacy changes create windfall for its own advertising business](https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d) (Financial Times)
+- [Apple’s privacy changes create windfall for its own advertising business](https://www.ft.com/content/074b881f-a931-4986-888e-2ac53e286b9d) (FT)
 - [1Password's new feature lets you safely share passwords using just a link](https://www.engadget.com/1-passwords-new-feature-will-let-you-securely-share-logins-with-anyone-130044719.html) (Engadget)
 - [Microsoft said it mitigated a 2.4 Tbps DDoS attack, the largest ever](https://therecord.media/microsoft-said-it-mitigated-a-2-4-tbps-ddos-attack-the-largest-ever/) (The Record)
 - [The entirety of Twitch has reportedly been leaked](https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/) (VideoGamesChronicle)
@@ -645,42 +644,42 @@ title: Security/Privacy
 - [Gmail deploys support BIMI security standard](https://therecord.media/gmail-deploys-support-bimi-security-standard/) (The Record)
 - [Ring’s end-to-end encryption is rolling out globally](https://www.theverge.com/2021/7/13/22574629/ring-end-to-end-encryption-video-streams-us-global?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Microsoft Agrees to Acquire Cybersecurity Company RiskIQ](https://www.bloomberg.com/news/articles/2021-07-11/microsoft-is-said-to-be-buying-cybersecurity-company-riskiq?sref=Szq5ylDR) (Bloomberg)
-- [Hundreds of Businesses, From Sweden to U.S., Affected by Cyberattack](https://www.nytimes.com/2021/07/02/technology/cyberattack-businesses-ransom.html) (New York Times)
+- [Hundreds of Businesses, From Sweden to U.S., Affected by Cyberattack](https://www.nytimes.com/2021/07/02/technology/cyberattack-businesses-ransom.html) (NYTimes)
 - [REvil gang asks for $70 million to decrypt systems locked in Kaseya attack](https://therecord.media/revil-gang-asks-70-million-to-decrypt-systems-locked-in-kaseya-attack/) (The Record)
 
 ### June
 
 - [Microsoft admits to signing rootkit malware in supply chain fiasco](https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/) (Bleeping Computer)
-- [Meet the activists perfecting the craft of anti-surveillance](https://www.ft.com/content/a0f8d8c5-ee5c-4618-bfbd-6bfb383b803e) (Financial Times)
+- [Meet the activists perfecting the craft of anti-surveillance](https://www.ft.com/content/a0f8d8c5-ee5c-4618-bfbd-6bfb383b803e) (FT)
 - [WD My Book NAS devices are being remotely wiped clean worldwide](https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/) (Bleeping Computer)
 - [Google delays Chrome's cookie-blocking privacy plan by nearly 2 years](https://www.cnet.com/news/google-delays-chromes-cookie-blocking-privacy-plan-by-nearly-2-years/) (Cnet)
-- [Brave’s nontracking search engine is now in beta](https://techcrunch.com/2021/06/22/braves-non-tracking-search-engine-is-now-in-beta/) (Tech Crunch)
+- [Brave’s nontracking search engine is now in beta](https://techcrunch.com/2021/06/22/braves-non-tracking-search-engine-is-now-in-beta/) (TechCrunch)
 - [What is the 'brushing' scam and how can you protect yourself?](https://uk.style.yahoo.com/what-is-brushing-scam-how-to-protect-yourself-084947955.html?guccounter=1) (Yahoo Life)
 - [Bombshell Report Finds Phone Network Encryption Was Deliberately Weakened](https://www.vice.com/en/article/4avnan/bombshell-report-finds-phone-network-encryption-was-deliberately-weakened) (Vice)
-- [Ukraine arrests ransomware gang in global cyber criminal crackdown](https://www.ft.com/content/de3b7a60-e38d-43a0-ad85-348fbed90d67) (Financial Times)
+- [Ukraine arrests ransomware gang in global cyber criminal crackdown](https://www.ft.com/content/de3b7a60-e38d-43a0-ad85-348fbed90d67) (FT)
 - [Google may be working on an Android version of Apple’s “Find My” network](https://www.xda-developers.com/google-find-my-device-network/) (XDA Developers)
 - [Ransomware claims are roiling an entire segment of the insurance industry](https://www.washingtonpost.com/technology/2021/06/17/ransomware-axa-insurance-attacks/) (Washington Post)
 - [How governments and spies text each other](https://www.wired.co.uk/article/matrix-encrypted-messaging-app-governments) (Wired)
 - [U.S. Supreme Court revives LinkedIn bid to shield personal data](https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/) (Reuters)
-- [McDonald’s Hit by Data Breach](https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800?mod=djemalertNEWS) (Wall Street Journal)
+- [McDonald’s Hit by Data Breach](https://www.wsj.com/articles/mcdonalds-hit-by-data-breach-in-south-korea-taiwan-11623412800?mod=djemalertNEWS) (WSJ)
 - [Hackers Steal Wealth of Data from Game Giant EA](https://www.vice.com/en/article/wx5xpx/hackers-steal-data-electronic-arts-ea-fifa-source-code) (Vice)
 - [Apple says its new logon tech is as easy as passwords but far more secure](http://cnet.com/news/apple-says-its-new-logon-tech-is-as-easy-as-passwords-but-far-more-secure/) (Cnet)
 - [The hard truth about ransomware: we aren’t prepared, it’s a battle with new rules, and it hasn’t near reached peak impact.](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54) (Double Pulsar)
-- [JBS Paid $11 Million to Resolve Ransomware Attack](https://www.wsj.com/articles/jbs-paid-11-million-to-resolve-ransomware-attack-11623280781?mod=djemalertNEWS) (Wall Street Journal)
+- [JBS Paid $11 Million to Resolve Ransomware Attack](https://www.wsj.com/articles/jbs-paid-11-million-to-resolve-ransomware-attack-11623280781?mod=djemalertNEWS) (WSJ)
 - [FBI and Australian police ran an encrypted chat platform to catch criminal gangs](https://therecord.media/fbi-and-australian-police-ran-an-encrypted-chat-platform-to-catch-criminal-gangs/) (The Record)
 - [Encrypted messaging app used by criminals was actually an FBI honeypot](https://www.inputmag.com/tech/encrypted-messaging-app-anom-used-by-criminals-was-a-secret-fbi-honeypot) (Input)
-- [U.S. Retrieves Millions in Ransom Paid to Colonial Pipeline Hackers](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399?mod=djemalertNEWS) (Wall Street Journal)
+- [U.S. Retrieves Millions in Ransom Paid to Colonial Pipeline Hackers](https://www.wsj.com/articles/u-s-retrieves-millions-paid-to-colonial-pipeline-hackers-11623094399?mod=djemalertNEWS) (WSJ)
 - [Apple will let users stay on iOS 14 and receive security updates, even after iOS 15 is released](https://9to5mac.com/2021/06/07/apple-will-let-users-stay-on-ios-14-and-receive-security-updates-even-after-ios-15-is-released/) (9to5 Mac)
 - [Apple’s iCloud Plus bundles a VPN, private email, and HomeKit camera storage](https://www.theverge.com/2021/6/7/22522998/apple-icloud-plus-subscription-vpn-scurity-wwdc?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Exclusive-U.S. to give ransomware hacks similar priority as terrorism, official says](https://www.reuters.com/article/cyber-usa-ransomware-idUSL2N2NC1SD) (Reuters)
 - [How to Negotiate with Ransomware Hackers](https://www.newyorker.com/magazine/2021/06/07/how-to-negotiate-with-ransomware-hackers) (The New Yorker)
 - [U.S. says ransomware attack on meatpacker JBS likely from Russia; cattle slaughter resuming](https://www.cnbc.com/2021/06/01/big-north-american-meat-plants-halt-operations-after-jbs-cyberattack.html) (CNBC)
-- [Meat Buyers Scramble After Cyberattack Hobbles JBS](https://www.wsj.com/articles/meatpacker-jbs-hit-by-cyberattack-affecting-north-american-australian-operations-11622548864?mod=djemalertNEWS) (Wall Street Journal)
-- [Amazon devices will soon automatically share your Internet with neighbors](https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/) (ArsTechnica)
+- [Meat Buyers Scramble After Cyberattack Hobbles JBS](https://www.wsj.com/articles/meatpacker-jbs-hit-by-cyberattack-affecting-north-american-australian-operations-11622548864?mod=djemalertNEWS) (WSJ)
+- [Amazon devices will soon automatically share your Internet with neighbors](https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/) (Ars Technica)
 
 ### May
 
-- [Russia Appears to Carry Out Hack Through System Used by U.S. Aid Agency](https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html) (New York Times)
+- [Russia Appears to Carry Out Hack Through System Used by U.S. Aid Agency](https://www.nytimes.com/2021/05/28/us/politics/russia-hack-usaid.html) (NYTimes)
 - [Have I been Pwned goes open source](https://www.zdnet.com/article/have-i-been-pwned-goes-open-source/) (ZDnet)
 - [App Store Scam App Required a Good Review to Function at All](https://www.macrumors.com/2021/05/26/app-store-scam-app-required-a-good-review/?scrolla=5eb6d68b7fedc32c19ef33b4) (Mac Rumors)
 - [Morphing computer chip repels hundreds of professional DARPA hackers](https://newatlas.com/computers/morpheus-processor-secure-darpa-hackers/) (New Atlas)
@@ -697,25 +696,25 @@ title: Security/Privacy
 ### April
 
 - [Ransomware gang threatens to expose police informants if ransom is not paid](https://therecord.media/ransomware-gang-threatens-to-expose-police-informants-if-ransom-is-not-paid/) (The Record)
-- [To Be Tracked or Not? Apple Is Now Giving Us the Choice.](https://www.nytimes.com/2021/04/26/technology/personaltech/apple-app-tracking-transparency.html) (New York Times)
+- [To Be Tracked or Not? Apple Is Now Giving Us the Choice.](https://www.nytimes.com/2021/04/26/technology/personaltech/apple-app-tracking-transparency.html) (NYTimes)
 - [DoNotPay's new tool makes your photos undetectable to facial recognition software](https://www.inputmag.com/tech/photo-ninja-makes-photos-undetectable-to-facial-recognition-software) (Input)
 - [Ransomware gang tries to extort Apple hours ahead of Spring Loaded event](https://therecord.media/ransomware-gang-tries-to-extort-apple-hours-ahead-of-spring-loaded-event/) (The Record)
-- [Facebook faces ‘mass action’ lawsuit in Europe over 2019 breach](https://techcrunch.com/2021/04/16/facebook-faces-mass-action-lawsuit-in-europe-over-2019-breach/) (Tech Crunch)
+- [Facebook faces ‘mass action’ lawsuit in Europe over 2019 breach](https://techcrunch.com/2021/04/16/facebook-faces-mass-action-lawsuit-in-europe-over-2019-breach/) (TechCrunch)
 - [FBI Accesses Computers Around Country to Delete Microsoft Exchange Hacks](https://www.vice.com/en/article/y3dmjg/fbi-removes-web-shells-microsoft-exchange) (Vice)
 - [Google starts rolling out “Heads Up” in Digital Wellbeing to stop distracted walking](https://www.xda-developers.com/google-rolling-out-heads-up-digital-wellbeing/) (XDA Developers)
 - [Apple Admits Purposely Keeping iMessage Off Android Helps Lock Users In](https://www.droid-life.com/2021/04/08/apple-android-imessage-lock-in/) (DroidLife)
 - [Hackers scraped data from 500 million LinkedIn users — about two-thirds of the platform's userbase — and have posted it for sale online](https://www.businessinsider.com/linkedin-data-scraped-500-million-users-for-sale-online-2021-4?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
 - [What Really Caused Facebook's 500M-User Data Leak?](https://www.wired.com/story/facebook-data-leak-500-million-users-phone-numbers/) (Wired)
 - [533 million Facebook users' phone numbers and personal data have been leaked online](https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4?op=1&scrolla=5eb6d68b7fedc32c19ef33b4) (Insider)
-- [Is Apple's Privacy Push Facebook's Existential Threat‪?](https://podcasts.apple.com/us/podcast/is-apples-privacy-push-facebooks-existential-threat/id1528594034?i=1000515797139)
+- [Is Apple's Privacy Push Facebook's Existential Threat‪?](https://podcasts.apple.com/us/podcast/is-apples-privacy-push-facebooks-existential-threat/id1528594034?i=1000515797139) (Apple Podcasts)
 - [Sideloading Apps Would 'Break' the Security and Privacy of iPhone, Says Tim Cook](https://www.macrumors.com/2021/04/05/tim-cook-sideloading-apps-would-break-the-iphone/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [Apple Rejecting Apps With Fingerprinting Enabled As iOS 14 Privacy Enforcement Starts](https://www.forbes.com/sites/johnkoetsier/2021/04/01/apple-rejecting-apps-with-fingerprinting-enabled-as-ios-14-privacy-enforcement-starts/?sh=74c670da3d19) (Forbes)
 
 ### March
 
-- [Android sends 20x more data to Google than iOS sends to Apple, study says](https://arstechnica.com/gadgets/2021/03/android-sends-20x-more-data-to-google-than-ios-sends-to-apple-study-says/) (ArsTechnica)
+- [Android sends 20x more data to Google than iOS sends to Apple, study says](https://arstechnica.com/gadgets/2021/03/android-sends-20x-more-data-to-google-than-ios-sends-to-apple-study-says/) (Ars Technica)
 - [PHP's Git server hacked to add backdoors to PHP source code](https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/) (BleepingComputer)
-- [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/) (ArsTechnica)
+- [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/) (Ars Technica)
 - [Zuckerberg: Facebook may actually be in a ‘stronger position’ after Apple’s iOS 14 privacy changes](https://www.cnbc.com/2021/03/18/zuckerberg-facebook-may-be-in-stronger-position-after-apple-ios-14.html) (CNBC)
 - [Loans that hijack your phone are coming to India](https://restofworld.org/2021/loans-that-hijack-your-phone-are-coming-to-india/) (Rest of World)
 - [Tampa Twitter hacker agrees to three years in prison](https://www.tampabay.com/news/crime/2021/03/16/tampa-twitter-hacker-agrees-to-three-years-in-prison-in-plea-deal/) (Tampa Bay Times)
@@ -738,7 +737,7 @@ title: Security/Privacy
 ### February
 
 - [1Password has none, KeePass has none... So why are there seven embedded trackers in the LastPass Android app?](https://www.theregister.com/2021/02/25/lastpass_android_trackers_found/) (The Register)
-- [New malware found on 30,000 Macs has security pros stumped](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/) (ArsTechnica)
+- [New malware found on 30,000 Macs has security pros stumped](https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/) (Ars Technica)
 - [Clubhouse Chats Are Breached, Raising Concerns Over Security](https://www.bloomberg.com/news/articles/2021-02-22/clubhouse-chats-are-breached-raising-concerns-over-security?sref=sZAFdZwV) (Bloomberg)
 - [iOS 14.5 Beta Directs 'Safe Browsing' Traffic in Safari Through Apple Server Instead of Google to Protect Personal User Data](https://www.macrumors.com/2021/02/11/ios-14-5-beta-safe-browsing-safari-apple-google/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [Is This Beverly Hills Cop Playing Sublime’s ‘Santeria’ to Avoid Being Live-Streamed?](https://www.vice.com/en/article/bvxb94/is-this-beverly-hills-cop-playing-sublimes-santeria-to-avoid-being-livestreamed) (Vice)
@@ -747,7 +746,7 @@ title: Security/Privacy
 - [Amazon is using AI-equipped cameras in delivery vans and some drivers are concerned about privacy](https://www.cnbc.com/2021/02/03/amazon-using-ai-equipped-cameras-in-delivery-vans.html) (CNBC)
 - [Apple’s iCloud Passwords extension for Chrome on Windows is now available](https://9to5google.com/2021/01/31/apple-icloud-passwords-chrome-windows/) (9to5Google)
 - [Microsoft CEO Satya Nadella: There is ‘a big crisis right now’ for cybersecurity](https://finance.yahoo.com/news/microsoft-ceo-satya-nadella-there-is-a-big-crisis-right-now-for-cybersecurity-192533356.html) (Yahoo Finance)
-- [US police and fire departments partnering with Amazon’s Ring passes 2,000](https://www.ft.com/content/61968b3b-c093-4c4a-a7b7-29b565bc0bc0) (Financial Times)
+- [US police and fire departments partnering with Amazon’s Ring passes 2,000](https://www.ft.com/content/61968b3b-c093-4c4a-a7b7-29b565bc0bc0) (FT)
 - [New Linux SUDO flaw lets local users gain root privileges](https://www.bleepingcomputer.com/news/security/new-linux-sudo-flaw-lets-local-users-gain-root-privileges/) (Bleeping Computer)
 
 ### January
@@ -759,10 +758,10 @@ title: Security/Privacy
 - [Every Deleted Parler Post, Many With Users' Location Data, Has Been Archived](https://gizmodo.com/every-deleted-parler-post-many-with-users-location-dat-1846032466) (Gizmodo)
 - [Parler Users Breached Deep Inside U.S. Capitol Building, GPS Data Shows](https://gizmodo.com/parler-users-breached-deep-inside-u-s-capitol-building-1846042905?scrolla=5eb6d68b7fedc32c19ef33b4) (Gizmodo)
 - [WhatsApp clarifies it’s not giving all your data to Facebook after surge in Signal and Telegram users](https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [SolarWinds hires former Trump cyber security chief Chris Krebs](https://www.ft.com/content/df641e33-9150-4846-b4f7-db4e3175d290) (Financial Times)
+- [SolarWinds hires former Trump cyber security chief Chris Krebs](https://www.ft.com/content/df641e33-9150-4846-b4f7-db4e3175d290) (FT)
 - [Encrypted Messaging App Signal Sees Surge in Popularity Following WhatsApp Privacy Policy Update](https://www.macrumors.com/2021/01/08/messaging-app-signal-sees-surge-signups/) (MacRumors)
 - [Widely Used Software Company May Be Entry Point for Huge U.S. Hacking](https://www.nytimes.com/2021/01/06/us/politics/russia-cyber-hack.html) (NYTimes)
-- [WhatsApp updates its Terms and Privacy Policy to mandate data-sharing with Facebook](https://www.xda-developers.com/whatsapp-updates-terms-privacy-policy-mandate-data-sharing-facebook/) (XDA-Developers)
+- [WhatsApp updates its Terms and Privacy Policy to mandate data-sharing with Facebook](https://www.xda-developers.com/whatsapp-updates-terms-privacy-policy-mandate-data-sharing-facebook/) (XDA)
 - [Singapore police can access COVID-19 contact tracing data for criminal investigations](https://www.zdnet.com/article/singapore-police-can-access-covid-19-contact-tracing-data-for-criminal-investigations/) (ZDNet)
 
 ## 2020
@@ -817,7 +816,7 @@ title: Security/Privacy
 - [Yubico’s new USB-C security key with NFC could be the one key to unlock them all](https://www.theverge.com/2020/9/9/21428090/yubico-yubikey-5c-nfc-newest-usb-c-security-key?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Scene Bust Triggered Historic Drop in ‘Pirate’ Releases](https://torrentfreak.com/scene-bust-triggered-historic-drop-in-pirate-releases-200904/) (Torrent Freak)
 - [Court rules NSA phone snooping illegal — after 7-year delay](https://www.politico.com/news/2020/09/02/court-rules-nsa-phone-snooping-illegal-407727) (Politico)
-- [Feds can’t ask Google for every phone in a 100-meter radius, court says](https://arstechnica.com/tech-policy/2020/09/feds-cant-ask-google-for-every-phone-in-a-100-meter-radius-court-says/) (ArsTechnica)
+- [Feds can’t ask Google for every phone in a 100-meter radius, court says](https://arstechnica.com/tech-policy/2020/09/feds-cant-ask-google-for-every-phone-in-a-100-meter-radius-court-says/) (Ars Technica)
 
 ### August
 
@@ -903,11 +902,11 @@ title: Security/Privacy
 - [Microsoft Buys Corp.com So Bad Guys Can’t](https://krebsonsecurity.com/2020/04/microsoft-buys-corp-com-so-bad-guys-cant/) (KrebsonSecurity)
 - [Russian telco hijacks internet traffic for Google, AWS, Cloudflare, and others](https://www.zdnet.com/article/russian-telco-hijacks-internet-traffic-for-google-aws-cloudflare-and-others/) (ZDNet)
 - [Google uses location data to show which places are complying with stay-at-home orders — and which aren’t](https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy) (The Verge)
-- [In coronavirus fight, oft-criticized Facebook data aids U.S.](https://www.reuters.com/article/health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ)
+- [In coronavirus fight, oft-criticized Facebook data aids U.S.](https://www.reuters.com/article/health-coronavirus-facebook-location/in-coronavirus-fight-oft-criticized-facebook-data-aids-u-s-cities-states-idUSKBN21K3BJ) (Reuters)
 - [PRIVACY EXPERTS SAY RESPONSIBLE CORONAVIRUS SURVEILLANCE IS POSSIBLE](https://theintercept.com/2020/04/02/coronavirus-covid-19-surveillance-privacy/) (The Intercept)
 - [Marriott discloses new data breach impacting 5.2 million hotel guests](https://www.zdnet.com/article/marriott-discloses-new-data-breach-impacting-5-2-million-hotel-guests/) (ZDNet)
 - [Zoom Lets Attackers Steal Windows Credentials via UNC Links](https://www.bleepingcomputer.com/news/security/zoom-lets-attackers-steal-windows-credentials-via-unc-links/) (Bleeping Computer)
-- [@c1truz_ thread about Zoom](https://twitter.com/c1truz_/status/1244737672930824193)
+- [@c1truz_ thread about Zoom](https://twitter.com/c1truz_/status/1244737672930824193) (Twitter)
 
 ### March
 
@@ -1007,7 +1006,7 @@ title: Security/Privacy
 - [Ransomware Bites 400 Veterinary Hospitals](https://www.theverge.com/2019/11/19/20972336/google-assistant-audio-news-feed-algorithm) (Krebs on Security)
 - [In Its First Funding In 14 Years, Toronto’s 1Password Raises $200M Series A Led By Accel](https://news.crunchbase.com/news/in-its-first-funding-in-14-years-1password-raises-200m-series-a-led-by-accel/) (Crunchbase)
 - [Brave 1.0 launches, bringing the privacy-first browser out of beta](https://www.theverge.com/2019/11/13/20962085/brave-beta-1-0-privacy-browser-chrome-firefox-safari-ad-block-tracker) (The Verge)
-- [Google’s ‘Project Nightingale’ Gathers Personal Health Data on Millions of Americans](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790) (The Wall Street Journal)
+- [Google’s ‘Project Nightingale’ Gathers Personal Health Data on Millions of Americans](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790) (WSJ)
 - [Former Twitter employees charged with spying for Saudi Arabia by digging into the accounts of kingdom critics](https://www.washingtonpost.com/national-security/former-twitter-employees-charged-with-spying-for-saudi-arabia-by-digging-into-the-accounts-of-kingdom-critics/2019/11/06/2e9593da-00a0-11ea-8bab-0fc209e065a8_story.html) (Washington Post)
 - [Facebook Portal survives Pwn2Own hacking contest, Amazon Echo got hacked](https://www.zdnet.com/article/facebook-portal-survives-pwn2own-hacking-contest-amazon-echo-got-hacked/?mid=1) (ZDNet)
 - [Actively exploited bug in fully updated Firefox is sending users into a tizzy](https://arstechnica.com/information-technology/2019/11/scammers-are-exploiting-an-unpatched-firefox-bug-to-send-users-into-a-panic/) (Ars Technica)
@@ -1047,10 +1046,10 @@ title: Security/Privacy
 - [At Least 70 Countries Have Had Disinformation Campaigns, Study Finds](https://www.nytimes.com/2019/09/26/technology/government-disinformation-cyber-troops.html) (NYTimes)
 - [Microsoft's new 'Data Dignity' team could help users control their personal data](https://www.zdnet.com/article/microsofts-new-data-dignity-team-could-help-users-control-their-personal-data/) (ZDNet)
 - [Disclosing new data to our archive of information operations](https://blog.twitter.com/en_us/topics/company/2019/info-ops-disclosure-data-september-2019.html) (Twitter)
-- [Smart TVs sending private data to Netflix and Facebook](https://www.ft.com/content/23ab2f68-d957-11e9-8f9b-77216ebe1f17) (Financial Times)
+- [Smart TVs sending private data to Netflix and Facebook](https://www.ft.com/content/23ab2f68-d957-11e9-8f9b-77216ebe1f17) (FT)
 - [As sex toys continue to get hacked, the defin­i­tion of sexual assault is under question](https://screenshot-magazine.com/technology/sex-toys-hacked-again/) (Screen Shot)
 - [China hacked Asian telcos to spy on Uighur travelers](https://www.reuters.com/article/us-china-cyber-uighurs/china-hacked-asian-telcos-to-spy-on-uighur-travelers-sources-idUSKCN1VQ1A5) (Reuters)
-- [Why ‘SIM Swapping’ Is a Growing Security Nightmare](https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html) (New York Times)
+- [Why ‘SIM Swapping’ Is a Growing Security Nightmare](https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html) (NYTimes)
 - [YouTube will pay $170 million to settle claims it violated child privacy laws](https://www.cnbc.com/2019/09/04/youtube-to-pay-170-million-in-ftc-child-privacy-settlement.html) (CNBC)
 - [An Update About Face Recognition on Facebook](https://newsroom.fb.com/news/2019/09/update-face-recognition/) (Facebook Newsroom)
 - [Amazon tests Whole Foods payment system that uses hands as ID](https://nypost.com/2019/09/03/amazon-testing-payment-system-that-uses-hands-as-id/) (New York Post)
@@ -1071,7 +1070,7 @@ title: Security/Privacy
 - [The first Lightning security key for iPhones is here, and it works with USB-C, too](https://www.theverge.com/2019/8/20/20813129/yubico-first-security-key-for-iphones-works-with-usb-c-google-titan-ios-ipad-pro-1password-lastpass) (The Verge)
 - [Hacker Releases First Public Jailbreak for Up-to-Date iPhones in Years](https://www.vice.com/en_us/article/qvgp77/hacker-releases-first-public-iphone-jailbreak-in-years) (Motherboard)
 - [HOW A 'NULL' LICENSE PLATE LANDED ONE HACKER IN TICKET HELL](https://www.wired.com/story/null-license-plate-landed-one-hacker-ticket-hell/) (Wired)
-- [Major breach found in biometrics system used by banks, UK police and defence firm](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+- [Major breach found in biometrics system used by banks, UK police and defence firm](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms) (The Guardian)
 - [Facebook Paid Contractors to Transcribe Users’ Audio Chats](https://www.bloomberg.com/news/articles/2019-08-13/facebook-paid-hundreds-of-contractors-to-transcribe-users-audio) (Bloomberg)
 - [Security researchers find that DSLR cameras are vulnerable to ransomware attack](https://www.theverge.com/2019/8/11/20800979/check-point-canon-eos-80d-dslr-malware-ransomware-cybersecurity) (The Verge)
 - [The New York Times is still detecting Chrome Incognito Mode after Google’s fix](https://9to5google.com/2019/08/09/new-york-times-detect-incognito-chrome-76/) (9to5Google)
@@ -1207,7 +1206,7 @@ title: Security/Privacy
 - [Facebook on Hunt for Big Cybersecurity Acquisition](https://www.theinformation.com/articles/facebook-on-hunt-for-big-cybersecurity-acquisition) (The Information)
 - [Thieves steal a Tesla Model S by hacking the entry fob](https://www.engadget.com/2018/10/22/tesla-model-s-theft-keyfob-hack/) (Engadget)
 - [A tech executive's video of his Tesla Model S being hacked and stolen is going viral](https://www.businessinsider.com/tesla-model-s-stolen-antony-kennedy-video-2018-10?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Falleyinsider%2Fsilicon_alley_insider+%28Silicon+Alley+Insider%29) (Business Insider)
-- [Video of the Tesla theft](https://www.youtube.com/watch?v=odG2GX4_cUQ)
+- [Video of the Tesla theft](https://www.youtube.com/watch?v=odG2GX4_cUQ) (YouTube)
 - [Facebook Finds Hack Was Done by Spammers, Not Foreign State](https://www.wsj.com/articles/facebook-tentatively-concludes-recent-hack-was-perpetrated-by-spammers-1539821869) (WSJ)
 - [It turns out that Facebook could in fact use data collected from its Portal in-home video device to target you with ads](https://www.recode.net/2018/10/16/17966102/facebook-portal-ad-targeting-data-collection) (Recode)
 - [Cops Told ‘Don’t Look’ at New iPhones to Avoid Face ID Lock-Out](https://motherboard.vice.com/en_us/article/5984jq/cops-dont-look-iphonex-face-id-unlock-elcomsoft) (Motherboard)
@@ -1266,7 +1265,7 @@ title: Security/Privacy
 - [For BlackBerry Key2, privacy is (again) a key pitch for comeback](https://www.cnet.com/news/for-blackberry-key2-privacy-is-again-a-key-pitch-for-comeback/) (CNET)
 - [Facebook Gave Data Access to Chinese Firm Flagged by U.S. Intelligence](https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html) (NYTimes)
 - [Facebook Gave Device Makers Deep Access to Data on Users and Friends](https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html) (NYTimes)
-- [he Search for Women Who Want Cybersecurity Careers](https://www.wsj.com/articles/the-search-for-women-who-want-cybersecurity-careers-1527645661?mod=e2tw)
+- [he Search for Women Who Want Cybersecurity Careers](https://www.wsj.com/articles/the-search-for-women-who-want-cybersecurity-careers-1527645661?mod=e2tw) (WSJ)
 
 ### May
 

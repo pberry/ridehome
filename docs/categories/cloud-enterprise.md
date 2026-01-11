@@ -1,5 +1,4 @@
 ---
-layout: category
 title: Cloud/Enterprise
 ---
 
@@ -25,7 +24,7 @@ title: Cloud/Enterprise
 - [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector) (The Verge)
 - [Databricks in Talks to Raise Capital at a Valuation Above $130 Billion](https://www.theinformation.com/articles/databricks-talks-raise-capital-valuation-130-billion?rc=i9gkgs) (The Information)
 - [Now Tech Moguls Want to Build Data Centers in Outer Space](https://www.wsj.com/tech/now-tech-moguls-want-to-build-data-centers-in-outer-space-a8d08b4b?st=aK2n8a&reflink=article_copyURL_share) (WSJ)
-- [How many ‘bragawatts’ have the hyperscalers announced so far?](https://www.ft.com/content/2b849dbd-1bef-4c26-aa11-2cb86750d41e?shareType=nongift) (Financial Times)
+- [How many ‘bragawatts’ have the hyperscalers announced so far?](https://www.ft.com/content/2b849dbd-1bef-4c26-aa11-2cb86750d41e?shareType=nongift) (FT)
 - [AI turned Google Cloud from also-ran into Alphabet’s growth driver](https://www.reuters.com/business/ai-turned-google-cloud-also-ran-into-alphabets-growth-driver-2025-10-31/) (Reuters)
 - [OpenAI signs $38 billion compute deal with Amazon, partnering with cloud leader for first time](https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html) (CNBC)
 
@@ -35,7 +34,7 @@ title: Cloud/Enterprise
 - [Amazon to Cut 14,000 Jobs as Jassy Looks to Reduce Bureaucracy](https://www.bloomberg.com/news/articles/2025-10-28/amzn-amazon-to-cut-14-000-jobs-across-corporate-workforce) (Bloomberg)
 - [Amazon Plans to Replace More Than Half a Million Jobs With Robots](https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html) (NYTimes)
 - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline) (The Verge)
-- [AI Data Centers, Desperate for Electricity, Are Building Their Own Power Plants](https://www.wsj.com/business/energy-oil/ai-data-centers-desperate-for-electricity-are-building-their-own-power-plants-291f5c81)
+- [AI Data Centers, Desperate for Electricity, Are Building Their Own Power Plants](https://www.wsj.com/business/energy-oil/ai-data-centers-desperate-for-electricity-are-building-their-own-power-plants-291f5c81) (WSJ)
 - [Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/) (Fortune)
 - [AI data centers are swallowing the world's memory and storage supply, setting the stage for a pricing apocalypse that could last a decade](https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs) (Tom's Hardware)
 - [Satya Nadella appoints a new CEO to run Microsoft’s biggest businesses](https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo) (The Verge)
@@ -43,7 +42,7 @@ title: Cloud/Enterprise
 ### September
 
 - [Microsoft launches ‘vibe working’ in Excel and Word](https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models) (The Verge)
-- [HSBC claims quantum trading breakthrough](https://www.ft.com/content/d9d40c18-0fb6-4b7f-aa92-00aed1900859)
+- [HSBC claims quantum trading breakthrough](https://www.ft.com/content/d9d40c18-0fb6-4b7f-aa92-00aed1900859) (FT)
 - [OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers](https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/) (Wired)
 - [Nordic Data Center Boom Fueled by Low Prices, Empty Land and Cool Weather](https://www.bloomberg.com/news/articles/2025-09-22/sweden-norway-finland-power-firms-to-cash-in-on-europe-data-center-boom) (Bloomberg)
 - [Oracle, OpenAI Sign $300 Billion Cloud Deal](https://www.wsj.com/business/openai-oracle-sign-300-billion-computing-deal-among-biggest-in-history-ff27c8fe?st=vUBGuq&reflink=desktopwebshare_permalink) (WSJ)
@@ -84,7 +83,7 @@ title: Cloud/Enterprise
 
 - [Salesforce Agrees to Buy Informatica in Deal Worth $8 Billion](https://www.bloomberg.com/news/articles/2025-05-27/salesforce-agrees-to-buy-informatica-in-deal-worth-8-billion?sref=Szq5ylDR) (Bloomberg)
 - [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html?unlocked_article_code=1.J08.DkGW.5075LbaW7jrv) (NYTimes)
-- [Google moves to reassure EU cloud users amid concern over Trump threat](https://www.ft.com/content/c9ee9f3b-8d9e-446d-a0f9-66d546b55fa3) (Financial Times)
+- [Google moves to reassure EU cloud users amid concern over Trump threat](https://www.ft.com/content/c9ee9f3b-8d9e-446d-a0f9-66d546b55fa3) (FT)
 - [Microsoft extends Office app support on Windows 10 to 2028](https://www.theverge.com/news/665599/microsoft-365-office-apps-windows-10-end-of-support-extension-2028) (The Verge)
 - [Amazon Says Operating Profits May Decline Amid Economic Uncertainty](https://www.nytimes.com/2025/05/01/business/amazon-revenue-earnings-tariffs.html) (NYTimes)
 
@@ -128,7 +127,7 @@ title: Cloud/Enterprise
 - [OpenAI, SoftBank Each Commit $19 Billion to Stargate Data Center Venture](https://www.theinformation.com/articles/openai-softbank-each-commit-19-billion-to-stargate-data-center-venture?rc=64g9cw) (The Information)
 - [OpenAI’s Stargate Deal Heralds Shift Away From Microsoft](https://www.wsj.com/tech/ai/stargate-open-ai-soft-bank-microsoft-shift-e696cf5b?st=othrSE&reflink=desktopwebshare_permalink) (WSJ)
 - [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) (TechCrunch)
-- ['Stargate' Squares Some AI Circles](https://spyglass.org/project-stargate-agi-openai/) (Spyglass/MG Siegler)
+- ['Stargate' Squares Some AI Circles](https://spyglass.org/project-stargate-agi-openai/) (Spyglass)
 - [Google Workspace business users getting full Gemini experience, price increasing](https://9to5google.com/2025/01/15/google-workspace-gemini-price-increase/) (9to5Google)
 - [LinkedIn adds free AI tools for job hunters and recruiters](https://techcrunch.com/2025/01/15/linkedin-ads-free-ai-tools-for-job-hunters-and-recruiters/) (TechCrunch)
 - [Databricks Inks $5 Billion of Private Credit, Bank Funding](https://www.bloomberg.com/news/articles/2025-01-13/databricks-inks-5-billion-financing-from-private-credit-banks?sref=Szq5ylDR) (Bloomberg)
@@ -139,8 +138,8 @@ title: Cloud/Enterprise
 ### December
 
 - [Palantir and Anduril join forces with tech groups to bid for Pentagon contracts](https://www.ft.com/content/6cfdfe2b-6872-4963-bde8-dc6c43be5093) (FT)
-- [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1) (Financial Times)
-- [Microsoft Unveils Zero-Water Data Centers to Reduce AI Climate Impac](https://www.bloomberg.com/news/articles/2024-12-09/microsoft-unveils-zero-water-data-centers-to-reduce-ai-climate-impact?sref=Szq5ylDR)
+- [Microsoft acquires twice as many Nvidia AI chips as tech rivals](https://www.ft.com/content/e85e43d1-5ce4-4531-94f1-9e9c1c5b4ff1) (FT)
+- [Microsoft Unveils Zero-Water Data Centers to Reduce AI Climate Impac](https://www.bloomberg.com/news/articles/2024-12-09/microsoft-unveils-zero-water-data-centers-to-reduce-ai-climate-impact?sref=Szq5ylDR) (Bloomberg)
 - [AWS announces Aurora DSQL, a new distributed SQL database that promises virtually unlimited scalability](https://techcrunch.com/2024/12/03/aws-announces-aurora-dsql-a-new-distributed-sql-database-that-promises-virtually-unlimited-scalability/) (TechCrunch)
 - [AWS opens physical outlets that let customers upload their data](https://techcrunch.com/2024/12/01/aws-opens-physical-locations-for-customers-to-upload-their-data/) (TechCrunch)
 
@@ -163,7 +162,7 @@ title: Cloud/Enterprise
 - [Microsoft finally officially confirms it's killing Windows Control Panel sometime soon](https://www.neowin.net/news/microsoft-finally-officially-confirms-its-killing-windows-control-panel-sometime-soon/) (Neowin)
 - [Exclusive: Chinese entities turn to Amazon cloud and its rivals to access high-end US chips, AI](https://www.reuters.com/technology/chinese-entities-turn-amazon-cloud-its-rivals-access-high-end-us-chips-ai-2024-08-23/) (Reuters)
 - [Microsoft Teams’ new single app for personal and work is now available](https://www.theverge.com/2024/8/20/24224507/microsoft-teams-work-single-personal-account-app-windows-mac-download) (The Verge)
-- [Inside the Snowflake-Databricks Rivalry, and Why Both Fear Microsoft](https://www.bloomberg.com/news/articles/2024-08-14/inside-the-snowflake-databricks-rivalry-and-why-both-fear-microsoft?sref=Szq5ylDR)
+- [Inside the Snowflake-Databricks Rivalry, and Why Both Fear Microsoft](https://www.bloomberg.com/news/articles/2024-08-14/inside-the-snowflake-databricks-rivalry-and-why-both-fear-microsoft?sref=Szq5ylDR) (Bloomberg)
 - [Amazon Beats On Earnings, Revenue Comes In Light Despite Strong Cloud Performance](https://www.investors.com/news/technology/amazon-beats-on-earnings-revenue-comes-in-light-despite-strong-cloud-performance/) (Investor's Business Daily)
 
 ### July
@@ -174,14 +173,14 @@ title: Cloud/Enterprise
 - [Major Windows BSOD issue takes banks, airlines, and broadcasters offline](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue) (The Verge)
 - [Exclusive: Google-backed software developer GitLab explores sale, sources say](https://www.reuters.com/markets/deals/google-backed-software-developer-gitlab-explores-sale-sources-say-2024-07-17/) (Reuters)
 - [Google Near $23 Billion Deal for Cybersecurity Startup Wiz](https://www.wsj.com/business/deals/google-near-23-billion-deal-for-cybersecurity-startup-wiz-622edf1a?st=e3qv18l6e2p40rb&reflink=desktopwebshare_permalink) (WSJ)
-- [Internet Browsers Are Getting a Makeover for the Workplace](https://www.wsj.com/articles/internet-browsers-are-getting-a-makeover-for-the-workplace-effb343a)
+- [Internet Browsers Are Getting a Makeover for the Workplace](https://www.wsj.com/articles/internet-browsers-are-getting-a-makeover-for-the-workplace-effb343a) (WSJ)
 
 ### June
 
 - [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages) (The Verge)
 - [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529) (Search Engine Land)
 - [iOS 18 could ‘sherlock’ $400M in app revenue](https://techcrunch.com/2024/06/18/ios-18-could-sherlock-400m-in-app-revenue/) (TechCrunch)
-- [How an upstart is using its Nvidia ties to challenge cloud computing giants](https://www.ft.com/content/f4085e30-da81-40f0-8217-507268743f71) (Financial Times)
+- [How an upstart is using its Nvidia ties to challenge cloud computing giants](https://www.ft.com/content/f4085e30-da81-40f0-8217-507268743f71) (FT)
 - [Microsoft is laying off hundreds in its Azure cloud business, sources say](https://www.businessinsider.com/microsoft-cuts-azure-jobs-cloud-2024-6) (BusinessInsider)
 - [Microsoft cuts jobs in Azure, HoloLens, and other units in latest move to control costs](https://www.geekwire.com/2024/microsoft-cuts-jobs-in-azure-hololens-and-other-units-in-latest-move-to-control-costs/) (GeekWire)
 
@@ -203,7 +202,7 @@ title: Cloud/Enterprise
 - [Amazon Bets $150 Billion on Data Centers Required for AI Boom](https://www.bloomberg.com/news/articles/2024-03-28/amazon-bets-150-billion-on-data-centers-required-for-ai-boom?sref=Szq5ylDR) (Bloomberg)
 - [Canva Strikes Biggest Acquisition Yet in Chase to Take on Adobe](https://www.bloomberg.com/news/articles/2024-03-26/canva-acquires-affinity-design-suite-in-push-to-rival-adobe?sref=Szq5ylDR) (Bloomberg)
 - [Microsoft Agreed to Pay Inflection $650 Million While Hiring Its Staff](https://www.theinformation.com/articles/microsoft-agreed-to-pay-inflection-650-million-while-hiring-its-staff?rc=64g9cw) (The Information)
-- [Microsoft bets on start-ups to extend AI lead with hiring of Inflection chief](https://www.ft.com/content/1045edfb-f06b-4162-bab9-e2f019f5dec4) (Financial Times)
+- [Microsoft bets on start-ups to extend AI lead with hiring of Inflection chief](https://www.ft.com/content/1045edfb-f06b-4162-bab9-e2f019f5dec4) (FT)
 - [Microsoft Teams is finally moving to a single app for personal and work](https://www.theverge.com/2024/3/13/24099723/microsoft-teams-unified-app-personal-work-accounts) (The Verge)
 
 ### February
@@ -263,7 +262,7 @@ title: Cloud/Enterprise
 - [The new Google Chat borrows from Slack, Teams, Discord, and even ChatGPT](https://www.theverge.com/2023/8/29/23849089/google-chat-duet-ai-huddles-redesign) (The Verge)
 - [Dropbox Ends Unlimited Cloud Storage Following Google Change](https://www.bloomberg.com/news/articles/2023-08-24/dropbox-unlimited-storage-ends-after-google-change?sref=Szq5ylDR) (Bloomberg)
 - [SpaceX Working with Cloudflare to Speed Up Starlink Service](https://www.theinformation.com/articles/spacex-working-with-cloudflare-to-speed-up-starlink-service?rc=64g9cw) (The Information)
-- [3D printers printing without consent is a cautionary tale on cloud reliance](https://arstechnica.com/gadgets/2023/08/3d-printers-print-break-on-their-own-due-to-cloud-outage/) (ArsTechnica)
+- [3D printers printing without consent is a cautionary tale on cloud reliance](https://arstechnica.com/gadgets/2023/08/3d-printers-print-break-on-their-own-due-to-cloud-outage/) (Ars Technica)
 - [Amazon’s Leader on Alexa, Echo and Other Devices Plans to Leave](https://www.wsj.com/articles/amazons-leader-on-alexa-echo-and-other-devices-plans-to-leave-cde4f689?mod=djemalertNEWS) (WSJ)
 - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later) (The Verge)
 - [Zoom can now train its A.I. using some customer data, according to updated terms](https://www.cnbc.com/2023/08/07/zoom-ai-tools-trained-using-some-customer-data.html) (CNBC)
@@ -316,7 +315,7 @@ title: Cloud/Enterprise
 
 ### December
 
-- [Spotify’s grand plan to monetize developers via its open source Backstage project](https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/)
+- [Spotify’s grand plan to monetize developers via its open source Backstage project](https://techcrunch.com/2022/12/15/spotifys-plan-to-monetize-its-open-source-backstage-developer-project/) (TechCrunch)
 - [AWS launches Application Composer, a low-code tool for building serverless apps](https://techcrunch.com/2022/12/01/aws-launches-application-composer-a-low-code-tool-for-building-serverless-apps/) (TechCrunch)
 
 ### November
@@ -325,7 +324,7 @@ title: Cloud/Enterprise
 - [Cloud computing: Microsoft and Nvidia are building a 'massive' AI supercomputer. Here's why](https://www.zdnet.com/article/microsoft-nvidia-partner-to-build-a-massive-ai-supercomputer-in-the-cloud/) (ZDNet)
 - [Microsoft and Nvidia team up to build massive cloud AI supercomputer](https://www.siliconrepublic.com/machines/microsoft-and-nvidia-team-up-to-build-massive-ai-cloud-supercomputer) (SiliconRepublic)
 - [‘Hey, GitHub!’ will let programmers code with just their voice](https://www.theverge.com/2022/11/9/23449175/hey-github-voice-copilot-code-programming-system) (The Verge)
-- [The ‘Viral’ Secure Programming Language That’s Taking Over Tech](https://www.wired.com/story/rust-secure-programming-language-memory-safe/)
+- [The ‘Viral’ Secure Programming Language That’s Taking Over Tech](https://www.wired.com/story/rust-secure-programming-language-memory-safe/) (Wired)
 - [The Race to Be Figma for Devs: CodeSandbox vs. StackBlitz](https://thenewstack.io/the-race-to-be-figma-for-devs-codesandbox-vs-stackblitz/)
 
 ### October
@@ -337,7 +336,7 @@ title: Cloud/Enterprise
 ### September
 
 - [TripActions reportedly files to go public at $12 billion valuation](https://techcrunch.com/2022/09/29/tripactions-ipo/) (TechCrunch)
-- [Google is trying to reinvent search — by being more than a search engine](https://www.theverge.com/2022/9/28/23375691/google-search-multisearch-visual-keywords)
+- [Google is trying to reinvent search — by being more than a search engine](https://www.theverge.com/2022/9/28/23375691/google-search-multisearch-visual-keywords) (The Verge)
 - [Here are all of the new features and updates coming to Google Maps](https://techcrunch.com/2022/09/28/new-features-and-updates-coming-google-maps/) (TechCrunch)
 - [Google wants to take on Dolby with new open media formats](https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar) (Protocol)
 - [Windows 11’s 2022 Update has something new for everyone](https://www.theverge.com/23359304/microsoft-windows-11-2022-update-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -359,7 +358,7 @@ title: Cloud/Enterprise
 - [New Google Helpful Content Update To Change SEO Much Like Panda Did](https://www.seroundtable.com/google-helpful-content-update-33949.html) (Search Engine Roundtable)
 - [Apple Sets Return-to-Office Deadline of Sept. 5 After Covid Delays](https://www.bloomberg.com/news/articles/2022-08-15/apple-sets-return-to-office-deadline-of-sept-5-after-delays?sref=Szq5ylDR) (Bloomberg)
 - [Cable Finally Loses Broadband Market Share in Q2 with First Negative Growth Quarter Ever](https://www.nexttv.com/news/cable-finally-loses-broadband-marketshare-in-q2-with-first-negative-growth-quarter-ever) (NextTV)
-- [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/)
+- [Man who built ISP instead of paying Comcast $50K expands to hundreds of homes](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/) (Ars Technica)
 - [New – AWS Private 5G – Build Your Own Private Mobile Network](https://aws.amazon.com/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/)
 - [SoftBank plans Vision Fund job cuts after record net loss](https://www.reuters.com/markets/funds/softbank-posts-23-bln-loss-first-quarter-2022-08-08/) (Reuters)
 - [Google Meet meets Duo Meet, with Meet in Duo but Duo isn’t going into Meet](https://www.theverge.com/2022/8/3/23290225/google-meet-duo-video-calling-messaging) (The Verge)
@@ -420,23 +419,23 @@ title: Cloud/Enterprise
 - [Zoom’s new virtual avatars let you show up to your next meeting as a dog](https://www.theverge.com/2022/3/22/22990983/zoom-virtual-avatars-animal-face-replacement?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Google I/O takes place May 11th and 12th, and it will be fully available online](https://www.theverge.com/2022/3/16/22981868/google-i-o-2022-may-11th-12th-online-virtual?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Microsoft says Windows 11 File Explorer ads were ‘not intended to be published externally’](https://www.theverge.com/2022/3/15/22979251/microsoft-file-explorer-ads-windows-11-testing?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [The rise of Canva, the $40 billion design juggernaut](https://www.fastcompany.com/90721894/canva-design-platform-most-innovative-companies)
+- [The rise of Canva, the $40 billion design juggernaut](https://www.fastcompany.com/90721894/canva-design-platform-most-innovative-companies) (Fast Company)
 
 ### February
 
-- [You’ll need a Microsoft account to set up future versions of Windows 11 Pro](https://arstechnica.com/gadgets/2022/02/new-preview-build-adds-microsoft-account-requirement-to-windows-11-pro/) (ArsTechnica)
+- [You’ll need a Microsoft account to set up future versions of Windows 11 Pro](https://arstechnica.com/gadgets/2022/02/new-preview-build-adds-microsoft-account-requirement-to-windows-11-pro/) (Ars Technica)
 - [Mozilla warns Chrome, Firefox ‘100’ user agents may break sites](https://www.bleepingcomputer.com/news/software/mozilla-warns-chrome-firefox-100-user-agents-may-break-sites/) (BleepingComputer)
 - [Microsoft and Expedia announce next phases in office reopenings, finally emerging from pandemic](https://www.geekwire.com/2022/microsoft-will-fully-reopen-in-washington-state-starting-feb-28-finally-emerging-from-pandemic/) (GeekWire)
 - [Viam closes $30 Million Series A funding round](https://www.therobotreport.com/viam-closes-30-million-series-a-funding-round/) (The Robot Report)
 - [Jio Platforms invests $200 million in Google-backed Glance](https://techcrunch.com/2022/02/14/jio-platforms-ambani-glance/) (TechCrunch)
-- [Flexport Is Silicon Valley’s Solution To The Supply Chain Mess—Why Do Insiders Hope It Sinks?](https://www.forbes.com/sites/alexkonrad/2022/02/07/flexport-is-silicon-valleys-solution-to-the-supply-chain-mess-why-do-insiders-hope-it-sinks/?sh=7d2dcf392753)
+- [Flexport Is Silicon Valley’s Solution To The Supply Chain Mess—Why Do Insiders Hope It Sinks?](https://www.forbes.com/sites/alexkonrad/2022/02/07/flexport-is-silicon-valleys-solution-to-the-supply-chain-mess-why-do-insiders-hope-it-sinks/?sh=7d2dcf392753) (Forbes)
 - [Don’t forget Microsoft](https://luttig.substack.com/p/dont-forget-microsoft)
 - [Inside Microsoft's mixed reality mess, where confusion, rivalries, and canceled projects have roiled the company's metaverse strategy](https://www.businessinsider.com/microsoft-hololens-3-metaverse-mixed-reality-strategy-confusion-rivalries-2022-2) (Insider)
 
 ### January
 
 - [Fireblocks raises $550 million in Series E funding, now valued at $8 billion](https://www.theblockcrypto.com/post/131952/fireblocks-raises-550-million-in-series-e-funding-now-valued-at-8-billion) (The Block)
-- [Banks Tiptoe Toward Their Cloud-Based Future](https://www.nytimes.com/2022/01/03/business/wall-street-cloud-computing.html)
+- [Banks Tiptoe Toward Their Cloud-Based Future](https://www.nytimes.com/2022/01/03/business/wall-street-cloud-computing.html) (NYTimes)
 - [Scoop: IBM tries to sell Watson Health again](https://www.axios.com/ibm-tries-to-sell-watson-health-again-82f691a4-ab81-4b2b-a5bb-13a7556c8ef1.html) (Axios)
 
 ## 2021
@@ -504,11 +503,11 @@ title: Cloud/Enterprise
 
 ### June
 
-- [Vercel raises $102M Series C for its front-end development platform](https://techcrunch.com/2021/06/23/vercel-raises-102m-series-c-for-its-next-js-based-front-end-development-platform/) (Tech Crunch)
+- [Vercel raises $102M Series C for its front-end development platform](https://techcrunch.com/2021/06/23/vercel-raises-102m-series-c-for-its-next-js-based-front-end-development-platform/) (TechCrunch)
 - [Google Workspace and Google Chat are officially available to everybody](https://www.theverge.com/2021/6/14/22532559/google-workspace-chat-officially-available-consumer-gmail-spaces?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Fastly claims single customer responsible for widespread internet outage](https://www.theverge.com/2021/6/9/22525820/fastly-outage-bug-customer?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [Twitch, Pinterest, Reddit and more go down in Fastly CDN outage](https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/) (Tech Crunch)
-- [Stack Overflow Sold to Tech Giant Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400?mod=djemalertNEWS) (Wall Street Journal)
+- [Twitch, Pinterest, Reddit and more go down in Fastly CDN outage](https://techcrunch.com/2021/06/08/numerous-popular-websites-are-facing-an-outage/) (TechCrunch)
+- [Stack Overflow Sold to Tech Giant Prosus for $1.8 Billion](https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400?mod=djemalertNEWS) (WSJ)
 
 ### May
 
@@ -524,7 +523,7 @@ title: Cloud/Enterprise
 - [Mighty wants to ‘make Chrome faster’ by streaming a browser from the cloud, starting on macOS](https://9to5google.com/2021/04/27/mighty-browser/) (9to5 Google)
 - [Microsoft is changing the default Office font and wants your help to pick a new one](https://www.theverge.com/2021/4/28/22407297/microsoft-office-new-default-font-2022) (The Verge)
 - [Zoom launches Immersive View to unify participants in the same virtual room](https://venturebeat.com/2021/04/26/zoom-launches-immersive-view-to-unify-participants-in-the-same-virtual-room/) (Venture Beat)
-- [US satellite company Dish taps Amazon for 5G launch](https://www.ft.com/content/e9e61099-a216-4b12-b054-24ac76745a73) (Financial Times)
+- [US satellite company Dish taps Amazon for 5G launch](https://www.ft.com/content/e9e61099-a216-4b12-b054-24ac76745a73) (FT)
 - [Software product planning platform Productboard raises $72M](https://venturebeat.com/2021/04/22/software-product-planning-platform-productboard-raises-72m/) (Venture Beat)
 - [Why did Microsoft spend $19.7 billion to purchase Nuance? The answer may lie beyond health care.](https://www.protocol.com/enterprise/microsoft-nuance-aws-google-ai) (Protocol)
 - [Nvidia unveils rental model for DGX Station A100 mini supercomputers](https://venturebeat.com/2021/04/12/nvidia-unveils-rental-model-for-dgx-superpod-mini-supercomputers/) (Venture Beat)
@@ -575,7 +574,7 @@ title: Cloud/Enterprise
 
 ### January
 
-- [Microsoft profits jump 33 percent as pandemic continues shift to cloud computing](https://www.nytimes.com/2021/01/26/business/microsoft-earnings.html)
+- [Microsoft profits jump 33 percent as pandemic continues shift to cloud computing](https://www.nytimes.com/2021/01/26/business/microsoft-earnings.html) (NYTimes)
 - [Google will turn some of its offices into COVID-19 vaccination sites](https://www.engadget.com/google-facilities-vaccination-sites-093117990.html) (Engadget)
 - [Alphabet Pops Loon’s Balloons—but Won't Call It a Failure](https://www.wired.com/story/plaintext-alphabet-pops-loons-balloons/) (Wired)
 - [Amazon sends letter to President Biden, says it is ‘ready to assist’ with U.S. vaccination efforts](https://www.geekwire.com/2021/amazon-sends-letter-president-biden-says-ready-assist-u-s-vaccination-efforts/) (GeekWire)
@@ -588,7 +587,7 @@ title: Cloud/Enterprise
 
 ### December
 
-- [Search engine start-ups try to take on Google](https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b) (Financial Times)
+- [Search engine start-ups try to take on Google](https://www.ft.com/content/24efc152-a65d-4c48-9032-ee349a2c885b) (FT)
 - [Buoyed by Video Success, Zoom Explores Email, Calendar Services](https://www.theinformation.com/articles/buoyed-by-video-success-zoom-explores-email-calendar-services) (The Information)
 - [Our Digital Lives Drive a Brick-and-Mortar Boom in Data Centers](https://www.nytimes.com/2020/12/22/business/data-storage-centers-coronavirus.html) (NYTimes)
 - [Amazon launches group video and audio calling for Echo devices](https://www.theverge.com/2020/12/18/22188551/amazon-echo-group-calling-video-voice-calls-feature-available?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -598,7 +597,7 @@ title: Cloud/Enterprise
 - [Exclaimer raises $133 million to help companies manage email signatures](https://venturebeat.com/2020/12/07/exclaimer-raises-135-million-to-help-companies-manage-email-signatures/) (VentureBeat)
 - [Salesforce buys Slack in a $27.7B megadeal](https://techcrunch.com/2020/12/01/salesforce-buys-slack/) (TechCrunch)
 - [Why Salesforce bought Slack](https://divinations.substack.com/p/why-salesforce-bought-slack-430) (Divinations)
-- [Amazon to roll out tools to monitor factory workers and machines](https://www.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8) (Financial Times)
+- [Amazon to roll out tools to monitor factory workers and machines](https://www.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8) (FT)
 - [AWS brings the Mac mini to its cloud](https://techcrunch.com/2020/11/30/aws-brings-the-mac-mini-to-its-cloud/) (TechCrunch)
 
 ### November
@@ -620,7 +619,7 @@ title: Cloud/Enterprise
 - [Dropbox is the latest San Francisco tech company to make remote work permanent](https://www.cnbc.com/2020/10/13/dropbox-latest-san-francisco-tech-company-making-remote-work-permanent.html) (CNBC)
 - [Dropbox goes Virtual First](https://blog.dropbox.com/topics/company/dropbox-goes-virtual-first) (Dropbox Blog)
 - [Twilio confirms it is buying Segment for $3.2B in an all-stock deal](https://techcrunch.com/2020/10/12/twilio-confirms-it-is-buying-segment-for-3-2b-in-an-all-stock-deal/) (TechCrunch)
-- [Comcast says gigabit downloads and uploads are now possible over cable](https://arstechnica.com/information-technology/2020/10/comcast-says-gigabit-downloads-and-uploads-are-now-possible-over-cable/) (ArsTechnica)
+- [Comcast says gigabit downloads and uploads are now possible over cable](https://arstechnica.com/information-technology/2020/10/comcast-says-gigabit-downloads-and-uploads-are-now-possible-over-cable/) (Ars Technica)
 - [G Suite is now Google Workspace](https://techcrunch.com/2020/10/06/g-suite-is-now-google-workspace/) (TechCrunch)
 - [AT&T kills DSL, leaves tens of millions of homes without fiber Internet](https://arstechnica.com/tech-policy/2020/10/life-in-atts-slow-lane-millions-left-without-fiber-as-company-kills-dsl/) (Ars Technica)
 - [Sourcegraph: Devs are managing 100x more code now than they did in 2010](https://arstechnica.com/gadgets/2020/10/sourcegraph-devs-are-managing-100x-more-code-now-than-they-did-in-2010/) (Ars Technica)
@@ -679,7 +678,7 @@ title: Cloud/Enterprise
 - [India's Reliance Jio Platforms to sell $1.5 billion stake to Saudi Arabia's Public Investment Fund](https://techcrunch.com/2020/06/18/indias-reliance-jio-platforms-sells-1-5-billion-stake-to-the-public-investment-fund/) (TechCrunch)
 - [Unbounce raises $38.4M to build better landing pages with automation](https://techcrunch.com/2020/06/17/unbounce-funding/) (TechCrunch)
 - [Basecamp’s founders are trying to start an email rebellion](https://www.protocol.com/hey-email) (Protocol)
-- [SoftBank invests in Credit Suisse funds that finance its technology bets](https://www.ft.com/content/6995af3b-5f66-4e1b-9143-1e9daccfc9b4?shareType=nongift) (Financial Times)
+- [SoftBank invests in Credit Suisse funds that finance its technology bets](https://www.ft.com/content/6995af3b-5f66-4e1b-9143-1e9daccfc9b4?shareType=nongift) (FT)
 - [The most interesting man at Microsoft](https://www.protocol.com/bret-arensault-microsoft-ciso-profile) (Protocol)
 - [API development platform Postman nabs $150 million at a $2 billion valuation](https://venturebeat.com/2020/06/11/api-development-platform-postman-nabs-150-million-at-a-2-billion-valuation/) (VentureBeat)
 - [Scoop: Facebook establishing a venture arm to invest in startups](https://www.axios.com/facebook-establishing-a-venture-arm-to-invest-in-startups-91d9ee71-2282-4032-8f31-45b861a6ba9c.html) (Axios)
@@ -746,7 +745,7 @@ title: Cloud/Enterprise
 - [Amazon AWS launches $20 million initiative to help fight the coronavirus](https://www.cnbc.com/2020/03/20/coronavirus-amazon-aws-commits-20-million-to-covid-19-research.html) (CNBC)
 - [Zoom conquered video chat — now it has even bigger plans](https://www.protocol.com/zoom-videoconferencing-history-profit) (Protocol)
 - [Microsoft Teams passes 44 million daily active users, thanks in part to coronavirus](https://venturebeat.com/2020/03/19/microsoft-teams-passes-44-million-daily-active-users-thanks-in-part-to-coronavirus/) (VentureBeat)
-- [EU warns of broadband strain as millions work from home](https://www.ft.com/content/b4ab03db-de1f-4f98-bcc2-b09007427e1b) (Financial Times)
+- [EU warns of broadband strain as millions work from home](https://www.ft.com/content/b4ab03db-de1f-4f98-bcc2-b09007427e1b) (FT)
 - [Google Translate launches Transcribe for Android in 8 languages](https://venturebeat.com/2020/03/17/google-translate-launches-transcribe-for-android-in-8-languages/) (VentureBeat)
 - [Slack unveils its biggest redesign yet](https://www.theverge.com/2020/3/18/21184865/slack-redesign-update-sidebar-changes-available-now-download) (The Verge)
 - [Microsoft's GitHub acquires npm to help JavaScript developers](https://www.windowscentral.com/microsofts-github-acquires-npm-help-javascript-developers) (WindowsCentral)
@@ -821,7 +820,7 @@ title: Cloud/Enterprise
 
 ### September
 
-- [Slack Is a Hell of Our Own Making](http://nymag.com/intelligencer/2019/09/the-anxiety-inducing-peril-of-old-slack-posts.html) (NY Magazine/Intelligencer)
+- [Slack Is a Hell of Our Own Making](http://nymag.com/intelligencer/2019/09/the-anxiety-inducing-peril-of-old-slack-posts.html) (NY Magazine)
 - [Amazon Sidewalk is a new long-range wireless network for your stuff](https://techcrunch.com/2019/09/25/amazon-sidewalk-is-a-new-long-range-wireless-network-for-your-stuff/) (TechCrunch)
 - [AMAZON CREATES A HUGE ALLIANCE TO DEMAND VOICE ASSISTANT COMPATIBILITY](https://www.theverge.com/2019/9/24/20881321/amazon-voice-interoperability-initiative-alexa-microsoft-baidu-intel-qualcomm-spotify-assistants) (The Verge)
 - [GitHub acquires code analysis tool Semmle](https://techcrunch.com/2019/09/18/github-acquires-code-analysis-tool-semmle/) (TechCrunch)
@@ -837,7 +836,7 @@ title: Cloud/Enterprise
 - [Python is eating the world: How one developer's side project became the hottest programming language on the planet](https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/) (ZDNet)
 - [Google Maps lets you pull up flight and hotel reservations on the go](https://www.cnet.com/news/google-maps-lets-you-pull-up-flight-and-hotel-reservations-on-the-go/) (CNET)
 - [Slack unveils new admin security controls](https://www.itpro.co.uk/cloud/34165/slack-unveils-new-admin-security-controls) (ITPro)
-- [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/)
+- [WHEN OPEN SOURCE SOFTWARE COMES WITH A FEW CATCHE](https://www.wired.com/story/when-open-source-software-comes-with-catches/) (Wired)
 
 ### July
 
@@ -932,7 +931,7 @@ title: Cloud/Enterprise
 - [Google's new activity cards will save your previous searches](https://www.engadget.com/2018/09/24/google-search-activity-card-collections/) (Engadget)
 - ['NETFLIX FOR OPEN SOURCE' WANTS DEVELOPERS TO GET PAID](https://www.wired.com/story/netflix-open-source-wants-developers-get-paid/) (Wired)
 - [Is This Article Worth Reading? Gmail’s Suggested Reply: ‘Haha, Thanks!’](https://www.wsj.com/articles/very-interesting-awesome-love-it-gmail-users-confront-chipper-smart-reply-1537282569) (WSJ)
-- [Evernote just slashed 54 jobs, or 15 percent of its workforce](https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/)
+- [Evernote just slashed 54 jobs, or 15 percent of its workforce](https://techcrunch.com/2018/09/18/evernote-just-slashed-54-jobs-or-15-percent-of-its-workforce/) (TechCrunch)
 - [How Procore Built The Cloud’s Hottest Unicorn By Bringing Software To Low-Tech Construction Sites](https://www.forbes.com/sites/alexkonrad/2018/09/12/how-procore-built-the-clouds-hottest-unicorn-bringing-software-to-low-tech-construction-sites/) (Forbes)
 
 ### August
@@ -946,7 +945,7 @@ title: Cloud/Enterprise
 
 - [Goodbye HipChat: Slack and Atlassian Team Up on Chat Software](https://www.bloomberg.com/news/articles/2018-07-26/slack-and-atlassian-team-up-to-take-on-microsoft-in-chat-software) (Bloomberg)
 - [Inside Google’s Shadow Workforce](https://www.bloomberg.com/news/articles/2018-07-25/inside-google-s-shadow-workforce) (Bloomberg)
-- [Alphabet surges to all-time high as Wall Street says internet giant’s big bets are ‘paying off’ (CNBC)](https://www.cnbc.com/2018/07/24/alphabet-set-to-hit-all-time-high-as-wall-street-says-internet-giants.html)
+- [Alphabet surges to all-time high as Wall Street says internet giant’s big bets are ‘paying off’ (CNBC)](https://www.cnbc.com/2018/07/24/alphabet-set-to-hit-all-time-high-as-wall-street-says-internet-giants.html) (CNBC)
 - [Alphabet’s experimental investments in the future continue to cost it a fortune](https://www.theverge.com/2018/7/23/17604936/alphabet-google-other-bets-waymo-nest-future-investments-costs-fortune) (The Verge)
 - [Google CEO Sundar Pichai revealed a jaw-dropping fact about its translation app that shows how much money is still sitting on the table](https://www.businessinsider.com/sundar-pichai-google-translate-143-billion-words-daily-2018-7) (Business Insider)
 - [Why Is Google Translate Spitting Out Sinister Religious Prophecies?](https://motherboard.vice.com/en_us/article/j5npeg/why-is-google-translate-spitting-out-sinister-religious-prophecies) (Motherboard)

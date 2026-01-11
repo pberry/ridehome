@@ -4,6 +4,8 @@ env/
 # SQLite database
 ridehome.db
 ridehome.db-journal
+ridehome.db.backup
+
 __pycache__/
 .claude
 trash
@@ -15,3 +17,12 @@ invalid_categories.log
 docs/_site/
 docs/.jekyll-cache/
 docs/Gemfile.lock
+
+# Ruby/Bundler artifacts
+docs/.ruby-version
+docs/bin/
+docs/cache/
+docs/extensions/
+docs/gems/
+docs/specifications/
+docs/vendor/

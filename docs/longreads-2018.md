@@ -18,7 +18,7 @@ title: Weekend Longreads 2018
   * [The biggest technology failures of 2018](https://www.technologyreview.com/s/612646/the-biggest-technology-failures-of-2018/) (MIT Technology Review)
   * [Why Your Next Home Might Not Need Any Energy at All](https://www.wsj.com/articles/why-your-next-home-might-not-use-any-energy-at-all-11545454801) (WSJ)
   * [THE 'FUTURE BOOK' IS HERE, BUT IT'S NOT WHAT WE EXPECTED](https://www.wired.com/story/future-book-is-here-but-not-what-we-expected/) (Wired)
-  * [Bird Box Is the First Great Monster Movie About This Poisonous Invention](https://paleofuture.gizmodo.com/bird-box-is-the-first-great-monster-movie-about-this-po-1831318490) (PaleoFuture/Gizmodo)
+  * [Bird Box Is the First Great Monster Movie About This Poisonous Invention](https://paleofuture.gizmodo.com/bird-box-is-the-first-great-monster-movie-about-this-po-1831318490) (PaleoFuture)
 
 
 
@@ -37,7 +37,7 @@ title: Weekend Longreads 2018
 **Friday, December 14 2018**
 
   * [EV News Daily](https://www.evnewsdaily.com) (Podcast)
-  * [Evelyn Berezin, 93, Dies; Built the First True Word Processor](https://www.nytimes.com/2018/12/10/obituaries/evelyn-berezin-dead.html) (New York Times)
+  * [Evelyn Berezin, 93, Dies; Built the First True Word Processor](https://www.nytimes.com/2018/12/10/obituaries/evelyn-berezin-dead.html) (NYTimes)
   * [The State of Technology at the End of 2018](https://stratechery.com/2018/the-state-of-technology-at-the-end-of-2018/) (Stratechery)
   * [The rise of the recommendation site](https://www.vox.com/the-goods/2018/12/11/18131224/recommendations-best-strategist-wirecutter-buzzfeed-reviews) (Vox)
   * [How the CIA Trains Spies to Hide in Plain Sight](https://www.wired.com/story/mastermind-cia-disguise/) (Wired)
@@ -107,7 +107,7 @@ title: Weekend Longreads 2018
 **Friday, November 02 2018**
 
   * [The Facebook Dilemma, Part 1](https://www.youtube.com/watch?v=T48KFiHwexM) (Frontline on YouTube)
-  * [A Cryptocurrency Millionaire Wants to Build a Utopia in Nevada](https://www.nytimes.com/2018/11/01/technology/nevada-bitcoin-blockchain-society.html) (New York Times)
+  * [A Cryptocurrency Millionaire Wants to Build a Utopia in Nevada](https://www.nytimes.com/2018/11/01/technology/nevada-bitcoin-blockchain-society.html) (NYTimes)
   * [The Man Behind the Scooter Revolution](https://www.citylab.com/transportation/2018/09/man-behind-urban-scooter-revolution/570109/?es_p=7867492) (CityLab)
   * [A Fork in the Road for Avis](http://fortune.com/longform/a-fork-in-the-road-for-avis/) (Fortune)
   * [The Encyclopedia of the Missing](https://longreads.com/2018/01/11/the-encylopedia-of-the-missing/) (Longreads)
@@ -127,8 +127,8 @@ title: Weekend Longreads 2018
 
 **Friday, October 19 2018**
 
-  * [Craig Newmark, Newspaper Villain, Is Working to Save Journalism](https://www.nytimes.com/2018/10/17/technology/craig-newmark-journalism-gifts.html) (New York Times)
-  * [How the West Was Digitized: The Making of Rockstar Games’ Red Dead Redemption 2](http://www.vulture.com/2018/10/the-making-of-rockstar-games-red-dead-redemption-2.html) (Vulture/New York Magazine)
+  * [Craig Newmark, Newspaper Villain, Is Working to Save Journalism](https://www.nytimes.com/2018/10/17/technology/craig-newmark-journalism-gifts.html) (NYTimes)
+  * [How the West Was Digitized: The Making of Rockstar Games’ Red Dead Redemption 2](http://www.vulture.com/2018/10/the-making-of-rockstar-games-red-dead-redemption-2.html) (Vulture)
   * [Drone Journalism's Battle for Airspace](https://www.cjr.org/innovations/drones-faa-journalists-airspace.php) (Columbia Journalism Review)
   * [Mother Earth Mother Board](https://www.wired.com/1996/12/ffglass/) (Wired)
   * [The Prophets of Cryptocurrency Survey the Boom and Bust](https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust?currentPage=all) (The New Yorker)
@@ -242,7 +242,7 @@ title: Weekend Longreads 2018
   * [How Robot Hands Are Evolving to Do What Ours Can](https://www.nytimes.com/interactive/2018/07/30/technology/robot-hands.html?mtrref=undefined) (NYTimes)
   * [Why the Next Silicon Valley Will Probably Be Outside the U.S.](https://www.citylab.com/life/2018/07/why-the-next-silicon-valley-will-probably-be-outside-the-us/566351/) (Citylab)
   * [Masayoshi Son’s secret to running his $100 billion fund: Telling start-ups to treat each other like family](https://www.cnbc.com/2018/08/01/masayoshi-son-vision-fund-family-synergy.html) (CNBC)
-  * [What Happened to General Magic?](http://nymag.com/selectall/amp/2018/08/general-magic-oral-history-of-the-influential-tech-company.html) (NYMag/SelectAll)
+  * [What Happened to General Magic?](http://nymag.com/selectall/amp/2018/08/general-magic-oral-history-of-the-influential-tech-company.html) (NYMag)
   * [Growing Up Jobs](https://www.vanityfair.com/news/2018/08/lisa-brennan-jobs-small-fry-steve-jobs-daughter) (Vanity Fair)
 
 
@@ -264,7 +264,7 @@ title: Weekend Longreads 2018
   * [Why Some of Instagram's Biggest Memers Are Locking Their Accounts](https://www.theatlantic.com/technology/archive/2018/07/why-some-of-instagrams-biggest-memers-are-locking-their-accounts/564995/) (The Atlantic)
   * [GEORGE HOTZ IS ON A HACKER CRUSADE AGAINST THE ‘SCAM’ OF SELF-DRIVING CARS](https://www.theverge.com/2018/7/13/17561484/george-hotz-comma-ai-self-driving-car-scam-diy-kit) (The Verge)
   * [THE ONLY GOOD ONLINE FANDOM LEFT IS DUNE](https://theoutline.com/post/5333/dune-revival-2018-david-lynch?zd=2&zi=odt3zeom) (The Outline)
-  * [Netflix Isn’t Being Reckless, It’s Just Playing a Game No One Else Dares (Netflix Misunderstandings, Pt. 3)](https://redef.com/original/netflix-isnt-being-reckless-its-just-playing-a-game-no-one-else-dares-netflix-misunderstandings-pt-3) (Matthew Ball/Redef)
+  * [Netflix Isn’t Being Reckless, It’s Just Playing a Game No One Else Dares (Netflix Misunderstandings, Pt. 3)](https://redef.com/original/netflix-isnt-being-reckless-its-just-playing-a-game-no-one-else-dares-netflix-misunderstandings-pt-3) (Matthew Ball)
 
 
 
@@ -317,7 +317,7 @@ title: Weekend Longreads 2018
 **Friday, June 01 2018**
 
   * [Obama's US Digital Service Survives Trump—Quietly](https://www.wired.com/story/obamas-us-digital-service-survives-trumpquietly) (Wired)
-  * [he Search for Women Who Want Cybersecurity Careers](https://www.wsj.com/articles/the-search-for-women-who-want-cybersecurity-careers-1527645661?mod=e2tw)
+  * [he Search for Women Who Want Cybersecurity Careers](https://www.wsj.com/articles/the-search-for-women-who-want-cybersecurity-careers-1527645661?mod=e2tw) (WSJ)
   * [How Futures Trading Changed Bitcoin Prices](https://www.frbsf.org/economic-research/publications/economic-letter/2018/may/how-futures-trading-changed-bitcoin-prices/) (Federal Reserve Bank of San Francisco)
   * [The Growing Emptiness of the "Star Wars" Universe](https://www.newyorker.com/culture/cultural-comment/the-growing-emptiness-of-the-star-wars-universe) (The New Yorker)
 

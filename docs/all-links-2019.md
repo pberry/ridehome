@@ -69,7 +69,7 @@
   * [To Control Its Destiny, Facebook Bets Big on Hardware](https://www.theinformation.com/articles/to-control-its-destiny-facebook-bets-big-on-hardware) (The Information)
   * [Apple Held Preliminary Talks With Pac-12 Conference, MGM](https://www.wsj.com/articles/apple-held-preliminary-talks-with-pac-12-conference-mgm-11576777844) (WSJ)
   * [Spotify prototypes Tastebuds to revive social music discovery](https://techcrunch.com/2019/12/18/spotify-tastebuds/) (TechCrunch)
-  * [A milestone: Earthquake early warning system sends first public alert to smartphones in California](https://www.latimes.com/california/story/2019-12-18/a-milestone-earthquake-early-warning-system-sends-first-public-alert-to-smartphones-in-california) (Los Angeles Times)
+  * [A milestone: Earthquake early warning system sends first public alert to smartphones in California](https://www.latimes.com/california/story/2019-12-18/a-milestone-earthquake-early-warning-system-sends-first-public-alert-to-smartphones-in-california) (LA Times)
   * [TiVo to Merge With Entertainment-Tech Firm Xperi in $3 Billion Deal](https://variety.com/2019/digital/news/tivo-to-merge-with-entertainment-tech-firm-xperi-in-3-billion-deal-1203448604/) (Variety)
   * [Puma’s first ‘active gaming footwear’ is a sock](https://www.engadget.com/2019/12/18/puma-s-first-active-gaming-footwear-is-a-sock/) (Engadget)
 
@@ -85,7 +85,7 @@
   * [Far Side creator Gary Larson launches website with promise of new work](https://www.theguardian.com/books/2019/dec/17/far-side-creator-gary-larson-launches-website-with-promise-of-new-work) (The Guardian)
   * [A Letter From Gary Larson](https://www.thefarside.com/about/48/a-letter-from-gary-larson) (TheFarSide.com)
   * [The Internet Is Losing Its Mind Over This Gift-Wrapping Trick. Here's the Secret.](https://www.popularmechanics.com/science/math/a30248623/gift-wrapping-trick-geometry/) (Popular Mechanics)
-  * [The Gift Wrapping Video](https://twitter.com/search?q=%23KeithRichards&src=trend_click)
+  * [The Gift Wrapping Video](https://twitter.com/search?q=%23KeithRichards&src=trend_click) (Twitter)
 
 
 
@@ -121,7 +121,7 @@
   * [Apple Buys U.K. Startup to Improve iPhone Picture Taking](https://www.bloomberg.com/news/articles/2019-12-12/apple-buys-u-k-startup-to-improve-iphone-picture-taking) (Bloomberg)
   * [Lyft launches a car rental service with no mileage limit](https://www.theverge.com/2019/12/12/21013185/lyft-car-rental-service-pricing-los-angeles-san-francisco-mileage) (The Verge)
   * [Google Maps has now photographed 10 million miles in Street View](https://www.cnet.com/news/google-maps-has-now-photographed-10-million-miles-in-street-view/) (CNET)
-  * [Roku Built the Dominant Streaming Box. Now It’s Under Siege](https://www.bloomberg.com/news/articles/2019-12-11/streaming-box-king-roku-is-under-seige-from-amazon-and-apple) (Bloomberg BusinessWeek)
+  * [Roku Built the Dominant Streaming Box. Now It’s Under Siege](https://www.bloomberg.com/news/articles/2019-12-11/streaming-box-king-roku-is-under-seige-from-amazon-and-apple) (Bloomberg Businessweek)
 
 
 
@@ -235,7 +235,7 @@
   * [Google fires four workers, including one tied to protests](https://www.bloomberg.com/news/articles/2019-11-25/google-fires-four-employees-citing-data-security-violations) (Bloomberg)
   * [Ruthless Quotas at Amazon Are Maiming Employees](https://www.theatlantic.com/technology/archive/2019/11/amazon-warehouse-reports-show-worker-injuries/602530/) (the Atlantic)
   * [Amazon's Own Numbers Reveal Staggering Injury Rates at Staten Island Warehouse](https://gizmodo.com/exclusive-amazons-own-numbers-reveal-staggering-injury-1840025032) (Gizmodo)
-  * [Grass-roots activists on Amazon's power coalesce](https://www.nytimes.com/2019/11/26/technology/amazon-grass-roots-activists.html) (New York Times)
+  * [Grass-roots activists on Amazon's power coalesce](https://www.nytimes.com/2019/11/26/technology/amazon-grass-roots-activists.html) (NYTimes)
   * [Amazon costs Southern California big time in public assistance for its workers, environmental and transportation impact](https://economicrt.org/wp-content/uploads/2019/11/Too-Big-to-Govern.pdf) (Economic Roundtable)
   * [California DMV makes $50 million a year selling personal information](https://www.vice.com/en_us/article/evjekz/the-california-dmv-is-making-dollar50m-a-year-selling-drivers-personal-information) (Vice)
   * [Rev Transcribers Hate the Low Pay, But the Disturbing Recordings Are Even Worse](https://www.theverge.com/2019/11/25/20979249/rev-recordings-transcriptions-low-pay-complaints-freelance-transcribers) (The Verge)
@@ -275,7 +275,7 @@
 
 **Thursday, November 21 2019 - Google's Culture Is Dead**
 
-  * [An update on our political ads policy](https://www.blog.google/technology/ads/update-our-political-ads-policy/) (The Keyword/Google)
+  * [An update on our political ads policy](https://www.blog.google/technology/ads/update-our-political-ads-policy/) (The Keyword)
   * [Google to Limit Targeting of Political Ads](https://www.nytimes.com/2019/11/20/technology/google-political-ads-targeting.html) (NYTimes)
   * [Facebook Weighs Steps to Curb Narrowly Targeted Political Ads](https://www.wsj.com/articles/facebook-discussing-potential-changes-to-political-ad-policy-11574352887?mod=followfacebook) (WSJ)
   * [PayPal to acquire shopping and rewards platform Honey for $4B](https://techcrunch.com/2019/11/20/paypal-to-acquire-shopping-and-rewards-platform-honey-for-4-billion/) (TechCrunch)
@@ -316,7 +316,7 @@
   * [Wayve raises $20 million to give autonomous cars better AI brains](https://venturebeat.com/2019/11/17/wayve-raises-20-million-to-give-autonomous-cars-better-ai-brains/) (VentureBeat)
   * [John Legere to step down as T-Mobile CEO next year](https://www.cnbc.com/2019/11/18/mike-sievert-to-succeed-john-legere-as-ceo-of-t-mobile-on-may-1-2020.html) (CNBC)
   * [The org that doles out .org websites just sold itself to a for-profit company](https://www.theverge.com/2019/11/13/20963881/org-domain-name-registry-sold-for-profit-company-public-interest-registry-ethos-capital) (The Verge)
-  * [ByteDance to take on rivals with music streaming launch](https://www.ft.com/content/ffaed23a-07dd-11ea-a984-fbbacad9e7dd) (Financial Times)
+  * [ByteDance to take on rivals with music streaming launch](https://www.ft.com/content/ffaed23a-07dd-11ea-a984-fbbacad9e7dd) (FT)
   * [HP board unanimously rejects Xerox’s bid to acquire the company](https://www.cnbc.com/2019/11/17/hp-board-unanimously-rejects-xeroxs-bid-to-acquire-the-company.html) (CNBC)
   * [GOOGLE STADIA REVIEW: THE BEST OF CLOUD GAMING IS STILL JUST A BETA](https://www.theverge.com/2019/11/18/20970297/google-stadia-review-gaming-streaming-cloud-price-specs-features-chrome-pixel) (The Verge)
   * [Stadia the Technology? Awesome. Stadia the Service? Not So Much](https://www.vice.com/en_us/article/j5yzv8/stadia-the-technology-awesome-stadia-the-service-not-so-much) (Vice)
@@ -361,7 +361,7 @@
 
 **Tuesday, November 12 2019 - Google Wants Your Medical Records**
 
-  * [Google’s ‘Project Nightingale’ Gathers Personal Health Data on Millions of Americans](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790) (The Wall Street Journal)
+  * [Google’s ‘Project Nightingale’ Gathers Personal Health Data on Millions of Americans](https://www.wsj.com/articles/google-s-secret-project-nightingale-gathers-personal-health-data-on-millions-of-americans-11573496790) (WSJ)
   * [Instagram Stories launches TikTok clone Reels in Brazil](https://www.theverge.com/2019/11/12/20961447/facebook-pay-whatsapp-instagram-messenger-features) (TechCrunch)
   * [Facebook Pay is a new payment system for WhatsApp, Instagram, and Facebook](https://techcrunch.com/2019/11/11/facebook-shortcut-bar-settings/) (The Verge)
   * [Facebook finally lets you banish nav bar tabs & red dots](https://techcrunch.com/2019/11/12/whoop-sports-tech-company-that-makes-discreet-wearables-raises-55m/) (TechCrunch)
@@ -374,7 +374,7 @@
 **Monday, November 11 2019 - Apple Eyes An iPhone Replacement**
 
   * [Viral Tweet About Apple Card Leads to Goldman Sachs Probe](https://www.bloomberg.com/news/articles/2019-11-09/viral-tweet-about-apple-card-leads-to-probe-into-goldman-sachs) (Bloomberg)
-  * [@dhh Thread](https://twitter.com/dhh/status/1192540900393705474?s=21)
+  * [@dhh Thread](https://twitter.com/dhh/status/1192540900393705474?s=21) (Twitter)
   * [About the Apple Card](https://dhh.dk/2019/about-the-apple-card.html) (dhh.dk)
   * [Uber CEO backtracks after calling Saudi murder of Khashoggi "a mistake"](https://www.axios.com/uber-ceo-saudi-arabia-jamal-khashoggi-mistake-92865f2a-d97c-4d6a-b171-5e7c0a69e77a.html) (Axios)
   * [Apple Eyes 2022 Release for AR Headset, 2023 for Glasses](https://www.theinformation.com/articles/apple-eyes-2022-release-for-ar-headset-2023-for-glasses) (The Information)
@@ -420,7 +420,7 @@
 
 **Tuesday, November 05 2019 - Is All Well With Softbank?**
 
-  * [SoftBank imposes new standards to rein in start-up founders](https://www.ft.com/content/2d4d2fee-fe32-11e9-be59-e49b2a136b8d) (Financial Times)
+  * [SoftBank imposes new standards to rein in start-up founders](https://www.ft.com/content/2d4d2fee-fe32-11e9-be59-e49b2a136b8d) (FT)
   * [WeWork Isn’t the Only Stumble for SoftBank’s Vision Fund](https://www.wsj.com/articles/wework-hasnt-been-softbanks-vision-funds-only-stumble-11572891679) (WSJ)
   * [Uber Books Another Quarterly Loss as Revenue Climbs](https://www.wsj.com/articles/uber-booked-another-quarterly-loss-as-revenue-climbed-11572901549) (WSJ)
   * [MICROSOFT SURFACE PRO X REVIEW: HEARTBREAKER](https://www.theverge.com/2019/11/5/20948092/microsoft-surface-pro-x-review-arm-windows-10-apps-features-specs-price) (The Verge)
@@ -456,7 +456,7 @@
 
 **Thursday, October 31 2019 - Twitter Takes A Stand (And Subtweets Facebook)**
 
-  * [Jack Dorsey's Twitter Thread](https://twitter.com/jack/status/1189634360472829952)
+  * [Jack Dorsey's Twitter Thread](https://twitter.com/jack/status/1189634360472829952) (Twitter)
   * [Zuckerberg defends politician ads that will be 0.5% of 2020 revenue](https://techcrunch.com/2019/10/30/zuckerberg-political-ads/) (TechCrunch)
   * [Aaron Sorkin: An Open Letter to Mark Zuckerberg](https://www.nytimes.com/2019/10/31/opinion/aaron-sorkin-mark-zuckerberg-facebook.html) (NYTimes)
   * [Facebook shares rise on strong Q3, users up 2% to 2.45B](https://techcrunch.com/2019/10/30/facebook-earnings-q3-2019/) (TechCrunch)
@@ -550,7 +550,7 @@
   * [Roku is buying ad tech company Dataxu in $150 million deal](https://www.cnbc.com/2019/10/22/roku-is-buying-ad-tech-company-dataxu-in-150-million-deal.html) (CNBC)
   * [Comcast’s ‘free’ streaming box actually requires an additional $13 / month fee](https://www.theverge.com/2019/10/22/20879610/comcast-flex-free-streaming-box-subscription-fee-price) (The Verge)
   * [Forty-six attorneys general have joined a New York-led antitrust investigation of Facebook](https://www.washingtonpost.com/technology/2019/10/22/forty-six-attorneys-general-have-joined-new-york-led-antitrust-investigation-into-facebook/) (The Washington Post)
-  * [Dark Mode in iOS 13 significantly helps iPhone battery life, robotic test shows](https://9to5mac.com/2019/10/20/dark-mode-iphone-battery-life-test/)
+  * [Dark Mode in iOS 13 significantly helps iPhone battery life, robotic test shows](https://9to5mac.com/2019/10/20/dark-mode-iphone-battery-life-test/) (9to5Mac)
 
 
 
@@ -668,7 +668,7 @@
 
   * [Exclusive: A Deeper Look at the PlayStation 5](https://www.wired.com/story/exclusive-playstation-5/) (Wired)
   * [Hulu finally launches support for downloads, initially to ad-free viewers](https://techcrunch.com/2019/10/07/hulu-finally-launches-support-for-downloads-initially-to-ad-free-viewers/) (TechCrunch)
-  * [Group Nine to Acquire PopSugar, Continuing Wave of Digital Media Tie-Ups](https://www.wsj.com/articles/group-nine-to-acquire-popsugar-continuing-wave-of-digital-media-tie-ups-11570482901) (The WSJ)
+  * [Group Nine to Acquire PopSugar, Continuing Wave of Digital Media Tie-Ups](https://www.wsj.com/articles/group-nine-to-acquire-popsugar-continuing-wave-of-digital-media-tie-ups-11570482901) (WSJ)
   * [Blizzard Bans Gamer, Rescinds Money, on Hong Kong Protest Support](https://www.bloomberg.com/news/articles/2019-10-08/blizzard-bans-gamer-rescinds-money-on-hong-kong-protest-support) (Bloomberg)
   * [Blizzard Suspends Professional Hearthstone Player for Hong Kong Comments](https://news.ycombinator.com/item?id=21190265) (Hacker News)
   * [Samsung Galaxy Fold Teardown](https://www.ifixit.com/Teardown/Samsung+Galaxy+Fold+Teardown/122600) (iFixit)
@@ -682,7 +682,7 @@
   * [Amazon debuts its first ever Kindle Kids Edition](https://www.cnet.com/news/amazon-debuts-kindle-kids-edition/) (CNET)
   * [New Sonos service lets you rent its speakers](https://www.theverge.com/2019/10/7/20902433/sonos-flex-price-availability) (The Verge)
   * [Instagram’s Following Activity Tab Is Going Away](https://www.buzzfeednews.com/article/katienotopoulos/instagrams-following-activity-tab-is-going-away) (BuzzFeed News)
-  * [Music labels wary as Apple tries to bundle subscriptions](https://www.ft.com/content/85967cd2-e86b-11e9-a240-3b065ef5fc55) (Financial Times)
+  * [Music labels wary as Apple tries to bundle subscriptions](https://www.ft.com/content/85967cd2-e86b-11e9-a240-3b065ef5fc55) (FT)
   * [Apple’s macOS Catalina update is coming today](https://www.theverge.com/2019/10/7/20902807/apple-mac-os-catalina-now-available-download-itunes-sidecar-ipad-apps) (The Verge)
   * [macOS Catalina Review](https://www.imore.com/macos-catalina-review) (iMore)
   * [PayPal Bails on Facebook-Led Libra Cryptocurrency Dream](https://www.bloomberg.com/news/articles/2019-10-04/paypal-pulls-out-of-facebook-led-libra-cryptocurrency-group) (Bloomberg)
@@ -805,7 +805,7 @@
   * [Google Play Pass bundles 350 Android games and apps for $4.99 per month](https://www.theverge.com/2019/9/23/20878843/google-play-pass-bundles-350-android-games-and-apps-for-4-99-per-month) (The Verge)
   * [Some WeWork Board Members Seek to Remove Adam Neumann as CEO](https://www.wsj.com/articles/some-wework-board-members-seek-to-remove-adam-neumann-as-ceo-11569171188) (WSJ)
   * [SoftBank’s Masa Son is in favor of ousting WeWork CEO Adam Neumann](https://www.cnbc.com/2019/09/22/softbanks-masayoshi-son-in-favor-of-ousting-wework-ceo-adam-neumann.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (CNBC)
-  * [How Adam Neumann’s Over-the-Top Style Built WeWork. ‘This Is Not the Way Everybody Behaves.](https://www.wsj.com/articles/this-is-not-the-way-everybody-behaves-how-adam-neumanns-over-the-top-style-built-wework-11568823827?shareToken=st3fcd4c5c55d94ffc80b5721a8aa6ffa2)
+  * [How Adam Neumann’s Over-the-Top Style Built WeWork. ‘This Is Not the Way Everybody Behaves.](https://www.wsj.com/articles/this-is-not-the-way-everybody-behaves-how-adam-neumanns-over-the-top-style-built-wework-11568823827?shareToken=st3fcd4c5c55d94ffc80b5721a8aa6ffa2) (WSJ)
   * [Snap Detailed Facebook’s Aggressive Tactics in ‘Project Voldemort’ Dossier](https://www.wsj.com/articles/snap-detailed-facebooks-aggressive-tactics-in-project-voldemort-dossier-11569236404) (WSJ)
   * [Samsung Galaxy Fold will be available September 27th in the US](https://9to5google.com/2019/09/23/galaxy-fold-us-launch-date-details/) (9to5Google)
   * [World Robotics Report: Global Sales of Robots Hit $16.5B in 2018](https://www.roboticsbusinessreview.com/research/world-robotics-report-global-sales-of-robots-hit-16-5b-in-2018/) (Robotics Business Review)
@@ -815,7 +815,7 @@
 
 **Friday, September 20 2019 - Airbnb Plans an Open House in 2020**
 
-  * [Airbnb Says It Plans to Go Public in 2020](https://www.nytimes.com/2019/09/19/technology/airbnb-ipo-2020.html) (New York Times)
+  * [Airbnb Says It Plans to Go Public in 2020](https://www.nytimes.com/2019/09/19/technology/airbnb-ipo-2020.html) (NYTimes)
   * [Airbnb Announces Intention to Become a Publicly-Traded Company During 2020](https://press.airbnb.com/airbnb-announces-intention-to-become-a-publicly-traded-company-during-2020/) (Airbnb)
   * [Twitter suspends account of former top Saudi aide implicated in Khashoggi killing](https://www.washingtonpost.com/world/twitter-suspends-account-of-former-top-saudi-aide-implicated-in-khashoggi-killing/2019/09/20/9d35d96c-db8e-11e9-a1a5-162b8a9c9ca2_story.html) (Washington Post)
   * [Disclosing new data to our archive of information operations](https://blog.twitter.com/en_us/topics/company/2019/info-ops-disclosure-data-september-2019.html) (Twitter)
@@ -823,7 +823,7 @@
   * [New features available with iOS 13](https://www.apple.com/ios/ios-13/features/) (Apple)
   * [Facebook may copy your app, but Amazon will copy your shoe](https://www.theverge.com/tldr/2019/9/19/20874818/amazon-allbirds-shoe-clone-copy-sneaker-206-collective-private-label) (The Verge)
   * [Inside Tinder’s Secret Streaming Series](https://variety.com/2019/film/news/inside-tinder-secret-streaming-series-1203338584/) (Variety)
-  * [What Really Brought Down the Boeing 737 Max?](https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html) (New York Times)
+  * [What Really Brought Down the Boeing 737 Max?](https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html) (NYTimes)
   * [How Wi-Fi Almost Didn’t Happen](https://www.wired.com/story/how-wi-fi-almost-didnt-happen/) (Wired)
   * [The U1 chip in the iPhone 11 is the beginning of an Ultra Wideband revolution](https://sixcolors.com/post/2019/09/the-u1-chip-in-the-iphone-11-is-the-beginning-of-an-ultra-wideband-revolution/) (Six Colors)
   * [Artificial Intelligence Confronts a ‘Reproducibility’ Crisis](https://www.wired.com/story/artificial-intelligence-confronts-reproducibility-crisis/) (Wired)
@@ -850,7 +850,7 @@
   * [Facebook launches Portal TV, a $149 video chat set-top box](https://techcrunch.com/2019/09/18/facebook-portal-tv/) (TechCrunch)
   * [Facebook’s second-generation Portal devices are cheaper, smaller, and support WhatsApp](https://www.theverge.com/2019/9/18/20870866/facebook-portal-mini-new-price-release-date-whatsapp-support) (The Verge)
   * [Facebook working on smart glasses with Ray-Ban, code-named ‘Orion’](https://www.cnbc.com/2019/09/17/facebook-enlists-ray-ban-maker-luxottica-to-make-orion-ar-glasses.html) (CNBC)
-  * [Smart TVs sending private data to Netflix and Facebook](https://www.ft.com/content/23ab2f68-d957-11e9-8f9b-77216ebe1f17) (Financial Times)
+  * [Smart TVs sending private data to Netflix and Facebook](https://www.ft.com/content/23ab2f68-d957-11e9-8f9b-77216ebe1f17) (FT)
   * [Google Fi launches a more traditional unlimited plan](https://www.theverge.com/2019/9/17/20869599/google-fi-launches-a-more-traditional-unlimited-plan) (The Verge)
   * [HP Elite Dragonfly hands-on: A really light business notebook](https://www.engadget.com/2019/09/18/hp-elite-dragonfly-hands-on-sub-1-kg/) (Engadget)
   * [APPLE WATCH SERIES 5 REVIEW: THE BEST SMARTWATCH](https://www.theverge.com/2019/9/18/20869098/apple-watch-series-5-always-on-screen-features-price-best-smartwatch) (The Verge)
@@ -883,7 +883,7 @@
   * [Amazon Changed Search Algorithm in Ways That Boost Its Own Products](https://www.wsj.com/articles/amazon-changed-search-algorithm-in-ways-that-boost-its-own-products-11568645345) (WSJ)
   * [Facebook and JP Morgan meet with global central banks to discuss cryptocurrencies](https://www.cnbc.com/2019/09/16/facebook-meeting-with-fed-and-other-central-banks-to-discuss-libra-ft.html) (CNBC)
   * [Google announces October 15th hardware event for Pixel 4](https://www.theverge.com/2019/9/16/20868670/google-pixel-4-event-date-time-october-15-announcement) (The Verge)
-  * [Iger Departs Board of Apple, Disney’s New Streaming Competitor](https://www.nytimes.com/2019/09/13/business/iger-apple-board.html) (NY Times)
+  * [Iger Departs Board of Apple, Disney’s New Streaming Competitor](https://www.nytimes.com/2019/09/13/business/iger-apple-board.html) (NYTimes)
   * [Wi-Fi 6 officially launches today, ahead of iPhone 11 availability on Friday](https://9to5mac.com/2019/09/16/wi-fi-6/) (9to5Mac)
   * [Wi-Fi 6 certification is here to make next-gen speeds a widespread reality](https://www.cnet.com/news/wi-fi-6-certification-is-here-to-make-next-gen-speeds-a-widespread-reality-wi-fi-alliance-certified/) (CNET)
   * [Multiple camera simultaneous recording coming to iPhone XS and iPhone XR, not just iPhone 11](https://9to5mac.com/2019/09/16/multiple-camera-recording-ios-13/) (9to5Mac)
@@ -899,7 +899,7 @@
   * [House lawmakers ask Apple, Amazon, Facebook and Google to turn over trove of records in antitrust probe](https://beta.washingtonpost.com/technology/2019/09/13/house-lawmakers-ask-apple-amazon-facebook-google-turn-over-trove-records-antitrust-probe/) (The Washington Post)
   * [Another high-flying, heavily funded AR headset startup is shutting down](https://techcrunch.com/2019/09/12/another-high-flying-heavily-funded-ar-headset-startup-is-shutting-down/) (TechCrunch)
   * [J.J. Abrams Officially Closes Sizable WarnerMedia Film, TV Partnership](https://www.hollywoodreporter.com/live-feed/jj-abrams-officially-closes-sizable-warnermedia-film-tv-partnership-1232979) (The Hollywood Reporter)
-  * [The end of the backend? Disney wants to limit profit participation on its new TV shows](https://www.latimes.com/entertainment-arts/business/story/2019-09-12/disney-tv-shows-backend-profit-participation-changes) (Los Angeles Times)
+  * [The end of the backend? Disney wants to limit profit participation on its new TV shows](https://www.latimes.com/entertainment-arts/business/story/2019-09-12/disney-tv-shows-backend-profit-participation-changes) (LA Times)
 
 
 
@@ -908,7 +908,7 @@
   * [Uber argues its drivers aren’t core to its business, won’t reclassify them as employees](https://www.theverge.com/2019/9/11/20861362/uber-ab5-tony-west-drivers-core-ride-share-business-california) (The Verge)
   * [FACEBOOK’S LIBRA CRYPTOCURRENCY WILL BE BLOCKED IN EUROPE, FRANCE SAYS](https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-libra-cryptocurrency-bitcoin-europe-france-ban-block-latest-a9102171.html) (The Independent)
   * [Slack's desktop apps get dark mode options](https://www.engadget.com/2019/09/12/slack-desktop-dark-mode/) (Engadget)
-  * [The FBI is investigating a venture capital fund started by Peter Thiel for financial misconduc](https://www.vox.com/recode/2019/9/12/20859055/mithril-capital-federal-investigation-peter-thiel-ajay-royan)
+  * [The FBI is investigating a venture capital fund started by Peter Thiel for financial misconduc](https://www.vox.com/recode/2019/9/12/20859055/mithril-capital-federal-investigation-peter-thiel-ajay-royan) (Vox)
   * [Exclusive: Amazon will let anyone answer your Alexa questions now](https://www.fastcompany.com/90402924/exclusive-amazon-will-let-anyone-answer-your-alexa-questions-now) (Fast Company)
   * [Healthy.io raises $60 million to help patients complete urine tests on their phone](https://venturebeat.com/2019/09/11/healthy-io-raises-60-million-for-smartphone-based-urinalysis-tests/) (Venture Beat)
   * [An Exoplanet Like No Other Yet Found](https://www.theatlantic.com/science/archive/2019/09/water-vapor-explonet-atmosphere/597850/) (The Atlantic)
@@ -938,8 +938,8 @@
   * [Apple TV+ costs $4.99 per month and launches on November 1](https://venturebeat.com/2019/09/10/apple-tv-pricing-availability/) (Venture Beat)
   * [Apple Arcade is launching on September 19th for $4.99 a month](https://www.theverge.com/2019/9/10/20847520/apple-arcade-games-subscription-release-date-price-frogger-humanity-last-survivor) (The Verge)
   * [Google faces a new antitrust probe by 50 attorneys general](http://cnbc.com/2019/09/09/texas-attorney-general-leads-google-antitrust-probe.html) (CNBC)
-  * [48 states are probing Google on antitrust grounds. Why isn’t California?](https://www.latimes.com/business/technology/story/2019-09-09/48-states-are-probing-google-on-antitrust-grounds-why-isnt-california) (LATimes)
-  * [SoftBank urges WeWork to shelve IPO](http://ft.com/content/111f8e00-d346-11e9-8367-807ebd53ab77) (Financial Times)
+  * [48 states are probing Google on antitrust grounds. Why isn’t California?](https://www.latimes.com/business/technology/story/2019-09-09/48-states-are-probing-google-on-antitrust-grounds-why-isnt-california) (LA Times)
+  * [SoftBank urges WeWork to shelve IPO](http://ft.com/content/111f8e00-d346-11e9-8367-807ebd53ab77) (FT)
 
 
 
@@ -973,7 +973,7 @@
   * [Apple Plans Return of Touch ID and New Cheap iPhone](https://www.bloomberg.com/news/articles/2019-09-05/apple-working-on-in-display-fingerprint-id-for-future-iphones) (Bloomberg)
   * [MIT Media Lab founder: Taking Jeffrey Epstein’s money was justified](https://www.technologyreview.com/s/614264/mit-media-lab-jeffrey-epstein-joi-ito-nicholas-negroponte-funding-sex-abuse/) (MIT Technology Review)
   * [Facebook Dating launches in the US, adds Instagram integration](https://techcrunch.com/2019/09/05/facebook-dating-launches-in-the-u-s-adds-instagram-integration/) (TechCrunch)
-  * [Why ‘SIM Swapping’ Is a Growing Security Nightmare](https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html) (New York Times)
+  * [Why ‘SIM Swapping’ Is a Growing Security Nightmare](https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html) (NYTimes)
   * [I Broke The Official Jeremy Renner App By Posting The Word “Porno” On It](https://theconcourse.deadspin.com/i-broke-the-official-jeremy-renner-app-by-posting-the-w-1837804181?utm_campaign=socialflow_deadspin_twitter&utm_medium=socialflow&utm_source=deadspin_twitter&/setsession) (Deadspin)
 
 
@@ -1059,7 +1059,7 @@
 
   * [Google and Dell team up on the first Chromebooks made for business](https://www.engadget.com/2019/08/26/google-dell-latitude-chromebook-enterprise-hands-on/) (Engadget)
   * [Baidu replaces Google to become number two in smart speaker market in Q2 2019](https://www.canalys.com/newsroom/smart-speaker-market-q2-2019?ctid=497-f991eafe5696a8a67e4ddb47265c54b5) (Canalys)
-  * [Binance enters into crypto lending space, offers interest-earning opportunities for BNB, ETC and Tethe](https://www.reuters.com/article/us-amazon-com-lawsuit/top-u-s-publishers-sue-amazons-audible-for-copyright-infringement-idUSKCN1VD1ZY)
+  * [Binance enters into crypto lending space, offers interest-earning opportunities for BNB, ETC and Tethe](https://www.reuters.com/article/us-amazon-com-lawsuit/top-u-s-publishers-sue-amazons-audible-for-copyright-infringement-idUSKCN1VD1ZY) (Reuters)
   * [Amazon’s Audible Sued by Publishers Over New Text Feature](https://www.bloomberg.com/news/articles/2019-08-23/amazon-s-audible-sued-by-publishers-over-audio-to-text-feature) (Bloomberg)
   * [Netflix tests human-driven curation with launch of 'Collections'](https://techcrunch.com/2019/08/23/netflix-tests-human-driven-curation-with-launch-of-collections/) (TechCrunch)
   * [Deconstructing Google’s excuses on tracking protection](https://freedom-to-tinker.com/2019/08/23/deconstructing-googles-excuses-on-tracking-protection/) (Freedom to Tinker)
@@ -1070,7 +1070,7 @@
 **Friday, August 23 2019 - Are "Partners" Looking To Exit Libra?**
 
   * [Google shutters more than 200 YouTube channels amid Hong Kong protests](https://www.cnbc.com/2019/08/22/google-shutters-more-than-200-youtube-channels-amid-hong-kong-protests.html) (CNBC)
-  * [Facebook’s Libra backers look to distance themselves from project](https://www.ft.com/content/05be7adc-c4c1-11e9-a8e9-296ca66511c9) (Financial Times)
+  * [Facebook’s Libra backers look to distance themselves from project](https://www.ft.com/content/05be7adc-c4c1-11e9-a8e9-296ca66511c9) (FT)
   * [Amazon Has Ceded Control of Its Site. The Result: Thousands of Banned, Unsafe or Mislabeled Products](https://www.wsj.com/articles/amazon-has-ceded-control-of-its-site-the-result-thousands-of-banned-unsafe-or-mislabeled-products-11566564990) (WSJ)
   * [SAMSUNG GALAXY NOTE 10 PLUS REVIEW: SHOULD YOU SPEND FOR THE STYLUS?](https://www.theverge.com/2019/8/22/20826941/samsung-galaxy-note-10-plus-review-video-photos-android-stylus-s-pen-specs-features-price) (The Verge)
   * [The Galaxy Note 10+ Is Damn Near Perfect](https://gizmodo.com/the-galaxy-note-10-is-damn-near-perfect-1837443425) (Gizmodo)
@@ -1109,7 +1109,7 @@
   * [Removing Coordinated Inauthentic Behavior From China](https://newsroom.fb.com/news/2019/08/removing-cib-china/) (Facebook)
   * [Updating our advertising policies on state media](https://blog.twitter.com/en_us/topics/company/2019/advertising_policies_on_state_media.html) (Twitter)
   * [Apple Targets Apple TV+ Launch in November, Weighs $9.99 Price After Free Trial](https://www.bloomberg.com/news/articles/2019-08-19/apple-is-targeting-launch-of-apple-video-service-by-november) (Bloomberg)
-  * [Apple splashes $6bn on new shows in streaming wars](https://www.ft.com/content/4f7f4326-c2bf-11e9-a8e9-296ca66511c9) (Financial Times)
+  * [Apple splashes $6bn on new shows in streaming wars](https://www.ft.com/content/4f7f4326-c2bf-11e9-a8e9-296ca66511c9) (FT)
   * [States to Move Forward With Antitrust Probe of Big Tech Firms](https://www.wsj.com/articles/attorneys-general-to-move-forward-with-antitrust-probe-of-big-tech-11566247753?emailToken=0466cccda4630f2d5b9ee9a564e7ff92d0RoyDx2BKdK15NQYp/F10/Ixv/d/Og1UIkpcIzU2U70sJpCNUWxToSHFGeyt2RGtJcroJX6n+2E9PdCJn5KHoFUGS7W2BVDXvL0ipZdRQeYrA2KGtZDzHm5fSVCN/8A&reflink=article_copyURL_share) (WSJ)
   * [Sony to acquire Insomniac Games](https://www.polygon.com/2019/8/19/20812654/sony-buys-insomniac-games) (Polygon)
   * [Over 20 Texas local governments hit in 'coordinated ransomware attack'](https://www.zdnet.com/article/at-least-20-texas-local-governments-hit-in-coordinated-ransomware-attack/) (ZDNet)
@@ -1155,7 +1155,7 @@
 **Wednesday, August 14 2019 - “We” Files, a MacBook Pro “No Fly List” and “Boatbnb”**
 
   * [WeWork files for long-awaited IPO](https://www.axios.com/wework-files-for-long-awaited-ipo-31f810f0-b470-4e0f-b0e6-0fd200ad4632.html) (Axios)
-  * [Major breach found in biometrics system used by banks, UK police and defence firm](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms)
+  * [Major breach found in biometrics system used by banks, UK police and defence firm](https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms) (The Guardian)
   * [AI Startup Boom Raises Questions of Exaggerated Tech Savvy](https://www.wsj.com/articles/ai-startup-boom-raises-questions-of-exaggerated-tech-savvy-11565775004) (WSJ)
   * [HBO Max eyeing ‘Big Bang Theory’ and ‘Two and a Half Men’ in $1.5 billion deal](https://www.dailydot.com/upstream/hbo-max-big-bang-theory-two-half-men/?tw=dd) (The Daily Dot)
   * [Facebook Paid Contractors to Transcribe Users’ Audio Chats](https://www.bloomberg.com/news/articles/2019-08-13/facebook-paid-hundreds-of-contractors-to-transcribe-users-audio) (Bloomberg)
@@ -1549,7 +1549,7 @@
 **Thursday, March 21 2019 - Santa Tim Has Forsaken Us!**
 
   * [Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/) (Krebs on Security)
-  * [Can Duruk's Tweet Storm](https://twitter.com/can/status/1108754725279842304)
+  * [Can Duruk's Tweet Storm](https://twitter.com/can/status/1108754725279842304) (Twitter)
   * [Windows Virtual Desktop is now in public preview](https://techcrunch.com/2019/03/21/windows-virtual-desktop-is-now-in-public-preview/) (TechCrunch)
   * [Microsoft launches previews of Windows Virtual Desktop and Defender ATP for Mac](https://venturebeat.com/2019/03/21/microsoft-launches-previews-of-windows-virtual-desktop-and-defender-atp-for-mac/) (VentureBeat)
   * [Microsoft warns Windows 7 users of looming end to security updates](https://techcrunch.com/2019/03/20/windows-7-security-updates/) (TechCrunch)
@@ -1644,7 +1644,7 @@
   * [Amazon’s Alexa has 80,000 Apps—and No Runaway Hit](https://www.bloomberg.com/news/articles/2019-03-11/amazon-s-alexa-has-80-000-apps-and-no-runaway-hit) (Bloomberg)
   * [Peak California](https://medium.com/@byrnehobart/peak-california-7cf97baecaf0) (Byrne Hobart)
   * [Goodbye, Silicon Valley, hello, Atlanta: Black entrepreneurs part of new migration to South](https://www.usatoday.com/story/news/2019/03/10/bye-silicon-valley-black-entrepreneurs-part-new-migration-atlanta/2982120002/) (USA Today)
-  * [30 years on, what’s next #ForTheWeb?](https://webfoundation.org/2019/03/web-birthday-30/) (Tim Berners-Lee)
+  * [30 years on, what’s next #ForTheWeb?](https://webfoundation.org/2019/03/web-birthday-30/) (Tim Berners)
   * [The original Web proposal](https://www.w3.org/History/1989/proposal.html)
 
 
@@ -1676,7 +1676,7 @@
 
   * [A Privacy-Focused Vision for Social Networking](https://www.facebook.com/notes/mark-zuckerberg/a-privacy-focused-vision-for-social-networking/10156700570096634/) (Mark Zuckerberg)
   * [A 'privacy-focused' Facebook would kill Zuckerberg's business model](https://www.theguardian.com/commentisfree/2019/mar/07/privacy-focused-facebook-kill-zuckerbergs-business-model?CMP=Share_iOSApp_Other) (The Guardian)
-  * [Facebook’s Privacy Cake](https://stratechery.com/2019/facebooks-privacy-cake/) (Ben Thompson/Stratechery)
+  * [Facebook’s Privacy Cake](https://stratechery.com/2019/facebooks-privacy-cake/) (Stratechery)
   * [Mark Zuckerberg Tried Hard To Get Facebook Into China. Now The Company May Be Backing Away.](https://www.buzzfeednews.com/article/ryanmac/facebook-backing-away-china-mark-zuckerberg-privacy) (Buzzfeed News)
   * [Amazon's joint health-care venture finally has a name: Haven](https://www.cnbc.com/2019/03/06/amazon-jp-morgan-berkshire-hathaway-health-care-venture-named-haven.html) (CNBC)
   * [Huawei: US Congress acted as 'judge, juror and executioner' with ban on our products](https://www.cnn.com/2019/03/06/tech/huawei-suing-united-states/) (CNN)
@@ -1716,7 +1716,7 @@
 
   * [Facebook won’t let you opt-out of its phone number ‘look up’ setting](https://techcrunch.com/2019/03/03/facebook-phone-number-look-up/) (TechCrunch)
   * [Scammers abused Facebook phone number search](https://www.bbc.com/news/technology-43656746) (BBC News)
-  * [Huawei Said to Be Preparing to Sue the U.S. Government](https://www.nytimes.com/2019/03/04/technology/huawei-lawsuit-us-government.html) (New York Times)
+  * [Huawei Said to Be Preparing to Sue the U.S. Government](https://www.nytimes.com/2019/03/04/technology/huawei-lawsuit-us-government.html) (NYTimes)
   * [Here are the data brokers quietly buying and selling your personal information](https://www.fastcompany.com/90310803/here-are-the-data-brokers-quietly-buying-and-selling-your-personal-information) (Fast Company)
   * [With USB 4, Thunderbolt 3’s benefits become open to all](https://www.theverge.com/2019/3/4/18246182/usb-4-thunderbolt-3-specs-features-release-date) (The Verge)
   * [USB Promoter Group Announces USB4 Specification](https://www.apnews.com/Business%20Wire/6362e19b04544102be218a0287c37087) (AP News)
@@ -1758,7 +1758,7 @@
   * [Threads emerges from stealth with $10.5M from Sequoia for a new take on enabling work conversations](https://techcrunch.com/2019/02/27/threads-emerges-from-stealth-with-10-5m-from-sequoia-for-a-new-take-on-enabaling-work-conversations/) (TechCrunch)
   * [As AWS Use Soars, Companies Surprised by Cloud Bills](https://www.theinformation.com/articles/as-aws-use-soars-companies-surprised-by-cloud-bills) (The Information)
   * [Containers may be leading to cloud computing cost overruns](https://www.zdnet.com/article/containers-may-be-leading-to-cloud-computing-cost-overruns/) (ZDNet)
-  * [Rotten Tomatoes tweaks audience ratings system to thwart online trolls](https://www.latimes.com/business/hollywood/la-fi-ct-rotten-tomatoes-audience-ratings-20190226-story.html) (The Los Angeles Times)
+  * [Rotten Tomatoes tweaks audience ratings system to thwart online trolls](https://www.latimes.com/business/hollywood/la-fi-ct-rotten-tomatoes-audience-ratings-20190226-story.html) (LA Times)
   * [China’s Tech Firms Are Mapping Pig Faces](https://www.nytimes.com/2019/02/24/business/china-pig-technology-facial-recognition.html) (NYTimes)
 
 
@@ -1804,12 +1804,12 @@
   * [Samsung Galaxy S10 and S10+ hands-on](https://www.engadget.com/2019/02/20/samsung-galaxy-s10-plus-hands-on-hole-punch-triple-cameras/) (Engadget)
   * [You can remap the Bixby button on Samsung’s Galaxy S10 to do whatever you want](https://www.theverge.com/2019/2/20/18233819/samsung-galaxy-s10-bixby-button-remap-reassign) (The Verge)
   * [The Galaxy Fold makes no sense as a consumer device yet](https://www.theverge.com/2019/2/21/18233917/samsung-galaxy-fold-price-features-consumer-worth-buying-editorial) (The Verge)
-  * [Apple, Goldman Sachs Team Up on Credit Card Paired With iPhone](https://www.wsj.com/articles/apple-goldman-sachs-team-up-on-credit-card-paired-with-iphone-11550750400?mod=e2twd) (Wall Street Journal)
+  * [Apple, Goldman Sachs Team Up on Credit Card Paired With iPhone](https://www.wsj.com/articles/apple-goldman-sachs-team-up-on-credit-card-paired-with-iphone-11550750400?mod=e2twd) (WSJ)
   * [Nestle, Disney Pull YouTube Ads, Joining Furor Over Child Videos](https://www.bloomberg.com/news/articles/2019-02-20/disney-pulls-youtube-ads-amid-concerns-over-child-video-voyeurs) (Bloomberg)
-  * [On YouTube, a network of paedophiles is hiding in plain sight](https://www.wired.co.uk/article/youtube-pedophile-videos-advertising) (Wired UK)
+  * [On YouTube, a network of paedophiles is hiding in plain sight](https://www.wired.co.uk/article/youtube-pedophile-videos-advertising) (Wired)
   * [Youtube is Facilitating the Sexual Exploitation of Children, and it's Being Monetized (2019)](https://www.youtube.com/watch?v=O13G5A5w5P0) (Matt Watson, YouTube)
   * [YouTube terminates more than 400 channels following child exploitation controversy](https://www.theverge.com/2019/2/21/18234494/youtube-child-exploitation-channel-termination-comments-philip-defranco-creators) (The Verge)
-  * [Close Enough](https://slate.com/technology/2019/02/reverse-location-search-warrants-google-police.html) (Slate/Future Tense)
+  * [Close Enough](https://slate.com/technology/2019/02/reverse-location-search-warrants-google-police.html) (Slate)
 
 
 
@@ -1849,7 +1849,7 @@
 **Friday, February 15 2019 - FTC To Fine Facebook?**
 
   * [The U.S. government and Facebook are negotiating a record, multibillion-dollar fine for the company’s privacy lapses](https://www.washingtonpost.com/technology/2019/02/14/us-government-facebook-are-negotiating-record-multi-billion-dollar-fine-companys-privacy-lapses/?utm_term=.e8510515306a) (The Washington Post)
-  * [Amazon’s Escape From New York](https://www.bloomberg.com/news/articles/2019-02-14/how-amazon-lost-new-york) (Bloomberg BusinessWeek)
+  * [Amazon’s Escape From New York](https://www.bloomberg.com/news/articles/2019-02-14/how-amazon-lost-new-york) (Bloomberg Businessweek)
   * [Copyright Office Refuses Registration for 'Fresh Prince' Star Alfonso Ribeiro's "Carlton Dance"](https://www.hollywoodreporter.com/thr-esq/copyright-office-refuses-registration-fresh-prince-star-alfonso-ribeiros-carlton-dance-1186666) (The Hollywood Reporter)
   * [HSBC forex trading costs cut sharply by blockchain - executive](https://www.reuters.com/article/us-hsbc-blockchain/hsbc-forex-trading-costs-cut-sharply-by-blockchain-executive-idUSKCN1Q31MW) (Reuters)
   * [Samsung leaks entire new wearables lineup through its own app](https://www.theverge.com/circuitbreaker/2019/2/14/18225714/samsung-galaxy-watch-active-buds-fit-e-wearable-leak) (The Verge)
@@ -2005,7 +2005,7 @@
   * [Apple Plans Gaming Subscription Service: Sources](https://cheddar.com/videos/apple-plans-gaming-subscription-service-sources) (Cheddar)
   * [A Tiny Screw Shows Why iPhones Won’t Be ‘Assembled in U.S.A.’](https://www.nytimes.com/2019/01/28/technology/iphones-apple-china-made.html) (NYTimes)
   * [China created a unicorn every 3.8 days in 2018](https://www.scmp.com/tech/start-ups/article/2183717/china-created-unicorn-every-38-days-2018) (South China Morning Post)
-  * [China's smartphone shipments dropped 14 percent in 2018](https://techcrunch.com/2019/01/28/chinas-smartphone-shipments-dropped-14-percent-in-2018/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+\(TechCrunch\)
+  * [China's smartphone shipments dropped 14 percent in 2018](https://techcrunch.com/2019/01/28/chinas-smartphone-shipments-dropped-14-percent-in-2018/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+Techcrunch+\(TechCrunch\) (TechCrunch)
   * [Facebook Watch Isn’t Living Up to Its Name](https://www.bloomberg.com/news/articles/2019-01-28/facebook-watch-struggles-to-deliver-hits-or-advertisers) (Bloomberg)
   * [Google and IAB ad category lists show 'massive leakage of highly intimate data,' GDPR complain claims](https://techcrunch.com/2019/01/27/google-and-iab-ad-category-lists-show-massive-leakage-of-highly-intimate-data-gdpr-complaint-claims/) (TechCrunch)
   * [AI Helps Amputees Walk With a Robotic Knee](https://spectrum.ieee.org/the-human-os/biomedical/bionics/ai-helps-humans-walk-on-robot-prosthetic-knee) (IEEE Spectrum)
@@ -2120,7 +2120,7 @@
 **Monday, January 14 2019 - Am I Gonna Do That Egg Instagram Story?**
 
   * [Facebook’s new Stories feature for event sharing actually sounds useful](https://www.theverge.com/2019/1/14/18179235/facebook-stories-event-sharing-mobile-app-test-new-feature) (The Verge)
-  * [CES 2019: A Show Report](https://medium.learningbyshipping.com/ces-85ca9f07c08a) (Learn By Shipping/@stevesi)
+  * [CES 2019: A Show Report](https://medium.learningbyshipping.com/ces-85ca9f07c08a) (Learn By Shipping)
   * [SoundGuys: USB-C audio is dead](https://www.androidauthority.com/death-of-usb-c-headphones-942314/) (Android Authority)
   * [Wiliot nabs $30M from Amazon, Avery Dennison, Samsung for a chip that runs on power from ambient radio frequencies](https://techcrunch.com/2019/01/14/wiliot-nabs-30m-from-amazon-avery-dennison-samsung-for-a-chip-that-runs-on-power-from-ambient-radio-frequencies/) (TechCrunch)
   * [The rise of Alexa creates a dilemma for your open plan office](https://www.wired.co.uk/article/voice-assistants-alexa-at-work-in-office) (Wired)

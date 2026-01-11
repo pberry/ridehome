@@ -142,10 +142,10 @@ title: Weekend Longreads 2020
 **Friday, October 09 2020**
 
   * [Inside the US campaign to cut China out of the tech supply chain](https://asia.nikkei.com/Spotlight/The-Big-Story/Inside-the-US-campaign-to-cut-China-out-of-the-tech-supply-chain) (NikkeiAsia)
-  * [Why media formats (like Snapchat Stories and TikTok music videos) become hits?](https://medium.com/@efeng/why-media-formats-like-snapchat-stories-and-tiktok-music-videos-become-hits-c6d2b9c79371) (Medium/Eric Feng)
+  * [Why media formats (like Snapchat Stories and TikTok music videos) become hits?](https://medium.com/@efeng/why-media-formats-like-snapchat-stories-and-tiktok-music-videos-become-hits-c6d2b9c79371) (Medium)
   * [THE MASK BARONS OF ETSY](https://www.theverge.com/21446951/etsy-mask-sales-sellers-shops-garment-industry-los-angeles) (The Verge)
   * [A Major Online Learning Platform Was Created by a Subterranean Religious ‘Cult’ Whose Leader Has Been Accused of Violence and Abuse](https://onezero.medium.com/a-major-online-learning-platform-was-created-by-a-subterranean-religious-cult-whose-leader-has-cec99e7adcaf) (OneZero)
-  * [Definitely not Windows 95: What operating systems keep things running in space?](https://arstechnica.com/features/2020/10/the-space-operating-systems-booting-up-where-no-one-has-gone-before/) (ArsTechnica)
+  * [Definitely not Windows 95: What operating systems keep things running in space?](https://arstechnica.com/features/2020/10/the-space-operating-systems-booting-up-where-no-one-has-gone-before/) (Ars Technica)
 
 
 
@@ -177,7 +177,7 @@ title: Weekend Longreads 2020
   * [Remote Work Is Killing the Hidden Trillion-Dollar Office Economy](https://marker.medium.com/remote-work-is-killing-the-hidden-trillion-dollar-office-economy-5800af06b007) (Marker)
   * [Your Teenage Email Account Is a Lost Time Capsule](https://onezero.medium.com/your-teenage-email-account-is-a-lost-time-capsule-a7627d53c466) (One Zero)
   * [Why the Apple II Didn’t Support Lowercase Letters](https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters) (Vintage Computing And Gaming)
-  * [This unheard Steve Jobs tape is part of an amazing trove of tech history](https://www.fastcompany.com/90541084/this-unheard-steve-jobs-tape-is-part-of-an-amazing-trove-of-tech-history?partner=feedburner&utm_source=feedly&utm_medium=webfeeds&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\)
+  * [This unheard Steve Jobs tape is part of an amazing trove of tech history](https://www.fastcompany.com/90541084/this-unheard-steve-jobs-tape-is-part-of-an-amazing-trove-of-tech-history?partner=feedburner&utm_source=feedly&utm_medium=webfeeds&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\) (Fast Company)
 
 
 
@@ -187,7 +187,7 @@ title: Weekend Longreads 2020
   * [Your Phone Wasn’t Built for the Apocalypse](https://www.theatlantic.com/technology/archive/2020/09/camera-phone-wildfire-sky/616279/?scrolla=5eb6d68b7fedc32c19ef33b4) (The Atlantic)
   * [Esports Pros Have ‘Dream’ Jobs—but Game Publishers Have All the Power](https://www.wired.com/story/esports-pros-labor-game-publishers-power/) (Wired)
   * [How Netflix's Reed Hastings Rewrote the Hollywood Script](https://www.forbes.com/sites/dawnchmielewski/2020/09/07/how-netflixs-reed-hastings-rewrote-the-hollywood-script/#7d62fff215df) (Forbes)
-  * [I was skeptical about attending Burning Man in VR, but it’s great](https://www.fastcompany.com/90547369/i-was-skeptical-about-attending-burning-man-in-vr-but-its-great?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\)
+  * [I was skeptical about attending Burning Man in VR, but it’s great](https://www.fastcompany.com/90547369/i-was-skeptical-about-attending-burning-man-in-vr-but-its-great?partner=feedburner&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+fastcompany/headlines+\(Fast+Company\) (Fast Company)
 
 
 
@@ -241,7 +241,7 @@ title: Weekend Longreads 2020
   * [The New Network](https://thebulwark.com/the-new-network/) (The Bulwark)
   * [The Vigilante Hunting Down Cheaters in Video Games](https://www.vice.com/en_us/article/bv857z/gamerdoc-catching-banning-cheaters-hackers-overwatch-valorant) (Motherboard)
   * [The Next 'Mafia'? Mapping The Alumni Of Square](https://www.protocol.com/newsletters/pipeline/square-founders-alumni-mafia?rebelltitem=1#rebelltitem1) (Protocol)
-  * [Dan Rose Kindle Tweet Thread](https://twitter.com/drose_999/status/1287944667414196225)
+  * [Dan Rose Kindle Tweet Thread](https://twitter.com/drose_999/status/1287944667414196225) (Twitter)
   * [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](https://www.nytimes.com/2020/08/03/technology/tiktok-bytedance-us-china.html) (NYTimes)
 
 
@@ -430,7 +430,7 @@ title: Weekend Longreads 2020
   * [Atlassian’s tools helped build today’s tech. How’s it prepping for the future?](https://www.protocol.com/atlassian-scott-farquhar-jira--transformation) (Protocol)
   * [Zuckerberg’s Jealousy Held Back Instagram and Drove Off Founders](https://www.bloomberg.com/news/features/2020-04-07/zuckerberg-s-jealousy-held-back-instagram-and-drove-off-founders) (Bloomberg Businessweek)
   * [Was Leisure Suit Larry Really an Accomplice in Early Banking Cyberattacks?](https://www.vice.com/en_us/article/epg9be/did-sierra-create-leisure-suit-larry-virus-stop-piracy) (Vice)
-  * [Has Apple finally bitten off way more than it can chew?](https://www.wired.co.uk/article/future-of-apple) (WiredUK)
+  * [Has Apple finally bitten off way more than it can chew?](https://www.wired.co.uk/article/future-of-apple) (Wired)
   * [Apple, Amazon, and Common Enemies](https://stratechery.com/2020/apple-amazon-and-common-enemies/) (Stratechery)
 
 
@@ -461,7 +461,7 @@ title: Weekend Longreads 2020
 
   * [How Reddit's coronavirus community became a destination](https://www.nbcnews.com/tech/tech-news/how-reddit-s-coronavirus-community-became-destination-n1162661) (NBC News)
   * [Can Smart Thermometers Track the Spread of the Coronavirus?](https://www.nytimes.com/2020/03/18/health/coronavirus-fever-thermometers.html) (NYTimes)
-  * [Correlation and Market Meltdowns](https://avc.com/2020/03/correlation-and-market-meltdowns/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AVc+%28A+VC%29) (Fred Wilson/AVC)
+  * [Correlation and Market Meltdowns](https://avc.com/2020/03/correlation-and-market-meltdowns/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AVc+%28A+VC%29) (Fred Wilson)
   * [Zoom conquered video chat — now it has even bigger plans](https://www.protocol.com/zoom-videoconferencing-history-profit) (Protocol)
   * [The tech industry’s quest to help us sleep better is just beginning](https://www.fastcompany.com/90478002/jack-dorsey-is-sleeping-just-fine-thank-you) (Fast Company)
   * [How TikTok Is Taking the Tunes out of Pop](https://www.highsnobiety.com/p/tik-tok-renegade-no-melody-rap/?curator=MusicREDEF) (HighSnobiety)
@@ -507,7 +507,7 @@ title: Weekend Longreads 2020
 
   * [Did the Early Internet Activists Blow It?](https://slate.com/technology/2020/02/three-decades-internet-freedom-activism.html) (Slate)
   * [Wikipedia Is the Last Best Place on the Internet](https://www.wired.com/story/wikipedia-online-encyclopedia-best-place-internet/) (Wired)
-  * [How the BBC’s Netflix-killing plan was snuffed by myopic regulation](https://www.wired.co.uk/article/bbc-netflix-rival-failure) (WiredUK)
+  * [How the BBC’s Netflix-killing plan was snuffed by myopic regulation](https://www.wired.co.uk/article/bbc-netflix-rival-failure) (Wired)
   * [Could micro-credentials compete with traditional degrees?](https://www.bbc.com/worklife/article/20200212-could-micro-credentials-compete-with-traditional-degrees?ocid=global_worklife_rss) (BBC)
   * [Debt is Coming](https://alexdanco.com/2020/02/07/debt-is-coming/) (AlexDanco.com)
   * [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/) (A16Z)
@@ -521,7 +521,7 @@ title: Weekend Longreads 2020
   * [THE HIGH COST OF A FREE CODING BOOTCAMP](https://www.theverge.com/2020/2/11/21131848/lambda-school-coding-bootcamp-isa-tuition-cost-free) (The Verge)
   * [Cost Cutting Algorithms Are Making Your Job Search a Living Hell](https://www.vice.com/en_us/article/pkekvb/cost-cutting-algorithms-are-making-your-job-search-a-living-hell) (Vice)
   * [Are Algorithmically-Generated Term Papers the Next Big Challenge to Academic Integrity?](https://www.edsurge.com/news/2020-02-12-are-algorithmically-generated-term-papers-the-next-big-challenge-to-academic-integrity) (EdSurge)
-  * [SoftBank’s $375 Million Bet on Pizza Went Really Bad Really Fast](https://www.bloomberg.com/news/articles/2020-02-13/inside-the-firings-at-softbank-s-robot-pizza-startup) (Bloomberg BusinessWeek)
+  * [SoftBank’s $375 Million Bet on Pizza Went Really Bad Really Fast](https://www.bloomberg.com/news/articles/2020-02-13/inside-the-firings-at-softbank-s-robot-pizza-startup) (Bloomberg Businessweek)
   * [How a Space Engineer Made Her Own Rotary Cell Phone](https://www.wired.com/story/justine-haupt-rotary-phone/) (Wired)
 
 
@@ -539,7 +539,7 @@ title: Weekend Longreads 2020
 
 **Friday, January 31 2020**
 
-  * [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange/A16Z)
+  * [Every Company Will Be a Fintech Company](https://a16z.com/2020/01/21/every-company-will-be-a-fintech-company/) (Angela Strange)
   * [Don't Brush Off Mouth Tech As a Passing Fad](https://www.wired.com/story/mouth-tech/) (Wired)
   * [The iPad's original software designer and program lead look back on the device's first 10 years](https://www.inputmag.com/tech/the-ipads-original-software-designer-and-program-lead-look-back-on-the-devices-first-10-years) (InPut)
   * [Super Bowl 2020: The madness and magic behind the game’s first 4K HDR broadcast](https://www.digitaltrends.com/home-theater/super-bowl-2020-behind-the-scenes-first-4k-hdr-broadcast/) (Digital Trends)
@@ -567,7 +567,7 @@ title: Weekend Longreads 2020
 
   * [How Mormons Built the Next Silicon Valley While No One Was Looking](https://marker.medium.com/how-mormons-built-the-next-silicon-valley-while-no-one-was-looking-c50add577478) (Marker)
   * [All the money in the world couldn’t make Kinect happen](https://www.polygon.com/2020/1/14/21064608/microsoft-kinect-history-rise-and-fall) (Polygon)
-  * [The Promise of Cloud-Native Games](https://a16z.com/2020/01/14/cloud-native-games/) (A16Z/Jonathan Lai)
+  * [The Promise of Cloud-Native Games](https://a16z.com/2020/01/14/cloud-native-games/) (A16Z)
   * [The Metaverse: What It Is, Where to Find it, Who Will Build It, and Fortnite](https://www.matthewball.vc/all/themetaverse) (MatthewBall.vc)
   * [Islamic fintechs are on the rise — but how viable is this tailored offering?](https://sifted.eu/articles/islamic-fintechs-europe-survive/) (Sifted)
   * [The Big Question Now Facing Apple](https://www.aboveavalon.com/notes/2020/1/16/the-big-question-now-facing-apple) (Above Avalon)

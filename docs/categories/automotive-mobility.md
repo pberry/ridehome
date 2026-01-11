@@ -1,5 +1,4 @@
 ---
-layout: category
 title: Automotive/Mobility
 ---
 
@@ -49,7 +48,7 @@ title: Automotive/Mobility
 ### June
 
 - [Waymo’s robotaxis are now available on the Uber app in Atlanta](https://www.theverge.com/news/691101/waymo-uber-robotaxi-atlanta-launch) (The Verge)
-- [Tesla launches robotaxi service in Austin](https://www.ft.com/content/5aefc191-d3de-4e6b-a2eb-08defd0678ee) (Financial Times)
+- [Tesla launches robotaxi service in Austin](https://www.ft.com/content/5aefc191-d3de-4e6b-a2eb-08defd0678ee) (FT)
 - [Elon Musk says Tesla robotaxi rides in Austin ‘tentatively’ set to begin June 22](https://www.cnbc.com/2025/06/10/elon-musk-says-tesla-robotaxi-rides-in-austin-will-tentatively-begin-june-22.html) (CNBC)
 - [Waymo halts service in downtown Los Angeles amid ICE protests](https://www.latimes.com/business/story/2025-06-09/waymo-halts-service-in-downtown-los-angeles-amid-ice-protests) (LA Times)
 - [Amazon Prepares to Test Humanoid Robots for Delivering Packages](https://www.theinformation.com/articles/amazon-prepares-test-humanoid-robots-delivering-packages?rc=64g9cw) (The Information)
@@ -59,7 +58,7 @@ title: Automotive/Mobility
 - [Driverless Semi Trucks Are Here, With Little Regulation and Big Promises](https://www.nytimes.com/2025/05/27/business/driverless-semi-trucks-aurora-innovation.html?unlocked_article_code=1.Kk8.rjwV.AFSR5-EII4fA&smid=url-share) (NYTimes)
 - [Autonomous cars with ‘social sensitivity’ cut threat to road users, study finds](https://www.ft.com/content/4eac53c6-85f6-4fe2-8d9c-2e4503473e69) (FT)
 - [Next-gen CarPlay, branded CarPlay Ultra, starts rolling out today](https://9to5mac.com/2025/05/15/next-gen-carplay-ultra-available-today/) (9to5Mac)
-- [Rejoice! Carmakers Are Embracing Physical Buttons Again](https://www.wired.com/story/why-car-brands-are-finally-switching-back-to-buttons/)
+- [Rejoice! Carmakers Are Embracing Physical Buttons Again](https://www.wired.com/story/why-car-brands-are-finally-switching-back-to-buttons/) (Wired)
 - [Aurora’s driverless trucks are making deliveries in Texas](https://www.theverge.com/news/659518/aurora-autonomous-truck-first-delivery-texas) (The Verge)
 - [Tesla Board Opened Search for a CEO to Succeed Elon Musk](https://www.wsj.com/business/autos/tesla-musk-ceo-search-board-0ce61af9?st=fzBa6i) (WSJ)
 
@@ -106,20 +105,20 @@ title: Automotive/Mobility
 - [Tesla Robovan has something the Cybertruck definitely does not](https://www.t3.com/auto/tesla-robovan-has-something-the-cybertruck-definitely-does-not) (T3)
 - [GM is working on an eyes-off, hands-off driving system](https://techcrunch.com/2024/10/04/gm-is-working-on-an-eyes-off-hands-off-driving-system/) (TechCrunch)
 - [Uber and Lyft drivers use Teslas as makeshift robotaxis, raising safety concerns](https://www.reuters.com/business/autos-transportation/uber-lyft-drivers-use-teslas-makeshift-robotaxis-raising-safety-concerns-2024-10-03/) (Reuters)
-- [The Flying Car Is Finally Here. It’s Slightly Illegal.](https://nymag.com/intelligencer/article/flying-car-lift-hexa-pivotal-blackfly-evtol.html)
+- [The Flying Car Is Finally Here. It’s Slightly Illegal.](https://nymag.com/intelligencer/article/flying-car-lift-hexa-pivotal-blackfly-evtol.html) (New York Magazine)
 
 ### September
 
 - [Toyota and VW fall further behind in the software race](https://www.ft.com/content/7e5677b8-87fa-41fa-8648-9009ac7f14fc) (FT)
-- [The Death of the Minivan](https://www.theatlantic.com/technology/archive/2024/09/minivan-suv-family-car/679919/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=twitter)
+- [The Death of the Minivan](https://www.theatlantic.com/technology/archive/2024/09/minivan-suv-family-car/679919/?utm_campaign=the-atlantic&utm_content=true-anthem&utm_medium=social&utm_source=twitter) (The Atlantic)
 - [Musk's Neuralink gets FDA's breakthrough device tag for 'Blindsight' implant](https://www.reuters.com/business/healthcare-pharmaceuticals/musks-neuralink-receives-fdas-breakthrough-device-tag-brain-implant-2024-09-17/) (Reuters)
-- [London e-bike boom leads to clashes with councils](https://www.ft.com/content/730d4dab-e80a-4e14-a343-abafd868c5f0) (Financial Times)
-- [Waymo’s Robot Taxis Are Almost Mainstream. Can They Now Turn a Profit?](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html?unlocked_article_code=1.IU4.Bdvx.MzHRSkd4JTk6&smid=url-share)
+- [London e-bike boom leads to clashes with councils](https://www.ft.com/content/730d4dab-e80a-4e14-a343-abafd868c5f0) (FT)
+- [Waymo’s Robot Taxis Are Almost Mainstream. Can They Now Turn a Profit?](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html?unlocked_article_code=1.IU4.Bdvx.MzHRSkd4JTk6&smid=url-share) (NYTimes)
 
 ### August
 
 - [GM's 'Google Built-In' Is Glitchy, Requires A Subscription To Use Google Maps](https://jalopnik.com/gms-google-built-in-is-glitchy-requires-a-subscription-1851632337) (Jalopnik)
-- [New Breed of EV Promises 700 Miles per Charge (Just Add Gas)](https://www.bloomberg.com/news/articles/2024-08-13/new-electric-vehicle-promises-700-miles-per-charge?sref=Szq5ylDR)
+- [New Breed of EV Promises 700 Miles per Charge (Just Add Gas)](https://www.bloomberg.com/news/articles/2024-08-13/new-electric-vehicle-promises-700-miles-per-charge?sref=Szq5ylDR) (Bloomberg)
 - [Waymo says it has doubled its weekly paid robotaxi trips to 100,000 since May](https://www.cnbc.com/2024/08/20/waymo-has-doubled-its-weekly-paid-robotaxi-trips-to-100000-since-may.html) (CNBC)
 - [Waymo is developing a roomier robotaxi with less-expensive tech](https://www.cnbc.com/2024/08/19/waymo-generation-6-robotaxi-geely-zeekr.html) (CNBC)
 
@@ -131,7 +130,7 @@ title: Automotive/Mobility
 ### May
 
 - [Amazon to Expand US Drone Service After Getting Regulator’s Nod](https://www.bloomberg.com/news/articles/2024-05-30/amazon-to-expand-us-drone-service-after-getting-regulator-s-nod?sref=Szq5ylDR) (Bloomberg)
-- [VCs and the military are fueling self-driving startups that don’t need roads](https://techcrunch.com/2024/05/18/vcs-and-the-military-are-fueling-self-driving-startups-that-dont-need-roads/?guccounter=2)
+- [VCs and the military are fueling self-driving startups that don’t need roads](https://techcrunch.com/2024/05/18/vcs-and-the-military-are-fueling-self-driving-startups-that-dont-need-roads/?guccounter=2) (TechCrunch)
 - [In a single night, self-driving startup Cruise went from sizzling startup to cautionary tale. Here’s what really happened—and how GM is scrambling to save its $10B bet](https://fortune.com/2024/05/16/inside-gm-cruise-self-driving-car-accident-san-francisco-what-really-happened/)
 - [Google’s Waymo Crosses 50,000 Paid Driverless Rides Per Week](https://www.theinformation.com/briefings/googles-waymo-crosses-50-000-paid-driverless-rides-per-week?rc=64g9cw) (The Information)
 - [Amazon’s Delivery Drones Won’t Fly in Arizona’s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/) (Wired)
@@ -144,7 +143,7 @@ title: Automotive/Mobility
 
 ### March
 
-- [China’s Super-Cheap EVs Offer Hope for Average American Buyers](https://www.bloomberg.com/news/articles/2024-03-18/chinese-ev-affordability-frightens-ford-gm-us-automakers?sref=Szq5ylDR)
+- [China’s Super-Cheap EVs Offer Hope for Average American Buyers](https://www.bloomberg.com/news/articles/2024-03-18/chinese-ev-affordability-frightens-ford-gm-us-automakers?sref=Szq5ylDR) (Bloomberg)
 - [Arm unveils first chip design to power self-driving cars](https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354) (FT)
 - [Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies](https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html?unlocked_article_code=1.b00.WNY6.1fEAGvGKLlWF&smid=url-share) (NYTimes)
 - [Waymo can now charge for robotaxi rides in LA and on San Francisco freeways](https://techcrunch.com/2024/03/01/waymo-can-now-charge-for-robotaxi-rides-in-la-and-on-san-francisco-freeways/) (TechCrunch)
@@ -179,7 +178,7 @@ title: Automotive/Mobility
 - [GM boss Mary Barra’s high-tech bet unraveling after Kyle Vogt departs as CEO of embattled Cruise robotaxi unit](https://fortune.com/2023/11/20/gm-mary-barra-kyle-vogt-cruise-robotaxi-self-driving-cars/) (Fortune)
 - [Hyundai to Be First Automaker to Sell New Cars on Amazon](https://www.wsj.com/business/autos/hyundai-to-be-first-automaker-to-sell-new-cars-on-amazon-42861c39?mod=followamazon) (WSJ)
 - [CRUISE KNEW ITS SELF-DRIVING CARS HAD PROBLEMS RECOGNIZING CHILDREN — AND KEPT THEM ON THE STREETS](https://theintercept.com/2023/11/06/cruise-self-driving-cars-children/) (The Intercept)
-- [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics)
+- [The EV transition trips over its own cord](https://www.theverge.com/23934889/electric-vehicle-ev-transition-sales-delays-politics) (The Verge)
 
 ### October
 
@@ -254,16 +253,16 @@ title: Automotive/Mobility
 ### October
 
 - [Ford, VW-backed Argo AI is shutting down](https://techcrunch.com/2022/10/26/ford-vw-backed-argo-ai-is-shutting-down/) (TechCrunch)
-- [Even After $100 Billion, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere?sref=Szq5ylDR)
-- [The Next Big Battle Between Google and Apple Is for the Soul of Your Car](https://www.wsj.com/articles/the-next-big-battle-between-google-and-apple-is-for-the-soul-of-your-car-11664596817?mod=djemalertNEWS)
+- [Even After $100 Billion, Self-Driving Cars Are Going Nowhere](https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere?sref=Szq5ylDR) (Bloomberg)
+- [The Next Big Battle Between Google and Apple Is for the Soul of Your Car](https://www.wsj.com/articles/the-next-big-battle-between-google-and-apple-is-for-the-soul-of-your-car-11664596817?mod=djemalertNEWS) (WSJ)
 - [Tesla is now building Model 3 and Model Y vehicles without ultrasonic sensors](https://techcrunch.com/2022/10/04/tesla-is-now-building-model-3-and-model-y-vehicles-without-ultrasonic-sensors/) (TechCrunch)
 
 ### September
 
 - [How To Watch Tesla’s AI Day](https://www.forbes.com/sites/qai/2022/09/27/how-to-watch-teslas-ai-day/?sh=587bcb475aea) (Forbes)
-- [How a Quebec Lithium Mine May Help Make Electric Cars Affordable](https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html?partner=slack&smid=sl-share)
+- [How a Quebec Lithium Mine May Help Make Electric Cars Affordable](https://www.nytimes.com/2022/09/20/business/electric-vehicles-lithium-quebec.html?partner=slack&smid=sl-share) (NYTimes)
 - [Google co-founder’s flying car startup is winding down](https://www.cnbc.com/2022/09/21/google-co-founders-flying-car-start-up-is-winding-down.html) (CNBC)
-- [Deere Invests Billions in Self-Driving Tractors, Smart Crop Sprayers](https://www.wsj.com/articles/deere-invests-billions-in-self-driving-tractors-smart-crop-sprayers-11662904802?mod=djemalertNEWS)
+- [Deere Invests Billions in Self-Driving Tractors, Smart Crop Sprayers](https://www.wsj.com/articles/deere-invests-billions-in-self-driving-tractors-smart-crop-sprayers-11662904802?mod=djemalertNEWS) (WSJ)
 - [Uber Eats and Nuro sign a 10-year deal to do robot food delivery in California and Texas](https://www.theverge.com/2022/9/8/23339830/uber-eats-nuro-robot-delivery-ten-year-deal-california-texas?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Amazon is buying Cloostermans, a mechatronics specialist in Belgium, to ramp up its robotics operations](https://techcrunch.com/2022/09/09/amazon-is-buying-cloostermans-a-mechatronics-specialist-in-belgium-to-ramp-up-its-robotics-operations/) (The Verge)
 
@@ -272,7 +271,7 @@ title: Automotive/Mobility
 - [T-Mobile and SpaceX Starlink say your 5G phone will connect to satellites next year](https://www.theverge.com/2022/8/25/23320722/spacex-starlink-t-mobile-satellite-internet-mobile-messaging?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Elon Musk says Tesla will hike the price of FSD driver assistance software by 25% in September](https://www.cnbc.com/2022/08/21/elon-musk-says-tesla-will-raise-price-of-fsd-by-25percent-in-september.html) (CNBC)
 - [Uber Raises Prices by About 5% in London to Attract More Drivers](https://www.bloomberg.com/news/articles/2022-08-15/uber-raises-prices-by-about-5-in-london-to-attract-more-drivers?sref=Szq5ylDR) (Bloomberg)
-- [The End of Manual Transmission](https://www.theatlantic.com/technology/archive/2022/08/stick-shift-manual-transmission-cars/671078/)
+- [The End of Manual Transmission](https://www.theatlantic.com/technology/archive/2022/08/stick-shift-manual-transmission-cars/671078/) (The Atlantic)
 - [The Radical Scope of Tesla’s Data Hoard](https://spectrum.ieee.org/tesla-autopilot-data-scope) (IEEE Spectrum)
 - [Samson Switchblade flying car is finally ready for takeoff](https://newatlas.com/aircraft/samson-switchblade-flying-car-flight-faa-approval/) (New Atlas)
 - [Bolt Mobility has vanished, leaving e-bikes, unanswered calls behind in several US cities](https://techcrunch.com/2022/07/31/bolt-mobility-has-vanished-leaving-e-bikes-unanswered-calls-behind-in-several-us-cities/) (TechCrunch)
@@ -280,13 +279,13 @@ title: Automotive/Mobility
 ### July
 
 - [Who Is Collecting Data from Your Car?](https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car)
-- [Advanced E.V. Batteries Move From Labs to Mass Production](https://www.nytimes.com/2022/07/12/business/electric-vehicle-batteries.html?partner=slack&smid=sl-share)
+- [Advanced E.V. Batteries Move From Labs to Mass Production](https://www.nytimes.com/2022/07/12/business/electric-vehicle-batteries.html?partner=slack&smid=sl-share) (NYTimes)
 
 ### June
 
 - [Fuel Purchases Directly Within Apple CarPlay to Be Available This Fall](https://www.macrumors.com/2022/06/30/fuel-purchases-within-carplay-available-this-fall/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [STARLINK RV REVIEW: THE DAWN OF SPACE INTERNET TO GO](https://www.theverge.com/23181342/starlink-rv-review-trees-rain-speed-latency?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [Self-Driving Big Rigs Are Coming. Is America Ready?](https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823)
+- [Self-Driving Big Rigs Are Coming. Is America Ready?](https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823) (WSJ)
 - [Why You Might Buy Your Next Car Online](https://www.nytimes.com/2022/06/21/business/tesla-online-sales-dealerships.html) (NYTimes)
 - [Apple Announces Multi-Display CarPlay With Integrated Speedometer, Climate Controls, and More](https://www.macrumors.com/2022/06/06/apple-announces-multi-display-carplay/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [Cruise can finally charge for driverless robotaxi rides in San Francisco](https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/) (TechCrunch)
@@ -295,10 +294,10 @@ title: Automotive/Mobility
 
 - [Uber and Lyft’s New Road: Fewer Drivers, Thrifty Riders and Jittery Investors](https://www.wsj.com/articles/uber-and-lyfts-new-road-fewer-drivers-thrifty-riders-and-jittery-investors-11653651912?mod=djemalertNEWS) (WSJ)
 - [Nothing could slow inDriver’s rise from Siberian startup to global Uber competitor. Then Russia invaded Ukraine](https://restofworld.org/2022/indriver-siberia-russia/) (Rest Of World)
-- [The big new idea for making self-driving cars that can go anywhere](https://www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/)
-- [After a Decade of Declines, EV Battery Costs Are To Rise 14% This Year](https://subscriptions.theinformation.com/newsletters/the-electric/archive/after-a-decade-of-declines-ev-battery-costs-are-to-rise-14-this-year) (The Electric/The Information)
+- [The big new idea for making self-driving cars that can go anywhere](https://www.technologyreview.com/2022/05/27/1052826/ai-reinforcement-learning-self-driving-cars-autonomous-vehicles-wayve-waabi-cruise/) (MIT Technology Review)
+- [After a Decade of Declines, EV Battery Costs Are To Rise 14% This Year](https://subscriptions.theinformation.com/newsletters/the-electric/archive/after-a-decade-of-declines-ev-battery-costs-are-to-rise-14-this-year) (The Information)
 - [The Trouble With Lithium](https://www.bloomberg.com/news/features/2022-05-25/lithium-the-hunt-for-the-wonder-metal-fueling-evs?sref=Szq5ylDR) (Bloomberg)
-- [Ukraine Is Using Quiet Electric Bikes to Haul Anti-Tank Weapons](https://www.vice.com/en/article/xgde8k/ukraine-is-using-quiet-electric-bikes-to-haul-anti-tank-weapons) (Motherboard/Vice)
+- [Ukraine Is Using Quiet Electric Bikes to Haul Anti-Tank Weapons](https://www.vice.com/en/article/xgde8k/ukraine-is-using-quiet-electric-bikes-to-haul-anti-tank-weapons) (Vice)
 - [The Decade of Cheap Rides Is Over](https://slate.com/business/2022/05/uber-subsidy-lyft-cheap-rides.html)
 - [Cars in driver-assist mode hit a third of cyclists, all oncoming cars in tests](https://www.theregister.com/2022/05/16/automous_car_ada_system_tests/) (The Register)
 - [Uber Eats pilots autonomous delivery with Serve Robotics, Motional](https://techcrunch.com/2022/05/15/uber-eats-pilots-autonomous-delivery-with-serve-robotics-motional/) (TechCrunch)
@@ -307,7 +306,7 @@ title: Automotive/Mobility
 ### April
 
 - [THE F-150 LIGHTNING IS FINALLY SHIPPING — IS FORD READY?](https://www.theverge.com/2022/4/26/23042056/the-f-150-lightning-is-finally-shipping-is-ford-ready) (The Verge)
-- [Rivian CEO Warns of Looming Electric-Vehicle Battery Shortage](https://www.wsj.com/articles/rivian-ceo-warns-of-looming-electric-vehicle-battery-shortage-11650276000)
+- [Rivian CEO Warns of Looming Electric-Vehicle Battery Shortage](https://www.wsj.com/articles/rivian-ceo-warns-of-looming-electric-vehicle-battery-shortage-11650276000) (WSJ)
 - [Tesla record profit blows away estimates](https://www.cnn.com/2022/04/20/business/tesla-earnings/index.html) (CNN Business)
 - [Tesla reports $18.76 billion in revenue and record margins in Q1](https://www.cnbc.com/2022/04/20/tesla-tsla-earnings-q1-2022.html) (CNBC)
 - [Amazon Drone Crashes Hit Jeff Bezos' Delivery Dreams](https://www.bloomberg.com/news/features/2022-04-10/amazon-drone-crashes-delays-put-bezos-s-delivery-dream-at-risk?sref=Szq5ylDR) (Bloomberg)
@@ -379,19 +378,19 @@ title: Automotive/Mobility
 - [An Unsurprising But Sad Update for Tesla Cybertruck Fans: Production Has Been Pushed to 2022](https://gizmodo.com/an-unsurprising-but-sad-update-for-tesla-cybertruck-fan-1847447304) (Gizmodo)
 - [Uber, Lyft Prices at Records Even as Drivers Return](https://www.wsj.com/articles/uber-and-lyft-drivers-are-coming-back-but-prices-arent-falling-11628337601?mod=djemalertNEWS) (WSJ)
 - [John Deere buys autonomous tractor startup Bear Flag Robotics](https://techcrunch.com/2021/08/05/john-deere-buys-autonomous-tractor-startup-bear-flag-robotics/) (TechCrunch)
-- [The slow collapse of Amazon’s drone delivery dream](https://www.wired.co.uk/article/amazon-drone-delivery-prime-air) (Wired UK)
+- [The slow collapse of Amazon’s drone delivery dream](https://www.wired.co.uk/article/amazon-drone-delivery-prime-air) (Wired)
 
 ### July
 
 - [Tesla finally made a profit without the help of emission credits](https://www.theverge.com/2021/7/26/22594778/tesla-q2-2021-earnings-revenue-profit-credits-emissions-bitcoin) (The Verge)
-- [Robotaxis: have Google and Amazon backed the wrong technology?](https://www.ft.com/content/46ff4fe4-0ae6-4f68-902c-3fd14d294d72) (Financial Times)
+- [Robotaxis: have Google and Amazon backed the wrong technology?](https://www.ft.com/content/46ff4fe4-0ae6-4f68-902c-3fd14d294d72) (FT)
 - [Starlink will be open to everyone in August — not that you'll want it](https://www.inputmag.com/tech/starlink-will-be-open-to-everyone-in-august-not-that-youll-want-it) (Input)
 - [SpaceX's Starlink may bring faster Wi-Fi to commercial planes](https://www.inputmag.com/tech/spacexs-starlink-may-bring-faster-wi-fi-to-commercial-airplanes) (Input)
 
 ### June
 
 - [T-Mobile is offering iPhone owners no-hassle network ‘test drives’](https://www.theverge.com/2021/6/29/22555810/t-mobile-test-drive-iphone-esim?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [Alphabet’s Wing launches OpenSky drone airspace authorization app in US](https://techcrunch.com/2021/06/29/alphabets-wing-launches-opensky-drone-airspace-authorization-app-in-us/) (Tech Crunch)
+- [Alphabet’s Wing launches OpenSky drone airspace authorization app in US](https://techcrunch.com/2021/06/29/alphabets-wing-launches-opensky-drone-airspace-authorization-app-in-us/) (TechCrunch)
 - [Apple Explores Bigger iPads and Reshuffles Its Car Team](https://www.bloomberg.com/news/newsletters/2021-06-27/big-ipads-apple-car-changes-amazon-ar-glasses-inside-big-tech-labs) (Bloomberg)
 - [Amazon Snaps Up Option to Buy Stake in AI Truck-Driving Startup](https://www.bloomberg.com/news/articles/2021-06-21/amazon-is-in-talks-to-buy-stake-in-ai-truck-driving-startup-plus?sref=Szq5ylDR) (Bloomberg)
 - [Russia has flown prototypes of its six-seat hybrid VTOL Cyclocar](https://newatlas.com/aircraft/russia-cyclocar-evtol-protoype-flight/) (New Atlas)
@@ -402,13 +401,13 @@ title: Automotive/Mobility
 - [Apple Hires Former BMW Executive for Its Rebooted Car Project](https://www.bloomberg.com/news/articles/2021-06-10/apple-hires-former-bmw-executive-for-its-rebooted-car-project?sref=Szq5ylDR) (Bloomberg)
 - [EXCLUSIVE Apple in talks with CATL, BYD over battery supplies for its electric car](https://www.reuters.com/world/china/exclusive-apple-talks-with-catl-byd-over-battery-supplies-its-electric-car-2021-06-08/) (Reuters)
 - [Jeff Bezos and his brother will fly on Blue Origin's first human spaceflight with auction winner](https://techcrunch.com/2021/06/07/jeff-bezos-and-his-brother-will-fly-on-blue-origins-first-human-spaceflight-with-auction-winner/) (TechCrunch)
-- [Prepare to Pay More for Uber and Lyft Rides](https://www.nytimes.com/2021/05/30/technology/uber-lyft-surge.html) (New York Times)
+- [Prepare to Pay More for Uber and Lyft Rides](https://www.nytimes.com/2021/05/30/technology/uber-lyft-surge.html) (NYTimes)
 
 ### May
 
 - [Tesla is already shipping cars without radar sensors](https://www.theverge.com/2021/5/25/22453518/tesla-vision-radar-autopilot-model-3-y-fsd?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [Ford’s Electric F-150 Pickup Aims to Be the Model T of E.V.s](https://www.nytimes.com/2021/05/19/business/ford-electric-vehicle-f-150.html) (New York Times)
-- [Ford unveils the F-150 Lightning, its all-electric pickup truck that will start under $40,000](https://techcrunch.com/2021/05/19/ford-unveils-the-f-150-lightning-its-all-electric-pickup-truck-that-will-start-under-40000/?tpcc=ECTW2020) (Tech Crunch)
+- [Ford’s Electric F-150 Pickup Aims to Be the Model T of E.V.s](https://www.nytimes.com/2021/05/19/business/ford-electric-vehicle-f-150.html) (NYTimes)
+- [Ford unveils the F-150 Lightning, its all-electric pickup truck that will start under $40,000](https://techcrunch.com/2021/05/19/ford-unveils-the-f-150-lightning-its-all-electric-pickup-truck-that-will-start-under-40000/?tpcc=ECTW2020) (TechCrunch)
 - [STARLINK REVIEW: BROADBAND DREAMS FALL TO EARTH](https://www.theverge.com/22435030/starlink-satellite-internet-spacex-review?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Tesla stops taking Bitcoin for vehicle purchases, citing environmental harm](https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Elon Musk’s SpaceX inks satellite connectivity deal with Google Cloud](https://www.theverge.com/2021/5/13/22433982/elon-musk-spacex-internet-connectivity-deal-google-cloud?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -418,9 +417,9 @@ title: Automotive/Mobility
 
 ### April
 
-- [Lyft sells self-driving unit to Toyota’s Woven Planet for $550M](https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/) (Tech Crunch)
+- [Lyft sells self-driving unit to Toyota’s Woven Planet for $550M](https://techcrunch.com/2021/04/26/lyft-sells-self-driving-unit-to-toyotas-woven-planet-for-550m/) (TechCrunch)
 - [Did a Human or a Computer Crash This Tesla?](https://nymag.com/intelligencer/2021/04/did-a-human-or-a-computer-crash-this-tesla.html) (Intelligencer)
-- [A Little-Known Upstart Might Just Beat Google to Autonomous Driving](https://www.bloomberg.com/news/articles/2021-04-15/aurora-s-autonomous-car-plan-to-catch-up-to-waymo-trucks-and-ubers?sref=sZAFdZwV) (Bloomberg Business Week)
+- [A Little-Known Upstart Might Just Beat Google to Autonomous Driving](https://www.bloomberg.com/news/articles/2021-04-15/aurora-s-autonomous-car-plan-to-catch-up-to-waymo-trucks-and-ubers?sref=sZAFdZwV) (Bloomberg Businessweek)
 - [THE 2022 MERCEDES-BENZ EQS IS A DECLARATION OF MAXIMUM ELECTRIC LUXURY](https://www.theverge.com/2021/4/11/22375877/mercedes-benz-eqs-ev-s-class-specs-hands-on) (The Verge)
 - [Uber and Lyft ‘throwing money’ at US drivers to ease shortage](https://www.ft.com/content/2b71e009-bb96-46ee-b024-4c574ef41988) (FT)
 
@@ -507,7 +506,7 @@ title: Automotive/Mobility
 - [Mobility device for the blind works like a handheld robotic guide dog](https://newatlas.com/robotics/theia-blind-handheld-robotic-guide-dog/) (New Atlas)
 - [Tesla reports fourth straight quarter of profits](https://www.cnbc.com/2020/07/22/tesla-tsla-earnings-q2-2020.html) (CNBC)
 - [Waymo and Fiat Chrysler's next big project is to develop self-driving Ram vans](https://techcrunch.com/2020/07/21/waymo-and-fiat-chrysler-expand-partnership-to-develop-self-driving-ram-vans/) (TechCrunch)
-- [Self-driving industry takes to the highway after robotaxi failure](https://www.ft.com/content/96d3eeff-7f52-46e3-a8a8-aeb668472034) (Financial Times)
+- [Self-driving industry takes to the highway after robotaxi failure](https://www.ft.com/content/96d3eeff-7f52-46e3-a8a8-aeb668472034) (FT)
 - [Autonomous drone startup Skydio rises $100 million and launches the X2 commercial drone](https://techcrunch.com/2020/07/13/autonomous-drone-startup-skydio-rises-100-million-and-launches-the-x2-commercial-drone/?tpcc=ECTW2020) (TechCrunch)
 - [Musk Says Tesla Is ‘Very Close’ to Developing Fully Autonomous Vehicles](https://www.bloomberg.com/news/articles/2020-07-09/musk-says-tesla-may-crack-full-autonomy-puzzle-this-year?sref=MzDxCtkS) (Bloomberg)
 - [Networks of self-driving trucks are becoming a reality in the US](https://www.vox.com/recode/2020/7/1/21308539/self-driving-autonomous-trucks-ups-freight-network?utm_campaign=vox&utm_content=chorus&utm_medium=social&utm_source=twitter) (recode)
@@ -690,7 +689,7 @@ title: Automotive/Mobility
 - [Tesla's Supercharger network will cover all of Europe in 2019](https://www.engadget.com/2018/12/27/teslas-supercharger-europe-expansion/) (Engadget)
 - [Uber's self-driving cars return to public roads after fatal crash](https://www.cnet.com/news/ubers-self-driving-cars-return-to-public-roads-after-fatal-crash/?ftag=COS-05-10aaa0b&linkId=61372821) (CNET)
 - [ELON MUSK UNVEILS THE BORING COMPANY’S CAR-FLINGING TUNNEL](https://www.wired.com/story/elon-musk-boring-company-car-flinging-tunnel/) (Wired)
-- [Elon Musk unveils his company’s first tunnel in Hawthorne, and it’s not a smooth ride](https://www.latimes.com/local/lanow/la-me-ln-elon-musk-tunnel-20181218-story.html) (LATimes)
+- [Elon Musk unveils his company’s first tunnel in Hawthorne, and it’s not a smooth ride](https://www.latimes.com/local/lanow/la-me-ln-elon-musk-tunnel-20181218-story.html) (LA Times)
 - [Audi pulls the curtain back on its self-driving car program](https://www.theverge.com/2018/12/18/18144506/audi-self-driving-car-volkswagen-luminar-lidar) (The Verge)
 - [EV News Daily](https://www.evnewsdaily.com) (Podcast)
 - [POSTMATES' QUEST TO BUILD THE DELIVERY ROBOT OF THE FUTURE](https://www.wired.com/story/postmates-delivery-robot-serve/) (Wired)
@@ -721,7 +720,7 @@ title: Automotive/Mobility
 - [Who Needs German Engineering? Tesla Outsells Mercedes-Benz For The First Time—And Has a Plan to Pass BMW Too](http://fortune.com/2018/10/12/tesla-mercedes-benz-sales-bmw-tax-credits/) (Fortune)
 - [Where the next 10 million miles will take us](https://medium.com/waymo/where-the-next-10-million-miles-will-take-us-de51bebb67d3) (Waymo)
 - [GM and Honda will team up to build an autonomous car](https://qz.com/1411796/gm-cruise-and-honda-will-build-an-autonomous-car/) (Quartz)
-- [Tesla delivered over 55,000 Model 3s in Q3](https://www.cnet.com/roadshow/news/tesla-q3-production/#ftag=COS-05-10aaa2h) (Road Show/CNET)
+- [Tesla delivered over 55,000 Model 3s in Q3](https://www.cnet.com/roadshow/news/tesla-q3-production/#ftag=COS-05-10aaa2h) (Road Show)
 
 ### September
 
@@ -738,7 +737,7 @@ title: Automotive/Mobility
 - [Uber Is Building Its Own Scooter to Compete in Frenzy](https://www.bloomberg.com/news/articles/2018-08-30/uber-embraces-bikes-scooters-as-the-future-of-urban-transport?srnd=technology-vp) (Bloomberg)
 - [Toyota Investing $500 Million in Uber in Driverless-Car Pact](https://www.wsj.com/articles/toyota-investing-500-million-in-uber-in-driverless-car-pact-1535393774) (WSJ)
 - [AutoX is using its self-driving vehicles to deliver groceries](https://techcrunch.com/2018/08/27/autox-is-using-its-self-driving-vehicles-to-deliver-groceries/) (TechCrunch)
-- [Uber plans shift from cars to bikes for shorter trips](https://www.ft.com/content/986d878a-a7c4-11e8-8ecf-a7ae1beff35b) (The Financial Times)
+- [Uber plans shift from cars to bikes for shorter trips](https://www.ft.com/content/986d878a-a7c4-11e8-8ecf-a7ae1beff35b) (FT)
 - [Late to the Driverless Revolution](https://www.wsj.com/articles/late-to-the-driverless-revolution-1534520404?mod=e2tw) (WSJ)
 - [To Get Ready for Robot Driving, Some Want to Reprogram Pedestrians](https://www.bloomberg.com/news/articles/2018-08-16/to-get-ready-for-robot-driving-some-want-to-reprogram-pedestrians) (Bloomberg)
 - [Amazon launches Auto SDK to bring Alexa to more cars](https://venturebeat.com/2018/08/09/amazon-launches-auto-sdk-to-bring-alexa-to-more-cars/) (VentureBeat)

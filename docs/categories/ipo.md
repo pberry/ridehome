@@ -1,5 +1,4 @@
 ---
-layout: category
 title: IPO
 ---
 
@@ -9,7 +8,7 @@ title: IPO
 
 ### January
 
-- [SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs](https://www.ft.com/content/bf607829-dca5-497d-b1a1-ca945d32a8c6) (Financial Times)
+- [SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs](https://www.ft.com/content/bf607829-dca5-497d-b1a1-ca945d32a8c6) (FT)
 
 ## 2025
 
@@ -72,11 +71,11 @@ title: IPO
 ### February
 
 - [Can AI Predict the Next Big IPO? Crunchbase Thinks So.](https://www.wsj.com/articles/can-ai-predict-the-next-big-ipo-crunchbase-thinks-so-1b0f012d?st=RENgSy&reflink=desktopwebshare_permalink) (WSJ)
-- [Shein IPO plans hit by Trump’s low-cost parcels crackdown](https://www.ft.com/content/a83455b4-2f97-41b5-9b88-74526bd80f63) (Financial Times)
+- [Shein IPO plans hit by Trump’s low-cost parcels crackdown](https://www.ft.com/content/a83455b4-2f97-41b5-9b88-74526bd80f63) (FT)
 
 ### January
 
-- [Silicon Valley’s largest start-ups to shun IPOs in 2025](https://www.ft.com/content/b9d7b633-c611-4c09-b02e-5855dfaa0dfb) (Financial Times)
+- [Silicon Valley’s largest start-ups to shun IPOs in 2025](https://www.ft.com/content/b9d7b633-c611-4c09-b02e-5855dfaa0dfb) (FT)
 
 ## 2024
 
@@ -97,9 +96,9 @@ title: IPO
 
 - [IPO Window Cracks Open and Silicon Valley Sees Some Daylight](https://www.bloomberg.com/news/newsletters/2024-03-25/ipo-window-cracks-open-and-silicon-valley-sees-some-daylight?sref=Szq5ylDR) (Bloomberg)
 - [Reddit prices IPO at $34 per share in first major social media offering since 2019](https://www.cnbc.com/2024/03/20/reddit-prices-ipo-at-34-per-share-sources-say.html) (CNBC)
-- [Can Reddit Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/)
+- [Can Reddit Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/) (Wired)
 - [Reddit to raise nearly $750 million in upcoming IPO](https://www.cnbc.com/2024/03/11/reddit-to-raise-nearly-750-million-in-upcoming-ipo.html) (CNBC)
-- [Telegram hits 900mn users and nears profitability as founder considers IPO](https://www.ft.com/content/8d6ceb0d-4cdb-4165-bdfa-4b95b3e07b2a) (Financial Times)
+- [Telegram hits 900mn users and nears profitability as founder considers IPO](https://www.ft.com/content/8d6ceb0d-4cdb-4165-bdfa-4b95b3e07b2a) (FT)
 
 ### February
 
@@ -120,7 +119,7 @@ title: IPO
 
 ### September
 
-- [Startup That Lets You Instantly Talk in Foreign Language Targets a Nasdaq IPO at $1 Billion Value](https://www.bloomberg.com/news/articles/2023-09-15/translation-startup-from-japan-wants-to-debut-on-nasdaq-at-1-billion-value?sref=Szq5ylDR)
+- [Startup That Lets You Instantly Talk in Foreign Language Targets a Nasdaq IPO at $1 Billion Value](https://www.bloomberg.com/news/articles/2023-09-15/translation-startup-from-japan-wants-to-debut-on-nasdaq-at-1-billion-value?sref=Szq5ylDR) (Bloomberg)
 - [Chip giant Arm raises nearly $5 billion in year's largest IPO](https://www.axios.com/2023/09/13/arm-ipo-pricing-nvidia-chips) (Axios)
 - [Instacart targets up to $9.3 bln valuation for much-awaited US IPO](https://www.reuters.com/markets/deals/grocery-delivery-app-instacart-aims-up-77-bln-valuation-us-ipo-2023-09-11/) (Reuters)
 - [Exclusive: Arm signs up big tech firms for IPO at $50 billion-$55 billion valuation](https://www.reuters.com/markets/deals/arm-signs-up-big-tech-firms-ipo-50-bln-55-bln-valuation-sources-2023-09-01/) (Reuters)
@@ -128,7 +127,7 @@ title: IPO
 ### August
 
 - [Klaviyo files to go public in latest sign of life for IPO market](https://www.cnbc.com/2023/08/25/klaviyo-files-to-go-public-in-latest-sign-of-life-for-ipo-market.html) (CNBC)
-- [Silicon Valley start-ups revive listing plans as Arm reignites IPO market](https://www.ft.com/content/4a305ad3-f91f-46ad-977f-830a2e1ee5af) (Financial Times)
+- [Silicon Valley start-ups revive listing plans as Arm reignites IPO market](https://www.ft.com/content/4a305ad3-f91f-46ad-977f-830a2e1ee5af) (FT)
 - [Apple, Samsung to invest in Arm as it eyes September IPO](https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-Samsung-to-invest-in-Arm-as-it-eyes-September-IPO) (NikkeiAsia)
 - [SoftBank’s Arm Targets $60 Billion Value in September IPO](https://www.bloomberg.com/news/articles/2023-08-02/softbank-s-arm-targets-60-billion-plus-value-for-september-ipo?sref=Szq5ylDR) (Bloomberg)
 
@@ -159,7 +158,7 @@ title: IPO
 ### February
 
 - [PrimaryBid raises $190M to double down on making it easier for ordinary people to invest in IPOs and follow-on fundraises](https://techcrunch.com/2022/02/20/primarybid-raises-190m-to-double-down-on-making-it-easier-for-ordinary-people-to-invest-in-ipos-and-follow-on-fundraises/) (TechCrunch)
-- [Startup Investors Cut Valuations Amid Tech Stock Rout, Dismal IPOs](https://www.wsj.com/articles/red-hot-startup-market-starts-to-chill-as-investors-turn-on-tech-stocks-11643718783?mod=djemalertNEWS)
+- [Startup Investors Cut Valuations Amid Tech Stock Rout, Dismal IPOs](https://www.wsj.com/articles/red-hot-startup-market-starts-to-chill-as-investors-turn-on-tech-stocks-11643718783?mod=djemalertNEWS) (WSJ)
 
 ## 2021
 
@@ -190,7 +189,7 @@ title: IPO
 - [U.S. SEC says Chinese IPO hopefuls must provide additional risk disclosures](https://www.reuters.com/article/us-sec-ipo-china-exclusive-idUSKBN2F01BY) (Reuters)
 - [China Weighs Unprecedented Penalty for Didi After U.S. IPO](https://www.bloomberg.com/news/articles/2021-07-22/china-is-said-to-weigh-unprecedented-penalty-for-didi-after-ipo?sref=Szq5ylDR) (Bloomberg)
 - [ByteDance Shelved IPO Intentions After Chinese Regulators Warned About Data Security](https://www.wsj.com/articles/bytedance-shelvedipo-intentions-after-chinese-regulators-warned-about-data-security-11626078000?mod=djemalertNEWS) (WSJ)
-- [Chinese Regulators Suggested Didi Delay Its U.S. IPO](https://www.wsj.com/articles/chinese-regulators-suggested-didi-delay-its-u-s-ipo-11625510600?mod=djemalertNEWS) (Wall Street Journal)
+- [Chinese Regulators Suggested Didi Delay Its U.S. IPO](https://www.wsj.com/articles/chinese-regulators-suggested-didi-delay-its-u-s-ipo-11625510600?mod=djemalertNEWS) (WSJ)
 - [China’s Big Tech Crackdown Puts Dozens of U.S. IPOs at Risk](https://www.bloomberg.com/news/articles/2021-07-06/big-tech-crackdown-seen-hurting-china-s-pipeline-for-u-s-ipos?sref=sZAFdZwV) (Bloomberg)
 - [Robinhood files for long-awaited IPO](https://www.axios.com/robinhood-ipo-0b9a27b1-69d1-41d0-b44e-69e137b92dd2.html) (Axios)
 - [Didi shares fall after China announces cybersecurity review just days after IPO](https://www.cnbc.com/2021/07/02/didi-shares-fall-after-china-announces-cybersecurity-review.html) (CNBC)
@@ -248,7 +247,7 @@ title: IPO
 - [Airbnb files confidential IPO paperwork](https://www.cnbc.com/2020/08/19/airbnb-has-filed-confidential-ipo-paperwork.html) (CNBC)
 - [Airbnb Files Confidentially for IPO With SEC](https://www.wsj.com/articles/airbnb-files-confidentially-for-ipo-with-sec-11597870752?mod=djemalertNEWS) (WSJ)
 - [Online Thrift Shop ThredUp Plans IPO Early Next Year](https://www.bloomberg.com/news/articles/2020-08-20/online-thrift-shop-thredup-is-said-to-plan-ipo-early-next-year?sref=MzDxCtkS) (Bloomberg)
-- [Airbnb Plans to File Confidentially for IPO in August (WSJ)](https://www.cnbc.com/2020/08/10/spacex-starlink-satellte-production-now-120-per-month.html?__source=twitter%7Cmain)
+- [Airbnb Plans to File Confidentially for IPO in August (WSJ)](https://www.cnbc.com/2020/08/10/spacex-starlink-satellte-production-now-120-per-month.html?__source=twitter%7Cmain) (CNBC)
 
 ### July
 
@@ -296,7 +295,7 @@ title: IPO
 - [Peloton slides after opening below IPO price in market debut](https://www.cnbc.com/2019/09/26/peloton-pton-ipo-stock-starts-trading-at-27-per-share.html) (CNBC)
 - [WeWork delays IPO after frosty investor response](https://www.reuters.com/article/us-wework-ipo/wework-parent-says-ipo-still-on-despite-setbacks-idUSKBN1W12T6) (Reuters)
 - [WeWork’s valuation could fall to below $15 billion in IPO, down from $47 billion private valuation](https://www.cnbc.com/2019/09/13/wework-makes-sweeping-corporate-governance-changes-ahead-of-ipo.html) (CNBC)
-- [SoftBank urges WeWork to shelve IPO](http://ft.com/content/111f8e00-d346-11e9-8367-807ebd53ab77) (Financial Times)
+- [SoftBank urges WeWork to shelve IPO](http://ft.com/content/111f8e00-d346-11e9-8367-807ebd53ab77) (FT)
 - [WeWork Targets $20 Billion to $30 Billion IPO Value](https://www.bloomberg.com/news/articles/2019-09-05/wework-is-said-to-target-20-billion-to-30-billion-ipo-value) (Bloomberg)
 
 ### August

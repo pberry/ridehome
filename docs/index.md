@@ -50,18 +50,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(110 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(75 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(291 links)</span></li>
-        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(115 links)</span></li>
-        <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(81 links)</span></li>
+        <li><span class="stat-label">AI/Machine Learning</span> <span class="stat-value">(289 links)</span></li>
+        <li><span class="stat-label">Hardware/Chips</span> <span class="stat-value">(113 links)</span></li>
+        <li><span class="stat-label">Regulation/Policy</span> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>
   </div>

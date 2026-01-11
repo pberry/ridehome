@@ -32,7 +32,7 @@
   * [Nvidia Reaches Technology Licensing Deal With Startup Groq](https://www.bloomberg.com/news/articles/2025-12-24/nvidia-reaches-licensing-deal-with-chip-startup-groq) (Bloomberg)
   * [Why Nvidia Struck a $20 Billion Megadeal with Groq](https://www.theinformation.com/articles/nvidia-struck-20-billion-megadeal-groq?rc=i9gkgs) (The Information)
   * [Samsung brings Google Photos to the biggest screen in your home](https://www.androidpolice.com/samsung-brings-google-photos-biggest-screen-home/) (AndroidPolice)
-  * [Accounting body scraps remote exams to combat cheating](https://www.ft.com/content/52e70f3e-d0e8-462c-8ac1-f08a684dfca2) (Financial Times)
+  * [Accounting body scraps remote exams to combat cheating](https://www.ft.com/content/52e70f3e-d0e8-462c-8ac1-f08a684dfca2) (FT)
   * [Even the Companies Making Humanoid Robots Think They’re Overhyped](https://www.wsj.com/tech/ai/humanoid-robot-hype-use-timeline-1aa89c66?st=6fsdG7&reflink=desktopwebshare_permalink) (WSJ)
 
 
@@ -52,7 +52,7 @@
   * [U.S. Bans New China-Made Drones, Sparking Outrage Among Pilots](https://www.wsj.com/politics/national-security/u-s-bans-new-china-made-drones-sparking-outrage-among-pilots-1624e32a?st=G1UuiY&reflink=desktopwebshare_permalink) (WSJ)
   * [Pentagon Adds Grok-Derived Products to Something Called the ‘AI Arsenal’](https://gizmodo.com/pentagon-adds-grok-derived-products-to-something-called-the-ai-arsenal-2000702379) (Gizmodo)
   * [iOS 26.3 Brings AirPods-Like Pairing to Third-Party Devices in EU Under DMA](https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/) (MacRumors)
-  * [AI debt boom pushes US corporate bond sales close to record](https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06) (Financial Times)
+  * [AI debt boom pushes US corporate bond sales close to record](https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06) (FT)
   * [A $309 Billion Bet Fuels 24/7 Dollar Banking Without Borders](https://www.bloomberg.com/news/articles/2025-12-19/the-stablecoin-boom-fuels-24-7-dollar-banking-without-borders) (Bloomberg)
 
 
@@ -111,7 +111,7 @@
   * [AI infrastructure selloff continues on Wall Street as Broadcom, Oracle shares slide](https://www.cnbc.com/2025/12/15/ai-infrastructure-selloff-continues-broadcom-oracle-coreweave-shares-slide.html) (CNBC)
   * [CoreWeave’s Staggering Fall From Market Grace Highlights AI Bubble Fears](https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321?st=SfvtwL&reflink=desktopwebshare_permalink) (WSJ)
   * [Ford is starting a battery storage business to power data centers and the grid](https://techcrunch.com/2025/12/15/ford-is-starting-a-battery-storage-business-to-power-data-centers-and-the-grid/) (TechCrunch)
-  * [AI has the entertainment industry torn between keeping up and keeping talent happy.](https://www.bloomberg.com/features/2025-ai-hollywood/) (BloombergBusinessweek)
+  * [AI has the entertainment industry torn between keeping up and keeping talent happy.](https://www.bloomberg.com/features/2025-ai-hollywood/) (Bloomberg Businessweek)
 
 
 
@@ -171,7 +171,7 @@
 
   * [Paramount Skydance launches hostile bid for WBD ‘to finish what we started,’ CEO Ellison tells CNBC](https://www.cnbc.com/2025/12/08/paramount-skydance-hostile-bid-wbd-netflix.html) (CNBC)
   * [Trump Warns Netflix-Warner Deal May Pose Antitrust ‘Problem’](https://www.bloomberg.com/news/articles/2025-12-07/trump-says-netflix-warner-bros-deal-will-need-review) (Bloomberg)
-  * [Netflix and the Hollywood End Game (Stratechery)](https://stratechery.com/2025/netflix-and-the-hollywood-end-game/)
+  * [Netflix and the Hollywood End Game (Stratechery)](https://stratechery.com/2025/netflix-and-the-hollywood-end-game/) (Stratechery)
   * [Apple Rocked by Executive Departures, With Chip Chief at Risk of Leaving Next](https://www.bloomberg.com/news/articles/2025-12-06/apple-rocked-by-executive-departures-with-johny-srouji-at-risk-of-leaving-next) (Bloomberg)
   * [Meta acquires AI-wearables startup Limitless](https://www.reuters.com/business/meta-acquires-ai-wearables-startup-limitless-2025-12-05/) (Reuters)
   * [SpaceX in Talks for $800 Billion Valuation Ahead of Potential 2026 IPO](https://www.wsj.com/business/spacex-in-talks-for-share-sale-that-would-boost-valuation-to-800-billion-b2852191?st=nNAurx&reflink=desktopwebshare_permalink) (WSJ)
@@ -259,7 +259,7 @@
   * [X’s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos) (The Verge)
   * [What OpenAI Did When ChatGPT Users Lost Touch With Reality](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html?unlocked_article_code=1.3U8.aLI0.rvBtjMyLr560&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb) (NYTimes)
   * [The Fate of Google’s Ad Tech Monopoly Is Now in a Judge’s Hands](https://www.nytimes.com/2025/11/21/technology/google-ad-tech-closing.html) (NYTimes)
-  * [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62?accessToken=zwAAAZq1yNsLkdOr_pdB9DhO1tOmcwdewXfcYg.MEUCIQC9i3F7xcb5efWn0RO0aFF_6v2P_1A5ZQMDYoRGBwUyFgIgPzBqZwfFunGAx_QcqykAcG5JAPUp2fB2drmvhdfVzlQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=6c04e38e-15ed-472c-bcbb-4500695cf776) (Financial Times)
+  * [Insurers retreat from AI cover as risk of multibillion-dollar claims mounts](https://www.ft.com/content/abfe9741-f438-4ed6-a673-075ec177dc62?accessToken=zwAAAZq1yNsLkdOr_pdB9DhO1tOmcwdewXfcYg.MEUCIQC9i3F7xcb5efWn0RO0aFF_6v2P_1A5ZQMDYoRGBwUyFgIgPzBqZwfFunGAx_QcqykAcG5JAPUp2fB2drmvhdfVzlQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise&shareId=6c04e38e-15ed-472c-bcbb-4500695cf776) (FT)
   * [Hundreds of English-language websites link to pro-Kremlin propaganda](https://www.theguardian.com/world/2025/nov/21/english-language-websites-link-pro-kremlin-russian-propaganda-pravda-network) (The Guardian)
   * [AI boom is fueling a memory chip shortage that could hit cars and phones](https://www.cnbc.com/2025/11/17/ai-fuels-memory-chip-shortage-that-could-hit-phones-and-cars.html) (CNBC)
 
@@ -301,7 +301,7 @@
 
   * [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector) (The Verge)
   * [Grok 4.1 has arrived — and it's bringing the fight to ChatGPT with these new features](https://www.tomsguide.com/ai/grok-4-1-has-arrived-heres-what-xais-latest-update-unlocks) (Tom's Guide)
-  * [Crypto market sheds $1.2tn as traders shun speculative assets](https://www.ft.com/content/6b171d3e-4a9e-4e2d-aafc-3b4047e44f32) (Financial Times)
+  * [Crypto market sheds $1.2tn as traders shun speculative assets](https://www.ft.com/content/6b171d3e-4a9e-4e2d-aafc-3b4047e44f32) (FT)
   * [Google boss says trillion-dollar AI investment boom has 'elements of irrationality'](https://www.bbc.com/news/articles/cwy7vrd8k4eo) (BBC)
   * [Amazon Raises $15 Billion in First US Bond Sale in Three Years](https://www.bloomberg.com/news/articles/2025-11-17/amazon-kicks-off-first-us-high-grade-bond-sale-in-three-years) (Bloomberg)
   * [Databricks in Talks to Raise Capital at a Valuation Above $130 Billion](https://www.theinformation.com/articles/databricks-talks-raise-capital-valuation-130-billion?rc=i9gkgs) (The Information)
@@ -399,7 +399,7 @@
   * [Google proposes app store reforms in settlement with ‘Fortnite’ maker Epic Games](https://www.reuters.com/sustainability/boards-policy-regulation/google-proposes-app-store-reforms-settlement-with-fortnite-maker-epic-games-2025-11-05/) (Reuters)
   * [Cloud streaming finally arrives on the PlayStation Portal](https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming) (The Verge)
   * [Citadel Securities and Fortress take stakes in Ripple at $40bn valuation](https://www.ft.com/content/2b27ff66-aae1-4779-a7e7-16c856840139) (FT)
-  * [How many ‘bragawatts’ have the hyperscalers announced so far?](https://www.ft.com/content/2b849dbd-1bef-4c26-aa11-2cb86750d41e?shareType=nongift) (Financial Times)
+  * [How many ‘bragawatts’ have the hyperscalers announced so far?](https://www.ft.com/content/2b849dbd-1bef-4c26-aa11-2cb86750d41e?shareType=nongift) (FT)
   * [Amazon Sues to Stop Perplexity From Using AI Tool to Buy Stuff](https://www.bloomberg.com/news/articles/2025-11-04/amazon-demands-perplexity-stop-ai-agent-from-making-purchases) (Bloomberg)
   * [Thoughts by a non-economist on AI and economics](https://windowsontheory.org/2025/11/04/thoughts-by-a-non-economist-on-ai-and-economics/) (Windows On Theory)
 
@@ -542,7 +542,7 @@
   * [Spotify partners with Netflix for video podcast distribution deal](https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/) (TechCrunch)
   * [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes) (The Verge)
   * [OpenAI makes five-year business plan to meet $1tn spending pledges](https://www.ft.com/content/a169703c-c4df-46d6-a2d3-4184c74bbaf7?accessToken=zwAGQSuZhu5gkdOhaXA8xN9G1tOi00GEx0u69w.MEYCIQDUbDUnjO3o1BuaLRCe9o_rILlAXFYbAzBZHvys1NX_sAIhAPqD6LJFfdUQ0Zo8J3I1pnODoLvjICi1MEICdc_MlUDS&sharetype=gift&token=21b28283-1f18-400a-9105-bf52ee908298) (FT)
-  * [Windows 10 support “ends” today, but it’s just the first of many deaths](https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/) (ArsTechnica)
+  * [Windows 10 support “ends” today, but it’s just the first of many deaths](https://arstechnica.com/gadgets/2025/10/windows-10-support-ends-today-but-its-just-the-first-of-many-deaths/) (Ars Technica)
 
 
 
@@ -586,7 +586,7 @@
   * [Nvidia’s Huang says he’s surprised AMD offered OpenAI 10% of company in ‘clever’ deal](https://www.cnbc.com/2025/10/08/nvidia-huang-amd-open-ai.html) (CNBC)
   * [At $1.2 Trillion, More High-Grade Debt Now Tied to AI Than Banks](https://www.bloomberg.com/news/articles/2025-10-07/jpmorgan-says-1-2-trillion-debt-tied-to-ai-tops-bank-high-grade) (Bloomberg)
   * [Without data centers, GDP growth was 0.1% in the first half of 2025, Harvard economist says](https://fortune.com/2025/10/07/data-centers-gdp-growth-zero-first-half-2025-jason-furman-harvard-economist/) (Fortune)
-  * [Insurers balk at multibillion-dollar claims faced by OpenAI and Anthropic](https://www.ft.com/content/0211e603-7da6-45a7-909a-96ec28bf6c5a) (Financial Times)
+  * [Insurers balk at multibillion-dollar claims faced by OpenAI and Anthropic](https://www.ft.com/content/0211e603-7da6-45a7-909a-96ec28bf6c5a) (FT)
   * [OpenAI Sneezes, and Software Firms Catch a Cold](https://www.wired.com/story/openai-chatgpt-docusign-saas-market/) (Wired)
   * [Amazon Pharmacy introduces kiosks that can quickly dispense medications at the doctor’s office](https://www.geekwire.com/2025/amazon-pharmacy-introduces-kiosks-that-can-quickly-dispense-medications-at-the-doctors-office/) (GeekWire)
 
@@ -616,7 +616,7 @@
 
   * [Apple takes down ICE tracking apps after pressure from Bondi DOJ](https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi) (Fox Business)
   * [A new a16z report looks at which AI companies startups are actually paying for](https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/) (TechCrunch)
-  * [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa) (Financial Times)
+  * [AI is not killing jobs, US study finds](https://www.ft.com/content/c9f905a0-cbfc-4a0a-ac4f-0d68d0fc64aa) (FT)
   * [OpenAI wraps $6.6 billion share sale at $500 billion valuation](https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html) (CNBC)
   * [OpenAI’s invite-only video generation app Sora tops Apple’s App Store](https://www.cnbc.com/2025/10/03/openai-sora-apple-app-store.html) (CNBC)
 
@@ -672,7 +672,7 @@
 
   * [Trump signs executive order supporting proposed deal to put TikTok under US ownership](https://apnews.com/article/trump-tiktok-china-framework-deal-fff6094ef7012840ec726fcf2cb68aef) (AP)
   * [TikTok Being Sold for a Song](https://spyglass.org/tiktok-sale-price-is-silly/) (Spyglass)
-  * [Amazon agrees largest ever civil penalty in $2.5bn settlement with US regulators](https://www.ft.com/content/69df3776-3286-40ea-8a9e-8f08a1314aa8) (Financial Times)
+  * [Amazon agrees largest ever civil penalty in $2.5bn settlement with US regulators](https://www.ft.com/content/69df3776-3286-40ea-8a9e-8f08a1314aa8) (FT)
   * [Viral call-recording app Neon goes dark after exposing users’ phone numbers, call recordings, and transcripts](https://techcrunch.com/2025/09/25/viral-call-recording-app-neon-goes-dark-after-exposing-users-phone-numbers-call-recordings-and-transcripts/) (TechCrunch)
   * [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse) (The Verge)
   * [Meta launches ‘Vibes,’ a short-form video feed of AI slop](https://techcrunch.com/2025/09/25/meta-launches-vibes-a-short-form-video-feed-of-ai-slop/) (TechCrunch)
@@ -684,7 +684,7 @@
   * [Musk's xAI accuses rival OpenAI of stealing trade secrets](https://www.reuters.com/sustainability/boards-policy-regulation/musks-xai-accuses-rival-openai-stealing-trade-secrets-2025-09-25/) (Reuters)
   * [Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid](https://www.bloomberg.com/news/articles/2025-09-24/intel-is-seeking-an-investment-from-apple-as-part-of-its-comeback-bid) (Bloomberg)
   * [Spotify to label AI music, filter spam and more in AI policy change](https://techcrunch.com/2025/09/25/spotify-updates-ai-policy-to-label-tracks-cut-down-on-spam/) (TechCrunch)
-  * [Stablecoin issuer Circle examines ‘reversible’ transactions in departure for crypto](https://www.ft.com/content/5b00127e-1f26-4b36-9b19-d20b38392e8c) (Financial Times)
+  * [Stablecoin issuer Circle examines ‘reversible’ transactions in departure for crypto](https://www.ft.com/content/5b00127e-1f26-4b36-9b19-d20b38392e8c) (FT)
   * [Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps](https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature) (The Verge)
   * [Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover](https://joel.drapper.me/p/rubygems-takeover/) (Joel Drapper)
   * [Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms](https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/) (TechCrunch)
@@ -729,7 +729,7 @@
 
   * [⁠⁠Nvidia in talks for $500mn investment in UK self-driving start-up Wayve⁠⁠](https://www.ft.com/content/cec76ea1-2cc1-4da3-a9e9-1d76aaa50afc) (FT)
   * [⁠⁠Google Injects Gemini Into Chrome as AI Browsers Go Mainstream ⁠⁠](https://www.wired.com/story/google-gemini-ai-chrome-browser/) (Wired)
-  * [⁠⁠Software update shoves ads onto Samsung’s pricey fridges ⁠⁠](https://arstechnica.com/gadgets/2025/09/samsung-forces-ads-onto-fridges-is-a-bad-sign-for-other-appliances/) (ArsTechnica)
+  * [⁠⁠Software update shoves ads onto Samsung’s pricey fridges ⁠⁠](https://arstechnica.com/gadgets/2025/09/samsung-forces-ads-onto-fridges-is-a-bad-sign-for-other-appliances/) (Ars Technica)
 
 
 
@@ -758,7 +758,7 @@
 
   * ['Meta Ray-Ban Display' Glasses Design & HUD Clips Leak Ahead Of Connect](https://www.uploadvr.com/meta-ray-ban-display-glasses-design-hud-wristband-clips-leak/) (Upload)
   * [OpenAI upgrades Codex with a new version of GPT-5](https://techcrunch.com/2025/09/15/openai-upgrades-codex-with-a-new-version-of-gpt-5/) (TechCrunch)
-  * [Beijing says TikTok’s US app will use Chinese algorithm](https://www.ft.com/content/550e4680-89e7-4b59-bb5d-2064cd6799c7) (Financial Times)
+  * [Beijing says TikTok’s US app will use Chinese algorithm](https://www.ft.com/content/550e4680-89e7-4b59-bb5d-2064cd6799c7) (FT)
   * [Spotify will now let free users pick and play tracks](https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/) (TechCrunch)
   * [iOS 26 Review: A New Look I'll Be Happy With for the Next 12 Years](https://www.cnet.com/tech/services-and-software/ios-26-review-a-new-look-ill-be-happy-with-for-the-next-12-years/) (CNet)
 
@@ -793,7 +793,7 @@
   * [Microsoft's first preview of Visual Studio 2026: Deeper AI and a design refresh](https://www.theregister.com/2025/09/10/visual_studio_2026_previewed_deeper/) (The Register)
   * [YouTube’s multi-language audio feature for dubbing videos rolls out to all creators](https://techcrunch.com/2025/09/10/youtubes-multi-language-audio-feature-for-dubbing-videos-rolls-out-to-all-creators/) (TechCrunch)
   * [AI’s $344 Billion ‘Language Model’ Bet Looks Fragile](https://www.bloomberg.com/opinion/articles/2025-09-11/ai-s-344-billion-language-model-bet-looks-fragile) (Bloomberg)
-  * [How Oracle’s Larry Ellison rode the AI ‘tsunami’](https://www.ft.com/content/dfb2b9b7-b229-4f65-9611-2d879bd326b9) (Financial Times)
+  * [How Oracle’s Larry Ellison rode the AI ‘tsunami’](https://www.ft.com/content/dfb2b9b7-b229-4f65-9611-2d879bd326b9) (FT)
 
 
 
@@ -847,7 +847,7 @@
   * [Nvidia’s Venture Arm Invests in Honeywell’s Quantinuum](https://www.bloomberg.com/news/articles/2025-09-04/nvidia-s-venture-arm-invests-in-honeywell-s-quantinuum) (Bloomberg)
   * [Atlassian agrees to acquire The Browser Co. for $610 million](https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html) (CNBC)
   * [Roblox expands use of age-estimation tech and introduces standardized ratings](https://techcrunch.com/2025/09/03/roblox-expands-use-of-age-estimation-tech-and-introduces-standardized-ratings/) (TechCrunch)
-  * [New AI model turns photos into explorable 3D worlds, with caveats](https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/) (ArsTechnica)
+  * [New AI model turns photos into explorable 3D worlds, with caveats](https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/) (Ars Technica)
   * [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels) (The Verge)
 
 
@@ -860,7 +860,7 @@
   * [OpenAI starts building out its app team](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves) (The Verge)
   * [Anthropic’s $13bn Series F raise sees it triple in value to $183bn](https://www.siliconrepublic.com/business/anthropics-13bn-series-f-raise-sees-it-triple-in-value-to-183bn) (SiliconRepublic)
   * [Acer Veriton GN100 is a mini AI workstation](https://videocardz.com/newz/acer-unveils-veriton-gn100-ai-mini-workstation-with-nvidia-gb10-blackwell-soc-costs-3999) (VideoCardz)
-  * [The problem of AI chatbots discussing suicide with teenagers](https://www.ft.com/content/36beb3fd-f678-4c28-b962-56ea9f222dc5) (Financial Times)
+  * [The problem of AI chatbots discussing suicide with teenagers](https://www.ft.com/content/36beb3fd-f678-4c28-b962-56ea9f222dc5) (FT)
 
 
 
@@ -879,7 +879,7 @@
   * [Alibaba Creates AI Chip to Help China Fill Nvidia Void](https://www.wsj.com/tech/ai/alibaba-ai-chip-nvidia-f5dc96e3?st=ft9tQU&reflink=desktopwebshare_permalink) (WSJ)
   * [Tesla said it didn’t have key data in a fatal crash. Then a hacker found it.](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/) (Washington Post)
   * [Intel gets $5.7 billion from Trump deal as White House says details are ‘being ironed out’](https://www.cnbc.com/2025/08/28/intel-trump-deal-commerce.html) (CNBC)
-  * [Zuckerberg’s AI hires disrupt Meta with swift exits and threats to leave](https://www.ft.com/content/110786e7-6443-4dff-adee-0ac02c55aaa6) (Financial Times)
+  * [Zuckerberg’s AI hires disrupt Meta with swift exits and threats to leave](https://www.ft.com/content/110786e7-6443-4dff-adee-0ac02c55aaa6) (FT)
   * [A Troubled Man, His Chatbot and a Murder-Suicide in Old Greenwich](https://www.wsj.com/tech/ai/chatgpt-ai-stein-erik-soelberg-murder-suicide-6b67dbfb?st=Hp4Ajw&reflink=desktopwebshare_permalink) (WSJ)
 
 
@@ -935,7 +935,7 @@
 
   * [Nvidia Orders Halt to H20 Production After China Directive Against Purchases](https://www.theinformation.com/articles/nvidia-orders-halt-h20-production-china-directive-purchases?rc=64g9cw) (The Information)
   * [Meta Signs $10 Billion-Plus Cloud Deal With Google](https://www.theinformation.com/articles/meta-signs-10-billion-plus-cloud-deal-google?rc=64g9cw) (The Information)
-  * [Elon Musk tried to enlist Mark Zuckerberg in $100bn bid for OpenAI](https://www.ft.com/content/12494c21-e477-49c1-a2d7-683c12c281ea) (Financial Times)
+  * [Elon Musk tried to enlist Mark Zuckerberg in $100bn bid for OpenAI](https://www.ft.com/content/12494c21-e477-49c1-a2d7-683c12c281ea) (FT)
   * [OpenAI Is Challenging Google—While Using Its Search Data](https://www.theinformation.com/articles/openai-challenging-google-using-search-data?rc=64g9cw) (The Information)
 
 
@@ -1004,7 +1004,7 @@
   * [Perplexity Makes Longshot $34.5 Billion Offer for Chrome](https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22?st=7gNiSR) (WSJ)
   * [OpenAI brings GPT-4o back as a default for all paying ChatGPT users, Altman promises ‘plenty of notice’ if it leaves again](https://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/) (VentureBeat)
   * [OpenAI rolls out Gmail, Calendar, and Contacts integration in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gmail-calendar-and-contacts-integration-in-chatgpt/) (BleepingComputer)
-  * [UK porn site traffic plunges as age verification rules take effect](https://www.ft.com/content/618f07cb-3cd8-42ff-af63-29118d305cbe) (Financial Times)
+  * [UK porn site traffic plunges as age verification rules take effect](https://www.ft.com/content/618f07cb-3cd8-42ff-af63-29118d305cbe) (FT)
   * [AI companion apps on track to pull in $120M in 2025](https://techcrunch.com/2025/08/12/ai-companion-apps-on-track-to-pull-in-120m-in-2025/) (TechCrunch)
   * [GM Plans Renewed Driverless-Car Push After Cruise Debacle](https://www.bloomberg.com/news/articles/2025-08-11/gm-plans-renewed-push-on-driverless-cars-after-cruise-debacle?sref=Szq5ylDR) (Bloomberg)
 
@@ -1151,7 +1151,7 @@
 
   * [Intel beats on revenue, slashes foundry investments as CEO says ‘no more blank checks’](https://www.cnbc.com/2025/07/24/intel-intc-earnings-report-q2-2025.html) (CNBC)
   * [Google is testing a vibe-coding app called Opal](https://techcrunch.com/2025/07/25/google-is-testing-a-vibe-coding-app-called-opal/) (TechCrunch)
-  * [Companies load up on niche crypto tokens to boost share prices](https://www.ft.com/content/50f98757-3823-4cd2-9adf-738f9e41b546) (Financial Times)
+  * [Companies load up on niche crypto tokens to boost share prices](https://www.ft.com/content/50f98757-3823-4cd2-9adf-738f9e41b546) (FT)
   * [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad) (The Verge)
   * [Is AI killing graduate jobs?](https://www.ft.com/content/99b6acb7-a079-4f57-a7bd-8317c1fbb728) (FT)
 
@@ -1209,8 +1209,8 @@
   * [OpenAI’s new ChatGPT Agent can control an entire computer and do tasks for you](https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research) (The Verge)
   * [OpenAI ChatGPT Agent announcement LIVE — all the big news from today's livestream](https://www.tomsguide.com/news/live/openai-july-17-announcement) (Tom's Guide)
   * [Netflix says it’s streamed 95 billion hours in 2025, and a lot of ads too](https://www.theverge.com/news/709288/netflix-q2-2025-earningsdouble-ad-revenue) (The Verge)
-  * [Donald Trump set to open US retirement market to crypto investments](https://www.ft.com/content/07906211-5ab8-4917-bcad-5397c0bc3170) (Financial Times)
-  * [AI start-up Perplexity’s valuation tops $18bn months after latest funding round](https://www.ft.com/content/4e05a5c5-84ad-4f8a-991a-d7f3842de76d) (Financial Times)
+  * [Donald Trump set to open US retirement market to crypto investments](https://www.ft.com/content/07906211-5ab8-4917-bcad-5397c0bc3170) (FT)
+  * [AI start-up Perplexity’s valuation tops $18bn months after latest funding round](https://www.ft.com/content/4e05a5c5-84ad-4f8a-991a-d7f3842de76d) (FT)
   * [Apple Sues Jon Prosser Over iOS 26 Leaks](https://www.macrumors.com/2025/07/17/apple-sues-jon-prosser-ios-26-leaks/) (Macrumors)
 
 
@@ -1229,9 +1229,9 @@
 
   * [Nvidia Boss Expects US to Move Fast on First H20 China Licenses](https://www.bloomberg.com/news/articles/2025-07-16/nvidia-boss-expects-to-get-first-h20-china-export-licenses-soon) (Bloomberg)
   * [OpenAI Preps ChatGPT Agents in Challenge to Microsoft Excel and PowerPoint](https://www.theinformation.com/articles/openai-preps-chatgpt-agents-challenge-microsoft-excel-powerpoint?rc=64g9cw) (The Information)
-  * [OpenAI to take cut of ChatGPT shopping sales in hunt for revenues](https://www.ft.com/content/449102a2-d270-4d68-8616-70bfbaf212de) (Financial Times)
+  * [OpenAI to take cut of ChatGPT shopping sales in hunt for revenues](https://www.ft.com/content/449102a2-d270-4d68-8616-70bfbaf212de) (FT)
   * [Fed up with ChatGPT, Latin America is building its own](https://restofworld.org/2025/chatgpt-latin-america-alternative-latamgpt/) (Rest Of World)
-  * [Reflections on OpenAI](https://calv.info/openai-reflections) (Calvin French-Owen)
+  * [Reflections on OpenAI](https://calv.info/openai-reflections) (Calvin French)
 
 
 
@@ -1251,7 +1251,7 @@
   * [Google to Pay $2.4 Billion for Windsurf Staff, IP After Startup Ends OpenAI Talks](https://www.theinformation.com/articles/openai-windsurf-break-acquisition-talks-microsoft-ip-concerns?rc=64g9cw) (The Information)
   * [Google Is Said to Pay $2.4 Billion for Windsurf Assets, Talent](https://www.bloomberg.com/news/articles/2025-07-11/openai-s-3-billion-deal-to-buy-ai-startup-windsurf-falls-apart) (Bloomberg)
   * [An OpenAI Acquisition Turns Into a Google 'Hackqusition'...](https://spyglass.org/openai-windsurf-google/) (Spyglass)
-  * [Elon Musk’s xAI seeks up to $200bn valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68?shareType=nongift) (Financial Times)
+  * [Elon Musk’s xAI seeks up to $200bn valuation in next fundraising](https://www.ft.com/content/25aab987-c2a1-4fca-8883-38a617269b68?shareType=nongift) (FT)
   * [SpaceX to Invest $2 Billion Into Elon Musk’s xAI](https://www.wsj.com/tech/spacex-to-invest-2-billion-into-elon-musks-xai-413934de) (WSJ)
   * [Google exec: ‘We’re going to be combining ChromeOS and Android’](https://www.theverge.com/news/706558/google-android-chromeos-combining-sameer-samat) (The Verge)
   * ['I think you see the future first on Android' – Google's Android leader Sameer Samat](https://www.techradar.com/phones/android/i-think-you-see-the-future-first-on-android-googles-android-leader-sameer-samat) (TechRadar)
@@ -1299,7 +1299,7 @@
 
   * [Apple Loses Top AI Models Executive to Meta’s Hiring Spree](https://www.bloomberg.com/news/articles/2025-07-07/apple-loses-its-top-ai-models-executive-to-meta-s-hiring-spree?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI’s Stock Compensation Reflect Steep Costs of Talent Wars](https://www.theinformation.com/articles/openais-stock-compensation-reflect-steep-costs-talent-wars?rc=64g9cw) (The Information)
-  * [OpenAI clamps down on security after foreign spying threats](https://www.ft.com/content/f896c4d9-bab7-40a2-9e67-4058093ce250) (Financial Times)
+  * [OpenAI clamps down on security after foreign spying threats](https://www.ft.com/content/f896c4d9-bab7-40a2-9e67-4058093ce250) (FT)
   * [Bluesky can really keep up with the news now that it has activity notifications](https://www.theverge.com/news/699671/bluesky-push-notifications-activity-controls-reposts) (The Verge)
   * [This New AI Tool Wants to Work With Filmmakers—Not Replace Them](https://time.com/7300636/ai-hollywood-moonvalley-marey/) (Time)
   * [iOS 26 beta 3 dials back Liquid Glass](https://techcrunch.com/2025/07/07/ios-26-beta-3-dials-back-liquid-glass/) (TechCrunch)
@@ -1401,9 +1401,9 @@
 
 **Monday, June 23 2025 - Mon. 06/23 – Tesla Launches Its Robotaxi**
 
-  * [Tesla launches robotaxi service in Austin](https://www.ft.com/content/5aefc191-d3de-4e6b-a2eb-08defd0678ee) (Financial Times)
+  * [Tesla launches robotaxi service in Austin](https://www.ft.com/content/5aefc191-d3de-4e6b-a2eb-08defd0678ee) (FT)
   * [Jony Ive Deal Removed From OpenAI Site Over Trademark Suit](https://www.bloomberg.com/news/articles/2025-06-22/jony-ive-deal-removed-from-openai-site-over-trademark-suit?sref=Szq5ylDR) (Bloomberg)
-  * [Apple locked in last-minute App Store negotiations to avoid Brussels fines](https://www.ft.com/content/b5d51870-e864-4aa5-b998-c0d2994a7e27) (Financial Times)
+  * [Apple locked in last-minute App Store negotiations to avoid Brussels fines](https://www.ft.com/content/b5d51870-e864-4aa5-b998-c0d2994a7e27) (FT)
   * [Apple Will Need to Leave Its M&A Comfort Zone to Succeed in AI](https://www.bloomberg.com/news/newsletters/2025-06-22/will-apple-buy-an-ai-company-apple-takes-a-close-look-at-acquiring-perplexity-mc7m98q9?sref=Szq5ylDR) (Bloomberg)
   * [Apple Executives Have Held Internal Talks About Buying AI Startup Perplexity](https://www.bloomberg.com/news/articles/2025-06-20/apple-executives-have-held-internal-talks-about-buying-ai-startup-perplexity?sref=Szq5ylDR) (Bloomberg)
   * [The music industry is building the tech to hunt down AI songs](https://www.theverge.com/ai-artificial-intelligence/686767/music-industry-ai-song-detection-tracking-licensing) (The Verge)
@@ -1483,7 +1483,7 @@
   * [Meta to Pay Nearly $15 Billion for Scale AI Stake and Startup’s 28-Year-Old CEO](https://www.theinformation.com/articles/meta-pay-nearly-15-billion-scale-ai-stake-startups-28-year-old-ceo?rc=64g9cw) (The Information)
   * [Disney, NBCU sue Midjourney over copyright infringement](https://www.axios.com/2025/06/11/disney-nbcu-midjourney-copyright) (Axios)
   * [Wikipedia Pauses AI-Generated Summaries After Editor Backlash](https://www.404media.co/wikipedia-pauses-ai-generated-summaries-after-editor-backlash/) (404Media)
-  * [How stablecoins are entering the financial mainstream](https://www.ft.com/content/b69f304c-798e-4dc3-9f17-6f7a7c8d3ac0) (Financial Times)
+  * [How stablecoins are entering the financial mainstream](https://www.ft.com/content/b69f304c-798e-4dc3-9f17-6f7a7c8d3ac0) (FT)
   * [EXCLUSIVE: Amazon Doubles Prime Video Ads to 6 Minutes Per Hour](https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/) (AdWeek)
 
 
@@ -1534,7 +1534,7 @@
   * [Reddit Sues Anthropic, Alleges Unauthorized Use of Site’s Data](https://www.wsj.com/tech/ai/reddit-lawsuit-anthropic-ai-3b9624dd?st=RG6AF6&reflink=desktopwebshare_permalink) (WSJ)
   * [Meta Talks to Disney, A24 About Content for New VR Headset](https://www.wsj.com/business/media/meta-seeks-hollywood-deals-for-new-virtual-reality-headset-ef3db942) (WSJ)
   * [Here’s what’s inside Meta’s experimental new smart glasses](https://www.theverge.com/news/679707/meta-aria-gen-2-upgrades-specs-ai) (The Verge)
-  * [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) (ArsTechica)
+  * [OpenAI slams court order to save all ChatGPT logs, including deleted chats](https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/) (Ars Technica)
   * [Amazon Prepares to Test Humanoid Robots for Delivering Packages](https://www.theinformation.com/articles/amazon-prepares-test-humanoid-robots-delivering-packages?rc=64g9cw) (The Information)
   * [Everyone Is Already Using AI (And Hiding It)](https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html) (Vulture)
 
@@ -1556,7 +1556,7 @@
   * [Musk Taps Investors for Billions Days After Washington Exit](https://www.bloomberg.com/news/articles/2025-06-02/musk-s-xai-launches-5-billion-debt-sale-through-morgan-stanley?sref=Szq5ylDR) (Bloomberg)
   * ['Forest Blizzard' vs 'Fancy Bear' - cyber companies hope to untangle weird hacker nicknames](https://www.reuters.com/sustainability/boards-policy-regulation/forest-blizzard-vs-fancy-bear-cyber-companies-hope-untangle-weird-hacker-2025-06-02/) (Reuters)
   * [Gridcare thinks more than 100 GW of data center capacity is hiding in the grid](https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/) (TechCrunch)
-  * [Walmart is supercharging revenue — but with fewer workers](https://www.ft.com/content/5be70b28-018d-42d7-af8d-ea5a4bed4d44) (Financial Times)
+  * [Walmart is supercharging revenue — but with fewer workers](https://www.ft.com/content/5be70b28-018d-42d7-af8d-ea5a4bed4d44) (FT)
   * [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/) (Thomas Ptacek)
 
 
@@ -1610,7 +1610,7 @@
   * [Salesforce Agrees to Buy Informatica in Deal Worth $8 Billion](https://www.bloomberg.com/news/articles/2025-05-27/salesforce-agrees-to-buy-informatica-in-deal-worth-8-billion?sref=Szq5ylDR) (Bloomberg)
   * [Stablecoin Giant Circle File for IPO on NYSE](https://www.coindesk.com/business/2025/05/27/stablecoin-giant-circle-files-for-ipo-on-nyse) (CoinDesk)
   * [The Browser Company mulls selling or open-sourcing Arc Browser amid AI-focused pivot](https://techcrunch.com/2025/05/27/the-browser-company-mulls-selling-or-open-sourcing-arc-browser-amid-ai-focused-pivot/) (TechCrunch)
-  * [Cricket gives Disney-Ambani unit in India almost as many users as Netflix](https://www.ft.com/content/ea6f401d-2989-48ba-aa8b-d0d7325cd021) (Financial Times)
+  * [Cricket gives Disney-Ambani unit in India almost as many users as Netflix](https://www.ft.com/content/ea6f401d-2989-48ba-aa8b-d0d7325cd021) (FT)
   * [One of Europe’s top AI researchers raised a $13M seed to crack the ‘holy grail’ of models](https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed-to-crack-the-holy-grail-of-models/) (TechCrunch)
   * [At Amazon, Some Coders Say Their Jobs Have Begun to Resemble Warehouse Work](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html?unlocked_article_code=1.J08.DkGW.5075LbaW7jrv) (NYTimes)
   * [Khosla Ventures among VCs experimenting with AI-infused roll-ups of mature companies](https://techcrunch.com/2025/05/23/khosla-ventures-among-vcs-experimenting-with-ai-infused-roll-ups-of-mature-companies/) (TechCrunch)
@@ -1644,7 +1644,7 @@
   * [My demo with Google's AR glasses went better than the one on stage](https://www.androidcentral.com/gaming/virtual-reality/my-demo-with-googles-ar-glasses-went-better-than-the-one-on-stage) (AndroidCentral)
   * [Google launches Veo 3, an AI video generator that incorporates audio](https://www.cnbc.com/2025/05/20/google-ai-video-generator-audio-veo-3.html) (CNBC)
   * [Watch Me Try Google’s Live Language Translator. It’s Wild.](https://www.wsj.com/tech/personal-tech/google-meet-ai-translation-6a30c43a?st=erXQkW&reflink=desktopwebshare_permalink) (WSJ)
-  * [Google moves to reassure EU cloud users amid concern over Trump threat](https://www.ft.com/content/c9ee9f3b-8d9e-446d-a0f9-66d546b55fa3) (Financial Times)
+  * [Google moves to reassure EU cloud users amid concern over Trump threat](https://www.ft.com/content/c9ee9f3b-8d9e-446d-a0f9-66d546b55fa3) (FT)
 
 
 
@@ -1769,7 +1769,7 @@
   * [Tether CEO says the firm's AI product will enable peer-to-peer network of AI agents](https://www.theblock.co/post/353082/tether-ceo-ai-agents) (The Block)
   * [Senate Democrats' reversal on US stablecoin bill throws future of legislation into doubt](https://www.theblock.co/post/353051/senate-democrats-reversal-on-us-stablecoin-bill-throws-future-of-legislation-into-doubt) (The Block)
   * [Leading deepfake porn site is shut down for good](https://www.engadget.com/ai/leading-deepfake-porn-site-is-shut-down-for-good-120018413.html) (Engadget)
-  * [Maker of AI ‘vibe coding’ app Cursor hits $9bn valuation](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2) (Financial Times)
+  * [Maker of AI ‘vibe coding’ app Cursor hits $9bn valuation](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2) (FT)
   * [Reports: US losing edge in AI talent pool](https://www.semafor.com/article/05/02/2025/us-losing-edge-in-ai-talent-pool-reports-say) (Semafor)
 
 
@@ -1802,7 +1802,7 @@
   * [Waymo, Toyota strike partnership to bring self-driving tech to personal vehicles](https://www.cnbc.com/2025/04/29/waymo-toyota-partner-to-bring-self-driving-tech-to-personal-vehicles-.html) (CNBC)
   * [Google Play sees 47% decline in apps since start of last year](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/) (TechCrunch)
   * [EU views break from US as ‘unrealistic’ amid global tech race](https://www.politico.eu/article/eu-us-big-tech-companies-trade-international-digital-strategy-europe-competitiveness/) (Politico)
-  * [Microsoft vows to protect European operations from Donald Trump](https://www.ft.com/content/66708fed-ec05-42a6-ab30-dadbb3fecaf3) (Financial Times)
+  * [Microsoft vows to protect European operations from Donald Trump](https://www.ft.com/content/66708fed-ec05-42a6-ab30-dadbb3fecaf3) (FT)
 
 
 
@@ -1835,7 +1835,7 @@
 
   * [Alphabet shares rise on stronger-than-expected revenue growth](https://www.cnbc.com/2025/04/24/alphabet-googl-q1-earnings-report-2025.html) (CNBC)
   * [Intel offers weak forecast amid trade tensions as CEO talks to TSMC](https://www.reuters.com/business/intel-forecasts-second-quarter-revenue-below-estimates-fanning-tariff-worries-2025-04-24/) (Reuters)
-  * [Apple aims to source all US iPhones from India in pivot away from China](https://www.ft.com/content/c2be45b8-cfad-4cbb-9a1a-bfd0626be372?accessToken=zwAGM5TVpnfokdPCvkW4z61Mu9OaGr_QYmvjcg.MEYCIQDZglJ3_KMJyEa-1SqGkciNGvy-4T1skuN0UPRNLw7QhgIhAO69nQj0pGl-gxTOAHyYwi97ZZFY-cmxaEfTeNpLTXMg&sharetype=gift&token=98cc4ca4-70f2-4b8a-a2d0-1e554d3459a1) (Financial Times)
+  * [Apple aims to source all US iPhones from India in pivot away from China](https://www.ft.com/content/c2be45b8-cfad-4cbb-9a1a-bfd0626be372?accessToken=zwAGM5TVpnfokdPCvkW4z61Mu9OaGr_QYmvjcg.MEYCIQDZglJ3_KMJyEa-1SqGkciNGvy-4T1skuN0UPRNLw7QhgIhAO69nQj0pGl-gxTOAHyYwi97ZZFY-cmxaEfTeNpLTXMg&sharetype=gift&token=98cc4ca4-70f2-4b8a-a2d0-1e554d3459a1) (FT)
   * [Publisher of PCMag and Mashable Sues OpenAI](https://www.nytimes.com/2025/04/24/business/media/ziff-davis-openai-lawsuit.html) (NYTimes)
   * [Facebook cracks down on spammy content by cutting reach and monetization](https://techcrunch.com/2025/04/24/facebook-cracks-down-on-spammy-content-by-cutting-reach-and-monetization/) (TechCrunch)
   * [Mark Zuckerberg once considered deleting all your Facebook friends](https://techcrunch.com/2025/04/15/mark-zuckerberg-once-considered-deleting-all-your-facebook-friends/) (TechCrunch)
@@ -1948,10 +1948,10 @@
 
 **Friday, April 11 2025 - Fri. 04/11 – Why COULDN’T Apple Make An iPhone In The US?**
 
-  * [EU could tax Big Tech if Trump trade talks fail, says von der Leyen](https://www.ft.com/content/fba18bd9-46f9-4736-89f3-976afe3abf7a) (Financial Times)
+  * [EU could tax Big Tech if Trump trade talks fail, says von der Leyen](https://www.ft.com/content/fba18bd9-46f9-4736-89f3-976afe3abf7a) (FT)
   * [Why Trump’s Dream of Made-in-the-USA iPhones Isn’t Going to Happen](https://www.bloomberg.com/news/articles/2025-04-11/why-trump-s-dream-of-made-in-the-usa-iphones-isn-t-going-to-happen?sref=Szq5ylDR) (Bloomberg)
   * [OpenAI updates ChatGPT to reference your past chats](https://techcrunch.com/2025/04/10/openai-updates-chatgpt-to-reference-your-other-chats/) (TechCrunch)
-  * [OpenAI slashes AI model safety testing time](https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8) (Financial Times)
+  * [OpenAI slashes AI model safety testing time](https://www.ft.com/content/8253b66e-ade7-4d1f-993b-2d0779c7e7d8) (FT)
   * [Mira Murati doubled the fundraising target for her new AI startup to $2 billion. It could be the largest seed round in history.](https://www.businessinsider.com/mira-murati-new-ai-startup-thinking-machines-funding-2025-4) (Business Insider)
 
 
@@ -1985,7 +1985,7 @@
 
 **Tuesday, April 08 2025 - Tue. 04/08 – It’s Already Starting…**
 
-  * [Framework “temporarily pausing” some laptop sales because of new tariffs](https://arstechnica.com/gadgets/2025/04/framework-temporarily-pausing-some-laptop-sales-because-of-new-tariffs/) (ArsTechnica)
+  * [Framework “temporarily pausing” some laptop sales because of new tariffs](https://arstechnica.com/gadgets/2025/04/framework-temporarily-pausing-some-laptop-sales-because-of-new-tariffs/) (Ars Technica)
   * [Exclusive: Micron to impose tariff-related surcharge on some products from April 9, sources say](https://www.reuters.com/technology/micron-impose-tariff-related-surcharge-some-products-april-9-sources-say-2025-04-08/) (Reuters)
   * [Apple Plans to Source More iPhones From India as Potential Tariff Fix](https://www.wsj.com/tech/apple-iphone-production-china-tariffs-6cc37f40?st=mwziP6&reflink=desktopwebshare_permalink) (WSJ)
   * [Apple Customers Dash to Stores to Buy iPhones Ahead of Tariffs](https://www.bloomberg.com/news/articles/2025-04-07/apple-customers-dash-to-stores-to-buy-iphones-ahead-of-tariffs?sref=Szq5ylDR) (Bloomberg)
@@ -2191,11 +2191,11 @@
   * [Pokémon Go developer Niantic to sell gaming business to Saudi group](https://www.theverge.com/news/615267/niantic-pokemon-go-scopely-acquisition-deal) (The Verge)
   * [Saudi-owned Scopely buys Pokémon Go in $3.5bn gaming deal](https://www.ft.com/content/761bf407-2ef1-4aad-97e4-76d0916de057) (FT)
   * [One-Time Amazon Takeover Target iRobot Warns Doubt on Future](https://www.bloomberg.com/news/articles/2025-03-12/once-amazon-takeover-target-irobot-signals-doubt-over-its-future?sref=Szq5ylDR) (Bloomberg)
-  * [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model) (TheVerge)
+  * [Google calls Gemma 3 the most powerful AI model you can run on one GPU](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model) (The Verge)
   * [Sam Altman says OpenAI has trained a fiction writing AI model that’s actually decent](https://siliconangle.com/2025/03/11/sam-altman-says-openai-trained-fiction-writing-ai-model-thats-actually-decent/) (SiliconAngle)
-  * [Google changes Chrome extension policies following the Honey link scandal](https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate) (TheVerge)
+  * [Google changes Chrome extension policies following the Honey link scandal](https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate) (The Verge)
   * [Exclusive: TSMC pitched Intel foundry JV to Nvidia, AMD and Broadcom, sources say](https://www.reuters.com/technology/tsmc-pitched-intel-foundry-jv-nvidia-amd-broadcom-sources-say-2025-03-12/) (Reuters)
-  * [Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’](https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/) (TheVerge)
+  * [Hugging Face’s chief science officer worries AI is becoming ‘yes-men on servers’](https://techcrunch.com/2025/03/06/hugging-faces-chief-science-officer-worries-ai-is-becoming-yes-men-on-servers/) (The Verge)
 
 
 
@@ -2218,7 +2218,7 @@
   * [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/) (TechCrunch)
   * [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/) (BleepingComputer)
   * [ServiceNow Nears Deal to Buy AI Assistant Maker Moveworks](https://www.bloomberg.com/news/articles/2025-03-10/servicenow-nears-deal-to-buy-ai-assistant-maker-moveworks?sref=Szq5ylDR) (Bloomberg)
-  * [Banks and fintechs join ‘stablecoin gold rush’](https://www.ft.com/content/d033e015-f726-4d5f-ab38-2949171f2cdc) (Financial Times)
+  * [Banks and fintechs join ‘stablecoin gold rush’](https://www.ft.com/content/d033e015-f726-4d5f-ab38-2949171f2cdc) (FT)
   * [Apple Clears the Decks With Rare Early-Year Product Frenzy](https://www.bloomberg.com/news/newsletters/2025-03-09/apple-ipad-air-mac-studio-macbook-air-thoughts-company-explores-smart-glasses?sref=Szq5ylDR) (Bloomberg)
 
 
@@ -2255,7 +2255,7 @@
   * [Digg is coming back, thanks to its founder — and Reddit’s](https://www.theverge.com/social/624073/digg-relaunch-2025) (The Verge)
   * [Bored Ape Creator Yuga Labs Says SEC Closing Investigation in 'Huge Win' for NFT Sector](https://decrypt.co/308539/bored-ape-creator-yuga-labs-says-sec-closing-investigation-in-huge-win-for-nft-sector) (Decrypt)
   * [Google Urges Trump DOJ to Reverse Course on Breaking Up Company](https://www.bloomberg.com/news/articles/2025-03-04/google-urges-trump-doj-to-reverse-course-on-breaking-up-company?sref=Szq5ylDR) (Bloomberg)
-  * [Eerily realistic AI voice demo sparks amazement and discomfort online](https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/) (ArsTechnica)
+  * [Eerily realistic AI voice demo sparks amazement and discomfort online](https://arstechnica.com/ai/2025/03/users-report-emotional-bonds-with-startlingly-realistic-ai-voice-demo/) (Ars Technica)
 
 
 
@@ -2276,7 +2276,7 @@
   * [Trump, Chip Maker TSMC Expected to Announce $100 Billion Investment in U.S.](https://www.wsj.com/tech/trump-chip-maker-tsmc-expected-to-announce-100-billion-investment-in-u-s-02a44399?st=eCc2EK&reflink=desktopwebshare_permalink) (WSJ)
   * [Google’s Gemini now lets you ask questions using videos and what’s on your screen](https://techcrunch.com/2025/03/03/googles-gemini-now-lets-you-ask-questions-using-videos-or-whats-on-your-screen/) (TechCrunch)
   * [Google’s Sergey Brin Urges Workers to the Office ‘at Least’ Every Weekday](https://www.nytimes.com/2025/02/27/technology/google-sergey-brin-return-to-office.html?unlocked_article_code=1.0U4.A8Eb.6hfgL-MPLsba&smid=url-share&utm_source=tldrnewsletter) (NYTimes)
-  * [Peter Thiel-backed fintech Ramp nearly doubles valuation to $13bn](https://www.ft.com/content/458a96ba-e022-4b06-b028-b4bc41a969b6) (Financial Times)
+  * [Peter Thiel-backed fintech Ramp nearly doubles valuation to $13bn](https://www.ft.com/content/458a96ba-e022-4b06-b028-b4bc41a969b6) (FT)
   * [Apple’s Artificial Intelligence Efforts Reach a Make-or-Break Point](https://www.bloomberg.com/news/newsletters/2025-03-02/apple-siri-compared-with-alexa-m4-macbook-air-and-ipad-air-2025-coming-soon-m7rn2k2y?sref=Szq5ylDR) (Bloomberg)
 
 
@@ -2311,7 +2311,7 @@
   * [Amazon unveils a new and improved Alexa, Alexa+](https://techcrunch.com/2025/02/26/amazon-unveils-a-new-and-improved-alexa-alexa/) (TechCrunch)
   * [DeepSeek rushes to launch new AI model as China goes all in](https://www.reuters.com/technology/artificial-intelligence/deepseek-rushes-launch-new-ai-model-china-goes-all-2025-02-25/) (Reuters)
   * [Meta Discusses AI Data Center Project That Could Cost $200 Billion](https://www.theinformation.com/articles/meta-discusses-200-billion-ai-data-center-project?rc=64g9cw) (The Information)
-  * [How North Korea pulled off a $1.5 billion crypto heist—the biggest in history](https://arstechnica.com/security/2025/02/how-north-korea-pulled-off-a-1-5-billion-crypto-heist-the-biggest-in-history/) (ArsTechnica)
+  * [How North Korea pulled off a $1.5 billion crypto heist—the biggest in history](https://arstechnica.com/security/2025/02/how-north-korea-pulled-off-a-1-5-billion-crypto-heist-the-biggest-in-history/) (Ars Technica)
   * [Three years later, the Steam Deck has dominated handheld PC gaming](https://www.theverge.com/pc-gaming/618709/steam-deck-3-year-anniversary-handheld-gaming-shipments-idc) (The Verge)
 
 
@@ -2388,8 +2388,8 @@
 **Friday, February 14 2025 - Fri. 02/14 – Arm Upends The Entire Semiconductor Industry**
 
   * [Apple, Google Restore TikTok App After Assurances From Trump](https://www.bloomberg.com/news/articles/2025-02-14/apple-to-restore-tiktok-to-us-app-store-following-justice-department-letter?sref=Szq5ylDR) (Bloomberg)
-  * [Arm to launch its own chip in move that could upend semiconductor industry](https://www.ft.com/content/95367b2b-2aa7-4a06-bdd3-0463c9bad008) (Financial Times)
-  * [Shein IPO plans hit by Trump’s low-cost parcels crackdown](https://www.ft.com/content/a83455b4-2f97-41b5-9b88-74526bd80f63) (Financial Times)
+  * [Arm to launch its own chip in move that could upend semiconductor industry](https://www.ft.com/content/95367b2b-2aa7-4a06-bdd3-0463c9bad008) (FT)
+  * [Shein IPO plans hit by Trump’s low-cost parcels crackdown](https://www.ft.com/content/a83455b4-2f97-41b5-9b88-74526bd80f63) (FT)
   * [AI Licensing Deals With Google and OpenAI Make Up 10% of Reddit's Revenue](https://www.adweek.com/social-marketing/ai-licensing-deals-with-google-and-openai-make-up-10-of-reddits-revenue/) (AdWeek)
 
 
@@ -2413,7 +2413,7 @@
   * [Meta In Talks To Buy Korean AI Chip Startup Founded By Samsung Engineer](https://www.forbes.com/sites/johnkang/2025/02/11/meta-in-talks-to-buy-korean-ai-chip-startup-founded-by-samsung-engineer/) (Forbes)
   * [Meta Accounting Move on AI Servers to Boost Profit This Year](https://www.bloomberg.com/news/articles/2025-02-12/meta-s-accounting-move-on-ai-servers-to-boost-profit-this-year?sref=Szq5ylDR) (Bloomberg)
   * [Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff](https://www.wired.com/story/sam-altman-openai-reject-elon-musk-bid/) (Wired)
-  * [Sure Elon Musk Might Buy OpenAI](https://www.bloomberg.com/opinion/articles/2025-02-11/sure-elon-musk-might-buy-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczOTMwODgwNywiZXhwIjoxNzM5OTEzNjA3LCJhcnRpY2xlSWQiOiJTUkozQUJUMVVNMFcwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.wZZsE5BmzQi9aOYiWAyuYE3yNnjV6A51jCJve6MudKM&sref=Szq5ylDR) (Matt Levine/Bloomberg)
+  * [Sure Elon Musk Might Buy OpenAI](https://www.bloomberg.com/opinion/articles/2025-02-11/sure-elon-musk-might-buy-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczOTMwODgwNywiZXhwIjoxNzM5OTEzNjA3LCJhcnRpY2xlSWQiOiJTUkozQUJUMVVNMFcwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.wZZsE5BmzQi9aOYiWAyuYE3yNnjV6A51jCJve6MudKM&sref=Szq5ylDR) (Bloomberg)
 
 
 
@@ -2481,7 +2481,7 @@
 
   * [Trump Signs Executive Action to Create Sovereign Wealth Fund](https://www.bloomberg.com/news/articles/2025-02-03/trump-signs-action-to-create-sovereign-wealth-fund-in-next-year?sref=Szq5ylDR) (Bloomberg)
   * [China Hits Back Against Trump’s Tariffs With Targeted Actions](https://www.bloomberg.com/news/articles/2025-02-04/china-probes-google-moments-after-trump-s-tariffs-enter-effect?sref=Szq5ylDR) (Bloomberg)
-  * [China targets Google, Nvidia and Intel as Trump tariffs bite](https://www.ft.com/content/2ec45e79-9502-4ffd-82e8-888d9283c776) (Financial Times)
+  * [China targets Google, Nvidia and Intel as Trump tariffs bite](https://www.ft.com/content/2ec45e79-9502-4ffd-82e8-888d9283c776) (FT)
   * [Twitterrific team launches new ‘Tapestry’ iPhone app for Bluesky, Mastodon, RSS, more](https://9to5mac.com/2025/02/04/twitterrific-team-launches-new-iphone-app-tapestry-for-bluesky-mastodon-more/) (9to5Mac)
   * [Opera’s new browser might save you from doomscrolling](https://www.theverge.com/news/605702/opera-air-mindfulness-browser-breaks-ambient-binaural-breathing-exercises) (The Verge)
   * [Spotify Reports First Full-Year Profit](https://www.wsj.com/business/earnings/spotify-spot-q4-earnings-report-2024-f8d63d4e?st=QWJbhZ&reflink=desktopwebshare_permalink) (WSJ)
@@ -2523,14 +2523,14 @@
 
 **Wednesday, January 29 2025 - Wed. 01/29 – OpenAI Says: No Copying!**
 
-  * [OpenAI says it has evidence China’s DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6?accessToken=zwAGLNJX-fBAkdOg3-3RUlVPqdOMzB_gHeh-pg.MEYCIQCGjo04z0mtOsKbDspQLq2BMXyw8SbQnlYePOuqiqr6QgIhAInK67eBkYuZS-77ljnP-y--EJdN1wwRQ8GIR8sKMFgE&sharetype=gift&token=1eebbaa7-a4e6-4251-b665-c2f2562b38e4) (Financial Times)
+  * [OpenAI says it has evidence China’s DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6?accessToken=zwAGLNJX-fBAkdOg3-3RUlVPqdOMzB_gHeh-pg.MEYCIQCGjo04z0mtOsKbDspQLq2BMXyw8SbQnlYePOuqiqr6QgIhAInK67eBkYuZS-77ljnP-y--EJdN1wwRQ8GIR8sKMFgE&sharetype=gift&token=1eebbaa7-a4e6-4251-b665-c2f2562b38e4) (FT)
   * [Microsoft Probing If DeepSeek-Linked Group Improperly Obtained OpenAI Data](https://www.bloomberg.com/news/articles/2025-01-29/microsoft-probing-if-deepseek-linked-group-improperly-obtained-openai-data?sref=Szq5ylDR) (Bloomberg)
   * [Alibaba releases AI model it says surpasses DeepSeek](https://www.reuters.com/technology/artificial-intelligence/alibaba-releases-ai-model-it-claims-surpasses-deepseek-v3-2025-01-29/) (Reuters)
   * [Alibaba Announces AI Model That ‘Outperforms ChatGPT & DeepSeek’](https://tech.co/news/alibaba-ai-model-outperforms-chatgpt-deepseek) (Tech.co)
   * [Alibaba’s Qwen 2.5 surpasses DeepSeek as China’s AI race heats up](https://bgr.com/tech/alibabas-qwen-2-5-surpasses-deepseek-as-chinas-ai-race-heats-up/) (BGR)
   * [Apple and SpaceX Link Up to Support Starlink Satellite Network on iPhones](https://www.bloomberg.com/news/articles/2025-01-29/apple-and-spacex-link-up-to-support-starlink-satellite-network-on-iphones?sref=Szq5ylDR) (Bloomberg)
   * [Comcast is rolling out ‘ultra-low lag’ tech that could fix the internet](https://www.theverge.com/news/601100/comcast-l4s-low-latency-internet) (The Verge)
-  * [Streaming prices climb in 2025 after already surpassing inflation rates](https://arstechnica.com/gadgets/2025/01/streaming-prices-climb-in-2025-after-already-surpassing-inflation-rates/) (ArsTechnica)
+  * [Streaming prices climb in 2025 after already surpassing inflation rates](https://arstechnica.com/gadgets/2025/01/streaming-prices-climb-in-2025-after-already-surpassing-inflation-rates/) (Ars Technica)
   * [Netflix won the streaming wars, and we’re all about to pay for it](https://www.theverge.com/2025/1/26/24351302/netflix-price-increase-streaming-wars) (The Verge)
   * [Civilian jet breaks sound barrier during historic test flight over Mojave Desert](https://www.cbsnews.com/news/xb-1-baby-boom-jet-supersonic-breaks-sound-barrier/) (CBSNews)
 
@@ -2575,7 +2575,7 @@
   * [Co-founder of French Crypto Startup Freed After Kidnapping](https://www.bloomberg.com/news/articles/2025-01-23/co-founder-of-french-crypto-startup-freed-after-kidnapping?sref=Szq5ylDR) (Bloomberg)
   * [Subaru Security Flaws Exposed Its System for Tracking Millions of Cars](https://www.wired.com/story/subaru-location-tracking-vulnerabilities/) (Wired)
   * [Oscar Nomination Scorecard: Netflix Leads Among Studios With 16, A24 Close Behind With 14](https://variety.com/2025/film/news/oscar-nomination-scorecard-netflix-leads-emilia-perez-1236283054/) (Variety)
-  * [When A.I. Passes This Test, Look Out](https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html) (NyTimes)
+  * [When A.I. Passes This Test, Look Out](https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html) (NYTimes)
 
 
 
@@ -2584,7 +2584,7 @@
   * [The Samsung Galaxy S25 Ultra smooths out some sharp edges](https://www.theverge.com/2025/1/22/24348631/samsung-galaxy-s25-ultra-hands-on-price-camera-specs) (The Verge)
   * [Trump Pardons Creator of Silk Road Drug Marketplace](https://www.nytimes.com/2025/01/21/technology/trump-ross-ulbricht-silk-road.html?unlocked_article_code=1.rE4.0_-9.E-XO08DYphvN&smid=url-share) (NYTimes)
   * [OpenAI teams up with SoftBank and Oracle on $500B data center project](https://techcrunch.com/2025/01/21/openai-teams-up-with-softbank-and-oracle-on-50b-data-center-project/) (TechCrunch)
-  * ['Stargate' Squares Some AI Circles](https://spyglass.org/project-stargate-agi-openai/) (Spyglass/MG Siegler)
+  * ['Stargate' Squares Some AI Circles](https://spyglass.org/project-stargate-agi-openai/) (Spyglass)
   * [Trump Says He’s Open to Elon Musk or Larry Ellison Purchasing TikTok](https://www.bloomberg.com/news/articles/2025-01-21/trump-says-he-s-open-to-musk-or-ellison-purchasing-tiktok?sref=Szq5ylDR) (Bloomberg)
   * [Meta Plans Oakley-Branded Glasses, Explores Watches and Earbuds](https://www.bloomberg.com/news/articles/2025-01-21/meta-hardware-plans-oakley-and-ar-like-glasses-apple-watch-and-airpods-rivals?sref=Szq5ylDR) (Bloomberg)
   * [Meta will soon let you link your WhatsApp account with Instagram and Facebook](https://techcrunch.com/2025/01/21/meta-will-soon-let-you-link-your-whatsapp-account-with-instagram-and-facebook/) (TechCrunch)
@@ -2641,7 +2641,7 @@
 **Tuesday, January 14 2025 - Tue. 01/14 – Could Elon Buy TikTok?**
 
   * [China Weighs Sale of TikTok US to Musk as a Possible Option](https://www.bloomberg.com/news/articles/2025-01-14/china-discusses-sale-of-tiktok-us-to-musk-as-one-possible-option?sref=Szq5ylDR) (Bloomberg)
-  * [EU reassesses tech probes into Apple, Google and Meta](https://www.ft.com/content/2c1b6bfd-ce73-451d-8123-0df964266ae8) (Financial Times)
+  * [EU reassesses tech probes into Apple, Google and Meta](https://www.ft.com/content/2c1b6bfd-ce73-451d-8123-0df964266ae8) (FT)
   * [Meta to Cut Roughly 5% of Staff, Targeting Lowest Performers](https://www.bloomberg.com/news/articles/2025-01-14/meta-is-planning-to-cut-5-of-lowest-performers-memo-shows?sref=Szq5ylDR) (Bloomberg)
   * [Databricks Inks $5 Billion of Private Credit, Bank Funding](https://www.bloomberg.com/news/articles/2025-01-13/databricks-inks-5-billion-financing-from-private-credit-banks?sref=Szq5ylDR) (Bloomberg)
   * [Disney, Warner Bros. Discovery and Fox Pull the Plug on Venu Sports Streaming Venture](https://www.hollywoodreporter.com/business/business-news/venu-sports-dead-streaming-service-pulled-before-launch-1236106145/) (THR)
@@ -2655,7 +2655,7 @@
   * [US imposes export controls on chips for AI to counter China](https://www.ft.com/content/f83f30be-d673-4f00-b9e5-9e9293512010) (FT)
   * [Sonos CEO Leaving After Botched App Revamp Led to Customer Revolt](https://www.bloomberg.com/news/articles/2025-01-13/sonos-ceo-patrick-spence-leaving-after-failed-app-revamp-led-to-customer-revolt?sref=Szq5ylDR) (Bloomberg)
   * [Sonos CEO Patrick Spence steps down after disastrous app launch](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app) (The Verge)
-  * [Silicon Valley’s largest start-ups to shun IPOs in 2025](https://www.ft.com/content/b9d7b633-c611-4c09-b02e-5855dfaa0dfb) (Financial Times)
+  * [Silicon Valley’s largest start-ups to shun IPOs in 2025](https://www.ft.com/content/b9d7b633-c611-4c09-b02e-5855dfaa0dfb) (FT)
   * [Nvidia’s Top Customers Face Delays From Glitchy AI Chip Racks](https://www.theinformation.com/articles/nvidias-top-customers-face-delays-from-glitchy-ai-chip-racks?rc=64g9cw) (The Information)
   * [Xiaohongshu, China’s answer to Instagram, hits no. 1 on the App Store as TikTok faces US shutdown](https://techcrunch.com/2025/01/13/xiaohongshu-chinas-answer-to-instagram-hits-no-1-on-the-app-store-as-tiktok-faces-us-shutdown/) (TechCrunch)
 
@@ -2678,7 +2678,7 @@
   * [Google’s ‘Daily Listen’ lab is a personalized podcast based on your Discover feed](https://9to5google.com/2025/01/08/google-discover-daily-listen/) (9to5Google)
   * [SoftBank’s Chip Designer Arm Considers Acquiring Ampere Computing](https://www.bloomberg.com/news/articles/2025-01-09/chip-designer-arm-considers-acquiring-ampere-computing?sref=Szq5ylDR) (Bloomberg)
   * [Your Next AI Wearable Will Listen to Everything All the Time](https://www.wired.com/story/bee-ai-omi-always-listening-ai-wearables/) (Wired)
-  * [With L.A. on alert, wildfire app Watch Duty adds 600,000 users overnight](https://www.latimes.com/business/story/2025-01-08/with-l-a-on-alert-wildfire-app-watch-duty-adds-600-000-users-overnight) (Los Angeles Times)
+  * [With L.A. on alert, wildfire app Watch Duty adds 600,000 users overnight](https://www.latimes.com/business/story/2025-01-08/with-l-a-on-alert-wildfire-app-watch-duty-adds-600-000-users-overnight) (LA Times)
   * [LA residents find a lifeline in this free wildfire-tracking app](https://www.theverge.com/2025/1/9/24339799/watch-duty-wildfire-tracking-app-la-wildfires) (The Verge)
   * [‘It’s not just alerts, it’s a state of mind’: How a wildfire monitoring app became essential in the US west](https://www.theguardian.com/technology/2025/jan/05/watch-duty-wildfire-app) (The Guardian)
 
@@ -2732,8 +2732,8 @@
   * [Apple to pay $95 million to settle Siri privacy lawsuit](https://www.reuters.com/legal/apple-pay-95-million-settle-siri-privacy-lawsuit-2025-01-02/) (Reuters)
   * [Apple Fitness Plus and Strava are collaborating with a new integration](https://www.theverge.com/2025/1/3/24324466/apple-fitness-plus-strava-integration) (The Verge)
   * [US appeals court blocks Biden administration effort to restore net-neutrality rules](https://www.reuters.com/legal/us-appeals-court-blocks-biden-administration-net-neutrality-rules-2025-01-02/) (Reuters)
-  * [AI-generated phishing scams target corporate executives](https://www.ft.com/content/d60fb4fb-cb85-4df7-b246-ec3d08260e6f) (Financial Times)
-  * [Number of US venture capital firms falls as cash flows to tech’s top investors](https://www.ft.com/content/7a787423-9466-4e55-8c0e-8811cfe44dd3) (Financial Times)
+  * [AI-generated phishing scams target corporate executives](https://www.ft.com/content/d60fb4fb-cb85-4df7-b246-ec3d08260e6f) (FT)
+  * [Number of US venture capital firms falls as cash flows to tech’s top investors](https://www.ft.com/content/7a787423-9466-4e55-8c0e-8811cfe44dd3) (FT)
   * [Asus, Samsung, and MSI announce world’s first 27-inch 4K OLED 240Hz monitors](https://www.theverge.com/2025/1/2/24334049/asus-samsung-msi-27-inch-4k-oled-240hz-monitors) (The Verge)
 
 

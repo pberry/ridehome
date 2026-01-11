@@ -45,7 +45,7 @@ title: Weekend Longreads 2021
   * [Can a Digital Reality Be Jacked Directly Into Your Brain?](https://www.wired.com/story/brain-computer-interfaces-digital-reality/) (Wired)
   * [Metaverse Real Estate Piles Up Record Sales in Sandbox and Other Virtual Realms](https://www.wsj.com/articles/metaverse-real-estate-piles-up-record-sales-in-sandbox-and-other-virtual-realms-11638268380?mod=e2tw) (WSJ)
   * [World’s first living robots can now reproduce, scientists say](https://www.cnn.com/2021/11/29/americas/xenobots-self-replicating-robots-scn/index.html) (CNN)
-  * [Planetary scientists are starting to get stirred up by Starship’s potential](https://arstechnica.com/science/2021/12/planetary-scientists-are-starting-to-get-stirred-up-by-starships-potential/) (ArsTechnica)
+  * [Planetary scientists are starting to get stirred up by Starship’s potential](https://arstechnica.com/science/2021/12/planetary-scientists-are-starting-to-get-stirred-up-by-starships-potential/) (Ars Technica)
   * [‘Oregon Trail’ at 50: How Three Teachers Created the Computer Game That Inspired — and Diverted — Generations of Students](https://www.the74million.org/article/oregon-trail-at-50-how-three-teachers-created-the-computer-game-that-inspired-and-diverted-generations-of-students/) (the74million.org)
   * [Why the Beatles’ ‘Get Back’ May Stand as the Best Rock Doc Ever](https://variety.com/2021/music/opinion/get-back-beatles-essential-rock-documentary-peter-jackson-1235120784/) (Column)
 
@@ -86,8 +86,8 @@ title: Weekend Longreads 2021
   * [MARK ZUCKERBERG ON WHY FACEBOOK IS REBRANDING TO META](https://www.theverge.com/22749919/mark-zuckerberg-facebook-meta-company-rebrand) (The Verge)
   * [What the metaverse will (and won’t) be, according to 28 experts](https://www.fastcompany.com/90678442/what-is-the-metaverse) (Fast Company)
   * [Why Apple’s Privacy Changes Hurt Snap and Facebook but Benefited Google](https://www.wsj.com/articles/why-apples-privacy-changes-hurt-snap-and-facebook-but-benefitted-google-11635375190?mod=djemalertNEWS) (WSJ)
-  * [Why Your Group Chat Could Be Worth Millions](https://nymag.com/intelligencer/2021/10/whats-a-dao-why-your-group-chat-could-be-worth-millions.html) (Intelligencer/NYMag)
-  * [Life in the FAST Lane: Free Streaming, Big Money](https://www.vulture.com/newsletter/2021/10/buffering-october-28-2021.html) (Vulture/NYMag)
+  * [Why Your Group Chat Could Be Worth Millions](https://nymag.com/intelligencer/2021/10/whats-a-dao-why-your-group-chat-could-be-worth-millions.html) (Intelligencer)
+  * [Life in the FAST Lane: Free Streaming, Big Money](https://www.vulture.com/newsletter/2021/10/buffering-october-28-2021.html) (Vulture)
   * [A Very Big Little Country](https://www.afar.com/magazine/westarctica-antarctica-a-micronation-with-a-mission?src=longreads) (Afar)
 
 
@@ -179,7 +179,7 @@ title: Weekend Longreads 2021
   * [Turns Out The Hardest Part of Making a Game Is...Everything](https://www.ign.com/articles/turns-out-hardest-part-making-game-everything) (IGN)
   * [Cryptocurrency Companies Are Leaving China in ‘Great Mining Migration’](https://www.wsj.com/articles/cryptocurrency-companies-are-leaving-china-in-great-mining-migration-11629624602?mod=djemalertNEWS) (WSJ)
   * [El Salvador Gets Ready for a Risky Bitcoin Experiment](https://www.wsj.com/articles/el-salvador-gets-ready-for-a-risky-bitcoin-experiment-11629966845?mod=djemalertNEWS) (WSJ)
-  * [A decade and a half of instability: The history of Google messaging apps](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/) (ArsTechnica)
+  * [A decade and a half of instability: The history of Google messaging apps](https://arstechnica.com/gadgets/2021/08/a-decade-and-a-half-of-instability-the-history-of-google-messaging-apps/) (Ars Technica)
   * [The Real C.E.O. of “Succession”](https://www.newyorker.com/magazine/2021/08/30/the-real-ceo-of-succession) (The New Yorker)
 
 
@@ -229,7 +229,7 @@ title: Weekend Longreads 2021
   * [What Ever Happened to IBM’s Watson?](https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html) (NYTimes)
   * [Startup Claims Breakthrough in Long-Duration Batteries](https://www.wsj.com/articles/startup-claims-breakthrough-in-long-duration-batteries-11626946330) (WSJ)
   * [The Novel Material That’s Shrinking Phone Chargers, Powering Up Electric Cars, and Making 5G Possible](https://www.wsj.com/articles/the-novel-material-thats-shrinking-phone-chargers-powering-up-electric-cars-and-making-5g-possible-11626494445?mod=djemalertNEWS) (WSJ)
-  * [Robotaxis: have Google and Amazon backed the wrong technology?](https://www.ft.com/content/46ff4fe4-0ae6-4f68-902c-3fd14d294d72) (Financial Times)
+  * [Robotaxis: have Google and Amazon backed the wrong technology?](https://www.ft.com/content/46ff4fe4-0ae6-4f68-902c-3fd14d294d72) (FT)
 
 
 
@@ -244,19 +244,19 @@ title: Weekend Longreads 2021
 
 **Thursday, July 08 2021**
 
-  * [Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump](https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html) (New York Times)
+  * [Mark Zuckerberg and Sheryl Sandberg’s Partnership Did Not Survive Trump](https://www.nytimes.com/2021/07/08/business/mark-zuckerberg-sheryl-sandberg-facebook.html) (NYTimes)
   * [The U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here.](https://www.washingtonpost.com/technology/2021/07/07/ai-weapons-us-military/) (Washington Post)
   * [GitHub Copilot is not infringing your copyright](https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/) (Julia Reda)
-  * [Ireland’s Days as a Tax Haven May Be Ending, but Not Without a Fight](https://www.nytimes.com/2021/07/08/business/ireland-minimum-corporate-tax.html) (New York Times)
+  * [Ireland’s Days as a Tax Haven May Be Ending, but Not Without a Fight](https://www.nytimes.com/2021/07/08/business/ireland-minimum-corporate-tax.html) (NYTimes)
 
 
 
 **Friday, July 02 2021**
 
   * [Three Weeks with iOS and iPadOS 15: Foundational Updates](https://www.macstories.net/stories/three-weeks-with-ios-and-ipados-15-foundational-updates/) (Mac Stories)
-  * [Amazon Primed Andy Jassy to Be CEO. Can He Keep What Jeff Bezos Built?](https://www.wsj.com/articles/amazon-primed-andy-jassy-to-be-ceo-can-he-keep-what-jeff-bezos-built-11625218225?mod=djemalertNEWS) (Wall Street Journal)
+  * [Amazon Primed Andy Jassy to Be CEO. Can He Keep What Jeff Bezos Built?](https://www.wsj.com/articles/amazon-primed-andy-jassy-to-be-ceo-can-he-keep-what-jeff-bezos-built-11625218225?mod=djemalertNEWS) (WSJ)
   * [ROBBING THE XBOX VAULT: INSIDE A $10 MILLION GIFT CARD CHEAT](https://www.bloomberg.com/features/2021-microsoft-xbox-gift-card-fraud/) (Bloomberg)
-  * [‘Time and space don’t exist in the spirit world’: How psychics are embracing remote work](https://www.latimes.com/business/technology/story/2021-07-01/psychics-tarot-tiktok-cameo-clubhouse-creators) (Los Angeles Times)
+  * [‘Time and space don’t exist in the spirit world’: How psychics are embracing remote work](https://www.latimes.com/business/technology/story/2021-07-01/psychics-tarot-tiktok-cameo-clubhouse-creators) (LA Times)
   * [The Tin Man Gets His Heart: An Oral History of ‘Terminator 2: Judgment Day’](https://www.theringer.com/movies/2021/6/30/22555687/terminator-2-judgement-day-t2-oral-historyhttps://www.theringer.com/movies/2021/6/30/22555687/terminator-2-judgement-day-t2-oral-history) (The Ringer)
 
 
@@ -298,7 +298,7 @@ title: Weekend Longreads 2021
   * [How to Negotiate with Ransomware Hackers](https://www.newyorker.com/magazine/2021/06/07/how-to-negotiate-with-ransomware-hackers) (The New Yorker)
   * [Inside The ‘World’s Largest’ Video Game Cheating Empire](https://www.vice.com/en/article/93ywj3/inside-the-worlds-largest-video-game-cheating-empire) (Motherboard)
   * [The NFT Market Has Collapsed, Oh No](https://kotaku.com/the-nft-market-has-collapsed-oh-no-1847021181?scrolla=5eb6d68b7fedc32c19ef33b4) (Kotaku)
-  * [Armed Low-Cost Drones, Made by Turkey, Reshape Battlefields and Geopolitics](https://www.wsj.com/articles/armed-low-cost-drones-made-by-turkey-reshape-battlefields-and-geopolitics-11622727370) (Wall Street Journal)
+  * [Armed Low-Cost Drones, Made by Turkey, Reshape Battlefields and Geopolitics](https://www.wsj.com/articles/armed-low-cost-drones-made-by-turkey-reshape-battlefields-and-geopolitics-11622727370) (WSJ)
   * [Developer relations](https://marco.org/2021/06/03/developer-relations) (Marco Arment)
   * [Apple WWDC 2021: iOS 15, new MacBook Pros, and what else to expect](https://www.theverge.com/22457534/apple-wwdc-2021-rumors-ios-15-new-macbook-pro-what-to-expect?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
@@ -308,8 +308,8 @@ title: Weekend Longreads 2021
 
   * ['FIND THIS FUCK:' Inside Citizen’s Dangerous Effort to Cash In On Vigilantism](https://www.vice.com/en/article/y3dpyw/inside-crime-app-citizen-vigilante) (Vice)
   * [Own the Internet](https://www.notboring.co/p/own-the-internet) (Not Boring)
-  * [A New Crop in Pennsylvania: Warehouses](https://www.nytimes.com/2021/05/26/business/lehigh-valley-warehouses-ecommerce.html) (New York Times)
-  * [The Mystery of Magic’s Greatest Card Trick](https://www.nytimes.com/2021/05/23/style/berglas-effect-card-trick.html) (New York Times)
+  * [A New Crop in Pennsylvania: Warehouses](https://www.nytimes.com/2021/05/26/business/lehigh-valley-warehouses-ecommerce.html) (NYTimes)
+  * [The Mystery of Magic’s Greatest Card Trick](https://www.nytimes.com/2021/05/23/style/berglas-effect-card-trick.html) (NYTimes)
 
 
 
@@ -325,7 +325,7 @@ title: Weekend Longreads 2021
 
 **Friday, May 14 2021**
 
-  * [To Understand Amazon, We Must Understand Jeff Bezos](https://www.nytimes.com/2021/05/13/books/review/amazon-unbound-brad-stone.html) (New York Times)
+  * [To Understand Amazon, We Must Understand Jeff Bezos](https://www.nytimes.com/2021/05/13/books/review/amazon-unbound-brad-stone.html) (NYTimes)
   * [The PlayStation 5 Is Starting to Look Like the Revolution It Promised](https://www.wired.com/story/playstation-5-six-months-later/) (Wired)
   * [Apple is Holding Back the Creator Economy](https://every.to/means-of-creation/apple-is-holding-back-the-creator-economy) (Every)
   * [Robinhood’s Big Gamble](https://www.newyorker.com/magazine/2021/05/17/robinhoods-big-gamble?currentPage=all) (The New Yorker)
@@ -358,11 +358,11 @@ title: Weekend Longreads 2021
 
 **Friday, April 23 2021**
 
-  * [Netflix, Disney and Amazon’s Streaming Wars Heat Up Overseas](https://www.wsj.com/articles/netflix-disney-and-amazons-streaming-wars-heat-up-overseas-11619083801?mod=djemalertNEWS) (Wall Street Journal)
+  * [Netflix, Disney and Amazon’s Streaming Wars Heat Up Overseas](https://www.wsj.com/articles/netflix-disney-and-amazons-streaming-wars-heat-up-overseas-11619083801?mod=djemalertNEWS) (WSJ)
   * [The pandemic nearly crushed pet-care startup Rover](https://www.businessinsider.com/rover-pet-care-company-spac-2021-4) (Business Insider)
-  * [Meet Virtual Reality, Your New Physical Therapist](https://www.nytimes.com/2021/04/21/health/virtual-reality-therapy.html?partner=slack&smid=sl-share) (New York Times)
+  * [Meet Virtual Reality, Your New Physical Therapist](https://www.nytimes.com/2021/04/21/health/virtual-reality-therapy.html?partner=slack&smid=sl-share) (NYTimes)
   * [TMSC's expansion challenge told in 10 timely charts](https://www.bloomberg.com/opinion/articles/2021-04-19/tsmc-s-30-billion-chip-leadership-challenge-explained-in-10-timely-charts?sref=Szq5ylDR) (Bloomberg)
-  * [Why the Chip Shortage Is So Hard to Overcome](https://www.wsj.com/articles/why-the-chip-shortage-is-so-hard-to-overcome-11618844905?mod=djemalertNEWS) (Wall Street Journal)
+  * [Why the Chip Shortage Is So Hard to Overcome](https://www.wsj.com/articles/why-the-chip-shortage-is-so-hard-to-overcome-11618844905?mod=djemalertNEWS) (WSJ)
   * [Designed by Apple in California, Not Assembled in China](https://www.aboveavalon.com/notes/2021/4/15/designed-by-apple-in-california-not-assembled-in-china) (Above Avalon)
   * [15 Years of Spotify: How the Streaming Giant Has Changed and Reinvented the Music Industry](https://variety.com/2021/music/news/spotify-turns-15-how-the-streaming-giant-has-changed-and-reinvented-the-music-industry-1234948299/) (Variety)
 
@@ -373,7 +373,7 @@ title: Weekend Longreads 2021
   * [Dogecoin: The meme that somehow became a real cryptocurrency](https://www.cnet.com/news/dogecoin-the-meme-that-somehow-became-a-real-cryptocurrency/) (Cnet)
   * [They were ancient internet memes. Now NFTs are making them rich](https://www.wired.co.uk/article/nft-memes-2010s) (Wired)
   * [Why did Microsoft spend $19.7 billion to purchase Nuance? The answer may lie beyond health care.](https://www.protocol.com/enterprise/microsoft-nuance-aws-google-ai) (Protocol)
-  * [A Little-Known Upstart Might Just Beat Google to Autonomous Driving](https://www.bloomberg.com/news/articles/2021-04-15/aurora-s-autonomous-car-plan-to-catch-up-to-waymo-trucks-and-ubers?sref=sZAFdZwV) (Bloomberg Business Week)
+  * [A Little-Known Upstart Might Just Beat Google to Autonomous Driving](https://www.bloomberg.com/news/articles/2021-04-15/aurora-s-autonomous-car-plan-to-catch-up-to-waymo-trucks-and-ubers?sref=sZAFdZwV) (Bloomberg Businessweek)
   * [Hip-Hop Loves Cash App, and That Might Be Why Jack Dorsey Bought Tidal](https://www.gq.com/story/cash-app-and-hip-hop-jack-dorsey-square-tidal-jay-z-guapdad-4000-amine-jim-jones) (GQ)
   * [Why a Chinese invasion of Taiwan would be a catastrophe for China and the world](https://doxa.substack.com/p/why-a-chinese-invasion-of-taiwan) (Doxa)
   * [Strong Bad ... thank you: The Flash icon endures as the internet rapidly changes](https://www.polygon.com/animation-cartoons/22371710/strong-bad-email-homestar-runner) (Polygon)
@@ -409,7 +409,7 @@ title: Weekend Longreads 2021
   * [The fuss about BitClout](https://www.axios.com/bitclout-bitcoin-blockchain-twitter-c83672b9-921f-429c-9922-f1129db0b0ca.html?utm_campaign=organic&utm_medium=socialshare&utm_source=twitter) (Axios)
   * [Crypto social network BitClout arrives with a bevy of high-profile investors — and skeptics](https://techcrunch.com/2021/03/22/crypto-social-network-bitclout-arrives-with-a-bevy-of-high-profile-investors-and-skeptics/) (TechCrunch)
   * [Analysis: Money no object as governments race to build chip arsenals](https://www.reuters.com/article/us-usa-semiconductors-subsidies-idUSKBN2BI1CY) (Reuters)
-  * [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/) (ArsTechnica)
+  * [Buffer overruns, license violations, and bad code: FreeBSD 13’s close call](https://arstechnica.com/gadgets/2021/03/buffer-overruns-license-violations-and-bad-code-freebsd-13s-close-call/) (Ars Technica)
   * [VC Firms Have Long Backed AI. Now, They Are Using It.](https://www.wsj.com/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000?mod=djemalertNEWS) (WSJ)
   * [The Hard Truth About Bitcoin's Energy Consumption](https://decrypt.co/62402/truth-about-bitcoins-energy-consumption-carbon-footprint) (Decrypt)
   * [Mac OS X Turns 20: A Look Back at the Operating System That Helped Save Apple](https://www.pcmag.com/news/mac-os-x-turns-20-a-look-back-at-the-operating-system-that-helped-saved) (PCMag)
@@ -462,7 +462,7 @@ title: Weekend Longreads 2021
 
   * [The Bizarre Reaction To Facebook's Decision To Get Out Of The News Business In Australia](https://www.techdirt.com/articles/20210217/22383446265/bizarre-reaction-to-facebooks-decision-to-get-out-news-business-australia.shtml?s=09) (TechDirt)
   * [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171) (Noam Bardin)
-  * [Why the three biggest vaccine makers failed on Covid-19](https://www.ft.com/content/657b123a-78ba-4fba-b18e-23c07e313331) (Financial Times)
+  * [Why the three biggest vaccine makers failed on Covid-19](https://www.ft.com/content/657b123a-78ba-4fba-b18e-23c07e313331) (FT)
   * [Citibank just got a $500 million lesson in the importance of UI design](https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/) (Ars Technica)
   * [All Your Base Are Belong To Us has turned 20](https://www.theverge.com/2021/2/17/22287208/all-your-base-are-belong-to-us-20th-anniversary-internet-culture) (The Verge)
   * [What Peter Jackson’s original two-movie Lord of the Rings almost looked like](https://www.polygon.com/lord-of-the-rings/22283921/peter-jackson-movies-lotr-alternate-versions-weinstein) (Polygon)
@@ -475,7 +475,7 @@ title: Weekend Longreads 2021
   * [20 years of orange cones: The history of VLC](https://www.protocol.com/vlc-history-open-source) (Protocol)
   * [N.Y.’s Vaccine Websites Weren’t Working. He Built a New One for $50.](https://www.nytimes.com/2021/02/09/nyregion/vaccine-website-appointment-nyc.html) (NYTimes)
   * [Cadillac Super Cruise Review: Better Than Tesla’s Autopilot](https://www.motortrend.com/cars/cadillac/escalade/2021/cadillac-super-cruise-is-as-good-or-better-than-tesla-autopilot/) (MotorTrend)
-  * [Chip Shortage Spirals Beyond Cars to Phones and Consoles](https://www.bloombergquint.com/global-economics/chip-shortage-spirals-beyond-cars-to-phones-and-game-consoles) (Bloomberg | Quint)
+  * [Chip Shortage Spirals Beyond Cars to Phones and Consoles](https://www.bloombergquint.com/global-economics/chip-shortage-spirals-beyond-cars-to-phones-and-game-consoles) (Bloomberg)
   * [HOW SONY DESIGNED THE PS5’S ULTIMATE EASTER EGG](https://www.theverge.com/circuitbreaker/2021/2/7/22269634/how-sony-designed-ps5-dualsense-playstation-symbol-microtexture) (The Verge)
   * [Who Really Created the Marvel Universe?](https://www.newyorker.com/magazine/2021/02/15/who-really-created-the-marvel-universe) (The New Yorker)
 
@@ -496,7 +496,7 @@ title: Weekend Longreads 2021
   * [Inside the Reddit army that's crushing Wall Street](https://www.cnn.com/2021/01/29/investing/wallstreetbets-reddit-culture/index.html) (CNN Business)
   * [The Big Short SQUEEZE from $5 to $50? Could GameStop stock (GME) explode higher?? Value investing!](https://www.youtube.com/watch?v=alntJzg0Um4) (Roaring Kitty)
   * [How a Penny Stock Explodes From Obscurity to 451% Gains Via Chat Forums](https://www.bloomberg.com/news/articles/2021-01-26/-get-in-or-regret-not-getting-in-how-a-penny-stock-goes-boom?sref=sZAFdZwV) (Bloomberg)
-  * [Think Americans Wouldn’t Wager on Russian Table Tennis? Care to Bet?](https://www.nytimes.com/2021/01/25/sports/ping-pong-sports-betting.html) (NyTimes)
+  * [Think Americans Wouldn’t Wager on Russian Table Tennis? Care to Bet?](https://www.nytimes.com/2021/01/25/sports/ping-pong-sports-betting.html) (NYTimes)
   * [CashApp Is King](https://aika.substack.com/p/cashapp-is-king) (Aika's Newsletter)
   * [Can Growth Go Out of Style?](https://theirrelevantinvestor.com/2021/01/22/can-growth-go-out-of-style/) (Irrelevant Investor)
   * [YouTube’s Spammy Sex Bots Make a Ton of Money](https://onezero.medium.com/youtubes-spammy-sex-bots-make-a-ton-of-money-2743bf6e8c19) (OneZero)

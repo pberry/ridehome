@@ -1,5 +1,4 @@
 ---
-layout: category
 title: Gaming
 ---
 
@@ -26,7 +25,7 @@ title: Gaming
 - [Xbox’s Prized Sci-Fi Franchise Is Heading to PlayStation](https://www.nytimes.com/2025/10/24/arts/halo-playstation-microsoft-xbox.html) (NYTimes)
 - [Steam just broke its concurrent user record with 41.6 million gamers](https://www.tweaktown.com/news/108287/steam-just-broke-its-concurrent-user-record-with-41-6-million-gamers/index.html) (TweakTown)
 - [Nintendo Aims to Make 25 Million Switch 2s to Set Gaming History](https://www.bloomberg.com/news/articles/2025-10-17/nintendo-switch-2-production-plan-25-million-units-by-march-2026) (Bloomberg)
-- [Battlefield 6 is a pivotal moment for the series — and EA](https://www.theverge.com/games/795232/ea-battlefield-6-hit-launch-deal)
+- [Battlefield 6 is a pivotal moment for the series — and EA](https://www.theverge.com/games/795232/ea-battlefield-6-hit-launch-deal) (The Verge)
 
 ### September
 
@@ -89,7 +88,7 @@ title: Gaming
 - [Three years later, the Steam Deck has dominated handheld PC gaming](https://www.theverge.com/pc-gaming/618709/steam-deck-3-year-anniversary-handheld-gaming-shipments-idc) (The Verge)
 - [‘Pokémon Go’ Maker Nears $3.5 Billion Deal to Sell Games Unit](https://www.bloomberg.com/news/articles/2025-02-19/-pokemon-go-maker-nears-3-5-billion-deal-to-sell-games-unit?sref=Szq5ylDR) (Bloomberg)
 - [How is Fortnite's Attempt to Become the YouTube of Gaming Going?](https://postingnexus.substack.com/p/how-is-fortnites-attempt-to-become)
-- [The Sims Turned Players Into Gods. And Farmers. And Vampires. And Landlords.](https://www.nytimes.com/2025/02/04/arts/the-sims-25th-anniversary-will-wright.html?partner=slack&smid=sl-share)
+- [The Sims Turned Players Into Gods. And Farmers. And Vampires. And Landlords.](https://www.nytimes.com/2025/02/04/arts/the-sims-25th-anniversary-will-wright.html?partner=slack&smid=sl-share) (NYTimes)
 
 ### January
 
@@ -103,7 +102,7 @@ title: Gaming
 ### December
 
 - [‘Grand Theft Auto VI’ set to break records despite gaming slowdown](https://www.ft.com/content/1413cdb1-aee9-422f-8b78-15aa0bf40dca) (FT)
-- [Video Games Can’t Afford to Look This Good](https://www.nytimes.com/2024/12/26/arts/video-games-graphics-budgets.html?unlocked_article_code=1.kU4.kZgi.GhLcvDdLUkB1)
+- [Video Games Can’t Afford to Look This Good](https://www.nytimes.com/2024/12/26/arts/video-games-graphics-budgets.html?unlocked_article_code=1.kU4.kZgi.GhLcvDdLUkB1) (NYTimes)
 - [PS5 Pro deep dive reaction: GPU and RT improvements, PSSR and Sony's new AMD Amethyst partnership](https://www.eurogamer.net/digitalfoundry-2024-ps5-pro-deep-dive) (EuroGamer)
 - [Apple, Sony Discuss Teaming Up on Gaming Controllers for Vision Pro](https://www.bloomberg.com/news/newsletters/2024-12-08/apple-sony-talk-playstation-vr-ps-vr2-hand-controller-support-for-vision-pro?sref=Szq5ylDR) (Blooomberg)
 - [Ubisoft shutting down XDefiant in 2025, laying off half of its team](https://www.polygon.com/gaming/490491/ubsioft-xdefiant-shutting-down) (Polygon)
@@ -115,7 +114,7 @@ title: Gaming
 - [Exclusive: Sony is in talks to buy media powerhouse behind 'Elden Ring'](https://www.reuters.com/markets/deals/sony-talks-buy-media-powerhouse-behind-elden-ring-sources-say-2024-11-19/) (Reuters)
 - [Words With Friends takes on Wordle with new single-player daily puzzles](https://www.theverge.com/2024/11/14/24295846/words-with-friends-single-player-daily-puzzles-wordle?utm_content=buffer10936&utm_medium=social&utm_source=bufferapp.com&utm_campaign=buffer) (The Verge)
 - [Apple Finally Finds Its Gaming Console With the New Mac Mini](https://www.bloomberg.com/news/newsletters/2024-11-03/apple-finally-finds-its-game-console-rival-with-the-new-m4-and-m4-pro-mac-minis-m31na57p?sref=Szq5ylDR) (Bloomberg)
-- [After Era of Bloat, Veteran Video-Game Developers Are Going Smaller](https://www.bloomberg.com/news/articles/2024-10-30/after-era-of-bloat-veteran-video-game-developers-are-going-smaller?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczMDI5Mzg1NCwiZXhwIjoxNzMwODk4NjU0LCJhcnRpY2xlSWQiOiJTTTY2U0lEV1JHRzAwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.7EsoDulKRWQ_my3FkAj5uCQn7KwoxAghs5qa4JI4V1k&sref=Szq5ylDR)
+- [After Era of Bloat, Veteran Video-Game Developers Are Going Smaller](https://www.bloomberg.com/news/articles/2024-10-30/after-era-of-bloat-veteran-video-game-developers-are-going-smaller?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczMDI5Mzg1NCwiZXhwIjoxNzMwODk4NjU0LCJhcnRpY2xlSWQiOiJTTTY2U0lEV1JHRzAwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.7EsoDulKRWQ_my3FkAj5uCQn7KwoxAghs5qa4JI4V1k&sref=Szq5ylDR) (Bloomberg)
 
 ### October
 
@@ -151,10 +150,10 @@ title: Gaming
 ### June
 
 - [Why are mobile game ads so weird and bad?](https://sherwood.news/business/mobile-game-ads-industry-fake-misleading/)
-- [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
+- [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/) (Ars Technica)
 - [You’ll soon be able to join Discord calls directly from your PS5](https://www.theverge.com/2024/6/13/24177548/discord-ps5-integration-calls-from-console) (The Verge)
 - [Nintendo Switch Update 18.1.0 Pulls X/Twitter Support, Bringing It In-Line With PlayStation and Xbox](https://www.ign.com/articles/nintendo-switch-update-1810-pulls-xtwitter-support-bringing-it-in-line-with-playstation-and-xbox) (IGN)
-- [Behind ‘Suicide Squad,’ the Year’s Biggest Video-Game Flop](https://www.bloomberg.com/news/articles/2024-06-06/-suicide-squad-warner-bros-s-200-million-flop-haunts-the-gaming-industry?sref=Szq5ylDR)
+- [Behind ‘Suicide Squad,’ the Year’s Biggest Video-Game Flop](https://www.bloomberg.com/news/articles/2024-06-06/-suicide-squad-warner-bros-s-200-million-flop-haunts-the-gaming-industry?sref=Szq5ylDR) (Bloomberg)
 - [Ikea Is Hiring Roblox Players To Run Its Virtual Store](https://www.thegamer.com/ikea-hiring-roblox-players-run-virtual-in-game-store/) (The Gamer)
 - [Quest v66 Update "Significantly" Reduces Quest 3 Passthrough Distortion & Warping](https://www.uploadvr.com/quest-v66-update-significantly-reduces-passthrough-distortion/) (UploadVR)
 - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date) (The Verge)
@@ -163,7 +162,7 @@ title: Gaming
 
 - [YouTube’s free games catalog ‘Playables’ rolls out to all users](https://techcrunch.com/2024/05/28/youtubes-free-games-catalog-playables-rolls-out-to-all-users/) (TechCrunch)
 - [Grand Theft Auto VI is launching in fall 2025](https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025) (The Verge)
-- [Tom Warren's PS5 sales Tweet](https://twitter.com/tomwarren/status/1790279052806304013)
+- [Tom Warren's PS5 sales Tweet](https://twitter.com/tomwarren/status/1790279052806304013) (Twitter)
 - [Microsoft Plans Mobile-Game Store, Vying With Apple, Google](https://www.bloomberg.com/news/articles/2024-05-09/microsoft-to-launch-mobile-game-store-vying-with-apple-google?sref=Szq5ylDR) (Bloomberg)
 - [Microsoft’s Xbox Is Planning More Cuts After Studio Closings](https://www.bloomberg.com/news/articles/2024-05-08/xbox-studio-closures-microsoft-plans-more-cost-cutting-measures-after-layoffs?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxNTE5ODUzNywiZXhwIjoxNzE1ODAzMzM3LCJhcnRpY2xlSWQiOiJTRDZOSzZEV1gyUFMwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.Ae8Wc_YmUJla6VHol8aa5AIVOUAmdYTiRnQ2nKph6NY&sref=Szq5ylDR) (Bloomberg)
 - [Microsoft Closes Redfall Developer Arkane Austin, Hi-Fi Rush Developer Tango Gameworks, and More in Devastating Cuts at Bethesda](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda) (IGN)
@@ -171,7 +170,7 @@ title: Gaming
 
 ### April
 
-- [How Neopets’ nostalgic revival tripled users in six months](https://www.theguardian.com/technology/2024/apr/14/neopets-revival-millennial-gaming-nostalgia)
+- [How Neopets’ nostalgic revival tripled users in six months](https://www.theguardian.com/technology/2024/apr/14/neopets-revival-millennial-gaming-nostalgia) (The Guardian)
 - [Survey shows that teenagers are using more VR devices in the US](https://9to5mac.com/2024/04/09/survey-teenagers-using-more-vr-devices/) (9to5Mac)
 
 ### March
@@ -200,15 +199,15 @@ title: Gaming
 - [Palworld is a hit, and it’s easy to see why](https://www.theverge.com/2024/1/22/24047087/palworld-early-access-steam-xbox-gamepass) (The Verge)
 - [SAG-AFTRA Signs Deal With Voiceover Studio for AI Use in Video Games](https://variety.com/2024/biz/news/sag-aftra-ai-voiceover-studio-video-games-1235866313/) (Variety)
 - [Netflix Considers Ways to Make Money From Videogames in Possible Pivot](https://www.wsj.com/business/media/netflix-eyes-ways-to-make-money-from-videogames-in-potential-pivot-705bd3b3?mod=followamazon) (WSJ)
-- [Boy, 13, Is Believed to Be the First to ‘Beat’ Tetris](https://www.nytimes.com/2024/01/03/arts/tetris-beat-blue-scuti.html?partner=slack&smid=sl-share)
-- [Full game of Tetris beaten for the first time by 13-year-old Willis Gibson AKA 'Blue Scuti'](https://www.youtube.com/watch?v=BUYt6Zp8a04)
+- [Boy, 13, Is Believed to Be the First to ‘Beat’ Tetris](https://www.nytimes.com/2024/01/03/arts/tetris-beat-blue-scuti.html?partner=slack&smid=sl-share) (NYTimes)
+- [Full game of Tetris beaten for the first time by 13-year-old Willis Gibson AKA 'Blue Scuti'](https://www.youtube.com/watch?v=BUYt6Zp8a04) (YouTube)
 
 ## 2023
 
 ### December
 
 - [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/) (BleepingComputer)
-- [Puzzle game ‘Royal Match’ dethrones ‘Candy Crush’ from top of app store](https://www.ft.com/content/1bb1ed54-821e-49bf-b12d-353b98fa9912) (Financial Times)
+- [Puzzle game ‘Royal Match’ dethrones ‘Candy Crush’ from top of app store](https://www.ft.com/content/1bb1ed54-821e-49bf-b12d-353b98fa9912) (FT)
 - [PlayStation sales and blockbuster games propel console market back to growth](https://www.ft.com/content/3b89e9f7-e3cf-4e60-bfa4-987af24efa75) (FT)
 - [Game preservationists dig for lost apps in TestFlight ‘teraleak’](https://www.theverge.com/2023/12/18/24006406/testflight-teraleak-game-preservationists) (The Verge)
 - [Xbox Cloud Gaming is now available on Meta’s Quest VR headsets](https://www.theverge.com/2023/12/13/24000134/xbox-cloud-gaming-meta-quest-3-vr-headset) (The Verge)
@@ -232,7 +231,7 @@ title: Gaming
 - [Xbox chief says Activision Blizzard games aren’t coming to Xbox Game Pass until 2024](https://www.theverge.com/2023/10/17/23921422/xbox-game-pass-activision-blizzard-games-2024-phil-spencer) (The Verge)
 - [‘Wait, Netflix Has Games?’ Streaming Giant Plans New Videogames Based on Its Hit Shows](https://www.wsj.com/business/media/netflix-deepens-videogame-push-ripping-page-from-its-hollywood-script-40a8d72c?mod=followamazon) (WSJ)
 - [Minecraft has sold over 300 million copies](https://www.theverge.com/2023/10/15/23916349/minecraft-mojang-sold-300-million-copies-live-2023) (The Verge)
-- [Can EA’s FIFA-Free Soccer Game Win Fans?](https://www.bloomberg.com/features/2023-fc24-ea-sports-fifa/?sref=Szq5ylDR)
+- [Can EA’s FIFA-Free Soccer Game Win Fans?](https://www.bloomberg.com/features/2023-fc24-ea-sports-fifa/?sref=Szq5ylDR) (Bloomberg)
 - [PlayStation 5 cloud streaming launches this month](https://www.videogameschronicle.com/news/playstation-5-cloud-streaming-launches-this-month/) (VGC)
 - [Sony’s new PS5 with a removable disc drive launches in November](https://www.theverge.com/2023/10/10/23831415/new-ps5-model-removable-disc-drive-sony-price-release-date) (The Verge)
 
@@ -277,7 +276,7 @@ title: Gaming
 
 ### May
 
-- [Video of the NPC character demo](https://twitter.com/rowancheung/status/1663531335380508677?s=20)
+- [Video of the NPC character demo](https://twitter.com/rowancheung/status/1663531335380508677?s=20) (Twitter)
 - [Sony’s new Q handheld is official: 8-inch screen, streams PS5 games](https://www.theverge.com/2023/5/24/23736595/sony-project-q-playstation-handheld-official-showcase) (The Verge)
 - [PSVR2’s early sales beat the original, Sony claims](https://www.videogameschronicle.com/news/psvr2s-early-sales-beat-the-original-sony-claims/) (VideoGamesChronicle)
 - [The E-Sports World Is Starting to Teeter](https://www.nytimes.com/2023/05/20/technology/e-sports-revenue-video-gaming.html) (NYTimes)
@@ -294,7 +293,7 @@ title: Gaming
 ### March
 
 - [E3 Has Been Canceled](https://www.ign.com/articles/e3-has-been-canceled) (IGN)
-- [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/)
+- [Epic’s new motion-capture animation tech has to be seen to be believed](https://arstechnica.com/gaming/2023/03/epics-new-motion-capture-animation-tech-has-to-be-seen-to-be-believed/) (Ars Technica)
 - [Ubisoft’s new AI tool automatically generates dialogue for non-playable game characters](https://techcrunch.com/2023/03/22/ubisofts-new-ai-tool-automatically-generates-dialogue-for-non-playable-game-characters/) (TechCrunch)
 - [‘It changed the world’: 50 years on, the story of Pong's Bay Area origins](https://www.sfgate.com/local/article/bay-area-roots-pong-atari-17824939.php?IPID=SFGate-HP-CP-Spotlight?src=longreads)
 - [Microsoft details how it could get Call of Duty: Warzone running on Switch](https://www.theverge.com/2023/3/8/23631112/microsoft-call-of-duty-warzone-nintendo-switch-cma) (The Verge)
@@ -303,8 +302,8 @@ title: Gaming
 ### February
 
 - [Microsoft inks binding contract with Nintendo for ‘Call of Duty’ as it defends Activision deal](https://www.geekwire.com/2023/microsoft-inks-binding-10-year-contract-with-nintendo-for-call-of-duty-as-it-defends-activision-deal/) (GeekWire)
-- [Almost-unbeatable AI comes to Gran Turismo 7](https://arstechnica.com/gaming/2023/02/almost-unbeatable-ai-comes-to-gran-turismo-7/) (ArsTechnica)
-- [PlayStation VR2 is exciting, exhausting and a new standard for VR](https://www.washingtonpost.com/video-games/reviews/psvr2-review-playstation/)
+- [Almost-unbeatable AI comes to Gran Turismo 7](https://arstechnica.com/gaming/2023/02/almost-unbeatable-ai-comes-to-gran-turismo-7/) (Ars Technica)
+- [PlayStation VR2 is exciting, exhausting and a new standard for VR](https://www.washingtonpost.com/video-games/reviews/psvr2-review-playstation/) (Washington Post)
 - [Nintendo’s Zelda Price Hike Opens Door for More Expensive Games](https://www.bloomberg.com/news/articles/2023-02-09/nintendo-s-zelda-price-hike-opens-door-for-more-expensive-games?sref=Szq5ylDR) (Bloomberg)
 - [Google Stadia had less than 10% market share among cloud gaming services](https://9to5google.com/2023/02/08/google-stadia-market-share-cloud-gaming/) (9to5Google)
 - [Discord arrives on PS5 for beta testers today](https://www.theverge.com/2023/2/2/23582581/ps5-discord-voice-chat-support-beta) (The Verge)
@@ -312,8 +311,8 @@ title: Gaming
 ### January
 
 - [Exclusive: Xbox, Nintendo, and Sony Won't Be Part of E3 2023](https://www.ign.com/articles/xbox-nintendo-sony-skipping-e3-2023) (IGN)
-- [The Steam Deck wasn’t born ready, but it’s ready now](https://www.theverge.com/23513517/steam-deck-long-term-test-valve?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)
-- [Dungeons & Dragons content creators are fighting to protect their livelihoods](https://techcrunch.com/2023/01/12/dungeons-and-dragons-ogl-wizards-of-the-coast/)
+- [The Steam Deck wasn’t born ready, but it’s ready now](https://www.theverge.com/23513517/steam-deck-long-term-test-valve?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
+- [Dungeons & Dragons content creators are fighting to protect their livelihoods](https://techcrunch.com/2023/01/12/dungeons-and-dragons-ogl-wizards-of-the-coast/) (TechCrunch)
 - [Steam hits 10 million concurrent in-game players in record-breaking weekend](https://www.theverge.com/2023/1/9/23546139/steam-10-million-concurrent-players-record-breaking-valve-gaming) (The Verge)
 - [Nvidia upgrades GeForce Now with RTX 4080 performance for premium users](https://techcrunch.com/2023/01/03/nvidia-upgrades-geforce-now-with-rtx-4080-performance-for-premium-users/) (TechCrunch)
 
@@ -323,7 +322,7 @@ title: Gaming
 
 - [Mobile games market to decline for first time in over a decade](https://www.ft.com/content/395ebc6d-4b0c-4e66-903d-5b64a95649a3) (FT)
 - [Tesla’s latest update adds Steam games and Apple Music](https://www.theverge.com/2022/12/13/23508269/tesla-holiday-update-steam-apple-music-support-light-show-mode) (The Verge)
-- [The Hype Around Esports Is Fading as Investors and Sponsors Dry Up](https://www.bloomberg.com/news/articles/2022-12-08/the-hype-around-esports-is-fading-as-investors-and-sponsors-flee?sref=Szq5ylDR)
+- [The Hype Around Esports Is Fading as Investors and Sponsors Dry Up](https://www.bloomberg.com/news/articles/2022-12-08/the-hype-around-esports-is-fading-as-investors-and-sponsors-flee?sref=Szq5ylDR) (Bloomberg)
 - [Microsoft says it will bring Call of Duty to Nintendo](https://www.washingtonpost.com/video-games/2022/12/06/call-duty-nintendo-microsoft-sony-xbox/) (Washington Post)
 - [Microsoft Raising Prices on New, First-Party Games Built for Xbox Series X|S to $70 in 2023](https://www.ign.com/articles/microsoft-raising-prices-new-first-party-games-xbox-series-70-2023-redfall-starfield) (IGN)
 
@@ -335,8 +334,8 @@ title: Gaming
 
 ### October
 
-- [Smartphone Storage Space Is the New Turf War for Game Makers](https://www.bloomberg.com/news/articles/2022-10-25/smartphone-storage-space-is-the-new-turf-war-for-game-makers?sref=Szq5ylDR)
-- [How Gamers Beat NFTs](https://www.bloomberg.com/news/features/2022-10-17/how-gamers-beat-nfts?sref=Szq5ylDR)
+- [Smartphone Storage Space Is the New Turf War for Game Makers](https://www.bloomberg.com/news/articles/2022-10-25/smartphone-storage-space-is-the-new-turf-war-for-game-makers?sref=Szq5ylDR) (Bloomberg)
+- [How Gamers Beat NFTs](https://www.bloomberg.com/news/features/2022-10-17/how-gamers-beat-nfts?sref=Szq5ylDR) (Bloomberg)
 - [I Tried the $1,500 Quest Pro and Saw the Best of the Metaverse](https://www.nytimes.com/2022/10/19/technology/personaltech/quest-pro-review-metaverse.html) (NYTimes)
 - [Meta Avatar Legs Demo ‘Created By Motion Capture’, Not Live VR](https://uploadvr.com/meta-avatar-legs-connect/) (UploadVR)
 - [Facebook's Legs Video Was A Lie](https://kotaku.com/zuckerberg-facebook-meta-legs-feet-video-vr-staged-fake-1849656315?scrolla=5eb6d68b7fedc32c19ef33b4) (Kotaku)
@@ -354,7 +353,7 @@ title: Gaming
 - [2K Games says hacked help desk targeted players with malware](https://www.bleepingcomputer.com/news/security/2k-games-says-hacked-help-desk-targeted-players-with-malware/) (BleepingComputer)
 - [Rockstar comments on GTA 6 leak and claims project won’t be delayed](https://www.videogameschronicle.com/news/rockstar-comments-on-gta-6-leak-and-claims-project-wont-be-delayed/) (VideoGameChronicle)
 - [GTA 6 gameplay leaks online in 90 videos](https://www.theverge.com/2022/9/18/23359156/gta-6-leak-gameplay-footage-90-videos?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
-- [The Collectors Who Save Video-Game History from Oblivion](https://www.newyorker.com/tech/annals-of-technology/the-collectors-who-save-video-game-history-from-oblivion)
+- [The Collectors Who Save Video-Game History from Oblivion](https://www.newyorker.com/tech/annals-of-technology/the-collectors-who-save-video-game-history-from-oblivion) (The New Yorker)
 - [EA will debut new anti-cheat tech with 'FIFA 23' on PC](https://www.engadget.com/ea-anti-cheat-tech-fifa-23-pc-kernel-191136885.html) (Engadget)
 - [We finally got our hands and eyes on the PlayStation VR2](https://www.theverge.com/2022/9/14/23351946/playstation-vr-psvr-2-hands-on-impressions-horizon-call-of-the-mountain-sony?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Splatoon 3 has smashed Switch launch records in Japan](https://www.videogameschronicle.com/news/splatoon-3-has-smashed-switch-launch-records-in-japan/) (VideoGamesChronicle)
@@ -375,7 +374,7 @@ title: Gaming
 
 ### June
 
-- [HOW ONE OF GAMING’S MOST INTIMIDATING GENRES SPAWNED A LEGION OF HITS](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)
+- [HOW ONE OF GAMING’S MOST INTIMIDATING GENRES SPAWNED A LEGION OF HITS](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter) (The Verge)
 - [Sony targets PC gamers with new hardware brand, Inzone](https://www.washingtonpost.com/video-games/2022/06/28/sony-inzone-pc-monitor-headset/) (Washington Post)
 - [How Townscaper Works: A Story Four Games in the Making](https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making)
 - [Microsoft’s new Xbox TV app streams games without a console later this month](https://www.theverge.com/2022/6/9/23159460/microsoft-xbox-tv-app-samsung-2022-tv-xbox-cloud-gaming-streaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -397,7 +396,7 @@ title: Gaming
 - [In latest gaming crackdown, China bans livestreaming of unauthorised titles](https://www.reuters.com/world/china/chinas-broadcasting-regulator-ban-livestreaming-games-without-approval-2022-04-15/) (Reuters)
 - [Meta: 124 Quest Apps Have Earned More Than $1M, 8 Have Earned More Than $20M](https://www.roadtovr.com/oculus-quest-store-revenue-stats-data-apps-earning-1-million-meta-gdc/) (RoadToVR)
 - [China Ends Game Freeze by Approving First Titles Since July](https://www.bloomberg.com/news/articles/2022-04-11/china-ends-game-freeze-by-handing-out-first-licenses-since-july?sref=Szq5ylDR) (Bloomberg)
-- [The Metaverse Has Bosses Too. Meet the ‘Managers’ of Axie Infinity](https://www.vice.com/en/article/88g3ag/the-metaverse-has-bosses-too-meet-the-managers-of-axie-infinity)
+- [The Metaverse Has Bosses Too. Meet the ‘Managers’ of Axie Infinity](https://www.vice.com/en/article/88g3ag/the-metaverse-has-bosses-too-meet-the-managers-of-axie-infinity) (Vice)
 - [Lego and Epic Games partnership aims for a kid-friendly metaverse](https://www.washingtonpost.com/video-games/2022/04/07/lego-epic-metaverse-fortnite/) (Washington Post)
 - [Inside Epic's Unreal Engine 5—and What It Means for the Future of Gaming, Movies, and the Metaverse](https://time.com/6164332/epic-unreal-engine-5-launch/) (Time)
 - [How Epic Games is changing gaming—and maybe the metaverse](https://www.fastcompany.com/90736343/how-epic-games-is-changing-gaming-and-maybe-the-metaverse) (Fast Company)
@@ -409,7 +408,7 @@ title: Gaming
 
 - [Sony merges PS Now and PS Plus to create three-tier subscription service](https://www.gamesindustry.biz/articles/2022-03-29-sony-merges-ps-now-and-ps-plus-to-create-three-tier-subscription-service) (GamesIndustry.biz)
 - [Sony announces new PlayStation Plus subscriptions, its answer to Xbox Game Pass](https://www.theverge.com/2022/3/29/23001164/sony-playstation-plus-subscriptions-price-release-date) (The Verge)
-- [Beating Japan at Its Own (Video) Game: A Smash Hit From China](https://www.nytimes.com/2022/03/16/business/genshin-impact-china-japan.html)
+- [Beating Japan at Its Own (Video) Game: A Smash Hit From China](https://www.nytimes.com/2022/03/16/business/genshin-impact-china-japan.html) (NYTimes)
 - [Google casually announces Steam for Chrome OS is coming in alpha for select Chromebooks](https://9to5google.com/2022/03/15/steam-alpha-chromebooks/) (9to5Google)
 - [Google Stadia is subtly reinventing itself to attract new games and gamers](https://www.theverge.com/2022/3/15/22978719/google-stadia-cloud-gaming-free-trial?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Get Ready for Faster Game Load Times With DirectStorage for Windows](https://www.pcmag.com/news/get-ready-for-faster-game-load-times-with-directstorage-for-windows) (PC Mag)
@@ -419,7 +418,7 @@ title: Gaming
 
 ### February
 
-- [Web3 Developers Have Found a Functioning Metaverse. It’s ‘Minecraft’.](https://www.vice.com/en/article/wxd4w5/web3-developers-have-discovered-a-functioning-metaverse-its-minecraft)
+- [Web3 Developers Have Found a Functioning Metaverse. It’s ‘Minecraft’.](https://www.vice.com/en/article/wxd4w5/web3-developers-have-discovered-a-functioning-metaverse-its-minecraft) (Vice)
 - [Gaming Company Backbone Reveals Series A Funding Backed by Ashton Kutcher, The Weeknd, Kevin Hart, Post Malone and More](https://www.hollywoodreporter.com/business/digital/gaming-company-backbone-funding-backed-by-celebrities-1235095928/) (The Hollywood Reporter)
 - [Sony finally reveals the PlayStation VR2’s design](https://www.theverge.com/2022/2/22/21437559/sony-playstation-vr2-psvr-announcement-design-reveal) (The Verge)
 - [Free your mind: Meditation could be VR's next killer app](https://www.protocol.com/entertainment/calm-tripp-evolvr-vr-meditation)
@@ -437,11 +436,11 @@ title: Gaming
 - [Microsoft is buying one of the biggest names in games — if Washington lets it](https://www.vox.com/recode/2022/1/18/22889342/microsoft-activision-antitrust-games-streaming-gamepass?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
 - [Microsoft to buy Activision in $68.7 billion all-cash deal](https://www.cnbc.com/2022/01/18/microsoft-to-buy-activision.html) (CNBC)
 - [Activision Blizzard Games Will Come To Xbox Game Pass As Part Of Acquisition](https://www.purexbox.com/news/2022/01/activision-blizzard-games-will-come-to-xbox-game-pass-as-part-of-acquisition?scrolla=5eb6d68b7fedc32c19ef33b4) (PureXbox)
-- [Xbox players are fed up with forced crossplay against PC gamers](https://www.theverge.com/2022/1/11/22868220/xbox-forced-crossplay-warzone-halo-infinite-issues?scrolla=5eb6d68b7fedc32c19ef33b4)
-- [Academics want to preserve video games. The game industry is fighting them in court.](https://www.washingtonpost.com/video-games/2022/01/12/video-game-preservation-emulation/)
+- [Xbox players are fed up with forced crossplay against PC gamers](https://www.theverge.com/2022/1/11/22868220/xbox-forced-crossplay-warzone-halo-infinite-issues?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
+- [Academics want to preserve video games. The game industry is fighting them in court.](https://www.washingtonpost.com/video-games/2022/01/12/video-game-preservation-emulation/) (Washington Post)
 - [Take-Two to acquire mobile gaming giant Zynga for $12.7B](https://techcrunch.com/2022/01/10/take-two-to-acquire-mobile-gaming-giant-zynga-for-12-7b/) (TechCrunch)
 - [E3 shifts to online-only event because of Omicron concerns](https://venturebeat.com/2022/01/06/e3-shifts-to-online-only-event-because-of-omicron-concerns/) (GamesBeat)
-- [Sony confirms PlayStation VR2’s specs, first official game](https://arstechnica.com/gaming/2022/01/sony-confirms-playstation-2-vrs-specs-first-official-game/) (ArsTechnica)
+- [Sony confirms PlayStation VR2’s specs, first official game](https://arstechnica.com/gaming/2022/01/sony-confirms-playstation-2-vrs-specs-first-official-game/) (Ars Technica)
 - [Samsung’s new 2022 TVs bring Nvidia GeForce Now and Google Stadia gaming](https://www.theverge.com/22862814/samsung-2022-tv-geforce-now-stadia-nvidia-google-utomik-cloud-gaming?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 
 ## 2021
@@ -482,7 +481,7 @@ title: Gaming
 
 ### September
 
-- [Netflix acquires its first game studio in deal with Oxenfree creator Night School Studio](https://venturebeat.com/2021/09/28/netflix-acquires-its-first-game-studio-in-deal-with-oxenfree-creator-night-school-studio/) (VentureBeat/GamesBeat)
+- [Netflix acquires its first game studio in deal with Oxenfree creator Night School Studio](https://venturebeat.com/2021/09/28/netflix-acquires-its-first-game-studio-in-deal-with-oxenfree-creator-night-school-studio/) (VentureBeat)
 - [The App Store is the Games Store. Apple should recognize this.](https://mobiledevmemo.com/the-app-store-is-the-games-store-apple-should-recognize-this/) (Mobile Dev Memo)
 - [Facebook enters the fantasy gaming market](https://techcrunch.com/2021/09/01/facebook-enters-the-fantasy-gaming-market/) (TechCrunch)
 
@@ -635,7 +634,7 @@ title: Gaming
 ### August
 
 - [Stolen Fortnite Accounts Sold as Part of $1 Billion Black Market](https://www.bloomberg.com/news/articles/2020-08-27/stolen-fortnite-accounts-sold-as-part-of-1-billion-black-market?sref=MzDxCtkS) (Bloomberg)
-- [Nintendo Plans Upgraded Switch Console and Major Games for 202](https://www.bloomberg.com/news/articles/2020-08-25/nintendo-plans-upgraded-switch-console-and-major-games-for-2021?sref=MzDxCtkS)
+- [Nintendo Plans Upgraded Switch Console and Major Games for 202](https://www.bloomberg.com/news/articles/2020-08-25/nintendo-plans-upgraded-switch-console-and-major-games-for-2021?sref=MzDxCtkS) (Bloomberg)
 - [Nintendo reportedly releasing upgraded Switch next year](https://www.theverge.com/2020/8/25/21400521/new-nintendo-switch-report-release-date-2021) (The Verge)
 - [Epic judge will protect Unreal Engine — but not Fortnite](https://www.theverge.com/2020/8/25/21400240/epic-apple-ruling-unreal-engine-fortnite-temporary-restraining-order?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Epic to host a #FreeFortnite tournament with anti-Apple prizes](https://www.theverge.com/2020/8/20/21394834/epic-fortnite-apple-freefortnite-tournament-prizes?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
@@ -644,7 +643,7 @@ title: Gaming
 - [Why Microsoft's new Flight Simulator should make Google and Amazon nervous](https://www.protocol.com/microsoft-flight-simulator-2020) (Protocol)
 - [Fortnite for Android has also been kicked off the Google Play Store](https://www.theverge.com/2020/8/13/21368079/fortnite-epic-android-banned-google-play-app-store-rule-violation?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Epic rallies Fortnite players against Apple with a warning that they’ll miss the next season](https://www.theverge.com/2020/8/13/21368065/epic-fortnite-players-apple-block-updates-next-season-warning?utm_medium=email&utm_campaign=Fortnite%20vs%20Apple%20vs%20Google%20a%20brief%20and%20very%20incomplete%20timeline&utm_content=Fortnite%20vs%20Apple%20vs%20Google%20a%20brief%20and%20very%20incomplete%20timeline+CID_c02b99c29d58c465b8df7bfc591ffa79&utm_source=cm_email&utm_term=Epic%20rallies%20Fortnite%20players%20against%20Apple%20with%20a%20warning%20that%20theyll%20miss%20the%20next%20season) (The Verge)
-- [Epic's 1984 Parody Video](https://www.youtube.com/watch?v=euiSHuaw6Q4&feature=emb_logo)
+- [Epic's 1984 Parody Video](https://www.youtube.com/watch?v=euiSHuaw6Q4&feature=emb_logo) (YouTube)
 - [Epic offers new direct payment in Fortnite on iOS and Android to get around app store fees](https://www.theverge.com/2020/8/13/21366259/epic-fortnite-vbucks-mega-drop-discount-iphone-android?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Microsoft to launch Xbox Series X in November](https://www.theverge.com/2020/8/11/21363787/microsoft-xbox-series-x-launch-release-date-month?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [The Vigilante Hunting Down Cheaters in Video Games](https://www.vice.com/en_us/article/bv857z/gamerdoc-catching-banning-cheaters-hackers-overwatch-valorant) (Motherboard)
@@ -721,7 +720,7 @@ title: Gaming
 - [YouTube signs exclusive streaming deal for Activision e-sports like Call of Duty and Overwatch](https://www.theverge.com/2020/1/24/21080731/youtube-activision-blizzard-exclusive-streaming-e-sports-league) (The Verge)
 - [Esports Training Site ProGuides Raises $5 Million In Seed Funding](https://www.forbes.com/sites/mattperez/2020/01/24/esports-training-site-proguides-raises-5-million-in-seed-funding/#7e8fdd2f2b42) (Forbes)
 - [All the money in the world couldn’t make Kinect happen](https://www.polygon.com/2020/1/14/21064608/microsoft-kinect-history-rise-and-fall) (Polygon)
-- [The Promise of Cloud-Native Games](https://a16z.com/2020/01/14/cloud-native-games/) (A16Z/Jonathan Lai)
+- [The Promise of Cloud-Native Games](https://a16z.com/2020/01/14/cloud-native-games/) (A16Z)
 - [The Metaverse: What It Is, Where to Find it, Who Will Build It, and Fortnite](https://www.matthewball.vc/all/themetaverse) (MatthewBall.vc)
 - [Epic says its PC game store now has more than 100 million users](https://www.theverge.com/2020/1/14/21064951/epic-game-store-users-number-cross-play-revenue-valve-steam) (The Verge)
 - [The hidden world and overlooked problems of acting in video games](https://www.washingtonpost.com/video-games/2020/01/08/hidden-world-overlooked-problems-acting-video-games/) (Washington Post)
@@ -791,7 +790,7 @@ title: Gaming
 
 - [EverQuest’s long, strange 20-year trip still has no end in sight](https://arstechnica.com/gaming/2019/06/everquests-long-strange-20-year-trip-still-has-no-end-in-sight/) (Ars Technica)
 - [The story of the first E3](https://www.polygon.com/platform/amp/features/2019/6/7/18653968/e3-history-1995-sega-saturn-nintendo-64-playstation-launch?__twitter_impression=true) (Polygon)
-- [Comcast CEO’s Son Wants to Turn Philly Into an E-Sports Town](https://www.bloomberg.com/news/features/2019-06-11/comcast-scion-tucker-roberts-leads-the-company-into-e-sports?cid=eml_dbm_20190612&utm_source=Sailthru&utm_medium=email&utm_campaign=BYERS%20MARKET%202019.06.12&utm_term=Byers%20Market) (Bloomberg BusinessWeek)
+- [Comcast CEO’s Son Wants to Turn Philly Into an E-Sports Town](https://www.bloomberg.com/news/features/2019-06-11/comcast-scion-tucker-roberts-leads-the-company-into-e-sports?cid=eml_dbm_20190612&utm_source=Sailthru&utm_medium=email&utm_campaign=BYERS%20MARKET%202019.06.12&utm_term=Byers%20Market) (Bloomberg Businessweek)
 
 ### May
 
@@ -861,7 +860,7 @@ title: Gaming
 - [Here are the 20 games shipping with the PlayStation Classic](https://techcrunch.com/2018/10/29/here-are-the-20-games-shipping-with-the-playstation-classic) (TechCrunch)
 - [Inside Rockstar Games' Culture Of Crunch](https://kotaku.com/inside-rockstar-games-culture-of-crunch-1829936466) (Kotaku)
 - [VIDEO: Joseph Saelee vs. Jonas Neubeauer in CTWC 2018 Finals](https://twitter.com/Wario64/status/1054157968948645888) (Twitter)
-- [How the West Was Digitized: The Making of Rockstar Games’ Red Dead Redemption 2](http://www.vulture.com/2018/10/the-making-of-rockstar-games-red-dead-redemption-2.html) (Vulture/New York Magazine)
+- [How the West Was Digitized: The Making of Rockstar Games’ Red Dead Redemption 2](http://www.vulture.com/2018/10/the-making-of-rockstar-games-red-dead-redemption-2.html) (Vulture)
 - [Fortnite, GTA V hackers face legal action for online cheating](https://arstechnica.com/gaming/2018/10/fortnite-gta-v-hackers-face-legal-action-for-online-cheating/?comments=1) (Ars Technica)
 - [Apple's dream of making the Apple TV a gaming console just took a major hit](https://www.businessinsider.com/minecraft-drops-support-for-apple-tv-2018-10?op=1) (Business Insider)
 - [Microsoft’s xCloud service streams Xbox games to PCs, consoles, and mobile devices](https://www.theverge.com/2018/10/8/17950878/microsoft-xcloud-game-streaming-xbox-games-features) (The Verge)

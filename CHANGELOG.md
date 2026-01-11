@@ -6,6 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Added
+- **Source normalization system** - Standardizes source names across 13,861 links
+  - **Problem:** 1,042 distinct source values with duplicates ("WSJ" vs "Wall Street Journal"), typos ("BLoomberg"), and author attributions ("Matt Levine/Bloomberg")
+  - **Impact:** Statistics and source counts were inaccurate (duplicates counted separately)
+  - **Solution:**
+    1. Created `source_normalizer.py` with canonical domain-to-source mapping and alias normalization
+    2. Created `migrate_sources.py` to normalize existing database entries (one-time migration)
+    3. Updated `extract.py` to normalize sources during RSS extraction (ongoing)
+  - **User preferences implemented:**
+    - Keep sections separate (Bloomberg Opinion ≠ Bloomberg, NYTimes Magazine ≠ NYTimes)
+    - Prefer abbreviations (WSJ, NYTimes, FT)
+    - Normalize authors to publication (Matt Levine/Bloomberg → Bloomberg)
+    - Social media = platform name (Twitter, YouTube)
+  - **Results:**
+    - NULL sources reduced: 823 → 262 (561 filled by parsing URLs, 68% reduction)
+    - Distinct sources consolidated: 1,042 → 987 (55 variations merged)
+    - Top normalizations: Financial Times→FT (220), ArsTechnica→Ars Technica (71), New York Times→NYTimes (36), Wall Street Journal→WSJ (24)
+  - **Remaining:** 262 NULLs from unknown domains (small sites, substacks, sponsor links)
+  - Affects: `source_normalizer.py` (new), `migrate_sources.py` (new), `extract.py`
+
 ## [2.0.1] - 2026-01-09
 
 ### Fixed

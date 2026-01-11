@@ -1,5 +1,4 @@
 ---
-layout: category
 title: E-commerce/Retail
 ---
 
@@ -36,7 +35,7 @@ title: E-commerce/Retail
 - [Google launches Doppl, a new app that lets you visualize how an outfit might look on you](https://techcrunch.com/2025/06/26/google-launches-doppl-a-new-app-that-lets-you-visualize-how-an-outfit-might-look-on-you/) (TechCrunch)
 - [Amazon bringing same-day delivery to ‘millions’ of rural customers](https://www.theverge.com/news/691877/amazon-same-day-delivery-small-town-rural) (The Verge)
 - [Amazon Prime Day stretches to four days of deals this year](https://www.theverge.com/news/685299/amazon-prime-day-2025-dates-when) (The Verge)
-- [Walmart is supercharging revenue — but with fewer workers](https://www.ft.com/content/5be70b28-018d-42d7-af8d-ea5a4bed4d44) (Financial Times)
+- [Walmart is supercharging revenue — but with fewer workers](https://www.ft.com/content/5be70b28-018d-42d7-af8d-ea5a4bed4d44) (FT)
 - [DoorDash CEO Tony Xu is taking on the role of industry consolidator in food delivery](https://www.cnbc.com/2025/05/31/doordash-ceo-tony-xu-is-new-industry-consolidator-in-food-delivery.html) (CNBC)
 
 ### May
@@ -61,7 +60,7 @@ title: E-commerce/Retail
 ### February
 
 - [Zelle payments top $1 trillion in 2024 as network’s growth outpaces rivals including PayPal](https://www.cnbc.com/2025/02/12/zelle-payments-top-1-trillion-in-2024.html) (CNBC)
-- [How a resurgent Walmart saw off the Amazon threat](https://www.ft.com/content/13e6ba39-8ef8-4ac1-9079-d8e7ec53d3c2?accessToken=zwAGLhqJwqCIkc8T5ro5jvhKwdOQedjn7FPTwg.MEYCIQDOCWjlUij2qYJZKc9l1pwQJnPTttlNXfIaLDNBepsPZgIhAKDG2Qk2FkuKiAq6p5KCP6Y9JvtuoQrP12wJfyIGh6Qa&sharetype=gift&token=f74473f7-07df-4d26-aec9-a6cb0c924390)
+- [How a resurgent Walmart saw off the Amazon threat](https://www.ft.com/content/13e6ba39-8ef8-4ac1-9079-d8e7ec53d3c2?accessToken=zwAGLhqJwqCIkc8T5ro5jvhKwdOQedjn7FPTwg.MEYCIQDOCWjlUij2qYJZKc9l1pwQJnPTttlNXfIaLDNBepsPZgIhAKDG2Qk2FkuKiAq6p5KCP6Y9JvtuoQrP12wJfyIGh6Qa&sharetype=gift&token=f74473f7-07df-4d26-aec9-a6cb0c924390) (FT)
 - [Amazon, King of Online Retail, Can’t Seem to Make Its Physical Stores Work](https://www.wsj.com/business/retail/amazon-king-of-online-retail-cant-seem-to-make-its-physical-stores-work-d405f9e7?st=VBUMtu&reflink=desktopwebshare_permalink) (WSJ)
 
 ### January
@@ -91,13 +90,13 @@ title: E-commerce/Retail
 
 ### August
 
-- [How Walmart became a force in a $54bn retail advertising industry](https://www.ft.com/content/1e2a5338-f1ae-41ee-bc08-4c86f2eb5a58) (Financial Times)
+- [How Walmart became a force in a $54bn retail advertising industry](https://www.ft.com/content/1e2a5338-f1ae-41ee-bc08-4c86f2eb5a58) (FT)
 - [Airbnb details plans to expand beyond short-term rentals, including co-hosting and relaunching ‘experiences’](https://techcrunch.com/2024/08/06/airbnb-details-plans-to-expand-beyond-short-term-rentals-including-co-hosting-and-relaunching-experiences/) (TechCrunch)
 
 ### July
 
 - [Amazon Pushes Fast Delivery Into Rural Areas in Challenge to Post Office](https://www.wsj.com/business/amazon-pushes-fast-delivery-into-rural-areas-in-challenge-to-post-office-cbe34f62?st=3oycfytkarxhjut) (WSJ)
-- [Airbnb Hosts Want Guests to Come to Them Directly](https://www.bloomberg.com/news/articles/2024-07-22/airbnb-hosts-look-to-cut-the-platform-out-in-mid-term-rentals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcyMTY0NzY4OSwiZXhwIjoxNzIyMjUyNDg5LCJhcnRpY2xlSWQiOiJTSDBVS0tUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.RiLrIINswxMTYS_HdDgu47gmX9HmQlIR_MnBQJM7yWQ&sref=Szq5ylDR)
+- [Airbnb Hosts Want Guests to Come to Them Directly](https://www.bloomberg.com/news/articles/2024-07-22/airbnb-hosts-look-to-cut-the-platform-out-in-mid-term-rentals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcyMTY0NzY4OSwiZXhwIjoxNzIyMjUyNDg5LCJhcnRpY2xlSWQiOiJTSDBVS0tUMEcxS1cwMCIsImJjb25uZWN0SWQiOiI0NkZGMDA0M0U3Mjg0MTdEOERGOUZEMTkyMzYxMjcxOCJ9.RiLrIINswxMTYS_HdDgu47gmX9HmQlIR_MnBQJM7yWQ&sref=Szq5ylDR) (Bloomberg)
 - [Apple’s India Sales Surge 33% to Record in Shift From China](https://www.bloomberg.com/news/articles/2024-07-15/apple-sales-in-india-surge-33-to-8-billion-as-chinese-market-slows?sref=Szq5ylDR) (Bloomberg)
 - [Amazon’s Bargain Store Would Use Same Trade ‘Loophole’ as Temu, Shein](https://www.theinformation.com/articles/amazons-bargain-store-would-use-same-trade-loophole-as-temu-shein?rc=64g9cw) (The Information)
 
@@ -109,7 +108,7 @@ title: E-commerce/Retail
 
 ### May
 
-- [Food delivery apps rack up $20bn in losses in fierce battle for diners](https://www.ft.com/content/675f5c8b-6029-4393-8eba-d6f00327e090) (Financial Times)
+- [Food delivery apps rack up $20bn in losses in fierce battle for diners](https://www.ft.com/content/675f5c8b-6029-4393-8eba-d6f00327e090) (FT)
 - [Website-design firm Squarespace to go private in $6.9 billion deal with Permira](https://www.reuters.com/markets/deals/squarespace-go-private-all-cash-deal-valued-69-bln-2024-05-13/) (Reuters)
 - [In Latest Stunt, Airbnb Lists the ‘Up’ House. It Floats.](https://www.nytimes.com/2024/05/01/business/airbnb-up-house-shrek-listings.html) (NYTimes)
 
@@ -121,7 +120,7 @@ title: E-commerce/Retail
 
 ### March
 
-- [Carvana makes U-turn away from financial abyss](https://www.ft.com/content/6308b1a1-e85a-4642-b11e-6809130e0e35?shareType=nongift) (Financial Times)
+- [Carvana makes U-turn away from financial abyss](https://www.ft.com/content/6308b1a1-e85a-4642-b11e-6809130e0e35?shareType=nongift) (FT)
 - [Amazon’s New Focus: Fending Off Rivals Temu and Shein](https://www.wsj.com/business/retail/amazons-new-focus-fending-off-rivals-temu-and-shein-5c6ac205) (WSJ)
 - [Temu’s Push Into America Pays Off Big Time for Meta and Google](https://www.wsj.com/business/media/temus-push-into-america-pays-off-big-time-for-meta-and-google-f2721b32) (WSJ)
 
@@ -177,7 +176,7 @@ title: E-commerce/Retail
 - [Exclusive: Amazon launches local business delivery network](https://www.axios.com/2023/06/26/amazon-hub-delivery-local-small-biz) (Axios)
 - [Amazon will hold Prime Day 2023 on July 11-12, adding invite-only deals and ‘Buy with Prime’ sites](https://www.geekwire.com/2023/amazon-will-hold-prime-day-2023-on-july-11-12-adding-invite-only-deals-and-buy-with-prime-sites/) (GeekWire)
 - [Alphabet Selling Google Domains Assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace?sref=Szq5ylDR) (Bloomberg)
-- [Video Ads Are Coming to All Your Uber Apps](https://www.wsj.com/articles/video-ads-are-coming-to-all-your-uber-apps-cb11d48e?mod=djemalertNEWS) (The Wall Street Journal)
+- [Video Ads Are Coming to All Your Uber Apps](https://www.wsj.com/articles/video-ads-are-coming-to-all-your-uber-apps-cb11d48e?mod=djemalertNEWS) (WSJ)
 - [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime?sref=Szq5ylDR) (Bloomberg)
 - [Apple touts $1.1 trillion in App Store commerce in 2022, with $104B in digital sales](https://techcrunch.com/2023/05/31/apple-touts-1-1-trillion-in-app-store-commerce-in-2022-with-104b-in-digital-sales/) (TechCrunch)
 
@@ -204,7 +203,7 @@ title: E-commerce/Retail
 
 - [Uber redesigns app for simpler, more personalized experience](https://techcrunch.com/2023/02/22/uber-redesigns-app-for-simpler-more-personalized-experience/) (TechCrunch)
 - [Amazon chief vows to ‘go big’ on physical stores](https://www.ft.com/content/f132299d-3b31-4248-8ddf-81182c5930fc) (FT)
-- [Stripe Can’t Lose](https://every.to/p/stripe-can-t-lose)
+- [Stripe Can’t Lose](https://every.to/p/stripe-can-t-lose) (Every)
 
 ### January
 
@@ -225,21 +224,21 @@ title: E-commerce/Retail
 
 ### November
 
-- [Basically everything on Amazon has become an ad](https://www.vox.com/recode/2022/11/10/23450349/amazon-advertising-everywhere-prime-sponsored-products)
+- [Basically everything on Amazon has become an ad](https://www.vox.com/recode/2022/11/10/23450349/amazon-advertising-everywhere-prime-sponsored-products) (Vox)
 - [Airbnb to Make Cleaning Fees Clearer on Searches After Customer Complaints](https://www.wsj.com/articles/airbnb-cleaning-fees-rates-departure-11667779247?mod=djemalertNEWS) (WSJ)
 - [Gmail to add a new package tracking feature ahead of holiday shopping season](https://techcrunch.com/2022/11/02/gmail-to-add-a-new-package-tracking-feature-ahead-of-holiday-shopping-season/) (TechCrunch)
 
 ### October
 
 - [You’re Going To Have To Pay To Use Some Fancy Colors In Photoshop Now](https://kotaku.com/photoshop-pantone-color-plugin-adobe-creative-cloud-1849714742) (Kotaku)
-- [The Fantasy of Instant Delivery Is Imploding](https://www.bloomberg.com/news/features/2022-10-24/gopuff-layoffs-signal-instant-delivery-s-demise?sref=Szq5ylDR)
+- [The Fantasy of Instant Delivery Is Imploding](https://www.bloomberg.com/news/features/2022-10-24/gopuff-layoffs-signal-instant-delivery-s-demise?sref=Szq5ylDR) (Bloomberg)
 - [Uber rolls out ad business to reach more riders](https://www.ft.com/content/20dded9d-98f7-4b47-9528-8eb72ef62d31) (FT)
 - [Apple Card to Offer Savings Account for Daily Cash](https://www.macrumors.com/2022/10/13/apple-card-savings-account/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 
 ### September
 
 - [Walmart enters the metaverse with Roblox experiences aimed at younger shoppers](https://www.cnbc.com/2022/09/26/walmart-enters-the-metaverse-with-roblox.html) (CNBC)
-- [Unauthorized Shein boutiques are popping up across Mexico](https://restofworld.org/2022/women-unofficial-shein-boutiques-mexico/)
+- [Unauthorized Shein boutiques are popping up across Mexico](https://restofworld.org/2022/women-unofficial-shein-boutiques-mexico/) (Rest of World)
 - [The Amazon Experience Comes to the NFL](https://www.theringer.com/nfl/2022/9/16/23356030/amazon-nfl-broadcast-kansas-city-chiefs-los-angeles-chargers) (The Ringer)
 
 ### August
@@ -256,10 +255,10 @@ title: E-commerce/Retail
 
 ### July
 
-- [The Buy Now, Pay Later Juggernaut Is About to Be Tested](https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business?sref=Szq5ylDR)
+- [The Buy Now, Pay Later Juggernaut Is About to Be Tested](https://www.bloomberg.com/news/features/2022-07-28/klarna-affirm-afterpay-face-scrutiny-over-credit-business?sref=Szq5ylDR) (Bloomberg)
 - [Shopify to Lay Off 10% of Workers in Broad Shake-Up](https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047?mod=djemalertNEWS) (WSJ)
 - [The Amazon + One Medical Post](https://www.outofpocket.health/p/the-amazon-one-medical-post) (Out Of Pocket)
-- [Amazon C.E.O. Andy Jassy Breaks From the Bezos Way](https://www.nytimes.com/2022/07/18/technology/amazon-ceo-andy-jassy.html?partner=slack&smid=sl-share)
+- [Amazon C.E.O. Andy Jassy Breaks From the Bezos Way](https://www.nytimes.com/2022/07/18/technology/amazon-ceo-andy-jassy.html?partner=slack&smid=sl-share) (NYTimes)
 - [Amazon is buying primary care tech provider One Medical for $3.9B](https://techcrunch.com/2022/07/21/amazon-is-buying-primary-care-tech-provider-one-medical-for-3-9b/) (TechCrunch)
 - [The Speedy Downfall of Rapid Delivery Startups](https://www.wired.com/story/the-speedy-downfall-of-rapid-delivery/) (Wired)
 - [Tiger Global-backed Missfresh faces fight for survival](https://www.ft.com/content/3cab1f0d-ba13-4673-9095-439701ae2fd1) (FT)
@@ -270,19 +269,19 @@ title: E-commerce/Retail
 ### June
 
 - [Amazon plans two Prime shopping events this year, with second one in Q4](https://www.cnbc.com/2022/06/27/amazon-plans-second-prime-shopping-event-in-q4.html) (CNBC)
-- [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace)
+- [‘Wallets and eyeballs’: how eBay turned the internet into a marketplace](https://www.theguardian.com/technology/2022/jun/16/wallets-and-eyeballs-how-ebay-turned-the-internet-into-a-marketplace) (The Guardian)
 - [Apple Goes Deeper Into Finance With Buy Now, Pay Later Offering](https://www.wsj.com/articles/apple-goes-deeper-into-finance-with-buy-now-pay-later-offering-11654939801?mod=djemalertNEWS) (WSJ)
 - [Apple Will Handle Lending Itself With New Pay Later Service](https://www.bloomberg.com/news/articles/2022-06-08/apple-will-handle-the-lending-itself-with-new-pay-later-service?sref=Szq5ylDR) (Bloomberg)
 - [Apple Pay Later lets you split up purchases into four payments at no interest](https://techcrunch.com/2022/06/06/apple-pay-later-lets-you-split-up-purchases-into-four-payments-at-no-interest/) (TechCrunch)
 
 ### May
 
-- [In India’s Mobile-Payments Boom, Even Beggars Get QR Codes](https://www.wsj.com/articles/in-indias-mobile-payments-boom-even-beggars-get-qr-codes-11653653383?mod=djemalertNEWS)
-- [The Collison Brothers Built Stripe Into A $95 Billion Unicorn With Eye-Popping Financials. Inside Their Plan To Stay On Top](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/?sh=6e600fbc5a1b)
+- [In India’s Mobile-Payments Boom, Even Beggars Get QR Codes](https://www.wsj.com/articles/in-indias-mobile-payments-boom-even-beggars-get-qr-codes-11653653383?mod=djemalertNEWS) (WSJ)
+- [The Collison Brothers Built Stripe Into A $95 Billion Unicorn With Eye-Popping Financials. Inside Their Plan To Stay On Top](https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/?sh=6e600fbc5a1b) (Forbes)
 - [New York Now Has More Airbnb Listings Than Apartments for Rent](https://www.curbed.com/2022/05/new-york-more-airbnb-listings-apartments-rentals.html?scrolla=5eb6d68b7fedc32c19ef33b4) (Curbed)
 - [Apple Now Letting Developers Automatically Charge for Some Subscription Price Increases](https://www.macrumors.com/2022/05/16/apple-subscription-automatic-increase-charges/?scrolla=5eb6d68b7fedc32c19ef33b4) (MacRumors)
 - [Amazon’s surprising new delivery partners: Rural mom-and-pop shops](https://www.vox.com/recode/2022/5/9/23063528/amazon-rural-small-business-delivery-program-hub-partners-usps?scrolla=5eb6d68b7fedc32c19ef33b4) (Recode)
-- [Fast, Cheap, and Out of Control: Inside Shein’s Sudden Rise](https://www.wired.com/story/fast-cheap-out-of-control-inside-rise-of-shein/)
+- [Fast, Cheap, and Out of Control: Inside Shein’s Sudden Rise](https://www.wired.com/story/fast-cheap-out-of-control-inside-rise-of-shein/) (Wired)
 - [Cameo lays off close to 90, including senior executives](https://www.protocol.com/bulletins/cameo-layoffs-cto-cpo) (Protocol)
 - [Uber reports surging revenue as drivers return, but posts massive loss on investments](https://www.cnbc.com/2022/05/04/uber-q1-2022-earnings.html) (CNBC)
 
@@ -291,16 +290,16 @@ title: E-commerce/Retail
 - [Bolt, a Checkout Startup Worth $11 Billion, Lost Customers as Revenue Stalled](https://www.theinformation.com/articles/bolt-a-checkout-startup-worth-11-billion-has-been-losing-customers-as-revenue-stalls?rc=64g9cw) (The Information)
 - [Robinhood lays off nine percent of its full-time employees](https://www.engadget.com/robinhood-lays-off-9-percent-full-time-employees-114041294.html) (Engadget)
 - [How Meta Platforms Fell Behind in Indian Mobile Payments](https://www.wsj.com/articles/how-meta-platforms-fell-behind-in-indian-mobile-payments-11650539523?mod=djemalertNEWS) (WSJ)
-- [Video Game Junkie Quietly Builds $3 Billion Payments Powerhouse](https://www.bloomberg.com/news/articles/2022-04-18/video-game-junkie-quietly-builds-3-billion-payments-powerhouse?sref=Szq5ylDR)
+- [Video Game Junkie Quietly Builds $3 Billion Payments Powerhouse](https://www.bloomberg.com/news/articles/2022-04-18/video-game-junkie-quietly-builds-3-billion-payments-powerhouse?sref=Szq5ylDR) (Bloomberg)
 - [Amazon opens up Prime delivery service to other retailers in its latest move to compete with FedEx and UPS](https://www.cnbc.com/2022/04/21/amazon-ramps-up-fedex-ups-rivalry-by-expanding-prime-to-third-parties.html) (CNBC)
 - [Just Eat Weighs Grubhub Sale in Tough Food Delivery Market](https://www.bloomberg.com/news/articles/2022-04-20/just-eat-takeaway-considers-selling-grubhub-as-sales-slump?sref=Szq5ylDR) (Bloomberg)
 - [Over 14,000 Etsy sellers are going on strike to protest increased transaction fees](https://techcrunch.com/2022/04/11/etsy-strike-sellers-transaction-fees/) (TechCrunch)
 - [Digital Ad Revenue Jumped 35% in the U.S. Last Year, Biggest Gain Since 2006](https://www.wsj.com/articles/digital-ad-revenue-jumped-35-in-the-u-s-last-year-biggest-gain-since-2006-11649759401?mod=djemalertNEWS) (WSJ)
 - [The Scoop: Inside Fast’s Rapid Collapse](https://newsletter.pragmaticengineer.com/p/the-scoop-fast?s=r)
-- [Millennial Billionaire Ryan Breslow Created Buzz, And Enemies, Attacking Stripe And Shopify. He’s Just Getting Started.](https://www.forbes.com/sites/stevenbertoni/2022/04/04/meet-the-gen-z-billionaire-whos-speaking-his-truth-to-silicon-valley/?sh=387041db6c06&s=09)
+- [Millennial Billionaire Ryan Breslow Created Buzz, And Enemies, Attacking Stripe And Shopify. He’s Just Getting Started.](https://www.forbes.com/sites/stevenbertoni/2022/04/04/meet-the-gen-z-billionaire-whos-speaking-his-truth-to-silicon-valley/?sh=387041db6c06&s=09) (Forbes)
 - [Shein Valued at $100 Billion in Funding Round](https://www.wsj.com/articles/shein-valued-at-100-billion-in-funding-round-11649126740?mod=djemalertNEWS) (WSJ)
 - [Food Delivery Stocks Lose $24 Billion in Just Three Months](https://www.bloomberg.com/news/articles/2022-04-01/food-delivery-stocks-in-the-cold-without-showing-path-to-profit?sref=Szq5ylDR) (Bloomberg)
-- [Online shopping in the middle of the ocean](https://restofworld.org/2022/online-shopping-in-the-middle-of-the-ocean/)
+- [Online shopping in the middle of the ocean](https://restofworld.org/2022/online-shopping-in-the-middle-of-the-ocean/) (Rest of World)
 
 ### March
 
@@ -313,7 +312,7 @@ title: E-commerce/Retail
 
 ### February
 
-- [Amazon’s sprawling grocery business has become an ‘expensive hobby’ with a cloudy future](https://www.cnbc.com/2022/02/19/amazons-sprawling-grocery-business-has-become-an-expensive-hobby.html)
+- [Amazon’s sprawling grocery business has become an ‘expensive hobby’ with a cloudy future](https://www.cnbc.com/2022/02/19/amazons-sprawling-grocery-business-has-become-an-expensive-hobby.html) (CNBC)
 - [Amazon sues two companies that allegedly help fill the site with fake reviews](https://www.cnbc.com/2022/02/22/amazon-sues-alleged-fake-reviews-brokers-appsally-rebatest.html) (CNBC)
 - [Sea’s $16 Billion Crash Signals Trouble Beyond India Shutout](https://www.bloomberg.com/news/articles/2022-02-15/sea-s-16-billion-wipeout-portends-trouble-beyond-india-shutout?sref=Szq5ylDR) (Bloomberg)
 - [Gopuff stocks its warehouses with items purchased from Instacart, spending tens of thousands per month on the service](https://www.businessinsider.com/gopuff-instacart-stock-warehouse-ultrafast-delivery-ecosystem-2022-2) (Insider)
@@ -336,7 +335,7 @@ title: E-commerce/Retail
 - [How Shein beat Amazon at its own game — and reinvented fast fashion](https://restofworld.org/2021/how-shein-beat-amazon-and-reinvented-fast-fashion/) (Rest of World)
 - [Amazon Ramps Up Plans for Instacart-Like Service in U.S., Europe](https://www.theinformation.com/articles/amazon-ramps-up-plans-for-instacart-like-service-in-u-s-europe?rc=64g9cw) (The Information)
 - [Amazon is making its own containers and bypassing supply chain chaos with chartered ships and long-haul planes](https://www.cnbc.com/2021/12/04/how-amazon-beats-supply-chain-chaos-with-ships-and-long-haul-planes.html) (CNBC)
-- [DoorDash breaks gig worker model to hire couriers as employees in New York trial](https://www.ft.com/content/663359a2-f67a-4b86-938e-734145e452b0) (Financial Times)
+- [DoorDash breaks gig worker model to hire couriers as employees in New York trial](https://www.ft.com/content/663359a2-f67a-4b86-938e-734145e452b0) (FT)
 - [Instacart Plans 15-Minute Delivery Trial as Rival Startups Grow](https://www.theinformation.com/articles/instacart-plans-15-minute-delivery-trial-as-rival-startups-grow?rc=64g9cw) (The Information)
 
 ### November
@@ -398,16 +397,16 @@ title: E-commerce/Retail
 
 ### June
 
-- [Shopify drops its App Store commissions to 0% on developers’ first million in revenue](https://techcrunch.com/2021/06/29/shopify-drops-its-app-store-commissions-to-0-on-developers-first-million-in-revenue/) (Tech Crunch)
+- [Shopify drops its App Store commissions to 0% on developers’ first million in revenue](https://techcrunch.com/2021/06/29/shopify-drops-its-app-store-commissions-to-0-on-developers-first-million-in-revenue/) (TechCrunch)
 - [Amazon Appstore will reduce developer revenue cut from 30% to 20% and give 10% in Free AWS Credit](https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/) (AFTV News)
 - [Amazon brings cashierless tech to full-size grocery store for first time at new Seattle-area location](https://www.geekwire.com/2021/amazon-brings-cashierless-tech-full-size-grocery-store-first-time-new-seattle-area-location/) (Geek Wire)
-- [Payments giant Stripe launches Stripe Tax to integrate sales tax calculations for 30+ countries](https://techcrunch.com/2021/06/10/payments-giant-stripe-launches-stripe-tax-to-integrate-sales-tax-calculations-for-30-countries/) (Tech Crunch)
+- [Payments giant Stripe launches Stripe Tax to integrate sales tax calculations for 30+ countries](https://techcrunch.com/2021/06/10/payments-giant-stripe-launches-stripe-tax-to-integrate-sales-tax-calculations-for-30-countries/) (TechCrunch)
 - [Amazon Prime Day set for June 21 and 22](https://www.cnbc.com/2021/06/02/amazon-prime-day-is-june-21-and-june-22.html) (CNBC)
-- [Etsy is buying the fashion resale app Depop for $1.6 billion.](https://www.nytimes.com/2021/06/02/business/etsy-depop.html) (New York Times)
+- [Etsy is buying the fashion resale app Depop for $1.6 billion.](https://www.nytimes.com/2021/06/02/business/etsy-depop.html) (NYTimes)
 
 ### May
 
-- [Airbnb doubles down on flexible search, improves the host flow in preparation for summer 2021](https://techcrunch.com/2021/05/24/airbnb-doubles-down-on-flexible-search-improves-the-host-flow-in-preparation-for-summer-2021/) (Tech Crunch)
+- [Airbnb doubles down on flexible search, improves the host flow in preparation for summer 2021](https://techcrunch.com/2021/05/24/airbnb-doubles-down-on-flexible-search-improves-the-host-flow-in-preparation-for-summer-2021/) (TechCrunch)
 
 ### April
 
@@ -422,7 +421,7 @@ title: E-commerce/Retail
 - [Deliveroo drags on the LSE; closes down 44% on debut](https://techcrunch.com/2021/03/31/deliveroo-prices-its-shares-on-the-lse-at-3-90-at-the-lower-end-of-the-range-with-a-market-cap-of-7-59b/) (TechCrunch)
 - [Cameo Aims to Connect Celebrities With Fans and It’s Now Valued at $1 Billion](https://www.wsj.com/articles/cameo-aims-to-connect-celebrities-with-fans-and-its-now-worth-1-billion-11617096602?mod=djemalertNEWS) (WSJ)
 - [On-demand logistics and fulfillment startup Flowspace raises $31M](https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/) (VentureBeat)
-- [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f) (Financial Times)
+- [Stripe valuation soars to $95bn after latest fundraising](https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f) (FT)
 - [The new Google Pay repeats all the same mistakes of Google Allo](https://arstechnica.com/gadgets/2021/03/the-new-google-pay-repeats-all-the-same-mistakes-of-google-allo/) (Ars Technica)
 - [Amazon shaves app icon mustache that raised eyebrows](https://www.theverge.com/tldr/2021/3/1/22307870/amazon-new-app-icon-mustache-shave-change-design-update?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Instacart’s valuation doubles to $39 billion](https://www.cnbc.com/2021/03/02/instacarts-valuation-doubles-to-39-billion.html) (CNBC)
@@ -433,7 +432,7 @@ title: E-commerce/Retail
 
 - [Google Maps will now let you pay for public transportation and parking through its app](https://www.theverge.com/2021/2/17/22287043/google-maps-pay-parking-public-transportation-cities?scrolla=5eb6d68b7fedc32c19ef33b4) (The Verge)
 - [Bumble stock closes up 63% after soaring in market debut](https://www.cnbc.com/2021/02/11/bumble-ipo-bmbl-starts-trading-on-nasdaq.html) (CNBC)
-- [Microsoft approached Pinterest about a takeover](https://www.ft.com/content/f88b8474-e791-4efb-a9f6-54c8222680fe) (Financial Times)
+- [Microsoft approached Pinterest about a takeover](https://www.ft.com/content/f88b8474-e791-4efb-a9f6-54c8222680fe) (FT)
 - [Bumble makes Wall Street debut in a milestone moment for female founders](https://www.cnn.com/2021/02/11/tech/bumble-wall-street-debut/index.html) (CNN Business)
 - [TikTok takes on Facebook with US ecommerce push](https://www.ft.com/content/629c1c17-3daa-46af-8177-1814baaa2bed?utm_content=bufferc7170&utm_medium=social&utm_source=twitter&utm_campaign=buffer) (FT)
 - [This Hedge Fund Made $700 Million on GameStop](https://www.wsj.com/articles/this-hedge-fund-made-700-million-on-gamestop-11612390687) (WSJ)
@@ -448,7 +447,7 @@ title: E-commerce/Retail
 - [How a Penny Stock Explodes From Obscurity to 451% Gains Via Chat Forums](https://www.bloomberg.com/news/articles/2021-01-26/-get-in-or-regret-not-getting-in-how-a-penny-stock-goes-boom?sref=sZAFdZwV) (Bloomberg)
 - [CashApp Is King](https://aika.substack.com/p/cashapp-is-king) (Aika's Newsletter)
 - [How WallStreetBets Pushed GameStop Shares to the Moon](https://www.bloomberg.com/news/articles/2021-01-25/how-wallstreetbets-pushed-gamestop-shares-to-the-moon?sref=sZAFdZwV) (Bloomberg)
-- [WallStreetBets Founder Reckons With Legacy Amid Stock](https://www.wsj.com/articles/wallstreetbets-founder-reckons-with-legacy-amid-memes-loss-porn-and-online-threats-11611829800)
+- [WallStreetBets Founder Reckons With Legacy Amid Stock](https://www.wsj.com/articles/wallstreetbets-founder-reckons-with-legacy-amid-memes-loss-porn-and-online-threats-11611829800) (WSJ)
 - [SPAC boom could finally provide an exit ramp for digital publishers like Buzzfeed and Vice Media](https://www.cnbc.com/2021/01/25/spac-boom-could-rescue-buzzfeed-group-nine-bustle-vox-vice.html) (CNBC)
 - [When SPACs Attack! A New Force Is Invading Wall Street.](https://www.wsj.com/articles/when-spacs-attack-a-new-force-is-invading-wall-street-11611378007?mod=djemalertNEWS) (WSJ)
 - [Plaid Shareholders Field Offers at $15 Billion After Merger Collapse](https://www.theinformation.com/articles/plaid-shareholders-field-offers-at-15-billion-after-merger-collapse) (The Information)
@@ -464,7 +463,7 @@ title: E-commerce/Retail
 
 ### December
 
-- [Amazon’s advertising business booms in pandemic](https://www.ft.com/content/095d73d5-a7a6-4acc-9dcc-9ee3e3d1fff4) (Financial Times)
+- [Amazon’s advertising business booms in pandemic](https://www.ft.com/content/095d73d5-a7a6-4acc-9dcc-9ee3e3d1fff4) (FT)
 - [Opendoor Rides SPAC Deal to Lofty $18 Billion Valuation at Market Debut](https://www.theinformation.com/articles/opendoor-rides-spac-deal-to-lofty-18-billion-valuation-at-market-debut) (The Information)
 - [Real estate software and data analytics company RealPage to be acquired for $10.2 billion](https://venturebeat.com/2020/12/21/real-estate-software-and-data-analytics-company-realpage-to-be-acquired-for-10-2-billion/) (VentureBeat)
 - [Airbnb skyrockets 112% in public market debut, giving it a market cap of $86.5 billion](https://www.cnbc.com/2020/12/10/airbnb-ipo-abnb-starts-trading-on-the-nasdaq.html) (CNBC)
@@ -623,7 +622,7 @@ title: E-commerce/Retail
 ### January
 
 - [Amazon Revenue Jumps on Holiday Sales as Profit Rises](https://www.wsj.com/articles/amazon-beats-earnings-estimates-as-shipping-costs-stabilize-11580419032) (WSJ)
-- [Uber and DoorDash held merger talks after SoftBank push](https://www.ft.com/content/e46a250a-4352-11ea-a43a-c4b328d9061c) (Financial Times)
+- [Uber and DoorDash held merger talks after SoftBank push](https://www.ft.com/content/e46a250a-4352-11ea-a43a-c4b328d9061c) (FT)
 - [Seamless, Grubhub deliver confusion with mistaken restaurant listings](https://www.sfchronicle.com/food/article/SF-restaurant-Kin-Khao-doesn-t-offer-delivery-15005797.php) (The San Francisco Chronicle)
 - [Uber Tests Feature Allowing Some California Drivers to Set Fares](https://www.wsj.com/articles/uber-is-testing-a-feature-that-lets-some-california-drivers-set-fares-11579600801) (WSJ)
 - [App stores saw record 204 billion app downloads in 2013, consumer spend of $120 billion](https://techcrunch.com/2020/01/15/app-stores-saw-record-204-billion-app-downloads-in-2019-consumer-spend-of-120-billion/) (TechCrunch)
@@ -633,7 +632,7 @@ title: E-commerce/Retail
 ### December
 
 - [Inside Documents Show How Amazon Chose Speed Over Safety in Building Its Delivery Network](https://www.propublica.org/article/inside-documents-show-how-amazon-chose-speed-over-safety-in-building-its-delivery-network) (Pro Publica)
-- [Shopify: A StarCraft Inspired Business Strategy](https://nongaap.substack.com/p/shopify-a-starcraft-inspired-business) (Non-GAAP Thoughts)
+- [Shopify: A StarCraft Inspired Business Strategy](https://nongaap.substack.com/p/shopify-a-starcraft-inspired-business) (Non)
 - [Amazon Blocks Sellers From Using FedEx Ground for Prime Shipments](https://www.wsj.com/articles/amazon-blocks-sellers-from-using-fedex-ground-for-prime-shipments-11576525190) (WSJ)
 - [Amazon Learns a New Skill: Making Money From Alexa](https://www.theinformation.com/articles/amazon-learns-a-new-skill-making-money-from-alexa) (The Information)
 - [Amazon Brings in $1.4 Million in 2019 of Alexa Skill Revenue So Far — Well Short of the $5.5 Million Target According to The Information](https://voicebot.ai/2019/12/16/amazon-brings-in-1-4-million-in-2019-of-alexa-skill-revenue-so-far-well-short-of-the-5-5-million-target-according-to-the-information/) (Voicebot.ai)
@@ -675,7 +674,7 @@ title: E-commerce/Retail
 - [SoftBank is reportedly seeking to take control of WeWork through a financing package](https://www.cnbc.com/2019/10/13/softbank-is-seeking-to-take-control-of-wework-wsj.html) (CNBC)
 - [Is Amazon Unstoppable?](https://www.newyorker.com/magazine/2019/10/21/is-amazon-unstoppable?currentPage=all) (The New Yorker)
 - [Jeff Bezos’s Master Plan](https://www.theatlantic.com/magazine/archive/2019/11/what-jeff-bezos-wants/598363/) (The Atlantic)
-- [Group Nine to Acquire PopSugar, Continuing Wave of Digital Media Tie-Ups](https://www.wsj.com/articles/group-nine-to-acquire-popsugar-continuing-wave-of-digital-media-tie-ups-11570482901) (The WSJ)
+- [Group Nine to Acquire PopSugar, Continuing Wave of Digital Media Tie-Ups](https://www.wsj.com/articles/group-nine-to-acquire-popsugar-continuing-wave-of-digital-media-tie-ups-11570482901) (WSJ)
 - [Robinhood revives checking with new debit card & 2% interest](https://techcrunch.com/2019/10/08/robinhood-cash-management/) (TechCrunch)
 - [Amazon debuts its first ever Kindle Kids Edition](https://www.cnet.com/news/amazon-debuts-kindle-kids-edition/) (CNET)
 - [Dog-walking startup Wag raised $300 million to unleash growth. Then things got messy](https://www.cnn.com/2019/09/27/tech/wag-dog-walking-softbank/) (CNN Business)
@@ -687,7 +686,7 @@ title: E-commerce/Retail
 - [WeWork CEO Adam Neumann to step down amid controversy and retain chairman role](https://www.cnbc.com/2019/09/24/wework-ceo-adam-neumann-is-expected-to-step-down-amid-controversy-and-retain-chair-role-wsj-reports.html) (CNBC)
 - [Some WeWork Board Members Seek to Remove Adam Neumann as CEO](https://www.wsj.com/articles/some-wework-board-members-seek-to-remove-adam-neumann-as-ceo-11569171188) (WSJ)
 - [SoftBank’s Masa Son is in favor of ousting WeWork CEO Adam Neumann](https://www.cnbc.com/2019/09/22/softbanks-masayoshi-son-in-favor-of-ousting-wework-ceo-adam-neumann.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosprorata&stream=top) (CNBC)
-- [Airbnb Says It Plans to Go Public in 2020](https://www.nytimes.com/2019/09/19/technology/airbnb-ipo-2020.html) (New York Times)
+- [Airbnb Says It Plans to Go Public in 2020](https://www.nytimes.com/2019/09/19/technology/airbnb-ipo-2020.html) (NYTimes)
 - [Airbnb Announces Intention to Become a Publicly-Traded Company During 2020](https://press.airbnb.com/airbnb-announces-intention-to-become-a-publicly-traded-company-during-2020/) (Airbnb)
 - [Datadog Rises 53% in Trading Debut After Rebuffing Cisco](https://www.bloomberg.com/news/articles/2019-09-18/datadog-raises-648-million-in-u-s-ipo-priced-above-target) (Bloomberg)
 - [Automattic raises $300 million at $3 billion valuation from Salesforce Ventures](https://techcrunch.com/2019/09/19/automattic-raises-300-million-at-3-billion-valuation-from-salesforce-ventures/) (TechCrunch)
@@ -760,12 +759,12 @@ title: E-commerce/Retail
 ### February
 
 - [Amazon Prime members can choose a weekly delivery date with launch of 'Amazon Day'](https://techcrunch.com/2019/02/28/amazon-prime-members-can-choose-a-weekly-delivery-date-with-launch-of-amazon-day/) (TechCrunch)
-- [Apple, Goldman Sachs Team Up on Credit Card Paired With iPhone](https://www.wsj.com/articles/apple-goldman-sachs-team-up-on-credit-card-paired-with-iphone-11550750400?mod=e2twd) (Wall Street Journal)
+- [Apple, Goldman Sachs Team Up on Credit Card Paired With iPhone](https://www.wsj.com/articles/apple-goldman-sachs-team-up-on-credit-card-paired-with-iphone-11550750400?mod=e2twd) (WSJ)
 - [Walmart’s US e-commerce sales up 43% in Q4, thanks to growing online grocery business](https://techcrunch.com/2019/02/19/walmarts-u-s-e-commerce-sales-up-43-in-q4-thanks-to-growing-online-grocery-business/) (TechCrunch)
 - [Etsy sellers say their bank accounts were emptied in major billing snafu](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html) (BoingBoing)
-- [Amazon’s Escape From New York](https://www.bloomberg.com/news/articles/2019-02-14/how-amazon-lost-new-york) (Bloomberg BusinessWeek)
+- [Amazon’s Escape From New York](https://www.bloomberg.com/news/articles/2019-02-14/how-amazon-lost-new-york) (Bloomberg Businessweek)
 - [Uber’s Secret Gold Mine: How Uber Eats Is Turning Into A Billion-Dollar Business To Rival Grubhub](https://www.forbes.com/sites/bizcarson/2019/02/06/ubers-secret-gold-mine-how-uber-eats-is-turning-into-a-billion-dollar-business-to-rival-grubhub/#4b0a82c61fa9) (Forbes)
-- [Zillow Wants to Flip Your House](https://www.bloomberg.com/news/features/2019-02-14/zillow-wants-to-flip-your-house) (Bloomberg BusinessWeek)
+- [Zillow Wants to Flip Your House](https://www.bloomberg.com/news/features/2019-02-14/zillow-wants-to-flip-your-house) (Bloomberg Businessweek)
 - [Amazon Pulls Out of Planned New York City Headquarters](https://www.nytimes.com/2019/02/14/nyregion/amazon-hq2-queens.html) (NYTimes)
 - [Why Amazon buying Eero feels so disappointing](https://www.theverge.com/2019/2/12/18221441/amazon-buying-eero-disappointing) (The Verge)
 - [When Amazon Went From Big to Unbelievably Big](https://www.theatlantic.com/technology/archive/2019/02/when-amazon-went-from-big-to-unbelievably-big/582097/) (The Atlantic)
