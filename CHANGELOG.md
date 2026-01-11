@@ -7,6 +7,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### Added
+- **Architecture data flow diagram** - Mermaid.js diagram in README.md visualizing RSS → Database → Website pipeline
+  - Shows complete flow from RSS feed through HTML parsing to GitHub Pages
+  - Highlights database-first architecture (single source of truth)
+  - Visualizes HTML parsing complexity (pattern matching, fallbacks)
+  - Displays generation pipeline orchestration (rebuild_all.py)
+  - Color-coded by component type (source, process, parser, database, output, website)
+  - GitHub natively renders Mermaid diagrams in markdown
+  - Affects: `README.md`
+
 - **Source normalization system** - Standardizes source names across 13,861 links
   - **Problem:** 1,042 distinct source values with duplicates ("WSJ" vs "Wall Street Journal"), typos ("BLoomberg"), and author attributions ("Matt Levine/Bloomberg")
   - **Impact:** Statistics and source counts were inaccurate (duplicates counted separately)
