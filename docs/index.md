@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, January 09, 2026 - Grok Still Groking</h3>
+  <h3>Monday, January 12, 2026 - Siri Goes With Gemini</h3>
   <ul>
-    <li><a href="https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting">No, Grok hasn’t paywalled its deepfake image feature</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-01-09/musk-s-xai-reports-higher-quarterly-loss-plans-to-power-optimus?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2Nzk2NTU3MSwiZXhwIjoxNzY4NTcwMzcxLCJhcnRpY2xlSWQiOiJUOEpOU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.f6EPP--2spNrCIMeKB_I4LPpwGX9BMe1Y1FnLCJNnT8">Musk’s xAI Burns Almost $8 Billion, Reveals Optimus Plan</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025">Chinese Firms Dominated Global Humanoid Robot Shipments in 2025</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?rc=i9gkgs">DeepSeek To Release Next Flagship AI Model With Strong Coding Ability</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.axios.com/2026/01/09/andreessen-horowitz-15-billion-for-new-funds">Andreessen Horowitz raises $15 billion for new funds</a> (Axios) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://www.forbes.com/sites/iainmartin/2026/01/09/a16zs-15-billion-fund-vacuumed-up-a-fifth-of-venture-dollars-raised-last-year/">A16z’s $15 Billion Fund Vacuumed Up A Fifth Of Venture Dollars Raised Last Year</a> (Forbes) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Google’s Gemini to run AI-powered Siri coming this year</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/8eec6d77-c72e-4e8f-a6b5-ce82575e71c6">UK’s Ofcom investigates X over Grok’s sexualised AI images of women and children</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1">Anthropic expands into healthcare a week after OpenAI launched a similar product</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/">Stack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI</a> (Sherwood News) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c&utm_source=copy-link&utm_medium=social&utm_campaign=share">AI’s Memorization Crisis</a> (The Atlantic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-10T12:01:52-08:00">January 10, 2026 at 12:01 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-12T20:00:08-08:00">January 12, 2026 at 08:00 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,118</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,123</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,743</span></li>
       </ul>
     </div>
@@ -50,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(110 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(109 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(75 links)</span></li>
       </ol>

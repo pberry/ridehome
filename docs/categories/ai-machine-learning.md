@@ -9,6 +9,10 @@ layout: category
 
 ### January
 
+- [Apple picks Google’s Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html) (CNBC)
+- [Anthropic expands into healthcare a week after OpenAI launched a similar product](https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1) (Business Insider)
+- [Stack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/) (Sherwood News)
+- [AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
 - [No, Grok hasn’t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting) (The Verge)
 - [Musk’s xAI Burns Almost $8 Billion, Reveals Optimus Plan](https://www.bloomberg.com/news/articles/2026-01-09/musk-s-xai-reports-higher-quarterly-loss-plans-to-power-optimus?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2Nzk2NTU3MSwiZXhwIjoxNzY4NTcwMzcxLCJhcnRpY2xlSWQiOiJUOEpOU0xUOTZPU0gwMCIsImJjb25uZWN0SWQiOiJEQjlFREYyREVCMkE0OTVGOTgzMjczRUQxRjk1MTg0NSJ9.f6EPP--2spNrCIMeKB_I4LPpwGX9BMe1Y1FnLCJNnT8) (Bloomberg)
 - [DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://www.theinformation.com/articles/deepseek-release-next-flagship-ai-model-strong-coding-ability?rc=i9gkgs) (The Information)

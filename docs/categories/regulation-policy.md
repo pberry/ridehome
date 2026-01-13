@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [UK’s Ofcom investigates X over Grok’s sexualised AI images of women and children](https://www.ft.com/content/8eec6d77-c72e-4e8f-a6b5-ce82575e71c6) (FT)
 - [Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680) (Politico)
 
 ## 2025

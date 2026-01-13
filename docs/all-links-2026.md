@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, January 12 2026 - Siri Goes With Gemini**
+
+  * [Apple picks Google’s Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html) (CNBC)
+  * [UK’s Ofcom investigates X over Grok’s sexualised AI images of women and children](https://www.ft.com/content/8eec6d77-c72e-4e8f-a6b5-ce82575e71c6) (FT)
+  * [Anthropic expands into healthcare a week after OpenAI launched a similar product](https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1) (Business Insider)
+  * [Stack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/) (Sherwood News)
+  * [AI’s Memorization Crisis](https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
+
+
+
 **Friday, January 09 2026 - Grok Still Groking**
 
   * [No, Grok hasn’t paywalled its deepfake image feature](https://www.theverge.com/news/859309/grok-undressing-limit-access-gaslighting) (The Verge)
@@ -62,8 +72,8 @@
   <h2>Browse by Topic</h2>
   <ul>
     <li><a href="categories/hardware-chips.html">Hardware/Chips<span class="category-count">(2250)</span></a></li>
-    <li><a href="categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1612)</span></a></li>
-    <li><a href="categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1310)</span></a></li>
+    <li><a href="categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1616)</span></a></li>
+    <li><a href="categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1311)</span></a></li>
     <li><a href="categories/other-tech-news.html">Other Tech News<span class="category-count">(1292)</span></a></li>
     <li><a href="categories/social-media.html">Social Media<span class="category-count">(1082)</span></a></li>
     <li><a href="categories/security-privacy.html">Security/Privacy<span class="category-count">(899)</span></a></li>

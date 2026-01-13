@@ -1898,8 +1898,8 @@
   <h2>Browse by Topic</h2>
   <ul>
     <li><a href="categories/hardware-chips.html">Hardware/Chips<span class="category-count">(2250)</span></a></li>
-    <li><a href="categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1612)</span></a></li>
-    <li><a href="categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1310)</span></a></li>
+    <li><a href="categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1616)</span></a></li>
+    <li><a href="categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1311)</span></a></li>
     <li><a href="categories/other-tech-news.html">Other Tech News<span class="category-count">(1292)</span></a></li>
     <li><a href="categories/social-media.html">Social Media<span class="category-count">(1082)</span></a></li>
     <li><a href="categories/security-privacy.html">Security/Privacy<span class="category-count">(899)</span></a></li>

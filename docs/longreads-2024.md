@@ -268,7 +268,7 @@ title: Weekend Longreads 2024
 
 **Friday, April 12 2024**
 
-  * [AI-Music Arms Race: Meet Udio, the Other ChatGPT for Music](https://www.rollingstone.com/music/music-features/udio-ai-music-chatgpt-suno-1235001675/)
+  * [AI-Music Arms Race: Meet Udio, the Other ChatGPT for Music](https://www.rollingstone.com/music/music-features/udio-ai-music-chatgpt-suno-1235001675/) (Rolling Stone)
   * [How Bluey Became a $2 Billion Smash Hit—With an Uncertain Future](https://www.bloomberg.com/news/features/2024-04-03/is-bluey-ending-disney-s-worried-biggest-kids-show-ever-is-at-risk?sref=Szq5ylDR) (Bloomberg)
 
 
@@ -346,7 +346,7 @@ title: Weekend Longreads 2024
 
   * [AI Can Speed Drug Discovery. But Is It Really Better Than a Human?](https://www.bloomberg.com/news/articles/2024-01-31/ai-speeds-up-drug-development-but-effectiveness-is-untested?sref=Szq5ylDR) (Bloomberg)
   * [The scariest sound on TikTok](https://www.theverge.com/24041562/tiktok-north-sea-hoist-the-colours?utm_source=flipboard&utm_content=tech%2Fmagazine%2FTech+Longreads) (The Verge)
-  * [The 150 Greatest Science Fiction Movies of All Time](https://www.rollingstone.com/tv-movies/tv-movie-lists/best-sci-fi-movies-1234893930/the-martian-2013-1234931143/)
+  * [The 150 Greatest Science Fiction Movies of All Time](https://www.rollingstone.com/tv-movies/tv-movie-lists/best-sci-fi-movies-1234893930/the-martian-2013-1234931143/) (Rolling Stone)
   * [LATE BLOOMER](https://archive.vanityfair.com/article/2024/2/1/late-bloomer)
 
 

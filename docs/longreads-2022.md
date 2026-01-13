@@ -252,7 +252,7 @@ title: Weekend Longreads 2022
   * [Keeping Phones Running in Wartime Pushes Kyivstar to the Limit](https://www.bloomberg.com/news/articles/2022-07-04/keeping-phones-running-in-wartime-pushes-kyivstar-to-the-limit?sref=Szq5ylDR) (Bloomberg)
   * [The Metaverse in 2040](https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/)
   * [Not Just a Tennis Podcast, but Rather ‘The’ Tennis Podcast](https://www.nytimes.com/2022/06/28/sports/tennis/tennis-podcast-wimbledon.html?partner=slack&smid=sl-shar) (NYTimes)
-  * [Inside a Superfan's Secret Friendship With Eddie Van Halen](https://www.rollingstone.com/music/music-features/eddie-van-halen-secret-friendship-emails-1367678/)
+  * [Inside a Superfan's Secret Friendship With Eddie Van Halen](https://www.rollingstone.com/music/music-features/eddie-van-halen-secret-friendship-emails-1367678/) (Rolling Stone)
 
 
 
@@ -480,7 +480,7 @@ title: Weekend Longreads 2022
 
   * [Line Goes Up – The Problem With NFTs](https://www.youtube.com/watch?v=YQ_xWvX1n9g) (YouTube)
   * [Three things web3 should fix in 2022](https://www.platformer.news/p/three-things-web3-should-fix-in-2022)
-  * [The NFT Art World Wouldn’t Be the Same Without This Woman’s ‘Wide-Awake Hallucinations’](https://www.rollingstone.com/culture/culture-features/seneca-bored-ape-yacht-club-digital-art-nfts-1280341/)
+  * [The NFT Art World Wouldn’t Be the Same Without This Woman’s ‘Wide-Awake Hallucinations’](https://www.rollingstone.com/culture/culture-features/seneca-bored-ape-yacht-club-digital-art-nfts-1280341/) (Rolling Stone)
   * [Nothing Sacred: These Apps Reserve The Right To Sell Your Prayers](https://www.buzzfeednews.com/article/emilybakerwhite/apps-selling-your-prayers)
   * [Your Hotel Concierge Is Probably a Texting Robot. Srsly.](https://www.wsj.com/articles/your-hotel-concierge-is-probably-a-texting-robot-srsly-11642951463?mod=djemalertNEWS) (WSJ)
   * [Why Netflix Just Had Its Worst Day in A Decade](https://www.bloomberg.com/news/newsletters/2022-01-23/why-netflix-just-had-its-worst-day-in-a-decade?sref=Szq5ylDR) (Bloomberg)
