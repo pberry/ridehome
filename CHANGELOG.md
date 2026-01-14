@@ -35,6 +35,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
   - **Remaining:** 262 NULLs from unknown domains (small sites, substacks, sponsor links)
   - Affects: `source_normalizer.py` (new), `migrate_sources.py` (new), `extract.py`
 
+- **Auto-generated category sidebar** - Category sidebar now generated from database
+  - **Problem:** Sidebar was static HTML requiring manual updates when categories changed
+  - **Solution:**
+    1. Created `generate_sidebar()` function in `generate_category_pages.py`
+    2. Sidebar generates from database query (all categories, alphabetical)
+    3. No link counts in sidebar (would force regeneration on every link addition)
+  - **Benefits:**
+    - Sidebar updates automatically when categories are added/removed
+    - No manual maintenance required
+    - Consistent across all pages (category pages and year pages)
+  - **Regeneration:** Only when category list changes (rare), not on daily link additions
+  - Affects: `generate_category_pages.py`, `docs/_includes/categories/sidebar.html`
+
+### Changed
+- **Top Topics now link to category pages** - Status section "Top 3 Topics" are now clickable
+  - Added links from homepage status section to category pages
+  - Uses same `category_to_slug()` function as category page generation
+  - Affects: `status_generator.py`, `docs/index.md`
+
+- **Year pages use sidebar include** - Removed inline sidebar with counts
+  - Year pages now use `{% include categories/sidebar.html %}` (consistent with category pages)
+  - Removed `get_all_categories_with_counts()` function (no longer needed)
+  - Year pages only regenerate when links are added to that year or categories change
+  - Sidebar consistency across all pages (no more duplication)
+  - Affects: `generate_year_pages.py`, all year page markdown files
+
+### Fixed
+- **Category page sidebar not rendering** - Missing layout specification in frontmatter
+  - **Problem:** Category pages had sidebar include but Jekyll wasn't applying the layout
+  - **Root cause:** Generated pages missing `layout: category` in frontmatter
+  - **Solution:** Added `layout: category` to frontmatter in `generate_category_pages.py`
+  - Affects: `generate_category_pages.py`, all category page markdown files
+
 ## [2.0.1] - 2026-01-09
 
 ### Fixed
