@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say](https://www.reuters.com/world/china/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say-2026-01-14/) (Reuters)
+- [Apple Struggling With Key Material Shortage as AI Chips Drain Supply](https://www.macrumors.com/2026/01/14/apple-struggling-with-key-material-shortage/) (MacRumors)
 - [Chinese Firms Dominated Global Humanoid Robot Shipments in 2025](https://www.bloomberg.com/news/articles/2026-01-08/chinese-firms-dominated-global-humanoid-robot-shipments-in-2025) (Bloomberg)
 - [The Man Who Could Be Apple’s Next C.E.O.](https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html) (NYTimes)
 - [What surprised us the most at CES 2026](https://www.theverge.com/tech/857406/ces-2026-surprises) (The Verge)

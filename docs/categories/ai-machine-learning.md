@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million](https://www.theinformation.com/articles/microsofts-spending-anthropic-ai-pace-hit-500-million?rc=i9gkgs) (The Information)
+- [McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586?utm_sf_post_ref=651030719&utm_sf_cserv_ref=18949452) (FT)
 - [Meta Begins Job Cuts as It Shifts From Metaverse to AI Devices](https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones) (Bloomberg)
 - [Google Gemini Partnership With Apple Will Go Beyond Siri Revamp](https://www.macrumors.com/2026/01/12/google-gemini-future-apple-intelligence-features/) (MacRumors)
 - [Anthropic’s new Cowork tool offers Claude Code without the code](https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/) (TechCrunch)

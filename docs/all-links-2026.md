@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, January 14 2026 - NOT Alright, Alright, Alright**
+
+  * [Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say](https://www.reuters.com/world/china/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say-2026-01-14/) (Reuters)
+  * [Meta is closing down three VR studios as part of its metaverse cuts](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature) (The Verge)
+  * [Tesla Driver-Assist System FSD Will Switch to Subscription-Only, Musk Says](https://www.bloomberg.com/news/articles/2026-01-14/tesla-driver-assist-system-fsd-will-switch-to-subscription-only-musk-says) (Bloomberg)
+  * [Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?st=nMHyce&reflink=desktopwebshare_permalink) (WSJ)
+  * [Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million](https://www.theinformation.com/articles/microsofts-spending-anthropic-ai-pace-hit-500-million?rc=i9gkgs) (The Information)
+  * [Apple Struggling With Key Material Shortage as AI Chips Drain Supply](https://www.macrumors.com/2026/01/14/apple-struggling-with-key-material-shortage/) (MacRumors)
+  * [McKinsey challenges graduates to use AI chatbot in recruitment overhaul](https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586?utm_sf_post_ref=651030719&utm_sf_cserv_ref=18949452) (FT)
+
+
+
 **Tuesday, January 13 2026 - Microsoft Pledges To Pay Its Own Way**
 
   * [Microsoft responds to AI data center revolt, vowing to cover full power costs and reject local tax breaks](https://www.geekwire.com/2026/microsoft-responds-to-ai-data-center-revolt-vowing-to-cover-full-power-costs-and-reject-local-tax-breaks/) (GeekWire)

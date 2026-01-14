@@ -5,6 +5,12 @@ layout: category
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Meta is closing down three VR studios as part of its metaverse cuts](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature) (The Verge)
+
 ## 2025
 
 ### December
