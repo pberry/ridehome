@@ -27,12 +27,12 @@
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **Bloomberg** | 249 |
+| 🥇 | **Bloomberg** | 250 |
 | 🥈 | **The Verge** | 246 |
 | 🥉 | **TechCrunch** | 138 |
 | 4 | WSJ | 94 |
-| 5 | Reuters | 59 |
-| 6 | Financial Times | 59 |
+| 5 | FT | 85 |
+| 6 | Reuters | 59 |
 | 7 | CNBC | 58 |
 | 8 | NYTimes | 55 |
 | 9 | The Information | 45 |
@@ -44,6 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **Bloomberg** | 15 |
+| 🥈 | **NYTimes** | 12 |
+| 🥉 | **The Verge** | 11 |
+| 4 | Wired | 10 |
+| 5 | WSJ | 8 |
+| 6 | The Atlantic | 5 |
+| 7 | The New Yorker | 5 |
+| 8 | Ars Technica | 4 |
+| 9 | FT | 3 |
+| 10 | New York Magazine | 3 |
 
 ---
 
@@ -88,7 +98,8 @@ The tech companies that dominated headlines in 2024:
 ## 💡 Fun Facts
 
 - 🏆 **Most Mentioned Company:** Apple dominated with 453 mentions - hardware and services still commanded attention
-- 📰 **Top Daily News Source:** Bloomberg with 249 links
+- 📰 **Top Daily News Source:** Bloomberg with 250 links
+- 📖 **Top Longreads Source:** Bloomberg (15 articles)
 - 📊 **Links Per Episode:** An average of 6.4 daily links kept listeners informed
 - 📅 **Consistency:** 245 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,676 total links from premium sources
@@ -103,4 +114,4 @@ The tech companies that dominated headlines in 2024:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2024.md and docs/longreads-2024.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2024.md and docs/longreads-2024.md_

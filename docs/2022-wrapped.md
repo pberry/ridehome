@@ -28,15 +28,15 @@
 | Rank | Source | Links |
 |------|--------|-------|
 | 🥇 | **The Verge** | 242 |
-| 🥈 | **Bloomberg** | 195 |
+| 🥈 | **Bloomberg** | 200 |
 | 🥉 | **TechCrunch** | 143 |
 | 4 | WSJ | 98 |
 | 5 | CNBC | 74 |
 | 6 | NYTimes | 49 |
-| 7 | The Block | 40 |
-| 8 | Washington Post | 39 |
-| 9 | Engadget | 37 |
-| 10 | CoinDesk | 35 |
+| 7 | FT | 45 |
+| 8 | The Block | 40 |
+| 9 | Washington Post | 39 |
+| 10 | Engadget | 37 |
 
 ---
 
@@ -44,6 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **Bloomberg** | 26 |
+| 🥈 | **NYTimes** | 19 |
+| 🥉 | **WSJ** | 19 |
+| 4 | Wired | 15 |
+| 5 | The Verge | 14 |
+| 6 | The Atlantic | 8 |
+| 7 | The New Yorker | 7 |
+| 8 | Fast Company | 7 |
+| 9 | Forbes | 7 |
+| 10 | Rest of World | 6 |
 
 ---
 
@@ -88,6 +98,7 @@ The tech companies that dominated headlines in 2022:
 
 - 🏆 **Most Mentioned Company:** Apple dominated with 358 mentions
 - 📰 **Top Daily News Source:** The Verge with 242 links
+- 📖 **Top Longreads Source:** Bloomberg (26 articles)
 - 📊 **Links Per Episode:** An average of 6.5 daily links kept listeners informed
 - 📅 **Consistency:** 246 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,864 total links from premium sources
@@ -102,4 +113,4 @@ The tech companies that dominated headlines in 2022:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2022.md and docs/longreads-2022.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2022.md and docs/longreads-2022.md_

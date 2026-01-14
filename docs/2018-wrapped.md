@@ -28,12 +28,12 @@
 | Rank | Source | Links |
 |------|--------|-------|
 | 🥇 | **The Verge** | 112 |
-| 🥈 | **TechCrunch** | 90 |
+| 🥈 | **TechCrunch** | 94 |
 | 🥉 | **Bloomberg** | 78 |
-| 4 | WSJ | 60 |
-| 5 | CNBC | 45 |
-| 6 | NYTimes | 37 |
-| 7 | Wired | 29 |
+| 4 | WSJ | 61 |
+| 5 | NYTimes | 47 |
+| 6 | CNBC | 46 |
+| 7 | Wired | 30 |
 | 8 | Recode | 21 |
 | 9 | Engadget | 20 |
 | 10 | Axios | 18 |
@@ -46,10 +46,10 @@
 |------|--------|----------|
 | 🥇 | **Wired** | 17 |
 | 🥈 | **The Atlantic** | 13 |
-| 🥉 | **Bloomberg** | 12 |
-| 4 | WSJ | 10 |
-| 5 | The Verge | 10 |
-| 6 | NYTimes | 9 |
+| 🥉 | **NYTimes** | 12 |
+| 4 | Bloomberg | 12 |
+| 5 | WSJ | 11 |
+| 6 | The Verge | 10 |
 | 7 | The New Yorker | 6 |
 | 8 | Motherboard | 5 |
 | 9 | The Information | 4 |
@@ -111,4 +111,4 @@ The tech companies that dominated headlines in 2018:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2018.md and docs/longreads-2018.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2018.md and docs/longreads-2018.md_

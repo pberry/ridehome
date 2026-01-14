@@ -27,16 +27,16 @@
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **The Verge** | 297 |
-| 🥈 | **Bloomberg** | 155 |
-| 🥉 | **CNBC** | 112 |
-| 4 | TechCrunch | 99 |
-| 5 | WSJ | 90 |
-| 6 | Engadget | 35 |
-| 7 | NYTimes | 34 |
-| 8 | Reuters | 33 |
-| 9 | Financial Times | 31 |
-| 10 | Tech Crunch | 30 |
+| 🥇 | **The Verge** | 298 |
+| 🥈 | **Bloomberg** | 157 |
+| 🥉 | **TechCrunch** | 129 |
+| 4 | CNBC | 112 |
+| 5 | WSJ | 108 |
+| 6 | NYTimes | 51 |
+| 7 | FT | 37 |
+| 8 | Engadget | 35 |
+| 9 | Reuters | 33 |
+| 10 | Axios | 28 |
 
 ---
 
@@ -44,11 +44,11 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **The Verge** | 17 |
-| 🥈 | **Bloomberg** | 17 |
-| 🥉 | **NYTimes** | 16 |
-| 4 | WSJ | 16 |
-| 5 | Bloomberg Businessweek | 11 |
+| 🥇 | **NYTimes** | 23 |
+| 🥈 | **WSJ** | 20 |
+| 🥉 | **Bloomberg** | 18 |
+| 4 | The Verge | 17 |
+| 5 | Bloomberg Businessweek | 12 |
 | 6 | Wired | 10 |
 | 7 | The Atlantic | 10 |
 | 8 | The New Yorker | 9 |
@@ -82,7 +82,7 @@ The tech companies that dominated headlines in 2021:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **516** | ███████████████████████████████████████████████████████████████████████████████████████████████████████ |
+| 🏆 **Apple** | **520** | ████████████████████████████████████████████████████████████████████████████████████████████████████████ |
 | 🔍 **Google** | **246** | █████████████████████████████████████████████████ |
 | 📦 **Amazon** | **198** | ███████████████████████████████████████ |
 | 💼 **Microsoft** | **176** | ███████████████████████████████████ |
@@ -96,9 +96,9 @@ The tech companies that dominated headlines in 2021:
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 516 mentions
-- 📰 **Top Daily News Source:** The Verge with 297 links
-- 📖 **Top Longreads Source:** The Verge (17 articles)
+- 🏆 **Most Mentioned Company:** Apple dominated with 520 mentions
+- 📰 **Top Daily News Source:** The Verge with 298 links
+- 📖 **Top Longreads Source:** NYTimes (23 articles)
 - 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
 - 📅 **Consistency:** 264 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,930 total links from premium sources
@@ -113,4 +113,4 @@ The tech companies that dominated headlines in 2021:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2021.md and docs/longreads-2021.md_

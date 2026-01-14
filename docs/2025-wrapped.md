@@ -27,16 +27,16 @@
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **Bloomberg** | 266 |
-| 🥈 | **The Verge** | 186 |
+| 🥇 | **Bloomberg** | 267 |
+| 🥈 | **The Verge** | 189 |
 | 🥉 | **TechCrunch** | 136 |
 | 4 | WSJ | 118 |
-| 5 | CNBC | 86 |
-| 6 | FT | 66 |
-| 7 | NYTimes | 62 |
+| 5 | FT | 108 |
+| 6 | CNBC | 86 |
+| 7 | NYTimes | 63 |
 | 8 | The Information | 53 |
 | 9 | Reuters | 52 |
-| 10 | Financial Times | 42 |
+| 10 | Wired | 37 |
 
 ---
 
@@ -44,11 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **Zhengdong Wang** | 1 |
-| 🥈 | **WSJ** | 1 |
-| 🥉 | **FT** | 1 |
-| 4 | Andrew McCalip | 1 |
-| 5 | The Verge | 1 |
+| 🥇 | **NYTimes** | 12 |
+| 🥈 | **The Verge** | 11 |
+| 🥉 | **WSJ** | 9 |
+| 4 | FT | 9 |
+| 5 | Bloomberg | 9 |
+| 6 | Wired | 8 |
+| 7 | The New Yorker | 3 |
+| 8 | Quanta Magazine | 3 |
+| 9 | Ars Technica | 3 |
+| 10 | MIT Technology Review | 2 |
 
 ---
 
@@ -93,8 +98,8 @@ The tech companies that dominated headlines in 2025:
 ## 💡 Fun Facts
 
 - 🏆 **Most Mentioned Company:** OpenAI dominated with 391 mentions - AI clearly defined the tech narrative
-- 📰 **Top Daily News Source:** Bloomberg with 266 links
-- 📖 **Top Longreads Source:** Zhengdong Wang (1 articles)
+- 📰 **Top Daily News Source:** Bloomberg with 267 links
+- 📖 **Top Longreads Source:** NYTimes (12 articles)
 - 📊 **Links Per Episode:** An average of 6.2 daily links kept listeners informed
 - 📅 **Consistency:** 243 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,624 total links from premium sources
@@ -109,4 +114,4 @@ The tech companies that dominated headlines in 2025:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2025.md and docs/longreads-2025.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2025.md and docs/longreads-2025.md_

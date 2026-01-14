@@ -15,40 +15,6 @@ from zoneinfo import ZoneInfo
 PACIFIC_TZ = ZoneInfo("America/Los_Angeles")
 
 
-def category_to_slug(category_name):
-    """Convert category name to URL-safe slug."""
-    return category_name.lower().replace('/', '-').replace(' ', '-')
-
-
-def get_all_categories_with_counts(db_path='ridehome.db'):
-    """
-    Get all categories with link counts, sorted by count descending.
-
-    Returns:
-        list: [{'name': str, 'slug': str, 'count': int}, ...]
-    """
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-
-    cursor.execute("""
-        SELECT ai_category, COUNT(*) as count
-        FROM links
-        WHERE ai_category IS NOT NULL
-          AND link_type = 'showlink'
-        GROUP BY ai_category
-        ORDER BY count DESC
-    """)
-
-    categories = []
-    for row in cursor.fetchall():
-        categories.append({
-            'name': row[0],
-            'slug': category_to_slug(row[0]),
-            'count': row[1]
-        })
-
-    conn.close()
-    return categories
 
 
 # Configuration for each page type
@@ -249,17 +215,7 @@ def generate_markdown_content(year, link_type, links, config, db_path='ridehome.
 
     # Add category sidebar (only for showlinks)
     if link_type == 'showlink':
-        categories = get_all_categories_with_counts(db_path)
-
-        parts.append('<aside class="category-sidebar">')
-        parts.append('  <h2>Browse by Topic</h2>')
-        parts.append('  <ul>')
-
-        for cat in categories:
-            parts.append(f'    <li><a href="categories/{cat["slug"]}.html">{cat["name"]}<span class="category-count">({cat["count"]})</span></a></li>')
-
-        parts.append('  </ul>')
-        parts.append('</aside>')
+        parts.append('{% include categories/sidebar.html %}')
 
     parts.append('</div>')  # .page-with-sidebar
     parts.append('')

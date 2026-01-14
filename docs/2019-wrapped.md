@@ -28,15 +28,15 @@
 | Rank | Source | Links |
 |------|--------|-------|
 | 🥇 | **The Verge** | 194 |
-| 🥈 | **TechCrunch** | 133 |
+| 🥈 | **TechCrunch** | 134 |
 | 🥉 | **Bloomberg** | 76 |
 | 4 | CNBC | 63 |
-| 5 | NYTimes | 57 |
-| 6 | WSJ | 50 |
+| 5 | NYTimes | 63 |
+| 6 | WSJ | 54 |
 | 7 | Engadget | 34 |
 | 8 | VentureBeat | 32 |
-| 9 | Reuters | 28 |
-| 10 | Wired | 28 |
+| 9 | Reuters | 29 |
+| 10 | Wired | 29 |
 
 ---
 
@@ -44,15 +44,15 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
-| 🥇 | **The Verge** | 16 |
-| 🥈 | **NYTimes** | 14 |
-| 🥉 | **Wired** | 14 |
+| 🥇 | **The Verge** | 18 |
+| 🥈 | **Wired** | 15 |
+| 🥉 | **NYTimes** | 14 |
 | 4 | The Atlantic | 14 |
-| 5 | Fast Company | 10 |
-| 6 | OneZero | 9 |
-| 7 | Forbes | 9 |
-| 8 | Bloomberg Businessweek | 8 |
-| 9 | Ars Technica | 7 |
+| 5 | Bloomberg Businessweek | 11 |
+| 6 | Fast Company | 10 |
+| 7 | Ars Technica | 9 |
+| 8 | OneZero | 9 |
+| 9 | Forbes | 9 |
 | 10 | TechCrunch | 7 |
 
 ---
@@ -82,8 +82,8 @@ The tech companies that dominated headlines in 2019:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **353** | ██████████████████████████████████████████████████████████████████████ |
-| 🔍 **Google** | **279** | ███████████████████████████████████████████████████████ |
+| 🏆 **Apple** | **355** | ███████████████████████████████████████████████████████████████████████ |
+| 🔍 **Google** | **278** | ███████████████████████████████████████████████████████ |
 | 📦 **Amazon** | **211** | ██████████████████████████████████████████ |
 | 💼 **Microsoft** | **104** | ████████████████████ |
 | 🎬 **Netflix** | **57** | ███████████ |
@@ -95,9 +95,9 @@ The tech companies that dominated headlines in 2019:
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 353 mentions
+- 🏆 **Most Mentioned Company:** Apple dominated with 355 mentions
 - 📰 **Top Daily News Source:** The Verge with 194 links
-- 📖 **Top Longreads Source:** The Verge (16 articles)
+- 📖 **Top Longreads Source:** The Verge (18 articles)
 - 📊 **Links Per Episode:** An average of 7.3 daily links kept listeners informed
 - 📅 **Consistency:** 180 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,622 total links from premium sources
@@ -112,4 +112,4 @@ The tech companies that dominated headlines in 2019:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2019.md and docs/longreads-2019.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2019.md and docs/longreads-2019.md_

@@ -27,16 +27,16 @@
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **The Verge** | 251 |
-| 🥈 | **Bloomberg** | 208 |
+| 🥇 | **The Verge** | 252 |
+| 🥈 | **Bloomberg** | 211 |
 | 🥉 | **TechCrunch** | 146 |
-| 4 | WSJ | 102 |
-| 5 | CNBC | 62 |
-| 6 | NYTimes | 57 |
-| 7 | Reuters | 51 |
-| 8 | The Information | 40 |
-| 9 | Financial Times | 32 |
-| 10 | FT | 29 |
+| 4 | WSJ | 105 |
+| 5 | FT | 62 |
+| 6 | CNBC | 62 |
+| 7 | NYTimes | 61 |
+| 8 | Reuters | 51 |
+| 9 | The Information | 40 |
+| 10 | Ars Technica | 26 |
 
 ---
 
@@ -44,6 +44,16 @@
 
 | Rank | Source | Articles |
 |------|--------|----------|
+| 🥇 | **Bloomberg** | 18 |
+| 🥈 | **NYTimes** | 17 |
+| 🥉 | **The Verge** | 13 |
+| 4 | Wired | 9 |
+| 5 | WSJ | 7 |
+| 6 | The Atlantic | 6 |
+| 7 | Vulture | 6 |
+| 8 | Fast Company | 5 |
+| 9 | Washington Post | 5 |
+| 10 | Vox | 5 |
 
 ---
 
@@ -88,7 +98,8 @@ The tech companies that dominated headlines in 2023:
 ## 💡 Fun Facts
 
 - 🏆 **Most Mentioned Company:** Apple dominated with 374 mentions
-- 📰 **Top Daily News Source:** The Verge with 251 links
+- 📰 **Top Daily News Source:** The Verge with 252 links
+- 📖 **Top Longreads Source:** Bloomberg (18 articles)
 - 📊 **Links Per Episode:** An average of 6.3 daily links kept listeners informed
 - 📅 **Consistency:** 244 daily episodes means coverage on most weekdays throughout the year
 - 🎯 **Quality Curation:** 1,708 total links from premium sources
@@ -103,4 +114,4 @@ The tech companies that dominated headlines in 2023:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2023.md and docs/longreads-2023.md_

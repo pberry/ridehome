@@ -27,13 +27,13 @@
 
 | Rank | Source | Links |
 |------|--------|-------|
-| 🥇 | **The Verge** | 294 |
+| 🥇 | **The Verge** | 295 |
 | 🥈 | **TechCrunch** | 182 |
-| 🥉 | **Bloomberg** | 150 |
-| 4 | CNBC | 112 |
+| 🥉 | **Bloomberg** | 152 |
+| 4 | CNBC | 113 |
 | 5 | WSJ | 102 |
-| 6 | NYTimes | 80 |
-| 7 | Reuters | 58 |
+| 6 | NYTimes | 81 |
+| 7 | Reuters | 59 |
 | 8 | VentureBeat | 49 |
 | 9 | 9to5Mac | 42 |
 | 10 | Engadget | 42 |
@@ -45,13 +45,13 @@
 | Rank | Source | Articles |
 |------|--------|----------|
 | 🥇 | **NYTimes** | 29 |
-| 🥈 | **Wired** | 22 |
+| 🥈 | **Wired** | 24 |
 | 🥉 | **WSJ** | 17 |
-| 4 | Protocol | 12 |
-| 5 | The Verge | 12 |
-| 6 | Fast Company | 11 |
+| 4 | Fast Company | 13 |
+| 5 | Protocol | 12 |
+| 6 | The Verge | 12 |
 | 7 | Bloomberg | 9 |
-| 8 | Ars Technica | 8 |
+| 8 | Ars Technica | 9 |
 | 9 | OneZero | 8 |
 | 10 | Forbes | 8 |
 
@@ -82,7 +82,7 @@ The tech companies that dominated headlines in 2020:
 
 | Company | Mentions | Chart |
 |---------|----------|-------|
-| 🏆 **Apple** | **563** | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████ |
+| 🏆 **Apple** | **562** | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████ |
 | 🔍 **Google** | **398** | ███████████████████████████████████████████████████████████████████████████████ |
 | 💼 **Microsoft** | **208** | █████████████████████████████████████████ |
 | 📦 **Amazon** | **201** | ████████████████████████████████████████ |
@@ -95,8 +95,8 @@ The tech companies that dominated headlines in 2020:
 
 ## 💡 Fun Facts
 
-- 🏆 **Most Mentioned Company:** Apple dominated with 563 mentions
-- 📰 **Top Daily News Source:** The Verge with 294 links
+- 🏆 **Most Mentioned Company:** Apple dominated with 562 mentions
+- 📰 **Top Daily News Source:** The Verge with 295 links
 - 📖 **Top Longreads Source:** NYTimes (29 articles)
 - 📊 **Links Per Episode:** An average of 7.3 daily links kept listeners informed
 - 📅 **Consistency:** 257 daily episodes means coverage on most weekdays throughout the year
@@ -112,4 +112,4 @@ The tech companies that dominated headlines in 2020:
 
 ---
 
-_Generated 01/09/26_ | _Data source: docs/all-links-2020.md and docs/longreads-2020.md_
+_Generated 01/14/26_ | _Data source: docs/all-links-2020.md and docs/longreads-2020.md_
