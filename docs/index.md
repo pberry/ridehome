@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, January 12, 2026 - Siri Goes With Gemini</h3>
+  <h3>Tuesday, January 13, 2026 - Microsoft Pledges To Pay Its Own Way</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html">Apple picks Google’s Gemini to run AI-powered Siri coming this year</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ft.com/content/8eec6d77-c72e-4e8f-a6b5-ce82575e71c6">UK’s Ofcom investigates X over Grok’s sexualised AI images of women and children</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1">Anthropic expands into healthcare a week after OpenAI launched a similar product</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/">Stack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI</a> (Sherwood News) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theatlantic.com/technology/2026/01/ai-memorization-research/685552/?gift=iWa_iB9lkw4UuiWbIbrWGUKS1lfoO5FgFgRv6F5W4_c&utm_source=copy-link&utm_medium=social&utm_campaign=share">AI’s Memorization Crisis</a> (The Atlantic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.geekwire.com/2026/microsoft-responds-to-ai-data-center-revolt-vowing-to-cover-full-power-costs-and-reject-local-tax-breaks/">Microsoft responds to AI data center revolt, vowing to cover full power costs and reject local tax breaks</a> (GeekWire) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones">Meta Begins Job Cuts as It Shifts From Metaverse to AI Devices</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/01/13/apple-debuts-apple-creator-studio-subscription-heres-what-you-get/">Apple debuts ‘Apple Creator Studio’ subscription, here’s what you get</a> (9to5Mac) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.macrumors.com/2026/01/12/google-gemini-future-apple-intelligence-features/">Google Gemini Partnership With Apple Will Go Beyond Siri Revamp</a> (MacRumors) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/">Anthropic’s new Cowork tool offers Claude Code without the code</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-12T20:00:08-08:00">January 12, 2026 at 08:00 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-13T17:59:43-08:00">January 13, 2026 at 05:59 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,123</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,128</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,743</span></li>
       </ul>
     </div>
@@ -49,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(109 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(75 links)</span></li>
       </ol>
@@ -59,7 +59,7 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(289 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(113 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(112 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>

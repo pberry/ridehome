@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, January 13 2026 - Microsoft Pledges To Pay Its Own Way**
+
+  * [Microsoft responds to AI data center revolt, vowing to cover full power costs and reject local tax breaks](https://www.geekwire.com/2026/microsoft-responds-to-ai-data-center-revolt-vowing-to-cover-full-power-costs-and-reject-local-tax-breaks/) (GeekWire)
+  * [Meta Begins Job Cuts as It Shifts From Metaverse to AI Devices](https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones) (Bloomberg)
+  * [Apple debuts ‘Apple Creator Studio’ subscription, here’s what you get](https://9to5mac.com/2026/01/13/apple-debuts-apple-creator-studio-subscription-heres-what-you-get/) (9to5Mac)
+  * [Google Gemini Partnership With Apple Will Go Beyond Siri Revamp](https://www.macrumors.com/2026/01/12/google-gemini-future-apple-intelligence-features/) (MacRumors)
+  * [Anthropic’s new Cowork tool offers Claude Code without the code](https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/) (TechCrunch)
+
+
+
 **Monday, January 12 2026 - Siri Goes With Gemini**
 
   * [Apple picks Google’s Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html) (CNBC)
@@ -72,12 +82,12 @@
   <h2>Browse by Topic</h2>
   <ul>
     <li><a href="categories/hardware-chips.html">Hardware/Chips<span class="category-count">(2250)</span></a></li>
-    <li><a href="categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1616)</span></a></li>
-    <li><a href="categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1311)</span></a></li>
+    <li><a href="categories/ai-machine-learning.html">AI/Machine Learning<span class="category-count">(1619)</span></a></li>
+    <li><a href="categories/regulation-policy.html">Regulation/Policy<span class="category-count">(1312)</span></a></li>
     <li><a href="categories/other-tech-news.html">Other Tech News<span class="category-count">(1292)</span></a></li>
     <li><a href="categories/social-media.html">Social Media<span class="category-count">(1082)</span></a></li>
     <li><a href="categories/security-privacy.html">Security/Privacy<span class="category-count">(899)</span></a></li>
-    <li><a href="categories/streaming-entertainment.html">Streaming/Entertainment<span class="category-count">(736)</span></a></li>
+    <li><a href="categories/streaming-entertainment.html">Streaming/Entertainment<span class="category-count">(737)</span></a></li>
     <li><a href="categories/crypto-blockchain.html">Crypto/Blockchain<span class="category-count">(674)</span></a></li>
     <li><a href="categories/cloud-enterprise.html">Cloud/Enterprise<span class="category-count">(628)</span></a></li>
     <li><a href="categories/e-commerce-retail.html">E-commerce/Retail<span class="category-count">(529)</span></a></li>
