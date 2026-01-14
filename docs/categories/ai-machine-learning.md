@@ -9,6 +9,9 @@ layout: category
 
 ### January
 
+- [Meta Begins Job Cuts as It Shifts From Metaverse to AI Devices](https://www.bloomberg.com/news/articles/2026-01-13/meta-begins-jobs-cuts-after-shifting-focus-from-metaverse-to-phones) (Bloomberg)
+- [Google Gemini Partnership With Apple Will Go Beyond Siri Revamp](https://www.macrumors.com/2026/01/12/google-gemini-future-apple-intelligence-features/) (MacRumors)
+- [Anthropic’s new Cowork tool offers Claude Code without the code](https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/) (TechCrunch)
 - [Apple picks Google’s Gemini to run AI-powered Siri coming this year](https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html) (CNBC)
 - [Anthropic expands into healthcare a week after OpenAI launched a similar product](https://www.businessinsider.com/anthropic-chases-openai-ai-heath-claude-2026-1) (Business Insider)
 - [Stack Overflow’s forum is dead thanks to AI, but the company’s still kicking... thanks to AI](https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/) (Sherwood News)

@@ -119,6 +119,34 @@ def get_all_categories(db_path):
         return [row[0] for row in cursor.fetchall()]
 
 
+def generate_sidebar(categories, sidebar_path='docs/_includes/categories/sidebar.html'):
+    """
+    Generate category sidebar HTML.
+
+    Args:
+        categories: List of category names (sorted)
+        sidebar_path: Output path for sidebar HTML
+    """
+    lines = []
+    lines.append('<aside class="category-sidebar">')
+    lines.append('  <h2>Categories</h2>')
+    lines.append('  <ul>')
+
+    for category in categories:
+        slug = category_to_slug(category)
+        lines.append(f'    <li><a href="/ridehome/categories/{slug}.html">{category}</a></li>')
+
+    lines.append('  </ul>')
+    lines.append('</aside>')
+
+    sidebar_html = '\n'.join(lines) + '\n'
+
+    with open(sidebar_path, 'w', encoding='utf-8') as f:
+        f.write(sidebar_html)
+
+    return sidebar_html
+
+
 def generate_all_category_pages(db_path='ridehome.db', output_dir='docs/categories'):
     """Generate category pages for all categories in database."""
     import os
@@ -156,6 +184,11 @@ def generate_all_category_pages(db_path='ridehome.db', output_dir='docs/categori
         # Count total links
         total_links = sum(len(links) for year_data in grouped_links.values() for links in year_data.values())
         print(f"  ✓ {category}: {total_links} links → {file_path}")
+
+    # Generate sidebar (no link counts, only regenerates when categories change)
+    print("\nGenerating category sidebar...")
+    generate_sidebar(categories)
+    print("  ✓ Sidebar generated at docs/_includes/categories/sidebar.html")
 
     print(f"\n✓ Generated {len(categories)} category pages in {output_dir}/")
 

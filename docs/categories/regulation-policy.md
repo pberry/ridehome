@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Microsoft responds to AI data center revolt, vowing to cover full power costs and reject local tax breaks](https://www.geekwire.com/2026/microsoft-responds-to-ai-data-center-revolt-vowing-to-cover-full-power-costs-and-reject-local-tax-breaks/) (GeekWire)
 - [UK’s Ofcom investigates X over Grok’s sexualised AI images of women and children](https://www.ft.com/content/8eec6d77-c72e-4e8f-a6b5-ce82575e71c6) (FT)
 - [Americans Hate AI. Which Party Will Benefit?](https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680) (Politico)
 

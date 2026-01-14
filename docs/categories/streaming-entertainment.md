@@ -5,6 +5,12 @@ layout: category
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Apple debuts ‘Apple Creator Studio’ subscription, here’s what you get](https://9to5mac.com/2026/01/13/apple-debuts-apple-creator-studio-subscription-heres-what-you-get/) (9to5Mac)
+
 ## 2025
 
 ### December
