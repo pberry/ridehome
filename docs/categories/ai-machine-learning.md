@@ -9,6 +9,10 @@ layout: category
 
 ### January
 
+- [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/) (TechCrunch)
+- [OpenAI rolls out age prediction on ChatGPT](https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/) (Reuters)
+- [OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch](https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=i9gkgs) (The Information)
+- [YouTubers will be able to make Shorts with their own AI likenesses](https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026) (The Verge)
 - [An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html) (NYTimes)
 - [Anthropic Uncovers AI Personality Crisis as Models Secretly Switch Identities](https://www.eweek.com/news/ai-personality-crisis/) (eWeek)
 - [OpenAI brings advertising to ChatGPT in push for new revenue](https://www.ft.com/content/ec1656cd-e07b-48ed-92a8-26c7fe517899?utm_sf_post_ref=652820930&utm_sf_cserv_ref=10977192) (FT)

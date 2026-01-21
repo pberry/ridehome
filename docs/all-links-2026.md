@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, January 21 2026 - Elon Says: IPO NOW!**
+
+  * [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/) (TechCrunch)
+  * [OpenAI rolls out age prediction on ChatGPT](https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/) (Reuters)
+  * [OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch](https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=i9gkgs) (The Information)
+  * [Netflix Is Testing Vertical Video Features For Mobile](https://www.hollywoodreporter.com/business/business-news/netflix-testing-vertical-video-features-for-mobile-1236479365/) (THR)
+  * [YouTubers will be able to make Shorts with their own AI likenesses](https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026) (The Verge)
+  * [YouTube CEO Neal Mohan’s Big Ideas for 2026: More Superstar Creators and Transparency, Less AI Slop](https://www.hollywoodreporter.com/business/digital/youtube-ceo-neal-mohan-2026-letter-ai-slop-1236479185/) (THR)
+  * [Why Elon Musk Is Racing to Take SpaceX Public](https://www.wsj.com/tech/why-elon-musk-is-racing-to-take-spacex-public-38f3de9b?st=18PqmA&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Tuesday, January 20 2026 - The “Assistant Axis”**
 
   * [Netflix revises its offer for Warner Bros. Discovery. Now, it’s all cash](https://www.cnn.com/2026/01/20/media/netflix-all-cash-offer-warner-bros-discovery) (CNN)

@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, January 20, 2026 - The “Assistant Axis”</h3>
+  <h3>Wednesday, January 21, 2026 - Elon Says: IPO NOW!</h3>
   <ul>
-    <li><a href="https://www.cnn.com/2026/01/20/media/netflix-all-cash-offer-warner-bros-discovery">Netflix revises its offer for Warner Bros. Discovery. Now, it’s all cash</a> (CNN) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement">Sony’s TV business is being taken over by TCL</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html">An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/01/20/most-of-instagrams-ads-ran-on-reels-in-2025-data-shows.html">Most of Instagram’s ads ran on Reels in 2025, data shows</a> (CNBC) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
-    <li><a href="https://www.eweek.com/news/ai-personality-crisis/">Anthropic Uncovers AI Personality Crisis as Models Secretly Switch Identities</a> (eWeek) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/">Anthropic’s CEO stuns Davos with Nvidia criticism</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/">OpenAI rolls out age prediction on ChatGPT</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=i9gkgs">OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.hollywoodreporter.com/business/business-news/netflix-testing-vertical-video-features-for-mobile-1236479365/">Netflix Is Testing Vertical Video Features For Mobile</a> (THR) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.theverge.com/news/864610/youtube-shorts-ai-likenesses-neal-mohan-2026">YouTubers will be able to make Shorts with their own AI likenesses</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.hollywoodreporter.com/business/digital/youtube-ceo-neal-mohan-2026-letter-ai-slop-1236479185/">YouTube CEO Neal Mohan’s Big Ideas for 2026: More Superstar Creators and Transparency, Less AI Slop</a> (THR) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.wsj.com/tech/why-elon-musk-is-racing-to-take-spacex-public-38f3de9b?st=18PqmA&reflink=desktopwebshare_permalink">Why Elon Musk Is Racing to Take SpaceX Public</a> (WSJ) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
   </ul>
 </section>
 
@@ -35,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-20T18:18:21-08:00">January 20, 2026 at 06:18 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-21T13:25:58-08:00">January 21, 2026 at 01:25 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,152</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,159</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,743</span></li>
       </ul>
     </div>
@@ -51,15 +53,15 @@
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(76 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(111 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
