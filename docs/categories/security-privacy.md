@@ -5,6 +5,12 @@ layout: category
 
 {% include categories/header.md %}
 
+## 2026
+
+### January
+
+- [Grok was finally updated to stop undressing women and children, X Safety says](https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/) (Ars Technica)
+
 ## 2025
 
 ### December

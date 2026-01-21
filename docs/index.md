@@ -3,15 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, January 14, 2026 - NOT Alright, Alright, Alright</h3>
+  <h3>Tuesday, January 20, 2026 - The “Assistant Axis”</h3>
   <ul>
-    <li><a href="https://www.reuters.com/world/china/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say-2026-01-14/">Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature">Meta is closing down three VR studios as part of its metaverse cuts</a> (The Verge) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-01-14/tesla-driver-assist-system-fsd-will-switch-to-subscription-only-musk-says">Tesla Driver-Assist System FSD Will Switch to Subscription-Only, Musk Says</a> (Bloomberg) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?st=nMHyce&reflink=desktopwebshare_permalink">Matthew McConaughey Trademarks Himself to Fight AI Misuse</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theinformation.com/articles/microsofts-spending-anthropic-ai-pace-hit-500-million?rc=i9gkgs">Microsoft’s Spending on Anthropic AI Is on Pace to Hit $500 Million</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.macrumors.com/2026/01/14/apple-struggling-with-key-material-shortage/">Apple Struggling With Key Material Shortage as AI Chips Drain Supply</a> (MacRumors) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.ft.com/content/de7855f0-f586-4708-a8ed-f0458eb25586?utm_sf_post_ref=651030719&utm_sf_cserv_ref=18949452">McKinsey challenges graduates to use AI chatbot in recruitment overhaul</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnn.com/2026/01/20/media/netflix-all-cash-offer-warner-bros-discovery">Netflix revises its offer for Warner Bros. Discovery. Now, it’s all cash</a> (CNN) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement">Sony’s TV business is being taken over by TCL</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html">An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/01/20/most-of-instagrams-ads-ran-on-reels-in-2025-data-shows.html">Most of Instagram’s ads ran on Reels in 2025, data shows</a> (CNBC) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
+    <li><a href="https://www.eweek.com/news/ai-personality-crisis/">Anthropic Uncovers AI Personality Crisis as Models Secretly Switch Identities</a> (eWeek) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -37,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-14T14:23:43-08:00">January 14, 2026 at 02:23 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-20T18:18:21-08:00">January 20, 2026 at 06:18 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,135</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,152</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,743</span></li>
       </ul>
     </div>
@@ -51,8 +49,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(109 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(76 links)</span></li>
       </ol>
     </div>
@@ -60,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(288 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(114 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(80 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(111 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
   </div>

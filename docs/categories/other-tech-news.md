@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool](https://www.bloomberg.com/news/articles/2026-01-18/-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool?fromMostRead=true) (Bloomberg)
 - [The cost of America’s nuclear revival](https://www.ft.com/content/9f6c4db1-559f-48e1-8c21-ac0bc1a1237c) (FT)
 - [Lego announces Smart Brick, the ‘most significant evolution’ in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years) (The Verge)
 - [Someone made a ton of money betting on Maduro’s capture](https://www.theverge.com/news/853765/someone-made-a-ton-of-money-betting-on-maduros-capture) (The Verge)

@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Ireland Is Trying to Get Back on the Data Center Bandwagon](https://www.bloomberg.com/news/articles/2026-01-14/ireland-wants-to-get-back-ai-data-centers-and-is) (Bloomberg)
 - [The data center rebellion is here, and it’s reshaping the political landscape](https://www.washingtonpost.com/business/2026/01/06/data-centers-backlash-impact-local-communities-opposition/) (Washington Post)
 
 ## 2025

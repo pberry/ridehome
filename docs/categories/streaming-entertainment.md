@@ -9,6 +9,9 @@ layout: category
 
 ### January
 
+- [Netflix revises its offer for Warner Bros. Discovery. Now, it’s all cash](https://www.cnn.com/2026/01/20/media/netflix-all-cash-offer-warner-bros-discovery) (CNN)
+- [There’s a Hit Movie Set Deep Inside an AI Lab—and It Will Give You Goosebumps](https://www.wsj.com/tech/ai/google-deepmind-documentary-youtube-thinking-game-732bfa06?st=NkQ8Hp&reflink=desktopwebshare_permalink) (WSJ)
+- [Spotify Raises Premium Subscription Prices in US to $13 a Month](https://www.bloomberg.com/news/articles/2026-01-15/spotify-raises-premium-subscription-prices-in-us-to-13-month) (Bloomberg)
 - [Apple debuts ‘Apple Creator Studio’ subscription, here’s what you get](https://9to5mac.com/2026/01/13/apple-debuts-apple-creator-studio-subscription-heres-what-you-get/) (9to5Mac)
 
 ## 2025

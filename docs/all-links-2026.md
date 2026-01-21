@@ -5,6 +5,38 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, January 20 2026 - The “Assistant Axis”**
+
+  * [Netflix revises its offer for Warner Bros. Discovery. Now, it’s all cash](https://www.cnn.com/2026/01/20/media/netflix-all-cash-offer-warner-bros-discovery) (CNN)
+  * [Sony’s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement) (The Verge)
+  * [An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them](https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html) (NYTimes)
+  * [Most of Instagram’s ads ran on Reels in 2025, data shows](https://www.cnbc.com/2026/01/20/most-of-instagrams-ads-ran-on-reels-in-2025-data-shows.html) (CNBC)
+  * [Anthropic Uncovers AI Personality Crisis as Models Secretly Switch Identities](https://www.eweek.com/news/ai-personality-crisis/) (eWeek)
+
+
+
+**Monday, January 19 2026 - Ads Come To ChatGPT**
+
+  * [OpenAI brings advertising to ChatGPT in push for new revenue](https://www.ft.com/content/ec1656cd-e07b-48ed-92a8-26c7fe517899?utm_sf_post_ref=652820930&utm_sf_cserv_ref=10977192) (FT)
+  * [OpenAI's Revenue Soars Past $20 Billion After 233% Jump—But Explosive Growth Comes With Massive Compute Costs And A $17 Billion Burn Rate](https://www.benzinga.com/markets/tech/26/01/49987763/openais-revenue-soars-past-20-billion-after-233-jump-but-explosive-growth-comes-with-massive-compute-costs-and-a-17-billion-burn-rate) (Benzinga)
+  * [Claude Is Taking the AI World by Storm, and Even Non-Nerds Are Blown Away](https://www.wsj.com/tech/ai/anthropic-claude-code-ai-7a46460e?st=Bz1LGf) (WSJ)
+  * [‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool](https://www.bloomberg.com/news/articles/2026-01-18/-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool?fromMostRead=true) (Bloomberg)
+  * [Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft](https://www.bloomberg.com/news/articles/2026-01-17/musk-seeks-up-to-134-billion-damages-from-openai-microsoft) (Bloomberg)
+  * [Thinking Machines Exodus Tests Investor Appetite for a $50 Billion Valuation](https://www.theinformation.com/articles/thinking-machines-exodus-tests-investor-appetite-50-billion-valuation?rc=i9gkgs) (The Information)
+  * [There’s a Hit Movie Set Deep Inside an AI Lab—and It Will Give You Goosebumps](https://www.wsj.com/tech/ai/google-deepmind-documentary-youtube-thinking-game-732bfa06?st=NkQ8Hp&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
+**Thursday, January 15 2026 - Ain’t No Drama Like AI Industry Drama**
+
+  * [Two Thinking Machines Lab Cofounders Are Leaving to Rejoin OpenAI](https://www.wired.com/story/thinking-machines-lab-cofounders-leave-for-openai/) (Wired)
+  * [Grok was finally updated to stop undressing women and children, X Safety says](https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/) (Ars Technica)
+  * [TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html) (CNBC)
+  * [Ireland Is Trying to Get Back on the Data Center Bandwagon](https://www.bloomberg.com/news/articles/2026-01-14/ireland-wants-to-get-back-ai-data-centers-and-is) (Bloomberg)
+  * [Spotify Raises Premium Subscription Prices in US to $13 a Month](https://www.bloomberg.com/news/articles/2026-01-15/spotify-raises-premium-subscription-prices-in-us-to-13-month) (Bloomberg)
+
+
+
 **Wednesday, January 14 2026 - NOT Alright, Alright, Alright**
 
   * [Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say](https://www.reuters.com/world/china/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say-2026-01-14/) (Reuters)

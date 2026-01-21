@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Most of Instagram’s ads ran on Reels in 2025, data shows](https://www.cnbc.com/2026/01/20/most-of-instagrams-ads-ran-on-reels-in-2025-data-shows.html) (CNBC)
 - [Three Reasons We Can’t Get Enough of LinkedIn](https://www.wsj.com/tech/personal-tech/three-reasons-we-cant-get-enough-of-linkedin-31333eff?st=rCoDpi&reflink=desktopwebshare_permalink) (WSJ)
 - [Reddit overtakes TikTok in UK thanks to search algorithms and gen Z](https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z) (The Guardian)
 - [How Meta’s Reels Became a $50 Billion Business](https://www.wsj.com/tech/meta-reels-revenue-ade4179e?st=b8s2C2&reflink=desktopwebshare_permalink) (WSJ)
