@@ -404,7 +404,7 @@ def update_mode(feed_entries, config, skip_db=False):
 					else:
 						# Categorize with Claude API
 						print(f"🤖 Categorizing {len(titles_to_categorize)} new links with AI...")
-						categorizations = categorize_with_retry(titles_to_categorize, model='claude-3-5-haiku-20241022')
+						categorizations = categorize_with_retry(titles_to_categorize, model='claude-haiku-4-5-20251001')
 
 						# Update database with AI categories
 						cursor = db_conn.cursor()
@@ -414,7 +414,7 @@ def update_mode(feed_entries, config, skip_db=False):
 								UPDATE links
 								SET ai_category = ?,
 									ai_categorized_at = CURRENT_TIMESTAMP,
-									ai_model = 'claude-3-5-haiku-20241022'
+									ai_model = 'claude-haiku-4-5-20251001'
 								WHERE title = ? AND ai_category IS NULL
 							''', (category, title))
 							if cursor.rowcount > 0:

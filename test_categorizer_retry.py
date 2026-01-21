@@ -25,7 +25,7 @@ def test_retry_logic():
         return
 
     try:
-        results = categorize_with_retry(test_titles, model='claude-3-5-haiku-20241022')
+        results = categorize_with_retry(test_titles, model='claude-haiku-4-5-20251001')
 
         print("\nResults:")
         for title, category in results.items():

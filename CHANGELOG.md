@@ -6,6 +6,24 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [2.1.0] - 2026-01-21
+
+### Changed
+- **Upgraded Claude API model** - Migrated from Haiku 3.5 to Haiku 4.5
+  - **Reason:** Claude 3.5 Haiku (claude-3-5-haiku-20241022) is being deprecated
+  - **New model:** claude-haiku-4-5-20251001 (Haiku 4.5)
+  - **Benefits:**
+    - Improved intelligence and categorization quality
+    - Better availability and performance
+    - Same pricing ($1/$5 per MTok)
+  - **Files updated:**
+    - `claude_categorizer.py` - Default model parameter in categorization functions
+    - `backfill_ai_categories.py` - MODELS dict updated for both haiku and sonnet
+    - `extract.py` - Model reference in RSS extraction
+    - `test_backfill.py` - Test assertions
+    - `test_categorizer_retry.py` - Test model parameter
+  - Affects: All AI categorization operations
+
 ### Added
 - **Architecture data flow diagram** - Mermaid.js diagram in README.md visualizing RSS → Database → Website pipeline
   - Shows complete flow from RSS feed through HTML parsing to GitHub Pages

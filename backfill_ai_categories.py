@@ -35,8 +35,8 @@ from claude_categorizer import categorize_with_retry, normalize_title
 
 # Model configurations
 MODELS = {
-    'haiku': 'claude-3-5-haiku-20241022',
-    'sonnet': 'claude-3-5-sonnet-20241022'
+    'haiku': 'claude-haiku-4-5-20251001',
+    'sonnet': 'claude-sonnet-4-5-20250929'
 }
 
 

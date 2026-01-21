@@ -189,7 +189,7 @@ class TestSaveCategorizations(unittest.TestCase):
         updated = save_categorizations(
             self.db_path,
             categorizations,
-            'claude-3-5-haiku-20241022'
+            'claude-haiku-4-5-20251001'
         )
 
         self.assertEqual(updated, 3)
@@ -212,7 +212,7 @@ class TestSaveCategorizations(unittest.TestCase):
 
         # All should have the same model
         for row in results:
-            self.assertEqual(row[2], 'claude-3-5-haiku-20241022')
+            self.assertEqual(row[2], 'claude-haiku-4-5-20251001')
 
     def test_save_empty_categorizations(self):
         """Test saving empty categorizations dict"""

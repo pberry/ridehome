@@ -167,7 +167,7 @@ Requirements:
 - Use exact category names from the system prompt"""
 
 
-def categorize_with_claude(titles: List[str], api_key: str = None, model: str = 'claude-3-5-haiku-20241022', retry_count: int = 0) -> Dict[str, str]:
+def categorize_with_claude(titles: List[str], api_key: str = None, model: str = 'claude-haiku-4-5-20251001', retry_count: int = 0) -> Dict[str, str]:
     """
     Categorize titles using Claude API.
 
@@ -282,7 +282,7 @@ def categorize_with_claude(titles: List[str], api_key: str = None, model: str = 
     return result
 
 
-def categorize_with_retry(titles: List[str], api_key: str = None, model: str = 'claude-3-5-haiku-20241022', max_retries: int = 3) -> Dict[str, str]:
+def categorize_with_retry(titles: List[str], api_key: str = None, model: str = 'claude-haiku-4-5-20251001', max_retries: int = 3) -> Dict[str, str]:
     """
     Categorize titles with automatic retry on invalid categories.
 
@@ -406,7 +406,7 @@ def demo_comparison(db_path: str = 'ridehome.db', sample_size: int = 20):
 
     # Get Claude categorization
     print("\nCalling Claude API...")
-    claude_results = categorize_with_retry(titles, model='claude-3-5-haiku-20241022')
+    claude_results = categorize_with_retry(titles, model='claude-haiku-4-5-20251001')
 
     # Compare results
     print("\nComparison Results:")
