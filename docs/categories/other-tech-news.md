@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [Jeff Bezos’ Blue Origin launches satellite internet service to rival SpaceX, Amazon](https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html) (CNBC)
+- [South Korean leader celebrates ‘Kospi 5,000’ moment as stock market soars](https://www.ft.com/content/238f5fd4-e8f6-4eb0-9e3d-78066d6ccbe8?utm_sf_cserv_ref=18949452&utm_sf_post_ref=657049547) (FT)
 - [‘No Reasons to Own’: Software Stocks Sink on Fear of New AI Tool](https://www.bloomberg.com/news/articles/2026-01-18/-no-reasons-to-own-software-stocks-sink-on-fear-of-new-ai-tool?fromMostRead=true) (Bloomberg)
 - [The cost of America’s nuclear revival](https://www.ft.com/content/9f6c4db1-559f-48e1-8c21-ac0bc1a1237c) (FT)
 - [Lego announces Smart Brick, the ‘most significant evolution’ in 50 years](https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years) (The Verge)

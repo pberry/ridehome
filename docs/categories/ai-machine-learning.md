@@ -9,6 +9,9 @@ layout: category
 
 ### January
 
+- [Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?rc=i9gkgs) (The Information)
+- [Anthropic rewrites Claude’s guiding principles—and entertains the idea that its AI might have ‘some kind of consciousness or moral status’](https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/) (Fortune)
+- [CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story.](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink) (WSJ)
 - [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/) (TechCrunch)
 - [OpenAI rolls out age prediction on ChatGPT](https://www.reuters.com/technology/openai-rolls-out-age-prediction-chatgpt-2026-01-20/) (Reuters)
 - [OpenAI Lines Up Advertisers, Reveals Key Details Ahead of Ads Launch](https://www.theinformation.com/articles/openai-lines-advertisers-reveals-key-details-ahead-ads-launch?rc=i9gkgs) (The Information)

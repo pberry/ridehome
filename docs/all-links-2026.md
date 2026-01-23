@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, January 22 2026 - Apple’s Wearable AI Pin**
+
+  * [Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?rc=i9gkgs) (The Information)
+  * [Anthropic rewrites Claude’s guiding principles—and entertains the idea that its AI might have ‘some kind of consciousness or moral status’](https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/) (Fortune)
+  * [Jeff Bezos’ Blue Origin launches satellite internet service to rival SpaceX, Amazon](https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html) (CNBC)
+  * [South Korean leader celebrates ‘Kospi 5,000’ moment as stock market soars](https://www.ft.com/content/238f5fd4-e8f6-4eb0-9e3d-78066d6ccbe8?utm_sf_cserv_ref=18949452&utm_sf_post_ref=657049547) (FT)
+  * [CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story.](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Wednesday, January 21 2026 - Elon Says: IPO NOW!**
 
   * [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/) (TechCrunch)
