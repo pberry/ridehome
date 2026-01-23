@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, January 22, 2026 - Apple’s Wearable AI Pin</h3>
+  <h3>Friday, January 23, 2026 - MAYBE TikTok Is A Done Deal (This Time?)</h3>
   <ul>
-    <li><a href="https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?rc=i9gkgs">Apple Developing AI Wearable Pin</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/">Anthropic rewrites Claude’s guiding principles—and entertains the idea that its AI might have ‘some kind of consciousness or moral status’</a> (Fortune) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html">Jeff Bezos’ Blue Origin launches satellite internet service to rival SpaceX, Amazon</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.ft.com/content/238f5fd4-e8f6-4eb0-9e3d-78066d6ccbe8?utm_sf_cserv_ref=18949452&utm_sf_post_ref=657049547">South Korean leader celebrates ‘Kospi 5,000’ moment as stock market soars</a> (FT) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink">CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story.</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33">Trump’s TikTok deal is a gift to China</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.reuters.com/business/world-at-work/amazon-plans-thousands-more-corporate-job-cuts-next-week-sources-say-2026-01-22/">Exclusive: Amazon plans thousands more corporate job cuts next week, sources say</a> (Reuters) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement">Epic and Google have a secret $800 million Unreal Engine and services deal</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-01-22/apple-hardware-chief-john-ternus-now-overseeing-design-tim-cook-ceo-succession">Apple Expands Hardware Chief's Role</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.wsj.com/finance/banking/capital-one-to-buy-fintech-brex-e2dacc67">Capital One Strikes $5.15 Billion Deal for Fintech Brex</a> (WSJ) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
   </ul>
 </section>
 
@@ -35,23 +35,23 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-23T05:54:07-08:00">January 23, 2026 at 05:54 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-23T15:42:04-08:00">January 23, 2026 at 03:42 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,164</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,743</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,169</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,744</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
 
@@ -59,8 +59,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(285 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(110 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
   </div>

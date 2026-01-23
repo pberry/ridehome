@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, January 23 2026 - MAYBE TikTok Is A Done Deal (This Time?)**
+
+  * [Trump’s TikTok deal is a gift to China](https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33) (FT)
+  * [Exclusive: Amazon plans thousands more corporate job cuts next week, sources say](https://www.reuters.com/business/world-at-work/amazon-plans-thousands-more-corporate-job-cuts-next-week-sources-say-2026-01-22/) (Reuters)
+  * [Epic and Google have a secret $800 million Unreal Engine and services deal](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement) (The Verge)
+  * [Apple Expands Hardware Chief's Role](https://www.bloomberg.com/news/articles/2026-01-22/apple-hardware-chief-john-ternus-now-overseeing-design-tim-cook-ceo-succession) (Bloomberg)
+  * [Capital One Strikes $5.15 Billion Deal for Fintech Brex](https://www.wsj.com/finance/banking/capital-one-to-buy-fintech-brex-e2dacc67) (WSJ)
+
+
+
 **Thursday, January 22 2026 - Apple’s Wearable AI Pin**
 
   * [Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?rc=i9gkgs) (The Information)

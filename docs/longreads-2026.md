@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, January 23 2026**
+
+  * [Russia, Ukraine and the race for Chinese drone components](https://www.ft.com/content/58416bf8-97d0-4d99-8152-cff9ec2dd3ef) (FT)
+
+
+
 **Friday, January 09 2026**
 
   * [The Man Who Could Be Apple’s Next C.E.O.](https://www.nytimes.com/2026/01/08/technology/apple-ceo-tim-cook-john-ternus.html) (NYTimes)

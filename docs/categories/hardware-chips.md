@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Apple Expands Hardware Chief's Role](https://www.bloomberg.com/news/articles/2026-01-22/apple-hardware-chief-john-ternus-now-overseeing-design-tim-cook-ceo-succession) (Bloomberg)
 - [Sony’s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement) (The Verge)
 - [TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html) (CNBC)
 - [Exclusive: China's customs agents told Nvidia's H200 chips are not permitted, sources say](https://www.reuters.com/world/china/chinas-customs-agents-told-nvidias-h200-chips-are-not-permitted-sources-say-2026-01-14/) (Reuters)

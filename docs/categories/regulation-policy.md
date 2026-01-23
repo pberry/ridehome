@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [Trump’s TikTok deal is a gift to China](https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33) (FT)
+- [Russia, Ukraine and the race for Chinese drone components](https://www.ft.com/content/58416bf8-97d0-4d99-8152-cff9ec2dd3ef) (FT)
 - [Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft](https://www.bloomberg.com/news/articles/2026-01-17/musk-seeks-up-to-134-billion-damages-from-openai-microsoft) (Bloomberg)
 - [Matthew McConaughey Trademarks Himself to Fight AI Misuse](https://www.wsj.com/tech/ai/matthew-mcconaughey-trademarks-himself-to-fight-ai-misuse-8ffe76a9?st=nMHyce&reflink=desktopwebshare_permalink) (WSJ)
 - [Microsoft responds to AI data center revolt, vowing to cover full power costs and reject local tax breaks](https://www.geekwire.com/2026/microsoft-responds-to-ai-data-center-revolt-vowing-to-cover-full-power-costs-and-reject-local-tax-breaks/) (GeekWire)
