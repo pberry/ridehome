@@ -9,6 +9,13 @@ layout: category
 
 ### January
 
+- [Anthropic doubles VC fundraising to $20bn on surging investor demand](https://www.ft.com/content/5e6ee0d4-a313-452c-baac-27b45f5f2de5) (FT)
+- [Anthropic Hikes 2026 Revenue Forecast 20% but Delays When It Will Go Cash Flow Positive](https://www.theinformation.com/articles/anthropic-hikes-2026-revenue-forecast-20-delays-will-go-cash-flow-positive?rc=i9gkgs) (The Information)
+- [Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives](https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives) (The Verge)
+- [China’s Moonshot Unveils AI Model Ahead of DeepSeek Release](https://www.bloomberg.com/news/articles/2026-01-27/china-s-moonshot-unveils-new-ai-model-ahead-of-deepseek-release) (Bloomberg)
+- [Pinterest laying off 15% of workforce in push toward AI roles and teams](https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html) (CNBC)
+- [Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) (The Guardian)
+- [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) (MacStories)
 - [Apple Developing AI Wearable Pin](https://www.theinformation.com/articles/apple-developing-ai-wearable-pin?rc=i9gkgs) (The Information)
 - [Anthropic rewrites Claude’s guiding principles—and entertains the idea that its AI might have ‘some kind of consciousness or moral status’](https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/) (Fortune)
 - [CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story.](https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d?st=vnnWYh&reflink=desktopwebshare_permalink) (WSJ)

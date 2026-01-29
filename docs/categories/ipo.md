@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [SpaceX weighs June IPO timed to planetary alignment and Elon Musk’s birthday](https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122?sharetype=blocked) (FT)
 - [Why Elon Musk Is Racing to Take SpaceX Public](https://www.wsj.com/tech/why-elon-musk-is-racing-to-take-spacex-public-38f3de9b?st=18PqmA&reflink=desktopwebshare_permalink) (WSJ)
 - [SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs](https://www.ft.com/content/bf607829-dca5-497d-b1a1-ca945d32a8c6) (FT)
 

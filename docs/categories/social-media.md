@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [TikTok says a power outage caused a 'cascading systems failure' that messed up its algorithm](https://www.businessinsider.com/tiktok-outage-data-center-messed-up-fyp-over-the-weekend-2026-1) (BusinessInsider)
+- [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/) (TechCrunch)
 - [Most of Instagram’s ads ran on Reels in 2025, data shows](https://www.cnbc.com/2026/01/20/most-of-instagrams-ads-ran-on-reels-in-2025-data-shows.html) (CNBC)
 - [Three Reasons We Can’t Get Enough of LinkedIn](https://www.wsj.com/tech/personal-tech/three-reasons-we-cant-get-enough-of-linkedin-31333eff?st=rCoDpi&reflink=desktopwebshare_permalink) (WSJ)
 - [Reddit overtakes TikTok in UK thanks to search algorithms and gen Z](https://www.theguardian.com/technology/2026/jan/03/reddit-overtakes-tiktok-uk-search-algorithms-gen-z) (The Guardian)

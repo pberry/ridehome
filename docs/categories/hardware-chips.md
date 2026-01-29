@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [Samsung confirms Galaxy S26's insane 'pixel level' privacy feature](https://www.sammobile.com/news/samsung-teases-galaxy-s26-plus-ultra-privacy-display/) (SamMobile)
+- [Apple launches AirTag 2 with improved range, louder speaker, more](https://9to5mac.com/2026/01/26/apple-launches-airtag-2-with-improved-range-louder-speaker-more/) (9to5Mac)
 - [Apple Expands Hardware Chief's Role](https://www.bloomberg.com/news/articles/2026-01-22/apple-hardware-chief-john-ternus-now-overseeing-design-tim-cook-ceo-succession) (Bloomberg)
 - [Sony’s TV business is being taken over by TCL](https://www.theverge.com/news/864263/sony-tcl-tv-business-partnership-takeover-announcement) (The Verge)
 - [TSMC delivers another record quarter as profit jumps 35% fueled by robust AI chip demand](https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html) (CNBC)

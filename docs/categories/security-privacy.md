@@ -9,6 +9,8 @@ layout: category
 
 ### January
 
+- [TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes](https://www.wired.com/story/tiktok-new-privacy-policy/) (Wired)
+- [Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/) (Forbes)
 - [Grok was finally updated to stop undressing women and children, X Safety says](https://arstechnica.com/tech-policy/2026/01/musk-still-defending-groks-partial-nudes-as-california-ag-opens-probe/) (Ars Technica)
 
 ## 2025

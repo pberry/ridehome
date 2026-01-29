@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Uber launches an ‘AV Labs’ division to gather driving data for robotaxi partners](https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/) (TechCrunch)
 - [Tesla Driver-Assist System FSD Will Switch to Subscription-Only, Musk Says](https://www.bloomberg.com/news/articles/2026-01-14/tesla-driver-assist-system-fsd-will-switch-to-subscription-only-musk-says) (Bloomberg)
 - [I tested Nvidia’s Tesla Full Self-Driving competitor — Tesla should be worried](https://www.theverge.com/news/852880/nvidia-autonomous-driving-demo-tesla-fsd) (The Verge)
 

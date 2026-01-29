@@ -5,6 +5,40 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, January 28 2026 - The Amazon Layoffs**
+
+  * [Amazon says it is laying off 16,000 employees](https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/) (TechCrunch)
+  * [Tether Is Shaking Up the Gold Market With Massive Metal Hoard](https://www.bloomberg.com/news/articles/2026-01-28/tether-is-shaking-up-the-gold-market-with-massive-metal-hoard) (Bloomberg)
+  * [Samsung confirms Galaxy S26's insane 'pixel level' privacy feature](https://www.sammobile.com/news/samsung-teases-galaxy-s26-plus-ultra-privacy-display/) (SamMobile)
+  * [SpaceX weighs June IPO timed to planetary alignment and Elon Musk’s birthday](https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122?sharetype=blocked) (FT)
+  * [Anthropic doubles VC fundraising to $20bn on surging investor demand](https://www.ft.com/content/5e6ee0d4-a313-452c-baac-27b45f5f2de5) (FT)
+  * [Anthropic Hikes 2026 Revenue Forecast 20% but Delays When It Will Go Cash Flow Positive](https://www.theinformation.com/articles/anthropic-hikes-2026-revenue-forecast-20-delays-will-go-cash-flow-positive?rc=i9gkgs) (The Information)
+  * [Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives](https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives) (The Verge)
+
+
+
+**Tuesday, January 27 2026 - Is TikTok’s Algo Changing?**
+
+  * [China’s Moonshot Unveils AI Model Ahead of DeepSeek Release](https://www.bloomberg.com/news/articles/2026-01-27/china-s-moonshot-unveils-new-ai-model-ahead-of-deepseek-release) (Bloomberg)
+  * [Pinterest laying off 15% of workforce in push toward AI roles and teams](https://www.cnbc.com/2026/01/27/pinterest-layoffs-stock-ai.html) (CNBC)
+  * [TikTok says a power outage caused a 'cascading systems failure' that messed up its algorithm](https://www.businessinsider.com/tiktok-outage-data-center-messed-up-fyp-over-the-weekend-2026-1) (BusinessInsider)
+  * [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/) (TechCrunch)
+  * [Uber launches an ‘AV Labs’ division to gather driving data for robotaxi partners](https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/) (TechCrunch)
+  * [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956)
+
+
+
+**Monday, January 26 2026 - Now We Have The Clawdbot**
+
+  * [TikTok Is Now Collecting Even More Data About Its Users. Here Are the 3 Biggest Changes](https://www.wired.com/story/tiktok-new-privacy-policy/) (Wired)
+  * [Apple launches AirTag 2 with improved range, louder speaker, more](https://9to5mac.com/2026/01/26/apple-launches-airtag-2-with-improved-range-louder-speaker-more/) (9to5Mac)
+  * [EU opens formal probe into Musk’s xAI over Grok deepfakes](https://www.ft.com/content/f5ed0160-7098-4e63-88e5-8b3f70499b02) (FT)
+  * [Latest ChatGPT model uses Elon Musk’s Grokipedia as source, tests reveal](https://www.theguardian.com/technology/2026/jan/24/latest-chatgpt-model-uses-elon-musks-grokipedia-as-source-tests-reveal) (The Guardian)
+  * [Microsoft Gave FBI Keys To Unlock Encrypted Data, Exposing Major Privacy Flaw](https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/) (Forbes)
+  * [Clawdbot Showed Me What the Future of Personal AI Assistants Looks Like](https://www.macstories.net/stories/clawdbot-showed-me-what-the-future-of-personal-ai-assistants-looks-like/) (MacStories)
+
+
+
 **Friday, January 23 2026 - MAYBE TikTok Is A Done Deal (This Time?)**
 
   * [Trump’s TikTok deal is a gift to China](https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33) (FT)

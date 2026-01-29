@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [EU opens formal probe into Musk’s xAI over Grok deepfakes](https://www.ft.com/content/f5ed0160-7098-4e63-88e5-8b3f70499b02) (FT)
 - [Trump’s TikTok deal is a gift to China](https://www.ft.com/content/59b91fc8-03a1-48df-9821-e2fdff24bd33) (FT)
 - [Russia, Ukraine and the race for Chinese drone components](https://www.ft.com/content/58416bf8-97d0-4d99-8152-cff9ec2dd3ef) (FT)
 - [Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft](https://www.bloomberg.com/news/articles/2026-01-17/musk-seeks-up-to-134-billion-damages-from-openai-microsoft) (Bloomberg)

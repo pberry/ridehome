@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956)
 - [Epic and Google have a secret $800 million Unreal Engine and services deal](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement) (The Verge)
 - [Jeff Bezos’ Blue Origin launches satellite internet service to rival SpaceX, Amazon](https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html) (CNBC)
 - [South Korean leader celebrates ‘Kospi 5,000’ moment as stock market soars](https://www.ft.com/content/238f5fd4-e8f6-4eb0-9e3d-78066d6ccbe8?utm_sf_cserv_ref=18949452&utm_sf_post_ref=657049547) (FT)
