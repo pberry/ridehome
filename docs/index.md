@@ -3,15 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, January 28, 2026 - The Amazon Layoffs</h3>
+  <h3>Friday, January 30, 2026 - Elon Might Just Merge All His Companies Into One</h3>
   <ul>
-    <li><a href="https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/">Amazon says it is laying off 16,000 employees</a> (TechCrunch) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-01-28/tether-is-shaking-up-the-gold-market-with-massive-metal-hoard">Tether Is Shaking Up the Gold Market With Massive Metal Hoard</a> (Bloomberg) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://www.sammobile.com/news/samsung-teases-galaxy-s26-plus-ultra-privacy-display/">Samsung confirms Galaxy S26's insane 'pixel level' privacy feature</a> (SamMobile) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122?sharetype=blocked">SpaceX weighs June IPO timed to planetary alignment and Elon Musk’s birthday</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.ft.com/content/5e6ee0d4-a313-452c-baac-27b45f5f2de5">Anthropic doubles VC fundraising to $20bn on surging investor demand</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/articles/anthropic-hikes-2026-revenue-forecast-20-delays-will-go-cash-flow-positive?rc=i9gkgs">Anthropic Hikes 2026 Revenue Forecast 20% but Delays When It Will Go Cash Flow Positive</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives">Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1?accessToken=zwAGSYsbY8TIkc9J9OLkOmhIQtO-Z4eUCdBqoQ.MEQCIBv9k53gSqX27vj-BwLlJ-7d4nTvZKi25vsTcUhQ0aQ_AiBoFObb2twheqYLPUdmzfa_NWaEG4YAelVyA0YGnuaZdg&sharetype=gift&token=767d1b18-8a7f-4366-b374-85c005c070e1">Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-ipo-anthropic-race-69f06a42?st=venaMw&reflink=desktopwebshare_permalink">OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market</a> (WSJ) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/">SpaceX in merger talks with other Musk companies ahead of IPO</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-01-29/elon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai">Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on">Google’s AI helped me make bad Nintendo knockoffs</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/">Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams</a> (Forbes) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -37,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-01-28T19:28:32-08:00">January 28, 2026 at 07:28 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-01-30T15:37:08-08:00">January 30, 2026 at 03:37 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,188</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,201</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,744</span></li>
       </ul>
     </div>
@@ -51,16 +50,16 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(93 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(80 links)</span></li>
       </ol>

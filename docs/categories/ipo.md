@@ -9,6 +9,9 @@ layout: category
 
 ### January
 
+- [OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market](https://www.wsj.com/tech/ai/openai-ipo-anthropic-race-69f06a42?st=venaMw&reflink=desktopwebshare_permalink) (WSJ)
+- [SpaceX in merger talks with other Musk companies ahead of IPO](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/) (Reuters)
+- [Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI](https://www.bloomberg.com/news/articles/2026-01-29/elon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai) (Bloomberg)
 - [SpaceX weighs June IPO timed to planetary alignment and Elon Musk’s birthday](https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122?sharetype=blocked) (FT)
 - [Why Elon Musk Is Racing to Take SpaceX Public](https://www.wsj.com/tech/why-elon-musk-is-racing-to-take-spacex-public-38f3de9b?st=18PqmA&reflink=desktopwebshare_permalink) (WSJ)
 - [SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs](https://www.ft.com/content/bf607829-dca5-497d-b1a1-ca945d32a8c6) (FT)

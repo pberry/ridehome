@@ -9,6 +9,7 @@ layout: category
 
 ### January
 
+- [Microsoft stock drops 7% on slowing cloud growth, light margin guidance](https://www.cnbc.com/2026/01/28/microsoft-msft-q2-earnings-report-2026.html) (CNBC)
 - [Amazon says it is laying off 16,000 employees](https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/) (TechCrunch)
 - [Exclusive: Amazon plans thousands more corporate job cuts next week, sources say](https://www.reuters.com/business/world-at-work/amazon-plans-thousands-more-corporate-job-cuts-next-week-sources-say-2026-01-22/) (Reuters)
 - [Ireland Is Trying to Get Back on the Data Center Bandwagon](https://www.bloomberg.com/news/articles/2026-01-14/ireland-wants-to-get-back-ai-data-centers-and-is) (Bloomberg)

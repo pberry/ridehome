@@ -5,6 +5,29 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, January 30 2026 - Elon Might Just Merge All His Companies Into One**
+
+  * [Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices](https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1?accessToken=zwAGSYsbY8TIkc9J9OLkOmhIQtO-Z4eUCdBqoQ.MEQCIBv9k53gSqX27vj-BwLlJ-7d4nTvZKi25vsTcUhQ0aQ_AiBoFObb2twheqYLPUdmzfa_NWaEG4YAelVyA0YGnuaZdg&sharetype=gift&token=767d1b18-8a7f-4366-b374-85c005c070e1) (FT)
+  * [OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market](https://www.wsj.com/tech/ai/openai-ipo-anthropic-race-69f06a42?st=venaMw&reflink=desktopwebshare_permalink) (WSJ)
+  * [SpaceX in merger talks with other Musk companies ahead of IPO](https://www.reuters.com/world/musks-spacex-merger-talks-with-xai-ahead-planned-ipo-source-says-2026-01-29/) (Reuters)
+  * [Elon Musk’s SpaceX Said to Consider Merger With Tesla or xAI](https://www.bloomberg.com/news/articles/2026-01-29/elon-musk-s-spacex-is-said-to-consider-merger-with-tesla-or-xai) (Bloomberg)
+  * [Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on) (The Verge)
+  * [Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/) (Forbes)
+
+
+
+**Thursday, January 29 2026 - Clawdbot Is Now Moltbot**
+
+  * [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/) (TechCrunch)
+  * [Microsoft stock drops 7% on slowing cloud growth, light margin guidance](https://www.cnbc.com/2026/01/28/microsoft-msft-q2-earnings-report-2026.html) (CNBC)
+  * [Tesla scraps models in pivot to AI as annual revenue falls for first time](https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8) (FT)
+  * [Dow to Cut 4,500 Employees in AI Overhaul](https://www.wsj.com/business/earnings/dow-dow-q4-earnings-report-2025-11f0e814?st=uqF2Pu&reflink=desktopwebshare_permalink) (WSJ)
+  * [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/) (TechCrunch)
+  * [Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama](https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/) (TechCrunch)
+  * [Clawdbot sheds skin to become Moltbot, can't slough off security issues](https://www.theregister.com/2026/01/27/clawdbot_moltbot_security_concerns/) (The Register)
+
+
+
 **Wednesday, January 28 2026 - The Amazon Layoffs**
 
   * [Amazon says it is laying off 16,000 employees](https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/) (TechCrunch)

@@ -9,6 +9,12 @@ layout: category
 
 ### January
 
+- [Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices](https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1?accessToken=zwAGSYsbY8TIkc9J9OLkOmhIQtO-Z4eUCdBqoQ.MEQCIBv9k53gSqX27vj-BwLlJ-7d4nTvZKi25vsTcUhQ0aQ_AiBoFObb2twheqYLPUdmzfa_NWaEG4YAelVyA0YGnuaZdg&sharetype=gift&token=767d1b18-8a7f-4366-b374-85c005c070e1) (FT)
+- [Google’s AI helped me make bad Nintendo knockoffs](https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on) (The Verge)
+- [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/) (TechCrunch)
+- [Tesla scraps models in pivot to AI as annual revenue falls for first time](https://www.ft.com/content/78d53ce6-a731-496c-8d8b-e53bc35f49a8) (FT)
+- [Dow to Cut 4,500 Employees in AI Overhaul](https://www.wsj.com/business/earnings/dow-dow-q4-earnings-report-2025-11f0e814?st=uqF2Pu&reflink=desktopwebshare_permalink) (WSJ)
+- [Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama](https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/) (TechCrunch)
 - [Anthropic doubles VC fundraising to $20bn on surging investor demand](https://www.ft.com/content/5e6ee0d4-a313-452c-baac-27b45f5f2de5) (FT)
 - [Anthropic Hikes 2026 Revenue Forecast 20% but Delays When It Will Go Cash Flow Positive](https://www.theinformation.com/articles/anthropic-hikes-2026-revenue-forecast-20-delays-will-go-cash-flow-positive?rc=i9gkgs) (The Information)
 - [Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives](https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives) (The Verge)
