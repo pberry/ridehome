@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/) (Reuters)
+
 ### January
 
 - [EU opens formal probe into Musk’s xAI over Grok deepfakes](https://www.ft.com/content/f5ed0160-7098-4e63-88e5-8b3f70499b02) (FT)

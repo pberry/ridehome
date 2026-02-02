@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/) (Simon Willison)
+
 ### January
 
 - [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956)

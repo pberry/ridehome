@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, February 02 2026 - Is Jensen Worried About OpenAI?**
+
+  * [The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?st=qH82bT&reflink=desktopwebshare_permalink) (WSJ)
+  * [Nvidia CEO Says New OpenAI Investment May Be Largest Yet](https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says?sref=Szq5ylDR) (Bloomberg)
+  * [Apple’s Historic Quarter Doesn’t Change the Need for AI Reckoning](https://www.bloomberg.com/news/newsletters/2026-02-01/apple-s-record-quarter-and-ai-changes-macbook-pro-update-clamshell-iphone-fold?sref=Szq5ylDR) (Bloomberg)
+  * [SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/) (Reuters)
+  * [How often do AI chatbots lead users down a harmful path?](https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/) (Ars Technica)
+  * [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/) (Simon Willison)
+
+
+
 **Friday, January 30 2026 - Elon Might Just Merge All His Companies Into One**
 
   * [Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices](https://www.ft.com/content/49f4e2e4-3a68-4842-be67-879409d06aa1?accessToken=zwAGSYsbY8TIkc9J9OLkOmhIQtO-Z4eUCdBqoQ.MEQCIBv9k53gSqX27vj-BwLlJ-7d4nTvZKi25vsTcUhQ0aQ_AiBoFObb2twheqYLPUdmzfa_NWaEG4YAelVyA0YGnuaZdg&sharetype=gift&token=767d1b18-8a7f-4366-b374-85c005c070e1) (FT)
