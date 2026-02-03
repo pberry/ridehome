@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say](https://www.reuters.com/business/openai-is-unsatisfied-with-some-nvidia-chips-looking-alternatives-sources-say-2026-02-02/) (Reuters)
+
 ### January
 
 - [Samsung confirms Galaxy S26's insane 'pixel level' privacy feature](https://www.sammobile.com/news/samsung-teases-galaxy-s26-plus-ultra-privacy-display/) (SamMobile)

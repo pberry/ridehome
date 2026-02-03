@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, February 02, 2026 - Is Jensen Worried About OpenAI?</h3>
+  <h3>Tuesday, February 03, 2026 - SpaceX Acquires xAI</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?st=qH82bT&reflink=desktopwebshare_permalink">The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says?sref=Szq5ylDR">Nvidia CEO Says New OpenAI Investment May Be Largest Yet</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/newsletters/2026-02-01/apple-s-record-quarter-and-ai-changes-macbook-pro-update-clamshell-iphone-fold?sref=Szq5ylDR">Apple’s Historic Quarter Doesn’t Change the Need for AI Reckoning</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/">SpaceX seeks FCC nod for solar-powered satellite data centers for AI</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/">How often do AI chatbots lead users down a harmful path?</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://simonwillison.net/2026/Jan/30/moltbook/">Moltbook is the most interesting place on the internet right now</a> (Simon Willison) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo?sref=Szq5ylDR">Musk’s SpaceX Combines With xAI at $1.25 Trillion Valuation</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/">SpaceX acquires xAI, plans to launch a massive satellite constellation to power it</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.zdnet.com/article/openai-codex-mac-app-free-trial/">OpenAI's Codex just got its own Mac app - and anyone can try it for free now</a> (ZDNet) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/openai-is-unsatisfied-with-some-nvidia-chips-looking-alternatives-sources-say-2026-02-02/">Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-02/waymo-raises-16-billion-from-alphabet-others-to-expand-service?sref=Szq5ylDR">Waymo Raises $16 Billion From Alphabet and Others to Expand</a> (Bloomberg) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-02T08:14:25-08:00">February 02, 2026 at 08:14 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-03T08:53:07-08:00">February 03, 2026 at 08:53 AM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,207</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,212</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,744</span></li>
       </ul>
     </div>
@@ -50,9 +49,9 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(103 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(88 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
 
@@ -61,7 +60,7 @@
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(81 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
   </div>

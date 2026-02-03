@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Waymo Raises $16 Billion From Alphabet and Others to Expand](https://www.bloomberg.com/news/articles/2026-02-02/waymo-raises-16-billion-from-alphabet-others-to-expand-service?sref=Szq5ylDR) (Bloomberg)
+
 ### January
 
 - [Waymo robotaxi hits a child near an elementary school in Santa Monica](https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/) (TechCrunch)

@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [Musk’s SpaceX Combines With xAI at $1.25 Trillion Valuation](https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo?sref=Szq5ylDR) (Bloomberg)
+- [SpaceX acquires xAI, plans to launch a massive satellite constellation to power it](https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/) (Ars Technica)
+- [OpenAI's Codex just got its own Mac app - and anyone can try it for free now](https://www.zdnet.com/article/openai-codex-mac-app-free-trial/) (ZDNet)
 - [The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?st=qH82bT&reflink=desktopwebshare_permalink) (WSJ)
 - [Nvidia CEO Says New OpenAI Investment May Be Largest Yet](https://www.bloomberg.com/news/articles/2026-01-31/nvidia-to-join-openai-s-current-funding-round-huang-says?sref=Szq5ylDR) (Bloomberg)
 - [Apple’s Historic Quarter Doesn’t Change the Need for AI Reckoning](https://www.bloomberg.com/news/newsletters/2026-02-01/apple-s-record-quarter-and-ai-changes-macbook-pro-update-clamshell-iphone-fold?sref=Szq5ylDR) (Bloomberg)

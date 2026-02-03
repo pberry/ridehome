@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, February 03 2026 - SpaceX Acquires xAI**
+
+  * [Musk’s SpaceX Combines With xAI at $1.25 Trillion Valuation](https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo?sref=Szq5ylDR) (Bloomberg)
+  * [SpaceX acquires xAI, plans to launch a massive satellite constellation to power it](https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/) (Ars Technica)
+  * [OpenAI's Codex just got its own Mac app - and anyone can try it for free now](https://www.zdnet.com/article/openai-codex-mac-app-free-trial/) (ZDNet)
+  * [Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say](https://www.reuters.com/business/openai-is-unsatisfied-with-some-nvidia-chips-looking-alternatives-sources-say-2026-02-02/) (Reuters)
+  * [Waymo Raises $16 Billion From Alphabet and Others to Expand](https://www.bloomberg.com/news/articles/2026-02-02/waymo-raises-16-billion-from-alphabet-others-to-expand-service?sref=Szq5ylDR) (Bloomberg)
+
+
+
 **Monday, February 02 2026 - Is Jensen Worried About OpenAI?**
 
   * [The $100 Billion Megadeal Between OpenAI and Nvidia Is on Ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3?st=qH82bT&reflink=desktopwebshare_permalink) (WSJ)
