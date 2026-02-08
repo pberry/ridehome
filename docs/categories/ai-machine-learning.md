@@ -9,6 +9,16 @@ layout: category
 
 ### February
 
+- [Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research) (Bloomberg)
+- [Anthropic debuts new model with hopes to corner the market beyond coding](https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude) (The Verge)
+- [Big Tech to Spend $650 Billion This Year as AI Race Intensifies](https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026) (Bloomberg)
+- [Google set to double AI spending to $185bn after strong earnings](https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a?accessToken=zwAGSgb_qJs4kc8i2X2OEQFLG9OKKGYFTfo2Og.MEUCIEir6UX5yNRxPylvkyycMjuvdEl6mBd0pDdBb1XzSJIyAiEAj27rwwYCEMQuooyxBW5hW4eR-wHZD0-sXtPNmY8jmk8&sharetype=gift&token=eeffaabb-91d4-423b-bdb9-f5d9caf12ac9) (FT)
+- [OpenAI Frontier is a single platform to control your AI agents](https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management) (The Verge)
+- [Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT](https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt) (The Verge)
+- [Microsoft’s Pivotal AI Product Is Running Into Big Problems](https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?st=ahbr3R) (WSJ)
+- [New Data: OpenAI’s Lead Is Contracting as AI Competition Intensifies](https://www.bigtechnology.com/p/new-data-openais-lead-is-contracting) (Big Technology)
+- [Threat of New AI Tools Wipes $300 Billion Off Software and Data Stocks](https://www.wsj.com/finance/investing/software-slump-drags-down-private-fund-managers-6f840d0c?st=A1ZFc5&reflink=desktopwebshare_permalink) (WSJ)
+- [AI Won’t Kill the Software Business, Just Its Growth Story](https://www.wsj.com/tech/ai/ai-wont-kill-the-software-business-just-its-growth-story-05673e07?st=dY58vx&reflink=desktopwebshare_permalink) (WSJ)
 - [Musk’s SpaceX Combines With xAI at $1.25 Trillion Valuation](https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo?sref=Szq5ylDR) (Bloomberg)
 - [SpaceX acquires xAI, plans to launch a massive satellite constellation to power it](https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/) (Ars Technica)
 - [OpenAI's Codex just got its own Mac app - and anyone can try it for free now](https://www.zdnet.com/article/openai-codex-mac-app-free-trial/) (ZDNet)

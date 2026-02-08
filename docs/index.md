@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, February 03, 2026 - SpaceX Acquires xAI</h3>
+  <h3>Friday, February 06, 2026 - Piracy Is Back!</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-02/elon-musk-s-spacex-said-to-combine-with-xai-ahead-of-mega-ipo?sref=Szq5ylDR">Musk’s SpaceX Combines With xAI at $1.25 Trillion Valuation</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://arstechnica.com/ai/2026/02/spacex-acquires-xai-plans-1-million-satellite-constellation-to-power-it/">SpaceX acquires xAI, plans to launch a massive satellite constellation to power it</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.zdnet.com/article/openai-codex-mac-app-free-trial/">OpenAI's Codex just got its own Mac app - and anyone can try it for free now</a> (ZDNet) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/business/openai-is-unsatisfied-with-some-nvidia-chips-looking-alternatives-sources-say-2026-02-02/">Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-02/waymo-raises-16-billion-from-alphabet-others-to-expand-service?sref=Szq5ylDR">Waymo Raises $16 Billion From Alphabet and Others to Expand</a> (Bloomberg) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research">Anthropic Releases New Model That’s Adept at Financial Research</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude">Anthropic debuts new model with hopes to corner the market beyond coding</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026">Big Tech to Spend $650 Billion This Year as AI Race Intensifies</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html?unlocked_article_code=1.KFA.JsW5.S7KV98i8GJ_E&smid=url-share">Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-falls-to-72-000-as-traders-navigate-a-crisis-of-faith">Bitcoin Falls Below $70,000 as Market Faces a ‘Crisis of Faith’</a> (Bloomberg) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-03T08:53:07-08:00">February 03, 2026 at 08:53 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-08T12:31:39-08:00">February 08, 2026 at 12:31 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,212</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,224</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,744</span></li>
       </ul>
     </div>
@@ -49,8 +49,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(103 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(88 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
@@ -58,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(74 links)</span></li>
       </ol>
     </div>
   </div>

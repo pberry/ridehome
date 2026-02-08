@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change](https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html?unlocked_article_code=1.KFA.JsW5.S7KV98i8GJ_E&smid=url-share) (NYTimes)
 - [SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/) (Reuters)
 
 ### January

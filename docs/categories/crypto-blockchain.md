@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Bitcoin Falls Below $70,000 as Market Faces a ‘Crisis of Faith’](https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-falls-to-72-000-as-traders-navigate-a-crisis-of-faith) (Bloomberg)
+
 ### January
 
 - [Tether Is Shaking Up the Gold Market With Massive Metal Hoard](https://www.bloomberg.com/news/articles/2026-01-28/tether-is-shaking-up-the-gold-market-with-massive-metal-hoard) (Bloomberg)
