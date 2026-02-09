@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Everyone is stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes) (The Verge)
+
 ### January
 
 - [Netflix Is Testing Vertical Video Features For Mobile](https://www.hollywoodreporter.com/business/business-news/netflix-testing-vertical-video-features-for-mobile-1236479365/) (THR)

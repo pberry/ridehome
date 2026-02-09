@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Crypto.com CEO unveils new AI agents to millions during Super Bowl](https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com) (CoinTelegraph)
 - [Bitcoin Falls Below $70,000 as Market Faces a ‘Crisis of Faith’](https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-falls-to-72-000-as-traders-navigate-a-crisis-of-faith) (Bloomberg)
 
 ### January

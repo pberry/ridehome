@@ -9,9 +9,14 @@ layout: category
 
 ### February
 
+- [Sam Altman touts ChatGPT’s reaccelerating growth to employees as OpenAI closes in on $100 billion funding](https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html) (CNBC)
+- [A New AI Video Model From ByteDance is Making Waves](https://petapixel.com/2026/02/09/bytedance-seedance-2-ai-video/) (PetaPixel)
+- [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point) (SemiAnalysis)
+- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (TechCrunch)
 - [Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research) (Bloomberg)
 - [Anthropic debuts new model with hopes to corner the market beyond coding](https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude) (The Verge)
 - [Big Tech to Spend $650 Billion This Year as AI Race Intensifies](https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026) (Bloomberg)
+- [Inside Elon Musk’s $1.25 Trillion AI and Space Megamerger](https://www.wsj.com/tech/elon-musk-xai-spacex-merger-2896ae1e?st=rqcApc&reflink=desktopwebshare_permalink) (WSJ)
 - [Google set to double AI spending to $185bn after strong earnings](https://www.ft.com/content/22d97d8e-1101-4b1b-8a28-66054dfa363a?accessToken=zwAGSgb_qJs4kc8i2X2OEQFLG9OKKGYFTfo2Og.MEUCIEir6UX5yNRxPylvkyycMjuvdEl6mBd0pDdBb1XzSJIyAiEAj27rwwYCEMQuooyxBW5hW4eR-wHZD0-sXtPNmY8jmk8&sharetype=gift&token=eeffaabb-91d4-423b-bdb9-f5d9caf12ac9) (FT)
 - [OpenAI Frontier is a single platform to control your AI agents](https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management) (The Verge)
 - [Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT](https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt) (The Verge)

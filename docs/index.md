@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, February 06, 2026 - Piracy Is Back!</h3>
+  <h3>Monday, February 09, 2026 - The AI Superbowl</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research">Anthropic Releases New Model That’s Adept at Financial Research</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude">Anthropic debuts new model with hopes to corner the market beyond coding</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-06/how-much-is-big-tech-spending-on-ai-computing-a-staggering-650-billion-in-2026">Big Tech to Spend $650 Billion This Year as AI Race Intensifies</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html?unlocked_article_code=1.KFA.JsW5.S7KV98i8GJ_E&smid=url-share">Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-04/bitcoin-falls-to-72-000-as-traders-navigate-a-crisis-of-faith">Bitcoin Falls Below $70,000 as Market Faces a ‘Crisis of Faith’</a> (Bloomberg) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html">Sam Altman touts ChatGPT’s reaccelerating growth to employees as OpenAI closes in on $100 billion funding</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?rc=i9gkgs">How Capex Ramp Up Will Squeeze Google, Amazon, Meta</a> (The Information) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://sherwood.news/tech/apple-is-the-only-big-tech-company-whose-capex-declined-last-quarter/">Apple is the only Big Tech company whose capex declined last quarter</a> (Sherwood) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://petapixel.com/2026/02/09/bytedance-seedance-2-ai-video/">A New AI Video Model From ByteDance is Making Waves</a> (PetaPixel) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point">Claude Code is the Inflection Point</a> (SemiAnalysis) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com">Crypto.com CEO unveils new AI agents to millions during Super Bowl</a> (CoinTelegraph) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/">From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,14 +37,14 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-08T12:31:39-08:00">February 08, 2026 at 12:31 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-09T12:55:41-08:00">February 09, 2026 at 12:55 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,224</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,744</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,231</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,746</span></li>
       </ul>
     </div>
 
@@ -50,16 +52,16 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(74 links)</span></li>
       </ol>
     </div>

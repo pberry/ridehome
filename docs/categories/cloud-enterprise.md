@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [How Capex Ramp Up Will Squeeze Google, Amazon, Meta](https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?rc=i9gkgs) (The Information)
+
 ### January
 
 - [Microsoft stock drops 7% on slowing cloud growth, light margin guidance](https://www.cnbc.com/2026/01/28/microsoft-msft-q2-earnings-report-2026.html) (CNBC)

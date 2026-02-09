@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, February 06 2026**
+
+  * [Inside Elon Musk’s $1.25 Trillion AI and Space Megamerger](https://www.wsj.com/tech/elon-musk-xai-spacex-merger-2896ae1e?st=rqcApc&reflink=desktopwebshare_permalink) (WSJ)
+  * [Everyone is stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes) (The Verge)
+
+
+
 **Friday, January 23 2026**
 
   * [Russia, Ukraine and the race for Chinese drone components](https://www.ft.com/content/58416bf8-97d0-4d99-8152-cff9ec2dd3ef) (FT)

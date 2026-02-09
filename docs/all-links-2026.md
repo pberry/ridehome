@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, February 09 2026 - The AI Superbowl**
+
+  * [Sam Altman touts ChatGPT’s reaccelerating growth to employees as OpenAI closes in on $100 billion funding](https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html) (CNBC)
+  * [How Capex Ramp Up Will Squeeze Google, Amazon, Meta](https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?rc=i9gkgs) (The Information)
+  * [Apple is the only Big Tech company whose capex declined last quarter](https://sherwood.news/tech/apple-is-the-only-big-tech-company-whose-capex-declined-last-quarter/) (Sherwood)
+  * [A New AI Video Model From ByteDance is Making Waves](https://petapixel.com/2026/02/09/bytedance-seedance-2-ai-video/) (PetaPixel)
+  * [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point) (SemiAnalysis)
+  * [Crypto.com CEO unveils new AI agents to millions during Super Bowl](https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com) (CoinTelegraph)
+  * [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/) (TechCrunch)
+
+
+
 **Friday, February 06 2026 - Piracy Is Back!**
 
   * [Anthropic Releases New Model That’s Adept at Financial Research](https://www.bloomberg.com/news/articles/2026-02-05/anthropic-updates-ai-model-to-field-more-complex-financial-research) (Bloomberg)
