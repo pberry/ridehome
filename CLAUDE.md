@@ -16,7 +16,7 @@ This is a Python-based RSS feed parser that extracts links from "The Ride Home" 
 source env/bin/activate
 
 # Install dependencies (if needed)
-pip install feedparser html2text beautifulsoup4 html5lib
+pip install -r requirements.txt
 ```
 
 ### Running Scripts

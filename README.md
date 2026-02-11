@@ -26,13 +26,13 @@ Extracts daily show links and Friday longreads from the podcast RSS feed, genera
 # Install dependencies
 python3 -m venv env
 source env/bin/activate
-pip install feedparser html2text beautifulsoup4 html5lib
+pip install -r requirements.txt
 
 # Extract links from RSS feed
 ./extract.py --type all
 
-# Generate yearly files from database
-./export_yearly_files.py
+# Rebuild all generated markdown files from database
+python3 rebuild_all.py
 
 # Generate year wrapped report
 ./year_wrapped.py 2025
@@ -68,7 +68,6 @@ docs/                   # GitHub Pages site output
 **Tests**:
 ```
 test_html_parser.py     # HTML parsing tests
-test_file_updater.py    # File update tests
 test_markdown_parser.py # Markdown parsing tests
 ```
 
@@ -78,9 +77,7 @@ test_markdown_parser.py # Markdown parsing tests
 
 ```bash
 # Run all tests
-python3 test_html_parser.py
-python3 test_file_updater.py
-python3 test_markdown_parser.py
+python3 -m unittest discover -p "test_*.py"
 ```
 
 Tests are based on real RSS feed edge cases and parsing bugs discovered over 7+ years.

@@ -150,8 +150,8 @@ class TestYearPageCategoryLinks(unittest.TestCase):
         if os.path.exists(self.test_db):
             os.remove(self.test_db)
 
-    def test_sidebar_category_links_are_relative(self):
-        """category sidebar uses relative paths in year pages"""
+    def test_year_page_includes_category_sidebar(self):
+        """year page for showlinks includes category sidebar"""
         from generate_year_pages import get_links_for_year
 
         config = PAGE_CONFIGS['showlinks']
@@ -159,26 +159,24 @@ class TestYearPageCategoryLinks(unittest.TestCase):
 
         result = generate_markdown_content(2025, config['link_type'], links, config, self.test_db)
 
-        # Should NOT contain absolute paths to categories
-        self.assertNotIn('href="/categories/', result,
-                         "Category sidebar links must not use absolute paths")
+        self.assertIn('{% include categories/sidebar.html %}', result,
+                      "Showlinks year page should include category sidebar")
 
-        # Should contain relative paths
-        category_hrefs = re.findall(r'<li><a href="([^"]*categories/[^"]*)"', result)
+    def test_sidebar_html_category_links_use_base_path(self):
+        """sidebar.html category links include /ridehome/ base path"""
+        sidebar_path = os.path.join('docs', '_includes', 'categories', 'sidebar.html')
+        with open(sidebar_path) as f:
+            sidebar_html = f.read()
 
-        # Verify we found category links
+        category_hrefs = re.findall(r'<li><a href="([^"]*)"', sidebar_html)
+
         self.assertGreater(len(category_hrefs), 0,
                            "Should find category links in sidebar")
 
-        # Verify NONE are absolute paths
-        absolute_paths = [href for href in category_hrefs if href.startswith('/')]
-        self.assertEqual(absolute_paths, [],
-                         f"Sidebar contains absolute paths: {absolute_paths}")
-
-        # Verify they ARE relative paths
-        relative_paths = [href for href in category_hrefs if not href.startswith('/')]
-        self.assertEqual(len(relative_paths), len(category_hrefs),
-                         "All category links should be relative paths")
+        # All links should use /ridehome/ base path for GitHub Pages subpath deployment
+        for href in category_hrefs:
+            self.assertTrue(href.startswith('/ridehome/categories/'),
+                            f"Sidebar link should use /ridehome/ base path: {href}")
 
 
 if __name__ == '__main__':
