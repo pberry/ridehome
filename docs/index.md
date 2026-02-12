@@ -3,15 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, February 09, 2026 - The AI Superbowl</h3>
+  <h3>Wednesday, February 11, 2026 - The “Covid Moment” For AI?</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html">Sam Altman touts ChatGPT’s reaccelerating growth to employees as OpenAI closes in on $100 billion funding</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?rc=i9gkgs">How Capex Ramp Up Will Squeeze Google, Amazon, Meta</a> (The Information) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://sherwood.news/tech/apple-is-the-only-big-tech-company-whose-capex-declined-last-quarter/">Apple is the only Big Tech company whose capex declined last quarter</a> (Sherwood) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://petapixel.com/2026/02/09/bytedance-seedance-2-ai-video/">A New AI Video Model From ByteDance is Making Waves</a> (PetaPixel) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point">Claude Code is the Inflection Point</a> (SemiAnalysis) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com">Crypto.com CEO unveils new AI agents to millions during Super Bowl</a> (CoinTelegraph) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/">From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://shumer.dev/something-big-is-happening">⁠Something Big Is Happening⁠</a> (Matt Shumer)</li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-executive-who-opposed-adult-mode-fired-for-sexual-discrimination-3159c61b?st=jSQyus&reflink=desktopwebshare_permalink">⁠OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination⁠</a> (WSJ)</li>
+    <li><a href="https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/">⁠TikTok launches an opt-in Local Feed in the US leveraging users’ precise location⁠</a> (TechCrunch)</li>
+    <li><a href="https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network">⁠T-Mobile will live translate regular phone calls without an app⁠</a> (The Verge)</li>
   </ul>
 </section>
 
@@ -37,13 +34,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-09T12:55:41-08:00">February 09, 2026 at 12:55 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-12T05:46:10-08:00">February 12, 2026 at 05:46 AM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,231</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,240</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,746</span></li>
       </ul>
     </div>
@@ -51,18 +48,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(101 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(74 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
   </div>

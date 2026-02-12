@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [OpenAI begins testing ads in ChatGPT](https://mashable.com/article/openai-chatgpt-ads-begin-rollout) (Mashable)
+- [Alibaba, Tencent, and ByteDance Offer AI Red Packets to Lure Users](https://www.bloomberg.com/news/newsletters/2026-02-10/alibaba-tencent-and-bytedance-offer-ai-red-packets-to-lure-users) (Bloomberg)
+- [AI Doesn't Reduce Work, It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) (HBR)
 - [Sam Altman touts ChatGPT’s reaccelerating growth to employees as OpenAI closes in on $100 billion funding](https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html) (CNBC)
 - [A New AI Video Model From ByteDance is Making Waves](https://petapixel.com/2026/02/09/bytedance-seedance-2-ai-video/) (PetaPixel)
 - [Claude Code is the Inflection Point](https://newsletter.semianalysis.com/p/claude-code-is-the-inflection-point) (SemiAnalysis)

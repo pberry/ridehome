@@ -5,6 +5,25 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, February 11 2026 - The “Covid Moment” For AI?**
+
+  * [⁠Something Big Is Happening⁠](https://shumer.dev/something-big-is-happening) (Matt Shumer)
+  * [⁠OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination⁠](https://www.wsj.com/tech/ai/openai-executive-who-opposed-adult-mode-fired-for-sexual-discrimination-3159c61b?st=jSQyus&reflink=desktopwebshare_permalink) (WSJ)
+  * [⁠TikTok launches an opt-in Local Feed in the US leveraging users’ precise location⁠](https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/) (TechCrunch)
+  * [⁠T-Mobile will live translate regular phone calls without an app⁠](https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network) (The Verge)
+
+
+
+**Tuesday, February 10 2026 - AI: Better, Faster, Stronger… Or Just Working Harder?**
+
+  * [OpenAI begins testing ads in ChatGPT](https://mashable.com/article/openai-chatgpt-ads-begin-rollout) (Mashable)
+  * [Spotify Shares Surge After Adding Record Number of New Users](https://www.bloomberg.com/news/articles/2026-02-10/spotify-sets-user-growth-record-thanks-to-wrapped-promotion) (Bloomberg)
+  * [Alibaba, Tencent, and ByteDance Offer AI Red Packets to Lure Users](https://www.bloomberg.com/news/newsletters/2026-02-10/alibaba-tencent-and-bytedance-offer-ai-red-packets-to-lure-users) (Bloomberg)
+  * [New Mexico lawsuit accuses Meta of failing to protect children from sexual exploitation online](https://apnews.com/article/meta-new-mexico-child-exploitation-trial-19195fc680dba782fb971d68082e11a4) (AP)
+  * [AI Doesn't Reduce Work, It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) (HBR)
+
+
+
 **Monday, February 09 2026 - The AI Superbowl**
 
   * [Sam Altman touts ChatGPT’s reaccelerating growth to employees as OpenAI closes in on $100 billion funding](https://www.cnbc.com/2026/02/09/sam-altman-touts-chatgpt-growth-as-openai-nears-100-billion-funding.html) (CNBC)

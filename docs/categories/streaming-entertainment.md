@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Spotify Shares Surge After Adding Record Number of New Users](https://www.bloomberg.com/news/articles/2026-02-10/spotify-sets-user-growth-record-thanks-to-wrapped-promotion) (Bloomberg)
 - [Everyone is stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes) (The Verge)
 
 ### January
