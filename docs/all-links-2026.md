@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, February 13 2026 - Anthropic Makes Its Move**
+
+  * [Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups](https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html) (CNBC)
+  * [Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo](https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html) (CNBC)
+  * [Meta Plans to Add Facial Recognition Technology to Its Smart Glasses](https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.otsF.txFJRlQ8Gs4g&smid=nytcore-ios-share) (NYTimes)
+  * [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (The Verge)
+
+
+
 **Thursday, February 12 2026 - Pour Moi, C'est Le Déluge**
 
   * [Chinese AI startup Zhipu releases new flagship model GLM-5](https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/) (Reuters)

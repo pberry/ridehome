@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo](https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html) (CNBC)
+
 ### January
 
 - [OpenAI Plans Fourth-Quarter IPO in Race to Beat Anthropic to Market](https://www.wsj.com/tech/ai/openai-ipo-anthropic-race-69f06a42?st=venaMw&reflink=desktopwebshare_permalink) (WSJ)

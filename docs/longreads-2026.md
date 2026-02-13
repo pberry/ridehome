@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, February 13 2026**
+
+  * [The AI Gold Rush Is Breaking a Silicon Valley Taboo: Cashing Out Before the IPO](https://www.wsj.com/tech/ai/the-ai-gold-rush-is-breaking-a-silicon-valley-taboo-cashing-out-before-the-ipo-4844f6c1?st=ZsSfkC&reflink=desktopwebshare_permalink) (WSJ)
+  * [The New Fabio Is Claude](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html?unlocked_article_code=1.KlA.88wM.fz9YqfQRvgtr&smid=nytcore-ios-share) (NYTimes)
+
+
+
 **Friday, February 06 2026**
 
   * [Inside Elon Musk’s $1.25 Trillion AI and Space Megamerger](https://www.wsj.com/tech/elon-musk-xai-spacex-merger-2896ae1e?st=rqcApc&reflink=desktopwebshare_permalink) (WSJ)

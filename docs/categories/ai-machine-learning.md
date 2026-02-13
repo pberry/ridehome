@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups](https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html) (CNBC)
+- [The AI Gold Rush Is Breaking a Silicon Valley Taboo: Cashing Out Before the IPO](https://www.wsj.com/tech/ai/the-ai-gold-rush-is-breaking-a-silicon-valley-taboo-cashing-out-before-the-ipo-4844f6c1?st=ZsSfkC&reflink=desktopwebshare_permalink) (WSJ)
+- [The New Fabio Is Claude](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html?unlocked_article_code=1.KlA.88wM.fz9YqfQRvgtr&smid=nytcore-ios-share) (NYTimes)
 - [Chinese AI startup Zhipu releases new flagship model GLM-5](https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/) (Reuters)
 - [Musk announces xAI re-org following co-founder departures, SpaceX merger](https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html) (CNBC)
 - [Elon Musk Wants to Build an A.I. Satellite Factory on the Moon](https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html) (NYTimes)

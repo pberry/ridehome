@@ -3,14 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, February 12, 2026 - Pour Moi, C'est Le Déluge</h3>
+  <h3>Friday, February 13, 2026 - Anthropic Makes Its Move</h3>
   <ul>
-    <li><a href="https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/">Chinese AI startup Zhipu releases new flagship model GLM-5</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html">Musk announces xAI re-org following co-founder departures, SpaceX merger</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html">Elon Musk Wants to Build an A.I. Satellite Factory on the Moon</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657">Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini</a> (NBCNews) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html">Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead</a> (CNBC) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
-    <li><a href="https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163">The AI Vampire</a> (Steve Yegge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html">Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html">Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.otsF.txFJRlQ8Gs4g&smid=nytcore-ios-share">Meta Plans to Add Facial Recognition Technology to Its Smart Glasses</a> (NYTimes) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/news/878447/ring-flock-partnership-canceled">Ring cancels its partnership with Flock Safety after surveillance backlash</a> (The Verge) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -36,14 +34,14 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-13T05:57:33-08:00">February 13, 2026 at 05:57 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-13T13:33:24-08:00">February 13, 2026 at 01:33 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,246</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,746</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,250</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,748</span></li>
       </ul>
     </div>
 
@@ -51,16 +49,16 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(101 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(93 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
         <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(74 links)</span></li>
       </ol>
     </div>

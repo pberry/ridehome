@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (The Verge)
 - [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657) (NBCNews)
 
 ### January

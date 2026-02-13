@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Meta Plans to Add Facial Recognition Technology to Its Smart Glasses](https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.otsF.txFJRlQ8Gs4g&smid=nytcore-ios-share) (NYTimes)
 - [Apple is the only Big Tech company whose capex declined last quarter](https://sherwood.news/tech/apple-is-the-only-big-tech-company-whose-capex-declined-last-quarter/) (Sherwood)
 - [Exclusive: OpenAI is unsatisfied with some Nvidia chips and looking for alternatives, sources say](https://www.reuters.com/business/openai-is-unsatisfied-with-some-nvidia-chips-looking-alternatives-sources-say-2026-02-02/) (Reuters)
 
