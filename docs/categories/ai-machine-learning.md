@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [Chinese AI startup Zhipu releases new flagship model GLM-5](https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/) (Reuters)
+- [Musk announces xAI re-org following co-founder departures, SpaceX merger](https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html) (CNBC)
+- [Elon Musk Wants to Build an A.I. Satellite Factory on the Moon](https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html) (NYTimes)
 - [OpenAI begins testing ads in ChatGPT](https://mashable.com/article/openai-chatgpt-ads-begin-rollout) (Mashable)
 - [Alibaba, Tencent, and ByteDance Offer AI Red Packets to Lure Users](https://www.bloomberg.com/news/newsletters/2026-02-10/alibaba-tencent-and-bytedance-offer-ai-red-packets-to-lure-users) (Bloomberg)
 - [AI Doesn't Reduce Work, It Intensifies It](https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it) (HBR)

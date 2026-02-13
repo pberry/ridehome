@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, February 12 2026 - Pour Moi, C'est Le Déluge**
+
+  * [Chinese AI startup Zhipu releases new flagship model GLM-5](https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/) (Reuters)
+  * [Musk announces xAI re-org following co-founder departures, SpaceX merger](https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html) (CNBC)
+  * [Elon Musk Wants to Build an A.I. Satellite Factory on the Moon](https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html) (NYTimes)
+  * [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657) (NBCNews)
+  * [Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead](https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html) (CNBC)
+  * [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163) (Steve Yegge)
+
+
+
 **Wednesday, February 11 2026 - The “Covid Moment” For AI?**
 
   * [⁠Something Big Is Happening⁠](https://shumer.dev/something-big-is-happening) (Matt Shumer)

@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163) (Steve Yegge)
 - [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/) (Simon Willison)
 
 ### January

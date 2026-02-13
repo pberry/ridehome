@@ -3,12 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, February 11, 2026 - The “Covid Moment” For AI?</h3>
+  <h3>Thursday, February 12, 2026 - Pour Moi, C'est Le Déluge</h3>
   <ul>
-    <li><a href="https://shumer.dev/something-big-is-happening">⁠Something Big Is Happening⁠</a> (Matt Shumer)</li>
-    <li><a href="https://www.wsj.com/tech/ai/openai-executive-who-opposed-adult-mode-fired-for-sexual-discrimination-3159c61b?st=jSQyus&reflink=desktopwebshare_permalink">⁠OpenAI Executive Who Opposed ‘Adult Mode’ Fired for Sexual Discrimination⁠</a> (WSJ)</li>
-    <li><a href="https://techcrunch.com/2026/02/11/tiktok-launches-an-opt-in-local-feed-in-the-u-s-leveraging-users-precise-location/">⁠TikTok launches an opt-in Local Feed in the US leveraging users’ precise location⁠</a> (TechCrunch)</li>
-    <li><a href="https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network">⁠T-Mobile will live translate regular phone calls without an app⁠</a> (The Verge)</li>
+    <li><a href="https://www.reuters.com/technology/chinas-ai-startup-zhipu-releases-new-flagship-model-glm-5-2026-02-11/">Chinese AI startup Zhipu releases new flagship model GLM-5</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/02/11/musk-announces-xai-re-org-following-key-departures-spacex-merger.html">Musk announces xAI re-org following co-founder departures, SpaceX merger</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html">Elon Musk Wants to Build an A.I. Satellite Factory on the Moon</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657">Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini</a> (NBCNews) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html">Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead</a> (CNBC) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163">The AI Vampire</a> (Steve Yegge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -34,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-12T05:46:10-08:00">February 12, 2026 at 05:46 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-13T05:57:33-08:00">February 13, 2026 at 05:57 AM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,240</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,246</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,746</span></li>
       </ul>
     </div>
@@ -57,9 +59,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
-        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(73 links)</span></li>
+        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(74 links)</span></li>
       </ol>
     </div>
   </div>

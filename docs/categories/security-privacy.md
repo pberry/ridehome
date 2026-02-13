@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657) (NBCNews)
+
 ### January
 
 - [Moltbot Gets Another New Name, OpenClaw, And Triggers Security Fears And Scams](https://www.forbes.com/sites/ronschmelzer/2026/01/30/moltbot-molts-again-and-becomes-openclaw-pushback-and-concerns-grow/) (Forbes)
