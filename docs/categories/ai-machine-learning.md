@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (The Verge)
+- [Peter Steinberger Chose OpenAI. The Code Was Never the Point.](https://www.implicator.ai/peter-steinberger-chose-openai-the-code-was-never-the-point/) (Implicator.AI)
 - [Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups](https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html) (CNBC)
 - [The AI Gold Rush Is Breaking a Silicon Valley Taboo: Cashing Out Before the IPO](https://www.wsj.com/tech/ai/the-ai-gold-rush-is-breaking-a-silicon-valley-taboo-cashing-out-before-the-ipo-4844f6c1?st=ZsSfkC&reflink=desktopwebshare_permalink) (WSJ)
 - [The New Fabio Is Claude](https://www.nytimes.com/2026/02/08/business/ai-claude-romance-books.html?unlocked_article_code=1.KlA.88wM.fz9YqfQRvgtr&smid=nytcore-ios-share) (NYTimes)

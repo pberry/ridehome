@@ -3,12 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, February 13, 2026 - Anthropic Makes Its Move</h3>
+  <h3>Monday, February 16, 2026 - OpenAI Grabs OpenClaw’s Creator</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html">Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html">Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.otsF.txFJRlQ8Gs4g&smid=nytcore-ios-share">Meta Plans to Add Facial Recognition Technology to Its Smart Glasses</a> (NYTimes) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/news/878447/ring-flock-partnership-canceled">Ring cancels its partnership with Flock Safety after surveillance backlash</a> (The Verge) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai">OpenClaw founder Peter Steinberger is joining OpenAI</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.implicator.ai/peter-steinberger-chose-openai-the-code-was-never-the-point/">Peter Steinberger Chose OpenAI. The Code Was Never the Point.</a> (Implicator.AI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis">Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bbc.com/news/articles/c93wq6xqgy1o">ByteDance to curb AI video app after Disney legal threat</a> (BBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro">Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://crypto.news/crisis-mortgage-real-estate-tokenization-can-solve/">The hidden infrastructure crisis in mortgage and real estate finance that only tokenization can solve</a> (Crypto.news) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
   </ul>
 </section>
 
@@ -34,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-13T13:33:24-08:00">February 13, 2026 at 01:33 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-16T12:23:55-08:00">February 16, 2026 at 12:23 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,250</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,256</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,748</span></li>
       </ul>
     </div>
@@ -49,17 +51,17 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(101 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(93 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
-        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(74 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(102 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
   </div>

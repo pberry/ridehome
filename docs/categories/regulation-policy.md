@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [ByteDance to curb AI video app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o) (BBC)
+- [Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro) (Axios)
 - [New Mexico lawsuit accuses Meta of failing to protect children from sexual exploitation online](https://apnews.com/article/meta-new-mexico-child-exploitation-trial-19195fc680dba782fb971d68082e11a4) (AP)
 - [Europe Accuses TikTok of ‘Addictive Design’ and Pushes for Change](https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html?unlocked_article_code=1.KFA.JsW5.S7KV98i8GJ_E&smid=url-share) (NYTimes)
 - [SpaceX seeks FCC nod for solar-powered satellite data centers for AI](https://www.reuters.com/business/aerospace-defense/spacex-seeks-fcc-nod-solar-powered-satellite-data-centers-ai-2026-01-31/) (Reuters)

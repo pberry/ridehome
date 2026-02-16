@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [The hidden infrastructure crisis in mortgage and real estate finance that only tokenization can solve](https://crypto.news/crisis-mortgage-real-estate-tokenization-can-solve/) (Crypto.news)
+
 ### January
 
 - [Capital One Strikes $5.15 Billion Deal for Fintech Brex](https://www.wsj.com/finance/banking/capital-one-to-buy-fintech-brex-e2dacc67) (WSJ)

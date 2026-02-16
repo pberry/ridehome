@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, February 16 2026 - OpenAI Grabs OpenClaw’s Creator**
+
+  * [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (The Verge)
+  * [Peter Steinberger Chose OpenAI. The Code Was Never the Point.](https://www.implicator.ai/peter-steinberger-chose-openai-the-code-was-never-the-point/) (Implicator.AI)
+  * [Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis) (Bloomberg)
+  * [ByteDance to curb AI video app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o) (BBC)
+  * [Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro) (Axios)
+  * [The hidden infrastructure crisis in mortgage and real estate finance that only tokenization can solve](https://crypto.news/crisis-mortgage-real-estate-tokenization-can-solve/) (Crypto.news)
+
+
+
 **Friday, February 13 2026 - Anthropic Makes Its Move**
 
   * [Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups](https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html) (CNBC)
