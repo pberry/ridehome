@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [EU privacy watchdog opens probe into Elon Musk’s X over sexualised AI images](https://www.ft.com/content/3c720c9b-d2b6-41b3-a7b7-960b5f1fb94b) (FT)
 - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (The Verge)
 - [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657) (NBCNews)
 

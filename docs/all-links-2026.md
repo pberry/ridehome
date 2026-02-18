@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, February 17 2026 - AI Gettin' SaaS-y**
+
+  * [EU privacy watchdog opens probe into Elon Musk’s X over sexualised AI images](https://www.ft.com/content/3c720c9b-d2b6-41b3-a7b7-960b5f1fb94b) (FT)
+  * [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis) (The Verge)
+  * [Raspberry Pi soars 40% as CEO buys stock, AI chatter builds](https://www.reuters.com/technology/raspberry-pi-soars-40-ceo-buys-stock-ai-chatter-builds-2026-02-17/) (Reuters)
+  * [Meta-owned Manus launches AI agents on Telegram](https://www.siliconrepublic.com/machines/manus-ai-agents-meta-china-telegram-whatsapp) (SiliconRepublic)
+  * [Airbnb expands its “Reserve Now, Pay Later” globally](https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/) (TechCrunch)
+  * [10 Years Building Vertical Software: My Perspective on the Selloff](https://x.com/nicbstme/status/2023501562480644501) (@nicbstme)
+
+
+
 **Monday, February 16 2026 - OpenAI Grabs OpenClaw’s Creator**
 
   * [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (The Verge)

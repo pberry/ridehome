@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Raspberry Pi soars 40% as CEO buys stock, AI chatter builds](https://www.reuters.com/technology/raspberry-pi-soars-40-ceo-buys-stock-ai-chatter-builds-2026-02-17/) (Reuters)
 - [Enterprise AI startup Cohere tops revenue target as momentum builds to IPO: Investor memo](https://www.cnbc.com/2026/02/13/ai-startup-cohere-revenue-ipo.html) (CNBC)
 
 ### January

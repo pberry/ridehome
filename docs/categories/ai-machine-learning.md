@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Meta-owned Manus launches AI agents on Telegram](https://www.siliconrepublic.com/machines/manus-ai-agents-meta-china-telegram-whatsapp) (SiliconRepublic)
 - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (The Verge)
 - [Peter Steinberger Chose OpenAI. The Code Was Never the Point.](https://www.implicator.ai/peter-steinberger-chose-openai-the-code-was-never-the-point/) (Implicator.AI)
 - [Anthropic closes $30 billion funding round as cash keeps flowing into top AI startups](https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html) (CNBC)
