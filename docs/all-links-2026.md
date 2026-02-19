@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, February 18 2026 - New Pixel**
+
+  * [The Pixel 10A is a little too much like last year’s phone](https://www.theverge.com/tech/880400/pixel-10a-hands-on-a-little-too-much-like-pixel-9a) (The Verge)
+  * [Anthropic releases Sonnet 4.6](https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/) (TechCrunch)
+  * [Google’s AI music maker is coming to the Gemini app](https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta) (The Verge)
+  * [Adani bets $100 billion on data centres to power India’s AI ambitions](https://www.reuters.com/business/energy/indias-adani-invest-100-billion-ai-data-centres-by-2035-2026-02-17/) (Reuters)
+  * [Nvidia secures multibillion-dollar Meta deal as it battles chip rivals](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504) (FT)
+  * [Global game content sales rose 5.3% to $195.6bn in 2025](https://www.gamesindustry.biz/global-game-content-sales-rose-53-to-1956bn-in-2025) (GamesIndustry.biz)
+
+
+
 **Tuesday, February 17 2026 - AI Gettin' SaaS-y**
 
   * [EU privacy watchdog opens probe into Elon Musk’s X over sexualised AI images](https://www.ft.com/content/3c720c9b-d2b6-41b3-a7b7-960b5f1fb94b) (FT)

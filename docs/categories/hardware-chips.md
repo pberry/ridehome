@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [The Pixel 10A is a little too much like last year’s phone](https://www.theverge.com/tech/880400/pixel-10a-hands-on-a-little-too-much-like-pixel-9a) (The Verge)
+- [Nvidia secures multibillion-dollar Meta deal as it battles chip rivals](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504) (FT)
 - [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis) (The Verge)
 - [Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis) (Bloomberg)
 - [Meta Plans to Add Facial Recognition Technology to Its Smart Glasses](https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html?unlocked_article_code=1.L1A.otsF.txFJRlQ8Gs4g&smid=nytcore-ios-share) (NYTimes)

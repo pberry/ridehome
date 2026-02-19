@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [Anthropic releases Sonnet 4.6](https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/) (TechCrunch)
+- [Google’s AI music maker is coming to the Gemini app](https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta) (The Verge)
 - [Meta-owned Manus launches AI agents on Telegram](https://www.siliconrepublic.com/machines/manus-ai-agents-meta-china-telegram-whatsapp) (SiliconRepublic)
 - [OpenClaw founder Peter Steinberger is joining OpenAI](https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai) (The Verge)
 - [Peter Steinberger Chose OpenAI. The Code Was Never the Point.](https://www.implicator.ai/peter-steinberger-chose-openai-the-code-was-never-the-point/) (Implicator.AI)

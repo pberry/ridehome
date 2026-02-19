@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Adani bets $100 billion on data centres to power India’s AI ambitions](https://www.reuters.com/business/energy/indias-adani-invest-100-billion-ai-data-centres-by-2035-2026-02-17/) (Reuters)
 - [How Capex Ramp Up Will Squeeze Google, Amazon, Meta](https://www.theinformation.com/articles/capex-ramp-will-squeeze-google-amazon-meta?rc=i9gkgs) (The Information)
 
 ### January

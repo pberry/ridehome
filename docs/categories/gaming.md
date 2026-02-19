@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Global game content sales rose 5.3% to $195.6bn in 2025](https://www.gamesindustry.biz/global-game-content-sales-rose-53-to-1956bn-in-2025) (GamesIndustry.biz)
+
 ### January
 
 - [Meta is closing down three VR studios as part of its metaverse cuts](https://www.theverge.com/news/861420/meta-reality-labs-layoffs-vr-studios-twisted-pixel-sanzaru-armature) (The Verge)
