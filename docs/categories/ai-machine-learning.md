@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Google announces Gemini 3.1 Pro for ‘complex problem-solving’](https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/) (9to5Google)
 - [Anthropic releases Sonnet 4.6](https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/) (TechCrunch)
 - [Google’s AI music maker is coming to the Gemini app](https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta) (The Verge)
 - [Meta-owned Manus launches AI agents on Telegram](https://www.siliconrepublic.com/machines/manus-ai-agents-meta-china-telegram-whatsapp) (SiliconRepublic)

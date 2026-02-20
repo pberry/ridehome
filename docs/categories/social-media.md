@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### February
+
+- [Mark Zuckerberg said he reached out to Apple CEO Tim Cook to discuss ‘wellbeing of teens and kids’](https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html) (CNBC)
+
 ### January
 
 - [TikTok says a power outage caused a 'cascading systems failure' that messed up its algorithm](https://www.businessinsider.com/tiktok-outage-data-center-messed-up-fyp-over-the-weekend-2026-1) (BusinessInsider)

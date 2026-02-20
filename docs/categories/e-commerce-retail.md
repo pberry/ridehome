@@ -5,6 +5,12 @@ layout: category
 
 {% include categories/header.md %}
 
+## 2026
+
+### February
+
+- [Amazon Dethrones Walmart as World’s Biggest Company by Sales](https://www.bloomberg.com/news/articles/2026-02-19/amazon-dethrones-walmart-as-world-s-biggest-company-by-sales) (Bloomberg)
+
 ## 2025
 
 ### December

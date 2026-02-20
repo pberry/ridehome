@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, February 19 2026 - A Canticle For Leibowitz**
+
+  * [Google announces Gemini 3.1 Pro for ‘complex problem-solving’](https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/) (9to5Google)
+  * [Mark Zuckerberg said he reached out to Apple CEO Tim Cook to discuss ‘wellbeing of teens and kids’](https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html) (CNBC)
+  * [Amazon Dethrones Walmart as World’s Biggest Company by Sales](https://www.bloomberg.com/news/articles/2026-02-19/amazon-dethrones-walmart-as-world-s-biggest-company-by-sales) (Bloomberg)
+  * [Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era](https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era) (Bloomberg)
+  * [Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years](https://gizmodo.com/microsofts-glass-chip-holds-terabytes-of-data-for-10000-years-2000723455) (Bloomberg)
+
+
+
 **Wednesday, February 18 2026 - New Pixel**
 
   * [The Pixel 10A is a little too much like last year’s phone](https://www.theverge.com/tech/880400/pixel-10a-hands-on-a-little-too-much-like-pixel-9a) (The Verge)

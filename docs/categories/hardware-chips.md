@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era](https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era) (Bloomberg)
+- [Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years](https://gizmodo.com/microsofts-glass-chip-holds-terabytes-of-data-for-10000-years-2000723455) (Bloomberg)
 - [The Pixel 10A is a little too much like last year’s phone](https://www.theverge.com/tech/880400/pixel-10a-hands-on-a-little-too-much-like-pixel-9a) (The Verge)
 - [Nvidia secures multibillion-dollar Meta deal as it battles chip rivals](https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504) (FT)
 - [Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis](https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis) (The Verge)

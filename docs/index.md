@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, February 18, 2026 - New Pixel</h3>
+  <h3>Thursday, February 19, 2026 - A Canticle For Leibowitz</h3>
   <ul>
-    <li><a href="https://www.theverge.com/tech/880400/pixel-10a-hands-on-a-little-too-much-like-pixel-9a">The Pixel 10A is a little too much like last year’s phone</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/">Anthropic releases Sonnet 4.6</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta">Google’s AI music maker is coming to the Gemini app</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/business/energy/indias-adani-invest-100-billion-ai-data-centres-by-2035-2026-02-17/">Adani bets $100 billion on data centres to power India’s AI ambitions</a> (Reuters) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.ft.com/content/d3b50dfc-31fa-45a8-9184-c5f0476f4504">Nvidia secures multibillion-dollar Meta deal as it battles chip rivals</a> (FT) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.gamesindustry.biz/global-game-content-sales-rose-53-to-1956bn-in-2025">Global game content sales rose 5.3% to $195.6bn in 2025</a> (GamesIndustry.biz) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/">Google announces Gemini 3.1 Pro for ‘complex problem-solving’</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html">Mark Zuckerberg said he reached out to Apple CEO Tim Cook to discuss ‘wellbeing of teens and kids’</a> (CNBC) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-19/amazon-dethrones-walmart-as-world-s-biggest-company-by-sales">Amazon Dethrones Walmart as World’s Biggest Company by Sales</a> (Bloomberg) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era">Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://gizmodo.com/microsofts-glass-chip-holds-terabytes-of-data-for-10000-years-2000723455">Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-19T08:29:22-08:00">February 19, 2026 at 08:29 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-20T05:59:01-08:00">February 20, 2026 at 05:59 AM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,268</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,273</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,748</span></li>
       </ul>
     </div>
@@ -50,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(100 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(103 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
       </ol>
@@ -59,8 +58,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(102 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
