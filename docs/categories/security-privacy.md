@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [Google Restricts AI Ultra Subscribers Over OpenClaw OAuth, Days After Anthropic Ban](https://www.implicator.ai/google-restricts-ai-ultra-subscribers-over-openclaw-oauth-days-after-anthropic-ban/) (Implicator.ai)
+- [Ex-Googlers Charged With Stealing Phone Processor Secrets](https://www.bloomberg.com/news/articles/2026-02-20/ex-google-engineers-charged-with-stealing-phone-processor-tech) (Bloomberg)
+- [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) (MIT Technology Review)
 - [EU privacy watchdog opens probe into Elon Musk’s X over sexualised AI images](https://www.ft.com/content/3c720c9b-d2b6-41b3-a7b7-960b5f1fb94b) (FT)
 - [Ring cancels its partnership with Flock Safety after surveillance backlash](https://www.theverge.com/news/878447/ring-flock-partnership-canceled) (The Verge)
 - [Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini](https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657) (NBCNews)

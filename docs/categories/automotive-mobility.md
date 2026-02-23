@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Uber, Latest Victim of Disruption Panic, Still Has Role in Robotaxis](https://www.wsj.com/tech/uber-latest-victim-of-disruption-panic-still-has-role-in-robotaxis-7cb07d60?st=toK8LJ&reflink=desktopwebshare_permalink) (WSJ)
 - [Waymo begins deploying next-gen Ojai robotaxis to extend its U.S. lead](https://www.cnbc.com/2026/02/12/waymo-begins-deploying-next-gen-ojai-robotaxis-to-extend-its-us-lead.html) (CNBC)
 - [Waymo Raises $16 Billion From Alphabet and Others to Expand](https://www.bloomberg.com/news/articles/2026-02-02/waymo-raises-16-billion-from-alphabet-others-to-expand-service?sref=Szq5ylDR) (Bloomberg)
 

@@ -9,6 +9,11 @@ layout: category
 
 ### February
 
+- [Sam Altman Says Companies Are ‘AI Washing’ Layoffs](https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759) (Gizmodo)
+- [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html?unlocked_article_code=1.N1A.anK-.p4Y3hdaUD7D6&smid=nytcore-ios-share) (NYTimes)
+- [Sam Altman would like to remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/) (TechCrunch)
+- [Half the AI Agent Market Is One Category. The Rest Is Wide Open.](https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open) (Garry's List)
+- [Amazon service was taken down by AI coding bot](https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d) (FT)
 - [Google announces Gemini 3.1 Pro for ‘complex problem-solving’](https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/) (9to5Google)
 - [Anthropic releases Sonnet 4.6](https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/) (TechCrunch)
 - [Google’s AI music maker is coming to the Gemini app](https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta) (The Verge)

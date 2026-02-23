@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) (Citrini Research)
+- [Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift](https://www.wired.com/story/perplexity-ads-shift-search-google/) (Wired)
 - [10 Years Building Vertical Software: My Perspective on the Selloff](https://x.com/nicbstme/status/2023501562480644501) (@nicbstme)
 - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163) (Steve Yegge)
 - [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/) (Simon Willison)

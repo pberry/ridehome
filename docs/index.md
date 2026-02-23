@@ -3,13 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, February 19, 2026 - A Canticle For Leibowitz</h3>
+  <h3>Monday, February 23, 2026 - Sam Says Some Things</h3>
   <ul>
-    <li><a href="https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/">Google announces Gemini 3.1 Pro for ‘complex problem-solving’</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html">Mark Zuckerberg said he reached out to Apple CEO Tim Cook to discuss ‘wellbeing of teens and kids’</a> (CNBC) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-19/amazon-dethrones-walmart-as-world-s-biggest-company-by-sales">Amazon Dethrones Walmart as World’s Biggest Company by Sales</a> (Bloomberg) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era">Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://gizmodo.com/microsofts-glass-chip-holds-terabytes-of-data-for-10000-years-2000723455">Microsoft’s Glass Chip Holds Terabytes of Data for 10,000 Years</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759">Sam Altman Says Companies Are ‘AI Washing’ Layoffs</a> (Gizmodo) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html?unlocked_article_code=1.N1A.anK-.p4Y3hdaUD7D6&smid=nytcore-ios-share">People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/">Sam Altman would like to remind you that humans use a lot of energy, too</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open">Half the AI Agent Market Is One Category. The Rest Is Wide Open.</a> (Garry's List) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.implicator.ai/google-restricts-ai-ultra-subscribers-over-openclaw-oauth-days-after-anthropic-ban/">Google Restricts AI Ultra Subscribers Over OpenClaw OAuth, Days After Anthropic Ban</a> (Implicator.ai) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.citriniresearch.com/p/2028gic">THE 2028 GLOBAL INTELLIGENCE CRISIS</a> (Citrini Research) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -35,22 +36,22 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-20T05:59:01-08:00">February 20, 2026 at 05:59 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-23T14:15:13-08:00">February 23, 2026 at 02:15 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,273</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,748</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,285</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,749</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(103 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(101 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(93 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
       </ol>
     </div>
@@ -58,9 +59,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(73 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
+        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
   </div>

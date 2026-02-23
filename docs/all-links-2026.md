@@ -5,6 +5,28 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, February 23 2026 - Sam Says Some Things**
+
+  * [Sam Altman Says Companies Are ‘AI Washing’ Layoffs](https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759) (Gizmodo)
+  * [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html?unlocked_article_code=1.N1A.anK-.p4Y3hdaUD7D6&smid=nytcore-ios-share) (NYTimes)
+  * [Sam Altman would like to remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/) (TechCrunch)
+  * [Half the AI Agent Market Is One Category. The Rest Is Wide Open.](https://garryslist.org/posts/half-the-ai-agent-market-is-one-category-the-rest-is-wide-open) (Garry's List)
+  * [Google Restricts AI Ultra Subscribers Over OpenClaw OAuth, Days After Anthropic Ban](https://www.implicator.ai/google-restricts-ai-ultra-subscribers-over-openclaw-oauth-days-after-anthropic-ban/) (Implicator.ai)
+  * [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) (Citrini Research)
+
+
+
+**Friday, February 20 2026 - When AI Breaks Things**
+
+  * [Amazon service was taken down by AI coding bot](https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d) (FT)
+  * [Ex-Googlers Charged With Stealing Phone Processor Secrets](https://www.bloomberg.com/news/articles/2026-02-20/ex-google-engineers-charged-with-stealing-phone-processor-tech) (Bloomberg)
+  * [OpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape](https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices?rc=i9gkgs) (The Information)
+  * [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) (MIT Technology Review)
+  * [Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift](https://www.wired.com/story/perplexity-ads-shift-search-google/) (Wired)
+  * [Uber, Latest Victim of Disruption Panic, Still Has Role in Robotaxis](https://www.wsj.com/tech/uber-latest-victim-of-disruption-panic-still-has-role-in-robotaxis-7cb07d60?st=toK8LJ&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Thursday, February 19 2026 - A Canticle For Leibowitz**
 
   * [Google announces Gemini 3.1 Pro for ‘complex problem-solving’](https://9to5google.com/2026/02/19/google-announces-gemini-3-1-pro-for-complex-problem-solving/) (9to5Google)

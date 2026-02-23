@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, February 20 2026**
+
+  * [Who needs a laptop when you have a folding phone?](https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement) (The Verge)
+
+
+
 **Friday, February 13 2026**
 
   * [The AI Gold Rush Is Breaking a Silicon Valley Taboo: Cashing Out Before the IPO](https://www.wsj.com/tech/ai/the-ai-gold-rush-is-breaking-a-silicon-valley-taboo-cashing-out-before-the-ipo-4844f6c1?st=ZsSfkC&reflink=desktopwebshare_permalink) (WSJ)
