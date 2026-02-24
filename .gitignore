@@ -2,8 +2,7 @@ env/
 .venv/
 .env
 
-# SQLite database
-ridehome.db
+# SQLite database (ridehome.db is committed to repo for CI portability)
 ridehome.db-journal
 ridehome.db.backup
 

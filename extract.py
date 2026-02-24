@@ -307,7 +307,7 @@ def print_mode(feed_entries, config):
 			print("No show links for this episode ¯\\_(ツ)_/¯\n")
 
 
-def update_mode(feed_entries, config, skip_db=False):
+def update_mode(feed_entries, config, skip_db=False, yes=False):
 	"""Update mode: detect new entries and update database, then regenerate markdown"""
 	if not feed_entries:
 		print("No entries in feed")
@@ -362,18 +362,22 @@ def update_mode(feed_entries, config, skip_db=False):
 			print(f"  - {header}")
 		if len(all_formatted[year]) > 3:
 			print(f"  ... and {len(all_formatted[year]) - 3} more")
-		response = input(f"\nAdd them to {file_path}? [y/N] ").strip().lower()
+		if not yes:
+			response = input(f"\nAdd them to {file_path}? [y/N] ").strip().lower()
+			if response != 'y':
+				print("Cancelled")
+				return
 	else:
 		# Multiple years
 		print(f"Found {config['no_content_message']} for multiple years:")
 		for year in sorted(all_formatted.keys(), reverse=True):
 			count = len(all_formatted[year])
 			print(f"  - {year}: {count} {config['no_content_message']}")
-		response = input(f"\nUpdate all files? [y/N] ").strip().lower()
-
-	if response != 'y':
-		print("Cancelled")
-		return
+		if not yes:
+			response = input(f"\nUpdate all files? [y/N] ").strip().lower()
+			if response != 'y':
+				print("Cancelled")
+				return
 
 	# Insert links into database (unless --skip-db flag is set)
 	if not skip_db and all_db_links:
@@ -449,7 +453,7 @@ def update_mode(feed_entries, config, skip_db=False):
 			print("  No changes were made")
 
 
-def process_type(feed_entries, extract_type, print_only=False, skip_db=False):
+def process_type(feed_entries, extract_type, print_only=False, skip_db=False, yes=False):
 	"""Process a single extraction type"""
 	if extract_type not in CONFIGS:
 		print(f"Error: Unknown type '{extract_type}'")
@@ -460,7 +464,7 @@ def process_type(feed_entries, extract_type, print_only=False, skip_db=False):
 	if print_only:
 		print_mode(feed_entries, config)
 	else:
-		update_mode(feed_entries, config, skip_db=skip_db)
+		update_mode(feed_entries, config, skip_db=skip_db, yes=yes)
 
 	return True
 
@@ -494,6 +498,11 @@ Examples:
 		action='store_true',
 		help='Skip database updates (only update markdown files)'
 	)
+	parser.add_argument(
+		'--yes', '-y',
+		action='store_true',
+		help='Skip confirmation prompts (for CI/automation)'
+	)
 	args = parser.parse_args()
 
 	# Parse RSS feed
@@ -508,9 +517,9 @@ Examples:
 			exit(1)
 
 		print("=== Processing showlinks ===")
-		process_type(rhfeed.entries, 'showlinks', print_only=False, skip_db=args.skip_db)
+		process_type(rhfeed.entries, 'showlinks', print_only=False, skip_db=args.skip_db, yes=args.yes)
 		print("\n=== Processing longreads ===")
-		process_type(rhfeed.entries, 'longreads', print_only=False, skip_db=args.skip_db)
+		process_type(rhfeed.entries, 'longreads', print_only=False, skip_db=args.skip_db, yes=args.yes)
 
 		# Update homepage status section after successful update
 		if not args.skip_db:
@@ -523,7 +532,7 @@ Examples:
 			except Exception as e:
 				print(f"⚠ Warning: Failed to update homepage status: {e}")
 	else:
-		process_type(rhfeed.entries, args.type, print_only=args.print, skip_db=args.skip_db)
+		process_type(rhfeed.entries, args.type, print_only=args.print, skip_db=args.skip_db, yes=args.yes)
 
 		# Update homepage status section after successful update (unless in print mode or skip-db)
 		if not args.print and not args.skip_db:
