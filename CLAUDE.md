@@ -12,9 +12,14 @@ This is a Python-based RSS feed parser that extracts links from "The Ride Home" 
 
 ### Environment Setup
 ```bash
+# Pull latest (includes ridehome.db — committed to repo for CI portability)
+git pull
+
 # Install dependencies (if needed)
 uv sync
 ```
+
+**Note:** `ridehome.db` is committed to the repository so any machine can run the scripts after a `git pull`. The daily GitHub Actions workflow keeps it up to date automatically. Always `git pull` before running scripts locally to avoid re-processing already-seen entries.
 
 ### Running Scripts
 ```bash
@@ -26,6 +31,9 @@ uv run ./extract.py --type longreads
 
 # Update both show links and longreads
 uv run ./extract.py --type all
+
+# Skip confirmation prompts (used by GitHub Actions CI)
+uv run ./extract.py --type all --yes
 
 # Print show links to stdout (legacy behavior)
 uv run ./extract.py --print > docs/all-links-2025.md
