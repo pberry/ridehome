@@ -12,46 +12,43 @@ This is a Python-based RSS feed parser that extracts links from "The Ride Home" 
 
 ### Environment Setup
 ```bash
-# Activate virtual environment
-source env/bin/activate
-
 # Install dependencies (if needed)
-pip install feedparser html2text beautifulsoup4 html5lib
+uv sync
 ```
 
 ### Running Scripts
 ```bash
 # Update show links (default behavior)
-./extract.py
+uv run ./extract.py
 
 # Update Friday longreads
-./extract.py --type longreads
+uv run ./extract.py --type longreads
 
 # Update both show links and longreads
-./extract.py --type all
+uv run ./extract.py --type all
 
 # Print show links to stdout (legacy behavior)
-./extract.py --print > docs/all-links-2025.md
+uv run ./extract.py --print > docs/all-links-2025.md
 
 # Print longreads to stdout (legacy behavior)
-./extract.py --type longreads --print > docs/longreads-2025.md
+uv run ./extract.py --type longreads --print > docs/longreads-2025.md
 
 # Generate year-end Wrapped report (Spotify Wrapped style)
-python3 year_wrapped.py 2025          # For 2025
-python3 year_wrapped.py --year 2024   # For 2024
-python3 year_wrapped.py 2023          # For any year with data
+uv run year_wrapped.py 2025          # For 2025
+uv run year_wrapped.py --year 2024   # For 2024
+uv run year_wrapped.py 2023          # For any year with data
 ```
 
 ### Testing
 ```bash
 # Run all tests
-python3 test_html_parser.py
+uv run python test_html_parser.py
 
 # Run specific test class
-python3 test_html_parser.py TestLinksExtraction
+uv run python test_html_parser.py TestLinksExtraction
 
 # Run single test
-python3 test_html_parser.py TestLinksExtraction.test_extracts_ul_after_links_paragraph
+uv run python test_html_parser.py TestLinksExtraction.test_extracts_ul_after_links_paragraph
 ```
 
 ## Architecture
