@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, February 24 2026 - The AI Essays Are Moving Markets**
+
+  * [Software Stocks Are Having Another Ugly Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/software-stocks-are-having-another-ugly-day-LlAj9avDeFocxKHzVwRZ) (WSJ)
+  * [Anthropic Accuses Chinese Companies of Siphoning Data From Claude](https://www.wsj.com/tech/ai/anthropic-accuses-chinese-companies-of-siphoning-data-from-claude-63a13afc?st=vQ7iHF&reflink=desktopwebshare_permalink) (WSJ)
+  * [Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion](https://www.wsj.com/tech/ai/meta-and-amd-agree-to-ai-chips-deal-worth-more-than-100-billion-9c7fd06b?st=hNxAS6&reflink=desktopwebshare_permalink) (WSJ)
+  * [Exclusive: ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/) (Reuters)
+  * [Putting Samsung’s $2,899 TriFold To the Test as a Phone, Tablet and Laptop](https://www.bloomberg.com/news/features/2026-02-23/samsung-galaxy-z-trifold-doesn-t-replace-tablets-or-laptops) (Bloomberg)
+
+
+
 **Monday, February 23 2026 - Sam Says Some Things**
 
   * [Sam Altman Says Companies Are ‘AI Washing’ Layoffs](https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759) (Gizmodo)

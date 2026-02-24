@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Software Stocks Are Having Another Ugly Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/software-stocks-are-having-another-ugly-day-LlAj9avDeFocxKHzVwRZ) (WSJ)
 - [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) (Citrini Research)
 - [Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift](https://www.wired.com/story/perplexity-ads-shift-search-google/) (Wired)
 - [10 Years Building Vertical Software: My Perspective on the Selloff](https://x.com/nicbstme/status/2023501562480644501) (@nicbstme)
