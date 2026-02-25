@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [Exclusive: ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/) (Reuters)
+- [Putting Samsung’s $2,899 TriFold To the Test as a Phone, Tablet and Laptop](https://www.bloomberg.com/news/features/2026-02-23/samsung-galaxy-z-trifold-doesn-t-replace-tablets-or-laptops) (Bloomberg)
 - [OpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape](https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices?rc=i9gkgs) (The Information)
 - [Who needs a laptop when you have a folding phone?](https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement) (The Verge)
 - [Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era](https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era) (Bloomberg)

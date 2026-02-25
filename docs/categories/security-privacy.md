@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Anthropic Accuses Chinese Companies of Siphoning Data From Claude](https://www.wsj.com/tech/ai/anthropic-accuses-chinese-companies-of-siphoning-data-from-claude-63a13afc?st=vQ7iHF&reflink=desktopwebshare_permalink) (WSJ)
 - [Google Restricts AI Ultra Subscribers Over OpenClaw OAuth, Days After Anthropic Ban](https://www.implicator.ai/google-restricts-ai-ultra-subscribers-over-openclaw-oauth-days-after-anthropic-ban/) (Implicator.ai)
 - [Ex-Googlers Charged With Stealing Phone Processor Secrets](https://www.bloomberg.com/news/articles/2026-02-20/ex-google-engineers-charged-with-stealing-phone-processor-tech) (Bloomberg)
 - [Microsoft has a new plan to prove what’s real and what’s AI online](https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/) (MIT Technology Review)

@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion](https://www.wsj.com/tech/ai/meta-and-amd-agree-to-ai-chips-deal-worth-more-than-100-billion-9c7fd06b?st=hNxAS6&reflink=desktopwebshare_permalink) (WSJ)
 - [Sam Altman Says Companies Are ‘AI Washing’ Layoffs](https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759) (Gizmodo)
 - [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html?unlocked_article_code=1.N1A.anK-.p4Y3hdaUD7D6&smid=nytcore-ios-share) (NYTimes)
 - [Sam Altman would like to remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/) (TechCrunch)
