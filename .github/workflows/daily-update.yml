@@ -2,7 +2,9 @@ name: Daily Feed Update
 
 on:
   schedule:
-    - cron: '0 23 * * 1-5'   # 6pm ET (UTC-5) on weekdays
+    - cron: '0 18 * * 1-5'   # 1pm ET (UTC-5) on weekdays
+    - cron: '0 19 * * 1-5'   # 2pm ET (UTC-5) on weekdays
+    - cron: '0 20 * * 1-5'   # 3pm ET (UTC-5) on weekdays
   workflow_dispatch:            # Manual trigger from Actions tab
 
 jobs:
