@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [I tried the Samsung Galaxy S26 Ultra and need the Privacy Display feature on my iPhone ASAP](https://www.zdnet.com/article/samsung-galaxy-s26-ultra-hands-on-unpacked-2026/) (ZDNet)
 - [Exclusive: ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/) (Reuters)
 - [Putting Samsung’s $2,899 TriFold To the Test as a Phone, Tablet and Laptop](https://www.bloomberg.com/news/features/2026-02-23/samsung-galaxy-z-trifold-doesn-t-replace-tablets-or-laptops) (Bloomberg)
 - [OpenAI Plans to Price Smart Speaker at $200 to $300, as AI Device Team Takes Shape](https://www.theinformation.com/articles/inside-openai-team-developing-ai-devices?rc=i9gkgs) (The Information)

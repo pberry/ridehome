@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, February 24, 2026 - The AI Essays Are Moving Markets</h3>
+  <h3>Wednesday, February 25, 2026 - Galaxy Unpacked</h3>
   <ul>
-    <li><a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/software-stocks-are-having-another-ugly-day-LlAj9avDeFocxKHzVwRZ">Software Stocks Are Having Another Ugly Day</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/anthropic-accuses-chinese-companies-of-siphoning-data-from-claude-63a13afc?st=vQ7iHF&reflink=desktopwebshare_permalink">Anthropic Accuses Chinese Companies of Siphoning Data From Claude</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/meta-and-amd-agree-to-ai-chips-deal-worth-more-than-100-billion-9c7fd06b?st=hNxAS6&reflink=desktopwebshare_permalink">Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/">Exclusive: ASML unveils EUV light source advance that could yield 50% more chips by 2030</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/features/2026-02-23/samsung-galaxy-z-trifold-doesn-t-replace-tablets-or-laptops">Putting Samsung’s $2,899 TriFold To the Test as a Phone, Tablet and Laptop</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.zdnet.com/article/samsung-galaxy-s26-ultra-hands-on-unpacked-2026/">I tried the Samsung Galaxy S26 Ultra and need the Privacy Display feature on my iPhone ASAP</a> (ZDNet) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber">Gemini is getting its first agentic capabilities</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario">Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/">Anthropic digs in heels in dispute with Pentagon, source says</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote">Anthropic just released a mobile version of Claude Code called Remote Control</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal">Payments Processor Stripe Expresses Interest in PayPal</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/">AI Models Deployed Nuclear Weapons in 95% of War Game Simulations, Study Finds</a> (Implicator.ai) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-02-24T10:03:24-08:00">February 24, 2026 at 10:03 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-02-25T12:33:24-08:00">February 25, 2026 at 12:33 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,290</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,297</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,749</span></li>
       </ul>
     </div>
@@ -49,8 +51,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(102 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(90 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(103 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
@@ -58,9 +60,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(103 links)</span></li>
-        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(67 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
   </div>

@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [Gemini is getting its first agentic capabilities](https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber) (The Verge)
+- [Anthropic just released a mobile version of Claude Code called Remote Control](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote) (VentureBeat)
+- [AI Models Deployed Nuclear Weapons in 95% of War Game Simulations, Study Finds](https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/) (Implicator.ai)
 - [Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion](https://www.wsj.com/tech/ai/meta-and-amd-agree-to-ai-chips-deal-worth-more-than-100-billion-9c7fd06b?st=hNxAS6&reflink=desktopwebshare_permalink) (WSJ)
 - [Sam Altman Says Companies Are ‘AI Washing’ Layoffs](https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759) (Gizmodo)
 - [People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html?unlocked_article_code=1.N1A.anK-.p4Y3hdaUD7D6&smid=nytcore-ios-share) (NYTimes)

@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario) (Axios)
+- [Anthropic digs in heels in dispute with Pentagon, source says](https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/) (Axios)
 - [ByteDance to curb AI video app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o) (BBC)
 - [Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro) (Axios)
 - [New Mexico lawsuit accuses Meta of failing to protect children from sexual exploitation online](https://apnews.com/article/meta-new-mexico-child-exploitation-trial-19195fc680dba782fb971d68082e11a4) (AP)

@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, February 25 2026 - Galaxy Unpacked**
+
+  * [I tried the Samsung Galaxy S26 Ultra and need the Privacy Display feature on my iPhone ASAP](https://www.zdnet.com/article/samsung-galaxy-s26-ultra-hands-on-unpacked-2026/) (ZDNet)
+  * [Gemini is getting its first agentic capabilities](https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber) (The Verge)
+  * [Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario) (Axios)
+  * [Anthropic digs in heels in dispute with Pentagon, source says](https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/) (Axios)
+  * [Anthropic just released a mobile version of Claude Code called Remote Control](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote) (VentureBeat)
+  * [Payments Processor Stripe Expresses Interest in PayPal](https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal) (Bloomberg)
+  * [AI Models Deployed Nuclear Weapons in 95% of War Game Simulations, Study Finds](https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/) (Implicator.ai)
+
+
+
 **Tuesday, February 24 2026 - The AI Essays Are Moving Markets**
 
   * [Software Stocks Are Having Another Ugly Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/software-stocks-are-having-another-ugly-day-LlAj9avDeFocxKHzVwRZ) (WSJ)

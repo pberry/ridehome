@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Payments Processor Stripe Expresses Interest in PayPal](https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal) (Bloomberg)
 - [Airbnb expands its “Reserve Now, Pay Later” globally](https://techcrunch.com/2026/02/17/airbnb-expands-its-reserve-now-pay-later-globally/) (TechCrunch)
 - [The hidden infrastructure crisis in mortgage and real estate finance that only tokenization can solve](https://crypto.news/crisis-mortgage-real-estate-tokenization-can-solve/) (Crypto.news)
 
