@@ -9,6 +9,9 @@ layout: category
 
 ### February
 
+- [Google’s Nano Banana 2 brings advanced AI image tools to free users](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch) (The Verge)
+- [Google and Samsung just launched the AI features Apple couldn’t with Siri](https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri) (The Verge)
+- [Anthropic gives its retired Claude AI a Substack](https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack) (The Verge)
 - [Gemini is getting its first agentic capabilities](https://www.theverge.com/tech/884210/google-gemini-samsung-s26-pixel-10-uber) (The Verge)
 - [Anthropic just released a mobile version of Claude Code called Remote Control](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote) (VentureBeat)
 - [AI Models Deployed Nuclear Weapons in 95% of War Game Simulations, Study Finds](https://www.implicator.ai/ai-models-deployed-nuclear-weapons-in-95-of-war-game-simulations-study-finds/) (Implicator.ai)

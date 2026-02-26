@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, February 26 2026 - An AI Has A Substack**
+
+  * [Google’s Nano Banana 2 brings advanced AI image tools to free users](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch) (The Verge)
+  * [Nvidia Shares Slide After Sales Forecast Underwhelms Investors](https://www.bloomberg.com/news/articles/2026-02-25/nvidia-s-rosy-revenue-forecast-shows-the-ai-boom-remains-strong) (Bloomberg)
+  * [Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd) (FT)
+  * [New York sues video game developer Valve, says its 'loot boxes' are gambling](https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/) (Reuters)
+  * [Google and Samsung just launched the AI features Apple couldn’t with Siri](https://www.theverge.com/tech/884703/google-samsung-galaxy-s26-gemini-apple-siri) (The Verge)
+  * [Cloudflare experiment ports most of Next.js API 'in one week' with AI](https://www.theregister.com/2026/02/25/cloudflare_nextjs_api_ai/) (The Register)
+  * [Anthropic gives its retired Claude AI a Substack](https://www.theverge.com/ai-artificial-intelligence/885200/anthropic-retired-claude-given-a-substack) (The Verge)
+
+
+
 **Wednesday, February 25 2026 - Galaxy Unpacked**
 
   * [I tried the Samsung Galaxy S26 Ultra and need the Privacy Display feature on my iPhone ASAP](https://www.zdnet.com/article/samsung-galaxy-s26-ultra-hands-on-unpacked-2026/) (ZDNet)
