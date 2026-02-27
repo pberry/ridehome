@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, February 27 2026**
+
+  * [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html?unlocked_article_code=1.OlA.NXTg.lmrVH1DzRoMH) (NYTimes)
+
+
+
 **Friday, February 20 2026**
 
   * [Who needs a laptop when you have a folding phone?](https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement) (The Verge)

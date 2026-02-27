@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, February 27 2026 - The Friday Of All The Headlines**
+
+  * [OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank](https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html) (CNBC)
+  * [Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight](https://www.axios.com/2026/02/27/altman-openai-anthropic-pentagon) (Axios)
+  * [Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter](https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/) (TechCrunch)
+  * [Block shares soar as much as 24% as company slashes workforce by nearly half](https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html) (CNBC)
+  * [Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior](https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html) (CNBC)
+
+
+
 **Thursday, February 26 2026 - An AI Has A Substack**
 
   * [Google’s Nano Banana 2 brings advanced AI image tools to free users](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch) (The Verge)

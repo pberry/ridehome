@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html?unlocked_article_code=1.OlA.NXTg.lmrVH1DzRoMH) (NYTimes)
 - [Nvidia Shares Slide After Sales Forecast Underwhelms Investors](https://www.bloomberg.com/news/articles/2026-02-25/nvidia-s-rosy-revenue-forecast-shows-the-ai-boom-remains-strong) (Bloomberg)
 - [I tried the Samsung Galaxy S26 Ultra and need the Privacy Display feature on my iPhone ASAP](https://www.zdnet.com/article/samsung-galaxy-s26-ultra-hands-on-unpacked-2026/) (ZDNet)
 - [Exclusive: ASML unveils EUV light source advance that could yield 50% more chips by 2030](https://www.reuters.com/world/china/asml-unveils-euv-light-source-advance-that-could-yield-50-more-chips-by-2030-2026-02-23/) (Reuters)

@@ -9,6 +9,7 @@ layout: category
 
 ### February
 
+- [Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior](https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html) (CNBC)
 - [Spotify Shares Surge After Adding Record Number of New Users](https://www.bloomberg.com/news/articles/2026-02-10/spotify-sets-user-growth-record-thanks-to-wrapped-promotion) (Bloomberg)
 - [Everyone is stealing TV](https://www.theverge.com/streaming/873416/piracy-streaming-boxes) (The Verge)
 

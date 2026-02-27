@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank](https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html) (CNBC)
+- [Block shares soar as much as 24% as company slashes workforce by nearly half](https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html) (CNBC)
 - [Software Stocks Are Having Another Ugly Day](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/software-stocks-are-having-another-ugly-day-LlAj9avDeFocxKHzVwRZ) (WSJ)
 - [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) (Citrini Research)
 - [Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift](https://www.wired.com/story/perplexity-ads-shift-search-google/) (Wired)

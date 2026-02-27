@@ -9,6 +9,8 @@ layout: category
 
 ### February
 
+- [Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight](https://www.axios.com/2026/02/27/altman-openai-anthropic-pentagon) (Axios)
+- [Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter](https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/) (TechCrunch)
 - [New York sues video game developer Valve, says its 'loot boxes' are gambling](https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/) (Reuters)
 - [Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario) (Axios)
 - [Anthropic digs in heels in dispute with Pentagon, source says](https://www.reuters.com/world/anthropic-digs-heels-dispute-with-pentagon-source-says-2026-02-24/) (Axios)
