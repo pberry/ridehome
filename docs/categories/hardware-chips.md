@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Apple announces the iPhone 17E](https://www.theverge.com/tech/886476/apple-iphone-march-2026) (The Verge)
+- [Apple speeds up the iPad Air with an M4 upgrade, starting at $599](https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/) (TechCrunch)
+
 ### February
 
 - [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html?unlocked_article_code=1.OlA.NXTg.lmrVH1DzRoMH) (NYTimes)

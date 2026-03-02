@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, March 02 2026 - The Week Of Apple Updates**
+
+  * [Apple announces the iPhone 17E](https://www.theverge.com/tech/886476/apple-iphone-march-2026) (The Verge)
+  * [Apple speeds up the iPad Air with an M4 upgrade, starting at $599](https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/) (TechCrunch)
+  * [Amazon's cloud unit reports fire after objects hit UAE data center](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/) (Reuters)
+  * [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/) (Reuters)
+  * [Anthropic's Claude can now absorb your past conversations with other AI chatbots](https://www.engadget.com/ai/anthropics-claude-can-now-absorb-your-past-conversations-with-other-ai-chatbots-153201656.html) (Engadget)
+  * [Inside Anthropic’s Killer-Robot Dispute With the Pentagon](https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/?gift=2iIN4YrefPjuvZ5d2Kh30zpPxOtZj8TuGGLnTN11Z-s) (The Atlantic)
+
+
+
 **Friday, February 27 2026 - The Friday Of All The Headlines**
 
   * [OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank](https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html) (CNBC)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Amazon's cloud unit reports fire after objects hit UAE data center](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/) (Reuters)
+
 ### February
 
 - [Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software](https://www.ft.com/content/b74b8227-d7cb-4976-ba95-a3a27b79cbdd) (FT)

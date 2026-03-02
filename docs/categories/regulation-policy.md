@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### March
+
+- [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/) (Reuters)
+- [Inside Anthropic’s Killer-Robot Dispute With the Pentagon](https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/?gift=2iIN4YrefPjuvZ5d2Kh30zpPxOtZj8TuGGLnTN11Z-s) (The Atlantic)
+
 ### February
 
 - [Sam Altman says OpenAI shares Anthropic's red lines in Pentagon fight](https://www.axios.com/2026/02/27/altman-openai-anthropic-pentagon) (Axios)

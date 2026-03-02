@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Anthropic's Claude can now absorb your past conversations with other AI chatbots](https://www.engadget.com/ai/anthropics-claude-can-now-absorb-your-past-conversations-with-other-ai-chatbots-153201656.html) (Engadget)
+
 ### February
 
 - [Google’s Nano Banana 2 brings advanced AI image tools to free users](https://www.theverge.com/tech/885275/google-nano-banana-2-ai-image-model-gemini-launch) (The Verge)
