@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Google unveils cost-efficient AI model Gemini 3.1 Flash-Lite](https://seekingalpha.com/news/4560253-google-unveils-cost-efficient-ai-model-gemini-31-flash-lite) (SeekingAlpha)
 - [Anthropic's Claude can now absorb your past conversations with other AI chatbots](https://www.engadget.com/ai/anthropics-claude-can-now-absorb-your-past-conversations-with-other-ai-chatbots-153201656.html) (Engadget)
 
 ### February

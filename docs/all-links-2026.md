@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, March 03 2026 - Anyone Want To Give Me A Betting Market Tip?**
+
+  * [Apple announces M5 MacBook Air with 2x storage, $1099 starting price](https://9to5mac.com/2026/03/03/apple-announces-m5-macbook-air-with-2x-storage-n1-wireless-chip-1099-starting-price/) (9to5Mac)
+  * [Apple Unveils MacBook Pro Featuring M5 Pro and M5 Max Chips With New Fusion Architecture](https://www.macrumors.com/2026/03/03/apple-unveils-macbook-pro-with-m5-pro-and-m5-max-chips-with-neural-accelerators/) (MacRumors)
+  * [Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’](https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/) (TechCrunch)
+  * [Polymarket Iran Bets Hit $529 Million as New Wallets Win Big](https://www.bloomberg.com/news/articles/2026-02-28/polymarket-iran-bets-hit-529-million-as-new-wallets-draw-notice) (Bloomberg)
+  * [Google unveils cost-efficient AI model Gemini 3.1 Flash-Lite](https://seekingalpha.com/news/4560253-google-unveils-cost-efficient-ai-model-gemini-31-flash-lite) (SeekingAlpha)
+  * [Audible Launches Cheaper Plan to Appeal to Streaming Audiences](https://www.bloomberg.com/news/articles/2026-03-03/audible-launches-cheaper-plan-to-appeal-to-streaming-audiences) (Bloomberg)
+  * [OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal](https://www.ft.com/content/653fabd7-03da-467a-b2bf-03f226fe2a29) (FT)
+
+
+
 **Monday, March 02 2026 - The Week Of Apple Updates**
 
   * [Apple announces the iPhone 17E](https://www.theverge.com/tech/886476/apple-iphone-march-2026) (The Verge)

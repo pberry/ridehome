@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [Apple announces M5 MacBook Air with 2x storage, $1099 starting price](https://9to5mac.com/2026/03/03/apple-announces-m5-macbook-air-with-2x-storage-n1-wireless-chip-1099-starting-price/) (9to5Mac)
+- [Apple Unveils MacBook Pro Featuring M5 Pro and M5 Max Chips With New Fusion Architecture](https://www.macrumors.com/2026/03/03/apple-unveils-macbook-pro-with-m5-pro-and-m5-max-chips-with-neural-accelerators/) (MacRumors)
+- [Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’](https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/) (TechCrunch)
 - [Apple announces the iPhone 17E](https://www.theverge.com/tech/886476/apple-iphone-march-2026) (The Verge)
 - [Apple speeds up the iPad Air with an M4 upgrade, starting at $599](https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/) (TechCrunch)
 

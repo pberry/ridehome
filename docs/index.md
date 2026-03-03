@@ -3,14 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, March 02, 2026 - The Week Of Apple Updates</h3>
+  <h3>Tuesday, March 03, 2026 - Anyone Want To Give Me A Betting Market Tip?</h3>
   <ul>
-    <li><a href="https://www.theverge.com/tech/886476/apple-iphone-march-2026">Apple announces the iPhone 17E</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/">Apple speeds up the iPad Air with an M4 upgrade, starting at $599</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/">Amazon's cloud unit reports fire after objects hit UAE data center</a> (Reuters) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/">US Supreme Court declines to hear dispute over copyrights for AI-generated material</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.engadget.com/ai/anthropics-claude-can-now-absorb-your-past-conversations-with-other-ai-chatbots-153201656.html">Anthropic's Claude can now absorb your past conversations with other AI chatbots</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/?gift=2iIN4YrefPjuvZ5d2Kh30zpPxOtZj8TuGGLnTN11Z-s">Inside Anthropic’s Killer-Robot Dispute With the Pentagon</a> (The Atlantic) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://9to5mac.com/2026/03/03/apple-announces-m5-macbook-air-with-2x-storage-n1-wireless-chip-1099-starting-price/">Apple announces M5 MacBook Air with 2x storage, $1099 starting price</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.macrumors.com/2026/03/03/apple-unveils-macbook-pro-with-m5-pro-and-m5-max-chips-with-neural-accelerators/">Apple Unveils MacBook Pro Featuring M5 Pro and M5 Max Chips With New Fusion Architecture</a> (MacRumors) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/">Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-02-28/polymarket-iran-bets-hit-529-million-as-new-wallets-draw-notice">Polymarket Iran Bets Hit $529 Million as New Wallets Win Big</a> (Bloomberg) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://seekingalpha.com/news/4560253-google-unveils-cost-efficient-ai-model-gemini-31-flash-lite">Google unveils cost-efficient AI model Gemini 3.1 Flash-Lite</a> (SeekingAlpha) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-03/audible-launches-cheaper-plan-to-appeal-to-streaming-audiences">Audible Launches Cheaper Plan to Appeal to Streaming Audiences</a> (Bloomberg) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.ft.com/content/653fabd7-03da-467a-b2bf-03f226fe2a29">OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -36,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-02T10:48:23-08:00">March 02, 2026 at 10:48 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-03T12:37:41-08:00">March 03, 2026 at 12:37 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,315</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,322</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,750</span></li>
       </ul>
     </div>
@@ -50,7 +51,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(102 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(77 links)</span></li>
       </ol>
@@ -59,9 +60,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(69 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(70 links)</span></li>
       </ol>
     </div>
   </div>

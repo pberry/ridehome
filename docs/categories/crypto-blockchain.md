@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Polymarket Iran Bets Hit $529 Million as New Wallets Win Big](https://www.bloomberg.com/news/articles/2026-02-28/polymarket-iran-bets-hit-529-million-as-new-wallets-draw-notice) (Bloomberg)
+
 ### February
 
 - [Crypto.com CEO unveils new AI agents to millions during Super Bowl](https://cointelegraph.com/news/cryptocom-boss-launched-agentic-ai-tools-ai-com) (CoinTelegraph)

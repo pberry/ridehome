@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Audible Launches Cheaper Plan to Appeal to Streaming Audiences](https://www.bloomberg.com/news/articles/2026-03-03/audible-launches-cheaper-plan-to-appeal-to-streaming-audiences) (Bloomberg)
+
 ### February
 
 - [Netflix ditches deal for Warner Bros. Discovery after Paramount’s offer is deemed superior](https://www.cnbc.com/2026/02/26/warner-bros-discovery-paramount-skydance-deal-superior-netflix.html) (CNBC)
