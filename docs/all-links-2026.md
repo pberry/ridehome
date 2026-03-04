@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, March 04 2026 - The MacBook Neo**
+
+  * [Apple announces $599 MacBook Neo running A18 Pro chip — budget laptop features 16-hour battery and comes in fun colors](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors) (Tom's Hardware)
+  * [MacBook Neo hands-on: Apple's $599 laptop feels shockingly great](https://www.engadget.com/computing/laptops/macbook-neo-hands-on-apples-599-laptop-feels-shockingly-great-142313318.html) (Engadget)
+  * [Anthropic’s Claude hits No. 1 on Apple’s top free apps list after Pentagon rejection](https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html) (CNBC)
+  * [Exclusive: Anthropic investors push to de-escalate Pentagon clash over AI safeguards, sources say](https://www.reuters.com/technology/anthropic-investors-push-de-escalate-pentagon-clash-over-ai-safeguards-sources-2026-03-04/) (Reuters)
+  * [Polymarket shelves nuclear detonation markets after outcry](https://www.coindesk.com/markets/2026/03/04/polymarket-shelves-nuclear-detonation-markets-after-outcry) (CoinDesk)
+  * [Sony Pulls Back From PlayStation Games on PC](https://www.bloomberg.com/news/articles/2026-03-04/sony-pulls-back-from-playstation-games-on-pc?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjYzMTM4OSwiZXhwIjoxNzczMjM2MTg5LCJhcnRpY2xlSWQiOiJUQkRNVTVLR1pBS0owMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.iJ25MhKjr88ECoSb_2cT3JX9MqYduN3JmMm63yusBVE) (Bloomberg)
+  * [A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/) (Wired)
+
+
+
 **Tuesday, March 03 2026 - Anyone Want To Give Me A Betting Market Tip?**
 
   * [Apple announces M5 MacBook Air with 2x storage, $1099 starting price](https://9to5mac.com/2026/03/03/apple-announces-m5-macbook-air-with-2x-storage-n1-wireless-chip-1099-starting-price/) (9to5Mac)

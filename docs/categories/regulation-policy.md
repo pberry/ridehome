@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Exclusive: Anthropic investors push to de-escalate Pentagon clash over AI safeguards, sources say](https://www.reuters.com/technology/anthropic-investors-push-de-escalate-pentagon-clash-over-ai-safeguards-sources-2026-03-04/) (Reuters)
 - [OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal](https://www.ft.com/content/653fabd7-03da-467a-b2bf-03f226fe2a29) (FT)
 - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/) (Reuters)
 - [Inside Anthropic’s Killer-Robot Dispute With the Pentagon](https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/?gift=2iIN4YrefPjuvZ5d2Kh30zpPxOtZj8TuGGLnTN11Z-s) (The Atlantic)

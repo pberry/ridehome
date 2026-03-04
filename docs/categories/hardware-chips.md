@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Apple announces $599 MacBook Neo running A18 Pro chip — budget laptop features 16-hour battery and comes in fun colors](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors) (Tom's Hardware)
+- [MacBook Neo hands-on: Apple's $599 laptop feels shockingly great](https://www.engadget.com/computing/laptops/macbook-neo-hands-on-apples-599-laptop-feels-shockingly-great-142313318.html) (Engadget)
 - [Apple announces M5 MacBook Air with 2x storage, $1099 starting price](https://9to5mac.com/2026/03/03/apple-announces-m5-macbook-air-with-2x-storage-n1-wireless-chip-1099-starting-price/) (9to5Mac)
 - [Apple Unveils MacBook Pro Featuring M5 Pro and M5 Max Chips With New Fusion Architecture](https://www.macrumors.com/2026/03/03/apple-unveils-macbook-pro-with-m5-pro-and-m5-max-chips-with-neural-accelerators/) (MacRumors)
 - [Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’](https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/) (TechCrunch)
