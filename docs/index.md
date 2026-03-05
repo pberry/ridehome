@@ -3,15 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, March 04, 2026 - The MacBook Neo</h3>
+  <h3>Thursday, March 05, 2026 - Dr. ChatGPT Isn’t Quite There Yet</h3>
   <ul>
-    <li><a href="https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors">Apple announces $599 MacBook Neo running A18 Pro chip — budget laptop features 16-hour battery and comes in fun colors</a> (Tom's Hardware) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.engadget.com/computing/laptops/macbook-neo-hands-on-apples-599-laptop-feels-shockingly-great-142313318.html">MacBook Neo hands-on: Apple's $599 laptop feels shockingly great</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html">Anthropic’s Claude hits No. 1 on Apple’s top free apps list after Pentagon rejection</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/technology/anthropic-investors-push-de-escalate-pentagon-clash-over-ai-safeguards-sources-2026-03-04/">Exclusive: Anthropic investors push to de-escalate Pentagon clash over AI safeguards, sources say</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.coindesk.com/markets/2026/03/04/polymarket-shelves-nuclear-detonation-markets-after-outcry">Polymarket shelves nuclear detonation markets after outcry</a> (CoinDesk) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-04/sony-pulls-back-from-playstation-games-on-pc?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjYzMTM4OSwiZXhwIjoxNzczMjM2MTg5LCJhcnRpY2xlSWQiOiJUQkRNVTVLR1pBS0owMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.iJ25MhKjr88ECoSb_2cT3JX9MqYduN3JmMm63yusBVE">Sony Pulls Back From PlayStation Games on PC</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/">A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case">Google Revamps Android App Stores to Resolve Antitrust Claims</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032">Tim Sweeney signed away his right to criticize Google until 2032</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch">Google’s AI-powered workspace is now available to more users in Search</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap?rc=i9gkgs">OpenAI Tops $25 Billion in Annualized Revenue as Anthropic Narrows Gap</a> (The Information) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.nbcnews.com/health/health-news/chatgpt-health-under-triaged-half-medical-emergencies-rcna261409">ChatGPT Health 'under-triaged' half of medical emergencies in a new study</a> (NBC News) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-05/nintendo-switch-2-users-face-storage-woes-as-memory-crisis-bites">Nintendo Switch 2 Users Face Storage Woes as Memory Crisis Bites</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.windowscentral.com/hardware/apple/i-cant-believe-it-apples-usd599-macbook-neo-just-lit-a-monstrous-fire-under-the-windows-laptop-market-microsoft-better-be-panicking">I can't believe it: Apple’s $599 MacBook Neo just lit a monstrous fire under the Windows laptop market — Microsoft better be panicking</a> (Windows Central) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -37,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-04T11:34:36-08:00">March 04, 2026 at 11:34 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-05T11:16:44-08:00">March 05, 2026 at 11:16 AM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,329</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,336</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,750</span></li>
       </ul>
     </div>
@@ -51,8 +51,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
@@ -60,9 +60,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(70 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(111 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
   </div>

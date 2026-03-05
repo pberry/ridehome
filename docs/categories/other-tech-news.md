@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [OpenAI Tops $25 Billion in Annualized Revenue as Anthropic Narrows Gap](https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap?rc=i9gkgs) (The Information)
+
 ### February
 
 - [OpenAI announces $110 billion funding round with backing from Amazon, Nvidia, SoftBank](https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html) (CNBC)

@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Google’s AI-powered workspace is now available to more users in Search](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch) (The Verge)
+- [ChatGPT Health 'under-triaged' half of medical emergencies in a new study](https://www.nbcnews.com/health/health-news/chatgpt-health-under-triaged-half-medical-emergencies-rcna261409) (NBC News)
 - [Anthropic’s Claude hits No. 1 on Apple’s top free apps list after Pentagon rejection](https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html) (CNBC)
 - [Google unveils cost-efficient AI model Gemini 3.1 Flash-Lite](https://seekingalpha.com/news/4560253-google-unveils-cost-efficient-ai-model-gemini-31-flash-lite) (SeekingAlpha)
 - [Anthropic's Claude can now absorb your past conversations with other AI chatbots](https://www.engadget.com/ai/anthropics-claude-can-now-absorb-your-past-conversations-with-other-ai-chatbots-153201656.html) (Engadget)

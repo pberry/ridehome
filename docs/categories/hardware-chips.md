@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Nintendo Switch 2 Users Face Storage Woes as Memory Crisis Bites](https://www.bloomberg.com/news/articles/2026-03-05/nintendo-switch-2-users-face-storage-woes-as-memory-crisis-bites) (Bloomberg)
+- [I can't believe it: Apple’s $599 MacBook Neo just lit a monstrous fire under the Windows laptop market — Microsoft better be panicking](https://www.windowscentral.com/hardware/apple/i-cant-believe-it-apples-usd599-macbook-neo-just-lit-a-monstrous-fire-under-the-windows-laptop-market-microsoft-better-be-panicking) (Windows Central)
 - [Apple announces $599 MacBook Neo running A18 Pro chip — budget laptop features 16-hour battery and comes in fun colors](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors) (Tom's Hardware)
 - [MacBook Neo hands-on: Apple's $599 laptop feels shockingly great](https://www.engadget.com/computing/laptops/macbook-neo-hands-on-apples-599-laptop-feels-shockingly-great-142313318.html) (Engadget)
 - [Apple announces M5 MacBook Air with 2x storage, $1099 starting price](https://9to5mac.com/2026/03/03/apple-announces-m5-macbook-air-with-2x-storage-n1-wireless-chip-1099-starting-price/) (9to5Mac)

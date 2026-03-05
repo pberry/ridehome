@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Google Revamps Android App Stores to Resolve Antitrust Claims](https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case) (Bloomberg)
+- [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) (The Verge)
 - [Exclusive: Anthropic investors push to de-escalate Pentagon clash over AI safeguards, sources say](https://www.reuters.com/technology/anthropic-investors-push-de-escalate-pentagon-clash-over-ai-safeguards-sources-2026-03-04/) (Reuters)
 - [OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal](https://www.ft.com/content/653fabd7-03da-467a-b2bf-03f226fe2a29) (FT)
 - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/) (Reuters)

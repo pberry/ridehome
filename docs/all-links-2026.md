@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, March 05 2026 - Dr. ChatGPT Isn’t Quite There Yet**
+
+  * [Google Revamps Android App Stores to Resolve Antitrust Claims](https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case) (Bloomberg)
+  * [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) (The Verge)
+  * [Google’s AI-powered workspace is now available to more users in Search](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch) (The Verge)
+  * [OpenAI Tops $25 Billion in Annualized Revenue as Anthropic Narrows Gap](https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap?rc=i9gkgs) (The Information)
+  * [ChatGPT Health 'under-triaged' half of medical emergencies in a new study](https://www.nbcnews.com/health/health-news/chatgpt-health-under-triaged-half-medical-emergencies-rcna261409) (NBC News)
+  * [Nintendo Switch 2 Users Face Storage Woes as Memory Crisis Bites](https://www.bloomberg.com/news/articles/2026-03-05/nintendo-switch-2-users-face-storage-woes-as-memory-crisis-bites) (Bloomberg)
+  * [I can't believe it: Apple’s $599 MacBook Neo just lit a monstrous fire under the Windows laptop market — Microsoft better be panicking](https://www.windowscentral.com/hardware/apple/i-cant-believe-it-apples-usd599-macbook-neo-just-lit-a-monstrous-fire-under-the-windows-laptop-market-microsoft-better-be-panicking) (Windows Central)
+
+
+
 **Wednesday, March 04 2026 - The MacBook Neo**
 
   * [Apple announces $599 MacBook Neo running A18 Pro chip — budget laptop features 16-hour battery and comes in fun colors](https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors) (Tom's Hardware)
