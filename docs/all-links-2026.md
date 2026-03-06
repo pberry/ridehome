@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 06 2026 - Silicon Valley Circling The Wagons Around Anthropic?**
+
+  * [Anthropic says it will challenge Defense Department's supply chain risk designation in court](https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html) (Engadget)
+  * [Anthropic CEO apologizes for lashing out at Trump as he gears up for court battle with Pentagon](https://nypost.com/2026/03/06/business/anthropic-ceo-apologizes-for-lashing-out-at-trump-as-he-gears-up-for-court-battle-with-pentagon/) (NYPost)
+  * [OpenAI’s new GPT-5.4 model is a big step toward autonomous agents](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents) (The Verge)
+  * [Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch](https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch) (Bloomberg)
+  * [SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake](https://www.bloomberg.com/news/articles/2026-03-06/softbank-seeks-record-loan-of-up-to-40-billion-for-openai-stake) (Bloomberg)
+  * [Anthropic launches AI job destruction detector](https://www.axios.com/2026/03/05/anthropic-ai-jobs-claude) (Axios)
+  * [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts) (Anthropic)
+
+
+
 **Thursday, March 05 2026 - Dr. ChatGPT Isn’t Quite There Yet**
 
   * [Google Revamps Android App Stores to Resolve Antitrust Claims](https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case) (Bloomberg)

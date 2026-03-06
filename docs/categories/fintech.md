@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake](https://www.bloomberg.com/news/articles/2026-03-06/softbank-seeks-record-loan-of-up-to-40-billion-for-openai-stake) (Bloomberg)
+
 ### February
 
 - [Payments Processor Stripe Expresses Interest in PayPal](https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal) (Bloomberg)

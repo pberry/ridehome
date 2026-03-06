@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [OpenAI’s new GPT-5.4 model is a big step toward autonomous agents](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents) (The Verge)
+- [Anthropic launches AI job destruction detector](https://www.axios.com/2026/03/05/anthropic-ai-jobs-claude) (Axios)
+- [Labor market impacts of AI: A new measure and early evidence](https://www.anthropic.com/research/labor-market-impacts) (Anthropic)
 - [Google’s AI-powered workspace is now available to more users in Search](https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch) (The Verge)
 - [ChatGPT Health 'under-triaged' half of medical emergencies in a new study](https://www.nbcnews.com/health/health-news/chatgpt-health-under-triaged-half-medical-emergencies-rcna261409) (NBC News)
 - [Anthropic’s Claude hits No. 1 on Apple’s top free apps list after Pentagon rejection](https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html) (CNBC)

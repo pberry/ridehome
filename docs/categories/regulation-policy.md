@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Anthropic says it will challenge Defense Department's supply chain risk designation in court](https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html) (Engadget)
+- [Anthropic CEO apologizes for lashing out at Trump as he gears up for court battle with Pentagon](https://nypost.com/2026/03/06/business/anthropic-ceo-apologizes-for-lashing-out-at-trump-as-he-gears-up-for-court-battle-with-pentagon/) (NYPost)
 - [Google Revamps Android App Stores to Resolve Antitrust Claims](https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case) (Bloomberg)
 - [Tim Sweeney signed away his right to criticize Google until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) (The Verge)
 - [Exclusive: Anthropic investors push to de-escalate Pentagon clash over AI safeguards, sources say](https://www.reuters.com/technology/anthropic-investors-push-de-escalate-pentagon-clash-over-ai-safeguards-sources-2026-03-04/) (Reuters)

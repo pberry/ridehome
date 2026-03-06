@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 06 2026**
+
+  * [SpaceX: the final frontier of IPOs](https://www.ft.com/content/5bf1fe0c-1593-49b7-aaf1-18e7da9b36ed?shareType=nongift) (FT)
+  * [Who needs data centers in space when they can float offshore?](https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/) (TechCrunch)
+
+
+
 **Friday, February 27 2026**
 
   * [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html?unlocked_article_code=1.OlA.NXTg.lmrVH1DzRoMH) (NYTimes)
