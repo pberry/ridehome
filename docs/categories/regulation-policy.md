@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Anthropic is suing the Department of Defense](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) (The Verge)
+- [Iran War Imperils $300 Billion in Gulf AI Spending](https://www.theinformation.com/articles/iran-war-imperils-300-billion-gulf-ai-spending?rc=i9gkgs) (The Information)
 - [Anthropic says it will challenge Defense Department's supply chain risk designation in court](https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html) (Engadget)
 - [Anthropic CEO apologizes for lashing out at Trump as he gears up for court battle with Pentagon](https://nypost.com/2026/03/06/business/anthropic-ceo-apologizes-for-lashing-out-at-trump-as-he-gears-up-for-court-battle-with-pentagon/) (NYPost)
 - [Google Revamps Android App Stores to Resolve Antitrust Claims](https://www.bloomberg.com/news/articles/2026-03-04/google-proposes-to-share-play-store-catalog-to-resolve-case) (Bloomberg)

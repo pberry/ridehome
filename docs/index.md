@@ -3,15 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, March 06, 2026 - Silicon Valley Circling The Wagons Around Anthropic?</h3>
+  <h3>Monday, March 09, 2026 - Claude 365</h3>
   <ul>
-    <li><a href="https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html">Anthropic says it will challenge Defense Department's supply chain risk designation in court</a> (Engadget) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://nypost.com/2026/03/06/business/anthropic-ceo-apologizes-for-lashing-out-at-trump-as-he-gears-up-for-court-battle-with-pentagon/">Anthropic CEO apologizes for lashing out at Trump as he gears up for court battle with Pentagon</a> (NYPost) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents">OpenAI’s new GPT-5.4 model is a big step toward autonomous agents</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch">Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch</a> (Bloomberg) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-06/softbank-seeks-record-loan-of-up-to-40-billion-for-openai-stake">SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://www.axios.com/2026/03/05/anthropic-ai-jobs-claude">Anthropic launches AI job destruction detector</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.anthropic.com/research/labor-market-impacts">Labor market impacts of AI: A new measure and early evidence</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit">Anthropic is suing the Department of Defense</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered">Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-09/nscale-raises-2-billion-and-adds-sandberg-clegg-to-board">Nscale Raises $2 Billion and Adds Sandberg, Clegg to Board</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.theinformation.com/articles/iran-war-imperils-300-billion-gulf-ai-spending?rc=i9gkgs">Iran War Imperils $300 Billion in Gulf AI Spending</a> (The Information) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry">When Using AI Leads to “Brain Fry”</a> (HBR) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -37,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-06T11:30:37-08:00">March 06, 2026 at 11:30 AM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-09T11:53:21-07:00">March 09, 2026 at 11:53 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,343</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,348</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,752</span></li>
       </ul>
     </div>
@@ -51,18 +49,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(77 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(91 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(111 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(74 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
   </div>

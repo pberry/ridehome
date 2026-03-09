@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Nscale Raises $2 Billion and Adds Sandberg, Clegg to Board](https://www.bloomberg.com/news/articles/2026-03-09/nscale-raises-2-billion-and-adds-sandberg-clegg-to-board) (Bloomberg)
 - [OpenAI Tops $25 Billion in Annualized Revenue as Anthropic Narrows Gap](https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap?rc=i9gkgs) (The Information)
 
 ### February

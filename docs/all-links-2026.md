@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, March 09 2026 - Claude 365**
+
+  * [Anthropic is suing the Department of Defense](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) (The Verge)
+  * [Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps](https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered) (VentureBeat)
+  * [Nscale Raises $2 Billion and Adds Sandberg, Clegg to Board](https://www.bloomberg.com/news/articles/2026-03-09/nscale-raises-2-billion-and-adds-sandberg-clegg-to-board) (Bloomberg)
+  * [Iran War Imperils $300 Billion in Gulf AI Spending](https://www.theinformation.com/articles/iran-war-imperils-300-billion-gulf-ai-spending?rc=i9gkgs) (The Information)
+  * [When Using AI Leads to “Brain Fry”](https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry) (HBR)
+
+
+
 **Friday, March 06 2026 - Silicon Valley Circling The Wagons Around Anthropic?**
 
   * [Anthropic says it will challenge Defense Department's supply chain risk designation in court](https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html) (Engadget)
