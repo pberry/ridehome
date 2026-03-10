@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/) (TechCrunch)
 - [Anthropic is suing the Department of Defense](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) (The Verge)
 - [Iran War Imperils $300 Billion in Gulf AI Spending](https://www.theinformation.com/articles/iran-war-imperils-300-billion-gulf-ai-spending?rc=i9gkgs) (The Information)
 - [Anthropic says it will challenge Defense Department's supply chain risk designation in court](https://www.engadget.com/ai/anthropic-says-it-will-challenge-defense-departments-supply-chain-risk-designation-in-court-054459618.html) (Engadget)

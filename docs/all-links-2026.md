@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, March 10 2026 - Meta Plumps For Bot Social Networks**
+
+  * [Exclusive: Meta hires duo behind Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network) (Axios)
+  * [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/) (TechCrunch)
+  * [This new Claude Code Review tool uses AI agents to check your pull requests for bugs - here's how](https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/) (ZDNet)
+  * [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de) (FT)
+  * [Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1) (FT)
+  * [MacBook Neo review: the Mac for the masses](https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review) (The Verge)
+
+
+
 **Monday, March 09 2026 - Claude 365**
 
   * [Anthropic is suing the Department of Defense](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) (The Verge)

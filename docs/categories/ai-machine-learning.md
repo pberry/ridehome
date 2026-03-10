@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [This new Claude Code Review tool uses AI agents to check your pull requests for bugs - here's how](https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/) (ZDNet)
+- [Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1) (FT)
 - [Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps](https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered) (VentureBeat)
 - [When Using AI Leads to “Brain Fry”](https://hbr.org/2026/03/when-using-ai-leads-to-brain-fry) (HBR)
 - [OpenAI’s new GPT-5.4 model is a big step toward autonomous agents](https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents) (The Verge)

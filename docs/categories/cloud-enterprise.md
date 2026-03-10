@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de) (FT)
 - [Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch](https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch) (Bloomberg)
 - [Who needs data centers in space when they can float offshore?](https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/) (TechCrunch)
 - [Amazon's cloud unit reports fire after objects hit UAE data center](https://www.reuters.com/world/middle-east/amazons-cloud-unit-reports-fire-after-objects-hit-uae-data-center-2026-03-01/) (Reuters)
