@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Nintendo Shares Soar 10% as Surprise Hit Pokémon Game Lifts Mood](https://www.bloomberg.com/news/articles/2026-03-11/nintendo-shares-rally-10-as-new-pokemon-game-lifts-sentiment) (Bloomberg)
 - [Sony Pulls Back From PlayStation Games on PC](https://www.bloomberg.com/news/articles/2026-03-04/sony-pulls-back-from-playstation-games-on-pc?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3MjYzMTM4OSwiZXhwIjoxNzczMjM2MTg5LCJhcnRpY2xlSWQiOiJUQkRNVTVLR1pBS0owMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.iJ25MhKjr88ECoSb_2cT3JX9MqYduN3JmMm63yusBVE) (Bloomberg)
 
 ### February

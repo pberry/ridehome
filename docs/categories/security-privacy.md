@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Meta, Thai police shut down 150,000 scam accounts](https://www.axios.com/2026/03/11/meta-thailand-cyber-scam-centers-arrest) (Axios)
 - [A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals](https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/) (Wired)
 
 ### February

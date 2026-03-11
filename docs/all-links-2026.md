@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, March 11 2026 - The New King Of All Media**
+
+  * [Justice Department Probes Iran’s Use of Binance to Evade Sanctions](https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4?st=hoJcEM&reflink=desktopwebshare_permalink) (WSJ)
+  * [Meta, Thai police shut down 150,000 scam accounts](https://www.axios.com/2026/03/11/meta-thailand-cyber-scam-centers-arrest) (Axios)
+  * [Anthropic is launching a new think tank amid Pentagon blacklist fight](https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark) (The Verge)
+  * [YouTube Lays Claim to Another Crown: The World’s Largest Media Company](https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/) (THR)
+  * [Nintendo Shares Soar 10% as Surprise Hit Pokémon Game Lifts Mood](https://www.bloomberg.com/news/articles/2026-03-11/nintendo-shares-rally-10-as-new-pokemon-game-lifts-sentiment) (Bloomberg)
+  * [TikTok Teams With Apple Music to Allow Users to Stream Full Songs](https://variety.com/2026/music/news/apple-music-tiktok-partner-launch-feature-stream-full-songs-1236684192/) (Variety)
+
+
+
 **Tuesday, March 10 2026 - Meta Plumps For Bot Social Networks**
 
   * [Exclusive: Meta hires duo behind Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network) (Axios)

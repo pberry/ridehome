@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Justice Department Probes Iran’s Use of Binance to Evade Sanctions](https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4?st=hoJcEM&reflink=desktopwebshare_permalink) (WSJ)
+- [Anthropic is launching a new think tank amid Pentagon blacklist fight](https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark) (The Verge)
 - [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/) (TechCrunch)
 - [Anthropic is suing the Department of Defense](https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit) (The Verge)
 - [Iran War Imperils $300 Billion in Gulf AI Spending](https://www.theinformation.com/articles/iran-war-imperils-300-billion-gulf-ai-spending?rc=i9gkgs) (The Information)
