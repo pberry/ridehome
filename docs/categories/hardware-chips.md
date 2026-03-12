@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened](https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened) (Bloomberg)
 - [MacBook Neo review: the Mac for the masses](https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review) (The Verge)
 - [Nintendo Switch 2 Users Face Storage Woes as Memory Crisis Bites](https://www.bloomberg.com/news/articles/2026-03-05/nintendo-switch-2-users-face-storage-woes-as-memory-crisis-bites) (Bloomberg)
 - [I can't believe it: Apple’s $599 MacBook Neo just lit a monstrous fire under the Windows laptop market — Microsoft better be panicking](https://www.windowscentral.com/hardware/apple/i-cant-believe-it-apples-usd599-macbook-neo-just-lit-a-monstrous-fire-under-the-windows-laptop-market-microsoft-better-be-panicking) (Windows Central)

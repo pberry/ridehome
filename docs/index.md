@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, March 11, 2026 - The New King Of All Media</h3>
+  <h3>Thursday, March 12, 2026 - AI Makes Google Maps Sound Much Better</h3>
   <ul>
-    <li><a href="https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4?st=hoJcEM&reflink=desktopwebshare_permalink">Justice Department Probes Iran’s Use of Binance to Evade Sanctions</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.axios.com/2026/03/11/meta-thailand-cyber-scam-centers-arrest">Meta, Thai police shut down 150,000 scam accounts</a> (Axios) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark">Anthropic is launching a new think tank amid Pentagon blacklist fight</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/">YouTube Lays Claim to Another Crown: The World’s Largest Media Company</a> (THR) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-11/nintendo-shares-rally-10-as-new-pokemon-game-lifts-sentiment">Nintendo Shares Soar 10% as Surprise Hit Pokémon Game Lifts Mood</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://variety.com/2026/music/news/apple-music-tiktok-partner-launch-feature-stream-full-songs-1236684192/">TikTok Teams With Apple Music to Allow Users to Stream Full Songs</a> (Variety) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html">Atlassian slashes 10% of workforce to ‘self-fund’ investments in AI and enterprise sales</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation">You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams">Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/microsofts-new-ai-health-tool-can-read-your-medical-records-and-give-advice-d731f883?st=mxh7Gv&reflink=desktopwebshare_permalink">Microsoft’s New AI Health Tool Can Read Your Medical Records and Give Advice</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/articles/stryker-hit-with-suspected-iran-linked-cyberattack-52f6615c?st=QTAGvn&reflink=desktopwebshare_permalink">Iran Expands War With Major Cyberattack Against U.S. Company</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened">Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-11T11:53:26-07:00">March 11, 2026 at 11:53 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-12T12:39:11-07:00">March 12, 2026 at 12:39 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,360</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,366</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,752</span></li>
       </ul>
     </div>
@@ -50,17 +50,17 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(93 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(72 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(76 links)</span></li>
       </ol>
     </div>

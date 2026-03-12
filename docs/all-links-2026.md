@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, March 12 2026 - AI Makes Google Maps Sound Much Better**
+
+  * [Atlassian slashes 10% of workforce to ‘self-fund’ investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html) (CNBC)
+  * [You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation) (The Verge)
+  * [Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams) (The Verge)
+  * [Microsoft’s New AI Health Tool Can Read Your Medical Records and Give Advice](https://www.wsj.com/tech/ai/microsofts-new-ai-health-tool-can-read-your-medical-records-and-give-advice-d731f883?st=mxh7Gv&reflink=desktopwebshare_permalink) (WSJ)
+  * [Iran Expands War With Major Cyberattack Against U.S. Company](https://www.wsj.com/articles/stryker-hit-with-suspected-iran-linked-cyberattack-52f6615c?st=QTAGvn&reflink=desktopwebshare_permalink) (WSJ)
+  * [Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened](https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened) (Bloomberg)
+
+
+
 **Wednesday, March 11 2026 - The New King Of All Media**
 
   * [Justice Department Probes Iran’s Use of Binance to Evade Sanctions](https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4?st=hoJcEM&reflink=desktopwebshare_permalink) (WSJ)

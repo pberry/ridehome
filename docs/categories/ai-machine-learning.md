@@ -9,6 +9,10 @@ layout: category
 
 ### March
 
+- [Atlassian slashes 10% of workforce to ‘self-fund’ investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html) (CNBC)
+- [You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer](https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation) (The Verge)
+- [Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams) (The Verge)
+- [Microsoft’s New AI Health Tool Can Read Your Medical Records and Give Advice](https://www.wsj.com/tech/ai/microsofts-new-ai-health-tool-can-read-your-medical-records-and-give-advice-d731f883?st=mxh7Gv&reflink=desktopwebshare_permalink) (WSJ)
 - [This new Claude Code Review tool uses AI agents to check your pull requests for bugs - here's how](https://www.zdnet.com/article/claude-code-review-ai-agents-pull-request-bug-detection/) (ZDNet)
 - [Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1) (FT)
 - [Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps](https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered) (VentureBeat)
