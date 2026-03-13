@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 13 2026**
+
+  * [Why ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller?r=1ds20&utm_medium=ios&triedRedirect=true&_src_ref=t.co) (David Oks's Blog)
+  * [James Mason in a cave with a cat](https://joelmorris.substack.com/p/james-mason-in-a-cave-with-a-cat?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true&_src_ref=go.bsky.app) (Joel Morris's Substack)
+
+
+
 **Friday, March 06 2026**
 
   * [SpaceX: the final frontier of IPOs](https://www.ft.com/content/5bf1fe0c-1593-49b7-aaf1-18e7da9b36ed?shareType=nongift) (FT)

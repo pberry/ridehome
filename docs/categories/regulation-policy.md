@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Lawyers in landmark social media addiction trial make final appeals to the jury](https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-0e99c9ba6159421720d616f9facd10f0) (AP)
 - [Justice Department Probes Iran’s Use of Binance to Evade Sanctions](https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4?st=hoJcEM&reflink=desktopwebshare_permalink) (WSJ)
 - [Anthropic is launching a new think tank amid Pentagon blacklist fight](https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark) (The Verge)
 - [OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit](https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/) (TechCrunch)

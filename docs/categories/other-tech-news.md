@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Why ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller?r=1ds20&utm_medium=ios&triedRedirect=true&_src_ref=t.co) (David Oks's Blog)
+- [James Mason in a cave with a cat](https://joelmorris.substack.com/p/james-mason-in-a-cave-with-a-cat?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true&_src_ref=go.bsky.app) (Joel Morris's Substack)
 - [Exclusive: Meta hires duo behind Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network) (Axios)
 - [Nscale Raises $2 Billion and Adds Sandberg, Clegg to Board](https://www.bloomberg.com/news/articles/2026-03-09/nscale-raises-2-billion-and-adds-sandberg-clegg-to-board) (Bloomberg)
 - [OpenAI Tops $25 Billion in Annualized Revenue as Anthropic Narrows Gap](https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap?rc=i9gkgs) (The Information)

@@ -3,14 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, March 12, 2026 - AI Makes Google Maps Sound Much Better</h3>
+  <h3>Friday, March 13, 2026 - Is Avocado… Toast?</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html">Atlassian slashes 10% of workforce to ‘self-fund’ investments in AI and enterprise sales</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation">You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams">Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/microsofts-new-ai-health-tool-can-read-your-medical-records-and-give-advice-d731f883?st=mxh7Gv&reflink=desktopwebshare_permalink">Microsoft’s New AI Health Tool Can Read Your Medical Records and Give Advice</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/articles/stryker-hit-with-suspected-iran-linked-cyberattack-52f6615c?st=QTAGvn&reflink=desktopwebshare_permalink">Iran Expands War With Major Cyberattack Against U.S. Company</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened">Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.SlA.kmjr.rmjF1-q1t1cG&smid=url-share">Meta Delays Rollout of New A.I. Model After Performance Concerns</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-0e99c9ba6159421720d616f9facd10f0">Lawyers in landmark social media addiction trial make final appeals to the jury</a> (AP) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/">Peacock expands into AI-driven video, mobile-first live sports, and gaming</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/">Disney+ is rolling out its TikTok-like ‘Verts’ short-form video feed</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -36,14 +34,14 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-12T12:39:11-07:00">March 12, 2026 at 12:39 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-13T11:42:27-07:00">March 13, 2026 at 11:42 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,366</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,752</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,370</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,754</span></li>
       </ul>
     </div>
 
@@ -59,9 +57,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(76 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
   </div>

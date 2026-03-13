@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 13 2026 - Is Avocado… Toast?**
+
+  * [Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.SlA.kmjr.rmjF1-q1t1cG&smid=url-share) (NYTimes)
+  * [Lawyers in landmark social media addiction trial make final appeals to the jury](https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-0e99c9ba6159421720d616f9facd10f0) (AP)
+  * [Peacock expands into AI-driven video, mobile-first live sports, and gaming](https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/) (TechCrunch)
+  * [Disney+ is rolling out its TikTok-like ‘Verts’ short-form video feed](https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/) (TechCrunch)
+
+
+
 **Thursday, March 12 2026 - AI Makes Google Maps Sound Much Better**
 
   * [Atlassian slashes 10% of workforce to ‘self-fund’ investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html) (CNBC)
