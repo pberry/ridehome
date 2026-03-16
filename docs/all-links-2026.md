@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, March 16 2026 - The Mother Of All Meta Layoffs?**
+
+  * [Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/) (Reuters)
+  * [Apple quietly launches AirPods Max 2](https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/) (TechCrunch)
+  * [Encyclopedia Britannica sues OpenAI over AI training](https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/) (Reuters)
+  * [OpenAI’s Bid to Allow X-Rated Talk Is Freaking Out Its Own Advisers](https://www.wsj.com/tech/ai/openai-adult-mode-chatgpt-f9e5fc1a?st=GHrxJ1&reflink=desktopwebshare_permalink) (WSJ)
+  * [The AI Boom Has Exploded the San Francisco Housing Market](https://www.wsj.com/economy/housing/san-francisco-housing-market-ai-8c4e3f59?st=6Rhd2Q&reflink=desktopwebshare_permalink) (WSJ)
+  * [The most brilliant move in corporate history?](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/) (ASYMCO)
+
+
+
 **Friday, March 13 2026 - Is Avocado… Toast?**
 
   * [Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.SlA.kmjr.rmjF1-q1t1cG&smid=url-share) (NYTimes)

@@ -3,12 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, March 13, 2026 - Is Avocado… Toast?</h3>
+  <h3>Monday, March 16, 2026 - The Mother Of All Meta Layoffs?</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.SlA.kmjr.rmjF1-q1t1cG&smid=url-share">Meta Delays Rollout of New A.I. Model After Performance Concerns</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-0e99c9ba6159421720d616f9facd10f0">Lawyers in landmark social media addiction trial make final appeals to the jury</a> (AP) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/">Peacock expands into AI-driven video, mobile-first live sports, and gaming</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/">Disney+ is rolling out its TikTok-like ‘Verts’ short-form video feed</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/">Exclusive: Meta planning sweeping layoffs as AI costs mount</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/">Apple quietly launches AirPods Max 2</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/">Encyclopedia Britannica sues OpenAI over AI training</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-adult-mode-chatgpt-f9e5fc1a?st=GHrxJ1&reflink=desktopwebshare_permalink">OpenAI’s Bid to Allow X-Rated Talk Is Freaking Out Its Own Advisers</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.wsj.com/economy/housing/san-francisco-housing-market-ai-8c4e3f59?st=6Rhd2Q&reflink=desktopwebshare_permalink">The AI Boom Has Exploded the San Francisco Housing Market</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/">The most brilliant move in corporate history?</a> (ASYMCO) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -34,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-13T11:42:27-07:00">March 13, 2026 at 11:42 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-16T12:01:07-07:00">March 16, 2026 at 12:01 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,370</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,376</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,754</span></li>
       </ul>
     </div>
@@ -48,18 +50,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(103 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(75 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(77 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(270 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
+        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(76 links)</span></li>
       </ol>
     </div>
   </div>

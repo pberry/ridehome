@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [OpenAI’s Bid to Allow X-Rated Talk Is Freaking Out Its Own Advisers](https://www.wsj.com/tech/ai/openai-adult-mode-chatgpt-f9e5fc1a?st=GHrxJ1&reflink=desktopwebshare_permalink) (WSJ)
+- [The AI Boom Has Exploded the San Francisco Housing Market](https://www.wsj.com/economy/housing/san-francisco-housing-market-ai-8c4e3f59?st=6Rhd2Q&reflink=desktopwebshare_permalink) (WSJ)
+- [The most brilliant move in corporate history?](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/) (ASYMCO)
 - [Why ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller?r=1ds20&utm_medium=ios&triedRedirect=true&_src_ref=t.co) (David Oks's Blog)
 - [James Mason in a cave with a cat](https://joelmorris.substack.com/p/james-mason-in-a-cave-with-a-cat?utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true&_src_ref=go.bsky.app) (Joel Morris's Substack)
 - [Exclusive: Meta hires duo behind Moltbook](https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network) (Axios)
