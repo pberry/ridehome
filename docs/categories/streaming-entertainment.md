@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [I met Olaf — the Frozen robot who might be the future of Disney Parks](https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close) (The Verge)
 - [Peacock expands into AI-driven video, mobile-first live sports, and gaming](https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/) (TechCrunch)
 - [Disney+ is rolling out its TikTok-like ‘Verts’ short-form video feed](https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/) (TechCrunch)
 - [YouTube Lays Claim to Another Crown: The World’s Largest Media Company](https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/) (THR)

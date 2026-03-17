@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Nvidia Makes Trillion-Dollar Forecast at Annual Product Expo](https://www.bloomberg.com/news/articles/2026-03-16/nvidia-expects-to-make-1-trillion-from-ai-chips-through-2027) (Bloomberg)
+- [Samsung to Stop Selling $2,899 TriFold Phone After Three Months](https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months) (Bloomberg)
 - [Apple quietly launches AirPods Max 2](https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/) (TechCrunch)
 - [Apple’s Foldable iPhone to Feature iPad-Like Interface When Opened](https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened) (Bloomberg)
 - [MacBook Neo review: the Mac for the masses](https://www.theverge.com/tech/891741/apple-macbook-neo-a18-pro-review) (The Verge)

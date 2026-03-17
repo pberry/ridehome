@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Amazon rolls out 1-hour, 3-hour delivery as ultrafast shipping trend grows in the U.S.](https://www.cnbc.com/2026/03/17/amazon-rolls-out-1-hour-3-hour-delivery-in-latest-fast-shipping-test.html) (CNBC)
+
 ### February
 
 - [Amazon Dethrones Walmart as World’s Biggest Company by Sales](https://www.bloomberg.com/news/articles/2026-02-19/amazon-dethrones-walmart-as-world-s-biggest-company-by-sales) (Bloomberg)

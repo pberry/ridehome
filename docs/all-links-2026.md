@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, March 17 2026 - Westworld For Real**
+
+  * [NVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall](https://www.engadget.com/gaming/pc/nvidia-claims-dlss-5-will-deliver-photoreal-image-quality-with-ai-this-fall-193452088.html) (Engadget)
+  * [Nvidia Makes Trillion-Dollar Forecast at Annual Product Expo](https://www.bloomberg.com/news/articles/2026-03-16/nvidia-expects-to-make-1-trillion-from-ai-chips-through-2027) (Bloomberg)
+  * [Samsung to Stop Selling $2,899 TriFold Phone After Three Months](https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months) (Bloomberg)
+  * [Amazon rolls out 1-hour, 3-hour delivery as ultrafast shipping trend grows in the U.S.](https://www.cnbc.com/2026/03/17/amazon-rolls-out-1-hour-3-hour-delivery-in-latest-fast-shipping-test.html) (CNBC)
+  * [OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business](https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=oxcrnm&reflink=desktopwebshare_permalink) (WSJ)
+  * [I met Olaf — the Frozen robot who might be the future of Disney Parks](https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close) (The Verge)
+
+
+
 **Monday, March 16 2026 - The Mother Of All Meta Layoffs?**
 
   * [Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/) (Reuters)

@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [NVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall](https://www.engadget.com/gaming/pc/nvidia-claims-dlss-5-will-deliver-photoreal-image-quality-with-ai-this-fall-193452088.html) (Engadget)
+- [OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business](https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=oxcrnm&reflink=desktopwebshare_permalink) (WSJ)
 - [Exclusive: Meta planning sweeping layoffs as AI costs mount](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/) (Reuters)
 - [Meta Delays Rollout of New A.I. Model After Performance Concerns](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.SlA.kmjr.rmjF1-q1t1cG&smid=url-share) (NYTimes)
 - [Atlassian slashes 10% of workforce to ‘self-fund’ investments in AI and enterprise sales](https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html) (CNBC)
