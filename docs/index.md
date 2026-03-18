@@ -3,14 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, March 17, 2026 - Westworld For Real</h3>
+  <h3>Wednesday, March 18, 2026 - Crypto Gets Its Rulebook</h3>
   <ul>
-    <li><a href="https://www.engadget.com/gaming/pc/nvidia-claims-dlss-5-will-deliver-photoreal-image-quality-with-ai-this-fall-193452088.html">NVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-16/nvidia-expects-to-make-1-trillion-from-ai-chips-through-2027">Nvidia Makes Trillion-Dollar Forecast at Annual Product Expo</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months">Samsung to Stop Selling $2,899 TriFold Phone After Three Months</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.cnbc.com/2026/03/17/amazon-rolls-out-1-hour-3-hour-delivery-in-latest-fast-shipping-test.html">Amazon rolls out 1-hour, 3-hour delivery as ultrafast shipping trend grows in the U.S.</a> (CNBC) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=oxcrnm&reflink=desktopwebshare_permalink">OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close">I met Olaf — the Frozen robot who might be the future of Disney Parks</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-17/sec-cftc-move-to-define-which-digital-assets-are-securities">SEC, CFTC Move to Define Which Digital Assets Are Securities</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash">Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash</a> (TomsHardware) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets">Meta to Discontinue Key Metaverse Product for VR Headsets</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-17/ai-drone-software-stock-jumps-700-in-best-ipo-since-newsmax">AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions">Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions</a> (CoinDesk) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.theinformation.com/articles/apple-cracks-vibe-coding-apps?rc=i9gkgs">Apple Cracks Down on ‘Vibe Coding’ Apps</a> (The Information) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?st=C7CA9r&reflink=desktopwebshare_permalink">You’ve Finally Figured Out AI at Work—Now Comes the Bill</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-17T12:02:08-07:00">March 17, 2026 at 12:02 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-18T11:59:05-07:00">March 18, 2026 at 11:59 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,382</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,389</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,754</span></li>
       </ul>
     </div>
@@ -50,18 +51,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(76 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(271 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
-        <li><a href="categories/other-tech-news.html" class="stat-label">Other Tech News</a> <span class="stat-value">(76 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(76 links)</span></li>
       </ol>
     </div>
   </div>

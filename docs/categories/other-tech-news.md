@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Meta to Discontinue Key Metaverse Product for VR Headsets](https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets) (Bloomberg)
 - [OpenAI’s Bid to Allow X-Rated Talk Is Freaking Out Its Own Advisers](https://www.wsj.com/tech/ai/openai-adult-mode-chatgpt-f9e5fc1a?st=GHrxJ1&reflink=desktopwebshare_permalink) (WSJ)
 - [The AI Boom Has Exploded the San Francisco Housing Market](https://www.wsj.com/economy/housing/san-francisco-housing-market-ai-8c4e3f59?st=6Rhd2Q&reflink=desktopwebshare_permalink) (WSJ)
 - [The most brilliant move in corporate history?](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/) (ASYMCO)

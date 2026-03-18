@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, March 18 2026 - Crypto Gets Its Rulebook**
+
+  * [SEC, CFTC Move to Define Which Digital Assets Are Securities](https://www.bloomberg.com/news/articles/2026-03-17/sec-cftc-move-to-define-which-digital-assets-are-securities) (Bloomberg)
+  * [Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) (TomsHardware)
+  * [Meta to Discontinue Key Metaverse Product for VR Headsets](https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets) (Bloomberg)
+  * [AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax](https://www.bloomberg.com/news/articles/2026-03-17/ai-drone-software-stock-jumps-700-in-best-ipo-since-newsmax) (Bloomberg)
+  * [Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions](https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions) (CoinDesk)
+  * [Apple Cracks Down on ‘Vibe Coding’ Apps](https://www.theinformation.com/articles/apple-cracks-vibe-coding-apps?rc=i9gkgs) (The Information)
+  * [You’ve Finally Figured Out AI at Work—Now Comes the Bill](https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?st=C7CA9r&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Tuesday, March 17 2026 - Westworld For Real**
 
   * [NVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall](https://www.engadget.com/gaming/pc/nvidia-claims-dlss-5-will-deliver-photoreal-image-quality-with-ai-this-fall-193452088.html) (Engadget)

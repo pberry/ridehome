@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [SEC, CFTC Move to Define Which Digital Assets Are Securities](https://www.bloomberg.com/news/articles/2026-03-17/sec-cftc-move-to-define-which-digital-assets-are-securities) (Bloomberg)
+- [Apple Cracks Down on ‘Vibe Coding’ Apps](https://www.theinformation.com/articles/apple-cracks-vibe-coding-apps?rc=i9gkgs) (The Information)
 - [Encyclopedia Britannica sues OpenAI over AI training](https://www.reuters.com/legal/litigation/encyclopedia-britannica-sues-openai-over-ai-training-2026-03-16/) (Reuters)
 - [Lawyers in landmark social media addiction trial make final appeals to the jury](https://apnews.com/article/meta-instagram-facebook-trial-social-media-addiction-0e99c9ba6159421720d616f9facd10f0) (AP)
 - [Justice Department Probes Iran’s Use of Binance to Evade Sanctions](https://www.wsj.com/finance/currencies/justice-department-probes-irans-use-of-binance-to-evade-sanctions-9dc61ce4?st=hoJcEM&reflink=desktopwebshare_permalink) (WSJ)
