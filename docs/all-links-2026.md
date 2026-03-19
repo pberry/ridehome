@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, March 19 2026 - The AI Race Is Now A Land Grab For Dev And Design Work**
+
+  * [Google introduces 'vibe design' with Stitch](https://www.thedeepview.com/articles/google-introduces-vibe-design-with-stitch) (The Deep View)
+  * [OpenAI to Acquire Startup Astral, Expanding Push Into Coding](https://www.bloomberg.com/news/articles/2026-03-19/openai-to-acquire-python-startup-astral-expanding-push-into-coding) (Bloomberg)
+  * [Crypto.com cuts around 12% of staff as CEO pushes enterprise-wide AI integration](https://www.theblock.co/post/394318/crypto-com-cuts-around-12-of-staff-as-ceo-pushes-ai-integration) (The Block)
+  * [Major League Baseball Steps Into the Prediction Markets, Strikes Deal With Polymarket](https://www.wsj.com/finance/regulation/major-league-baseball-steps-into-the-prediction-markets-strikes-deal-with-polymarket-d25c4648?st=dxpM23) (WSJ)
+  * [Apple Is Way Behind in AI—and Still Making a Fortune From It](https://www.wsj.com/tech/ai/apple-ai-subscriptions-strategy-7ce4ba7f?st=Dm1S4D&reflink=desktopwebshare_permalink) (WSJ)
+  * [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal) (The Verge)
+
+
+
 **Wednesday, March 18 2026 - Crypto Gets Its Rulebook**
 
   * [SEC, CFTC Move to Define Which Digital Assets Are Securities](https://www.bloomberg.com/news/articles/2026-03-17/sec-cftc-move-to-define-which-digital-assets-are-securities) (Bloomberg)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### March
+
+- [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal) (The Verge)
+
 ### February
 
 - [Uber, Latest Victim of Disruption Panic, Still Has Role in Robotaxis](https://www.wsj.com/tech/uber-latest-victim-of-disruption-panic-still-has-role-in-robotaxis-7cb07d60?st=toK8LJ&reflink=desktopwebshare_permalink) (WSJ)

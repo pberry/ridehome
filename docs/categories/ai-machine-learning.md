@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [Google introduces 'vibe design' with Stitch](https://www.thedeepview.com/articles/google-introduces-vibe-design-with-stitch) (The Deep View)
+- [OpenAI to Acquire Startup Astral, Expanding Push Into Coding](https://www.bloomberg.com/news/articles/2026-03-19/openai-to-acquire-python-startup-astral-expanding-push-into-coding) (Bloomberg)
+- [Apple Is Way Behind in AI—and Still Making a Fortune From It](https://www.wsj.com/tech/ai/apple-ai-subscriptions-strategy-7ce4ba7f?st=Dm1S4D&reflink=desktopwebshare_permalink) (WSJ)
 - [You’ve Finally Figured Out AI at Work—Now Comes the Bill](https://www.wsj.com/tech/ai/ai-tokens-productivity-d35c6bd8?st=C7CA9r&reflink=desktopwebshare_permalink) (WSJ)
 - [NVIDIA claims DLSS 5 will deliver 'photoreal' image quality with AI this fall](https://www.engadget.com/gaming/pc/nvidia-claims-dlss-5-will-deliver-photoreal-image-quality-with-ai-this-fall-193452088.html) (Engadget)
 - [OpenAI to Cut Back on Side Projects in Push to ‘Nail’ Core Business](https://www.wsj.com/tech/ai/openai-chatgpt-side-projects-16b3a825?st=oxcrnm&reflink=desktopwebshare_permalink) (WSJ)

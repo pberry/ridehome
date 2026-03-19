@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Crypto.com cuts around 12% of staff as CEO pushes enterprise-wide AI integration](https://www.theblock.co/post/394318/crypto-com-cuts-around-12-of-staff-as-ceo-pushes-ai-integration) (The Block)
+- [Major League Baseball Steps Into the Prediction Markets, Strikes Deal With Polymarket](https://www.wsj.com/finance/regulation/major-league-baseball-steps-into-the-prediction-markets-strikes-deal-with-polymarket-d25c4648?st=dxpM23) (WSJ)
 - [Polymarket shelves nuclear detonation markets after outcry](https://www.coindesk.com/markets/2026/03/04/polymarket-shelves-nuclear-detonation-markets-after-outcry) (CoinDesk)
 - [Polymarket Iran Bets Hit $529 Million as New Wallets Win Big](https://www.bloomberg.com/news/articles/2026-02-28/polymarket-iran-bets-hit-529-million-as-new-wallets-draw-notice) (Bloomberg)
 
