@@ -9,6 +9,11 @@ layout: category
 
 ### March
 
+- [OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=RkLFrs&reflink=desktopwebshare_permalink) (WSJ)
+- [Google Search is now using AI to replace headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment) (The Verge)
+- [Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?st=PTKFgS&reflink=article_copyURL_share) (WSJ)
+- [ChatGPT did not cure a dog’s cancer](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer) (The Verge)
+- [The Human Skill That Eludes AI](https://www.theatlantic.com/technology/2026/03/ai-creative-writing/686418/?gift=iWa_iB9lkw4UuiWbIbrWGb11x07uLMkrNAorpAm82a8&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
 - [Google introduces 'vibe design' with Stitch](https://www.thedeepview.com/articles/google-introduces-vibe-design-with-stitch) (The Deep View)
 - [OpenAI to Acquire Startup Astral, Expanding Push Into Coding](https://www.bloomberg.com/news/articles/2026-03-19/openai-to-acquire-python-startup-astral-expanding-push-into-coding) (Bloomberg)
 - [Apple Is Way Behind in AI—and Still Making a Fortune From It](https://www.wsj.com/tech/ai/apple-ai-subscriptions-strategy-7ce4ba7f?st=Dm1S4D&reflink=desktopwebshare_permalink) (WSJ)

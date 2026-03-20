@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 20 2026**
+
+  * [ChatGPT did not cure a dog’s cancer](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer) (The Verge)
+  * [The Human Skill That Eludes AI](https://www.theatlantic.com/technology/2026/03/ai-creative-writing/686418/?gift=iWa_iB9lkw4UuiWbIbrWGb11x07uLMkrNAorpAm82a8&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
+
+
+
 **Friday, March 13 2026**
 
   * [Why ATMs didn’t kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller?r=1ds20&utm_medium=ios&triedRedirect=true&_src_ref=t.co) (David Oks's Blog)

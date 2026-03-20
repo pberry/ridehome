@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 20 2026 - AI Superapps**
+
+  * [OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=RkLFrs&reflink=desktopwebshare_permalink) (WSJ)
+  * [White House releases AI policy blueprint for Congress](https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354) (Politico)
+  * [Exclusive: Amazon plans smartphone comeback more than a decade after Fire Phone flop](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) (Reuters)
+  * [Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China](https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html) (CNBC)
+  * [Google Search is now using AI to replace headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment) (The Verge)
+  * [Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?st=PTKFgS&reflink=article_copyURL_share) (WSJ)
+
+
+
 **Thursday, March 19 2026 - The AI Race Is Now A Land Grab For Dev And Design Work**
 
   * [Google introduces 'vibe design' with Stitch](https://www.thedeepview.com/articles/google-introduces-vibe-design-with-stitch) (The Deep View)

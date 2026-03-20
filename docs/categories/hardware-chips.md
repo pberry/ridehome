@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Exclusive: Amazon plans smartphone comeback more than a decade after Fire Phone flop](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) (Reuters)
 - [Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) (TomsHardware)
 - [Nvidia Makes Trillion-Dollar Forecast at Annual Product Expo](https://www.bloomberg.com/news/articles/2026-03-16/nvidia-expects-to-make-1-trillion-from-ai-chips-through-2027) (Bloomberg)
 - [Samsung to Stop Selling $2,899 TriFold Phone After Three Months](https://www.bloomberg.com/news/articles/2026-03-17/samsung-to-stop-selling-2-899-trifold-phone-after-three-months) (Bloomberg)
