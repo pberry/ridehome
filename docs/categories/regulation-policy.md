@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Musk Misled Twitter Investors Before 2022 Buyout, Jury Says](https://www.bloomberg.com/news/articles/2026-03-20/elon-musk-misled-twitter-investors-before-2022-buyout-jury-says) (Bloomberg)
 - [White House releases AI policy blueprint for Congress](https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354) (Politico)
 - [Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China](https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html) (CNBC)
 - [SEC, CFTC Move to Define Which Digital Assets Are Securities](https://www.bloomberg.com/news/articles/2026-03-17/sec-cftc-move-to-define-which-digital-assets-are-securities) (Bloomberg)

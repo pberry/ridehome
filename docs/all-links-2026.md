@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, March 23 2026 - Zuck’s Personal AI Agent**
+
+  * [Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?st=aPzumg&reflink=desktopwebshare_permalink) (WSJ)
+  * [OpenAI Taps Former Meta Executive to Lead Ad Push](https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?st=Agy4yE&reflink=desktopwebshare_permalink) (WSJ)
+  * [Samsung's Galaxy S26 Phones Will Work With Apple's AirDrop, Much Like the Pixel 10](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/) (CNET)
+  * [Musk Misled Twitter Investors Before 2022 Buyout, Jury Says](https://www.bloomberg.com/news/articles/2026-03-20/elon-musk-misled-twitter-investors-before-2022-buyout-jury-says) (Bloomberg)
+  * [More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&smid=url-share) (NYTimes)
+  * [‘The Karpathy Loop’: Former OpenAI researcher’s autonomous agents ran 700 experiments in 2 days—and gave a glimpse of where AI is heading](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) (Fortune)
+
+
+
 **Friday, March 20 2026 - AI Superapps**
 
   * [OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=RkLFrs&reflink=desktopwebshare_permalink) (WSJ)

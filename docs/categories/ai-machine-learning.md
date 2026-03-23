@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?st=aPzumg&reflink=desktopwebshare_permalink) (WSJ)
+- [More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&smid=url-share) (NYTimes)
+- [‘The Karpathy Loop’: Former OpenAI researcher’s autonomous agents ran 700 experiments in 2 days—and gave a glimpse of where AI is heading](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) (Fortune)
 - [OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=RkLFrs&reflink=desktopwebshare_permalink) (WSJ)
 - [Google Search is now using AI to replace headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment) (The Verge)
 - [Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund](https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?st=PTKFgS&reflink=article_copyURL_share) (WSJ)

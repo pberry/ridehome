@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, March 20, 2026 - AI Superapps</h3>
+  <h3>Monday, March 23, 2026 - Zuck’s Personal AI Agent</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=RkLFrs&reflink=desktopwebshare_permalink">OpenAI Plans Launch of Desktop ‘Superapp’ to Refocus, Simplify User Experience</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354">White House releases AI policy blueprint for Congress</a> (Politico) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/">Exclusive: Amazon plans smartphone comeback more than a decade after Fire Phone flop</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html">Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment">Google Search is now using AI to replace headlines</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/tech/jeff-bezos-aims-to-raise-100-billion-to-buy-revamp-manufacturing-firms-with-ai-618a3cfe?st=PTKFgS&reflink=article_copyURL_share">Jeff Bezos in Talks to Raise $100 Billion for AI Manufacturing Fund</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?st=aPzumg&reflink=desktopwebshare_permalink">Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?st=Agy4yE&reflink=desktopwebshare_permalink">OpenAI Taps Former Meta Executive to Lead Ad Push</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/">Samsung's Galaxy S26 Phones Will Work With Apple's AirDrop, Much Like the Pixel 10</a> (CNET) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-20/elon-musk-misled-twitter-investors-before-2022-buyout-jury-says">Musk Misled Twitter Investors Before 2022 Buyout, Jury Says</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&smid=url-share">More! More! More! Tech Workers Max Out Their A.I. Use.</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/">‘The Karpathy Loop’: Former OpenAI researcher’s autonomous agents ran 700 experiments in 2 days—and gave a glimpse of where AI is heading</a> (Fortune) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-20T11:50:41-07:00">March 20, 2026 at 11:50 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-23T11:54:59-07:00">March 23, 2026 at 11:54 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,401</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,407</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,756</span></li>
       </ul>
     </div>
@@ -50,18 +50,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(109 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(97 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(83 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(78 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(75 links)</span></li>
       </ol>
     </div>
   </div>
