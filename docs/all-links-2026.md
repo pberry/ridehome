@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, March 24 2026 - Your Router Is Likely Banned**
+
+  * [US regulator bans imports of new foreign-made routers, citing security concerns](https://www.reuters.com/sustainability/boards-policy-regulation/fcc-banning-imports-new-chinese-made-routers-citing-security-concerns-2026-03-23/) (Reuters)
+  * [Anthropic's Claude Can Now Control Your Computer](https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/) (CNET)
+  * [Epic Games Cuts About 1,000 Jobs Across Company Amid ‘Fortnite’ Slump](https://www.bloomberg.com/news/articles/2026-03-24/fortnite-maker-epic-games-cuts-about-1-000-jobs-across-company) (Bloomberg)
+  * [Nintendo Cuts Switch 2 Output by Over 30% on Weak US Sales](https://www.bloomberg.com/news/articles/2026-03-24/nintendo-cuts-switch-2-output-by-over-30-on-weak-holiday-sales) (Bloomberg)
+  * [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked) (The Verge)
+  * [Polymarket, Kalshi Take On Insider Trading as Scrutiny Grows](https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny) (Bloomberg)
+
+
+
 **Monday, March 23 2026 - Zuck’s Personal AI Agent**
 
   * [Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?st=aPzumg&reflink=desktopwebshare_permalink) (WSJ)

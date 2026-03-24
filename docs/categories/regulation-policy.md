@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [US regulator bans imports of new foreign-made routers, citing security concerns](https://www.reuters.com/sustainability/boards-policy-regulation/fcc-banning-imports-new-chinese-made-routers-citing-security-concerns-2026-03-23/) (Reuters)
+- [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked) (The Verge)
+- [Polymarket, Kalshi Take On Insider Trading as Scrutiny Grows](https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny) (Bloomberg)
 - [Musk Misled Twitter Investors Before 2022 Buyout, Jury Says](https://www.bloomberg.com/news/articles/2026-03-20/elon-musk-misled-twitter-investors-before-2022-buyout-jury-says) (Bloomberg)
 - [White House releases AI policy blueprint for Congress](https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354) (Politico)
 - [Super Micro shares tank 25% after employees charged with smuggling Nvidia chips to China](https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html) (CNBC)

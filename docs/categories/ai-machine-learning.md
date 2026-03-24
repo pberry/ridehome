@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Anthropic's Claude Can Now Control Your Computer](https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/) (CNET)
 - [Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?st=aPzumg&reflink=desktopwebshare_permalink) (WSJ)
 - [More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&smid=url-share) (NYTimes)
 - [‘The Karpathy Loop’: Former OpenAI researcher’s autonomous agents ran 700 experiments in 2 days—and gave a glimpse of where AI is heading](https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/) (Fortune)
