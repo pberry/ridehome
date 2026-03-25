@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, March 25 2026 - Sora Sinks**
+
+  * [OpenAI Scraps Sora Video Platform Months After Launch](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?st=WrWdgD&reflink=desktopwebshare_permalink) (WSJ)
+  * [Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules](https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html) (CNBC)
+  * [Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html) (NYTimes)
+  * [China reviews $2bn Manus sale to Meta as founders barred from leaving country](https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a?syn-25a6b1a6=1) (FT)
+  * [AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding](https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding) (Bloomberg)
+
+
+
 **Tuesday, March 24 2026 - Your Router Is Likely Banned**
 
   * [US regulator bans imports of new foreign-made routers, citing security concerns](https://www.reuters.com/sustainability/boards-policy-regulation/fcc-banning-imports-new-chinese-made-routers-citing-security-concerns-2026-03-23/) (Reuters)

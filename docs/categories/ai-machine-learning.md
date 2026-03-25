@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [OpenAI Scraps Sora Video Platform Months After Launch](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?st=WrWdgD&reflink=desktopwebshare_permalink) (WSJ)
+- [AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding](https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding) (Bloomberg)
 - [Anthropic's Claude Can Now Control Your Computer](https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/) (CNET)
 - [Mark Zuckerberg Is Building an AI Agent to Help Him Be CEO](https://www.wsj.com/tech/ai/mark-zuckerberg-is-building-an-ai-agent-to-help-him-be-ceo-eddab2d5?st=aPzumg&reflink=desktopwebshare_permalink) (WSJ)
 - [More! More! More! Tech Workers Max Out Their A.I. Use.](https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html?unlocked_article_code=1.UlA.Wda2.-3Rz1wP8LBVw&smid=url-share) (NYTimes)

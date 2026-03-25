@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules](https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html) (CNBC)
+- [Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html) (NYTimes)
+- [China reviews $2bn Manus sale to Meta as founders barred from leaving country](https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a?syn-25a6b1a6=1) (FT)
 - [US regulator bans imports of new foreign-made routers, citing security concerns](https://www.reuters.com/sustainability/boards-policy-regulation/fcc-banning-imports-new-chinese-made-routers-citing-security-concerns-2026-03-23/) (Reuters)
 - [Kalshi says it will block politicians and athletes from trading in markets they’re tied to](https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked) (The Verge)
 - [Polymarket, Kalshi Take On Insider Trading as Scrutiny Grows](https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny) (Bloomberg)

@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, March 24, 2026 - Your Router Is Likely Banned</h3>
+  <h3>Wednesday, March 25, 2026 - Sora Sinks</h3>
   <ul>
-    <li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/fcc-banning-imports-new-chinese-made-routers-citing-security-concerns-2026-03-23/">US regulator bans imports of new foreign-made routers, citing security concerns</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/">Anthropic's Claude Can Now Control Your Computer</a> (CNET) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-24/fortnite-maker-epic-games-cuts-about-1-000-jobs-across-company">Epic Games Cuts About 1,000 Jobs Across Company Amid ‘Fortnite’ Slump</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-24/nintendo-cuts-switch-2-output-by-over-30-on-weak-holiday-sales">Nintendo Cuts Switch 2 Output by Over 30% on Weak US Sales</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.theverge.com/tech/899097/kalshi-politicians-athletes-insider-trading-blocked">Kalshi says it will block politicians and athletes from trading in markets they’re tied to</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-23/polymarket-implements-new-insider-trading-rules-after-scrutiny">Polymarket, Kalshi Take On Insider Trading as Scrutiny Grows</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?st=WrWdgD&reflink=desktopwebshare_permalink">OpenAI Scraps Sora Video Platform Months After Launch</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html">Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html">Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a?syn-25a6b1a6=1">China reviews $2bn Manus sale to Meta as founders barred from leaving country</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding">AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-24T12:02:54-07:00">March 24, 2026 at 12:02 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-25T11:55:30-07:00">March 25, 2026 at 11:55 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,413</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,418</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,756</span></li>
       </ul>
     </div>
@@ -50,9 +49,9 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(83 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(84 links)</span></li>
       </ol>
     </div>
 
