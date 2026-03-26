@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Wikipedia bans AI-generated articles](https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban) (The Verge)
+- [Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/) (TechCrunch)
 - [OpenAI Scraps Sora Video Platform Months After Launch](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?st=WrWdgD&reflink=desktopwebshare_permalink) (WSJ)
 - [AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding](https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding) (Bloomberg)
 - [Anthropic's Claude Can Now Control Your Computer](https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/) (CNET)

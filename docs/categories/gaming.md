@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Nintendo confirms its US Switch 2 games will soon cost more as physical versions](https://www.videogameschronicle.com/news/nintendo-confirms-its-us-switch-2-games-will-soon-cost-more-as-physical-versions/) (VGC)
 - [Epic Games Cuts About 1,000 Jobs Across Company Amid ‘Fortnite’ Slump](https://www.bloomberg.com/news/articles/2026-03-24/fortnite-maker-epic-games-cuts-about-1-000-jobs-across-company) (Bloomberg)
 - [Nintendo Cuts Switch 2 Output by Over 30% on Weak US Sales](https://www.bloomberg.com/news/articles/2026-03-24/nintendo-cuts-switch-2-output-by-over-30-on-weak-holiday-sales) (Bloomberg)
 - [Nintendo Shares Soar 10% as Surprise Hit Pokémon Game Lifts Mood](https://www.bloomberg.com/news/articles/2026-03-11/nintendo-shares-rally-10-as-new-pokemon-game-lifts-sentiment) (Bloomberg)

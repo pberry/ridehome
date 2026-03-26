@@ -3,13 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, March 25, 2026 - Sora Sinks</h3>
+  <h3>Thursday, March 26, 2026 - Social Media’s “Big Tobacco” Moment?</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?st=WrWdgD&reflink=desktopwebshare_permalink">OpenAI Scraps Sora Video Platform Months After Launch</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html">Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html">Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a?syn-25a6b1a6=1">China reviews $2bn Manus sale to Meta as founders barred from leaving country</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding">AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html">Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/do-back-to-back-courtroom-losses-herald-metas-big-tobacco-moment-57e6f227">Do Back-to-Back Courtroom Losses Herald Meta’s ‘Big Tobacco’ Moment?</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.videogameschronicle.com/news/nintendo-confirms-its-us-switch-2-games-will-soon-cost-more-as-physical-versions/">Nintendo confirms its US Switch 2 games will soon cost more as physical versions</a> (VGC) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban">Wikipedia bans AI-generated articles</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.howtogeek.com/githubs-copilot-will-use-you-as-ai-training-data-but-you-can-opt-out/">GitHub’s Copilot will use you as AI training data, but you can opt out</a> (How) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/">Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-25T11:55:30-07:00">March 25, 2026 at 11:55 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-26T12:05:17-07:00">March 26, 2026 at 12:05 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,418</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,424</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,756</span></li>
       </ul>
     </div>
@@ -50,17 +51,17 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(84 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(85 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(77 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
   </div>

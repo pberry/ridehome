@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial](https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html) (CNBC)
+- [Do Back-to-Back Courtroom Losses Herald Meta’s ‘Big Tobacco’ Moment?](https://www.wsj.com/tech/do-back-to-back-courtroom-losses-herald-metas-big-tobacco-moment-57e6f227) (WSJ)
 - [Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules](https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html) (CNBC)
 - [Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html) (NYTimes)
 - [China reviews $2bn Manus sale to Meta as founders barred from leaving country](https://www.ft.com/content/d9123d9d-c807-41d6-8a17-80ff1111834a?syn-25a6b1a6=1) (FT)

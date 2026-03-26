@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, March 26 2026 - Social Media’s “Big Tobacco” Moment?**
+
+  * [Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial](https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html) (CNBC)
+  * [Do Back-to-Back Courtroom Losses Herald Meta’s ‘Big Tobacco’ Moment?](https://www.wsj.com/tech/do-back-to-back-courtroom-losses-herald-metas-big-tobacco-moment-57e6f227) (WSJ)
+  * [Nintendo confirms its US Switch 2 games will soon cost more as physical versions](https://www.videogameschronicle.com/news/nintendo-confirms-its-us-switch-2-games-will-soon-cost-more-as-physical-versions/) (VGC)
+  * [Wikipedia bans AI-generated articles](https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban) (The Verge)
+  * [GitHub’s Copilot will use you as AI training data, but you can opt out](https://www.howtogeek.com/githubs-copilot-will-use-you-as-ai-training-data-but-you-can-opt-out/) (How)
+  * [Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/) (TechCrunch)
+
+
+
 **Wednesday, March 25 2026 - Sora Sinks**
 
   * [OpenAI Scraps Sora Video Platform Months After Launch](https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e?st=WrWdgD&reflink=desktopwebshare_permalink) (WSJ)
