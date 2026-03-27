@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Anthropic wins preliminary injunction in DOD fight as judge cites ‘First Amendment retaliation’](https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html) (CNBC)
 - [Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial](https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html) (CNBC)
 - [Do Back-to-Back Courtroom Losses Herald Meta’s ‘Big Tobacco’ Moment?](https://www.wsj.com/tech/do-back-to-back-courtroom-losses-herald-metas-big-tobacco-moment-57e6f227) (WSJ)
 - [Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules](https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html) (CNBC)

@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 27 2026**
+
+  * [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on) (The Verge)
+  * [How Apple Became Apple: The Definitive Oral History Of The Company's Earliest Days](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak) (Fast Company)
+
+
+
 **Friday, March 20 2026**
 
   * [ChatGPT did not cure a dog’s cancer](https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer) (The Verge)

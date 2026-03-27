@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Exclusive: Musk rewrites IPO playbook with large slice of SpaceX stock for retail investors, source says](https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/) (Reuters)
 - [AI Drone Software Stock Jumps 520% in Best IPO Since Newsmax](https://www.bloomberg.com/news/articles/2026-03-17/ai-drone-software-stock-jumps-700-in-best-ipo-since-newsmax) (Bloomberg)
 - [Crypto exchange Kraken freezes multibillion-dollar IPO plan due to difficult market conditions](https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions) (CoinDesk)
 - [SpaceX: the final frontier of IPOs](https://www.ft.com/content/5bf1fe0c-1593-49b7-aaf1-18e7da9b36ed?shareType=nongift) (FT)

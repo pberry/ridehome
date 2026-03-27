@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, March 27 2026 - AI Step-Change Alert!**
+
+  * [Anthropic wins preliminary injunction in DOD fight as judge cites ‘First Amendment retaliation’](https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html) (CNBC)
+  * [Exclusive: Anthropic acknowledges testing new AI model representing ‘step change’ in capabilities, after accidental data leak reveals its existence](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/) (Fortune)
+  * [Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) (Bloomberg)
+  * [Sony is raising PS5 prices by $100 in April](https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike) (The Verge)
+  * [OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot](https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot?rc=i9gkgs) (The Information)
+  * [Exclusive: Musk rewrites IPO playbook with large slice of SpaceX stock for retail investors, source says](https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/) (Reuters)
+
+
+
 **Thursday, March 26 2026 - Social Media’s “Big Tobacco” Moment?**
 
   * [Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial](https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html) (CNBC)

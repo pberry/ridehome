@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot](https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot?rc=i9gkgs) (The Information)
+- [How Apple Became Apple: The Definitive Oral History Of The Company's Earliest Days](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak) (Fast Company)
 - [OpenAI Taps Former Meta Executive to Lead Ad Push](https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?st=Agy4yE&reflink=desktopwebshare_permalink) (WSJ)
 - [Meta to Discontinue Key Metaverse Product for VR Headsets](https://www.bloomberg.com/news/articles/2026-03-17/meta-to-discontinue-key-metaverse-product-for-vr-headsets) (Bloomberg)
 - [OpenAI’s Bid to Allow X-Rated Talk Is Freaking Out Its Own Advisers](https://www.wsj.com/tech/ai/openai-adult-mode-chatgpt-f9e5fc1a?st=GHrxJ1&reflink=desktopwebshare_permalink) (WSJ)
