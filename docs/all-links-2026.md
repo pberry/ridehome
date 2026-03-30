@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, March 30 2026 - Is AI About To Get More Expensive**
+
+  * [The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce) (WSJ)
+  * [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218)
+  * [Claude is limiting usage more aggressively during peak hours — here’s what changed](https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed) (TechRadar)
+  * [Microsoft’s Researcher AI Agent Can Now Make GPT and Claude Models Work Together](https://www.thurrott.com/a-i/334334/microsofts-researcher-ai-agent-can-now-make-gpt-and-claude-models-work-together) (Thurrott)
+  * [Starcloud raises $170 million Series A to build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/) (TechCrunch)
+  * [‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/) (TechCrunch)
+
+
+
 **Friday, March 27 2026 - AI Step-Change Alert!**
 
   * [Anthropic wins preliminary injunction in DOD fight as judge cites ‘First Amendment retaliation’](https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html) (CNBC)

@@ -9,6 +9,9 @@ layout: category
 
 ### March
 
+- [The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce) (WSJ)
+- [Claude is limiting usage more aggressively during peak hours — here’s what changed](https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed) (TechRadar)
+- [Microsoft’s Researcher AI Agent Can Now Make GPT and Claude Models Work Together](https://www.thurrott.com/a-i/334334/microsofts-researcher-ai-agent-can-now-make-gpt-and-claude-models-work-together) (Thurrott)
 - [Exclusive: Anthropic acknowledges testing new AI model representing ‘step change’ in capabilities, after accidental data leak reveals its existence](https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/) (Fortune)
 - [Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) (Bloomberg)
 - [Gemini task automation is slow, clunky, and super impressive](https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on) (The Verge)

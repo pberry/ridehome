@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Starcloud raises $170 million Series A to build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/) (TechCrunch)
 - [Amazon holds engineering meeting following AI-related outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de) (FT)
 - [Oracle Plans Thousands of Job Cuts in Face of AI Cash Crunch](https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch) (Bloomberg)
 - [Who needs data centers in space when they can float offshore?](https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/) (TechCrunch)

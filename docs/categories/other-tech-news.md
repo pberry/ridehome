@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218)
 - [OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot](https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot?rc=i9gkgs) (The Information)
 - [How Apple Became Apple: The Definitive Oral History Of The Company's Earliest Days](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak) (Fast Company)
 - [OpenAI Taps Former Meta Executive to Lead Ad Push](https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?st=Agy4yE&reflink=desktopwebshare_permalink) (WSJ)

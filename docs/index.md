@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, March 27, 2026 - AI Step-Change Alert!</h3>
+  <h3>Monday, March 30, 2026 - Is AI About To Get More Expensive</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html">Anthropic wins preliminary injunction in DOD fight as judge cites ‘First Amendment retaliation’</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/">Exclusive: Anthropic acknowledges testing new AI model representing ‘step change’ in capabilities, after accidental data leak reveals its existence</a> (Fortune) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27">Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike">Sony is raising PS5 prices by $100 in April</a> (The Verge) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot?rc=i9gkgs">OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot</a> (The Information) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/">Exclusive: Musk rewrites IPO playbook with large slice of SpaceX stock for retail investors, source says</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce">The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://x.com/AndrewCurran_/status/2037967531630367218">Andrew Curran X Post</a></li>
+    <li><a href="https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed">Claude is limiting usage more aggressively during peak hours — here’s what changed</a> (TechRadar) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.thurrott.com/a-i/334334/microsofts-researcher-ai-agent-can-now-make-gpt-and-claude-models-work-together">Microsoft’s Researcher AI Agent Can Now Make GPT and Claude Models Work Together</a> (Thurrott) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/">Starcloud raises $170 million Series A to build data centers in space</a> (TechCrunch) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/">‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-27T11:55:52-07:00">March 27, 2026 at 11:55 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-03-30T12:52:29-07:00">March 30, 2026 at 12:52 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,430</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,436</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,758</span></li>
       </ul>
     </div>
@@ -52,14 +52,14 @@
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(92 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(101 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(80 links)</span></li>
       </ol>
