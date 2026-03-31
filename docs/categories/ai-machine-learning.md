@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Google commits to video generation, announces Veo 3.1 Lite](https://9to5google.com/2026/03/31/veo-3-1-lite/) (9to5Google)
 - [The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce) (WSJ)
 - [Claude is limiting usage more aggressively during peak hours — here’s what changed](https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed) (TechRadar)
 - [Microsoft’s Researcher AI Agent Can Now Make GPT and Claude Models Work Together](https://www.thurrott.com/a-i/334334/microsofts-researcher-ai-agent-can-now-make-gpt-and-claude-models-work-together) (Thurrott)

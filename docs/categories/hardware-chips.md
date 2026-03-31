@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [The latest Ray-Ban Meta smart glasses are more customizable and expensive](https://www.engadget.com/wearables/the-latest-ray-ban-meta-smart-glasses-are-more-customizable-and-expensive-130000553.html) (Engadget)
+- [Whoop, a Wearable Health Device Maker, Raises $575 Million](https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html) (NYTimes)
 - [Samsung's Galaxy S26 Phones Will Work With Apple's AirDrop, Much Like the Pixel 10](https://www.cnet.com/tech/mobile/samsungs-galaxy-s26-phones-will-work-with-apples-airdrop-much-like-the-pixel-10/) (CNET)
 - [Exclusive: Amazon plans smartphone comeback more than a decade after Fire Phone flop](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) (Reuters)
 - [Jensen Huang says gamers are 'completely wrong' about DLSS 5 — Nvidia CEO responds to DLSS 5 backlash](https://www.tomshardware.com/pc-components/gpus/jensen-huang-says-gamers-are-completely-wrong-about-dlss-5-nvidia-ceo-responds-to-dlss-5-backlash) (TomsHardware)

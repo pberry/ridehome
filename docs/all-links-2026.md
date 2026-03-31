@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, March 31 2026 - Will Iran Target Tech?**
+
+  * [Iran says it will target US tech companies in Middle East](https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/) (The Hill)
+  * [Iran’s hackers go to war](https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539?syn-25a6b1a6=1) (FT)
+  * [The latest Ray-Ban Meta smart glasses are more customizable and expensive](https://www.engadget.com/wearables/the-latest-ray-ban-meta-smart-glasses-are-more-customizable-and-expensive-130000553.html) (Engadget)
+  * [Claude Code's source code appears to have leaked: here's what we know](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know) (VentureBeat)
+  * [Google commits to video generation, announces Veo 3.1 Lite](https://9to5google.com/2026/03/31/veo-3-1-lite/) (9to5Google)
+  * [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded) (The Verge)
+  * [Whoop, a Wearable Health Device Maker, Raises $575 Million](https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html) (NYTimes)
+
+
+
 **Monday, March 30 2026 - Is AI About To Get More Expensive**
 
   * [The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce) (WSJ)

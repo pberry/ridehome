@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded) (The Verge)
 - [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218)
 - [OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot](https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot?rc=i9gkgs) (The Information)
 - [How Apple Became Apple: The Definitive Oral History Of The Company's Earliest Days](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak) (Fast Company)

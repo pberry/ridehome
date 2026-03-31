@@ -9,6 +9,7 @@ layout: category
 
 ### March
 
+- [Iran says it will target US tech companies in Middle East](https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/) (The Hill)
 - [Anthropic wins preliminary injunction in DOD fight as judge cites ‘First Amendment retaliation’](https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html) (CNBC)
 - [Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial](https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html) (CNBC)
 - [Do Back-to-Back Courtroom Losses Herald Meta’s ‘Big Tobacco’ Moment?](https://www.wsj.com/tech/do-back-to-back-courtroom-losses-herald-metas-big-tobacco-moment-57e6f227) (WSJ)

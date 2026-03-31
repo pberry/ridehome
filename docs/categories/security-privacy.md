@@ -9,6 +9,8 @@ layout: category
 
 ### March
 
+- [Iran’s hackers go to war](https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539?syn-25a6b1a6=1) (FT)
+- [Claude Code's source code appears to have leaked: here's what we know](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know) (VentureBeat)
 - [GitHub’s Copilot will use you as AI training data, but you can opt out](https://www.howtogeek.com/githubs-copilot-will-use-you-as-ai-training-data-but-you-can-opt-out/) (How)
 - [Iran Expands War With Major Cyberattack Against U.S. Company](https://www.wsj.com/articles/stryker-hit-with-suspected-iran-linked-cyberattack-52f6615c?st=QTAGvn&reflink=desktopwebshare_permalink) (WSJ)
 - [Meta, Thai police shut down 150,000 scam accounts](https://www.axios.com/2026/03/11/meta-thailand-cyber-scam-centers-arrest) (Axios)
