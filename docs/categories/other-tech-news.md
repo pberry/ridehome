@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [You can finally replace your embarrassing Gmail username](https://www.theverge.com/tech/904005/google-change-gmail-email-address) (The Verge)
+
 ### March
 
 - [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded) (The Verge)

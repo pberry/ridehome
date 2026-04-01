@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/) (Wired)
+
 ### March
 
 - [Uber to invest $1.25 billion in Rivian as part of new robotaxi deal](https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal) (The Verge)

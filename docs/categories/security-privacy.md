@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?st=BQwoMN&reflink=desktopwebshare_permalink) (WSJ)
+- [Claude Code Leak Reveals Always-On ‘Kairos’ Agent](https://www.theinformation.com/newsletters/ai-agenda/claude-code-leak-reveals-always-kairos-agent?rc=i9gkgs) (The Information)
+
 ### March
 
 - [Iran’s hackers go to war](https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539?syn-25a6b1a6=1) (FT)

@@ -3,15 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, March 31, 2026 - Will Iran Target Tech?</h3>
+  <h3>Wednesday, April 01, 2026 - Anthropic’s Laundry Has Been Aired</h3>
   <ul>
-    <li><a href="https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/">Iran says it will target US tech companies in Middle East</a> (The Hill) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/f2562e46-2b23-4553-9488-6c7549207539?syn-25a6b1a6=1">Iran’s hackers go to war</a> (FT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.engadget.com/wearables/the-latest-ray-ban-meta-smart-glasses-are-more-customizable-and-expensive-130000553.html">The latest Ray-Ban Meta smart glasses are more customizable and expensive</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know">Claude Code's source code appears to have leaked: here's what we know</a> (VentureBeat) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://9to5google.com/2026/03/31/veo-3-1-lite/">Google commits to video generation, announces Veo 3.1 Lite</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded">Another Starlink satellite has inexplicably exploded</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html">Whoop, a Wearable Health Device Maker, Raises $575 Million</a> (NYTimes) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html">OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e?syn-25a6b1a6=1">OpenAI raises $3bn from retail investors as part of record funding haul</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot">OpenAI Is Falling Out of Favor With Secondary Buyers</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?st=BQwoMN&reflink=desktopwebshare_permalink">Anthropic Races to Contain Leak of Code Behind Claude AI Agent</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theinformation.com/newsletters/ai-agenda/claude-code-leak-reveals-always-kairos-agent?rc=i9gkgs">Claude Code Leak Reveals Always-On ‘Kairos’ Agent</a> (The Information) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/">Robotaxi Outage in China Leaves Passengers Stranded on Highways</a> (Wired) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.theverge.com/tech/904005/google-change-gmail-email-address">You can finally replace your embarrassing Gmail username</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -37,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-03-31T12:01:48-07:00">March 31, 2026 at 12:01 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-01T12:01:41-07:00">April 01, 2026 at 12:01 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,443</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,450</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,758</span></li>
       </ul>
     </div>
@@ -52,17 +52,17 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(102 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(93 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(83 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(102 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(81 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>
   </div>

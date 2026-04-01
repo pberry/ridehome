@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### April
+
+- [OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) (CNBC)
+- [OpenAI raises $3bn from retail investors as part of record funding haul](https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e?syn-25a6b1a6=1) (FT)
+- [OpenAI Is Falling Out of Favor With Secondary Buyers](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot) (Bloomberg)
+
 ### March
 
 - [Exclusive: Musk rewrites IPO playbook with large slice of SpaceX stock for retail investors, source says](https://www.reuters.com/business/finance/musk-rewrites-ipo-playbook-with-large-slice-spacex-stock-retail-investors-source-2026-03-26/) (Reuters)

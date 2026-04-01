@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, April 01 2026 - Anthropic’s Laundry Has Been Aired**
+
+  * [OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) (CNBC)
+  * [OpenAI raises $3bn from retail investors as part of record funding haul](https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e?syn-25a6b1a6=1) (FT)
+  * [OpenAI Is Falling Out of Favor With Secondary Buyers](https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot) (Bloomberg)
+  * [Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?st=BQwoMN&reflink=desktopwebshare_permalink) (WSJ)
+  * [Claude Code Leak Reveals Always-On ‘Kairos’ Agent](https://www.theinformation.com/newsletters/ai-agenda/claude-code-leak-reveals-always-kairos-agent?rc=i9gkgs) (The Information)
+  * [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/) (Wired)
+  * [You can finally replace your embarrassing Gmail username](https://www.theverge.com/tech/904005/google-change-gmail-email-address) (The Verge)
+
+
+
 **Tuesday, March 31 2026 - Will Iran Target Tech?**
 
   * [Iran says it will target US tech companies in Middle East](https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/) (The Hill)
