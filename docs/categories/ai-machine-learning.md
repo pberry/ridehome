@@ -7,6 +7,15 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Larry Ellison’s Oracle cuts thousands of jobs after AI push](https://www.thetimes.com/business/technology/article/larry-ellisons-oracle-cuts-thousands-of-jobs-after-ai-push-70d0ht38n) (The Times of London)
+- [US Job-Cut Announcements in Tech Keep Rising With AI Adoption](https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption) (Bloomberg)
+- [Alibaba Unveils Third Closed-Source AI Model in Focus on Profit](https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit) (Bloomberg)
+- [Microsoft launches 3 new AI models in direct shot at OpenAI and Google](https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google) (VentureBeat)
+- [How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html) (NYTimes)
+- [AI Perfected Chess. Humans Made It Unpredictable Again](https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves) (Bloomberg)
+
 ### March
 
 - [Google commits to video generation, announces Veo 3.1 Lite](https://9to5google.com/2026/03/31/veo-3-1-lite/) (9to5Google)

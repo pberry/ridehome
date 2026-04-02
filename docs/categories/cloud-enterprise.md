@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Cloudflare launches EmDash — the 'spiritual successor' that wants to take on WordPress](https://www.techradar.com/pro/cloudflare-launches-emdash-the-spiritual-successor-that-wants-to-take-on-wordpress) (Tech Radar)
+
 ### March
 
 - [Starcloud raises $170 million Series A to build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/) (TechCrunch)

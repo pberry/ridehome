@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, April 02 2026 - SpaceX Is Ready For IPO Liftoff**
+
+  * [SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals](https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals) (Bloomberg)
+  * [Larry Ellison’s Oracle cuts thousands of jobs after AI push](https://www.thetimes.com/business/technology/article/larry-ellisons-oracle-cuts-thousands-of-jobs-after-ai-push-70d0ht38n) (The Times of London)
+  * [US Job-Cut Announcements in Tech Keep Rising With AI Adoption](https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption) (Bloomberg)
+  * [Cloudflare launches EmDash — the 'spiritual successor' that wants to take on WordPress](https://www.techradar.com/pro/cloudflare-launches-emdash-the-spiritual-successor-that-wants-to-take-on-wordpress) (Tech Radar)
+  * [Alibaba Unveils Third Closed-Source AI Model in Focus on Profit](https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit) (Bloomberg)
+  * [Microsoft launches 3 new AI models in direct shot at OpenAI and Google](https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google) (VentureBeat)
+
+
+
 **Wednesday, April 01 2026 - Anthropic’s Laundry Has Been Aired**
 
   * [OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) (CNBC)
