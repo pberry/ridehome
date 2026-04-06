@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [OpenAI CEO and CFO Diverge on IPO Timing](https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?rc=i9gkgs) (The Information)
 - [SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals](https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals) (Bloomberg)
 - [OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) (CNBC)
 - [OpenAI raises $3bn from retail investors as part of record funding haul](https://www.ft.com/content/89dd9814-e0f3-4464-9a06-58686e85c76e?syn-25a6b1a6=1) (FT)

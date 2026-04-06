@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, April 06 2026 - Ain’t No Drama Like AI Drama**
+
+  * [OpenAI CEO and CFO Diverge on IPO Timing](https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?rc=i9gkgs) (The Information)
+  * [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) (The Verge)
+  * [Samsung Messages will be discontinued in July as part of Google Messages upgrade](https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/) (9to5Google)
+  * [Software job openings surge this year, defying AI fears](https://www.businessinsider.com/ai-isnt-killing-software-coding-jobs-booming-trueup-2026-4) (Business Insider)
+  * [These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7) (WSJ)
+  * [The back story behind the first “$1.8 Billion” dollar “AI Company”](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18) (Marcus on AI)
+
+
+
 **Thursday, April 02 2026 - SpaceX Is Ready For IPO Liftoff**
 
   * [SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals](https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals) (Bloomberg)

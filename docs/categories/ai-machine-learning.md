@@ -9,6 +9,9 @@ layout: category
 
 ### April
 
+- [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) (The Verge)
+- [These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7) (WSJ)
+- [The back story behind the first “$1.8 Billion” dollar “AI Company”](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18) (Marcus on AI)
 - [Larry Ellison’s Oracle cuts thousands of jobs after AI push](https://www.thetimes.com/business/technology/article/larry-ellisons-oracle-cuts-thousands-of-jobs-after-ai-push-70d0ht38n) (The Times of London)
 - [US Job-Cut Announcements in Tech Keep Rising With AI Adoption](https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption) (Bloomberg)
 - [Alibaba Unveils Third Closed-Source AI Model in Focus on Profit](https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit) (Bloomberg)

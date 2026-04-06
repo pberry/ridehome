@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Samsung Messages will be discontinued in July as part of Google Messages upgrade](https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/) (9to5Google)
+- [Software job openings surge this year, defying AI fears](https://www.businessinsider.com/ai-isnt-killing-software-coding-jobs-booming-trueup-2026-4) (Business Insider)
 - [You can finally replace your embarrassing Gmail username](https://www.theverge.com/tech/904005/google-change-gmail-email-address) (The Verge)
 
 ### March
