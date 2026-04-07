@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/) (Filippo Valsorda)
+
 ### March
 
 - [The latest Ray-Ban Meta smart glasses are more customizable and expensive](https://www.engadget.com/wearables/the-latest-ray-ban-meta-smart-glasses-are-more-customizable-and-expensive-130000553.html) (Engadget)

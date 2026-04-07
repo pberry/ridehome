@@ -9,6 +9,10 @@ layout: category
 
 ### April
 
+- [Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom](https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic?sref=Szq5ylDR) (Bloomberg)
+- [Jeff Bezos’s new lab hires xAI co-founder from OpenAI](https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a?syn-25a6b1a6=1) (FT)
+- [How Accurate Are Google’s A.I. Overviews?](https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html) (NYTimes)
+- [Can AI responses be influenced? The SEO industry is trying](https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing) (The Verge)
 - [Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) (The Verge)
 - [These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills](https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7) (WSJ)
 - [The back story behind the first “$1.8 Billion” dollar “AI Company”](https://garymarcus.substack.com/p/the-back-story-behind-the-first-18) (Marcus on AI)

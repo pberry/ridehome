@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, April 07 2026 - Tipping Point In The AI Horse Race?**
+
+  * [Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom](https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic?sref=Szq5ylDR) (Bloomberg)
+  * [Jeff Bezos’s new lab hires xAI co-founder from OpenAI](https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a?syn-25a6b1a6=1) (FT)
+  * [How Accurate Are Google’s A.I. Overviews?](https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html) (NYTimes)
+  * [Can AI responses be influenced? The SEO industry is trying](https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing) (The Verge)
+  * [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/) (Filippo Valsorda)
+
+
+
 **Monday, April 06 2026 - Ain’t No Drama Like AI Drama**
 
   * [OpenAI CEO and CFO Diverge on IPO Timing](https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?rc=i9gkgs) (The Information)

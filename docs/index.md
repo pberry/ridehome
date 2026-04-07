@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, April 06, 2026 - Ain’t No Drama Like AI Drama</h3>
+  <h3>Tuesday, April 07, 2026 - Tipping Point In The AI Horse Race?</h3>
   <ul>
-    <li><a href="https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?rc=i9gkgs">OpenAI CEO and CFO Diverge on IPO Timing</a> (The Information) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban">Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/">Samsung Messages will be discontinued in July as part of Google Messages upgrade</a> (9to5Google) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.businessinsider.com/ai-isnt-killing-software-coding-jobs-booming-trueup-2026-4">Software job openings surge this year, defying AI fears</a> (Business Insider) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/ai-college-dropouts-ecc665b7">These AI Whiz Kids Dropped Out of College and Got Investors to Pay Their Bills</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://garymarcus.substack.com/p/the-back-story-behind-the-first-18">The back story behind the first “$1.8 Billion” dollar “AI Company”</a> (Marcus on AI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic?sref=Szq5ylDR">Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a?syn-25a6b1a6=1">Jeff Bezos’s new lab hires xAI co-founder from OpenAI</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html">How Accurate Are Google’s A.I. Overviews?</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing">Can AI responses be influenced? The SEO industry is trying</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://words.filippo.io/crqc-timeline/">A Cryptography Engineer’s Perspective on Quantum Computing Timelines</a> (Filippo Valsorda) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-06T11:59:02-07:00">April 06, 2026 at 11:59 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-07T12:03:07-07:00">April 07, 2026 at 12:03 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,462</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,467</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,760</span></li>
       </ul>
     </div>
@@ -51,16 +50,16 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(101 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(100 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
