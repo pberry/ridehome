@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) (VentureBeat)
+- [AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro](https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4) (VentureBeat)
 - [Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom](https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic?sref=Szq5ylDR) (Bloomberg)
 - [Jeff Bezos’s new lab hires xAI co-founder from OpenAI](https://www.ft.com/content/e03c235d-8637-41e5-9e63-a872e398897a?syn-25a6b1a6=1) (FT)
 - [How Accurate Are Google’s A.I. Overviews?](https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html) (NYTimes)

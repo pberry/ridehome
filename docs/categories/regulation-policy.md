@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f?st=Q82FFk&reflink=desktopwebshare_permalink) (WSJ)
+
 ### March
 
 - [Iran says it will target US tech companies in Middle East](https://thehill.com/policy/technology/5809104-iran-irgc-apple-microsoft-google-hp-meta-tesla/) (The Hill)

@@ -5,6 +5,14 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, April 08 2026 - Anthropic DOESN’T Release A Model**
+
+  * [Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) (VentureBeat)
+  * [AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro](https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4) (VentureBeat)
+  * [Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f?st=Q82FFk&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Tuesday, April 07 2026 - Tipping Point In The AI Horse Race?**
 
   * [Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom](https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic?sref=Szq5ylDR) (Bloomberg)
