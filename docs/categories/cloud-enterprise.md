@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Amazon’s Starlink competitor Leo gets a new date](https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date) (The Verge)
 - [Cloudflare launches EmDash — the 'spiritual successor' that wants to take on WordPress](https://www.techradar.com/pro/cloudflare-launches-emdash-the-spiritual-successor-that-wants-to-take-on-wordpress) (Tech Radar)
 
 ### March

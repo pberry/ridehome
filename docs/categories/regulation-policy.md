@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Scoop: Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads) (Axios)
+- [Deere settles US right-to-repair lawsuit with $99 million fund, repair commitments](https://www.reuters.com/sustainability/boards-policy-regulation/deere-settles-us-right-to-repair-lawsuit-with-99-million-fund-repair-commitments-2026-04-07/) (Reuters)
 - [Elon Musk Asks for OpenAI’s Nonprofit to Get Any Damages From His Lawsuit](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f?st=Q82FFk&reflink=desktopwebshare_permalink) (WSJ)
 
 ### March

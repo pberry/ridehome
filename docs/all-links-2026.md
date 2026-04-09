@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, April 09 2026 - Meta’s Refreshed AI Play**
+
+  * [Meta releases first AI model since Zuckerberg’s spending spree](https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50?syn-25a6b1a6=1) (FT)
+  * [AI Horserace Thread](https://x.com/emollick/status/2042088011748290750?utm_source=substack&utm_medium=email) (@emollick)
+  * [Anthropic Completes Tender Offer, But Employees Hold Onto Shares](https://www.bloomberg.com/news/articles/2026-04-08/anthropic-completes-tender-offer-but-employees-hold-onto-shares) (Bloomberg)
+  * [OpenAI Forecasts Advertising to Hit $102 billion by 2030](https://www.theinformation.com/articles/openai-forecasts-advertising-hit-102-billion-2030?rc=i9gkgs) (The Information)
+  * [Scoop: Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads) (Axios)
+  * [Amazon’s Starlink competitor Leo gets a new date](https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date) (The Verge)
+  * [Deere settles US right-to-repair lawsuit with $99 million fund, repair commitments](https://www.reuters.com/sustainability/boards-policy-regulation/deere-settles-us-right-to-repair-lawsuit-with-99-million-fund-repair-commitments-2026-04-07/) (Reuters)
+  * [Gen Z Is Using A.I., but Doesn’t Feel Great About It](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html) (NYTimes)
+
+
+
 **Wednesday, April 08 2026 - Anthropic DOESN’T Release A Model**
 
   * [Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) (VentureBeat)

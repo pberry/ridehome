@@ -9,6 +9,10 @@ layout: category
 
 ### April
 
+- [Meta releases first AI model since Zuckerberg’s spending spree](https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50?syn-25a6b1a6=1) (FT)
+- [AI Horserace Thread](https://x.com/emollick/status/2042088011748290750?utm_source=substack&utm_medium=email) (@emollick)
+- [OpenAI Forecasts Advertising to Hit $102 billion by 2030](https://www.theinformation.com/articles/openai-forecasts-advertising-hit-102-billion-2030?rc=i9gkgs) (The Information)
+- [Gen Z Is Using A.I., but Doesn’t Feel Great About It](https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html) (NYTimes)
 - [Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) (VentureBeat)
 - [AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro](https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4) (VentureBeat)
 - [Anthropic Tops $30 Billion Run Rate, Seals Deal With Broadcom](https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic?sref=Szq5ylDR) (Bloomberg)
