@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us) (The Verge)
+
 ### March
 
 - [‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit](https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/) (TechCrunch)

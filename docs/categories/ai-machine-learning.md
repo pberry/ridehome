@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs](https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos) (Bloomberg)
+- [SpaceX Posted Nearly $5 Billion Loss Last Year from AI Spending](https://www.theinformation.com/articles/spacex-posted-nearly-5-billion-loss-last-year-ai-spending?rc=i9gkgs) (The Information)
 - [Meta releases first AI model since Zuckerberg’s spending spree](https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50?syn-25a6b1a6=1) (FT)
 - [AI Horserace Thread](https://x.com/emollick/status/2042088011748290750?utm_source=substack&utm_medium=email) (@emollick)
 - [OpenAI Forecasts Advertising to Hit $102 billion by 2030](https://www.theinformation.com/articles/openai-forecasts-advertising-hit-102-billion-2030?rc=i9gkgs) (The Information)

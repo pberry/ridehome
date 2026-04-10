@@ -3,16 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, April 09, 2026 - Meta’s Refreshed AI Play</h3>
+  <h3>Friday, April 10, 2026 - Taking The Threat Seriously</h3>
   <ul>
-    <li><a href="https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50?syn-25a6b1a6=1">Meta releases first AI model since Zuckerberg’s spending spree</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://x.com/emollick/status/2042088011748290750?utm_source=substack&utm_medium=email">AI Horserace Thread</a> (@emollick) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-08/anthropic-completes-tender-offer-but-employees-hold-onto-shares">Anthropic Completes Tender Offer, But Employees Hold Onto Shares</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.theinformation.com/articles/openai-forecasts-advertising-hit-102-billion-2030?rc=i9gkgs">OpenAI Forecasts Advertising to Hit $102 billion by 2030</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.axios.com/2026/04/09/meta-social-media-addiction-ads">Scoop: Meta removes ads for social media addiction litigation</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date">Amazon’s Starlink competitor Leo gets a new date</a> (The Verge) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/deere-settles-us-right-to-repair-lawsuit-with-99-million-fund-repair-commitments-2026-04-07/">Deere settles US right-to-repair lawsuit with $99 million fund, repair commitments</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html">Gen Z Is Using A.I., but Doesn’t Feel Great About It</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos">Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/">Google rolls out Gmail end-to-end encryption on mobile devices</a> (Bleeping Computer) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://futurism.com/future-society/google-news-polymarket">Google News Now Prominently Featuring Polymarket Bets</a> (Futurism) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/">France to ditch Windows for Linux to reduce reliance on US tech</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us">YouTube Premium is getting pricier</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/">OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters</a> (Wired) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theinformation.com/articles/spacex-posted-nearly-5-billion-loss-last-year-ai-spending?rc=i9gkgs">SpaceX Posted Nearly $5 Billion Loss Last Year from AI Spending</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -38,22 +37,22 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-09T12:06:33-07:00">April 09, 2026 at 12:06 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-10T13:43:39-07:00">April 10, 2026 at 01:43 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,478</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,760</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,485</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,761</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(94 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(95 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
       </ol>
     </div>
@@ -61,9 +60,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(100 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(81 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(84 links)</span></li>
       </ol>
     </div>
   </div>

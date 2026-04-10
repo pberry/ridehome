@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, April 10 2026**
+
+  * [An Internet of Checkpoints](https://longreads.com/2026/02/26/internet-checkpoint-taia777-donkey-kong/) (Longreads)
+
+
+
 **Thursday, April 02 2026**
 
   * [How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company](https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html) (NYTimes)

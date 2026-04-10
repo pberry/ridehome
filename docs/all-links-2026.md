@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, April 10 2026 - Taking The Threat Seriously**
+
+  * [Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs](https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos) (Bloomberg)
+  * [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/) (Bleeping Computer)
+  * [Google News Now Prominently Featuring Polymarket Bets](https://futurism.com/future-society/google-news-polymarket) (Futurism)
+  * [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/) (TechCrunch)
+  * [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us) (The Verge)
+  * [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) (Wired)
+  * [SpaceX Posted Nearly $5 Billion Loss Last Year from AI Spending](https://www.theinformation.com/articles/spacex-posted-nearly-5-billion-loss-last-year-ai-spending?rc=i9gkgs) (The Information)
+
+
+
 **Thursday, April 09 2026 - Meta’s Refreshed AI Play**
 
   * [Meta releases first AI model since Zuckerberg’s spending spree](https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50?syn-25a6b1a6=1) (FT)
