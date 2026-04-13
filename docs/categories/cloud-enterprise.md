@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients](https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html) (CNBC)
 - [Amazon’s Starlink competitor Leo gets a new date](https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date) (The Verge)
 - [Cloudflare launches EmDash — the 'spiritual successor' that wants to take on WordPress](https://www.techradar.com/pro/cloudflare-launches-emdash-the-spiritual-successor-that-wants-to-take-on-wordpress) (Tech Radar)
 

@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Sam Altman's home targeted in second attack; two suspects arrested](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) (SF Standard)
 - [Google News Now Prominently Featuring Polymarket Bets](https://futurism.com/future-society/google-news-polymarket) (Futurism)
 - [Anthropic Completes Tender Offer, But Employees Hold Onto Shares](https://www.bloomberg.com/news/articles/2026-04-08/anthropic-completes-tender-offer-but-employees-hold-onto-shares) (Bloomberg)
 - [Samsung Messages will be discontinued in July as part of Google Messages upgrade](https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/) (9to5Google)

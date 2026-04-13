@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, April 13 2026 - Sam Altman Attacked**
+
+  * [Sam Altman's home targeted in second attack; two suspects arrested](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) (SF Standard)
+  * [Apple AI Smart Glasses Features, Styles, Colors, Cameras; Giannandrea Leaving](https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg) (Bloomberg)
+  * [OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients](https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html) (CNBC)
+  * [AI Is Using So Much Energy That Computing Firepower Is Running Out](https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85?st=Na11yd&reflink=desktopwebshare_permalink) (WSJ)
+  * [Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f) (FT)
+
+
+
 **Friday, April 10 2026 - Taking The Threat Seriously**
 
   * [Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs](https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos) (Bloomberg)

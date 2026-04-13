@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [AI Is Using So Much Energy That Computing Firepower Is Running Out](https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85?st=Na11yd&reflink=desktopwebshare_permalink) (WSJ)
+- [Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f) (FT)
 - [Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs](https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos) (Bloomberg)
 - [SpaceX Posted Nearly $5 Billion Loss Last Year from AI Spending](https://www.theinformation.com/articles/spacex-posted-nearly-5-billion-loss-last-year-ai-spending?rc=i9gkgs) (The Information)
 - [Meta releases first AI model since Zuckerberg’s spending spree](https://www.ft.com/content/0efb912a-8bac-4655-ad6c-7c27d4ebbf50?syn-25a6b1a6=1) (FT)
