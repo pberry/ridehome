@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Google designates "back button hijacking" as malicious, sites could be demoted in Search from June 15](https://9to5google.com/2026/04/13/google-search-back-button-hijacking/) (9to5Google)
+- [Voters in Festus, Missouri oust all four incumbent council members days after council approved a $6B data center](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259) (Politico)
 - [France to ditch Windows for Linux to reduce reliance on US tech](https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/) (TechCrunch)
 - [OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/) (Wired)
 - [An Internet of Checkpoints](https://longreads.com/2026/02/26/internet-checkpoint-taia777-donkey-kong/) (Longreads)

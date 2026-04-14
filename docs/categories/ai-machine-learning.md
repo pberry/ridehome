@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Data labeling startup Handshake's gross annualized revenue hits ~$1B; Mercor also at $1B+ pace](https://www.theinformation.com/articles/handshake-mercor-revenue-surges-demand-human-contractors-train-ai) (The Information)
 - [AI Is Using So Much Energy That Computing Firepower Is Running Out](https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85?st=Na11yd&reflink=desktopwebshare_permalink) (WSJ)
 - [Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f) (FT)
 - [Anthropic Model Scare Sparks Urgent Bessent, Powell Warning to Bank CEOs](https://www.bloomberg.com/news/articles/2026-04-10/anthropic-model-scare-sparks-urgent-bessent-powell-warning-to-bank-ceos) (Bloomberg)

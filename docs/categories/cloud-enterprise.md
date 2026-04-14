@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple) (Amazon)
+- [Amazon to Acquire Globalstar in Satellite Cellular-Connection Push](https://www.wsj.com/tech/amazon-to-acquire-globalstar-in-satellite-cellular-connection-push-448d5a16) (WSJ)
 - [OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients](https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html) (CNBC)
 - [Amazon’s Starlink competitor Leo gets a new date](https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date) (The Verge)
 - [Cloudflare launches EmDash — the 'spiritual successor' that wants to take on WordPress](https://www.techradar.com/pro/cloudflare-launches-emdash-the-spiritual-successor-that-wants-to-take-on-wordpress) (Tech Radar)

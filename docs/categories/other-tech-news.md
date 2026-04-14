@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)
+- [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYT)
 - [Sam Altman's home targeted in second attack; two suspects arrested](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) (SF Standard)
 - [Google News Now Prominently Featuring Polymarket Bets](https://futurism.com/future-society/google-news-polymarket) (Futurism)
 - [Anthropic Completes Tender Offer, But Employees Hold Onto Shares](https://www.bloomberg.com/news/articles/2026-04-08/anthropic-completes-tender-offer-but-employees-hold-onto-shares) (Bloomberg)

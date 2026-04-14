@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, April 14 2026 - Space Race Acquisition**
+
+  * [Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple) (Amazon)
+  * [Amazon to Acquire Globalstar in Satellite Cellular-Connection Push](https://www.wsj.com/tech/amazon-to-acquire-globalstar-in-satellite-cellular-connection-push-448d5a16) (WSJ)
+  * [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)
+  * [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYT)
+  * [OpenAI acquires personal finance startup Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (TechCrunch)
+  * [Google designates "back button hijacking" as malicious, sites could be demoted in Search from June 15](https://9to5google.com/2026/04/13/google-search-back-button-hijacking/) (9to5Google)
+  * [Data labeling startup Handshake's gross annualized revenue hits ~$1B; Mercor also at $1B+ pace](https://www.theinformation.com/articles/handshake-mercor-revenue-surges-demand-human-contractors-train-ai) (The Information)
+  * [Voters in Festus, Missouri oust all four incumbent council members days after council approved a $6B data center](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259) (Politico)
+
+
+
 **Monday, April 13 2026 - Sam Altman Attacked**
 
   * [Sam Altman's home targeted in second attack; two suspects arrested](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) (SF Standard)

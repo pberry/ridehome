@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [OpenAI acquires personal finance startup Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (TechCrunch)
+
 ### March
 
 - [SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake](https://www.bloomberg.com/news/articles/2026-03-06/softbank-seeks-record-loan-of-up-to-40-billion-for-openai-stake) (Bloomberg)
