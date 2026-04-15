@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, April 15 2026 - Our Shoe Company Is Now An AI Company**
+
+  * [Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce](https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability) (Bloomberg)
+  * [Allbirds, sold last week for $39M, says it aims to become an AI compute provider; BIRD jumps 350%+](https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf) (FT)
+  * [OpenAI rolls out GPT-5.4-Cyber, a fine-tuned variant for defensive cybersecurity](https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos) (Bloomberg)
+  * [Google launches a Windows desktop app with a Spotlight-like search box](https://9to5google.com/2026/04/14/google-app-desktop-windows/) (9to5Google)
+  * [Google launches Skills, repeatable AI prompts that Chrome users can run with a keyboard shortcut](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/) (Wired)
+  * [Law firms say lawyers are spending more time responding to AI-generated client documents](https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483) (FT)
+
+
+
 **Tuesday, April 14 2026 - Space Race Acquisition**
 
   * [Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple) (Amazon)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce](https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability) (Bloomberg)
+
 ### February
 
 - [Mark Zuckerberg said he reached out to Apple CEO Tim Cook to discuss ‘wellbeing of teens and kids’](https://www.cnbc.com/2026/02/18/meta-mark-zuckerberg-social-media-safety-trial.html) (CNBC)

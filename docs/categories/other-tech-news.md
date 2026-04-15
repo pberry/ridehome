@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Google launches a Windows desktop app with a Spotlight-like search box](https://9to5google.com/2026/04/14/google-app-desktop-windows/) (9to5Google)
 - [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)
 - [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYT)
 - [Sam Altman's home targeted in second attack; two suspects arrested](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) (SF Standard)

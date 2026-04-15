@@ -9,6 +9,9 @@ layout: category
 
 ### April
 
+- [Allbirds, sold last week for $39M, says it aims to become an AI compute provider; BIRD jumps 350%+](https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf) (FT)
+- [Google launches Skills, repeatable AI prompts that Chrome users can run with a keyboard shortcut](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/) (Wired)
+- [Law firms say lawyers are spending more time responding to AI-generated client documents](https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483) (FT)
 - [Data labeling startup Handshake's gross annualized revenue hits ~$1B; Mercor also at $1B+ pace](https://www.theinformation.com/articles/handshake-mercor-revenue-surges-demand-human-contractors-train-ai) (The Information)
 - [AI Is Using So Much Energy That Computing Firepower Is Running Out](https://www.wsj.com/tech/ai/ai-is-using-so-much-energy-that-computing-firepower-is-running-out-156e5c85?st=Na11yd&reflink=desktopwebshare_permalink) (WSJ)
 - [Meta builds AI version of Mark Zuckerberg to interact with staff](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f) (FT)

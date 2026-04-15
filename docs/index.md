@@ -3,16 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, April 14, 2026 - Space Race Acquisition</h3>
+  <h3>Wednesday, April 15, 2026 - Our Shoe Company Is Now An AI Company</h3>
   <ul>
-    <li><a href="https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple">Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services</a> (Amazon) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.wsj.com/tech/amazon-to-acquire-globalstar-in-satellite-cellular-connection-push-448d5a16">Amazon to Acquire Globalstar in Satellite Cellular-Connection Push</a> (WSJ) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges">US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson</a> (CNN) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html">Man who attacked OpenAI CEO's home had list of other AI executives</a> (NYT) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/">OpenAI acquires personal finance startup Hiro Finance</a> (TechCrunch) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://9to5google.com/2026/04/13/google-search-back-button-hijacking/">Google designates "back button hijacking" as malicious, sites could be demoted in Search from June 15</a> (9to5Google) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theinformation.com/articles/handshake-mercor-revenue-surges-demand-human-contractors-train-ai">Data labeling startup Handshake's gross annualized revenue hits ~$1B; Mercor also at $1B+ pace</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259">Voters in Festus, Missouri oust all four incumbent council members days after council approved a $6B data center</a> (Politico) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability">Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce</a> (Bloomberg) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
+    <li><a href="https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf">Allbirds, sold last week for $39M, says it aims to become an AI compute provider; BIRD jumps 350%+</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos">OpenAI rolls out GPT-5.4-Cyber, a fine-tuned variant for defensive cybersecurity</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://9to5google.com/2026/04/14/google-app-desktop-windows/">Google launches a Windows desktop app with a Spotlight-like search box</a> (9to5Google) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/">Google launches Skills, repeatable AI prompts that Chrome users can run with a keyboard shortcut</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483">Law firms say lawyers are spending more time responding to AI-generated client documents</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -38,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-14T12:15:30-07:00">April 14, 2026 at 12:15 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-15T12:17:28-07:00">April 15, 2026 at 12:17 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,498</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,504</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,761</span></li>
       </ul>
     </div>
@@ -53,8 +51,8 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(90 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
       </ol>
     </div>
 
