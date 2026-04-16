@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Anthropic rolls out identity verification requiring government-issued photo ID and live selfie for "certain capabilities"](https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy) (Decrypt)
 - [OpenAI rolls out GPT-5.4-Cyber, a fine-tuned variant for defensive cybersecurity](https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos) (Bloomberg)
 - [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/) (Bleeping Computer)
 - [Anthropic Races to Contain Leak of Code Behind Claude AI Agent](https://www.wsj.com/tech/ai/anthropic-races-to-contain-leak-of-code-behind-claude-ai-agent-4bc5acc7?st=BQwoMN&reflink=desktopwebshare_permalink) (WSJ)

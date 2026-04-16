@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, April 16 2026 - Claude Opus 4.7**
+
+  * [Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level](https://www.anthropic.com/news/claude-opus-4-7) (Anthropic)
+  * [TSMC CEO C.C. Wei says AI demand still strong amid Iran war, raises revenue forecasts](https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?st=rWfiHB&reflink=desktopwebshare_permalink) (WSJ)
+  * [Anthropic rolls out identity verification requiring government-issued photo ID and live selfie for "certain capabilities"](https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy) (Decrypt)
+  * [X launches Cashtags, showing real-time financial data on stocks and crypto, starting with iOS in the US and Canada](https://www.theblock.co/post/397470/x-rolls-out-cashtags) (The Block)
+  * [Google owns ~5% SpaceX stake; at a $2T IPO valuation, that's worth $100B](https://www.bloomberg.com/news/articles/2026-04-15/alphabet-poised-for-100-billion-windfall-on-spacex-investment) (Bloomberg)
+
+
+
 **Wednesday, April 15 2026 - Our Shoe Company Is Now An AI Company**
 
   * [Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce](https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability) (Bloomberg)

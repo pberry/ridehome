@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, April 15, 2026 - Our Shoe Company Is Now An AI Company</h3>
+  <h3>Thursday, April 16, 2026 - Claude Opus 4.7</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-15/snap-to-cut-16-of-its-workforce-in-quest-for-profitability">Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce</a> (Bloomberg) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
-    <li><a href="https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf">Allbirds, sold last week for $39M, says it aims to become an AI compute provider; BIRD jumps 350%+</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos">OpenAI rolls out GPT-5.4-Cyber, a fine-tuned variant for defensive cybersecurity</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://9to5google.com/2026/04/14/google-app-desktop-windows/">Google launches a Windows desktop app with a Spotlight-like search box</a> (9to5Google) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/">Google launches Skills, repeatable AI prompts that Chrome users can run with a keyboard shortcut</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483">Law firms say lawyers are spending more time responding to AI-generated client documents</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.anthropic.com/news/claude-opus-4-7">Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?st=rWfiHB&reflink=desktopwebshare_permalink">TSMC CEO C.C. Wei says AI demand still strong amid Iran war, raises revenue forecasts</a> (WSJ) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy">Anthropic rolls out identity verification requiring government-issued photo ID and live selfie for "certain capabilities"</a> (Decrypt) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theblock.co/post/397470/x-rolls-out-cashtags">X launches Cashtags, showing real-time financial data on stocks and crypto, starting with iOS in the US and Canada</a> (The Block) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-15/alphabet-poised-for-100-billion-windfall-on-spacex-investment">Google owns ~5% SpaceX stake; at a $2T IPO valuation, that's worth $100B</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-15T12:17:28-07:00">April 15, 2026 at 12:17 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-16T12:13:21-07:00">April 16, 2026 at 12:13 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,504</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,509</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,761</span></li>
       </ul>
     </div>
@@ -50,17 +49,17 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(97 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(85 links)</span></li>
       </ol>
     </div>

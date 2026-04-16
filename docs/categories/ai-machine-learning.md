@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level](https://www.anthropic.com/news/claude-opus-4-7) (Anthropic)
 - [Allbirds, sold last week for $39M, says it aims to become an AI compute provider; BIRD jumps 350%+](https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf) (FT)
 - [Google launches Skills, repeatable AI prompts that Chrome users can run with a keyboard shortcut](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/) (Wired)
 - [Law firms say lawyers are spending more time responding to AI-generated client documents](https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483) (FT)

@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Google owns ~5% SpaceX stake; at a $2T IPO valuation, that's worth $100B](https://www.bloomberg.com/news/articles/2026-04-15/alphabet-poised-for-100-billion-windfall-on-spacex-investment) (Bloomberg)
 - [OpenAI CEO and CFO Diverge on IPO Timing](https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?rc=i9gkgs) (The Information)
 - [SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals](https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals) (Bloomberg)
 - [OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) (CNBC)

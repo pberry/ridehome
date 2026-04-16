@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [X launches Cashtags, showing real-time financial data on stocks and crypto, starting with iOS in the US and Canada](https://www.theblock.co/post/397470/x-rolls-out-cashtags) (The Block)
+
 ### March
 
 - [Crypto.com cuts around 12% of staff as CEO pushes enterprise-wide AI integration](https://www.theblock.co/post/394318/crypto-com-cuts-around-12-of-staff-as-ceo-pushes-ai-integration) (The Block)

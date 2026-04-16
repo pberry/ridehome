@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [TSMC CEO C.C. Wei says AI demand still strong amid Iran war, raises revenue forecasts](https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?st=rWfiHB&reflink=desktopwebshare_permalink) (WSJ)
 - [Apple AI Smart Glasses Features, Styles, Colors, Cameras; Giannandrea Leaving](https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg) (Bloomberg)
 - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/) (Filippo Valsorda)
 
