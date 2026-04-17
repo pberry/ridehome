@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, April 17 2026 - Reed Hastings Rides Into The Sunset**
+
+  * [Netflix reports Q1 revenue up 16% YoY to $12.25B, vs. $12.2B est., net income up 83% YoY to $5.28B, and forecasts Q2 EPS and revenue below est.; NFLX drops 10%+](https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down) (Bloomberg)
+  * [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/) (TechCrunch)
+  * [Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic's effort to resolve its fight with the Pentagon](https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos) (Axios)
+  * [OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more](https://www.zdnet.com/article/openai-codex-desktop-update/) (ZDNet)
+  * [Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B](https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation) (The Information)
+
+
+
 **Thursday, April 16 2026 - Claude Opus 4.7**
 
   * [Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level](https://www.anthropic.com/news/claude-opus-4-7) (Anthropic)

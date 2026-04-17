@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/) (TechCrunch)
+- [OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more](https://www.zdnet.com/article/openai-codex-desktop-update/) (ZDNet)
 - [Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level](https://www.anthropic.com/news/claude-opus-4-7) (Anthropic)
 - [Allbirds, sold last week for $39M, says it aims to become an AI compute provider; BIRD jumps 350%+](https://www.ft.com/content/a4b63cc1-2d1c-44c8-a22a-425cf0efb5cf) (FT)
 - [Google launches Skills, repeatable AI prompts that Chrome users can run with a keyboard shortcut](https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/) (Wired)

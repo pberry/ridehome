@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, April 16, 2026 - Claude Opus 4.7</h3>
+  <h3>Friday, April 17, 2026 - Reed Hastings Rides Into The Sunset</h3>
   <ul>
-    <li><a href="https://www.anthropic.com/news/claude-opus-4-7">Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?st=rWfiHB&reflink=desktopwebshare_permalink">TSMC CEO C.C. Wei says AI demand still strong amid Iran war, raises revenue forecasts</a> (WSJ) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy">Anthropic rolls out identity verification requiring government-issued photo ID and live selfie for "certain capabilities"</a> (Decrypt) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theblock.co/post/397470/x-rolls-out-cashtags">X launches Cashtags, showing real-time financial data on stocks and crypto, starting with iOS in the US and Canada</a> (The Block) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-15/alphabet-poised-for-100-billion-windfall-on-spacex-investment">Google owns ~5% SpaceX stake; at a $2T IPO valuation, that's worth $100B</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down">Netflix reports Q1 revenue up 16% YoY to $12.25B, vs. $12.2B est., net income up 83% YoY to $5.28B, and forecasts Q2 EPS and revenue below est.; NFLX drops 10%+</a> (Bloomberg) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/">Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos">Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic's effort to resolve its fight with the Pentagon</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.zdnet.com/article/openai-codex-desktop-update/">OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more</a> (ZDNet) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation">Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B</a> (The Information) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-16T12:13:21-07:00">April 16, 2026 at 12:13 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-17T12:00:04-07:00">April 17, 2026 at 12:00 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,509</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,514</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,761</span></li>
       </ul>
     </div>
@@ -49,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
       </ol>
@@ -58,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(85 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(86 links)</span></li>
       </ol>
     </div>
   </div>

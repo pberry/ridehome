@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Netflix reports Q1 revenue up 16% YoY to $12.25B, vs. $12.2B est., net income up 83% YoY to $5.28B, and forecasts Q2 EPS and revenue below est.; NFLX drops 10%+](https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down) (Bloomberg)
 - [YouTube Premium is getting pricier](https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us) (The Verge)
 
 ### March

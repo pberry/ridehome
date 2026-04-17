@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B](https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation) (The Information)
 - [Google launches a Windows desktop app with a Spotlight-like search box](https://9to5google.com/2026/04/14/google-app-desktop-windows/) (9to5Google)
 - [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)
 - [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYT)
