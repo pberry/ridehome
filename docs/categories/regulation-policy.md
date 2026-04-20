@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Sources: the US NSA is using Mythos Preview; one source says Mythos is also being widely used within the DoD, despite Anthropic's supply chain risk designation](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon) (Axios)
 - [Sources: Dario Amodei is set to meet with WH Chief of Staff Susie Wiles on Friday, a breakthrough in Anthropic's effort to resolve its fight with the Pentagon](https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos) (Axios)
 - [Google designates "back button hijacking" as malicious, sites could be demoted in Search from June 15](https://9to5google.com/2026/04/13/google-search-back-button-hijacking/) (9to5Google)
 - [Voters in Festus, Missouri oust all four incumbent council members days after council approved a $6B data center](https://www.politico.com/news/2026/04/13/missouri-city-council-data-center-00867259) (Politico)

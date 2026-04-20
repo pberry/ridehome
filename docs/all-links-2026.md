@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, April 20 2026 - Robots Winning The (Literal) Race**
+
+  * [Vercel says its internal systems were accessed after a Vercel employee's Google Workspace account was compromised via a breach at the AI platform Context.ai](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) (BleepingComputer)
+  * [Sources: the US NSA is using Mythos Preview; one source says Mythos is also being widely used within the DoD, despite Anthropic's supply chain risk designation](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon) (Axios)
+  * [Adobe introduces CX Enterprise, an AI agent-based platform that aims to help corporate customers automate digital marketing and other functions](https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c?st=Lwv24N&reflink=desktopwebshare_permalink) (WSJ)
+  * [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=kzo1rF&reflink=desktopwebshare_permalink) (WSJ)
+  * [Deezer says AI-generated tracks now account for 44% of daily uploads, totaling ~75K tracks per day and 2M+ per month, but account for just 1-3% of consumption](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/) (TechCrunch)
+  * [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+](https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4) (FT)
+  * [At the Beijing half-marathon, several humanoid robots beat human winners by 10+ minutes; a robot made by Honor beat the human world record held by Jacob Kiplimo](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/) (Reuters)
+
+
+
 **Friday, April 17 2026 - Reed Hastings Rides Into The Sunset**
 
   * [Netflix reports Q1 revenue up 16% YoY to $12.25B, vs. $12.2B est., net income up 83% YoY to $5.28B, and forecasts Q2 EPS and revenue below est.; NFLX drops 10%+](https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down) (Bloomberg)

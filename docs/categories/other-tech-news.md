@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [At the Beijing half-marathon, several humanoid robots beat human winners by 10+ minutes; a robot made by Honor beat the human world record held by Jacob Kiplimo](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/) (Reuters)
 - [Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B](https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation) (The Information)
 - [Google launches a Windows desktop app with a Spotlight-like search box](https://9to5google.com/2026/04/14/google-app-desktop-windows/) (9to5Google)
 - [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)

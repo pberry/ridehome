@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Adobe introduces CX Enterprise, an AI agent-based platform that aims to help corporate customers automate digital marketing and other functions](https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c?st=Lwv24N&reflink=desktopwebshare_permalink) (WSJ)
+- [Sources: Recursive Superintelligence, a four-month-old start-up developing self-teaching AI and founded by ex-DeepMind and OpenAI engineers, has raised $500M+](https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4) (FT)
 - [Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude](https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/) (TechCrunch)
 - [OpenAI updates its Codex desktop app with features like computer control, an in-app browser, image generation, automation memory, plugin support, and more](https://www.zdnet.com/article/openai-codex-desktop-update/) (ZDNet)
 - [Anthropic releases Claude Opus 4.7, a "notable improvement" in advanced software engineering with a new "xhigh" effort level](https://www.anthropic.com/news/claude-opus-4-7) (Anthropic)
