@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, April 21 2026 - Tim Cook Rides Into The Sunset**
+
+  * [John Ternus, senior VP of Hardware Engineering, will become Apple's next CEO on September 1; Tim Cook will become executive chairman of Apple's board](https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html) (CNBC)
+  * [Amazon agrees to invest up to $25B in Anthropic, on top of the $8B that it has already invested; Anthropic commits to spend $100B+ on AWS over the next 10 years](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html) (CNBC)
+  * [Sources: Jeff Bezos' Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded) (FT)
+  * [Draft of SpaceX's confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees](https://www.theinformation.com/articles/musk-bought-1-4-billion-spacex-shares-helping-boost-control) (The Information)
+
+
+
 **Monday, April 20 2026 - Robots Winning The (Literal) Race**
 
   * [Vercel says its internal systems were accessed after a Vercel employee's Google Workspace account was compromised via a breach at the AI platform Context.ai](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) (BleepingComputer)

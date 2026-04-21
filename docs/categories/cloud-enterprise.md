@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Amazon agrees to invest up to $25B in Anthropic, on top of the $8B that it has already invested; Anthropic commits to spend $100B+ on AWS over the next 10 years](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html) (CNBC)
 - [Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple) (Amazon)
 - [Amazon to Acquire Globalstar in Satellite Cellular-Connection Push](https://www.wsj.com/tech/amazon-to-acquire-globalstar-in-satellite-cellular-connection-push-448d5a16) (WSJ)
 - [OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients](https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html) (CNBC)

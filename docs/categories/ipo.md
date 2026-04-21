@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Draft of SpaceX's confidential IPO prospectus: Elon Musk increased his stake in SpaceX last year by purchasing $1.4B of stock from current and former employees](https://www.theinformation.com/articles/musk-bought-1-4-billion-spacex-shares-helping-boost-control) (The Information)
 - [Google owns ~5% SpaceX stake; at a $2T IPO valuation, that's worth $100B](https://www.bloomberg.com/news/articles/2026-04-15/alphabet-poised-for-100-billion-windfall-on-spacex-investment) (Bloomberg)
 - [OpenAI CEO and CFO Diverge on IPO Timing](https://www.theinformation.com/articles/openai-ceo-cfo-diverge-ipo-timing?rc=i9gkgs) (The Information)
 - [SpaceX Has Filed Confidentially for IPO Ahead of AI Rivals](https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals) (Bloomberg)
