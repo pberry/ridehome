@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026](https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai) (Bloomberg)
 - [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=kzo1rF&reflink=desktopwebshare_permalink) (WSJ)
 - [TSMC CEO C.C. Wei says AI demand still strong amid Iran war, raises revenue forecasts](https://www.wsj.com/business/earnings/tsmc-posts-profit-beat-despite-middle-east-conflict-f0505d7c?st=rWfiHB&reflink=desktopwebshare_permalink) (WSJ)
 - [Apple AI Smart Glasses Features, Styles, Colors, Cameras; Giannandrea Leaving](https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg) (Bloomberg)

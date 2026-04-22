@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) (Bloomberg)
+- [Meta is installing tracking software on US staffers' computers to capture mouse movements, clicks, and keystrokes in work-related apps for use in AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) (Reuters)
 - [Vercel says its internal systems were accessed after a Vercel employee's Google Workspace account was compromised via a breach at the AI platform Context.ai](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) (BleepingComputer)
 - [Anthropic rolls out identity verification requiring government-issued photo ID and live selfie for "certain capabilities"](https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy) (Decrypt)
 - [OpenAI rolls out GPT-5.4-Cyber, a fine-tuned variant for defensive cybersecurity](https://www.bloomberg.com/news/articles/2026-04-14/openai-releases-cyber-model-to-limited-group-in-race-with-mythos) (Bloomberg)

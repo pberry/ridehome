@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, April 22 2026 - Elon Buys Cursor?**
+
+  * [SpaceX says it's working with Cursor to build "the world's most useful models" and it has the right to acquire Cursor for $60B or pay $10B for the partnership](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html?unlocked_article_code=1.clA.qirG.9HPgrkyVuROh&smid=url-share) (NYT)
+  * [Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026](https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai) (Bloomberg)
+  * [OpenAI releases ChatGPT Images 2.0 with new "thinking capabilities", allowing it to search the web to help it create multiple images from a single prompt](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2) (The Verge)
+  * [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) (Bloomberg)
+  * [Meta is installing tracking software on US staffers' computers to capture mouse movements, clicks, and keystrokes in work-related apps for use in AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) (Reuters)
+
+
+
 **Tuesday, April 21 2026 - Tim Cook Rides Into The Sunset**
 
   * [John Ternus, senior VP of Hardware Engineering, will become Apple's next CEO on September 1; Tim Cook will become executive chairman of Apple's board](https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html) (CNBC)
