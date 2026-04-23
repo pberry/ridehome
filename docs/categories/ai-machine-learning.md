@@ -9,6 +9,9 @@ layout: category
 
 ### April
 
+- [Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity](https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html) (CNBC)
+- [Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B](https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026) (Business Insider)
+- [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others](https://www.ft.com/content/0873e3cb-cb02-4b47-941f-14da74149670) (FT)
 - [SpaceX says it's working with Cursor to build "the world's most useful models" and it has the right to acquire Cursor for $60B or pay $10B for the partnership](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html?unlocked_article_code=1.clA.qirG.9HPgrkyVuROh&smid=url-share) (NYT)
 - [OpenAI releases ChatGPT Images 2.0 with new "thinking capabilities", allowing it to search the web to help it create multiple images from a single prompt](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2) (The Verge)
 - [Adobe introduces CX Enterprise, an AI agent-based platform that aims to help corporate customers automate digital marketing and other functions](https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c?st=Lwv24N&reflink=desktopwebshare_permalink) (WSJ)

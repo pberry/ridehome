@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, April 23 2026 - Another DeepSeek Moment On The Horizon?**
+
+  * [Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity](https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html) (CNBC)
+  * [Microsoft announces the first voluntary retirement program in its 50-year history, for US staffers whose combined years of service added to their age totals 70+](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes) (The Verge)
+  * [Kalshi suspends and fines congressional candidates Mark Moran of Virginia, Matt Klein of Minnesota, and Ezekiel Enriquez of Texas for political insider trading](https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html) (CNBC)
+  * [Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B](https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026) (Business Insider)
+  * [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others](https://www.ft.com/content/0873e3cb-cb02-4b47-941f-14da74149670) (FT)
+  * [SpaceX's S-1 excerpts list "manufacturing our own GPUs" among the "substantial capital expenditures" it is undertaking, with the size of the expenditure TBD](https://www.reuters.com/business/autos-transportation/spacex-targets-in-house-gpus-it-warns-investors-chip-supply-costs-2026-04-23/) (Reuters)
+  * [Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks](https://www.billboard.com/business/streaming/spotify-most-streamed-artists-songs-albums-swift-bad-bunny-1236229726/) (Billboard)
+
+
+
 **Wednesday, April 22 2026 - Elon Buys Cursor?**
 
   * [SpaceX says it's working with Cursor to build "the world's most useful models" and it has the right to acquire Cursor for $60B or pay $10B for the partnership](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html?unlocked_article_code=1.clA.qirG.9HPgrkyVuROh&smid=url-share) (NYT)

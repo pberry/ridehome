@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, April 22, 2026 - Elon Buys Cursor?</h3>
+  <h3>Thursday, April 23, 2026 - Another DeepSeek Moment On The Horizon?</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html?unlocked_article_code=1.clA.qirG.9HPgrkyVuROh&smid=url-share">SpaceX says it's working with Cursor to build "the world's most useful models" and it has the right to acquire Cursor for $60B or pay $10B for the partnership</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai">Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2">OpenAI releases ChatGPT Images 2.0 with new "thinking capabilities", allowing it to search the web to help it create multiple images from a single prompt</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users">Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">Meta is installing tracking software on US staffers' computers to capture mouse movements, clicks, and keystrokes in work-related apps for use in AI training</a> (Reuters) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html">Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes">Microsoft announces the first voluntary retirement program in its 50-year history, for US staffers whose combined years of service added to their age totals 70+</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html">Kalshi suspends and fines congressional candidates Mark Moran of Virginia, Matt Klein of Minnesota, and Ezekiel Enriquez of Texas for political insider trading</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026">Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/0873e3cb-cb02-4b47-941f-14da74149670">A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/autos-transportation/spacex-targets-in-house-gpus-it-warns-investors-chip-supply-costs-2026-04-23/">SpaceX's S-1 excerpts list "manufacturing our own GPUs" among the "substantial capital expenditures" it is undertaking, with the size of the expenditure TBD</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.billboard.com/business/streaming/spotify-most-streamed-artists-songs-albums-swift-bad-bunny-1236229726/">Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks</a> (Billboard) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -35,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-22T13:02:10-07:00">April 22, 2026 at 01:02 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-23T12:07:13-07:00">April 23, 2026 at 12:07 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,530</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,537</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,761</span></li>
       </ul>
     </div>
@@ -50,7 +52,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(87 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(88 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
       </ol>
     </div>
@@ -58,9 +60,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(95 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(87 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
       </ol>
     </div>
   </div>

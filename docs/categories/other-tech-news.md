@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Microsoft announces the first voluntary retirement program in its 50-year history, for US staffers whose combined years of service added to their age totals 70+](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes) (The Verge)
 - [John Ternus, senior VP of Hardware Engineering, will become Apple's next CEO on September 1; Tim Cook will become executive chairman of Apple's board](https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html) (CNBC)
 - [Sources: Jeff Bezos' Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded) (FT)
 - [At the Beijing half-marathon, several humanoid robots beat human winners by 10+ minutes; a robot made by Honor beat the human world record held by Jacob Kiplimo](https://www.reuters.com/sports/humanoid-robots-race-past-humans-beijing-half-marathon-showing-rapid-advances-2026-04-19/) (Reuters)
