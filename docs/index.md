@@ -3,15 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, April 23, 2026 - Another DeepSeek Moment On The Horizon?</h3>
+  <h3>Friday, April 24, 2026 - All The Headlines, All The Model Drops...</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html">Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes">Microsoft announces the first voluntary retirement program in its 50-year history, for US staffers whose combined years of service added to their age totals 70+</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html">Kalshi suspends and fines congressional candidates Mark Moran of Virginia, Matt Klein of Minnesota, and Ezekiel Enriquez of Texas for political insider trading</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026">Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ft.com/content/0873e3cb-cb02-4b47-941f-14da74149670">A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/business/autos-transportation/spacex-targets-in-house-gpus-it-warns-investors-chip-supply-costs-2026-04-23/">SpaceX's S-1 excerpts list "manufacturing our own GPUs" among the "substantial capital expenditures" it is undertaking, with the size of the expenditure TBD</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.billboard.com/business/streaming/spotify-most-streamed-artists-songs-albums-swift-bad-bunny-1236229726/">Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks</a> (Billboard) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough">DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://simonwillison.net/2026/Apr/24/deepseek-v4/">Simon Willison's comparison chart of DeepSeek V4 pricing vs. US frontier models</a> (Simon Willison) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://openai.com/index/introducing-gpt-5-5/">OpenAI says "GPT-5.5 matches GPT-5.4 per-token latency in real-world serving", performs "at a much higher level of intelligence", and is more capable for Codex</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency">Meta plans to cut 10% of its employees, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, trying to boost efficiency and offset its heavy AI spending</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic">Google plans to invest up to $40B in Anthropic: $10B now at a $350B valuation, with another $30B if Anthropic hits performance targets</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -37,22 +35,22 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-23T12:07:13-07:00">April 23, 2026 at 12:07 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-24T11:52:10-07:00">April 24, 2026 at 11:52 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,537</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,761</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,542</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(88 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(110 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
       </ol>
     </div>
@@ -60,7 +58,7 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
       </ol>

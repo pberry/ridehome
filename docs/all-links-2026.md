@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, April 24 2026 - All The Headlines, All The Model Drops...**
+
+  * [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months](https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough) (Bloomberg)
+  * [Simon Willison's comparison chart of DeepSeek V4 pricing vs. US frontier models](https://simonwillison.net/2026/Apr/24/deepseek-v4/) (Simon Willison)
+  * [OpenAI says "GPT-5.5 matches GPT-5.4 per-token latency in real-world serving", performs "at a much higher level of intelligence", and is more capable for Codex](https://openai.com/index/introducing-gpt-5-5/) (OpenAI)
+  * [Meta plans to cut 10% of its employees, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, trying to boost efficiency and offset its heavy AI spending](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) (Bloomberg)
+  * [Google plans to invest up to $40B in Anthropic: $10B now at a $350B valuation, with another $30B if Anthropic hits performance targets](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) (Bloomberg)
+
+
+
 **Thursday, April 23 2026 - Another DeepSeek Moment On The Horizon?**
 
   * [Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity](https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html) (CNBC)

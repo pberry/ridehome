@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Meta plans to cut 10% of its employees, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, trying to boost efficiency and offset its heavy AI spending](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) (Bloomberg)
 - [Microsoft announces the first voluntary retirement program in its 50-year history, for US staffers whose combined years of service added to their age totals 70+](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes) (The Verge)
 - [John Ternus, senior VP of Hardware Engineering, will become Apple's next CEO on September 1; Tim Cook will become executive chairman of Apple's board](https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html) (CNBC)
 - [Sources: Jeff Bezos' Project Prometheus is close to a $10B fundraising deal, which includes an initial $6.2B raise in November, at a $38B post-money valuation](https://www.ft.com/content/87ea0ced-bf3c-4822-8dda-437241570ded) (FT)

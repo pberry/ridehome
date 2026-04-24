@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, April 24 2026**
+
+  * [A look at the AI nonprofit METR, maker of maybe the most important AI benchmark, whose time-horizon metrics are used by researchers and Wall Street to track AI development](https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html?unlocked_article_code=1.blA.Nhaq.ypciUWbNtpvz&smid=url-share) (NYT)
+  * [The Infinite Machine Olto e-bike review: a more elegant solution for trips too long to walk but too short to drive](https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review) (The Verge)
+
+
+
 **Friday, April 10 2026**
 
   * [An Internet of Checkpoints](https://longreads.com/2026/02/26/internet-checkpoint-taia777-donkey-kong/) (Longreads)

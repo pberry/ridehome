@@ -9,6 +9,11 @@ layout: category
 
 ### April
 
+- [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months](https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough) (Bloomberg)
+- [Simon Willison's comparison chart of DeepSeek V4 pricing vs. US frontier models](https://simonwillison.net/2026/Apr/24/deepseek-v4/) (Simon Willison)
+- [OpenAI says "GPT-5.5 matches GPT-5.4 per-token latency in real-world serving", performs "at a much higher level of intelligence", and is more capable for Codex](https://openai.com/index/introducing-gpt-5-5/) (OpenAI)
+- [Google plans to invest up to $40B in Anthropic: $10B now at a $350B valuation, with another $30B if Anthropic hits performance targets](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) (Bloomberg)
+- [A look at the AI nonprofit METR, maker of maybe the most important AI benchmark, whose time-horizon metrics are used by researchers and Wall Street to track AI development](https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html?unlocked_article_code=1.blA.Nhaq.ypciUWbNtpvz&smid=url-share) (NYT)
 - [Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity](https://www.cnbc.com/2026/04/22/microsoft-looked-at-buying-cursor-before-spacex-deal-sources-say.html) (CNBC)
 - [Anthropic's valuation has hit $1T on Forge Global, a leading private marketplace exchange, surpassing OpenAI's valuation on the platform of $880B](https://www.businessinsider.com/anthropic-trillion-dollar-valuation-on-secondary-markets-2026) (Business Insider)
 - [A poll of 4,000 workers in the US and the UK finds that the highest-earning and most experienced workers are adopting AI in their jobs far faster than others](https://www.ft.com/content/0873e3cb-cb02-4b47-941f-14da74149670) (FT)

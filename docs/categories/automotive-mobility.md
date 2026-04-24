@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [The Infinite Machine Olto e-bike review: a more elegant solution for trips too long to walk but too short to drive](https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review) (The Verge)
 - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/) (Wired)
 
 ### March
