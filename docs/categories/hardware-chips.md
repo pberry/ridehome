@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028](https://x.com/mingchikuo/status/2048587389791269182) (Ming)
 - [SpaceX's S-1 excerpts list "manufacturing our own GPUs" among the "substantial capital expenditures" it is undertaking, with the size of the expenditure TBD](https://www.reuters.com/business/autos-transportation/spacex-targets-in-house-gpus-it-warns-investors-chip-supply-costs-2026-04-23/) (Reuters)
 - [Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026](https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai) (Bloomberg)
 - [Some Mac Mini and Mac Studio models are unavailable or facing up to 12-week wait times in the US, with analysts citing strong demand from AI agent power users](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=kzo1rF&reflink=desktopwebshare_permalink) (WSJ)

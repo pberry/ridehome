@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) (FT)
+- [Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees](http://anthropic.com/features/project-deal) (Anthropic)
 - [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months](https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough) (Bloomberg)
 - [Simon Willison's comparison chart of DeepSeek V4 pricing vs. US frontier models](https://simonwillison.net/2026/Apr/24/deepseek-v4/) (Simon Willison)
 - [OpenAI says "GPT-5.5 matches GPT-5.4 per-token latency in real-world serving", performs "at a much higher level of intelligence", and is more capable for Codex](https://openai.com/index/introducing-gpt-5-5/) (OpenAI)

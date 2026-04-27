@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, April 27 2026 - Meta Needs To Rethink Manus**
+
+  * [China blocks Meta's $2B Manus acquisition, after reviewing whether it violated investment rules, and tells both to cancel it; Manus moved to Singapore in 2025](https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f) (FT)
+  * [Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028](https://x.com/mingchikuo/status/2048587389791269182) (Ming)
+  * [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) (FT)
+  * [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024](https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees) (The Information)
+  * [Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees](http://anthropic.com/features/project-deal) (Anthropic)
+
+
+
 **Friday, April 24 2026 - All The Headlines, All The Model Drops...**
 
   * [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months](https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough) (Bloomberg)

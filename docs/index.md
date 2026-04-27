@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, April 24, 2026 - All The Headlines, All The Model Drops...</h3>
+  <h3>Monday, April 27, 2026 - Meta Needs To Rethink Manus</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough">DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://simonwillison.net/2026/Apr/24/deepseek-v4/">Simon Willison's comparison chart of DeepSeek V4 pricing vs. US frontier models</a> (Simon Willison) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://openai.com/index/introducing-gpt-5-5/">OpenAI says "GPT-5.5 matches GPT-5.4 per-token latency in real-world serving", performs "at a much higher level of intelligence", and is more capable for Codex</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency">Meta plans to cut 10% of its employees, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, trying to boost efficiency and offset its heavy AI spending</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic">Google plans to invest up to $40B in Anthropic: $10B now at a $350B valuation, with another $30B if Anthropic hits performance targets</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f">China blocks Meta's $2B Manus acquisition, after reviewing whether it violated investment rules, and tells both to cancel it; Manus moved to Singapore in 2025</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://x.com/mingchikuo/status/2048587389791269182">Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028</a> (Ming) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c">Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees">Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024</a> (The Information) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="http://anthropic.com/features/project-deal">Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-24T11:52:10-07:00">April 24, 2026 at 11:52 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-27T12:20:55-07:00">April 27, 2026 at 12:20 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,542</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,547</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -49,16 +49,16 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(110 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(89 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(86 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
       </ol>
