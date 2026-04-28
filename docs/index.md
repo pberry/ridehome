@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, April 27, 2026 - Meta Needs To Rethink Manus</h3>
+  <h3>Tuesday, April 28, 2026 - Musk V. Altman</h3>
   <ul>
-    <li><a href="https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f">China blocks Meta's $2B Manus acquisition, after reviewing whether it violated investment rules, and tells both to cancel it; Manus moved to Singapore in 2025</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://x.com/mingchikuo/status/2048587389791269182">Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028</a> (Ming) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c">Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees">Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024</a> (The Information) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="http://anthropic.com/features/project-deal">Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html">A US judge seated a nine-person jury in the Musk v. Altman trial at a federal courthouse in California; Sam Altman and Greg Brockman were in attendance</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://openai.com/index/next-phase-of-microsoft-partnership">Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI</a> (OpenAI) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=AiGMqm&reflink=desktopwebshare_permalink">Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025's end, and missed multiple monthly revenue targets earlier in 2026</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search">Google launches Ask YouTube, a conversational AI search "experiment" that generates pages with videos and text summaries, for Premium users in the US aged 18+</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/">Bloomberg CTO Shawn Edwards says the company is overhauling Terminal with a new chatbot-style interface called ASKB, currently open to ~125K users in beta</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68?st=eRYgVV&reflink=desktopwebshare_permalink">Layoffs.fyi: companies announced layoffs affecting 45,800 tech employees in March, making it the worst month for reported tech job cuts in at least two years</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/">An analysis of Internet Archive data: by mid-2025, ~35% of new websites published since ChatGPT's launch in November 2022 were AI-generated or AI-assisted</a> (404 Media) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-27T12:20:55-07:00">April 27, 2026 at 12:20 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-28T12:40:54-07:00">April 28, 2026 at 12:40 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,547</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,554</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -49,18 +51,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(86 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(89 links)</span></li>
       </ol>
     </div>
   </div>

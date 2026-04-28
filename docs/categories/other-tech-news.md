@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025's end, and missed multiple monthly revenue targets earlier in 2026](https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=AiGMqm&reflink=desktopwebshare_permalink) (WSJ)
+- [Layoffs.fyi: companies announced layoffs affecting 45,800 tech employees in March, making it the worst month for reported tech job cuts in at least two years](https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68?st=eRYgVV&reflink=desktopwebshare_permalink) (WSJ)
 - [Meta plans to cut 10% of its employees, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, trying to boost efficiency and offset its heavy AI spending](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) (Bloomberg)
 - [Microsoft announces the first voluntary retirement program in its 50-year history, for US staffers whose combined years of service added to their age totals 70+](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes) (The Verge)
 - [John Ternus, senior VP of Hardware Engineering, will become Apple's next CEO on September 1; Tim Cook will become executive chairman of Apple's board](https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html) (CNBC)

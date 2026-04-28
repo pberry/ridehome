@@ -9,6 +9,9 @@ layout: category
 
 ### April
 
+- [Google launches Ask YouTube, a conversational AI search "experiment" that generates pages with videos and text summaries, for Premium users in the US aged 18+](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search) (The Verge)
+- [Bloomberg CTO Shawn Edwards says the company is overhauling Terminal with a new chatbot-style interface called ASKB, currently open to ~125K users in beta](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/) (Wired)
+- [An analysis of Internet Archive data: by mid-2025, ~35% of new websites published since ChatGPT's launch in November 2022 were AI-generated or AI-assisted](https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/) (404 Media)
 - [Epoch AI: Google controls ~25% of global AI compute, with ~3.8M TPUs and 1.3M GPUs; Google Cloud CEO Thomas Kurian says demand and revenue justify the spend](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c) (FT)
 - [Anthropic details Project Deal, a marketplace experiment where Claude models bought, sold, and negotiated personal belongings on behalf of Anthropic employees](http://anthropic.com/features/project-deal) (Anthropic)
 - [DeepSeek releases its new flagship models V4 Pro and V4 Flash in preview, saying V4 Pro trails the performance of state-of-the-art models by about 3 to 6 months](https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough) (Bloomberg)

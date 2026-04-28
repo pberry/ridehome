@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership) (OpenAI)
 - [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024](https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees) (The Information)
 - [Amazon agrees to invest up to $25B in Anthropic, on top of the $8B that it has already invested; Anthropic commits to spend $100B+ on AWS over the next 10 years](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html) (CNBC)
 - [Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple) (Amazon)

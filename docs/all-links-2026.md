@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, April 28 2026 - Musk V. Altman**
+
+  * [A US judge seated a nine-person jury in the Musk v. Altman trial at a federal courthouse in California; Sam Altman and Greg Brockman were in attendance](https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html) (CNBC)
+  * [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership) (OpenAI)
+  * [Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025's end, and missed multiple monthly revenue targets earlier in 2026](https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=AiGMqm&reflink=desktopwebshare_permalink) (WSJ)
+  * [Google launches Ask YouTube, a conversational AI search "experiment" that generates pages with videos and text summaries, for Premium users in the US aged 18+](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search) (The Verge)
+  * [Bloomberg CTO Shawn Edwards says the company is overhauling Terminal with a new chatbot-style interface called ASKB, currently open to ~125K users in beta](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/) (Wired)
+  * [Layoffs.fyi: companies announced layoffs affecting 45,800 tech employees in March, making it the worst month for reported tech job cuts in at least two years](https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68?st=eRYgVV&reflink=desktopwebshare_permalink) (WSJ)
+  * [An analysis of Internet Archive data: by mid-2025, ~35% of new websites published since ChatGPT's launch in November 2022 were AI-generated or AI-assisted](https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/) (404 Media)
+
+
+
 **Monday, April 27 2026 - Meta Needs To Rethink Manus**
 
   * [China blocks Meta's $2B Manus acquisition, after reviewing whether it violated investment rules, and tells both to cancel it; Manus moved to Singapore in 2025](https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f) (FT)

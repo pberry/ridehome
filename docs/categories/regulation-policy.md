@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [A US judge seated a nine-person jury in the Musk v. Altman trial at a federal courthouse in California; Sam Altman and Greg Brockman were in attendance](https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html) (CNBC)
 - [China blocks Meta's $2B Manus acquisition, after reviewing whether it violated investment rules, and tells both to cancel it; Manus moved to Singapore in 2025](https://www.ft.com/content/1e4c269a-5258-406c-a308-e55c3d5d640f) (FT)
 - [Kalshi suspends and fines congressional candidates Mark Moran of Virginia, Matt Klein of Minnesota, and Ezekiel Enriquez of Texas for political insider trading](https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html) (CNBC)
 - [Sources: the US NSA is using Mythos Preview; one source says Mythos is also being widely used within the DoD, despite Anthropic's supply chain risk designation](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon) (Axios)
