@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, April 29 2026 - Elon V. Sam Day 2**
+
+  * [The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services](https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up) (Bloomberg)
+  * [YouTube rolls out Full Multiview Customization to YouTube TV, letting users pin up to four live streams in a window, after debuting a limited version in 2023](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel) (The Verge)
+  * [Sources: OpenAI has, in practice, abandoned its Stargate JV in favor of large bilateral deals; execs say its guiding principle remains to "build more compute"](https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89) (FT)
+  * [Sources: China suspends issuing Level 4 autonomous vehicle licenses, after 100+ of Baidu's Apollo Go robotaxis stalled and disrupted traffic in Wuhan in March](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage) (Bloomberg)
+  * [OpenAI's Codex instruction set contains a line, repeated several times, that forbids Codex from randomly mentioning goblins, gremlins, and other creatures](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/) (Wired)
+  * [Musk v. Altman: Musk testifies he's suing OpenAI because "it is not okay to steal a charity" and its pivot sets a concerning precedent for philanthropic efforts](https://www.bloomberg.com/news/articles/2026-04-28/musk-lawyer-says-altman-made-mockery-of-openai-public-mission) (Bloomberg)
+
+
+
 **Tuesday, April 28 2026 - Musk V. Altman**
 
   * [A US judge seated a nine-person jury in the Musk v. Altman trial at a federal courthouse in California; Sam Altman and Greg Brockman were in attendance](https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html) (CNBC)

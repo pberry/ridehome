@@ -3,15 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, April 28, 2026 - Musk V. Altman</h3>
+  <h3>Wednesday, April 29, 2026 - Elon V. Sam Day 2</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/04/27/musk-altman-trial-openai-jury-selection.html">A US judge seated a nine-person jury in the Musk v. Altman trial at a federal courthouse in California; Sam Altman and Greg Brockman were in attendance</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://openai.com/index/next-phase-of-microsoft-partnership">Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI</a> (OpenAI) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=AiGMqm&reflink=desktopwebshare_permalink">Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025's end, and missed multiple monthly revenue targets earlier in 2026</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search">Google launches Ask YouTube, a conversational AI search "experiment" that generates pages with videos and text summaries, for Premium users in the US aged 18+</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/">Bloomberg CTO Shawn Edwards says the company is overhauling Terminal with a new chatbot-style interface called ASKB, currently open to ~125K users in beta</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68?st=eRYgVV&reflink=desktopwebshare_permalink">Layoffs.fyi: companies announced layoffs affecting 45,800 tech employees in March, making it the worst month for reported tech job cuts in at least two years</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/">An analysis of Internet Archive data: by mid-2025, ~35% of new websites published since ChatGPT's launch in November 2022 were AI-generated or AI-assisted</a> (404 Media) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up">The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel">YouTube rolls out Full Multiview Customization to YouTube TV, letting users pin up to four live streams in a window, after debuting a limited version in 2023</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89">Sources: OpenAI has, in practice, abandoned its Stargate JV in favor of large bilateral deals; execs say its guiding principle remains to "build more compute"</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage">Sources: China suspends issuing Level 4 autonomous vehicle licenses, after 100+ of Baidu's Apollo Go robotaxis stalled and disrupted traffic in Wuhan in March</a> (Bloomberg) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/">OpenAI's Codex instruction set contains a line, repeated several times, that forbids Codex from randomly mentioning goblins, gremlins, and other creatures</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-04-28/musk-lawyer-says-altman-made-mockery-of-openai-public-mission">Musk v. Altman: Musk testifies he's suing OpenAI because "it is not okay to steal a charity" and its pivot sets a concerning precedent for philanthropic efforts</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -37,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-04-28T12:40:54-07:00">April 28, 2026 at 12:40 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-04-29T12:24:50-07:00">April 29, 2026 at 12:24 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,554</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,560</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -51,8 +50,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(86 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(85 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(81 links)</span></li>
       </ol>
     </div>
@@ -60,9 +59,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(89 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(95 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(91 links)</span></li>
       </ol>
     </div>
   </div>

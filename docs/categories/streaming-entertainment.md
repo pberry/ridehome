@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [YouTube rolls out Full Multiview Customization to YouTube TV, letting users pin up to four live streams in a window, after debuting a limited version in 2023](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel) (The Verge)
 - [Spotify celebrates its 20th anniversary with a first-ever list of its 20 most streamed artists, albums, songs, podcasts, and audiobooks](https://www.billboard.com/business/streaming/spotify-most-streamed-artists-songs-albums-swift-bad-bunny-1236229726/) (Billboard)
 - [Deezer says AI-generated tracks now account for 44% of daily uploads, totaling ~75K tracks per day and 2M+ per month, but account for just 1-3% of consumption](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/) (TechCrunch)
 - [Netflix reports Q1 revenue up 16% YoY to $12.25B, vs. $12.2B est., net income up 83% YoY to $5.28B, and forecasts Q2 EPS and revenue below est.; NFLX drops 10%+](https://www.bloomberg.com/news/articles/2026-04-16/netflix-revenue-beats-estimates-as-hastings-steps-down) (Bloomberg)

@@ -9,6 +9,7 @@ layout: category
 
 ### April
 
+- [Sources: China suspends issuing Level 4 autonomous vehicle licenses, after 100+ of Baidu's Apollo Go robotaxis stalled and disrupted traffic in Wuhan in March](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage) (Bloomberg)
 - [The Infinite Machine Olto e-bike review: a more elegant solution for trips too long to walk but too short to drive](https://www.theverge.com/transportation/913008/infinite-machine-olto-ebike-review) (The Verge)
 - [Robotaxi Outage in China Leaves Passengers Stranded on Highways](https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/) (Wired)
 

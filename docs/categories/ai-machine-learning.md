@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Sources: OpenAI has, in practice, abandoned its Stargate JV in favor of large bilateral deals; execs say its guiding principle remains to "build more compute"](https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89) (FT)
+- [OpenAI's Codex instruction set contains a line, repeated several times, that forbids Codex from randomly mentioning goblins, gremlins, and other creatures](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/) (Wired)
 - [Google launches Ask YouTube, a conversational AI search "experiment" that generates pages with videos and text summaries, for Premium users in the US aged 18+](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search) (The Verge)
 - [Bloomberg CTO Shawn Edwards says the company is overhauling Terminal with a new chatbot-style interface called ASKB, currently open to ~125K users in beta](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/) (Wired)
 - [An analysis of Internet Archive data: by mid-2025, ~35% of new websites published since ChatGPT's launch in November 2022 were AI-generated or AI-assisted](https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/) (404 Media)
