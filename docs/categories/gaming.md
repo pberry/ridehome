@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### April
+
+- [Sony confirms that some digital PS4 and PS5 games require a one-time online license check "to confirm the game's license"](https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/) (GameSpot)
+
 ### March
 
 - [Sony is raising PS5 prices by $100 in April](https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike) (The Verge)

@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, April 30 2026 - Earnings Overload**
+
+  * [Microsoft says Q3 Intelligent Cloud revenue was $34.68B, vs. $34.27B est., with Azure and other cloud services up 40% YoY; Microsoft 365 Copilot has 20M+ seats](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html) (CNBC)
+  * [Meta raises full-year capex outlook to $125B–$145B, up from $115B–$135B; shares drop ~10%, biggest intraday decline since October](https://www.bloomberg.com/news/articles/2026-04-29/meta-raises-outlook-for-capital-spending-in-2026-shares-slide) (Bloomberg)
+  * [Alphabet stands out on Big Tech earnings day as Google Cloud revenue jumps 63% and backlog nearly doubles to $462B; capex guidance raised to $180B–$190B](https://www.marketwatch.com/story/why-alphabets-stock-is-the-standout-gainer-on-big-techs-monster-earnings-day-bb49b193) (MarketWatch)
+  * [Big Four combined Q1 capex hit a record $130B, on pace for $725B in 2026, up 77% from $410B last year](https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf) (FT)
+  * [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation](https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16) (FT)
+  * [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation](https://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value) (Bloomberg)
+  * [Sony confirms that some digital PS4 and PS5 games require a one-time online license check "to confirm the game's license"](https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/) (GameSpot)
+  * [OpenAI explains Codex's "goblin problem": reinforcement training rewarded quirky creature metaphors via a discontinued "Nerdy" personality, and the behavior spread](https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins) (The Verge)
+  * [Musk v. Altman: Elon Musk says he was a "fool" for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars](https://www.wsj.com/tech/ai/elon-musk-takes-stand-in-second-day-of-trial-against-openai-59d50fbf) (WSJ)
+
+
+
 **Wednesday, April 29 2026 - Elon V. Sam Day 2**
 
   * [The European Commission issues preliminary DSA findings against Meta, saying Instagram and Facebook fail to prevent under-13 users from accessing the services](https://www.bloomberg.com/news/articles/2026-04-29/eu-escalates-probe-into-meta-for-failing-to-stop-kids-signing-up) (Bloomberg)

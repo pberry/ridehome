@@ -9,6 +9,9 @@ layout: category
 
 ### April
 
+- [Meta raises full-year capex outlook to $125B–$145B, up from $115B–$135B; shares drop ~10%, biggest intraday decline since October](https://www.bloomberg.com/news/articles/2026-04-29/meta-raises-outlook-for-capital-spending-in-2026-shares-slide) (Bloomberg)
+- [Big Four combined Q1 capex hit a record $130B, on pace for $725B in 2026, up 77% from $410B last year](https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf) (FT)
+- [Musk v. Altman: Elon Musk says he was a "fool" for backing OpenAI, accusing Altman and Brockman of manipulating him into donating tens of millions of dollars](https://www.wsj.com/tech/ai/elon-musk-takes-stand-in-second-day-of-trial-against-openai-59d50fbf) (WSJ)
 - [Sources: OpenAI missed an internal goal of reaching 1B weekly active ChatGPT users by 2025's end, and missed multiple monthly revenue targets earlier in 2026](https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273?st=AiGMqm&reflink=desktopwebshare_permalink) (WSJ)
 - [Layoffs.fyi: companies announced layoffs affecting 45,800 tech employees in March, making it the worst month for reported tech job cuts in at least two years](https://www.wsj.com/tech/ai/the-ai-splurge-is-costing-big-tech-its-workforce-34a88e68?st=eRYgVV&reflink=desktopwebshare_permalink) (WSJ)
 - [Meta plans to cut 10% of its employees, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, trying to boost efficiency and offset its heavy AI spending](https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency) (Bloomberg)

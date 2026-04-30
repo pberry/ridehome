@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Microsoft says Q3 Intelligent Cloud revenue was $34.68B, vs. $34.27B est., with Azure and other cloud services up 40% YoY; Microsoft 365 Copilot has 20M+ seats](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html) (CNBC)
+- [Alphabet stands out on Big Tech earnings day as Google Cloud revenue jumps 63% and backlog nearly doubles to $462B; capex guidance raised to $180B–$190B](https://www.marketwatch.com/story/why-alphabets-stock-is-the-standout-gainer-on-big-techs-monster-earnings-day-bb49b193) (MarketWatch)
 - [Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI](https://openai.com/index/next-phase-of-microsoft-partnership) (OpenAI)
 - [Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024](https://www.theinformation.com/articles/atlassian-hubspot-join-shift-ai-flat-fees) (The Information)
 - [Amazon agrees to invest up to $25B in Anthropic, on top of the $8B that it has already invested; Anthropic commits to spend $100B+ on AWS over the next 10 years](https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html) (CNBC)

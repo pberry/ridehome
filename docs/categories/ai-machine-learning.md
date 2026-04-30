@@ -9,6 +9,8 @@ layout: category
 
 ### April
 
+- [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation](https://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value) (Bloomberg)
+- [OpenAI explains Codex's "goblin problem": reinforcement training rewarded quirky creature metaphors via a discontinued "Nerdy" personality, and the behavior spread](https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins) (The Verge)
 - [Sources: OpenAI has, in practice, abandoned its Stargate JV in favor of large bilateral deals; execs say its guiding principle remains to "build more compute"](https://www.ft.com/content/664a57e2-dffa-401e-81ad-55129ffb0e89) (FT)
 - [OpenAI's Codex instruction set contains a line, repeated several times, that forbids Codex from randomly mentioning goblins, gremlins, and other creatures](https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/) (Wired)
 - [Google launches Ask YouTube, a conversational AI search "experiment" that generates pages with videos and text summaries, for Premium users in the US aged 18+](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search) (The Verge)
