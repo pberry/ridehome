@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Apple forecasts Q3 revenue above estimates, with sales expected to rise between 14% and 17%, and says memory expenses will climb "significantly higher" in Q3](https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth) (Bloomberg)
+
 ### April
 
 - [Meta raises full-year capex outlook to $125B–$145B, up from $115B–$135B; shares drop ~10%, biggest intraday decline since October](https://www.bloomberg.com/news/articles/2026-04-29/meta-raises-outlook-for-capital-spending-in-2026-shares-slide) (Bloomberg)

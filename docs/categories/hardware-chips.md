@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Intel's stock jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record](https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html) (CNBC)
+
 ### April
 
 - [Kuo: OpenAI is working with MediaTek and Qualcomm to develop smartphone chips, with Luxshare handling the system co-design; mass production is expected in 2028](https://x.com/mingchikuo/status/2048587389791269182) (Ming)

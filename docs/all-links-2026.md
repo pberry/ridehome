@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, May 01 2026 - My LLM Cutoff Is 1930**
+
+  * [Apple forecasts Q3 revenue above estimates, with sales expected to rise between 14% and 17%, and says memory expenses will climb "significantly higher" in Q3](https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth) (Bloomberg)
+  * [Amazon debuts "Join the chat", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (TechCrunch)
+  * [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading](https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html) (CNBC)
+  * [Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is "partly" true](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/) (Wired)
+  * [Intel's stock jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record](https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html) (CNBC)
+
+
+
 **Thursday, April 30 2026 - Earnings Overload**
 
   * [Microsoft says Q3 Intelligent Cloud revenue was $34.68B, vs. $34.27B est., with Azure and other cloud services up 40% YoY; Microsoft 365 Copilot has 20M+ seats](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html) (CNBC)

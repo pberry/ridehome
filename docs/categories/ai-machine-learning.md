@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Amazon debuts "Join the chat", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (TechCrunch)
+- [Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is "partly" true](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/) (Wired)
+
 ### April
 
 - [Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation](https://www.bloomberg.com/news/articles/2026-04-29/anthropic-considering-funding-offers-at-over-900-billion-value) (Bloomberg)
