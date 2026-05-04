@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products](https://www.reuters.com/business/retail-consumer/amazon-opens-up-its-logistics-network-other-businesses-2026-05-04/) (Reuters)
+
 ### April
 
 - [Microsoft says Q3 Intelligent Cloud revenue was $34.68B, vs. $34.27B est., with Azure and other cloud services up 40% YoY; Microsoft 365 Copilot has 20M+ seats](https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html) (CNBC)

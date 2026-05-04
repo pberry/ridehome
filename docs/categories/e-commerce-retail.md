@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [GameStop makes an unsolicited ~$56B offer to buy eBay after building a ~5% stake, offering $125/share in cash and stock, a ~20% premium on May 1's closing price](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a) (WSJ)
+
 ### March
 
 - [Amazon rolls out 1-hour, 3-hour delivery as ultrafast shipping trend grows in the U.S.](https://www.cnbc.com/2026/03/17/amazon-rolls-out-1-hour-3-hour-delivery-in-latest-fast-shipping-test.html) (CNBC)

@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, May 04 2026 - Welcome Back To The Arena, GameStop**
+
+  * [GameStop makes an unsolicited ~$56B offer to buy eBay after building a ~5% stake, offering $125/share in cash and stock, a ~20% premium on May 1's closing price](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a) (WSJ)
+  * [Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman & Friedman, and others to sell AI tools to PE-backed companies](https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee) (WSJ)
+  * [Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products](https://www.reuters.com/business/retail-consumer/amazon-opens-up-its-logistics-network-other-businesses-2026-05-04/) (Reuters)
+  * [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users get 67% of the profits, with the highest-frequency traders seeing the most success](https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11) (WSJ)
+  * [Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. 50-55% for triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) (The Guardian)
+
+
+
 **Friday, May 01 2026 - My LLM Cutoff Is 1930**
 
   * [Apple forecasts Q3 revenue above estimates, with sales expected to rise between 14% and 17%, and says memory expenses will climb "significantly higher" in Q3](https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth) (Bloomberg)

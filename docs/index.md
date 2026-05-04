@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, May 01, 2026 - My LLM Cutoff Is 1930</h3>
+  <h3>Monday, May 04, 2026 - Welcome Back To The Arena, GameStop</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth">Apple forecasts Q3 revenue above estimates, with sales expected to rise between 14% and 17%, and says memory expenses will climb "significantly higher" in Q3</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/">Amazon debuts "Join the chat", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html">The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/">Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is "partly" true</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/04/30/intel-has-best-month-ever-after-years-of-losing-to-tsmc-and-nvidia.html">Intel's stock jumped 114% in April, hitting a record on April 24 and lifting its market cap past $470B, closing out the chipmaker's best month on record</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a">GameStop makes an unsolicited ~$56B offer to buy eBay after building a ~5% stake, offering $125/share in cash and stock, a ~20% premium on May 1's closing price</a> (WSJ) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee">Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman & Friedman, and others to sell AI tools to PE-backed companies</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/retail-consumer/amazon-opens-up-its-logistics-network-other-businesses-2026-05-04/">Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products</a> (Reuters) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11">An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users get 67% of the profits, with the highest-frequency traders seeing the most success</a> (WSJ) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses">Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. 50-55% for triage doctors</a> (The Guardian) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-01T12:10:56-07:00">May 01, 2026 at 12:10 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-04T12:27:52-07:00">May 04, 2026 at 12:27 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,574</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,579</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -49,18 +49,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(109 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(86 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(82 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(83 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(89 links)</span></li>
       </ol>
     </div>
   </div>

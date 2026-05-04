@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman & Friedman, and others to sell AI tools to PE-backed companies](https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee) (WSJ)
+- [Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. 50-55% for triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) (The Guardian)
 - [Amazon debuts "Join the chat", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (TechCrunch)
 - [Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is "partly" true](https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/) (Wired)
 

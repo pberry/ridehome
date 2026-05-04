@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users get 67% of the profits, with the highest-frequency traders seeing the most success](https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11) (WSJ)
+
 ### April
 
 - [X launches Cashtags, showing real-time financial data on stocks and crypto, starting with iOS in the US and Canada](https://www.theblock.co/post/397470/x-rolls-out-cashtags) (The Block)
