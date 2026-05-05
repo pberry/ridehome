@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYT)
 - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading](https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html) (CNBC)
 
 ### April

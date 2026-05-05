@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Coinbase CEO Brian Armstrong announces the company is cutting ~700 jobs, or ~14% of its global workforce, to reduce costs, saying "AI is changing how we work"](https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/) (Reuters)
+
 ### April
 
 - [OpenAI acquires personal finance startup Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (TechCrunch)

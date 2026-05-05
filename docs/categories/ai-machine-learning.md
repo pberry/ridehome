@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [ElevenLabs raised $550M+ in its Series D, up from a previously announced $500M, adding BlackRock, Nvidia, and others as investors; its ARR passed $500M in Q1](https://tech.eu/2026/05/05/elevenlabs-adds-blackrock-nvidia-and-jamie-foxx-to-550m-series-d/) (Tech.eu)
 - [Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman & Friedman, and others to sell AI tools to PE-backed companies](https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee) (WSJ)
 - [Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. 50-55% for triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) (The Guardian)
 - [Amazon debuts "Join the chat", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/) (TechCrunch)

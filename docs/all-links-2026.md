@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, May 05 2026 - Will AI Models Have To Be Reviews By The Government?**
+
+  * [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYT)
+  * [Sources: Apple held exploratory talks with Intel and Apple executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US](https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us) (Bloomberg)
+  * [Coinbase CEO Brian Armstrong announces the company is cutting ~700 jobs, or ~14% of its global workforce, to reduce costs, saying "AI is changing how we work"](https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/) (Reuters)
+  * [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's "not facial recognition"](https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis) (The Verge)
+  * [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027](https://x.com/mingchikuo/status/2051523855286776034) (Ming)
+  * [ElevenLabs raised $550M+ in its Series D, up from a previously announced $500M, adding BlackRock, Nvidia, and others as investors; its ARR passed $500M in Q1](https://tech.eu/2026/05/05/elevenlabs-adds-blackrock-nvidia-and-jamie-foxx-to-550m-series-d/) (Tech.eu)
+  * [Source: YC owns ~0.6% of OpenAI, which was seeded by a YC offshoot called YC Research in 2016; at OpenAI's current $852B valuation, the stake is worth $5B+](https://daringfireball.net/2026/05/y_combinators_stake_in_openai) (Daring Fireball)
+
+
+
 **Monday, May 04 2026 - Welcome Back To The Arena, GameStop**
 
   * [GameStop makes an unsolicited ~$56B offer to buy eBay after building a ~5% stake, offering $125/share in cash and stock, a ~20% premium on May 1's closing price](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a) (WSJ)

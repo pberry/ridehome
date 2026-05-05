@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's "not facial recognition"](https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis) (The Verge)
+
 ### April
 
 - [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) (Bloomberg)
