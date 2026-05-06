@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [OpenAI partners with Microsoft, AMD, Broadcom, Nvidia, and Intel researchers to detail the Multipath Reliable Connection (MRC) protocol to help scale compute](https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute) (The Deep View)
 - [Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products](https://www.reuters.com/business/retail-consumer/amazon-opens-up-its-logistics-network-other-businesses-2026-05-04/) (Reuters)
 
 ### April

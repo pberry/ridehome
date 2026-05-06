@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Sources and a document: Google is testing a "personal agent" codenamed Remy in the Gemini app that integrates with Google services to take actions for users](https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5) (Business Insider)
+- [Sources: Meta is building an OpenClaw-inspired agent, internally called Hatch and powered by its Muse Spark model, and an agentic shopping tool in Instagram](https://www.theinformation.com/articles/meta-building-ai-agent-called-hatch-agentic-shopping-tool-instagram) (The Information)
 - [ElevenLabs raised $550M+ in its Series D, up from a previously announced $500M, adding BlackRock, Nvidia, and others as investors; its ARR passed $500M in Q1](https://tech.eu/2026/05/05/elevenlabs-adds-blackrock-nvidia-and-jamie-foxx-to-550m-series-d/) (Tech.eu)
 - [Sources: Anthropic is finalizing a deal for a $1.5B JV with Blackstone, Goldman Sachs, Hellman & Friedman, and others to sell AI tools to PE-backed companies](https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee) (WSJ)
 - [Study: OpenAI's o1 correctly diagnosed 67% of emergency room patients using electronic records and a few sentences from nurses, vs. 50-55% for triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) (The Guardian)

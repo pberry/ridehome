@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Morgan Stanley rolls out a crypto trading pilot on E*Trade, charging less than Coinbase, Robinhood, and Charles Schwab, ahead of a wider launch later in 2026](https://www.bloomberg.com/news/articles/2026-05-06/morgan-stanley-debuts-crypto-trading-undercuts-rivals-on-price) (Bloomberg)
 - [An analysis of 1.6M Polymarket accounts since November 2022: 0.1% of users get 67% of the profits, with the highest-frequency traders seeing the most success](https://www.wsj.com/finance/investing/polymarket-kalshi-betting-profits-prediction-markets-eb23ac11) (WSJ)
 
 ### April

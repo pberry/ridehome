@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, May 06 2026 - Even 175-year-old Companies Can Join The AI Boom**
+
+  * [Corning and Nvidia partner to open three advanced manufacturing plants in North Carolina and Texas dedicated to optical tech for Nvidia, creating 3,000+ jobs](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) (CNBC)
+  * [Morgan Stanley rolls out a crypto trading pilot on E*Trade, charging less than Coinbase, Robinhood, and Charles Schwab, ahead of a wider launch later in 2026](https://www.bloomberg.com/news/articles/2026-05-06/morgan-stanley-debuts-crypto-trading-undercuts-rivals-on-price) (Bloomberg)
+  * [Sources and a document: Google is testing a "personal agent" codenamed Remy in the Gemini app that integrates with Google services to take actions for users](https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5) (Business Insider)
+  * [Sources: Meta is building an OpenClaw-inspired agent, internally called Hatch and powered by its Muse Spark model, and an agentic shopping tool in Instagram](https://www.theinformation.com/articles/meta-building-ai-agent-called-hatch-agentic-shopping-tool-instagram) (The Information)
+  * [OpenAI partners with Microsoft, AMD, Broadcom, Nvidia, and Intel researchers to detail the Multipath Reliable Connection (MRC) protocol to help scale compute](https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute) (The Deep View)
+
+
+
 **Tuesday, May 05 2026 - Will AI Models Have To Be Reviews By The Government?**
 
   * [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYT)
