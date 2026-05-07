@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26](https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/) (Engadget)
 - [Corning and Nvidia partner to open three advanced manufacturing plants in North Carolina and Texas dedicated to optical tech for Nvidia, creating 3,000+ jobs](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) (CNBC)
 - [Sources: Apple held exploratory talks with Intel and Apple executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US](https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us) (Bloomberg)
 - [Kuo: OpenAI appears to be fast-tracking its AI agent phone with two NPUs and a custom MediaTek Dimensity 9600 SoC, targeting mass production as early as H1 2027](https://x.com/mingchikuo/status/2051523855286776034) (Ming)

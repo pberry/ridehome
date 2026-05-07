@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, May 06, 2026 - Even 175-year-old Companies Can Join The AI Boom</h3>
+  <h3>Thursday, May 07, 2026 - XAI Is Just A Neocloud Now?</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html">Corning and Nvidia partner to open three advanced manufacturing plants in North Carolina and Texas dedicated to optical tech for Nvidia, creating 3,000+ jobs</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-05-06/morgan-stanley-debuts-crypto-trading-undercuts-rivals-on-price">Morgan Stanley rolls out a crypto trading pilot on E*Trade, charging less than Coinbase, Robinhood, and Charles Schwab, ahead of a wider launch later in 2026</a> (Bloomberg) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5">Sources and a document: Google is testing a "personal agent" codenamed Remy in the Gemini app that integrates with Google services to take actions for users</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/articles/meta-building-ai-agent-called-hatch-agentic-shopping-tool-instagram">Sources: Meta is building an OpenClaw-inspired agent, internally called Hatch and powered by its Muse Spark model, and an agentic shopping tool in Instagram</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute">OpenAI partners with Microsoft, AMD, Broadcom, Nvidia, and Intel researchers to detail the Multipath Reliable Connection (MRC) protocol to help scale compute</a> (The Deep View) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html">At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand">Anthropic signs a deal with SpaceX for 300MW+ of compute from Colossus 1 in Memphis, accessing 220,000+ Nvidia GPUs within the month</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://spyglass.org/anthropic-spacex-xai-data-centers/">Musk says xAI will be "dissolved as a separate company" and will become "SpaceXAI, the AI products from SpaceX"</a> (Spyglass) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/">Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://x.com/bhalligan/status/2051388275756339493">As founders race to make their companies "legible" to AI, they must keep the things that make them hard to copy "illegible", or risk commoditizing their moat</a> (Brian Halligan) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-06T12:45:17-07:00">May 06, 2026 at 12:45 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-07T12:42:45-07:00">May 07, 2026 at 12:42 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,591</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,596</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -49,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(107 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(80 links)</span></li>
       </ol>
@@ -58,8 +58,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(99 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
       </ol>
     </div>

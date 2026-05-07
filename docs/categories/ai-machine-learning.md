@@ -9,6 +9,9 @@ layout: category
 
 ### May
 
+- [At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) (NYT)
+- [Anthropic signs a deal with SpaceX for 300MW+ of compute from Colossus 1 in Memphis, accessing 220,000+ Nvidia GPUs within the month](https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand) (Bloomberg)
+- [Musk says xAI will be "dissolved as a separate company" and will become "SpaceXAI, the AI products from SpaceX"](https://spyglass.org/anthropic-spacex-xai-data-centers/) (Spyglass)
 - [Sources and a document: Google is testing a "personal agent" codenamed Remy in the Gemini app that integrates with Google services to take actions for users](https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5) (Business Insider)
 - [Sources: Meta is building an OpenClaw-inspired agent, internally called Hatch and powered by its Muse Spark model, and an agentic shopping tool in Instagram](https://www.theinformation.com/articles/meta-building-ai-agent-called-hatch-agentic-shopping-tool-instagram) (The Information)
 - [ElevenLabs raised $550M+ in its Series D, up from a previously announced $500M, adding BlackRock, Nvidia, and others as investors; its ARR passed $500M in Q1](https://tech.eu/2026/05/05/elevenlabs-adds-blackrock-nvidia-and-jamie-foxx-to-550m-series-d/) (Tech.eu)

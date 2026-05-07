@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, May 07 2026 - XAI Is Just A Neocloud Now?**
+
+  * [At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) (NYT)
+  * [Anthropic signs a deal with SpaceX for 300MW+ of compute from Colossus 1 in Memphis, accessing 220,000+ Nvidia GPUs within the month](https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand) (Bloomberg)
+  * [Musk says xAI will be "dissolved as a separate company" and will become "SpaceXAI, the AI products from SpaceX"](https://spyglass.org/anthropic-spacex-xai-data-centers/) (Spyglass)
+  * [Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26](https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/) (Engadget)
+  * [As founders race to make their companies "legible" to AI, they must keep the things that make them hard to copy "illegible", or risk commoditizing their moat](https://x.com/bhalligan/status/2051388275756339493) (Brian Halligan)
+
+
+
 **Wednesday, May 06 2026 - Even 175-year-old Companies Can Join The AI Boom**
 
   * [Corning and Nvidia partner to open three advanced manufacturing plants in North Carolina and Texas dedicated to optical tech for Nvidia, creating 3,000+ jobs](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) (CNBC)
