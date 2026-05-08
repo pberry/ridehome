@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Mozilla says Anthropic's Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in April, compared to 31 a year earlier](https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/) (TechCrunch)
 - [At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) (NYT)
 - [Anthropic signs a deal with SpaceX for 300MW+ of compute from Colossus 1 in Memphis, accessing 220,000+ Nvidia GPUs within the month](https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand) (Bloomberg)
 - [Musk says xAI will be "dissolved as a separate company" and will become "SpaceXAI, the AI products from SpaceX"](https://spyglass.org/anthropic-spacex-xai-data-centers/) (Spyglass)
