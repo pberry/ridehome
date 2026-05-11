@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says "this is the tip of the iceberg"](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&smid=nytcore-android-share) (NYT)
+- [The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/) (Himanshu Anand)
 - [Instructure disables its Canvas edtech platform, used by thousands of schools, universities, and companies, amid a data extortion attack claimed by ShinyHunters](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) (Krebs on Security)
 - [Researchers: 5,000+ web apps built using AI coding tools like Lovable, Base44, and Replit have little to no authentication, and ~40% exposed sensitive data](https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/) (Wired)
 - [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's "not facial recognition"](https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis) (The Verge)

@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, May 11 2026 - The AI Sec-Pocalypse Is Actually Nigh?**
+
+  * [Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says "this is the tip of the iceberg"](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&smid=nytcore-android-share) (NYT)
+  * [The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/) (Himanshu Anand)
+  * [OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro](https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/) (Reuters)
+  * [Sources: Apple is working on a "slight redesign" for macOS 27 to address Liquid Glass issues and plans a feature to automatically group Safari tabs in "27" OSes](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m) (Bloomberg)
+  * [TikTok is rolling out TikTok Ad-Free, a £3.99-per-month subscription for UK accounts aged 18 or older "over the coming months", after testing the option in 2023](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/) (TechCrunch)
+  * [Agentic inference is set to be different than today's inference, and will change compute infrastructure because speed won't matter when humans aren't involved](https://stratechery.com/2026/the-inference-shift/) (Stratechery)
+
+
+
 **Friday, May 08 2026 - Chickens, Roosting**
 
   * [Nintendo says it will increase the price of the Switch 2 globally on September 1, from $450 to $500 in the US, and the price of the original Switch in Japan](https://www.bloomberg.com/news/articles/2026-05-08/nintendo-profit-forecast-for-second-year-of-switch-2-disappoints) (Bloomberg)

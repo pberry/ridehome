@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro](https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/) (Reuters)
+- [Agentic inference is set to be different than today's inference, and will change compute infrastructure because speed won't matter when humans aren't involved](https://stratechery.com/2026/the-inference-shift/) (Stratechery)
 - [Mozilla says Anthropic's Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in April, compared to 31 a year earlier](https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/) (TechCrunch)
 - [At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) (NYT)
 - [Anthropic signs a deal with SpaceX for 300MW+ of compute from Colossus 1 in Memphis, accessing 220,000+ Nvidia GPUs within the month](https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand) (Bloomberg)

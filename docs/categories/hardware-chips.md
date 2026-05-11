@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Sources: Apple is working on a "slight redesign" for macOS 27 to address Liquid Glass issues and plans a feature to automatically group Safari tabs in "27" OSes](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m) (Bloomberg)
 - [Nintendo says it will increase the price of the Switch 2 globally on September 1, from $450 to $500 in the US, and the price of the original Switch in Japan](https://www.bloomberg.com/news/articles/2026-05-08/nintendo-profit-forecast-for-second-year-of-switch-2-disappoints) (Bloomberg)
 - [Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26](https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/) (Engadget)
 - [Corning and Nvidia partner to open three advanced manufacturing plants in North Carolina and Texas dedicated to optical tech for Nvidia, creating 3,000+ jobs](https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html) (CNBC)
