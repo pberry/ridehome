@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, May 12 2026 - Hackers Get Paid**
+
+  * [Instructure reaches a deal with hackers who breached its Canvas edtech platform to return stolen data and destroy copies, without saying what it gave in return](https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html) (NYT)
+  * [eBay rejects GameStop's $56B takeover offer, saying the unsolicited bid is "neither credible nor attractive", in a letter from eBay Chairman Paul Pressler](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible) (Bloomberg)
+  * [OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities](https://www.testingcatalog.com/openai-announces-daybreak-initiative-around-codex-security/) (TestingCatalog)
+  * [Sources: some Amazon employees are using in-house OpenClaw-like tool MeshClaw for unnecessary tasks to inflate AI token use after Amazon set weekly AI targets](https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca) (FT)
+  * [AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics: Grok's paid adoption in the US remains nearly flat YoY in Q2](https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369) (WSJ)
+  * [Thinking Machines Lab details interaction models, which can think and respond in real time, letting users and AI interact continuously for better collaboration](https://thinkingmachines.ai/blog/interaction-models/) (Thinking Machines Lab)
+
+
+
 **Monday, May 11 2026 - The AI Sec-Pocalypse Is Actually Nigh?**
 
   * [Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says "this is the tip of the iceberg"](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&smid=nytcore-android-share) (NYT)
