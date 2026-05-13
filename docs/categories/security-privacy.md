@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/) (Wired)
 - [Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says "this is the tip of the iceberg"](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&smid=nytcore-android-share) (NYT)
 - [The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/) (Himanshu Anand)
 - [Instructure disables its Canvas edtech platform, used by thousands of schools, universities, and companies, amid a data extortion attack claimed by ShinyHunters](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) (Krebs on Security)

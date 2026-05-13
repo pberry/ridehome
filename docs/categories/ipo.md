@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYT)
+
 ### April
 
 - [Sources: SoftBank plans to create an AI and robotics company called Roze in the US to build data centers and list it as early as 2026, seeking a $100B valuation](https://www.ft.com/content/55c7d99c-7e68-453c-b784-33d6b9838e16) (FT)

@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, May 13 2026 - Googlebooks**
+
+  * [Google unveils Googlebook, its new laptop lineup featuring a unified OS merging ChromeOS and Android, with devices from Dell, HP, and others coming this fall](https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/) (ZDNet)
+  * [Google also unveiled Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe code Android widgets](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill) (The Verge)
+  * [WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/) (Wired)
+  * [Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first](https://www.wsj.com/tech/ai/anthropic-was-behind-now-its-the-ai-booms-front-runner-5020f621) (WSJ)
+  * [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYT)
+  * [Richard Socher's Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue "recursive self-improvement"](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) (NYT)
+
+
+
 **Tuesday, May 12 2026 - Hackers Get Paid**
 
   * [Instructure reaches a deal with hackers who breached its Canvas edtech platform to return stolen data and destroy copies, without saying what it gave in return](https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html) (NYT)

@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, May 12, 2026 - Hackers Get Paid</h3>
+  <h3>Wednesday, May 13, 2026 - Googlebooks</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html">Instructure reaches a deal with hackers who breached its Canvas edtech platform to return stolen data and destroy copies, without saying what it gave in return</a> (NYT)</li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible">eBay rejects GameStop's $56B takeover offer, saying the unsolicited bid is "neither credible nor attractive", in a letter from eBay Chairman Paul Pressler</a> (Bloomberg)</li>
-    <li><a href="https://www.testingcatalog.com/openai-announces-daybreak-initiative-around-codex-security/">OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities</a> (TestingCatalog)</li>
-    <li><a href="https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca">Sources: some Amazon employees are using in-house OpenClaw-like tool MeshClaw for unnecessary tasks to inflate AI token use after Amazon set weekly AI targets</a> (FT)</li>
-    <li><a href="https://www.wsj.com/tech/ai/anthropic-spacex-ai-deal-elon-musk-f86ea369">AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics: Grok's paid adoption in the US remains nearly flat YoY in Q2</a> (WSJ)</li>
-    <li><a href="https://thinkingmachines.ai/blog/interaction-models/">Thinking Machines Lab details interaction models, which can think and respond in real time, letting users and AI interact continuously for better collaboration</a> (Thinking Machines Lab)</li>
+    <li><a href="https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/">Google unveils Googlebook, its new laptop lineup featuring a unified OS merging ChromeOS and Android, with devices from Dell, HP, and others coming this fall</a> (ZDNet) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill">Google also unveiled Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe code Android widgets</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/">WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/anthropic-was-behind-now-its-the-ai-booms-front-runner-5020f621">Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html">Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027</a> (NYT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html">Richard Socher's Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue "recursive self-improvement"</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-12T12:51:14-07:00">May 12, 2026 at 12:51 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-13T12:54:10-07:00">May 13, 2026 at 12:54 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,613</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,619</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -50,8 +50,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(82 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
       </ol>
     </div>
@@ -59,7 +59,7 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
       </ol>
