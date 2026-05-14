@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, May 14 2026 - The Biggest Tech IPO Since Uber**
+
+  * [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight) (Bloomberg)
+  * [Security researchers used Anthropic's Mythos to discover a privilege escalation exploit in macOS, circumventing Apple's Memory Integrity Enforcement in five days](https://www.wsj.com/tech/ai/anthropic-mythos-apple-macos-bug-339da403) (WSJ)
+  * [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019](https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html) (CNBC)
+  * [Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15](https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch) (VentureBeat)
+  * [AT&T, T-Mobile, and Verizon sign an "agreement in principle" to form a joint venture that aims to end wireless dead zones in the US, without giving many details](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage) (The Verge)
+  * [Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans](https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/) (Washington Post)
+
+
+
 **Wednesday, May 13 2026 - Googlebooks**
 
   * [Google unveils Googlebook, its new laptop lineup featuring a unified OS merging ChromeOS and Android, with devices from Dell, HP, and others coming this fall](https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/) (ZDNet)

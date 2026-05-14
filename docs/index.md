@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, May 13, 2026 - Googlebooks</h3>
+  <h3>Thursday, May 14, 2026 - The Biggest Tech IPO Since Uber</h3>
   <ul>
-    <li><a href="https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/">Google unveils Googlebook, its new laptop lineup featuring a unified OS merging ChromeOS and Android, with devices from Dell, HP, and others coming this fall</a> (ZDNet) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill">Google also unveiled Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe code Android widgets</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/">WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/anthropic-was-behind-now-its-the-ai-booms-front-runner-5020f621">Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html">Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027</a> (NYT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html">Richard Socher's Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue "recursive self-improvement"</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight">Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/anthropic-mythos-apple-macos-bug-339da403">Security researchers used Anthropic's Mythos to discover a privilege escalation exploit in macOS, circumventing Apple's Memory Integrity Enforcement in five days</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html">Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch">Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage">AT&T, T-Mobile, and Verizon sign an "agreement in principle" to form a joint venture that aims to end wireless dead zones in the US, without giving many details</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/">Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans</a> (Washington Post) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-13T12:54:10-07:00">May 13, 2026 at 12:54 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-14T13:25:03-07:00">May 14, 2026 at 01:25 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,619</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,625</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -50,18 +50,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(88 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(91 links)</span></li>
       </ol>
     </div>
   </div>

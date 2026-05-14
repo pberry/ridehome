@@ -9,6 +9,9 @@ layout: category
 
 ### May
 
+- [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight) (Bloomberg)
+- [AT&T, T-Mobile, and Verizon sign an "agreement in principle" to form a joint venture that aims to end wireless dead zones in the US, without giving many details](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage) (The Verge)
+- [Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans](https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/) (Washington Post)
 - [French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe](https://www.cnbc.com/2026/05/07/french-prosecutors-probe-of-elon-musk-x-now-a-criminal-investigation.html) (CNBC)
 - [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYT)
 - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading](https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html) (CNBC)

@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15](https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch) (VentureBeat)
 - [Google also unveiled Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe code Android widgets](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill) (The Verge)
 - [Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first](https://www.wsj.com/tech/ai/anthropic-was-behind-now-its-the-ai-booms-front-runner-5020f621) (WSJ)
 - [Richard Socher's Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue "recursive self-improvement"](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) (NYT)
