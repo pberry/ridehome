@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, May 15 2026 - Musk V. Altman Closing Arguments**
+
+  * [⁠Musk v. Altman: in closing arguments, Musk's attorney doubled down on claims of Altman's untrustworthiness, while OpenAI's lawyer said Musk has no evidence⁠](https://apnews.com/article/musk-sam-altman-openai-trial-closing-arguments-3bda5ebbec28c23ac9e481a4edcad725) (AP)
+  * [⁠Google confirms a new storage policy test, after some users reported that new Gmail accounts get 5GB, not 15GB, of free storage if they don't add a phone number⁠](https://www.androidauthority.com/google-gmail-5gb-free-storage-test-3667002/) (Android Authority)
+  * [⁠Meta rolls out new features for its Ray-Ban Display glasses, including neural handwriting support for all users, and opens the device to third-party developers⁠](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer) (The Verge)
+  * [⁠OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a computer directly via iOS, iPadOS, and Android⁠](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) (9to5Mac)
+  * [⁠xAI launches Grok Build, an agent and CLI for coding, building apps, and automating workflows, in early beta, available first for SuperGrok Heavy subscribers⁠](https://www.bloomberg.com/news/articles/2026-05-14/musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic) (Bloomberg)
+
+
+
 **Thursday, May 14 2026 - The Biggest Tech IPO Since Uber**
 
   * [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight) (Bloomberg)
