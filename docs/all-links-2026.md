@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, May 18 2026 - OpenAI Takes Out Another Niche**
+
+  * [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) (TechCrunch)
+  * [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue](https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89) (The Information)
+  * [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have "incontrovertible evidence" of AI-generated work](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) (404 Media)
+  * [Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27](https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr) (Bloomberg)
+  * [A college senior at Stanford describes how AI has changed classes: cheating using AI "has become omnipresent" with students "fudging just about everything"](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html?unlocked_article_code=1.jFA.POX8.IbIaTxGsZdkJ&smid=bs-share) (NYT)
+  * [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth](https://x.com/deedydas/status/2055491938464489888) (X)
+
+
+
 **Friday, May 15 2026 - Musk V. Altman Closing Arguments**
 
   * [⁠Musk v. Altman: in closing arguments, Musk's attorney doubled down on claims of Altman's untrustworthiness, while OpenAI's lawyer said Musk has no evidence⁠](https://apnews.com/article/musk-sam-altman-openai-trial-closing-arguments-3bda5ebbec28c23ac9e481a4edcad725) (AP)

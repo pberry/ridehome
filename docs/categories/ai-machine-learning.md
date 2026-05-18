@@ -9,6 +9,9 @@ layout: category
 
 ### May
 
+- [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue](https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89) (The Information)
+- [Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27](https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr) (Bloomberg)
+- [A college senior at Stanford describes how AI has changed classes: cheating using AI "has become omnipresent" with students "fudging just about everything"](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html?unlocked_article_code=1.jFA.POX8.IbIaTxGsZdkJ&smid=bs-share) (NYT)
 - [Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15](https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch) (VentureBeat)
 - [Google also unveiled Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe code Android widgets](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill) (The Verge)
 - [Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first](https://www.wsj.com/tech/ai/anthropic-was-behind-now-its-the-ai-booms-front-runner-5020f621) (WSJ)

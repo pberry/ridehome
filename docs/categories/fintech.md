@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) (TechCrunch)
 - [Coinbase CEO Brian Armstrong announces the company is cutting ~700 jobs, or ~14% of its global workforce, to reduce costs, saying "AI is changing how we work"](https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/) (Reuters)
 
 ### April

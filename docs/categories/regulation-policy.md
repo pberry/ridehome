@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have "incontrovertible evidence" of AI-generated work](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) (404 Media)
 - [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight) (Bloomberg)
 - [AT&T, T-Mobile, and Verizon sign an "agreement in principle" to form a joint venture that aims to end wireless dead zones in the US, without giving many details](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage) (The Verge)
 - [Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans](https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/) (Washington Post)

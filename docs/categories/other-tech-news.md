@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth](https://x.com/deedydas/status/2055491938464489888) (X)
 - [As founders race to make their companies "legible" to AI, they must keep the things that make them hard to copy "illegible", or risk commoditizing their moat](https://x.com/bhalligan/status/2051388275756339493) (Brian Halligan)
 - [Source: YC owns ~0.6% of OpenAI, which was seeded by a YC offshoot called YC Research in 2016; at OpenAI's current $852B valuation, the stake is worth $5B+](https://daringfireball.net/2026/05/y_combinators_stake_in_openai) (Daring Fireball)
 - [Apple forecasts Q3 revenue above estimates, with sales expected to rise between 14% and 17%, and says memory expenses will climb "significantly higher" in Q3](https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth) (Bloomberg)
