@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, May 19 2026 - Elon Loses**
+
+  * [Musk v. Altman: the jury unanimously rejects Elon Musk's claims against OpenAI and Sam Altman, as he filed them outside of a three-year statute of limitations](https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html) (CNBC)
+  * [Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla](https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude) (Axios)
+  * [Polymarket partners with Nasdaq to launch markets tied to private company milestones, including IPO timing, valuations, earnings, and secondary market activity](https://www.theblock.co/post/401866/polymarket-rolls-out-prediction-markets-tracking-ipos-valuations-for-private-companies-like-openai-and-spacex) (The Block)
+  * [Blackstone announces a joint venture with Google to create a US company that will offer customers Google TPU access, and makes a $5B initial equity commitment](https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f?st=tJmMou&reflink=desktopwebshare_permalink) (WSJ)
+  * [KPMG partners with Anthropic to embed Claude into its tax and advisory platforms; KPMG's tax and legal services unit saw revenue grow ~8% YoY to $9.3B in 2025](https://www.wsj.com/cfo-journal/kpmg-taps-anthropic-to-revamp-global-tax-advisory-platforms-853093bb?st=7XQibQ&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Monday, May 18 2026 - OpenAI Takes Out Another Niche**
 
   * [OpenAI debuts personal finance tools for US ChatGPT Pro users, partnering with Plaid to give access to 12K+ financial institutions to analyze spending and more](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/) (TechCrunch)

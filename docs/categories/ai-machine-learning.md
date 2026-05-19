@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla](https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude) (Axios)
+- [KPMG partners with Anthropic to embed Claude into its tax and advisory platforms; KPMG's tax and legal services unit saw revenue grow ~8% YoY to $9.3B in 2025](https://www.wsj.com/cfo-journal/kpmg-taps-anthropic-to-revamp-global-tax-advisory-platforms-853093bb?st=7XQibQ&reflink=desktopwebshare_permalink) (WSJ)
 - [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue](https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89) (The Information)
 - [Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27](https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr) (Bloomberg)
 - [A college senior at Stanford describes how AI has changed classes: cheating using AI "has become omnipresent" with students "fudging just about everything"](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html?unlocked_article_code=1.jFA.POX8.IbIaTxGsZdkJ&smid=bs-share) (NYT)

@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Polymarket partners with Nasdaq to launch markets tied to private company milestones, including IPO timing, valuations, earnings, and secondary market activity](https://www.theblock.co/post/401866/polymarket-rolls-out-prediction-markets-tracking-ipos-valuations-for-private-companies-like-openai-and-spacex) (The Block)
 - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019](https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html) (CNBC)
 - [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYT)
 
