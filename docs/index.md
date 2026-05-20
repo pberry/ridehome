@@ -3,13 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, May 19, 2026 - Elon Loses</h3>
+  <h3>Wednesday, May 20, 2026 - Google I/O</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html">Musk v. Altman: the jury unanimously rejects Elon Musk's claims against OpenAI and Sam Altman, as he filed them outside of a three-year statute of limitations</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude">Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theblock.co/post/401866/polymarket-rolls-out-prediction-markets-tracking-ipos-valuations-for-private-companies-like-openai-and-spacex">Polymarket partners with Nasdaq to launch markets tied to private company milestones, including IPO timing, valuations, earnings, and secondary market activity</a> (The Block) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f?st=tJmMou&reflink=desktopwebshare_permalink">Blackstone announces a joint venture with Google to create a US company that will offer customers Google TPU access, and makes a $5B initial equity commitment</a> (WSJ) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.wsj.com/cfo-journal/kpmg-taps-anthropic-to-revamp-global-tax-advisory-platforms-853093bb?st=7XQibQ&reflink=desktopwebshare_permalink">KPMG partners with Anthropic to embed Claude into its tax and advisory platforms; KPMG's tax and legal services unit saw revenue grow ~8% YoY to $9.3B in 2025</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode</a> (Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/">Google announces Gemini Spark, a "24/7 personal AI agent" that is powered by Gemini 3.5 and supports integrations with Google Workspace apps, including Gmail</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://venturebeat.com/ai/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know">Google launches Gemini Omni, a multimodal model it says can "create anything from any input", starting with video generation, for Google AI Plus, Pro, and Ultra</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share">Google overhauls its search box, letting users input longer queries, including with photos and videos, and automate searches with Gemini 3.5 Flash-based agents</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/">Google introduces Antigravity 2.0, featuring an updated desktop app that lets users orchestrate agents, an Antigravity CLI tool, and an SDK for custom workflows</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/">Google adds Street View integration to Project Genie, its interactive world builder, and expands Genie from the US to adult Google AI Ultra subscribers globally</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-19T12:51:17-07:00">May 19, 2026 at 12:51 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-20T13:13:20-07:00">May 20, 2026 at 01:13 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,641</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,647</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -50,17 +51,17 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(80 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(76 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>
   </div>

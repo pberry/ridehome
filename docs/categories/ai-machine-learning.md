@@ -9,6 +9,12 @@ layout: category
 
 ### May
 
+- [Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google)
+- [Google announces Gemini Spark, a "24/7 personal AI agent" that is powered by Gemini 3.5 and supports integrations with Google Workspace apps, including Gmail](https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/) (Engadget)
+- [Google launches Gemini Omni, a multimodal model it says can "create anything from any input", starting with video generation, for Google AI Plus, Pro, and Ultra](https://venturebeat.com/ai/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know) (VentureBeat)
+- [Google overhauls its search box, letting users input longer queries, including with photos and videos, and automate searches with Gemini 3.5 Flash-based agents](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share) (NYT)
+- [Google introduces Antigravity 2.0, featuring an updated desktop app that lets users orchestrate agents, an Antigravity CLI tool, and an SDK for custom workflows](https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/) (TechCrunch)
+- [Google adds Street View integration to Project Genie, its interactive world builder, and expands Genie from the US to adult Google AI Ultra subscribers globally](https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/) (Engadget)
 - [Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla](https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude) (Axios)
 - [KPMG partners with Anthropic to embed Claude into its tax and advisory platforms; KPMG's tax and legal services unit saw revenue grow ~8% YoY to $9.3B in 2025](https://www.wsj.com/cfo-journal/kpmg-taps-anthropic-to-revamp-global-tax-advisory-platforms-853093bb?st=7XQibQ&reflink=desktopwebshare_permalink) (WSJ)
 - [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue](https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89) (The Information)
