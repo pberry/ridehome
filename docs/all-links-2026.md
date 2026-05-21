@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, May 21 2026 - SpaceX IPO Deets**
+
+  * [SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company](https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx) (Bloomberg)
+  * [SpaceX's S-1 reveals Anthropic is paying $1.25B per month through May 2029 under their Colossus compute deal, with a 90-day termination clause](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus) (The Verge)
+  * [Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/) (Hollywood Reporter)
+  * [Spotify debuts a desktop app for creating personal podcasts, competing with Google's NotebookLM, with support for daily briefings based on email and calendar](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/) (TechCrunch)
+  * [Nvidia reports Q1 revenue up 85% YoY to $81.62B, above $78.86B est., Data Center revenue up 92% YoY to $75.2B, and announces an $80B share repurchase program](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027) (Nvidia)
+  * [Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a "final remedy" for flooding](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/) (TechCrunch)
+
+
+
 **Wednesday, May 20 2026 - Google I/O**
 
   * [Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google)

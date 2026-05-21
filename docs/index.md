@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, May 20, 2026 - Google I/O</h3>
+  <h3>Thursday, May 21, 2026 - SpaceX IPO Deets</h3>
   <ul>
-    <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/">Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode</a> (Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/">Google announces Gemini Spark, a "24/7 personal AI agent" that is powered by Gemini 3.5 and supports integrations with Google Workspace apps, including Gmail</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://venturebeat.com/ai/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know">Google launches Gemini Omni, a multimodal model it says can "create anything from any input", starting with video generation, for Google AI Plus, Pro, and Ultra</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share">Google overhauls its search box, letting users input longer queries, including with photos and videos, and automate searches with Gemini 3.5 Flash-based agents</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/">Google introduces Antigravity 2.0, featuring an updated desktop app that lets users orchestrate agents, an Antigravity CLI tool, and an SDK for custom workflows</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/">Google adds Street View integration to Project Genie, its interactive world builder, and expands Genie from the US to adult Google AI Ultra subscribers globally</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx">SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus">SpaceX's S-1 reveals Anthropic is paying $1.25B per month through May 2029 under their Colossus compute deal, with a 90-day termination clause</a> (The Verge) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/">Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US</a> (Hollywood Reporter) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/">Spotify debuts a desktop app for creating personal podcasts, competing with Google's NotebookLM, with support for daily briefings based on email and calendar</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027">Nvidia reports Q1 revenue up 85% YoY to $81.62B, above $78.86B est., Data Center revenue up 92% YoY to $75.2B, and announces an $80B share repurchase program</a> (Nvidia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/">Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a "final remedy" for flooding</a> (TechCrunch) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-20T13:13:20-07:00">May 20, 2026 at 01:13 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-21T12:52:47-07:00">May 21, 2026 at 12:52 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,647</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,653</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -50,9 +50,9 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(104 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(76 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
 
@@ -60,8 +60,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(93 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>
   </div>

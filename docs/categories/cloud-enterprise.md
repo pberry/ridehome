@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [SpaceX's S-1 reveals Anthropic is paying $1.25B per month through May 2029 under their Colossus compute deal, with a 90-day termination clause](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus) (The Verge)
 - [Blackstone announces a joint venture with Google to create a US company that will offer customers Google TPU access, and makes a $5B initial equity commitment](https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f?st=tJmMou&reflink=desktopwebshare_permalink) (WSJ)
 - [OpenAI partners with Microsoft, AMD, Broadcom, Nvidia, and Intel researchers to detail the Multipath Reliable Connection (MRC) protocol to help scale compute](https://www.thedeepview.com/articles/exclusive-openai-unveils-protocol-to-stretch-compute) (The Deep View)
 - [Amazon debuts Supply Chain Services, which lets companies use its logistics network to move, store, and deliver everything from raw materials to final products](https://www.reuters.com/business/retail-consumer/amazon-opens-up-its-logistics-network-other-businesses-2026-05-04/) (Reuters)

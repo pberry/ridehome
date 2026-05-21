@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a "final remedy" for flooding](https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/) (TechCrunch)
+
 ### April
 
 - [Sources: China suspends issuing Level 4 autonomous vehicle licenses, after 100+ of Baidu's Apollo Go robotaxis stalled and disrupted traffic in Wuhan in March](https://www.bloomberg.com/news/articles/2026-04-29/china-suspends-new-autonomous-driving-permits-after-baidu-outage) (Bloomberg)

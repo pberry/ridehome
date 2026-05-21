@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### May
+
+- [Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/) (Hollywood Reporter)
+- [Spotify debuts a desktop app for creating personal podcasts, competing with Google's NotebookLM, with support for daily briefings based on email and calendar](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/) (TechCrunch)
+
 ### April
 
 - [YouTube rolls out Full Multiview Customization to YouTube TV, letting users pin up to four live streams in a window, after debuting a limited version in 2023](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel) (The Verge)

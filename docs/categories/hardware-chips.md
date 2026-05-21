@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Nvidia reports Q1 revenue up 85% YoY to $81.62B, above $78.86B est., Data Center revenue up 92% YoY to $75.2B, and announces an $80B share repurchase program](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027) (Nvidia)
 - [Google unveils Googlebook, its new laptop lineup featuring a unified OS merging ChromeOS and Android, with devices from Dell, HP, and others coming this fall](https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/) (ZDNet)
 - [Sources: Apple is working on a "slight redesign" for macOS 27 to address Liquid Glass issues and plans a feature to automatically group Safari tabs in "27" OSes](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m) (Bloomberg)
 - [Nintendo says it will increase the price of the Switch 2 globally on September 1, from $450 to $500 in the US, and the price of the original Switch in Japan](https://www.bloomberg.com/news/articles/2026-05-08/nintendo-profit-forecast-for-second-year-of-switch-2-disappoints) (Bloomberg)
