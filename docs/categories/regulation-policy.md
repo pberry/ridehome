@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Sources: Trump delayed signing the AI EO because "he just hates regulation"; there were questions about the EO giving the Treasury Department a leading role](https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why) (Axios)
 - [Musk v. Altman: the jury unanimously rejects Elon Musk's claims against OpenAI and Sam Altman, as he filed them outside of a three-year statute of limitations](https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html) (CNBC)
 - [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have "incontrovertible evidence" of AI-generated work](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) (404 Media)
 - [Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight) (Bloomberg)

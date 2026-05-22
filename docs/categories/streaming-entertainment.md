@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Spotify closed up 13% on Thursday after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens](https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html) (CNBC)
 - [Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/) (Hollywood Reporter)
 - [Spotify debuts a desktop app for creating personal podcasts, competing with Google's NotebookLM, with support for daily briefings based on email and calendar](https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/) (TechCrunch)
 

@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Investor disclosures: Anthropic says it expects to generate $10.9B in revenue in Q2, up 127% from $4.8B in Q1, and turn a $559M operating profit, its first ever](https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4) (WSJ)
 - [Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google)
 - [Google announces Gemini Spark, a "24/7 personal AI agent" that is powered by Gemini 3.5 and supports integrations with Google Workspace apps, including Gmail](https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/) (Engadget)
 - [Google launches Gemini Omni, a multimodal model it says can "create anything from any input", starting with video generation, for Google AI Plus, Pro, and Ultra](https://venturebeat.com/ai/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know) (VentureBeat)

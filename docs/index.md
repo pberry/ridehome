@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, May 21, 2026 - SpaceX IPO Deets</h3>
+  <h3>Friday, May 22, 2026 - AI One-Upsmanship</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx">SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus">SpaceX's S-1 reveals Anthropic is paying $1.25B per month through May 2029 under their Colossus compute deal, with a 90-day termination clause</a> (The Verge) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/">Spotify partners with Live Nation to launch Reserved, a new feature that sets aside tickets for the most dedicated fans, starting with Premium users in the US</a> (Hollywood Reporter) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/">Spotify debuts a desktop app for creating personal podcasts, competing with Google's NotebookLM, with support for daily briefings based on email and calendar</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027">Nvidia reports Q1 revenue up 85% YoY to $81.62B, above $78.86B est., Data Center revenue up 92% YoY to $75.2B, and announces an $80B share repurchase program</a> (Nvidia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/">Waymo suspends operations in Atlanta and San Antonio as its robotaxis struggle with flooded roads and says it has yet to develop a "final remedy" for flooding</a> (TechCrunch) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html">Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html">Spotify closed up 13% on Thursday after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens</a> (CNBC) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html">Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours</a> (CNBC) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why">Sources: Trump delayed signing the AI EO because "he just hates regulation"; there were questions about the EO giving the Treasury Department a leading role</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4">Investor disclosures: Anthropic says it expects to generate $10.9B in revenue in Q2, up 127% from $4.8B in Q1, and turn a $559M operating profit, its first ever</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-21T12:52:47-07:00">May 21, 2026 at 12:52 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-22T12:43:20-07:00">May 22, 2026 at 12:43 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,653</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,658</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -51,7 +50,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(77 links)</span></li>
       </ol>
     </div>
@@ -59,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(93 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
       </ol>
     </div>
   </div>

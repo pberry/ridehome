@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, May 22 2026 - AI One-Upsmanship**
+
+  * [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%](https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html) (CNBC)
+  * [Spotify closed up 13% on Thursday after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens](https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html) (CNBC)
+  * [Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours](https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html) (CNBC)
+  * [Sources: Trump delayed signing the AI EO because "he just hates regulation"; there were questions about the EO giving the Treasury Department a leading role](https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why) (Axios)
+  * [Investor disclosures: Anthropic says it expects to generate $10.9B in revenue in Q2, up 127% from $4.8B in Q1, and turn a $559M operating profit, its first ever](https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4) (WSJ)
+
+
+
 **Thursday, May 21 2026 - SpaceX IPO Deets**
 
   * [SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company](https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx) (Bloomberg)
