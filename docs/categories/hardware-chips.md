@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits](https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown) (Nikkei)
+- [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist](https://www.theshortcut.com/p/fitbit-air-review) (The Shortcut)
 - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%](https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html) (CNBC)
 - [Nvidia reports Q1 revenue up 85% YoY to $81.62B, above $78.86B est., Data Center revenue up 92% YoY to $75.2B, and announces an $80B share repurchase program](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027) (Nvidia)
 - [Google unveils Googlebook, its new laptop lineup featuring a unified OS merging ChromeOS and Android, with devices from Dell, HP, and others coming this fall](https://www.zdnet.com/article/googlebook-news-premium-chromebook-for-android/) (ZDNet)

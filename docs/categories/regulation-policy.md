@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYT)
+- [Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek](https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms) (Bloomberg)
 - [Sources: Trump delayed signing the AI EO because "he just hates regulation"; there were questions about the EO giving the Treasury Department a leading role](https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why) (Axios)
 - [Musk v. Altman: the jury unanimously rejects Elon Musk's claims against OpenAI and Sam Altman, as he filed them outside of a three-year statute of limitations](https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html) (CNBC)
 - [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have "incontrovertible evidence" of AI-generated work](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) (404 Media)

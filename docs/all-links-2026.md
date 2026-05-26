@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, May 26 2026 - The Pope Gets AI Religion**
+
+  * [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYT)
+  * [Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits](https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown) (Nikkei)
+  * [Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek](https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms) (Bloomberg)
+  * [As AI tools like Mythos create a "bug-pocalypse", Glassdoor says Q1 cybersecurity job postings rose 11% YoY, and executive search firms are turning away clients](https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html) (NYT)
+  * [American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others](https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html) (CNBC)
+  * [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist](https://www.theshortcut.com/p/fitbit-air-review) (The Shortcut)
+
+
+
 **Friday, May 22 2026 - AI One-Upsmanship**
 
   * [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%](https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html) (CNBC)

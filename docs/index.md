@@ -3,13 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, May 22, 2026 - AI One-Upsmanship</h3>
+  <h3>Tuesday, May 26, 2026 - The Pope Gets AI Religion</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html">Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html">Spotify closed up 13% on Thursday after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens</a> (CNBC) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html">Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours</a> (CNBC) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why">Sources: Trump delayed signing the AI EO because "he just hates regulation"; there were questions about the EO giving the Treasury Department a leading role</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4">Investor disclosures: Anthropic says it expects to generate $10.9B in revenue in Q2, up 127% from $4.8B in Q1, and turn a $559M operating profit, its first ever</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share">Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more</a> (NYT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown">Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits</a> (Nikkei) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms">Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html">As AI tools like Mythos create a "bug-pocalypse", Glassdoor says Q1 cybersecurity job postings rose 11% YoY, and executive search firms are turning away clients</a> (NYT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html">American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.theshortcut.com/p/fitbit-air-review">Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist</a> (The Shortcut) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -35,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-22T12:43:20-07:00">May 22, 2026 at 12:43 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-26T13:08:08-07:00">May 26, 2026 at 01:08 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,658</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,664</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -49,7 +50,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(105 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
       </ol>
@@ -59,8 +60,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(91 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(87 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(89 links)</span></li>
       </ol>
     </div>
   </div>
