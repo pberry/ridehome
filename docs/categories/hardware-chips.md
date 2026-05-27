@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Micron hit a $1T market value for the first time on May 26 after its stock closed up 19.29%, rising from $700B earlier in May, driven by high memory chip demand](https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html) (CNBC)
 - [Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits](https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown) (Nikkei)
 - [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist](https://www.theshortcut.com/p/fitbit-air-review) (The Shortcut)
 - [Shares of quantum computing companies surged Thursday after the US government announced grants with equity stakes: D-Wave closed up 33%, Rigetti 30%, IBM 12%](https://www.cnbc.com/2026/05/21/quantum-stocks--us-taking-equity-stakes.html) (CNBC)

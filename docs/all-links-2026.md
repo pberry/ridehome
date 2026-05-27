@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, May 27 2026 - What If GPT-5.5 Is Actually Way Ahead?**
+
+  * [Robinhood launches a feature to let users link AI agents, such as Claude or Cursor, to separate, dedicated investment accounts for trading stocks autonomously](https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed?st=hSM5Yq&reflink=desktopwebshare_permalink) (WSJ)
+  * [Micron hit a $1T market value for the first time on May 26 after its stock closed up 19.29%, rising from $700B earlier in May, driven by high memory chip demand](https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html) (CNBC)
+  * [YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects "significant photorealistic AI use"](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/) (Variety)
+  * [Roku launches its first major homescreen overhaul in over a decade, including a large "marquee" ad spot to tout apps or shows, in a bid to drive more engagement](https://www.hollywoodreporter.com/tv/tv-news/roku-changes-homescreen-overhaul-1236606121/) (Hollywood Reporter)
+  * [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%](https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole) (VentureBeat)
+
+
+
 **Tuesday, May 26 2026 - The Pope Gets AI Religion**
 
   * [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYT)

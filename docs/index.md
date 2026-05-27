@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, May 26, 2026 - The Pope Gets AI Religion</h3>
+  <h3>Wednesday, May 27, 2026 - What If GPT-5.5 Is Actually Way Ahead?</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share">Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more</a> (NYT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown">Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits</a> (Nikkei) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms">Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html">As AI tools like Mythos create a "bug-pocalypse", Glassdoor says Q1 cybersecurity job postings rose 11% YoY, and executive search firms are turning away clients</a> (NYT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html">American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.theshortcut.com/p/fitbit-air-review">Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist</a> (The Shortcut) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed?st=hSM5Yq&reflink=desktopwebshare_permalink">Robinhood launches a feature to let users link AI agents, such as Claude or Cursor, to separate, dedicated investment accounts for trading stocks autonomously</a> (WSJ) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html">Micron hit a $1T market value for the first time on May 26 after its stock closed up 19.29%, rising from $700B earlier in May, driven by high memory chip demand</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/">YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects "significant photorealistic AI use"</a> (Variety) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.hollywoodreporter.com/tv/tv-news/roku-changes-homescreen-overhaul-1236606121/">Roku launches its first major homescreen overhaul in over a decade, including a large "marquee" ad spot to tout apps or shows, in a bid to drive more engagement</a> (Hollywood Reporter) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole">Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-26T13:08:08-07:00">May 26, 2026 at 01:08 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-27T13:16:12-07:00">May 27, 2026 at 01:16 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,664</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,669</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -51,7 +50,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(78 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
@@ -59,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(89 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(90 links)</span></li>
       </ol>
     </div>
   </div>

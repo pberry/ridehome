@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects "significant photorealistic AI use"](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/) (Variety)
+- [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%](https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole) (VentureBeat)
 - [Investor disclosures: Anthropic says it expects to generate $10.9B in revenue in Q2, up 127% from $4.8B in Q1, and turn a $559M operating profit, its first ever](https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4) (WSJ)
 - [Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google)
 - [Google announces Gemini Spark, a "24/7 personal AI agent" that is powered by Gemini 3.5 and supports integrations with Google Workspace apps, including Gmail](https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/) (Engadget)
