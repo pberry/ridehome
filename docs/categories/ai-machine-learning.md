@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Illustrations based on sources detail Apple's Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8](https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features) (Bloomberg)
+- [Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed](https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/) (Variety)
 - [YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects "significant photorealistic AI use"](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/) (Variety)
 - [Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%](https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole) (VentureBeat)
 - [Investor disclosures: Anthropic says it expects to generate $10.9B in revenue in Q2, up 127% from $4.8B in Q1, and turn a $559M operating profit, its first ever](https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4) (WSJ)

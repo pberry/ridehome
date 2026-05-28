@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, May 27, 2026 - What If GPT-5.5 Is Actually Way Ahead?</h3>
+  <h3>Thursday, May 28, 2026 - RAMpocalypse Now!</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed?st=hSM5Yq&reflink=desktopwebshare_permalink">Robinhood launches a feature to let users link AI agents, such as Claude or Cursor, to separate, dedicated investment accounts for trading stocks autonomously</a> (WSJ) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html">Micron hit a $1T market value for the first time on May 26 after its stock closed up 19.29%, rising from $700B earlier in May, driven by high memory chip demand</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/">YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects "significant photorealistic AI use"</a> (Variety) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.hollywoodreporter.com/tv/tv-news/roku-changes-homescreen-overhaul-1236606121/">Roku launches its first major homescreen overhaul in over a decade, including a large "marquee" ad spot to tout apps or shows, in a bid to drive more engagement</a> (Hollywood Reporter) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole">Datacurve releases the DeepSWE coding benchmark, a 113-task test across 91 open-source repositories: GPT-5.5 leads at 70%, GPT-5.4 got 56%, and Opus 4.7 got 54%</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/games/938340/valve-steam-deck-price-increase">Valve hikes the Steam Deck OLED's prices due to "rising memory and storage costs": from $549 to $789 for the 512GB model and from $649 to $949 for the 1TB model</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features">Illustrations based on sources detail Apple's Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/">Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, and tests $7.99/month and $19.99/month Meta AI plans, and a $49.99/month creator plan</a> (TechCrunch) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
+    <li><a href="https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/">Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed</a> (Variety) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-05-28/oura-ring-5-40-smaller-more-like-regular-ring-hypertension-and-sleep-apnea">Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, on sale from June 4 for $399, up from the Ring 4's $349</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-05-27T13:16:12-07:00">May 27, 2026 at 01:16 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-05-28T13:21:40-07:00">May 28, 2026 at 01:21 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,669</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,674</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,763</span></li>
       </ul>
     </div>
@@ -49,18 +49,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(106 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(79 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(90 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>
   </div>

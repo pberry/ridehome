@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, May 28 2026 - RAMpocalypse Now!**
+
+  * [Valve hikes the Steam Deck OLED's prices due to "rising memory and storage costs": from $549 to $789 for the 512GB model and from $649 to $949 for the 1TB model](https://www.theverge.com/games/938340/valve-steam-deck-price-increase) (The Verge)
+  * [Illustrations based on sources detail Apple's Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8](https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features) (Bloomberg)
+  * [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, and tests $7.99/month and $19.99/month Meta AI plans, and a $49.99/month creator plan](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) (TechCrunch)
+  * [Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed](https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/) (Variety)
+  * [Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, on sale from June 4 for $399, up from the Ring 4's $349](https://www.bloomberg.com/news/articles/2026-05-28/oura-ring-5-40-smaller-more-like-regular-ring-hypertension-and-sleep-apnea) (Bloomberg)
+
+
+
 **Wednesday, May 27 2026 - What If GPT-5.5 Is Actually Way Ahead?**
 
   * [Robinhood launches a feature to let users link AI agents, such as Claude or Cursor, to separate, dedicated investment accounts for trading stocks autonomously](https://www.wsj.com/tech/ai/robinhood-lets-customers-use-ai-to-trade-stocks-make-credit-card-purchases-f28467ed?st=hSM5Yq&reflink=desktopwebshare_permalink) (WSJ)

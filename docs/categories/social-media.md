@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, and tests $7.99/month and $19.99/month Meta AI plans, and a $49.99/month creator plan](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) (TechCrunch)
 - [TikTok is rolling out TikTok Ad-Free, a £3.99-per-month subscription for UK accounts aged 18 or older "over the coming months", after testing the option in 2023](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/) (TechCrunch)
 
 ### April

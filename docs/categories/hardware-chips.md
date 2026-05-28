@@ -9,6 +9,8 @@ layout: category
 
 ### May
 
+- [Valve hikes the Steam Deck OLED's prices due to "rising memory and storage costs": from $549 to $789 for the 512GB model and from $649 to $949 for the 1TB model](https://www.theverge.com/games/938340/valve-steam-deck-price-increase) (The Verge)
+- [Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, on sale from June 4 for $399, up from the Ring 4's $349](https://www.bloomberg.com/news/articles/2026-05-28/oura-ring-5-40-smaller-more-like-regular-ring-hypertension-and-sleep-apnea) (Bloomberg)
 - [Micron hit a $1T market value for the first time on May 26 after its stock closed up 19.29%, rising from $700B earlier in May, driven by high memory chip demand](https://www.cnbc.com/2026/05/26/micron-stock-trillion-market-cap.html) (CNBC)
 - [Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits](https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown) (Nikkei)
 - [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist](https://www.theshortcut.com/p/fitbit-air-review) (The Shortcut)
