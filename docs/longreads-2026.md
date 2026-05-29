@@ -10,6 +10,32 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, May 22 2026**
+
+  * [In more than two-thirds of the world's countries, birthrates have fallen below replacement, and researchers increasingly point the finger at smartphones and social media](https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3) (FT)
+
+
+
+**Friday, May 15 2026**
+
+  * [OpenEvidence, an AI clinical tool, is now used by ~65% of US doctors across 27M clinical encounters per month, becoming an AI-era equivalent of consulting a colleague](https://www.nbcnews.com/tech/tech-news/openevidence-ai-doctor-medical-physician-login-app-what-npi-uptodate-rcna341064) (NBC News)
+  * [Janitor AI, a romantic fantasy roleplay chatbot site run by three men, claims 2.5M DAUs and 15M total users, with 70-80% identifying as women](https://www.forbes.com/sites/annatong/2026/05/07/three-dudes-run-the-biggest-ai-romantic-fantasy-site-for-women/) (Forbes)
+
+
+
+**Friday, May 08 2026**
+
+  * [Anthropic co-founder Jack Clark explains why there's a 60%+ chance of AI systems autonomously building their successors by 2029 and the consequences of automated AI R&D](https://importai.substack.com/p/import-ai-455-automating-ai-research) (Import AI)
+  * [How Delta SkyMiles and airline loyalty programs turned carriers into fintech companies with wings, and why most airlines couldn't survive without them](https://nymag.com/intelligencer/article/delta-air-lines-loyalty-program-travel-industry.html) (NY Mag)
+
+
+
+**Friday, May 01 2026**
+
+  * [Talkie-LM: what happens when you train a language model exclusively on text from before 1930? Can it predict the future or independently rediscover General Relativity?](https://talkie-lm.com/introducing-talkie) (Talkie)
+
+
+
 **Friday, April 24 2026**
 
   * [A look at the AI nonprofit METR, maker of maybe the most important AI benchmark, whose time-horizon metrics are used by researchers and Wall Street to track AI development](https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html?unlocked_article_code=1.blA.Nhaq.ypciUWbNtpvz&smid=url-share) (NYT)
