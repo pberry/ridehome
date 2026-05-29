@@ -284,6 +284,49 @@ class TestGeneralizedSectionFinding(unittest.TestCase):
         # Verify it's the longreads section
         self.assertIn('Longread 1', links[0].get_text())
 
+    def test_finds_standalone_longreads_header(self):
+        """May 2026+: host shortened header from 'Weekend Longreads Suggestions' to just 'Longreads'"""
+        html = '''
+            <p><strong>Regular Link 1</strong> (Source)</p>
+            <ul>
+                <li><a href="https://example.com/link1">Regular Link 1</a> (Source)</li>
+                <li><a href="https://example.com/link2">Regular Link 2</a> (Source)</li>
+            </ul>
+            <p>Longreads</p>
+            <ul>
+                <li><a href="https://example.com/longread1">Longread 1</a> (NYTimes)</li>
+            </ul>
+        '''
+
+        result = find_section(html, pattern="Weekend Longreads|^Longreads|Longreads Suggestions")
+
+        self.assertIsNotNone(result)
+        self.assertEqual(result.name, 'ul')
+        links = result.find_all('a')
+        self.assertEqual(len(links), 1)
+        self.assertIn('Longread 1', links[0].get_text())
+
+    def test_timestamp_still_excluded_with_broader_pattern(self):
+        """Timestamp '15:35 Longreads' should NOT match even with broader ^Longreads pattern"""
+        html = '''
+            <p><strong>15:35 Longreads</strong></p>
+            <ul>
+                <li><a href="https://example.com/link1">Regular Link 1</a> (Source)</li>
+            </ul>
+            <p>Longreads</p>
+            <ul>
+                <li><a href="https://example.com/longread1">Longread 1</a> (NYTimes)</li>
+            </ul>
+        '''
+
+        result = find_section(html, pattern="Weekend Longreads|^Longreads|Longreads Suggestions")
+
+        self.assertIsNotNone(result)
+        links = result.find_all('a')
+        # Should find the standalone "Longreads" section, not the timestamp's UL
+        self.assertEqual(len(links), 1)
+        self.assertIn('Longread 1', links[0].get_text())
+
 
 if __name__ == '__main__':
     unittest.main()

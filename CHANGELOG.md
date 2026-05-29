@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [2.1.1] - 2026-05-28
+
+### Fixed
+- **Longreads stopped updating May 1, 2026** - Host shortened section header from "Weekend Longreads Suggestions" to just "Longreads"; the old pattern `"Weekend Longreads|Longreads Suggestions"` no longer matched
+  - Updated pattern in `extract.py` to `"Weekend Longreads|^Longreads|Longreads Suggestions"` — the `^Longreads` anchor matches standalone headers without matching timestamps like "15:35 Longreads"
+  - April 17, 2026 longreads are also missing from the DB (same cause, same intermittent header change)
+  - Added two new test cases in `test_html_parser.py`: standalone "Longreads" header detection and timestamp exclusion with the broader pattern
+
 ## [2.1.0] - 2026-01-21
 
 ### Changed

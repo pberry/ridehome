@@ -172,7 +172,7 @@ def format_entry_with_links(post, config, include_year=None):
 	if config['entry_type'] == 'showlinks':
 		content_ul = find_links_section(cleanPost)
 	elif config['entry_type'] == 'longreads':
-		content_ul = find_section(cleanPost, pattern="Weekend Longreads|Longreads Suggestions")
+		content_ul = find_section(cleanPost, pattern="Weekend Longreads|^Longreads|Longreads Suggestions")
 	else:
 		return (None, None, [])
 
