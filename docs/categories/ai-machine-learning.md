@@ -9,6 +9,10 @@ layout: category
 
 ### May
 
+- [Anthropic launches Opus 4.8, saying it's "more likely to flag uncertainties about its work and less likely to make unsupported claims", at the same price as 4.7](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) (TechCrunch)
+- [AI startup Shift launches a free home cleaning service in NYC to record first-person video with a camera-equipped cap and use it to train robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) (The Verge)
+- [Simon Willison on how coding agents gave Anthropic and OpenAI real product-market fit, burning $1,000+/month in tokens per power user and changing enterprise pricing](https://simonwillison.net/2026/May/27/product-market-fit/) (Simon Willison)
+- [Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals](https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3) (FT)
 - [Illustrations based on sources detail Apple's Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8](https://www.bloomberg.com/news/features/2026-05-28/apple-ios-27-photos-screenshots-revamped-siri-pro-camera-app-new-ai-features) (Bloomberg)
 - [Reactor, which says its AI platform can generate video in real-time with near-zero latency, emerges from stealth with a $59M Series A led by Lightspeed](https://variety.com/2026/digital/news/reactor-real-time-ai-video-funding-jeffrey-katzenberg-1236755883/) (Variety)
 - [YouTube makes its AI content labels more prominent on desktop and mobile, and will apply them automatically if it detects "significant photorealistic AI use"](https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/) (Variety)

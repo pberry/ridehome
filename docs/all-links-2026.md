@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, May 29 2026 - New Claude, New Realities**
+
+  * [Anthropic launches Opus 4.8, saying it's "more likely to flag uncertainties about its work and less likely to make unsupported claims", at the same price as 4.7](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) (TechCrunch)
+  * [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYT)
+  * [Blue Origin's New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B](https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6) (FT)
+  * [Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks](https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6) (FT)
+  * [AI startup Shift launches a free home cleaning service in NYC to record first-person video with a camera-equipped cap and use it to train robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) (The Verge)
+
+
+
 **Thursday, May 28 2026 - RAMpocalypse Now!**
 
   * [Valve hikes the Steam Deck OLED's prices due to "rising memory and storage costs": from $549 to $789 for the 512GB model and from $649 to $949 for the 1TB model](https://www.theverge.com/games/938340/valve-steam-deck-price-increase) (The Verge)

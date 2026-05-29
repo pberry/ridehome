@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, May 29 2026**
+
+  * [Simon Willison on how coding agents gave Anthropic and OpenAI real product-market fit, burning $1,000+/month in tokens per power user and changing enterprise pricing](https://simonwillison.net/2026/May/27/product-market-fit/) (Simon Willison)
+  * [Kirkland & Ellis, the world's highest-grossing law firm, is setting aside $500M to build its own AI platform rather than rely on tools available to its rivals](https://www.ft.com/content/1825bb59-7b28-460d-b009-ee3cea5dbac3) (FT)
+
+
+
 **Friday, May 22 2026**
 
   * [In more than two-thirds of the world's countries, birthrates have fallen below replacement, and researchers increasingly point the finger at smartphones and social media](https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3) (FT)

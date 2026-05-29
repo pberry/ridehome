@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYT)
 - [SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company](https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx) (Bloomberg)
 - [Polymarket partners with Nasdaq to launch markets tied to private company milestones, including IPO timing, valuations, earnings, and secondary market activity](https://www.theblock.co/post/401866/polymarket-rolls-out-prediction-markets-tracking-ipos-valuations-for-private-companies-like-openai-and-spacex) (The Block)
 - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019](https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html) (CNBC)

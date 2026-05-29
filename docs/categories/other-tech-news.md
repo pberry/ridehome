@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Blue Origin's New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B](https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6) (FT)
 - [American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others](https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html) (CNBC)
 - [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth](https://x.com/deedydas/status/2055491938464489888) (X)
 - [As founders race to make their companies "legible" to AI, they must keep the things that make them hard to copy "illegible", or risk commoditizing their moat](https://x.com/bhalligan/status/2051388275756339493) (Brian Halligan)

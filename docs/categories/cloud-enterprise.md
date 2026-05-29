@@ -9,6 +9,7 @@ layout: category
 
 ### May
 
+- [Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks](https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6) (FT)
 - [Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours](https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html) (CNBC)
 - [SpaceX's S-1 reveals Anthropic is paying $1.25B per month through May 2029 under their Colossus compute deal, with a 90-day termination clause](https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus) (The Verge)
 - [Blackstone announces a joint venture with Google to create a US company that will offer customers Google TPU access, and makes a $5B initial equity commitment](https://www.wsj.com/tech/ai/google-and-blackstone-to-create-new-ai-cloud-company-0e35b91f?st=tJmMou&reflink=desktopwebshare_permalink) (WSJ)
