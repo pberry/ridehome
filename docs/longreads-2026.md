@@ -17,6 +17,14 @@ title: Weekend Longreads 2026
 
 
 
+**Friday, April 17 2026**
+
+  * [India produces 1.5M+ CS graduates annually, but AI coding tools are forcing its $315B IT outsourcing industry into an existential reckoning](https://www.bloomberg.com/news/features/2026-04-16/the-ai-revolution-leaves-india-s-tech-graduates-unprepared-for-the-future) (Bloomberg)
+  * [Doug Liman's $70M movie Bitcoin: Killing Satoshi uses AI for sets, lighting, and more in post-production, cutting costs from an estimated $300M](https://www.thewrap.com/creative-content/movies/ai-movie-bitcoin-killing-satoshi-gal-gadot-casey-affleck-doug-liman/) (The Wrap)
+  * [Defunct startups are being liquidated for their Slack archives, Jira tickets, and email threads—operational exhaust that AI labs now treat as premium training data](https://www.forbes.com/sites/annatong/2026/04/16/ais-new-training-data-your-old-work-slacks-and-emails/) (Forbes)
+
+
+
 **Friday, April 10 2026**
 
   * [An Internet of Checkpoints](https://longreads.com/2026/02/26/internet-checkpoint-taia777-donkey-kong/) (Longreads)
