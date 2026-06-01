@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7](https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats) (The Information)
+
 ### May
 
 - [Anthropic launches Opus 4.8, saying it's "more likely to flag uncertainties about its work and less likely to make unsupported claims", at the same price as 4.7](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) (TechCrunch)

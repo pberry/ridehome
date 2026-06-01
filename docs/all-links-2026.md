@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, June 01 2026 - Interviewing For A Job At Anthropic? DON’T Use AI.**
+
+  * [Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls "the most efficient PC chip ever built", made on TSMC 3 in partnership with MediaTek](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) (The Verge)
+  * [Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them "built for agentic AI"](https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex) (Tom's Hardware)
+  * [Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748 GB of memory, capable of running 1T-parameter models](https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/) (SiliconAngle)
+  * [Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7](https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats) (The Information)
+  * [A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense](https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude) (Bloomberg)
+
+
+
 **Friday, May 29 2026 - New Claude, New Realities**
 
   * [Anthropic launches Opus 4.8, saying it's "more likely to flag uncertainties about its work and less likely to make unsupported claims", at the same price as 4.7](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) (TechCrunch)

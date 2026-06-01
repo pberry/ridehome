@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls "the most efficient PC chip ever built", made on TSMC 3 in partnership with MediaTek](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) (The Verge)
+- [Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them "built for agentic AI"](https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex) (Tom's Hardware)
+- [Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748 GB of memory, capable of running 1T-parameter models](https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/) (SiliconAngle)
+
 ### May
 
 - [Valve hikes the Steam Deck OLED's prices due to "rising memory and storage costs": from $549 to $789 for the 512GB model and from $649 to $949 for the 1TB model](https://www.theverge.com/games/938340/valve-steam-deck-price-increase) (The Verge)

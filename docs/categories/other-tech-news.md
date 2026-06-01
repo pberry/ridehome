@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense](https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude) (Bloomberg)
+
 ### May
 
 - [Blue Origin's New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B](https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6) (FT)
