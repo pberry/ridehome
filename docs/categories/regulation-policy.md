@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others](https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8) (FT)
+
 ### May
 
 - [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYT)

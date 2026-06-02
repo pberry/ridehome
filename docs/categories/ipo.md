@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYT)
+
 ### May
 
 - [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYT)

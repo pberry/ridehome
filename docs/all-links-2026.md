@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, June 02 2026 - What Will These IPOs Do To The Stock Market?**
+
+  * [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYT)
+  * [Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others](https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8) (FT)
+  * [Alphabet is raising $80B through equity offerings, including a $10B investment deal with Berkshire, to fund AI spending, in one of the largest equity deals ever](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending) (Bloomberg)
+  * [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability](https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html) (NYT)
+
+
+
 **Monday, June 01 2026 - Interviewing For A Job At Anthropic? DON’T Use AI.**
 
   * [Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls "the most efficient PC chip ever built", made on TSMC 3 in partnership with MediaTek](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) (The Verge)

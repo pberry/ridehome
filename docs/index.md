@@ -3,13 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, June 01, 2026 - Interviewing For A Job At Anthropic? DON’T Use AI.</h3>
+  <h3>Tuesday, June 02, 2026 - What Will These IPOs Do To The Stock Market?</h3>
   <ul>
-    <li><a href="https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date">Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls "the most efficient PC chip ever built", made on TSMC 3 in partnership with MediaTek</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex">Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them "built for agentic AI"</a> (Tom's Hardware) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/">Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748 GB of memory, capable of running 1T-parameter models</a> (SiliconAngle) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats">Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude">A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html">Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026</a> (NYT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8">Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending">Alphabet is raising $80B through equity offerings, including a $10B investment deal with Berkshire, to fund AI spending, in one of the largest equity deals ever</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html">Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability</a> (NYT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +34,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-01T14:32:03-07:00">June 01, 2026 at 02:32 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-02T13:47:39-07:00">June 02, 2026 at 01:47 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,684</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,688</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,774</span></li>
       </ul>
     </div>
@@ -49,17 +48,17 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(110 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(108 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(77 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(94 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(91 links)</span></li>
       </ol>
     </div>

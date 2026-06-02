@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Alphabet is raising $80B through equity offerings, including a $10B investment deal with Berkshire, to fund AI spending, in one of the largest equity deals ever](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending) (Bloomberg)
+- [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability](https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html) (NYT)
 - [Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7](https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats) (The Information)
 
 ### May
