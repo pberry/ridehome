@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Microsoft unveils a Surface RTX Spark Dev Box, featuring Nvidia's Arm-based RTX Spark, 128GB of unified memory, and a 100W thermal envelope, for local AI tasks](https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability) (The Verge)
 - [Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls "the most efficient PC chip ever built", made on TSMC 3 in partnership with MediaTek](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) (The Verge)
 - [Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them "built for agentic AI"](https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex) (Tom's Hardware)
 - [Nvidia unveils DGX Station for Windows, a desktop PC powered by a GB300 Grace Blackwell chip with up to 748 GB of memory, capable of running 1T-parameter models](https://siliconangle.com/2026/06/01/nvidia-squeezes-powerful-1-trillion-parameter-ai-supercomputer-deskside-form-factor/) (SiliconAngle)

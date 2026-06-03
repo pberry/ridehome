@@ -9,6 +9,10 @@ layout: category
 
 ### June
 
+- [Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw that appears as a Microsoft Teams contact to automate tasks such as scheduling](https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/) (Wired)
+- [Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained "from the ground up on clean data, without distillation from third-party models"](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) (The Verge)
+- [Microsoft unveils Project Solara, an Android-based platform for agent-first devices, with concept hardware and pilots planned at Best Buy, Target, and others](https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/) (GeekWire)
+- [Microsoft unveils Microsoft Execution Containers, a Windows-level sandbox for AI agents, and says partners OpenAI, Nvidia, Manus, and Nous Research are using it](https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board) (VentureBeat)
 - [Alphabet is raising $80B through equity offerings, including a $10B investment deal with Berkshire, to fund AI spending, in one of the largest equity deals ever](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending) (Bloomberg)
 - [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability](https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html) (NYT)
 - [Chinese AI developer MiniMax debuts M3, a new coding model that it says rivals Claude Opus 4.7, costing $0.12 per 1M input tokens, compared with $5 for Opus 4.7](https://www.theinformation.com/briefings/chinas-minimax-launches-new-model-open-source-ai-coding-battle-heats) (The Information)

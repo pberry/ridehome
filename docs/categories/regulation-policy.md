@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [President Trump signs a scaled-back AI EO that seeks to address AI's cybersecurity threats; sources say it imposes less scrutiny on AI than the scrapped version](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389) (Politico)
 - [Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others](https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8) (FT)
 
 ### May

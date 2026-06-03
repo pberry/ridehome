@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, June 03 2026 - Microsoft Build**
+
+  * [Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw that appears as a Microsoft Teams contact to automate tasks such as scheduling](https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/) (Wired)
+  * [Microsoft unveils a Surface RTX Spark Dev Box, featuring Nvidia's Arm-based RTX Spark, 128GB of unified memory, and a 100W thermal envelope, for local AI tasks](https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability) (The Verge)
+  * [Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained "from the ground up on clean data, without distillation from third-party models"](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) (The Verge)
+  * [Microsoft unveils Project Solara, an Android-based platform for agent-first devices, with concept hardware and pilots planned at Best Buy, Target, and others](https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/) (GeekWire)
+  * [Microsoft unveils Microsoft Execution Containers, a Windows-level sandbox for AI agents, and says partners OpenAI, Nvidia, Manus, and Nous Research are using it](https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board) (VentureBeat)
+  * [President Trump signs a scaled-back AI EO that seeks to address AI's cybersecurity threats; sources say it imposes less scrutiny on AI than the scrapped version](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389) (Politico)
+
+
+
 **Tuesday, June 02 2026 - What Will These IPOs Do To The Stock Market?**
 
   * [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYT)
