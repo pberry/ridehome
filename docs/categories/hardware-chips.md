@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [TSMC CEO C.C. Wei says the company won't be able to fulfill the demand led by US customers even as more capacity comes online in the US over the next few years](https://www.bloomberg.com/news/articles/2026-06-04/tsmc-ceo-warns-chip-supply-won-t-meet-ai-fueled-demand-for-years) (Bloomberg)
 - [Microsoft unveils a Surface RTX Spark Dev Box, featuring Nvidia's Arm-based RTX Spark, 128GB of unified memory, and a 100W thermal envelope, for local AI tasks](https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability) (The Verge)
 - [Nvidia announces the RTX Spark, an Arm-based consumer chip family it calls "the most efficient PC chip ever built", made on TSMC 3 in partnership with MediaTek](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date) (The Verge)
 - [Intel details its Crescent Island data center GPUs, built on its Xe3P architecture and using LPDDR5X memory instead of HBM, calling them "built for agentic AI"](https://www.tomshardware.com/pc-components/gpus/intel-details-long-awaited-crescent-island-ai-gpu-at-computex-boasts-up-to-480-gb-of-lpddr5x-to-combat-memory-shortages-company-shares-more-details-of-its-xe3p-inference-accelerator-at-computex) (Tom's Hardware)

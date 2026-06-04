@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, June 04 2026 - Small And Open Source Still Has A Horse In This Race**
+
+  * [Google releases Gemma 4 12B, an 11.95B-parameter unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory](https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop) (VentureBeat)
+  * [Public First: 26% of Americans support increased data center construction, the lowest share among 15 large countries, such as Brazil, Japan, the UK, and Canada](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852) (FT)
+  * [Sam Altman and Dario Amodei are among the signatories on a public letter urging improved tracking of synthetic DNA that could be used in AI-developed bioweapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/) (Wired)
+  * [TSMC CEO C.C. Wei says the company won't be able to fulfill the demand led by US customers even as more capacity comes online in the US over the next few years](https://www.bloomberg.com/news/articles/2026-06-04/tsmc-ceo-warns-chip-supply-won-t-meet-ai-fueled-demand-for-years) (Bloomberg)
+  * [Corporate spending management platform Ramp raised $750M at a $44B valuation led by Iconiq, Singapore's GIC, and the OTPP, taking its total funding to $3B](https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round) (Bloomberg)
+  * [Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude](https://www.anthropic.com/institute/recursive-self-improvement) (Anthropic)
+
+
+
 **Wednesday, June 03 2026 - Microsoft Build**
 
   * [Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw that appears as a Microsoft Teams contact to automate tasks such as scheduling](https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/) (Wired)

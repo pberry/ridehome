@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Public First: 26% of Americans support increased data center construction, the lowest share among 15 large countries, such as Brazil, Japan, the UK, and Canada](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852) (FT)
+- [Sam Altman and Dario Amodei are among the signatories on a public letter urging improved tracking of synthetic DNA that could be used in AI-developed bioweapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/) (Wired)
 - [President Trump signs a scaled-back AI EO that seeks to address AI's cybersecurity threats; sources say it imposes less scrutiny on AI than the scrapped version](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389) (Politico)
 - [Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others](https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8) (FT)
 

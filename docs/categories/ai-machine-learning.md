@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Google releases Gemma 4 12B, an 11.95B-parameter unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory](https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop) (VentureBeat)
+- [Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude](https://www.anthropic.com/institute/recursive-self-improvement) (Anthropic)
 - [Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw that appears as a Microsoft Teams contact to automate tasks such as scheduling](https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/) (Wired)
 - [Microsoft debuts MAI-Thinking-1, its first advanced reasoning AI model, trained "from the ground up on clean data, without distillation from third-party models"](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026) (The Verge)
 - [Microsoft unveils Project Solara, an Android-based platform for agent-first devices, with concept hardware and pilots planned at Best Buy, Target, and others](https://www.geekwire.com/2026/inside-microsofts-project-solara-a-new-platform-for-devices-that-run-ai-agents-instead-of-apps/) (GeekWire)
