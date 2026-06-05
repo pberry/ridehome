@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815) (FT)
+
 ### May
 
 - [As AI tools like Mythos create a "bug-pocalypse", Glassdoor says Q1 cybersecurity job postings rose 11% YoY, and executive search firms are turning away clients](https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html) (NYT)

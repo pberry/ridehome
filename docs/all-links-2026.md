@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 05 2026 - The Bots Have Won The Web!**
+
+  * [Cloudflare CEO Matthew Prince says agentic traffic is "growing so fast that bots have now passed human traffic online for the first time"](https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year) (Tom's Hardware)
+  * [S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) (Bloomberg)
+  * [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815) (FT)
+  * [Analysis: Meta discreetly added code for an unreleased "NameTag" face-recognition system for its AI smart glasses over multiple Meta AI app updates in 2026](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/) (Wired)
+  * [University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans](https://www.bbc.com/news/articles/crrpggegwe0o) (BBC)
+
+
+
 **Thursday, June 04 2026 - Small And Open Source Still Has A Horse In This Race**
 
   * [Google releases Gemma 4 12B, an 11.95B-parameter unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory](https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop) (VentureBeat)

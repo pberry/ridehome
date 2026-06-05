@@ -9,6 +9,9 @@ layout: category
 
 ### June
 
+- [Analysis: Meta discreetly added code for an unreleased "NameTag" face-recognition system for its AI smart glasses over multiple Meta AI app updates in 2026](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/) (Wired)
+- [University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans](https://www.bbc.com/news/articles/crrpggegwe0o) (BBC)
+- [Ted Chiang argues LLM conversations are cleverly disguised sentence continuation, not consciousness, and that no intrinsic property of neural networks suggests otherwise](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=1ga2TvL-DbuHDQIcYF7oR7CsNA92bD_yo6VqlH7-uco&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
 - [Google releases Gemma 4 12B, an 11.95B-parameter unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory](https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop) (VentureBeat)
 - [Anthropic details its progress toward recursive self-improvement, and its implications, and says 80%+ of the code merged into its codebase is authored by Claude](https://www.anthropic.com/institute/recursive-self-improvement) (Anthropic)
 - [Microsoft announces Scout, an always-on enterprise AI agent built on OpenClaw that appears as a Microsoft Teams contact to automate tasks such as scheduling](https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/) (Wired)

@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 05 2026**
+
+  * [A preview of what to expect from WWDC on Monday, including iOS 27, a revamped Siri, macOS 27 Liquid Glass refinements, and more](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce) (Bloomberg)
+  * [Ted Chiang argues LLM conversations are cleverly disguised sentence continuation, not consciousness, and that no intrinsic property of neural networks suggests otherwise](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=1ga2TvL-DbuHDQIcYF7oR7CsNA92bD_yo6VqlH7-uco&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
+
+
+
 **Friday, May 29 2026**
 
   * [Simon Willison on how coding agents gave Anthropic and OpenAI real product-market fit, burning $1,000+/month in tokens per power user and changing enterprise pricing](https://simonwillison.net/2026/May/27/product-market-fit/) (Simon Willison)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Cloudflare CEO Matthew Prince says agentic traffic is "growing so fast that bots have now passed human traffic online for the first time"](https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year) (Tom's Hardware)
+
 ### May
 
 - [Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks](https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6) (FT)
