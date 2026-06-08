@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029](https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal) (Bloomberg)
 - [Cloudflare CEO Matthew Prince says agentic traffic is "growing so fast that bots have now passed human traffic online for the first time"](https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year) (Tom's Hardware)
 
 ### May

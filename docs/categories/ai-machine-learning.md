@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app](https://9to5mac.com/2026/06/08/new-siri-whats-new/) (9to5Mac)
+- [OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products](https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9) (FT)
 - [Analysis: Meta discreetly added code for an unreleased "NameTag" face-recognition system for its AI smart glasses over multiple Meta AI app updates in 2026](https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/) (Wired)
 - [University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans](https://www.bbc.com/news/articles/crrpggegwe0o) (BBC)
 - [Ted Chiang argues LLM conversations are cleverly disguised sentence continuation, not consciousness, and that no intrinsic property of neural networks suggests otherwise](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/?gift=1ga2TvL-DbuHDQIcYF7oR7CsNA92bD_yo6VqlH7-uco&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)

@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says) (Bloomberg)
 - [Public First: 26% of Americans support increased data center construction, the lowest share among 15 large countries, such as Brazil, Japan, the UK, and Canada](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852) (FT)
 - [Sam Altman and Dario Amodei are among the signatories on a public letter urging improved tracking of synthetic DNA that could be used in AI-developed bioweapons](https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/) (Wired)
 - [President Trump signs a scaled-back AI EO that seeks to address AI's cybersecurity threats; sources say it imposes less scrutiny on AI than the scrapped version](https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389) (Politico)

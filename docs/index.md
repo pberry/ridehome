@@ -3,13 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, June 05, 2026 - The Bots Have Won The Web!</h3>
+  <h3>Monday, June 08, 2026 - WWD-See... Anything?</h3>
   <ul>
-    <li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year">Cloudflare CEO Matthew Prince says agentic traffic is "growing so fast that bots have now passed human traffic online for the first time"</a> (Tom's Hardware) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation">S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815">Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations</a> (FT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/">Analysis: Meta discreetly added code for an unreleased "NameTag" face-recognition system for its AI smart glasses over multiple Meta AI app updates in 2026</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bbc.com/news/articles/crrpggegwe0o">University of Cambridge researchers say they have developed the first vaccine with a key component entirely designed by AI and subsequently trialed it in humans</a> (BBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/06/08/new-siri-whats-new/">Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal">Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029</a> (Bloomberg) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says">President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9">OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +34,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-05T12:53:45-07:00">June 05, 2026 at 12:53 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-08T14:09:53-07:00">June 08, 2026 at 02:09 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,705</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,709</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,776</span></li>
       </ul>
     </div>
@@ -49,7 +48,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(109 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(74 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
       </ol>
@@ -58,8 +57,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(89 links)</span></li>
       </ol>
     </div>

@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, June 08 2026 - WWD-See... Anything?**
+
+  * [Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app](https://9to5mac.com/2026/06/08/new-siri-whats-new/) (9to5Mac)
+  * [Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029](https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal) (Bloomberg)
+  * [President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says) (Bloomberg)
+  * [OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products](https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9) (FT)
+
+
+
 **Friday, June 05 2026 - The Bots Have Won The Web!**
 
   * [Cloudflare CEO Matthew Prince says agentic traffic is "growing so fast that bots have now passed human traffic online for the first time"](https://www.tomshardware.com/tech-industry/artificial-intelligence/bots-have-now-passed-human-traffic-online-cloudflare-boss-laments-says-agentic-traffic-wasnt-expected-to-eclipse-real-people-until-next-year) (Tom's Hardware)
