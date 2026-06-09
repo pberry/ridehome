@@ -3,12 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, June 08, 2026 - WWD-See... Anything?</h3>
+  <h3>Tuesday, June 09, 2026 - Claude Fable 5</h3>
   <ul>
-    <li><a href="https://9to5mac.com/2026/06/08/new-siri-whats-new/">Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal">Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029</a> (Bloomberg) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says">President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9">OpenAI plans to overhaul ChatGPT in the coming weeks, turning it into a superapp with coding tools and AI agents to serve as a gateway to higher-margin products</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/">Anthropic releases Claude Fable 5, a "safe" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html">OpenAI confidentially files for an IPO, says it has "not decided on timing yet", as "there are things we want to do that are likely easier as a private company"</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/">Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://spyglass.org/siri-ai/">MG Siegler: after being left for dead in AI, Apple is set to win at the consumer level — the power of the default, superior product instincts, and no real competition</a> (Spyglass) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://stratechery.com/2026/the-iphones-last-stand/">Ben Thompson: the iPhone is the true core of Siri AI, and Apple is the only company positioned to work across apps with personal context — as long as it's not vaporware</a> (Stratechery) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -34,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-08T14:09:53-07:00">June 08, 2026 at 02:09 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-09T13:06:04-07:00">June 09, 2026 at 01:06 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,709</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,714</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,776</span></li>
       </ul>
     </div>
@@ -49,15 +50,15 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(74 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(89 links)</span></li>
       </ol>

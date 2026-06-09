@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, June 09 2026 - Claude Fable 5**
+
+  * [Anthropic releases Claude Fable 5, a "safe" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs](https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/) (Wired)
+  * [OpenAI confidentially files for an IPO, says it has "not decided on timing yet", as "there are things we want to do that are likely easier as a private company"](https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html) (CNBC)
+  * [Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (TechCrunch)
+  * [MG Siegler: after being left for dead in AI, Apple is set to win at the consumer level — the power of the default, superior product instincts, and no real competition](https://spyglass.org/siri-ai/) (Spyglass)
+  * [Ben Thompson: the iPhone is the true core of Siri AI, and Apple is the only company positioned to work across apps with personal context — as long as it's not vaporware](https://stratechery.com/2026/the-iphones-last-stand/) (Stratechery)
+
+
+
 **Monday, June 08 2026 - WWD-See... Anything?**
 
   * [Apple announces Siri AI, with on-screen awareness, personal context understanding, a Dynamic Island-based interface, and more, along with a new Siri app](https://9to5mac.com/2026/06/08/new-siri-whats-new/) (9to5Mac)

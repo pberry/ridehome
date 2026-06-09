@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [OpenAI confidentially files for an IPO, says it has "not decided on timing yet", as "there are things we want to do that are likely easier as a private company"](https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html) (CNBC)
 - [S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) (Bloomberg)
 - [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYT)
 

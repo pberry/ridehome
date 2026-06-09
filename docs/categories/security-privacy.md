@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (TechCrunch)
 - [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815) (FT)
 
 ### May
