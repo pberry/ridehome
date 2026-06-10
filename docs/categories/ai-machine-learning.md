@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc) (The Verge)
 - [Anthropic releases Claude Fable 5, a "safe" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs](https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/) (Wired)
 - [MG Siegler: after being left for dead in AI, Apple is set to win at the consumer level — the power of the default, superior product instincts, and no real competition](https://spyglass.org/siri-ai/) (Spyglass)
 - [Ben Thompson: the iPhone is the true core of Siri AI, and Apple is the only company positioned to work across apps with personal context — as long as it's not vaporware](https://stratechery.com/2026/the-iphones-last-stand/) (Stratechery)

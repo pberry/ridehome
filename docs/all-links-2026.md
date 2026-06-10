@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, June 10 2026 - Elon Hype Works For One Business, Not The Other**
+
+  * [Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation](https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d) (WSJ)
+  * [Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) (Krebs on Security)
+  * [Sources: SpaceX has drawn $250B+ of investor demand for what is poised to be the largest IPO to date, far beyond the $75B that SpaceX is aiming to raise](https://www.reuters.com/world/spacex-ipo-demand-is-approaching-four-times-oversubscribed-source-says-2026-06-09/) (Reuters)
+  * [Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk's big promises](https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises) (Bloomberg)
+  * [Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc) (The Verge)
+
+
+
 **Tuesday, June 09 2026 - Claude Fable 5**
 
   * [Anthropic releases Claude Fable 5, a "safe" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs](https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/) (Wired)

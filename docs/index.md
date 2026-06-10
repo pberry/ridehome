@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, June 09, 2026 - Claude Fable 5</h3>
+  <h3>Wednesday, June 10, 2026 - Elon Hype Works For One Business, Not The Other</h3>
   <ul>
-    <li><a href="https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/">Anthropic releases Claude Fable 5, a "safe" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html">OpenAI confidentially files for an IPO, says it has "not decided on timing yet", as "there are things we want to do that are likely easier as a private company"</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/">Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://spyglass.org/siri-ai/">MG Siegler: after being left for dead in AI, Apple is set to win at the consumer level — the power of the default, superior product instincts, and no real competition</a> (Spyglass) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://stratechery.com/2026/the-iphones-last-stand/">Ben Thompson: the iPhone is the true core of Siri AI, and Apple is the only company positioned to work across apps with personal context — as long as it's not vaporware</a> (Stratechery) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d">Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/">Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs</a> (Krebs on Security) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.reuters.com/world/spacex-ipo-demand-is-approaching-four-times-oversubscribed-source-says-2026-06-09/">Sources: SpaceX has drawn $250B+ of investor demand for what is poised to be the largest IPO to date, far beyond the $75B that SpaceX is aiming to raise</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises">Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk's big promises</a> (Bloomberg) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc">Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-09T13:06:04-07:00">June 09, 2026 at 01:06 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-10T13:28:37-07:00">June 10, 2026 at 01:28 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,714</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,719</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,776</span></li>
       </ul>
     </div>
@@ -49,18 +49,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(112 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(72 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(89 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(88 links)</span></li>
       </ol>
     </div>
   </div>
