@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents](https://www.reuters.com/legal/litigation/us-seizes-13-website-domains-tied-alleged-chinese-intelligence-collection-2026-06-10/) (Reuters)
 - [Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) (Krebs on Security)
 - [Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (TechCrunch)
 - [Sources: Anthropic has embedded around half a dozen forward-deployed engineers within the NSA to help the agency deploy Mythos for offensive cyber operations](https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815) (FT)

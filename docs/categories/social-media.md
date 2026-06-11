@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in September 2019](https://9to5google.com/2026/06/10/youtube-new-messaging-chat/) (9to5Google)
+
 ### May
 
 - [Meta rolls out Plus plans for Instagram, Facebook, and WhatsApp globally, and tests $7.99/month and $19.99/month Meta AI plans, and a $49.99/month creator plan](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) (TechCrunch)

@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying "requests will visibly fall back to Opus 4.8", after backlash](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/) (Wired)
+- [Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?st=1Yyrco) (WSJ)
 - [Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc) (The Verge)
 - [Anthropic releases Claude Fable 5, a "safe" Mythos-class model it says can't be used for cyberattacks, to the public, and Claude Mythos 5 to trusted orgs](https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/) (Wired)
 - [MG Siegler: after being left for dead in AI, Apple is set to win at the consumer level — the power of the default, superior product instincts, and no real competition](https://spyglass.org/siri-ai/) (Spyglass)

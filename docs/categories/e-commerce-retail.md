@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts](https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html) (CNBC)
+
 ### May
 
 - [GameStop makes an unsolicited ~$56B offer to buy eBay after building a ~5% stake, offering $125/share in cash and stock, a ~20% premium on May 1's closing price](https://www.wsj.com/business/deals/gamestop-is-offering-to-buy-ebay-for-56-billion-ceo-ryan-cohen-says-fd330f5a) (WSJ)

@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Dario Amodei outlines policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, geopolitics, more](https://darioamodei.com/post/policy-on-the-ai-exponential) (Dario Amodei)
 - [Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation](https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d) (WSJ)
 - [President Trump says he is weighing proposals for US government to hold equity stakes in leading AI labs, and will soon discuss the idea with their executives](https://www.bloomberg.com/news/articles/2026-06-05/us-exploring-government-partnerships-with-ai-firms-trump-says) (Bloomberg)
 - [Public First: 26% of Americans support increased data center construction, the lowest share among 15 large countries, such as Brazil, Japan, the UK, and Canada](https://www.ft.com/content/ed07dc6c-aabe-4e4d-a508-4d2b4f24a852) (FT)

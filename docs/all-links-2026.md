@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, June 11 2026 - A Claude Clawback**
+
+  * [Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying "requests will visibly fall back to Opus 4.8", after backlash](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/) (Wired)
+  * [Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?st=1Yyrco) (WSJ)
+  * [Dario Amodei outlines policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, geopolitics, more](https://darioamodei.com/post/policy-on-the-ai-exponential) (Dario Amodei)
+  * [The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents](https://www.reuters.com/legal/litigation/us-seizes-13-website-domains-tied-alleged-chinese-intelligence-collection-2026-06-10/) (Reuters)
+  * [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in September 2019](https://9to5google.com/2026/06/10/youtube-new-messaging-chat/) (9to5Google)
+  * [DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts](https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html) (CNBC)
+
+
+
 **Wednesday, June 10 2026 - Elon Hype Works For One Business, Not The Other**
 
   * [Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation](https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d) (WSJ)

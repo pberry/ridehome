@@ -3,13 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, June 10, 2026 - Elon Hype Works For One Business, Not The Other</h3>
+  <h3>Thursday, June 11, 2026 - A Claude Clawback</h3>
   <ul>
-    <li><a href="https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d">Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/">Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs</a> (Krebs on Security) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.reuters.com/world/spacex-ipo-demand-is-approaching-four-times-oversubscribed-source-says-2026-06-09/">Sources: SpaceX has drawn $250B+ of investor demand for what is poised to be the largest IPO to date, far beyond the $75B that SpaceX is aiming to raise</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises">Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk's big promises</a> (Bloomberg) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
-    <li><a href="https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc">Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/">Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying "requests will visibly fall back to Opus 4.8", after backlash</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?st=1Yyrco">Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://darioamodei.com/post/policy-on-the-ai-exponential">Dario Amodei outlines policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, geopolitics, more</a> (Dario Amodei) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.reuters.com/legal/litigation/us-seizes-13-website-domains-tied-alleged-chinese-intelligence-collection-2026-06-10/">The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents</a> (Reuters) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://9to5google.com/2026/06/10/youtube-new-messaging-chat/">YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in September 2019</a> (9to5Google) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
+    <li><a href="https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html">DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts</a> (CNBC) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
   </ul>
 </section>
 
@@ -35,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-10T13:28:37-07:00">June 10, 2026 at 01:28 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-11T13:20:31-07:00">June 11, 2026 at 01:20 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,719</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,725</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,776</span></li>
       </ul>
     </div>
@@ -50,16 +51,16 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(112 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(93 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(88 links)</span></li>
       </ol>
     </div>
