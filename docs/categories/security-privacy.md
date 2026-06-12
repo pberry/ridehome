@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/) (TechCrunch)
 - [The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents](https://www.reuters.com/legal/litigation/us-seizes-13-website-domains-tied-alleged-chinese-intelligence-collection-2026-06-10/) (Reuters)
 - [Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) (Krebs on Security)
 - [Microsoft disabled 70+ of its repos on GitHub, including Azure-related tools like azure-functions-host, after hackers added credential-stealing malware to them](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) (TechCrunch)

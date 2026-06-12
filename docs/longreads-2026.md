@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 12 2026**
+
+  * [As companies are hit by rising AI costs, they are increasingly using tools that tap cheaper models, including some from China, putting price pressure on OpenAI and Anthropic](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink) (WSJ)
+  * [Sixteen economists weigh in on what AI will mean for the US economy, workers, and workplaces; only two expect AI to actually create more jobs](https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9?st=DQTFjz&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Friday, June 05 2026**
 
   * [A preview of what to expect from WWDC on Monday, including iOS 27, a revamped Siri, macOS 27 Liquid Glass refinements, and more](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce) (Bloomberg)

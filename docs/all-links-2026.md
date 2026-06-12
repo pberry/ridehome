@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 12 2026 - The SpaceX IPO**
+
+  * [SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T](https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo) (Bloomberg)
+  * [Founders Fund's ~3% SpaceX stake is worth $50B+, Sequoia's ~1.5% is worth $20B+, and a16z will see its biggest return ever at $10B+](https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo) (Bloomberg)
+  * [Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) (NYT)
+  * [Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/) (TechCrunch)
+  * [Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025](https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation) (Bloomberg)
+  * [MrBeast hits 500M subscribers on YouTube, a record for the platform](https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/) (The Wrap)
+  * [Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX](https://www.reuters.com/legal/government/sam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12/) (Reuters)
+
+
+
 **Thursday, June 11 2026 - A Claude Clawback**
 
   * [Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying "requests will visibly fall back to Opus 4.8", after backlash](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/) (Wired)

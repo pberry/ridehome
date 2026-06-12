@@ -9,6 +9,9 @@ layout: category
 
 ### June
 
+- [Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025](https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation) (Bloomberg)
+- [As companies are hit by rising AI costs, they are increasingly using tools that tap cheaper models, including some from China, putting price pressure on OpenAI and Anthropic](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink) (WSJ)
+- [Sixteen economists weigh in on what AI will mean for the US economy, workers, and workplaces; only two expect AI to actually create more jobs](https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9?st=DQTFjz&reflink=desktopwebshare_permalink) (WSJ)
 - [Anthropic backtracks on its decision to quietly limit Fable 5's ability to develop LLMs, saying "requests will visibly fall back to Opus 4.8", after backlash](https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/) (Wired)
 - [Sources: OpenAI is considering drastically lowering the prices it charges users for tokens in anticipation of similar cuts the startup expects Anthropic to make](https://www.wsj.com/tech/ai/openai-considers-drastic-price-cuts-anticipating-war-for-users-with-anthropic-9b8c178e?st=1Yyrco) (WSJ)
 - [Hands-on with Siri AI: successfully executed multistep prompts, understood context well, has strong guardrails, and seems a bit more dispassionate than Gemini](https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc) (The Verge)

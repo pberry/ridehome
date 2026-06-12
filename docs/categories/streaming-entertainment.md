@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [MrBeast hits 500M subscribers on YouTube, a record for the platform](https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/) (The Wrap)
+
 ### May
 
 - [Roku launches its first major homescreen overhaul in over a decade, including a large "marquee" ad spot to tout apps or shows, in a bid to drive more engagement](https://www.hollywoodreporter.com/tv/tv-news/roku-changes-homescreen-overhaul-1236606121/) (Hollywood Reporter)
