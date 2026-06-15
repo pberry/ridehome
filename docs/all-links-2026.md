@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, June 15 2026 - Fable Thrown Under The Bus**
+
+  * [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable) (Axios)
+  * [The US Commerce Dept blocked foreign persons from accessing Fable 5 and Mythos 5; Anthropic cut off all customers to comply, calling the disclosed jailbreaks minor](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) (The Verge)
+  * [Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) (NYT)
+  * [Amazon researchers showed Fable's safeguards could be evaded; Jassy raised it with Treasury's Bessent, helping set the export controls in motion](https://www.wsj.com/tech/ai/anthropic-dispatches-staff-to-d-c-racing-to-resolve-ai-export-restrictions-71303d42) (WSJ)
+  * [Fox says it is acquiring Roku in its largest deal yet, valued at ~$22B including debt, giving it access to 100M+ streaming households globally; FOX drops 10%+](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa) (WSJ)
+  * [Keir Starmer says the UK will ban social media for under-16s to "give kids their childhood back", using an Australia-like model, in effect by next spring](https://www.reuters.com/business/media-telecom/britain-expected-set-out-under-16s-social-media-restrictions-2026-06-14/) (Reuters)
+  * [UK's under-16 ban will cover Snapchat, TikTok, YouTube, Instagram, Facebook, and X but exempt WhatsApp and Signal; AI companion chatbots must be 18+](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/) (TechCrunch)
+  * [Chinese Tesla drivers are using tiny plastic heads to fool Tesla's distracted-driving controls, which appear unable to distinguish figurines from real people](https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/) (Wired)
+  * [Chinese Tesla owners use figurines, photos, lenticular images, and looping face videos to bypass cabin-camera monitoring, sold for $10–$40 online](https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/) (Digital Trends)
+
+
+
 **Friday, June 12 2026 - The SpaceX IPO**
 
   * [SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T](https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo) (Bloomberg)

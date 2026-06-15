@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Amazon researchers showed Fable's safeguards could be evaded; Jassy raised it with Treasury's Bessent, helping set the export controls in motion](https://www.wsj.com/tech/ai/anthropic-dispatches-staff-to-d-c-racing-to-resolve-ai-export-restrictions-71303d42) (WSJ)
+- [Chinese Tesla owners use figurines, photos, lenticular images, and looping face videos to bypass cabin-camera monitoring, sold for $10–$40 online](https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/) (Digital Trends)
 - [Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/) (TechCrunch)
 - [The FBI seizes 13 domains allegedly tied to fake consulting firms that sought information from US government and military employees for suspected Chinese agents](https://www.reuters.com/legal/litigation/us-seizes-13-website-domains-tied-alleged-chinese-intelligence-collection-2026-06-10/) (Reuters)
 - [Microsoft's June 2026 Patch Tuesday fixes a record nearly 200 security flaws, 33 rated Critical, as it and security researchers increasingly use AI to find bugs](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) (Krebs on Security)

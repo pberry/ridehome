@@ -3,15 +3,17 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, June 12, 2026 - The SpaceX IPO</h3>
+  <h3>Monday, June 15, 2026 - Fable Thrown Under The Bus</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo">SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo">Founders Fund's ~3% SpaceX stake is worth $50B+, Sequoia's ~1.5% is worth $20B+, and a16z will see its biggest return ever at $10B+</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html">Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers</a> (NYT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/">Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation">Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/">MrBeast hits 500M subscribers on YouTube, a record for the platform</a> (The Wrap) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.reuters.com/legal/government/sam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12/">Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable">Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security">The US Commerce Dept blocked foreign persons from accessing Fable 5 and Mythos 5; Anthropic cut off all customers to comply, calling the disclosed jailbreaks minor</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html">Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response</a> (NYT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/anthropic-dispatches-staff-to-d-c-racing-to-resolve-ai-export-restrictions-71303d42">Amazon researchers showed Fable's safeguards could be evaded; Jassy raised it with Treasury's Bessent, helping set the export controls in motion</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa">Fox says it is acquiring Roku in its largest deal yet, valued at ~$22B including debt, giving it access to 100M+ streaming households globally; FOX drops 10%+</a> (WSJ) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.reuters.com/business/media-telecom/britain-expected-set-out-under-16s-social-media-restrictions-2026-06-14/">Keir Starmer says the UK will ban social media for under-16s to "give kids their childhood back", using an Australia-like model, in effect by next spring</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/">UK's under-16 ban will cover Snapchat, TikTok, YouTube, Instagram, Facebook, and X but exempt WhatsApp and Signal; AI companion chatbots must be 18+</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/">Chinese Tesla drivers are using tiny plastic heads to fool Tesla's distracted-driving controls, which appear unable to distinguish figurines from real people</a> (Wired) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/">Chinese Tesla owners use figurines, photos, lenticular images, and looping face videos to bypass cabin-camera monitoring, sold for $10–$40 online</a> (Digital Trends) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -37,13 +39,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-12T13:09:48-07:00">June 12, 2026 at 01:09 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-15T13:54:09-07:00">June 15, 2026 at 01:54 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,732</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,741</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,778</span></li>
       </ul>
     </div>
@@ -51,18 +53,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(115 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(76 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(112 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(75 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(94 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(88 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(97 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(86 links)</span></li>
       </ol>
     </div>
   </div>

@@ -9,6 +9,11 @@ layout: category
 
 ### June
 
+- [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable) (Axios)
+- [The US Commerce Dept blocked foreign persons from accessing Fable 5 and Mythos 5; Anthropic cut off all customers to comply, calling the disclosed jailbreaks minor](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) (The Verge)
+- [Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) (NYT)
+- [Keir Starmer says the UK will ban social media for under-16s to "give kids their childhood back", using an Australia-like model, in effect by next spring](https://www.reuters.com/business/media-telecom/britain-expected-set-out-under-16s-social-media-restrictions-2026-06-14/) (Reuters)
+- [UK's under-16 ban will cover Snapchat, TikTok, YouTube, Instagram, Facebook, and X but exempt WhatsApp and Signal; AI companion chatbots must be 18+](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/) (TechCrunch)
 - [Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX](https://www.reuters.com/legal/government/sam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12/) (Reuters)
 - [Dario Amodei outlines policy responses to AI's exponential progress across regulation and public safety, macroeconomics and taxes, science, geopolitics, more](https://darioamodei.com/post/policy-on-the-ai-exponential) (Dario Amodei)
 - [Sources: the CFTC will propose new prediction market rules, banning bets it finds aren't in the public interest or that seem highly susceptible to manipulation](https://www.wsj.com/finance/regulation/trump-cftc-prediction-markets-betting-rules-1aea5c9d) (WSJ)

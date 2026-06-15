@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Fox says it is acquiring Roku in its largest deal yet, valued at ~$22B including debt, giving it access to 100M+ streaming households globally; FOX drops 10%+](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa) (WSJ)
 - [MrBeast hits 500M subscribers on YouTube, a record for the platform](https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/) (The Wrap)
 
 ### May
