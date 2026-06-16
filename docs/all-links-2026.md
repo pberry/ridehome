@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, June 16 2026 - SpaceX Pounces On Cursor**
+
+  * [SEC filing: SpaceX agrees to acquire Anysphere in a merger valuing the Cursor-developer at $60B, expected to close in Q3 2026](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) (Reuters)
+  * [SpaceX has agreed to acquire AI coding startup Cursor in a $60B stock deal, less than two months after announcing a tie-up, to help its AI division catch up to the major labs](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/) (TechCrunch)
+  * [SpaceX's stock closed up 19.6% on June 15, its first full day of trading; Musk said it "might be able to reach" ~$1T in revenue in 2030, up from $18.7B in 2025](https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html) (CNBC)
+  * [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly](https://www.theinformation.com/briefings/anthropic-discusses-possible-accord-trump-administration) (The Information)
+  * [A senior White House official says easing Friday's action on Anthropic will likely take more than a few days, but leaves the door open to a quick resolution](https://www.politico.com/news/2026/06/15/trump-officials-meet-with-anthropic-to-discuss-a-truce-00962698) (Politico)
+  * [Ben Thompson argues Anthropic has near-perfect alignment between talent, mission, and business — a "safety superpower" he says he both respects and fears](https://stratechery.com/2026/anthropics-safety-superpower/) (Stratechery)
+  * [Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing](https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828) (FT)
+  * [OpenRouter debuts Fusion, a tool that prompts multiple AI models in parallel, claiming it can "reach and surpass Fable-level performance on deep research tasks"](https://openrouter.ai/blog/announcements/fusion-beats-frontier/) (OpenRouter)
+  * [How OpenRouter Fusion works and how it beats frontier models — a "panel of models" approach that scored 69% on Perplexity's DRACO deep research benchmark](https://www.digit.in/features/general/what-is-openrouter-fusion-and-how-does-it-beat-frontier-ai-models.html) (Digit)
+
+
+
 **Monday, June 15 2026 - Fable Thrown Under The Bus**
 
   * [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable) (Axios)

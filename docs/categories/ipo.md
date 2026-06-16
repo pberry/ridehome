@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [SpaceX's stock closed up 19.6% on June 15, its first full day of trading; Musk said it "might be able to reach" ~$1T in revenue in 2030, up from $18.7B in 2025](https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html) (CNBC)
 - [SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T](https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo) (Bloomberg)
 - [Founders Fund's ~3% SpaceX stake is worth $50B+, Sequoia's ~1.5% is worth $20B+, and a16z will see its biggest return ever at $10B+](https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo) (Bloomberg)
 - [Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) (NYT)

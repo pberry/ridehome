@@ -9,6 +9,12 @@ layout: category
 
 ### June
 
+- [SEC filing: SpaceX agrees to acquire Anysphere in a merger valuing the Cursor-developer at $60B, expected to close in Q3 2026](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) (Reuters)
+- [SpaceX has agreed to acquire AI coding startup Cursor in a $60B stock deal, less than two months after announcing a tie-up, to help its AI division catch up to the major labs](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/) (TechCrunch)
+- [Ben Thompson argues Anthropic has near-perfect alignment between talent, mission, and business — a "safety superpower" he says he both respects and fears](https://stratechery.com/2026/anthropics-safety-superpower/) (Stratechery)
+- [Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing](https://www.ft.com/content/e15b0d7e-ff6b-4f16-ba7a-4068feddb828) (FT)
+- [OpenRouter debuts Fusion, a tool that prompts multiple AI models in parallel, claiming it can "reach and surpass Fable-level performance on deep research tasks"](https://openrouter.ai/blog/announcements/fusion-beats-frontier/) (OpenRouter)
+- [How OpenRouter Fusion works and how it beats frontier models — a "panel of models" approach that scored 69% on Perplexity's DRACO deep research benchmark](https://www.digit.in/features/general/what-is-openrouter-fusion-and-how-does-it-beat-frontier-ai-models.html) (Digit)
 - [Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025](https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation) (Bloomberg)
 - [As companies are hit by rising AI costs, they are increasingly using tools that tap cheaper models, including some from China, putting price pressure on OpenAI and Anthropic](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink) (WSJ)
 - [Sixteen economists weigh in on what AI will mean for the US economy, workers, and workplaces; only two expect AI to actually create more jobs](https://www.wsj.com/tech/ai/economists-weigh-in-on-the-future-of-work-and-ai-f59311e9?st=DQTFjz&reflink=desktopwebshare_permalink) (WSJ)
