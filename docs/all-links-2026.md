@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, June 17 2026 - Snap Specs**
+
+  * [Snap is finally about to ship AR glasses — and they cost a fortune](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder) (The Verge)
+  * [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) (TechCrunch)
+  * [Trump advisers weigh structure of potential AI stakes](https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes) (Semafor)
+  * [Apple Plans Camera AirPods, iPhone Foldable 2, 20th Anniversary iPhone in 2027](https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027) (Bloomberg)
+  * [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) (TechCrunch)
+  * [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/) (Search Engine Journal)
+
+
+
 **Tuesday, June 16 2026 - SpaceX Pounces On Cursor**
 
   * [SEC filing: SpaceX agrees to acquire Anysphere in a merger valuing the Cursor-developer at $60B, expected to close in Q3 2026](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) (Reuters)

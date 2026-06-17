@@ -9,6 +9,9 @@ layout: category
 
 ### June
 
+- [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) (TechCrunch)
+- [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) (TechCrunch)
+- [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/) (Search Engine Journal)
 - [SEC filing: SpaceX agrees to acquire Anysphere in a merger valuing the Cursor-developer at $60B, expected to close in Q3 2026](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/) (Reuters)
 - [SpaceX has agreed to acquire AI coding startup Cursor in a $60B stock deal, less than two months after announcing a tie-up, to help its AI division catch up to the major labs](https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/) (TechCrunch)
 - [Ben Thompson argues Anthropic has near-perfect alignment between talent, mission, and business — a "safety superpower" he says he both respects and fears](https://stratechery.com/2026/anthropics-safety-superpower/) (Stratechery)

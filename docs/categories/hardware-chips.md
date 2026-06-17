@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Snap is finally about to ship AR glasses — and they cost a fortune](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder) (The Verge)
+- [Apple Plans Camera AirPods, iPhone Foldable 2, 20th Anniversary iPhone in 2027](https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027) (Bloomberg)
 - [A preview of what to expect from WWDC on Monday, including iOS 27, a revamped Siri, macOS 27 Liquid Glass refinements, and more](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce) (Bloomberg)
 - [TSMC CEO C.C. Wei says the company won't be able to fulfill the demand led by US customers even as more capacity comes online in the US over the next few years](https://www.bloomberg.com/news/articles/2026-06-04/tsmc-ceo-warns-chip-supply-won-t-meet-ai-fueled-demand-for-years) (Bloomberg)
 - [Microsoft unveils a Surface RTX Spark Dev Box, featuring Nvidia's Arm-based RTX Spark, 128GB of unified memory, and a 100W thermal envelope, for local AI tasks](https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability) (The Verge)
