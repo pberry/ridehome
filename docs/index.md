@@ -3,14 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, June 17, 2026 - Snap Specs</h3>
+  <h3>Thursday, June 18, 2026 - The Chip-pocalypse Comes For Apple</h3>
   <ul>
-    <li><a href="https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder">Snap is finally about to ship AR glasses — and they cost a fortune</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/">Android 17 launches with new multitasking tools as Google expands Gemini features</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes">Trump advisers weigh structure of potential AI stakes</a> (Semafor) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027">Apple Plans Camera AirPods, iPhone Foldable 2, 20th Anniversary iPhone in 2027</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/">Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/">TikTok Shows 3x More AI Slop Than YouTube, Report Finds</a> (Search Engine Journal) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1">In an interview, Tim Cook says Apple price hikes are "unavoidable" to offset surging memory and storage chip costs, and "the situation has become unsustainable"</a> (WSJ) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai">Star Google AI Researcher Shazeer Joins OpenAI</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan">Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.nytimes.com/2026/06/17/business/dealbook/hedging-prediction-markets-kalshi.html">Businesses have started using Kalshi to hedge business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025</a> (The New York Times) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
   </ul>
 </section>
 
@@ -36,13 +34,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-17T13:10:59-07:00">June 17, 2026 at 01:10 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-18T13:25:02-07:00">June 18, 2026 at 01:25 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,756</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,760</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,778</span></li>
       </ul>
     </div>
@@ -51,7 +49,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(111 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(75 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
@@ -61,7 +59,7 @@
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(97 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(87 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(89 links)</span></li>
       </ol>
     </div>
   </div>

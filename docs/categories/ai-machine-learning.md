@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Star Google AI Researcher Shazeer Joins OpenAI](https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai) (The Information)
 - [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) (TechCrunch)
 - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) (TechCrunch)
 - [TikTok Shows 3x More AI Slop Than YouTube, Report Finds](https://www.searchenginejournal.com/tiktok-shows-3x-more-ai-slop-than-youtube-report-finds/579521/) (Search Engine Journal)

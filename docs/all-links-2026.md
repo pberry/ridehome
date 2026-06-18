@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, June 18 2026 - The Chip-pocalypse Comes For Apple**
+
+  * [In an interview, Tim Cook says Apple price hikes are "unavoidable" to offset surging memory and storage chip costs, and "the situation has become unsustainable"](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1) (WSJ)
+  * [Star Google AI Researcher Shazeer Joins OpenAI](https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai) (The Information)
+  * [Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) (The Verge)
+  * [Businesses have started using Kalshi to hedge business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025](https://www.nytimes.com/2026/06/17/business/dealbook/hedging-prediction-markets-kalshi.html) (The New York Times)
+
+
+
 **Wednesday, June 17 2026 - Snap Specs**
 
   * [Snap is finally about to ship AR glasses — and they cost a fortune](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder) (The Verge)

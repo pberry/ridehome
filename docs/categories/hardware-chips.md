@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [In an interview, Tim Cook says Apple price hikes are "unavoidable" to offset surging memory and storage chip costs, and "the situation has become unsustainable"](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1) (WSJ)
+- [Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) (The Verge)
 - [Snap is finally about to ship AR glasses — and they cost a fortune](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder) (The Verge)
 - [Apple Plans Camera AirPods, iPhone Foldable 2, 20th Anniversary iPhone in 2027](https://www.bloomberg.com/news/articles/2026-06-16/apple-plans-camera-airpods-iphone-foldable-2-20th-anniversary-iphone-in-2027) (Bloomberg)
 - [A preview of what to expect from WWDC on Monday, including iOS 27, a revamped Siri, macOS 27 Liquid Glass refinements, and more](https://www.bloomberg.com/news/articles/2026-06-05/wwdc-2026-preview-ios-27-siri-ai-features-macos-27-more-apple-will-announce) (Bloomberg)
