@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 19 2026 - GTA VI, Finally, Finally Coming?**
+
+  * [Intel's stock jumps 10.64% after Trump said "Apple has agreed to work with Intel to design and build its Chips in America"; INTC is up 520%+ in the past year](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) (CNBC)
+  * [Filings: Waymo pulls its ~4K robotaxis from highways after finding 13+ instances of the cars driving into highway sections under construction](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/) (TechCrunch)
+  * [Rockstar Games announces that pre-orders for Grand Theft Auto VI will go live on June 25; TTWO closed up 4.93%](https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079) (Kotaku)
+  * [GLM-5.2 is the leading open weights model on Artificial Analysis' Intelligence Index, scoring 51, only behind Fable 5's 60, Opus 4.8's 56, and GPT-5.5's 55](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (Artificial Analysis)
+  * [GLM-5.2 becomes the top open-weight model on Artificial Analysis](https://www.implicator.ai/glm-5-2-becomes-the-top-open-weight-model-on-artificial-analysis/) (Implicator)
+
+
+
 **Thursday, June 18 2026 - The Chip-pocalypse Comes For Apple**
 
   * [In an interview, Tim Cook says Apple price hikes are "unavoidable" to offset surging memory and storage chip costs, and "the situation has become unsustainable"](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1) (WSJ)

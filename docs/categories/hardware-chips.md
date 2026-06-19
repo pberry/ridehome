@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Intel's stock jumps 10.64% after Trump said "Apple has agreed to work with Intel to design and build its Chips in America"; INTC is up 520%+ in the past year](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) (CNBC)
+- [Apple’s weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) (The Verge)
 - [In an interview, Tim Cook says Apple price hikes are "unavoidable" to offset surging memory and storage chip costs, and "the situation has become unsustainable"](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1) (WSJ)
 - [Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort](https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan) (The Verge)
 - [Snap is finally about to ship AR glasses — and they cost a fortune](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder) (The Verge)

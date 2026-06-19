@@ -10,6 +10,14 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 19 2026**
+
+  * [Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) (WSJ)
+  * [AI Is Splitting the Job Market in Two, PwC Study Shows](https://www.bloomberg.com/news/articles/2026-06-15/ai-is-splitting-the-job-market-in-two-pwc-study-shows) (Bloomberg)
+  * [Apple’s weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) (The Verge)
+
+
+
 **Friday, June 12 2026**
 
   * [As companies are hit by rising AI costs, they are increasingly using tools that tap cheaper models, including some from China, putting price pressure on OpenAI and Anthropic](https://www.wsj.com/tech/ai/the-ai-price-war-is-here-piling-pressure-on-openai-and-anthropic-86e1d21b?st=coSbEe&reflink=desktopwebshare_permalink) (WSJ)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### June
+
+- [Rockstar Games announces that pre-orders for Grand Theft Auto VI will go live on June 25; TTWO closed up 4.93%](https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079) (Kotaku)
+
 ### April
 
 - [Sony confirms that some digital PS4 and PS5 games require a one-time online license check "to confirm the game's license"](https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/) (GameSpot)

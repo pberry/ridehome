@@ -9,6 +9,10 @@ layout: category
 
 ### June
 
+- [GLM-5.2 is the leading open weights model on Artificial Analysis' Intelligence Index, scoring 51, only behind Fable 5's 60, Opus 4.8's 56, and GPT-5.5's 55](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (Artificial Analysis)
+- [GLM-5.2 becomes the top open-weight model on Artificial Analysis](https://www.implicator.ai/glm-5-2-becomes-the-top-open-weight-model-on-artificial-analysis/) (Implicator)
+- [Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) (WSJ)
+- [AI Is Splitting the Job Market in Two, PwC Study Shows](https://www.bloomberg.com/news/articles/2026-06-15/ai-is-splitting-the-job-market-in-two-pwc-study-shows) (Bloomberg)
 - [Star Google AI Researcher Shazeer Joins OpenAI](https://www.theinformation.com/articles/star-google-ai-researcher-shazeer-joins-openai) (The Information)
 - [Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) (TechCrunch)
 - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) (TechCrunch)
