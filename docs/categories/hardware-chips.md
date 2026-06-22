@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Toto, Japan's largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&D for next-gen 1nm chip production](https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era) (Nikkei Asia)
+- [Japanese toilet maker Toto plans $496M push into chip tech](https://www.techinasia.com/news/japanese-toilet-maker-toto-plans-496m-push-into-chip-tech) (Tech in Asia)
 - [Intel's stock jumps 10.64% after Trump said "Apple has agreed to work with Intel to design and build its Chips in America"; INTC is up 520%+ in the past year](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) (CNBC)
 - [Apple’s weird anti-nausea dots cured my car sickness](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) (The Verge)
 - [In an interview, Tim Cook says Apple price hikes are "unavoidable" to offset surging memory and storage chip costs, and "the situation has become unsustainable"](https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1) (WSJ)

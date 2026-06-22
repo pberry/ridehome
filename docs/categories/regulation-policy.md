@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [A speculative scenario titled "Europe 2031" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china) (The Guardian)
 - [Trump advisers weigh structure of potential AI stakes](https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes) (Semafor)
 - [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly](https://www.theinformation.com/briefings/anthropic-discusses-possible-accord-trump-administration) (The Information)
 - [A senior White House official says easing Friday's action on Anthropic will likely take more than a few days, but leaves the door open to a quick resolution](https://www.politico.com/news/2026/06/15/trump-officials-meet-with-anthropic-to-discuss-a-truce-00962698) (Politico)

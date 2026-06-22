@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, June 22 2026 - Acqui-Investing**
+
+  * [Meta invests $900M into Indian fintech Cred for a ~20% stake, and plans to appoint Cred founder Kunal Shah as the leader of WhatsApp, replacing Will Cathcart](https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment) (Bloomberg)
+  * [The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI](https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic) (Bloomberg)
+  * [Getty signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery features; GETY jumps 150%+ pre-market](https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal) (Bloomberg)
+  * [JD.com founder Richard Liu says robots will replace the company's 700K delivery workers "sooner or later", and it will help retrain them in robot maintenance](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240) (FT)
+  * [Toto, Japan's largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&D for next-gen 1nm chip production](https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era) (Nikkei Asia)
+  * [Japanese toilet maker Toto plans $496M push into chip tech](https://www.techinasia.com/news/japanese-toilet-maker-toto-plans-496m-push-into-chip-tech) (Tech in Asia)
+  * [A look at "humanizer" and "autotyper" apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) (The New York Times)
+  * [A speculative scenario titled "Europe 2031" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china) (The Guardian)
+
+
+
 **Friday, June 19 2026 - GTA VI, Finally, Finally Coming?**
 
   * [Intel's stock jumps 10.64% after Trump said "Apple has agreed to work with Intel to design and build its Chips in America"; INTC is up 520%+ in the past year](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) (CNBC)

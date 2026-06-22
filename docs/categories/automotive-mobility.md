@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [JD.com founder Richard Liu says robots will replace the company's 700K delivery workers "sooner or later", and it will help retrain them in robot maintenance](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240) (FT)
 - [Filings: Waymo pulls its ~4K robotaxis from highways after finding 13+ instances of the cars driving into highway sections under construction](https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/) (TechCrunch)
 - [Chinese Tesla drivers are using tiny plastic heads to fool Tesla's distracted-driving controls, which appear unable to distinguish figurines from real people](https://www.wired.com/story/chinese-drivers-are-using-tiny-plastic-heads-to-fool-teslas-autopilot-safeguards/) (Wired)
 - [Tesla has just 59 vehicles in its robotaxi fleet and is limited to three Texas cities after almost a year, nowhere close to Elon Musk's big promises](https://www.bloomberg.com/news/features/2026-06-10/tesla-robotaxi-fleet-totals-just-59-vehicles-despite-musk-promises) (Bloomberg)

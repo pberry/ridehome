@@ -3,13 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, June 19, 2026 - GTA VI, Finally, Finally Coming?</h3>
+  <h3>Monday, June 22, 2026 - Acqui-Investing</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html">Intel's stock jumps 10.64% after Trump said "Apple has agreed to work with Intel to design and build its Chips in America"; INTC is up 520%+ in the past year</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/">Filings: Waymo pulls its ~4K robotaxis from highways after finding 13+ instances of the cars driving into highway sections under construction</a> (TechCrunch) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
-    <li><a href="https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079">Rockstar Games announces that pre-orders for Grand Theft Auto VI will go live on June 25; TTWO closed up 4.93%</a> (Kotaku) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index">GLM-5.2 is the leading open weights model on Artificial Analysis' Intelligence Index, scoring 51, only behind Fable 5's 60, Opus 4.8's 56, and GPT-5.5's 55</a> (Artificial Analysis) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.implicator.ai/glm-5-2-becomes-the-top-open-weight-model-on-artificial-analysis/">GLM-5.2 becomes the top open-weight model on Artificial Analysis</a> (Implicator) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment">Meta invests $900M into Indian fintech Cred for a ~20% stake, and plans to appoint Cred founder Kunal Shah as the leader of WhatsApp, replacing Will Cathcart</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic">The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal">Getty signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery features; GETY jumps 150%+ pre-market</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240">JD.com founder Richard Liu says robots will replace the company's 700K delivery workers "sooner or later", and it will help retrain them in robot maintenance</a> (FT) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era">Toto, Japan's largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&D for next-gen 1nm chip production</a> (Nikkei Asia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.techinasia.com/news/japanese-toilet-maker-toto-plans-496m-push-into-chip-tech">Japanese toilet maker Toto plans $496M push into chip tech</a> (Tech in Asia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html">A look at "humanizer" and "autotyper" apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic</a> (The New York Times) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china">A speculative scenario titled "Europe 2031" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race</a> (The Guardian) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -35,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-19T12:48:31-07:00">June 19, 2026 at 12:48 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-22T13:46:55-07:00">June 22, 2026 at 01:46 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,765</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,773</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,781</span></li>
       </ul>
     </div>
@@ -49,18 +52,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(112 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(76 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(114 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(97 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(91 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(96 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>
   </div>

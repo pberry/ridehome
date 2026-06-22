@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Meta invests $900M into Indian fintech Cred for a ~20% stake, and plans to appoint Cred founder Kunal Shah as the leader of WhatsApp, replacing Will Cathcart](https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment) (Bloomberg)
 - [Businesses have started using Kalshi to hedge business risks; Kalshi says institutional trading volume on its platform has grown 800% since November 2025](https://www.nytimes.com/2026/06/17/business/dealbook/hedging-prediction-markets-kalshi.html) (The New York Times)
 - [Corporate spending management platform Ramp raised $750M at a $44B valuation led by Iconiq, Singapore's GIC, and the OTPP, taking its total funding to $3B](https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round) (Bloomberg)
 

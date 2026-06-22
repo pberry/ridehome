@@ -9,6 +9,9 @@ layout: category
 
 ### June
 
+- [The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI](https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic) (Bloomberg)
+- [Getty signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery features; GETY jumps 150%+ pre-market](https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal) (Bloomberg)
+- [A look at "humanizer" and "autotyper" apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) (The New York Times)
 - [GLM-5.2 is the leading open weights model on Artificial Analysis' Intelligence Index, scoring 51, only behind Fable 5's 60, Opus 4.8's 56, and GPT-5.5's 55](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) (Artificial Analysis)
 - [GLM-5.2 becomes the top open-weight model on Artificial Analysis](https://www.implicator.ai/glm-5-2-becomes-the-top-open-weight-model-on-artificial-analysis/) (Implicator)
 - [Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) (WSJ)
