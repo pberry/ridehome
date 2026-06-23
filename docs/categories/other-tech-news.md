@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [HEADLINE TBD — couldn't read it](https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy) (The Verge)
+- [South Korea's tech-heavy Kospi index falls 10%, dragged down by SK Hynix and Samsung; STMicro and ASML fall ~7%, and US tech stocks fall in pre-market trading](https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html) (CNBC)
 - [A look at Anthropic's hiring process, which prohibits AI use in interviews and features a culture interview that candidates describe as highly intense](https://www.bloomberg.com/news/features/2026-05-28/anthropic-job-recruiting-brings-in-diverse-careers-to-build-claude) (Bloomberg)
 
 ### May

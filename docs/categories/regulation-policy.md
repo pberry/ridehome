@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present](https://www.wsj.com/politics/policy/trump-seeks-to-boost-quantum-computing-with-new-executive-orders-b2200634) (WSJ)
 - [A speculative scenario titled "Europe 2031" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china) (The Guardian)
 - [Trump advisers weigh structure of potential AI stakes](https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes) (Semafor)
 - [Anthropic says its senior leaders met Trump admin officials on June 15, but no resolution was reached and both sides are working to resolve things quickly](https://www.theinformation.com/briefings/anthropic-discusses-possible-accord-trump-administration) (The Information)

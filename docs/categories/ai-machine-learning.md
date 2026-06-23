@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0](https://www.theinformation.com/briefings/bytedance-unveils-seedance-2-5-video-model) (The Information)
+- [ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation](https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/) (The Decoder)
 - [The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI](https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic) (Bloomberg)
 - [Getty signs a licensing deal with OpenAI, letting its image library appear in ChatGPT's search and discovery features; GETY jumps 150%+ pre-market](https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal) (Bloomberg)
 - [A look at "humanizer" and "autotyper" apps that help students evade AI-detection software by slowly auto-typing essays and making AI text sound less robotic](https://www.nytimes.com/2026/06/18/us/ai-apps-students-cheat.html) (The New York Times)

@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner](https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses) (Bloomberg)
 - [Toto, Japan's largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&D for next-gen 1nm chip production](https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era) (Nikkei Asia)
 - [Japanese toilet maker Toto plans $496M push into chip tech](https://www.techinasia.com/news/japanese-toilet-maker-toto-plans-496m-push-into-chip-tech) (Tech in Asia)
 - [Intel's stock jumps 10.64% after Trump said "Apple has agreed to work with Intel to design and build its Chips in America"; INTC is up 520%+ in the past year](https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html) (CNBC)

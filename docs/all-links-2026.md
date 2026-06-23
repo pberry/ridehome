@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, June 23 2026 - Moar Meta Glasses**
+
+  * [Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner](https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses) (Bloomberg)
+  * [HEADLINE TBD — couldn't read it](https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy) (The Verge)
+  * [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present](https://www.wsj.com/politics/policy/trump-seeks-to-boost-quantum-computing-with-new-executive-orders-b2200634) (WSJ)
+  * [South Korea's tech-heavy Kospi index falls 10%, dragged down by SK Hynix and Samsung; STMicro and ASML fall ~7%, and US tech stocks fall in pre-market trading](https://www.cnbc.com/2026/06/23/tech-stocks-sell-off-mag7-samsung-sk-hynix.html) (CNBC)
+  * [ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0](https://www.theinformation.com/briefings/bytedance-unveils-seedance-2-5-video-model) (The Information)
+  * [ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation](https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/) (The Decoder)
+  * [Meta says it is pausing its employee-tracking program meant for training AI models after internal security issues exposed sensitive data from employees' laptops](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/) (Wired)
+
+
+
 **Monday, June 22 2026 - Acqui-Investing**
 
   * [Meta invests $900M into Indian fintech Cred for a ~20% stake, and plans to appoint Cred founder Kunal Shah as the leader of WhatsApp, replacing Will Cathcart](https://www.bloomberg.com/news/articles/2026-06-22/meta-taps-new-whatsapp-boss-as-part-of-900-million-investment) (Bloomberg)
