@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) (OpenAI)
+- [OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper](https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper) (Bloomberg)
 - [Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner](https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses) (Bloomberg)
 - [Toto, Japan's largest toilet maker, plans to invest $495M by 2030 to expand its semiconductor materials unit, targeting R&D for next-gen 1nm chip production](https://asia.nikkei.com/business/tech/semiconductors/japan-s-toto-to-invest-495m-in-chip-materials-targeting-1-nm-era) (Nikkei Asia)
 - [Japanese toilet maker Toto plans $496M push into chip tech](https://www.techinasia.com/news/japanese-toilet-maker-toto-plans-496m-push-into-chip-tech) (Tech in Asia)

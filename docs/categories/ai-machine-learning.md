@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+](https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6) (Business Insider)
+- [How AI Customers Are Lowering Their Anthropic and OpenAI Bills](https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills) (The Information)
 - [ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0](https://www.theinformation.com/briefings/bytedance-unveils-seedance-2-5-video-model) (The Information)
 - [ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation](https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/) (The Decoder)
 - [The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI](https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic) (Bloomberg)

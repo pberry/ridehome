@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, June 24 2026 - GTA Now**
+
+  * [Rockstar sets the release date for GTA VI for November 19 and says it will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight tonight](https://www.theverge.com/games/952204/grand-theft-auto-vi-price) (The Verge)
+  * [Grand Theft Auto 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box) (IGN)
+  * [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) (OpenAI)
+  * [OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper](https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper) (Bloomberg)
+  * [Sources: Meta is building a standalone prediction markets app internally called Arena, which would probably use video game-like points instead of money wagers](https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html) (The New York Times)
+  * [Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+](https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6) (Business Insider)
+  * [How AI Customers Are Lowering Their Anthropic and OpenAI Bills](https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills) (The Information)
+
+
+
 **Tuesday, June 23 2026 - Moar Meta Glasses**
 
   * [Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner](https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses) (Bloomberg)

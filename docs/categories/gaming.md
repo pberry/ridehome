@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [Rockstar sets the release date for GTA VI for November 19 and says it will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight tonight](https://www.theverge.com/games/952204/grand-theft-auto-vi-price) (The Verge)
+- [Grand Theft Auto 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box](https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box) (IGN)
 - [Rockstar Games announces that pre-orders for Grand Theft Auto VI will go live on June 25; TTWO closed up 4.93%](https://kotaku.com/heres-how-i-know-we-are-entering-rockstars-end-game-for-launching-gta-6-2000708079) (Kotaku)
 
 ### April
