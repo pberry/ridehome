@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, June 25 2026 - Hope You Weren't Putting Off Buying A Mac**
+
+  * [Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has "never seen a component price increase this much, this quickly"; iPhone is unchanged](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99) (WSJ)
+  * [Apple Raises Mac and iPad Prices to Counter Memory Shortages](https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages) (Bloomberg)
+  * [Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, using Claude 28.8M times from April to June via almost 25K accounts](https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models) (Bloomberg)
+  * [IBM details a 0.7nm chip manufacturing process that utilizes a "nanostack" 3D transistor architecture, which it says could continue chip innovation for 10 years](https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html) (The New York Times)
+  * [Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/) (TechCrunch)
+  * [Meta looks to AI to review harmful content in cost-cutting drive](https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd?syn-25a6b1a6=1) (FT)
+  * [Sources: Kalshi is in talks to raise funding at a ~$40B valuation in a round that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May 2026](https://www.ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa) (FT)
+
+
+
 **Wednesday, June 24 2026 - GTA Now**
 
   * [Rockstar sets the release date for GTA VI for November 19 and says it will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight tonight](https://www.theverge.com/games/952204/grand-theft-auto-vi-price) (The Verge)

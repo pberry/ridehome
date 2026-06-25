@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, using Claude 28.8M times from April to June via almost 25K accounts](https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models) (Bloomberg)
 - [Meta says it is pausing its employee-tracking program meant for training AI models after internal security issues exposed sensitive data from employees' laptops](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/) (Wired)
 - [Amazon researchers showed Fable's safeguards could be evaded; Jassy raised it with Treasury's Bessent, helping set the export controls in motion](https://www.wsj.com/tech/ai/anthropic-dispatches-staff-to-d-c-racing-to-resolve-ai-export-restrictions-71303d42) (WSJ)
 - [Chinese Tesla owners use figurines, photos, lenticular images, and looping face videos to bypass cabin-camera monitoring, sold for $10–$40 online](https://www.digitaltrends.com/cars/chinese-drivers-have-figured-out-a-silly-way-to-fool-tesla-autopilot-and-it-involves-doll-heads/) (Digital Trends)

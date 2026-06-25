@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/) (TechCrunch)
 - [YouTube rolls out a new in-app messaging system for sharing videos and having 1:1 conversations; it discontinued its previous Messages feature in September 2019](https://9to5google.com/2026/06/10/youtube-new-messaging-chat/) (9to5Google)
 
 ### May

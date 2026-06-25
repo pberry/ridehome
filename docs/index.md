@@ -3,15 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, June 24, 2026 - GTA Now</h3>
+  <h3>Thursday, June 25, 2026 - Hope You Weren't Putting Off Buying A Mac</h3>
   <ul>
-    <li><a href="https://www.theverge.com/games/952204/grand-theft-auto-vi-price">Rockstar sets the release date for GTA VI for November 19 and says it will cost $79.99, or $99.99 for the Ultimate Edition; preorders start at midnight tonight</a> (The Verge) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box">Grand Theft Auto 6 Physical Copies Won't Include a Disc, Will Just Be a Code in a Box</a> (IGN) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://openai.com/index/openai-broadcom-jalapeno-inference-chip">OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models</a> (OpenAI) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper">OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html">Sources: Meta is building a standalone prediction markets app internally called Arena, which would probably use video game-like points instead of money wagers</a> (The New York Times) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6">Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills">How AI Customers Are Lowering Their Anthropic and OpenAI Bills</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99">Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has "never seen a component price increase this much, this quickly"; iPhone is unchanged</a> (WSJ) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages">Apple Raises Mac and iPad Prices to Counter Memory Shortages</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models">Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, using Claude 28.8M times from April to June via almost 25K accounts</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html">IBM details a 0.7nm chip manufacturing process that utilizes a "nanostack" 3D transistor architecture, which it says could continue chip innovation for 10 years</a> (The New York Times) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/">Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance</a> (TechCrunch) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
+    <li><a href="https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd?syn-25a6b1a6=1">Meta looks to AI to review harmful content in cost-cutting drive</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa">Sources: Kalshi is in talks to raise funding at a ~$40B valuation in a round that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May 2026</a> (FT) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
   </ul>
 </section>
 
@@ -37,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-24T12:44:31-07:00">June 24, 2026 at 12:44 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-25T12:59:13-07:00">June 25, 2026 at 12:59 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,787</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,794</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,781</span></li>
       </ul>
     </div>
@@ -51,18 +51,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(115 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(117 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(75 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(97 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(96 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
       </ol>
     </div>
   </div>

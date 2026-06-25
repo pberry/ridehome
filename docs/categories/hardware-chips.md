@@ -9,6 +9,9 @@ layout: category
 
 ### June
 
+- [Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has "never seen a component price increase this much, this quickly"; iPhone is unchanged](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99) (WSJ)
+- [Apple Raises Mac and iPad Prices to Counter Memory Shortages](https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages) (Bloomberg)
+- [IBM details a 0.7nm chip manufacturing process that utilizes a "nanostack" 3D transistor architecture, which it says could continue chip innovation for 10 years](https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html) (The New York Times)
 - [OpenAI and Broadcom unveil Jalapeño, an LLM-optimized inference chip developed from design to manufacturing tape-out in nine months, aided by OpenAI's models](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) (OpenAI)
 - [OpenAI and Broadcom Unveil AI Chip to Run Models Faster, Cheaper](https://www.bloomberg.com/news/articles/2026-06-24/openai-and-broadcom-unveil-ai-chip-to-run-models-faster-cheaper) (Bloomberg)
 - [Meta unveils Meta Adventurer and Fury glasses, each priced at $299, its first under its own brand, and a $399 Starfire model in collaboration with Kylie Jenner](https://www.bloomberg.com/news/articles/2026-06-23/meta-launches-299-in-house-adventure-fury-kylie-jenner-starfire-glasses) (Bloomberg)

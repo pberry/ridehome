@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Meta looks to AI to review harmful content in cost-cutting drive](https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd?syn-25a6b1a6=1) (FT)
 - [Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+](https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6) (Business Insider)
 - [How AI Customers Are Lowering Their Anthropic and OpenAI Bills](https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills) (The Information)
 - [ByteDance unveils Seedance 2.5, saying the AI video model can generate up to 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0](https://www.theinformation.com/briefings/bytedance-unveils-seedance-2-5-video-model) (The Information)
