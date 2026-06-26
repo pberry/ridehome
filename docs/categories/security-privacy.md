@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT-5.6 over security concerns, approving "access customer by customer"](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) (The Information)
 - [Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, using Claude 28.8M times from April to June via almost 25K accounts](https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models) (Bloomberg)
 - [Meta says it is pausing its employee-tracking program meant for training AI models after internal security issues exposed sensitive data from employees' laptops](https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/) (Wired)
 - [Amazon researchers showed Fable's safeguards could be evaded; Jassy raised it with Treasury's Bessent, helping set the export controls in motion](https://www.wsj.com/tech/ai/anthropic-dispatches-staff-to-d-c-racing-to-resolve-ai-export-restrictions-71303d42) (WSJ)

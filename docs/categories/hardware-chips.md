@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution](https://www.wsj.com/tech/chicago-missed-the-tech-boom-quantum-computing-gives-it-a-second-chance-0b34d116) (WSJ)
 - [Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has "never seen a component price increase this much, this quickly"; iPhone is unchanged](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99) (WSJ)
 - [Apple Raises Mac and iPad Prices to Counter Memory Shortages](https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages) (Bloomberg)
 - [IBM details a 0.7nm chip manufacturing process that utilizes a "nanostack" 3D transistor architecture, which it says could continue chip innovation for 10 years](https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html) (The New York Times)

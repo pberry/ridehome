@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 26 2026 - OpenAI To Delay Its IPO?**
+
+  * [Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html) (The New York Times)
+  * [Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT-5.6 over security concerns, approving "access customer by customer"](https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns) (The Information)
+  * [Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025](https://kotaku.com/xbox-price-increase-2026-tariffs-buy-now-pay-later-2000710565) (Kotaku)
+  * [Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network](https://www.ft.com/content/42af0f15-3aa9-49b7-b429-4a39540af03e) (FT)
+
+
+
 **Thursday, June 25 2026 - Hope You Weren't Putting Off Buying A Mac**
 
   * [Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has "never seen a component price increase this much, this quickly"; iPhone is unchanged](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99) (WSJ)

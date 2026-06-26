@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, June 26 2026**
+
+  * [How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution](https://www.wsj.com/tech/chicago-missed-the-tech-boom-quantum-computing-gives-it-a-second-chance-0b34d116) (WSJ)
+  * [As China's working-age population shrinks, consensus is growing that China must embed embodied AI robots into as many tasks as possible, as soon as possible](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68) (FT)
+
+
+
 **Friday, June 19 2026**
 
   * [Google Is Using Nvidia's Playbook to Build a Rival AI Chip Business](https://www.wsj.com/tech/ai/google-is-using-nvidias-playbook-to-build-a-rival-ai-chip-business-1eac86f9) (WSJ)

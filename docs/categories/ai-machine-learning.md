@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [As China's working-age population shrinks, consensus is growing that China must embed embodied AI robots into as many tasks as possible, as soon as possible](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68) (FT)
 - [Meta looks to AI to review harmful content in cost-cutting drive](https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd?syn-25a6b1a6=1) (FT)
 - [Superhuman acquires AI detection startup GPTZero, which has 19M+ registered users and $30M in annual recurring revenue; PitchBook: GPTZero is valued at $88M+](https://www.businessinsider.com/superhuman-acquires-gptzero-ai-authenticity-tools-2026-6) (Business Insider)
 - [How AI Customers Are Lowering Their Anthropic and OpenAI Bills](https://www.theinformation.com/articles/ai-customers-lowering-anthropic-openai-bills) (The Information)
