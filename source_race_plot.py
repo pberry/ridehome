@@ -19,11 +19,37 @@ from datetime import datetime, date
 
 import matplotlib
 matplotlib.use('Agg')
-# Use browser fonts instead of embedding glyph paths — keeps SVG small and
-# renders crisply at any zoom level when served from GitHub Pages.
+# Use browser fonts — keeps the SVG small and lets the page's own font stack
+# render the text, so it matches the surrounding typography exactly.
 matplotlib.rcParams['svg.fonttype'] = 'none'
+matplotlib.rcParams['font.family'] = 'sans-serif'
+matplotlib.rcParams['font.sans-serif'] = [
+    '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue',
+    'Helvetica', 'Arial', 'sans-serif',
+]
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
+
+# ── Solarized Light palette (matches docs/assets/main.scss) ──────────────────
+_BG_PRIMARY   = '#fdf6e3'  # base3  — page background
+_BG_SECONDARY = '#eee8d5'  # base2  — card / legend background
+_TEXT_PRIMARY   = '#556873'  # base00-accessible — body text
+_TEXT_SECONDARY = '#485e6a'  # base01-accessible — headings
+_BORDER_COLOR   = '#93a1a1'  # base1  — borders and grid lines
+
+# Solarized accent colors for the race lines, in visual-distinctiveness order
+_LINE_COLORS = [
+    '#268bd2',  # blue
+    '#dc322f',  # red
+    '#2aa198',  # cyan
+    '#d33682',  # magenta
+    '#859900',  # green
+    '#b58900',  # yellow
+    '#6c71c4',  # violet
+    '#cb4b16',  # orange
+    '#586e75',  # base01 — dark slate (9th source)
+    '#073642',  # base02 — very dark teal (10th source)
+]
 
 STATE_FILE = '.source_race_last_run'
 DEFAULT_DB = 'ridehome.db'
@@ -171,10 +197,17 @@ def generate_race_plot(
     x_pos = list(range(len(all_months)))
     x_last = len(all_months) - 1
 
-    cmap = plt.get_cmap('tab10')
-    colors = [cmap(i) for i in range(len(source_names))]
+    colors = [_LINE_COLORS[i % len(_LINE_COLORS)] for i in range(len(source_names))]
 
-    fig, ax = plt.subplots(figsize=(14, 7))
+    fig, ax = plt.subplots(figsize=(14, 7), facecolor=_BG_PRIMARY)
+    ax.set_facecolor(_BG_PRIMARY)
+
+    # Remove decorative spines; keep bottom and left in border color
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['left'].set_color(_BORDER_COLOR)
+    ax.spines['bottom'].set_color(_BORDER_COLOR)
+    ax.tick_params(colors=_TEXT_PRIMARY, which='both')
 
     # Plot each source line
     lines = []
@@ -186,7 +219,7 @@ def generate_race_plot(
             linewidth=2,
             marker='o',
             markersize=4,
-            alpha=0.85,
+            alpha=0.9,
             label=f'{src} ({source_totals[src]:,})',
         )
         lines.append((src, y, colors[i]))
@@ -218,28 +251,36 @@ def generate_race_plot(
         )
 
     ax.set_xticks(x_pos)
-    ax.set_xticklabels(x_labels, fontsize=8)
+    ax.set_xticklabels(x_labels, fontsize=8, color=_TEXT_PRIMARY)
     ax.yaxis.set_major_locator(ticker.MaxNLocator(integer=True))
-    ax.yaxis.grid(True, alpha=0.3, linestyle='--')
+    ax.yaxis.grid(True, color=_BORDER_COLOR, alpha=0.35, linestyle='--', linewidth=0.8)
     ax.set_axisbelow(True)
-    ax.set_ylabel('Links per month', fontsize=10)
+    ax.set_ylabel('Links per month', fontsize=10, color=_TEXT_PRIMARY)
+    ax.yaxis.set_tick_params(labelcolor=_TEXT_PRIMARY)
     ax.set_title(
         f'Top {top_n} News Sources — Last {lookback_months} Months',
         fontsize=13,
-        fontweight='bold',
+        fontweight='600',
+        color=_TEXT_SECONDARY,
         pad=12,
     )
-    ax.legend(
+
+    legend = ax.legend(
         bbox_to_anchor=(1.01, 1),
         loc='upper left',
         fontsize=8,
-        framealpha=0.9,
+        framealpha=1.0,
+        facecolor=_BG_SECONDARY,
+        edgecolor=_BORDER_COLOR,
         title='Source (total links)',
         title_fontsize=8,
     )
+    legend.get_title().set_color(_TEXT_SECONDARY)
+    for text in legend.get_texts():
+        text.set_color(_TEXT_PRIMARY)
 
     os.makedirs(os.path.dirname(output_path) or '.', exist_ok=True)
-    fig.savefig(output_path, format='svg', bbox_inches='tight')
+    fig.savefig(output_path, format='svg', bbox_inches='tight', facecolor=_BG_PRIMARY)
     plt.close(fig)
 
     print(f'  ✓ Saved: {output_path}')
