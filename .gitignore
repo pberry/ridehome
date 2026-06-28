@@ -13,6 +13,9 @@ trash
 # AI categorization logs
 invalid_categories.log
 
+# Source race plot state (tracks last-generated month; local only)
+.source_race_last_run
+
 # Jekyll build artifacts
 docs/_site/
 docs/.jekyll-cache/

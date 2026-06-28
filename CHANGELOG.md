@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+## [2.2.0] - 2026-06-28
+
+### Added
+- **Source race plot** (`source_race_plot.py`) - Horse race SVG chart showing monthly link counts for the top 10 sources over the last 24 months
+  - Outputs `docs/assets/source-race.svg` — scales to any resolution, text is selectable, 75% smaller than equivalent PNG
+  - Uses `svg.fonttype = 'none'` so the SVG references browser fonts rather than embedding glyph paths
+  - Idempotent: only regenerates on the first run of a new calendar month (state tracked in `.source_race_last_run`)
+  - `--force` flag to regenerate on demand; `--top N` and `--lookback` to adjust scope
+  - Right-edge labels anchored to the last complete month to avoid partial-month label pileup
+  - Integrated into `rebuild_all.py` (runs after category pages, before index)
+  - Added `matplotlib>=3.10.0` dependency
+
 ## [2.1.1] - 2026-05-28
 
 ### Fixed
