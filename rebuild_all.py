@@ -105,6 +105,26 @@ def rebuild_wrapped_reports(docs_dir, force):
     return count
 
 
+def rebuild_source_race(db_path, force):
+    """
+    Rebuild source race plot (monthly cadence).
+    The script handles its own skip logic; we call it unconditionally.
+    """
+    print("\n" + "=" * 60)
+    print("GENERATING SOURCE RACE PLOT")
+    print("=" * 60)
+    try:
+        from source_race_plot import generate_race_plot, should_regenerate, mark_as_run
+        if force or should_regenerate():
+            generate_race_plot(db_path=db_path)
+            mark_as_run()
+            print("  ✓ source-race.svg: regenerated")
+        else:
+            print("  source-race.svg: skipped (already generated this month)")
+    except Exception as e:
+        print(f"  ⚠ source-race.svg: failed ({e})")
+
+
 def rebuild_index(db_path, docs_dir):
     """
     Rebuild index.md homepage.
@@ -181,7 +201,10 @@ Examples:
     wrapped_count = rebuild_wrapped_reports(args.docs, args.force)
     total_generated += wrapped_count
 
-    # 4. Generate index.md (always regenerate)
+    # 4. Generate source race plot (monthly cadence)
+    rebuild_source_race(args.db, args.force)
+
+    # 5. Generate index.md (always regenerate)
     rebuild_index(args.db, args.docs)
     total_generated += 1
 
