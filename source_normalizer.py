@@ -87,6 +87,7 @@ SOURCE_ALIASES = {
     'New York Times': 'NYTimes',
     'NY Times': 'NYTimes',
     'NyTimes': 'NYTimes',
+    'NYT': 'NYTimes',
 
     # The Verge
     'TheVerge': 'The Verge',
