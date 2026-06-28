@@ -11,11 +11,13 @@ from datetime import datetime, timedelta
 
 from source_race_plot import (
     get_top_sources,
+    get_ever_top_n_sources,
     get_monthly_counts,
     should_regenerate,
     mark_as_run,
     _all_months_in_range,
     _nudge_labels,
+    _add_svg_tooltips,
 )
 
 
@@ -205,6 +207,114 @@ class TestNudgeLabels(unittest.TestCase):
         self.assertEqual(result, sorted(result))
 
 
+class TestGetEverTopNSources(unittest.TestCase):
+    """Test 'ever ranked in top N for any month' source selection."""
+
+    def setUp(self):
+        today = datetime.now()
+        this_month = today.strftime('%Y-%m-%d')
+        m = today.month - 1 or 12
+        y = today.year if today.month > 1 else today.year - 1
+        last_month = today.replace(year=y, month=m, day=1).strftime('%Y-%m-%d')
+        old = (today - timedelta(days=800)).strftime('%Y-%m-%d')
+
+        # This month: Bloomberg #1 (10), The Verge #2 (5), Reuters #3 (3),
+        #             TechCrunch #4 (2), Wired #5 (1), NYTimes #6 (0 effectively)
+        # Last month: NYTimes #1 (8), Bloomberg #2 (6), The Verge #3 (4),
+        #             Reuters #4 (2), TechCrunch #5 (1)
+        # Never top-5: OldSource (only in old data outside lookback)
+        links = (
+            [(this_month, 'Bloomberg')] * 10 +
+            [(this_month, 'The Verge')] * 5 +
+            [(this_month, 'Reuters')] * 3 +
+            [(this_month, 'TechCrunch')] * 2 +
+            [(this_month, 'Wired')] * 1 +
+            [(last_month, 'NYTimes')] * 8 +
+            [(last_month, 'Bloomberg')] * 6 +
+            [(last_month, 'The Verge')] * 4 +
+            [(last_month, 'Reuters')] * 2 +
+            [(last_month, 'TechCrunch')] * 1 +
+            [(old, 'OldSource')] * 100
+        )
+        self.db_path = _make_test_db(links)
+
+    def tearDown(self):
+        os.unlink(self.db_path)
+
+    def test_includes_sources_that_peaked_in_any_month(self):
+        result = get_ever_top_n_sources(self.db_path, n=5, lookback_months=24)
+        # NYTimes was #1 last month, so must be included
+        self.assertIn('NYTimes', result)
+
+    def test_excludes_sources_never_in_top_n(self):
+        result = get_ever_top_n_sources(self.db_path, n=5, lookback_months=24)
+        # OldSource only appears outside the lookback window
+        self.assertNotIn('OldSource', result)
+
+    def test_wired_excluded_when_n_is_4(self):
+        # Wired is #5 this month and never in last month, so n=4 should exclude it
+        result = get_ever_top_n_sources(self.db_path, n=4, lookback_months=24)
+        self.assertNotIn('Wired', result)
+
+    def test_sorted_by_total_links_descending(self):
+        result = get_ever_top_n_sources(self.db_path, n=5, lookback_months=24)
+        # Bloomberg has most total links (16), should be first
+        self.assertEqual(result[0], 'Bloomberg')
+
+    def test_returns_empty_when_no_data(self):
+        db = _make_test_db([])
+        try:
+            self.assertEqual(get_ever_top_n_sources(db, n=5, lookback_months=24), [])
+        finally:
+            os.unlink(db)
+
+
+class TestAddSvgTooltips(unittest.TestCase):
+    """Test SVG <title> injection for hover tooltips."""
+
+    def _write_svg(self, content):
+        f = tempfile.NamedTemporaryFile(delete=False, suffix='.svg', mode='w', encoding='utf-8')
+        f.write(content)
+        f.close()
+        return f.name
+
+    def _read_svg(self, path):
+        with open(path, encoding='utf-8') as f:
+            return f.read()
+
+    def tearDown(self):
+        if hasattr(self, '_svg_path') and os.path.exists(self._svg_path):
+            os.unlink(self._svg_path)
+
+    def test_inserts_title_into_matching_group(self):
+        self._svg_path = self._write_svg('<svg><g id="dot-Bloomberg-0"></g></svg>')
+        _add_svg_tooltips(self._svg_path, {'dot-Bloomberg-0': 'Bloomberg • Jan \'25: 12'})
+        result = self._read_svg(self._svg_path)
+        self.assertIn('<g id="dot-Bloomberg-0"><title>Bloomberg', result)
+        self.assertIn('12</title>', result)
+
+    def test_escapes_special_characters(self):
+        self._svg_path = self._write_svg('<svg><g id="dot-X-0"></g></svg>')
+        _add_svg_tooltips(self._svg_path, {'dot-X-0': 'A & B <em>'})
+        result = self._read_svg(self._svg_path)
+        self.assertIn('A &amp; B &lt;em&gt;', result)
+
+    def test_ignores_unmatched_gids(self):
+        original = '<svg><g id="other-group"></g></svg>'
+        self._svg_path = self._write_svg(original)
+        _add_svg_tooltips(self._svg_path, {'dot-Missing-0': 'nope'})
+        self.assertEqual(self._read_svg(self._svg_path), original)
+
+    def test_handles_multiple_tooltips(self):
+        self._svg_path = self._write_svg(
+            '<svg><g id="dot-A-0"></g><g id="dot-B-0"></g></svg>'
+        )
+        _add_svg_tooltips(self._svg_path, {'dot-A-0': 'Alpha', 'dot-B-0': 'Beta'})
+        result = self._read_svg(self._svg_path)
+        self.assertIn('<title>Alpha</title>', result)
+        self.assertIn('<title>Beta</title>', result)
+
+
 class TestGenerateRacePlotSVG(unittest.TestCase):
     """Smoke test: generate_race_plot produces a non-empty SVG file."""
 
@@ -254,6 +364,18 @@ class TestGenerateRacePlotSVG(unittest.TestCase):
         with open(self.out_file, 'r') as f:
             content = f.read()
         self.assertIn('<svg', content)
+
+    def test_svg_contains_tooltip_titles(self):
+        from source_race_plot import generate_race_plot
+        generate_race_plot(
+            db_path=self.db_path,
+            output_path=self.out_file,
+            top_n=3,
+            lookback_months=6,
+        )
+        with open(self.out_file, 'r') as f:
+            content = f.read()
+        self.assertIn('<title>', content)
 
 
 if __name__ == '__main__':

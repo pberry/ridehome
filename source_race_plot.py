@@ -54,7 +54,7 @@ _LINE_COLORS = [
 STATE_FILE = '.source_race_last_run'
 DEFAULT_DB = 'ridehome.db'
 DEFAULT_OUTPUT = 'docs/assets/source-race.svg'
-DEFAULT_TOP_N = 10
+DEFAULT_TOP_N = 5
 DEFAULT_LOOKBACK = 24
 MIN_MONTH_TOTAL = 50  # exclude first month if too few links (likely a partial month)
 
@@ -77,6 +77,32 @@ def get_top_sources(db_path, n=DEFAULT_TOP_N, lookback_months=DEFAULT_LOOKBACK):
         ).fetchall()
     finally:
         conn.close()
+
+
+def get_ever_top_n_sources(db_path, n=DEFAULT_TOP_N, lookback_months=DEFAULT_LOOKBACK):
+    """Return sources that ranked in the top N for at least one month.
+
+    Produces a richer horse-race set than a static top-N by total: sources
+    that dominated in specific months appear even if they averaged lower.
+    Results are sorted by total links descending for consistent color assignment.
+    """
+    pool_rows = get_top_sources(db_path, n=50, lookback_months=lookback_months)
+    if not pool_rows:
+        return []
+    pool = [s for s, _ in pool_rows]
+    pool_totals = dict(pool_rows)
+
+    monthly = get_monthly_counts(db_path, pool, lookback_months)
+    all_months = _all_months_in_range(lookback_months)
+
+    ever_top = set()
+    for month in all_months:
+        ranked = sorted(pool, key=lambda s: monthly[s].get(month, 0), reverse=True)
+        for src in ranked[:n]:
+            if monthly[src].get(month, 0) > 0:
+                ever_top.add(src)
+
+    return sorted(ever_top, key=lambda s: pool_totals.get(s, 0), reverse=True)
 
 
 def _all_months_in_range(lookback_months):
@@ -143,6 +169,28 @@ def mark_as_run(state_file=STATE_FILE):
         f.write(datetime.now().strftime('%Y-%m'))
 
 
+def _add_svg_tooltips(svg_path, tooltips_by_gid):
+    """Insert <title> elements into SVG <g> elements matched by gid.
+
+    This gives native browser tooltips (plain text on hover) for each data
+    point dot — no JavaScript required. The SVG <title> element is part of
+    the SVG standard and is supported by all modern browsers.
+    """
+    import html
+    with open(svg_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    for gid, tip in tooltips_by_gid.items():
+        marker = f'<g id="{gid}">'
+        if marker in content:
+            content = content.replace(
+                marker,
+                f'{marker}<title>{html.escape(tip)}</title>',
+                1,
+            )
+    with open(svg_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+
 def _nudge_labels(positions, min_gap=1.5):
     """
     Iteratively spread y-positions apart so no two are closer than min_gap.
@@ -169,13 +217,15 @@ def generate_race_plot(
     lookback_months=DEFAULT_LOOKBACK,
 ):
     """Generate the horse race SVG and save to output_path."""
-    top_sources_data = get_top_sources(db_path, top_n, lookback_months)
-    if not top_sources_data:
+    source_names = get_ever_top_n_sources(db_path, top_n, lookback_months)
+    if not source_names:
         print('No source data found.')
         return
 
-    source_names = [s for s, _ in top_sources_data]
-    source_totals = {s: t for s, t in top_sources_data}
+    # Totals for legend labels — fetch enough rows to cover every selected source
+    source_totals = dict(
+        get_top_sources(db_path, n=len(source_names) + 20, lookback_months=lookback_months)
+    )
 
     monthly = get_monthly_counts(db_path, source_names, lookback_months)
     all_months = _all_months_in_range(lookback_months)
@@ -209,19 +259,35 @@ def generate_race_plot(
     ax.spines['bottom'].set_color(_BORDER_COLOR)
     ax.tick_params(colors=_TEXT_PRIMARY, which='both')
 
-    # Plot each source line
+    # Plot each source: line + individual scatter dots.
+    # Dots are separate scatter calls (one per data point) so each gets a
+    # unique SVG gid that we can target in post-processing to add <title>
+    # tooltip text.
     lines = []
+    tooltips_by_gid = {}
+
     for i, src in enumerate(source_names):
         y = [monthly[src].get(m, 0) for m in all_months]
+        src_id = src.replace(' ', '_').replace('/', '_')
+
+        # Line without markers
         ax.plot(
             x_pos, y,
             color=colors[i],
             linewidth=2,
-            marker='o',
-            markersize=4,
             alpha=0.9,
-            label=f'{src} ({source_totals[src]:,})',
+            label=f'{src} ({source_totals.get(src, 0):,})',
+            zorder=2,
         )
+
+        # One scatter point per month — unique gid per dot for tooltip injection
+        for j, (xi, value) in enumerate(zip(x_pos, y)):
+            gid = f'dot-{src_id}-{j}'
+            month_label = datetime.strptime(all_months[j], '%Y-%m').strftime("%b '%y")
+            ax.scatter([xi], [value], color=colors[i], s=25, zorder=3,
+                       gid=gid, label='_nolegend_')
+            tooltips_by_gid[gid] = f'{src} • {month_label}: {value:,}'
+
         lines.append((src, y, colors[i]))
 
     # Right-edge annotations anchored to the last COMPLETE month so a partial
@@ -258,7 +324,7 @@ def generate_race_plot(
     ax.set_ylabel('Links per month', fontsize=10, color=_TEXT_PRIMARY)
     ax.yaxis.set_tick_params(labelcolor=_TEXT_PRIMARY)
     ax.set_title(
-        f'Top {top_n} News Sources — Last {lookback_months} Months',
+        f'Sources That Reached Top {top_n} — Last {lookback_months} Months',
         fontsize=13,
         fontweight='600',
         color=_TEXT_SECONDARY,
@@ -283,6 +349,7 @@ def generate_race_plot(
     fig.savefig(output_path, format='svg', bbox_inches='tight', facecolor=_BG_PRIMARY)
     plt.close(fig)
 
+    _add_svg_tooltips(output_path, tooltips_by_gid)
     print(f'  ✓ Saved: {output_path}')
 
 
@@ -299,7 +366,8 @@ Examples:
     )
     parser.add_argument('--db', default=DEFAULT_DB)
     parser.add_argument('--output', default=DEFAULT_OUTPUT)
-    parser.add_argument('--top', type=int, default=DEFAULT_TOP_N, dest='top_n')
+    parser.add_argument('--top', type=int, default=DEFAULT_TOP_N, dest='top_n',
+                        help='Include sources that ever ranked this high in any month (default: 5)')
     parser.add_argument('--lookback', type=int, default=DEFAULT_LOOKBACK)
     parser.add_argument('--force', action='store_true')
     args = parser.parse_args()
