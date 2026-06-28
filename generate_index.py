@@ -295,6 +295,18 @@ def generate_index_content(db_path='ridehome.db', docs_dir='docs'):
     parts.append('<!-- END_STATUS_SECTION -->')
     parts.append('')
 
+    # Source race chart (only if SVG has been generated)
+    svg_path = os.path.join(docs_dir, 'assets', 'source-race.svg')
+    if os.path.exists(svg_path):
+        parts.append('<section class="source-race-section" aria-labelledby="race-heading">')
+        parts.append('  <h2 id="race-heading">Source Trends</h2>')
+        parts.append('  <p class="status-updated">Sources that reached the top 5 in any month over the last 24 months. Hover over any dot to see the monthly count.</p>')
+        parts.append('  <object type="image/svg+xml" data="assets/source-race.svg" style="width: 100%; display: block;">')
+        parts.append('    <img src="assets/source-race.svg" alt="Horse race line chart of top news sources by monthly link count">')
+        parts.append('  </object>')
+        parts.append('</section>')
+        parts.append('')
+
     # Archive section
     parts.append('<nav class="archive-nav" aria-labelledby="archive-heading">')
     parts.append('  <h2 id="archive-heading">Archive</h2>')

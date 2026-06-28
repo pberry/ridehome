@@ -549,6 +549,25 @@ button:focus {
 }
 
 /* ========================================
+   Source Race Chart
+   ======================================== */
+
+.source-race-section {
+  background-color: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 2em 0;
+}
+
+.source-race-section h2 {
+  margin-top: 0;
+  border-bottom: none;
+  color: var(--text-secondary);
+  font-size: 1.75em;
+}
+
+/* ========================================
    Recent Content - 3-Column Featured Grid
    ======================================== */
 

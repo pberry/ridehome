@@ -170,15 +170,23 @@ def mark_as_run(state_file=STATE_FILE):
 
 
 def _add_svg_tooltips(svg_path, tooltips_by_gid):
-    """Insert <title> elements into SVG <g> elements matched by gid.
+    """Post-process the saved SVG: strip fixed pt dimensions and inject tooltips.
 
-    This gives native browser tooltips (plain text on hover) for each data
-    point dot — no JavaScript required. The SVG <title> element is part of
-    the SVG standard and is supported by all modern browsers.
+    Removing matplotlib's fixed width/height lets the SVG scale responsively
+    when embedded via <object> — the viewBox handles aspect ratio instead.
+
+    The <title> injection gives native browser tooltips (plain text on hover)
+    for each data-point dot, no JavaScript required.
     """
     import html
+    import re
+
     with open(svg_path, 'r', encoding='utf-8') as f:
         content = f.read()
+
+    # Remove fixed pt dimensions so the SVG scales to fill its container
+    content = re.sub(r' width="[\d.]+pt" height="[\d.]+pt"', '', content, count=1)
+
     for gid, tip in tooltips_by_gid.items():
         marker = f'<g id="{gid}">'
         if marker in content:

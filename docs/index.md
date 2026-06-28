@@ -66,6 +66,14 @@
 </section>
 <!-- END_STATUS_SECTION -->
 
+<section class="source-race-section" aria-labelledby="race-heading">
+  <h2 id="race-heading">Source Trends</h2>
+  <p class="status-updated">Sources that reached the top 5 in any month over the last 24 months. Hover over any dot to see the monthly count.</p>
+  <object type="image/svg+xml" data="assets/source-race.svg" style="width: 100%; display: block;">
+    <img src="assets/source-race.svg" alt="Horse race line chart of top news sources by monthly link count">
+  </object>
+</section>
+
 <nav class="archive-nav" aria-labelledby="archive-heading">
   <h2 id="archive-heading">Archive</h2>
   <div class="archive-grid">
