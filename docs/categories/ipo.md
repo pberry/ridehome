@@ -14,19 +14,19 @@ layout: category
 - [SpaceX's stock closed up 19.6% on June 15, its first full day of trading; Musk said it "might be able to reach" ~$1T in revenue in 2030, up from $18.7B in 2025](https://www.cnbc.com/2026/06/15/spacex-stock-record-ipo-debut.html) (CNBC)
 - [SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T](https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo) (Bloomberg)
 - [Founders Fund's ~3% SpaceX stake is worth $50B+, Sequoia's ~1.5% is worth $20B+, and a16z will see its biggest return ever at $10B+](https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo) (Bloomberg)
-- [Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) (NYT)
+- [Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) (NYTimes)
 - [Sources: SpaceX has drawn $250B+ of investor demand for what is poised to be the largest IPO to date, far beyond the $75B that SpaceX is aiming to raise](https://www.reuters.com/world/spacex-ipo-demand-is-approaching-four-times-oversubscribed-source-says-2026-06-09/) (Reuters)
 - [OpenAI confidentially files for an IPO, says it has "not decided on timing yet", as "there are things we want to do that are likely easier as a private company"](https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html) (CNBC)
 - [S&P Dow Jones rejects proposals to expedite S&P 500 eligibility for mega-cap IPOs such as SpaceX's; companies remain ineligible until one year after their IPOs](https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation) (Bloomberg)
-- [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYT)
+- [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYTimes)
 
 ### May
 
-- [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYT)
+- [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYTimes)
 - [SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX; Elon Musk's shares give him 85.1% of the voting power in the company](https://www.bloomberg.com/news/articles/2026-05-20/musk-s-spacex-files-publicly-for-nasdaq-ipo-under-symbol-spcx) (Bloomberg)
 - [Polymarket partners with Nasdaq to launch markets tied to private company milestones, including IPO timing, valuations, earnings, and secondary market activity](https://www.theblock.co/post/401866/polymarket-rolls-out-prediction-markets-tracking-ipos-valuations-for-private-companies-like-openai-and-spacex) (The Block)
 - [Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019](https://www.cnbc.com/2026/05/14/cerebras-cbrs-stock-trade-nasdaq-ipo.html) (CNBC)
-- [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYT)
+- [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYTimes)
 
 ### April
 

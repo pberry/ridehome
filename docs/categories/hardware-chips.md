@@ -9,6 +9,8 @@ layout: category
 
 ### June
 
+- [South Korea, Samsung, and SK Hynix say they plan to invest ~$590B to build a new chip complex, including four chipmaking plants and a chip packaging cluster](https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6) (FT)
+- [Soaring memory costs are posing existential threats to small electronics makers, amid thin margins, low supply chain leverage, and little room for price hikes](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) (CNBC)
 - [How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution](https://www.wsj.com/tech/chicago-missed-the-tech-boom-quantum-computing-gives-it-a-second-chance-0b34d116) (WSJ)
 - [Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has "never seen a component price increase this much, this quickly"; iPhone is unchanged](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99) (WSJ)
 - [Apple Raises Mac and iPad Prices to Counter Memory Shortages](https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages) (Bloomberg)

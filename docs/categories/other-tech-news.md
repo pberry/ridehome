@@ -38,7 +38,7 @@ layout: category
 - [Sources: DeepSeek is in talks to raise outside capital for the first time, seeking at least $300M at a valuation of at least $10B](https://www.theinformation.com/articles/chinas-deepseek-raising-money-first-time-10-billion-plus-valuation) (The Information)
 - [Google launches a Windows desktop app with a Spotlight-like search box](https://9to5google.com/2026/04/14/google-app-desktop-windows/) (9to5Google)
 - [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)
-- [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYT)
+- [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYTimes)
 - [Sam Altman's home targeted in second attack; two suspects arrested](https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/) (SF Standard)
 - [Google News Now Prominently Featuring Polymarket Bets](https://futurism.com/future-society/google-news-polymarket) (Futurism)
 - [Anthropic Completes Tender Offer, But Employees Hold Onto Shares](https://www.bloomberg.com/news/articles/2026-04-08/anthropic-completes-tender-offer-but-employees-hold-onto-shares) (Bloomberg)
@@ -49,7 +49,7 @@ layout: category
 ### March
 
 - [Another Starlink satellite has inexplicably exploded](https://www.theverge.com/science/903906/another-starlink-satellite-has-inexplicably-exploded) (The Verge)
-- [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218)
+- [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218) (Twitter)
 - [OpenAI Surpasses $100 Million Annualized Revenue From Ads Pilot](https://www.theinformation.com/briefings/exclusive-openai-surpasses-100-million-annualized-revenue-ads-pilot?rc=i9gkgs) (The Information)
 - [How Apple Became Apple: The Definitive Oral History Of The Company's Earliest Days](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak) (Fast Company)
 - [OpenAI Taps Former Meta Executive to Lead Ad Push](https://www.wsj.com/tech/ai/openai-taps-former-meta-executive-to-lead-ad-push-60d39af2?st=Agy4yE&reflink=desktopwebshare_permalink) (WSJ)
@@ -76,7 +76,7 @@ layout: category
 
 ### January
 
-- [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956)
+- [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956) (Twitter)
 - [Epic and Google have a secret $800 million Unreal Engine and services deal](https://www.theverge.com/policy/866140/epic-google-fortnite-android-unreal-deal-antitrust-settlement) (The Verge)
 - [Jeff Bezos’ Blue Origin launches satellite internet service to rival SpaceX, Amazon](https://www.cnbc.com/2026/01/21/bezos-blue-origin-satellite-internet-spacex-amazon.html) (CNBC)
 - [South Korean leader celebrates ‘Kospi 5,000’ moment as stock market soars](https://www.ft.com/content/238f5fd4-e8f6-4eb0-9e3d-78066d6ccbe8?utm_sf_cserv_ref=18949452&utm_sf_post_ref=657049547) (FT)

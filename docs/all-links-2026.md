@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, June 29 2026 - Mythos Back?**
+
+  * [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) (Semafor)
+  * [Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2) (WSJ)
+  * [South Korea, Samsung, and SK Hynix say they plan to invest ~$590B to build a new chip complex, including four chipmaking plants and a chip packaging cluster](https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6) (FT)
+  * [Soaring memory costs are posing existential threats to small electronics makers, amid thin margins, low supply chain leverage, and little room for price hikes](https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html) (CNBC)
+  * [Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue](https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html) (CNBC)
+
+
+
 **Friday, June 26 2026 - OpenAI To Delay Its IPO?**
 
   * [Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html) (The New York Times)
@@ -111,7 +121,7 @@
 
   * [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable) (Axios)
   * [The US Commerce Dept blocked foreign persons from accessing Fable 5 and Mythos 5; Anthropic cut off all customers to comply, calling the disclosed jailbreaks minor](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) (The Verge)
-  * [Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) (NYT)
+  * [Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) (NYTimes)
   * [Amazon researchers showed Fable's safeguards could be evaded; Jassy raised it with Treasury's Bessent, helping set the export controls in motion](https://www.wsj.com/tech/ai/anthropic-dispatches-staff-to-d-c-racing-to-resolve-ai-export-restrictions-71303d42) (WSJ)
   * [Fox says it is acquiring Roku in its largest deal yet, valued at ~$22B including debt, giving it access to 100M+ streaming households globally; FOX drops 10%+](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa) (WSJ)
   * [Keir Starmer says the UK will ban social media for under-16s to "give kids their childhood back", using an Australia-like model, in effect by next spring](https://www.reuters.com/business/media-telecom/britain-expected-set-out-under-16s-social-media-restrictions-2026-06-14/) (Reuters)
@@ -125,7 +135,7 @@
 
   * [SpaceX raises $75B in the biggest-ever IPO, pricing 555.6M shares at $135 each, giving it a market value of $1.77T](https://www.bloomberg.com/news/articles/2026-06-11/elon-musk-s-spacex-set-to-make-history-with-record-breaking-ipo) (Bloomberg)
   * [Founders Fund's ~3% SpaceX stake is worth $50B+, Sequoia's ~1.5% is worth $20B+, and a16z will see its biggest return ever at $10B+](https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo) (Bloomberg)
-  * [Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) (NYT)
+  * [Some investors question SpaceX's valuation, citing its $4.3B loss on $4.7B in revenue in Q1, as well as concerns over space data centers](https://www.nytimes.com/2026/06/11/technology/spacex-valuation-skeptics.html) (NYTimes)
   * [Oracle warns customers of a critical PeopleSoft flaw after ShinyHunters claimed breaches of 100+ organizations using PeopleSoft; Oracle has not issued a patch](https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/) (TechCrunch)
   * [Sources: French startup Mistral AI is in talks to raise ~€3B at a ~€20B valuation; it was last valued at €11.7B during a funding round in September 2025](https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation) (Bloomberg)
   * [MrBeast hits 500M subscribers on YouTube, a record for the platform](https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/) (The Wrap)
@@ -207,10 +217,10 @@
 
 **Tuesday, June 02 2026 - What Will These IPOs Do To The Stock Market?**
 
-  * [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYT)
+  * [Anthropic says it has confidentially filed for an IPO, which could happen as soon as this fall, joining OpenAI and SpaceX in preparing to go public in 2026](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html) (NYTimes)
   * [Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others](https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8) (FT)
   * [Alphabet is raising $80B through equity offerings, including a $10B investment deal with Berkshire, to fund AI spending, in one of the largest equity deals ever](https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending) (Bloomberg)
-  * [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability](https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html) (NYT)
+  * [Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability](https://www.nytimes.com/2026/06/02/science/ai-mathematics-leiden-declaration.html) (NYTimes)
 
 
 
@@ -227,7 +237,7 @@
 **Friday, May 29 2026 - New Claude, New Realities**
 
   * [Anthropic launches Opus 4.8, saying it's "more likely to flag uncertainties about its work and less likely to make unsupported claims", at the same price as 4.7](https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/) (TechCrunch)
-  * [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYT)
+  * [Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month](https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html) (NYTimes)
   * [Blue Origin's New Glenn rocket, which exploded during testing on Thursday, was set to ferry 48 Amazon Leo satellites on Monday; Amazon paid Blue Origin $2.7B](https://www.ft.com/content/11b2eb12-6623-4624-83a6-5d25c905f3e6) (FT)
   * [Sources: Amazon has shut down an internal leaderboard that tracked employees' use of AI tools after workers tried to boost their scores with needless tasks](https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6) (FT)
   * [AI startup Shift launches a free home cleaning service in NYC to record first-person video with a camera-equipped cap and use it to train robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) (The Verge)
@@ -256,10 +266,10 @@
 
 **Tuesday, May 26 2026 - The Pope Gets AI Religion**
 
-  * [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYT)
+  * [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYTimes)
   * [Huawei says it aims to make 1.4nm chips by 2031 using its "LogicFolding" tech, which is based on its new Tau Scaling Law intended to bypass Moore's Law limits](https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-says-new-kirin-chip-for-phones-overcomes-us-clampdown) (Nikkei)
   * [Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek](https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms) (Bloomberg)
-  * [As AI tools like Mythos create a "bug-pocalypse", Glassdoor says Q1 cybersecurity job postings rose 11% YoY, and executive search firms are turning away clients](https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html) (NYT)
+  * [As AI tools like Mythos create a "bug-pocalypse", Glassdoor says Q1 cybersecurity job postings rose 11% YoY, and executive search firms are turning away clients](https://www.nytimes.com/2026/05/24/technology/ai-cybersecurity-jobs.html) (NYTimes)
   * [American Airlines picks SpaceX's Starlink for in-flight Wi-Fi on more than 500 planes; SpaceX already has contracts with United Airlines, Southwest, and others](https://www.cnbc.com/2026/05/26/american-airlines-spacex-starlink.html) (CNBC)
   * [Google Fitbit Air review: slim, comfortable, and stylish, robust tracking, seven-day battery life, and cheaper than Whoop, but can only be worn on the wrist](https://www.theshortcut.com/p/fitbit-air-review) (The Shortcut)
 
@@ -291,7 +301,7 @@
   * [Google rolls out Gemini 3.5 Flash, its "strongest agentic and coding model yet", for tackling long-horizon agentic tasks, in the Gemini app and Search's AI Mode](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/) (Google)
   * [Google announces Gemini Spark, a "24/7 personal AI agent" that is powered by Gemini 3.5 and supports integrations with Google Workspace apps, including Gmail](https://www.engadget.com/2176556/googles-gemini-spark-is-an-agentic-ai-assistant/) (Engadget)
   * [Google launches Gemini Omni, a multimodal model it says can "create anything from any input", starting with video generation, for Google AI Plus, Pro, and Ultra](https://venturebeat.com/ai/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know) (VentureBeat)
-  * [Google overhauls its search box, letting users input longer queries, including with photos and videos, and automate searches with Gemini 3.5 Flash-based agents](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share) (NYT)
+  * [Google overhauls its search box, letting users input longer queries, including with photos and videos, and automate searches with Gemini 3.5 Flash-based agents](https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&smid=url-share) (NYTimes)
   * [Google introduces Antigravity 2.0, featuring an updated desktop app that lets users orchestrate agents, an Antigravity CLI tool, and an SDK for custom workflows](https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/) (TechCrunch)
   * [Google adds Street View integration to Project Genie, its interactive world builder, and expands Genie from the US to adult Google AI Ultra subscribers globally](https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/) (Engadget)
 
@@ -313,7 +323,7 @@
   * [Analysis: 34 leading AI startups are generating ~$80B in annualized revenue, up 112% from six months ago, with Anthropic and OpenAI capturing 89% of the revenue](https://www.theinformation.com/articles/anthropic-openais-share-ai-startup-revenues-rises-89) (The Information)
   * [ArXiv, the repository of preprint academic research, says it will ban authors for a year if their papers have "incontrovertible evidence" of AI-generated work](https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/) (404 Media)
   * [Sources: Apple's revamped Siri may launch in beta, and will have an option to auto-delete chats; Apple plans to add Suggested Genmoji to iOS 27 and iPadOS 27](https://www.bloomberg.com/news/newsletters/2026-05-17/ios-27-siri-app-to-have-auto-deleting-chats-siri-may-be-a-beta-genmoji-mp9udydr) (Bloomberg)
-  * [A college senior at Stanford describes how AI has changed classes: cheating using AI "has become omnipresent" with students "fudging just about everything"](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html?unlocked_article_code=1.jFA.POX8.IbIaTxGsZdkJ&smid=bs-share) (NYT)
+  * [A college senior at Stanford describes how AI has changed classes: cheating using AI "has become omnipresent" with students "fudging just about everything"](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html?unlocked_article_code=1.jFA.POX8.IbIaTxGsZdkJ&smid=bs-share) (NYTimes)
   * [SF vibes are frenetic over the huge divide in outcomes and career uncertainty for software engineers; over 5 years ~10K people in AI attained retirement wealth](https://x.com/deedydas/status/2055491938464489888) (X)
 
 
@@ -345,14 +355,14 @@
   * [Google also unveiled Gemini Intelligence, bundling existing and new Gemini features, including task automation across apps and letting users vibe code Android widgets](https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill) (The Verge)
   * [WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats](https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/) (Wired)
   * [Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first](https://www.wsj.com/tech/ai/anthropic-was-behind-now-its-the-ai-booms-front-runner-5020f621) (WSJ)
-  * [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYT)
-  * [Richard Socher's Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue "recursive self-improvement"](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) (NYT)
+  * [Anduril raised a $5B Series H led by Thrive and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and could IPO in 2027](https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html) (NYTimes)
+  * [Richard Socher's Recursive Superintelligence raised $650M+ from GV, Greycroft, Nvidia, AMD, and others at a $4B valuation to pursue "recursive self-improvement"](https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html) (NYTimes)
 
 
 
 **Tuesday, May 12 2026 - Hackers Get Paid**
 
-  * [Instructure reaches a deal with hackers who breached its Canvas edtech platform to return stolen data and destroy copies, without saying what it gave in return](https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html) (NYT)
+  * [Instructure reaches a deal with hackers who breached its Canvas edtech platform to return stolen data and destroy copies, without saying what it gave in return](https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html) (NYTimes)
   * [eBay rejects GameStop's $56B takeover offer, saying the unsolicited bid is "neither credible nor attractive", in a letter from eBay Chairman Paul Pressler](https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible) (Bloomberg)
   * [OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities](https://www.testingcatalog.com/openai-announces-daybreak-initiative-around-codex-security/) (TestingCatalog)
   * [Sources: some Amazon employees are using in-house OpenClaw-like tool MeshClaw for unnecessary tasks to inflate AI token use after Amazon set weekly AI targets](https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca) (FT)
@@ -363,7 +373,7 @@
 
 **Monday, May 11 2026 - The AI Sec-Pocalypse Is Actually Nigh?**
 
-  * [Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says "this is the tip of the iceberg"](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&smid=nytcore-android-share) (NYT)
+  * [Google's TIG reports the first known example of hackers using AI to discover and weaponize a zero-day; TIG's chief analyst says "this is the tip of the iceberg"](https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html?unlocked_article_code=1.hlA.vW7Y.pO_0G8yLYoca&smid=nytcore-android-share) (NYTimes)
   * [The 90-day vulnerability disclosure policy is dead, as LLMs compress bug finding and exploit development time, and critical issues must be patched immediately](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/) (Himanshu Anand)
   * [OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro](https://www.reuters.com/business/openai-creates-new-unit-with-4-billion-investment-aid-corporate-ai-push-2026-05-11/) (Reuters)
   * [Sources: Apple is working on a "slight redesign" for macOS 27 to address Liquid Glass issues and plans a feature to automatically group Safari tabs in "27" OSes](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m) (Bloomberg)
@@ -384,7 +394,7 @@
 
 **Thursday, May 07 2026 - XAI Is Just A Neocloud Now?**
 
-  * [At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) (NYT)
+  * [At Code with Claude, Dario Amodei said Anthropic had planned to grow ~10x in 2026 but could grow 80x, calling its growth rate "crazy" and "too hard to handle"](https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html) (NYTimes)
   * [Anthropic signs a deal with SpaceX for 300MW+ of compute from Colossus 1 in Memphis, accessing 220,000+ Nvidia GPUs within the month](https://www.bloomberg.com/news/articles/2026-05-06/anthropic-inks-computing-deal-with-spacex-to-meet-ai-demand) (Bloomberg)
   * [Musk says xAI will be "dissolved as a separate company" and will become "SpaceXAI, the AI products from SpaceX"](https://spyglass.org/anthropic-spacex-xai-data-centers/) (Spyglass)
   * [Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26](https://www.engadget.com/2166645/the-google-fitbit-air-is-an-ai-infused-take-on-whoop-wearables/) (Engadget)
@@ -404,7 +414,7 @@
 
 **Tuesday, May 05 2026 - Will AI Models Have To Be Reviews By The Government?**
 
-  * [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYT)
+  * [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYTimes)
   * [Sources: Apple held exploratory talks with Intel and Apple executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US](https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us) (Bloomberg)
   * [Coinbase CEO Brian Armstrong announces the company is cutting ~700 jobs, or ~14% of its global workforce, to reduce costs, saying "AI is changing how we work"](https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/) (Reuters)
   * [Meta is using AI on Facebook and Instagram to detect under-13 users by analyzing bone structure, height, and visual cues, but says it's "not facial recognition"](https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis) (The Verge)
@@ -505,7 +515,7 @@
 
 **Wednesday, April 22 2026 - Elon Buys Cursor?**
 
-  * [SpaceX says it's working with Cursor to build "the world's most useful models" and it has the right to acquire Cursor for $60B or pay $10B for the partnership](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html?unlocked_article_code=1.clA.qirG.9HPgrkyVuROh&smid=url-share) (NYT)
+  * [SpaceX says it's working with Cursor to build "the world's most useful models" and it has the right to acquire Cursor for $60B or pay $10B for the partnership](https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html?unlocked_article_code=1.clA.qirG.9HPgrkyVuROh&smid=url-share) (NYTimes)
   * [Google unveils a new TPU lineup consisting of the TPU 8t for AI training and the TPU 8i for inference, with general availability scheduled for later in 2026](https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai) (Bloomberg)
   * [OpenAI releases ChatGPT Images 2.0 with new "thinking capabilities", allowing it to search the web to help it create multiple images from a single prompt](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2) (The Verge)
   * [Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) (Bloomberg)
@@ -570,7 +580,7 @@
   * [Amazon agrees to acquire satellite operator Globalstar for $10.8B to expand Leo satellite network; Amazon and Apple say Leo will power some iPhone and Watch services](https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple) (Amazon)
   * [Amazon to Acquire Globalstar in Satellite Cellular-Connection Push](https://www.wsj.com/tech/amazon-to-acquire-globalstar-in-satellite-cellular-connection-push-448d5a16) (WSJ)
   * [US DOJ charges Daniel Moreno-Gama, accused of throwing a Molotov cocktail at Sam Altman's home, with attempted murder and arson](http://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges) (CNN)
-  * [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYT)
+  * [Man who attacked OpenAI CEO's home had list of other AI executives](https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html) (NYTimes)
   * [OpenAI acquires personal finance startup Hiro Finance](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) (TechCrunch)
   * [Google designates "back button hijacking" as malicious, sites could be demoted in Search from June 15](https://9to5google.com/2026/04/13/google-search-back-button-hijacking/) (9to5Google)
   * [Data labeling startup Handshake's gross annualized revenue hits ~$1B; Mercor also at $1B+ pace](https://www.theinformation.com/articles/handshake-mercor-revenue-surges-demand-human-contractors-train-ai) (The Information)
@@ -680,7 +690,7 @@
 **Monday, March 30 2026 - Is AI About To Get More Expensive**
 
   * [The Sudden Fall of OpenAI’s Most Hyped Product Since ChatGPT](https://www.wsj.com/tech/ai/the-sudden-fall-of-openais-most-hyped-product-since-chatgpt-64c730c9?st=omYXce) (WSJ)
-  * [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218)
+  * [Andrew Curran X Post](https://x.com/AndrewCurran_/status/2037967531630367218) (Twitter)
   * [Claude is limiting usage more aggressively during peak hours — here’s what changed](https://www.techradar.com/ai-platforms-assistants/claude/claude-is-limiting-usage-more-aggressively-during-peak-hours-heres-what-changed) (TechRadar)
   * [Microsoft’s Researcher AI Agent Can Now Make GPT and Claude Models Work Together](https://www.thurrott.com/a-i/334334/microsofts-researcher-ai-agent-can-now-make-gpt-and-claude-models-work-together) (Thurrott)
   * [Starcloud raises $170 million Series A to build data centers in space](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/) (TechCrunch)
@@ -1154,7 +1164,7 @@
   * [TikTok says a power outage caused a 'cascading systems failure' that messed up its algorithm](https://www.businessinsider.com/tiktok-outage-data-center-messed-up-fyp-over-the-weekend-2026-1) (BusinessInsider)
   * [Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp](https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/) (TechCrunch)
   * [Uber launches an ‘AV Labs’ division to gather driving data for robotaxi partners](https://techcrunch.com/2026/01/27/uber-launches-an-av-labs-division-to-gather-driving-data-for-robotaxi-partners/) (TechCrunch)
-  * [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956)
+  * [Thread On The Amodei Essay](https://x.com/aakashgupta/status/2015868978745507956) (Twitter)
 
 
 

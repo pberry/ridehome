@@ -3,12 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, June 26, 2026 - OpenAI To Delay Its IPO?</h3>
+  <h3>Monday, June 29, 2026 - Mythos Back?</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html">Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions</a> (The New York Times) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.theinformation.com/articles/trump-administration-asks-openai-stagger-release-new-model-security-concerns">Sources: Sam Altman told staff the US government asked OpenAI to stagger the release of GPT-5.6 over security concerns, approving "access customer by customer"</a> (The Information) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://kotaku.com/xbox-price-increase-2026-tariffs-buy-now-pay-later-2000710565">Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025</a> (Kotaku) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.ft.com/content/42af0f15-3aa9-49b7-b429-4a39540af03e">Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies">Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing</a> (Semafor) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2">Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6">South Korea, Samsung, and SK Hynix say they plan to invest ~$590B to build a new chip complex, including four chipmaking plants and a chip packaging cluster</a> (FT) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html">Soaring memory costs are posing existential threats to small electronics makers, amid thin margins, low supply chain leverage, and little room for price hikes</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html">Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue</a> (CNBC) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -34,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-26T12:46:33-07:00">June 26, 2026 at 12:46 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-06-29T12:56:35-07:00">June 29, 2026 at 12:56 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,798</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,803</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,783</span></li>
       </ul>
     </div>
@@ -48,18 +49,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(116 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(114 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(75 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(72 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(288 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(95 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(96 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(95 links)</span></li>
       </ol>
     </div>
   </div>

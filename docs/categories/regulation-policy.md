@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) (Semafor)
 - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present](https://www.wsj.com/politics/policy/trump-seeks-to-boost-quantum-computing-with-new-executive-orders-b2200634) (WSJ)
 - [A speculative scenario titled "Europe 2031" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china) (The Guardian)
 - [Trump advisers weigh structure of potential AI stakes](https://www.semafor.com/article/06/17/2026/trump-advisers-weigh-structure-of-potential-ai-stakes) (Semafor)
@@ -16,7 +17,7 @@ layout: category
 - [A senior White House official says easing Friday's action on Anthropic will likely take more than a few days, but leaves the door open to a quick resolution](https://www.politico.com/news/2026/06/15/trump-officials-meet-with-anthropic-to-discuss-a-truce-00962698) (Politico)
 - [Sources: senior Anthropic technical staff are in DC to meet WH officials and try to fix the Mythos 5 dispute; both sides say they are eager to resolve the issue](https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable) (Axios)
 - [The US Commerce Dept blocked foreign persons from accessing Fable 5 and Mythos 5; Anthropic cut off all customers to comply, calling the disclosed jailbreaks minor](https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security) (The Verge)
-- [Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) (NYT)
+- [Trump signed off on the restriction himself after Commerce Secretary Lutnick was asked to lead the response](https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html) (NYTimes)
 - [Keir Starmer says the UK will ban social media for under-16s to "give kids their childhood back", using an Australia-like model, in effect by next spring](https://www.reuters.com/business/media-telecom/britain-expected-set-out-under-16s-social-media-restrictions-2026-06-14/) (Reuters)
 - [UK's under-16 ban will cover Snapchat, TikTok, YouTube, Instagram, Facebook, and X but exempt WhatsApp and Signal; AI companion chatbots must be 18+](https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/) (TechCrunch)
 - [Sam Bankman-Fried loses his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of FTX](https://www.reuters.com/legal/government/sam-bankman-fried-loses-bid-overturn-crypto-fraud-conviction-2026-06-12/) (Reuters)
@@ -30,7 +31,7 @@ layout: category
 
 ### May
 
-- [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYT)
+- [Pope Leo XIV presents Magnifica humanitas, his encyclical on AI, calling for AI regulation, protection for children against hypersexualized AI images, and more](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html?unlocked_article_code=1.lFA.ZO8g.ywQ-ffnOl1j9&smid=nytcore-ios-share) (NYTimes)
 - [Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanced AI work, including at Alibaba and DeepSeek](https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms) (Bloomberg)
 - [Sources: Trump delayed signing the AI EO because "he just hates regulation"; there were questions about the EO giving the Treasury Department a leading role](https://www.axios.com/2026/05/21/trump-ai-executive-order-postponed-why) (Axios)
 - [Musk v. Altman: the jury unanimously rejects Elon Musk's claims against OpenAI and Sam Altman, as he filed them outside of a three-year statute of limitations](https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html) (CNBC)
@@ -39,7 +40,7 @@ layout: category
 - [AT&T, T-Mobile, and Verizon sign an "agreement in principle" to form a joint venture that aims to end wireless dead zones in the US, without giving many details](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage) (The Verge)
 - [Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans](https://www.washingtonpost.com/nation/2026/05/13/7-10-americans-oppose-data-centers-being-built-their-communities/) (Washington Post)
 - [French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe](https://www.cnbc.com/2026/05/07/french-prosecutors-probe-of-elon-musk-x-now-a-criminal-investigation.html) (CNBC)
-- [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYT)
+- [Sources: the Trump administration is discussing an EO to form an AI working group that would examine AI oversight procedures, like vetting models before release](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) (NYTimes)
 - [The US Senate unanimously passed a rule barring senators from trading on prediction markets like Kalshi and Polymarket, amid rising concern over insider trading](https://www.cnbc.com/2026/04/30/senate-prediction-markets-trading-ban-kalshi-polymarket.html) (CNBC)
 
 ### April
