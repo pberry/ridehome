@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Comcast plans to spin off its media and entertainment assets, including NBCUniversal and Sky, into a new publicly traded entity, set to close by mid-2027](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) (Variety)
 - [Sports clips' rise on platforms like YouTube has left broadcasters debating whether to use them to attract younger viewers or protect their subscription revenue](https://www.cnbc.com/2026/06/25/tiktok-youtube-sports-viewership.html) (CNBC)
 - [Fox says it is acquiring Roku in its largest deal yet, valued at ~$22B including debt, giving it access to 100M+ streaming households globally; FOX drops 10%+](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=FjSwPa) (WSJ)
 - [MrBeast hits 500M subscribers on YouTube, a record for the platform](https://www.thewrap.com/media-platforms/tv/mrbeast-500-million-youtube-subscribers/) (The Wrap)

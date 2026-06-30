@@ -9,6 +9,10 @@ layout: category
 
 ### June
 
+- [AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) (TechCrunch)
+- [The DOD seeks to recruit engineers experienced in frontier AI, machine learning and automation, and data systems, to embed them "down to the unit level"](https://www.bloomberg.com/news/articles/2026-06-30/us-seeking-tech-force-engineers-to-embed-across-armed-forces) (Bloomberg)
+- [Google says the Gemini app now offers personalized Nano Banana image generation, previously limited to Plus, Pro, and Ultra users, to eligible US users for free](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) (TechCrunch)
+- [Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents](https://www.ft.com/content/befb7f34-9357-492b-a40b-2132d3256bcc) (FT)
 - [Researchers say Z.ai's GLM-5.2 matches latest US models at finding security bugs, as critics question the US' lax approach in restricting Chinese open models](https://www.wsj.com/tech/ai/chinese-ai-anthropic-mythos-cybersecurity-574b02c2) (WSJ)
 - [As China's working-age population shrinks, consensus is growing that China must embed embodied AI robots into as many tasks as possible, as soon as possible](https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68) (FT)
 - [Meta looks to AI to review harmful content in cost-cutting drive](https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd?syn-25a6b1a6=1) (FT)

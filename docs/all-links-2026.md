@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, June 30 2026 - Comcast Spins Out**
+
+  * [Comcast plans to spin off its media and entertainment assets, including NBCUniversal and Sky, into a new publicly traded entity, set to close by mid-2027](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) (Variety)
+  * [SCOTUS limits the law enforcement use of "geofence" warrants, saying people have "a reasonable expectation of privacy" in their cell-phone location data](https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/) (TechCrunch)
+  * [Australia's ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them](https://www.bloomberg.com/news/articles/2026-06-29/amazon-sued-by-australian-consumer-watchdog-over-prime-video-ads) (Bloomberg)
+  * [AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) (TechCrunch)
+  * [The DOD seeks to recruit engineers experienced in frontier AI, machine learning and automation, and data systems, to embed them "down to the unit level"](https://www.bloomberg.com/news/articles/2026-06-30/us-seeking-tech-force-engineers-to-embed-across-armed-forces) (Bloomberg)
+  * [Google says the Gemini app now offers personalized Nano Banana image generation, previously limited to Plus, Pro, and Ultra users, to eligible US users for free](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) (TechCrunch)
+  * [Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents](https://www.ft.com/content/befb7f34-9357-492b-a40b-2132d3256bcc) (FT)
+
+
+
 **Monday, June 29 2026 - Mythos Back?**
 
   * [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) (Semafor)

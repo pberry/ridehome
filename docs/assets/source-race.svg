@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-06-29T19:56:41.191120</dc:date>
+    <dc:date>2026-06-30T19:56:02.649372</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -41,12 +41,12 @@ z
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m3231da3c51" d="M 0 0 
+       <path id="m5bb5fd704a" d="M 0 0 
 L 0 3.5 
 " style="stroke: #556873; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m3231da3c51" x="56.124225" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="56.124225" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -57,7 +57,7 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m3231da3c51" x="86.521112" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="86.521112" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -68,7 +68,7 @@ L 0 3.5
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m3231da3c51" x="116.917999" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="116.917999" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -79,7 +79,7 @@ L 0 3.5
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m3231da3c51" x="147.314886" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="147.314886" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -90,7 +90,7 @@ L 0 3.5
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m3231da3c51" x="177.711773" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="177.711773" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -101,7 +101,7 @@ L 0 3.5
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m3231da3c51" x="208.108661" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="208.108661" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
@@ -112,7 +112,7 @@ L 0 3.5
     <g id="xtick_7">
      <g id="line2d_7">
       <g>
-       <use xlink:href="#m3231da3c51" x="238.505548" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="238.505548" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
@@ -123,7 +123,7 @@ L 0 3.5
     <g id="xtick_8">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m3231da3c51" x="268.902435" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="268.902435" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
@@ -134,7 +134,7 @@ L 0 3.5
     <g id="xtick_9">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m3231da3c51" x="299.299322" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="299.299322" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
@@ -145,7 +145,7 @@ L 0 3.5
     <g id="xtick_10">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m3231da3c51" x="329.696209" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="329.696209" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
@@ -156,7 +156,7 @@ L 0 3.5
     <g id="xtick_11">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m3231da3c51" x="360.093096" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="360.093096" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
@@ -167,7 +167,7 @@ L 0 3.5
     <g id="xtick_12">
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m3231da3c51" x="390.489984" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="390.489984" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
@@ -178,7 +178,7 @@ L 0 3.5
     <g id="xtick_13">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m3231da3c51" x="420.886871" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="420.886871" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
@@ -189,7 +189,7 @@ L 0 3.5
     <g id="xtick_14">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m3231da3c51" x="451.283758" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="451.283758" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
@@ -200,7 +200,7 @@ L 0 3.5
     <g id="xtick_15">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m3231da3c51" x="481.680645" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="481.680645" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
@@ -211,7 +211,7 @@ L 0 3.5
     <g id="xtick_16">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m3231da3c51" x="512.077532" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="512.077532" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_16">
@@ -222,7 +222,7 @@ L 0 3.5
     <g id="xtick_17">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#m3231da3c51" x="542.474419" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="542.474419" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_17">
@@ -233,7 +233,7 @@ L 0 3.5
     <g id="xtick_18">
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m3231da3c51" x="572.871307" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="572.871307" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_18">
@@ -244,7 +244,7 @@ L 0 3.5
     <g id="xtick_19">
      <g id="line2d_19">
       <g>
-       <use xlink:href="#m3231da3c51" x="603.268194" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="603.268194" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_19">
@@ -255,7 +255,7 @@ L 0 3.5
     <g id="xtick_20">
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m3231da3c51" x="633.665081" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="633.665081" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_20">
@@ -266,7 +266,7 @@ L 0 3.5
     <g id="xtick_21">
      <g id="line2d_21">
       <g>
-       <use xlink:href="#m3231da3c51" x="664.061968" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="664.061968" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_21">
@@ -277,7 +277,7 @@ L 0 3.5
     <g id="xtick_22">
      <g id="line2d_22">
       <g>
-       <use xlink:href="#m3231da3c51" x="694.458855" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="694.458855" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_22">
@@ -288,7 +288,7 @@ L 0 3.5
     <g id="xtick_23">
      <g id="line2d_23">
       <g>
-       <use xlink:href="#m3231da3c51" x="724.855742" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="724.855742" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_23">
@@ -299,7 +299,7 @@ L 0 3.5
     <g id="xtick_24">
      <g id="line2d_24">
       <g>
-       <use xlink:href="#m3231da3c51" x="755.252629" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m5bb5fd704a" x="755.252629" y="417.157969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_24">
@@ -313,16 +313,16 @@ L 0 3.5
      <g id="line2d_25">
       <path d="M 40.925781 410.898614 
 L 822.125781 410.898614 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_26">
       <defs>
-       <path id="m85685b23b2" d="M 0 0 
+       <path id="m8e254c28f4" d="M 0 0 
 L -3.5 0 
 " style="stroke: #556873; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="410.898614" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="410.898614" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_25">
@@ -333,11 +333,11 @@ L -3.5 0
      <g id="line2d_27">
       <path d="M 40.925781 365.376033 
 L 822.125781 365.376033 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_28">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="365.376033" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="365.376033" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_26">
@@ -348,11 +348,11 @@ L 822.125781 365.376033
      <g id="line2d_29">
       <path d="M 40.925781 319.853453 
 L 822.125781 319.853453 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_30">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="319.853453" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="319.853453" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_27">
@@ -363,11 +363,11 @@ L 822.125781 319.853453
      <g id="line2d_31">
       <path d="M 40.925781 274.330872 
 L 822.125781 274.330872 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_32">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="274.330872" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="274.330872" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_28">
@@ -378,11 +378,11 @@ L 822.125781 274.330872
      <g id="line2d_33">
       <path d="M 40.925781 228.808291 
 L 822.125781 228.808291 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_34">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="228.808291" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="228.808291" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_29">
@@ -393,11 +393,11 @@ L 822.125781 228.808291
      <g id="line2d_35">
       <path d="M 40.925781 183.285711 
 L 822.125781 183.285711 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_36">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="183.285711" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="183.285711" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_30">
@@ -408,11 +408,11 @@ L 822.125781 183.285711
      <g id="line2d_37">
       <path d="M 40.925781 137.76313 
 L 822.125781 137.76313 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_38">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="137.76313" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="137.76313" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_31">
@@ -423,11 +423,11 @@ L 822.125781 137.76313
      <g id="line2d_39">
       <path d="M 40.925781 92.240549 
 L 822.125781 92.240549 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_40">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="92.240549" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="92.240549" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_32">
@@ -438,11 +438,11 @@ L 822.125781 92.240549
      <g id="line2d_41">
       <path d="M 40.925781 46.717969 
 L 822.125781 46.717969 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke-dasharray: 2.96,1.28; stroke-dashoffset: 0; stroke: #93a1a1; stroke-opacity: 0.35; stroke-width: 0.8"/>
      </g>
      <g id="line2d_42">
       <g>
-       <use xlink:href="#m85685b23b2" x="40.925781" y="46.717969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
+       <use xlink:href="#m8e254c28f4" x="40.925781" y="46.717969" style="fill: #556873; stroke: #556873; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_33">
@@ -477,8 +477,8 @@ L 633.665081 217.427646
 L 664.061968 160.52442 
 L 694.458855 137.76313 
 L 724.855742 251.569582 
-L 755.252629 171.905066 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #268bd2; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+L 755.252629 149.143775 
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #268bd2; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_44">
     <path d="M 56.124225 240.188936 
@@ -505,7 +505,7 @@ L 664.061968 206.047001
 L 694.458855 285.711517 
 L 724.855742 331.234098 
 L 755.252629 297.092162 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #dc322f; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #dc322f; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_45">
     <path d="M 56.124225 308.472807 
@@ -531,8 +531,8 @@ L 633.665081 342.614743
 L 664.061968 297.092162 
 L 694.458855 365.376033 
 L 724.855742 308.472807 
-L 755.252629 319.853453 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #2aa198; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+L 755.252629 285.711517 
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #2aa198; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_46">
     <path d="M 56.124225 308.472807 
@@ -559,7 +559,7 @@ L 664.061968 228.808291
 L 694.458855 285.711517 
 L 724.855742 297.092162 
 L 755.252629 274.330872 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #d33682; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #d33682; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_47">
     <path d="M 56.124225 353.995388 
@@ -585,8 +585,8 @@ L 633.665081 353.995388
 L 664.061968 342.614743 
 L 694.458855 251.569582 
 L 724.855742 353.995388 
-L 755.252629 285.711517 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #859900; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+L 755.252629 274.330872 
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #859900; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_48">
     <path d="M 56.124225 376.756678 
@@ -613,7 +613,7 @@ L 664.061968 331.234098
 L 694.458855 319.853453 
 L 724.855742 285.711517 
 L 755.252629 331.234098 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #b58900; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #b58900; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_49">
     <path d="M 56.124225 331.234098 
@@ -640,7 +640,7 @@ L 664.061968 365.376033
 L 694.458855 342.614743 
 L 724.855742 285.711517 
 L 755.252629 365.376033 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #6c71c4; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #6c71c4; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_50">
     <path d="M 56.124225 331.234098 
@@ -667,7 +667,7 @@ L 664.061968 319.853453
 L 694.458855 365.376033 
 L 724.855742 376.756678 
 L 755.252629 353.995388 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #cb4b16; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #cb4b16; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="line2d_51">
     <path d="M 56.124225 353.995388 
@@ -694,7 +694,7 @@ L 664.061968 365.376033
 L 694.458855 319.853453 
 L 724.855742 388.137324 
 L 755.252629 342.614743 
-" clip-path="url(#pa8b0908d0e)" style="fill: none; stroke: #586e75; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
+" clip-path="url(#p694cdd7f3d)" style="fill: none; stroke: #586e75; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
    </g>
    <g id="patch_3">
     <path d="M 40.925781 417.157969 
@@ -708,7 +708,7 @@ L 822.125781 417.157969
    </g>
    <g id="dot-Bloomberg-0"><title>Bloomberg • Jul &#x27;24: 19</title>
     <defs>
-     <path id="mfb3c2f5521" d="M 0 2.5 
+     <path id="mb855f70d9a" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -720,128 +720,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #268bd2"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="56.124225" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="56.124225" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-1"><title>Bloomberg • Aug &#x27;24: 19</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="86.521112" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="86.521112" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-2"><title>Bloomberg • Sep &#x27;24: 20</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="116.917999" y="183.285711" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="116.917999" y="183.285711" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-3"><title>Bloomberg • Oct &#x27;24: 26</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="147.314886" y="115.00184" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="147.314886" y="115.00184" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-4"><title>Bloomberg • Nov &#x27;24: 26</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="177.711773" y="115.00184" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="177.711773" y="115.00184" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-5"><title>Bloomberg • Dec &#x27;24: 23</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="208.108661" y="149.143775" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="208.108661" y="149.143775" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-6"><title>Bloomberg • Jan &#x27;25: 23</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="238.505548" y="149.143775" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="238.505548" y="149.143775" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-7"><title>Bloomberg • Feb &#x27;25: 26</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="268.902435" y="115.00184" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="268.902435" y="115.00184" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-8"><title>Bloomberg • Mar &#x27;25: 32</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="299.299322" y="46.717969" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="299.299322" y="46.717969" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-9"><title>Bloomberg • Apr &#x27;25: 28</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="329.696209" y="92.240549" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="329.696209" y="92.240549" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-10"><title>Bloomberg • May &#x27;25: 24</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="360.093096" y="137.76313" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="360.093096" y="137.76313" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-11"><title>Bloomberg • Jun &#x27;25: 22</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="390.489984" y="160.52442" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="390.489984" y="160.52442" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-12"><title>Bloomberg • Jul &#x27;25: 28</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="420.886871" y="92.240549" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="420.886871" y="92.240549" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-13"><title>Bloomberg • Aug &#x27;25: 19</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="451.283758" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="451.283758" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-14"><title>Bloomberg • Sep &#x27;25: 21</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="481.680645" y="171.905066" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="481.680645" y="171.905066" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-15"><title>Bloomberg • Oct &#x27;25: 20</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="512.077532" y="183.285711" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="512.077532" y="183.285711" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-16"><title>Bloomberg • Nov &#x27;25: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="542.474419" y="251.569582" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="542.474419" y="251.569582" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-17"><title>Bloomberg • Dec &#x27;25: 19</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="572.871307" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="572.871307" y="194.666356" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-18"><title>Bloomberg • Jan &#x27;26: 13</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="603.268194" y="262.950227" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="603.268194" y="262.950227" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-19"><title>Bloomberg • Feb &#x27;26: 17</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="633.665081" y="217.427646" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="633.665081" y="217.427646" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-20"><title>Bloomberg • Mar &#x27;26: 22</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="664.061968" y="160.52442" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="664.061968" y="160.52442" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-21"><title>Bloomberg • Apr &#x27;26: 24</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="694.458855" y="137.76313" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="694.458855" y="137.76313" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-Bloomberg-22"><title>Bloomberg • May &#x27;26: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="724.855742" y="251.569582" style="fill: #268bd2; stroke: #268bd2"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="724.855742" y="251.569582" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
-   <g id="dot-Bloomberg-23"><title>Bloomberg • Jun &#x27;26: 21</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mfb3c2f5521" x="755.252629" y="171.905066" style="fill: #268bd2; stroke: #268bd2"/>
+   <g id="dot-Bloomberg-23"><title>Bloomberg • Jun &#x27;26: 23</title>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mb855f70d9a" x="755.252629" y="149.143775" style="fill: #268bd2; stroke: #268bd2"/>
     </g>
    </g>
    <g id="dot-The_Verge-0"><title>The Verge • Jul &#x27;24: 15</title>
     <defs>
-     <path id="m6f518a571f" d="M 0 2.5 
+     <path id="m92ab6473d0" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -853,128 +853,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #dc322f"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="56.124225" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="56.124225" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-1"><title>The Verge • Aug &#x27;24: 27</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="86.521112" y="103.621195" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="86.521112" y="103.621195" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-2"><title>The Verge • Sep &#x27;24: 19</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="116.917999" y="194.666356" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="116.917999" y="194.666356" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-3"><title>The Verge • Oct &#x27;24: 26</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="147.314886" y="115.00184" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="147.314886" y="115.00184" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-4"><title>The Verge • Nov &#x27;24: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="177.711773" y="251.569582" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="177.711773" y="251.569582" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-5"><title>The Verge • Dec &#x27;24: 15</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="208.108661" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="208.108661" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-6"><title>The Verge • Jan &#x27;25: 24</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="238.505548" y="137.76313" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="238.505548" y="137.76313" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-7"><title>The Verge • Feb &#x27;25: 16</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="268.902435" y="228.808291" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="268.902435" y="228.808291" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-8"><title>The Verge • Mar &#x27;25: 24</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="299.299322" y="137.76313" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="299.299322" y="137.76313" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-9"><title>The Verge • Apr &#x27;25: 13</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="329.696209" y="262.950227" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="329.696209" y="262.950227" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-10"><title>The Verge • May &#x27;25: 17</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="360.093096" y="217.427646" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="360.093096" y="217.427646" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-11"><title>The Verge • Jun &#x27;25: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="390.489984" y="251.569582" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="390.489984" y="251.569582" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-12"><title>The Verge • Jul &#x27;25: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="420.886871" y="274.330872" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="420.886871" y="274.330872" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-13"><title>The Verge • Aug &#x27;25: 15</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="451.283758" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="451.283758" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-14"><title>The Verge • Sep &#x27;25: 16</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="481.680645" y="228.808291" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="481.680645" y="228.808291" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-15"><title>The Verge • Oct &#x27;25: 21</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="512.077532" y="171.905066" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="512.077532" y="171.905066" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-16"><title>The Verge • Nov &#x27;25: 19</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="542.474419" y="194.666356" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="542.474419" y="194.666356" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-17"><title>The Verge • Dec &#x27;25: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="572.871307" y="308.472807" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="572.871307" y="308.472807" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-18"><title>The Verge • Jan &#x27;26: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="603.268194" y="251.569582" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="603.268194" y="251.569582" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-19"><title>The Verge • Feb &#x27;26: 15</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="633.665081" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="633.665081" y="240.188936" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-20"><title>The Verge • Mar &#x27;26: 18</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="664.061968" y="206.047001" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="664.061968" y="206.047001" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-21"><title>The Verge • Apr &#x27;26: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="694.458855" y="285.711517" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="694.458855" y="285.711517" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-22"><title>The Verge • May &#x27;26: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="724.855742" y="331.234098" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="724.855742" y="331.234098" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-The_Verge-23"><title>The Verge • Jun &#x27;26: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m6f518a571f" x="755.252629" y="297.092162" style="fill: #dc322f; stroke: #dc322f"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m92ab6473d0" x="755.252629" y="297.092162" style="fill: #dc322f; stroke: #dc322f"/>
     </g>
    </g>
    <g id="dot-TechCrunch-0"><title>TechCrunch • Jul &#x27;24: 9</title>
     <defs>
-     <path id="md82f53ef8d" d="M 0 2.5 
+     <path id="m872c825cea" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -986,128 +986,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #2aa198"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="56.124225" y="308.472807" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="56.124225" y="308.472807" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-1"><title>TechCrunch • Aug &#x27;24: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="86.521112" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="86.521112" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-2"><title>TechCrunch • Sep &#x27;24: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="116.917999" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="116.917999" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-3"><title>TechCrunch • Oct &#x27;24: 19</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="147.314886" y="194.666356" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="147.314886" y="194.666356" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-4"><title>TechCrunch • Nov &#x27;24: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="177.711773" y="274.330872" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="177.711773" y="274.330872" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-5"><title>TechCrunch • Dec &#x27;24: 15</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="208.108661" y="240.188936" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="208.108661" y="240.188936" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-6"><title>TechCrunch • Jan &#x27;25: 17</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="238.505548" y="217.427646" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="238.505548" y="217.427646" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-7"><title>TechCrunch • Feb &#x27;25: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="268.902435" y="274.330872" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="268.902435" y="274.330872" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-8"><title>TechCrunch • Mar &#x27;25: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="299.299322" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="299.299322" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-9"><title>TechCrunch • Apr &#x27;25: 21</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="329.696209" y="171.905066" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="329.696209" y="171.905066" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-10"><title>TechCrunch • May &#x27;25: 16</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="360.093096" y="228.808291" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="360.093096" y="228.808291" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-11"><title>TechCrunch • Jun &#x27;25: 13</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="390.489984" y="262.950227" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="390.489984" y="262.950227" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-12"><title>TechCrunch • Jul &#x27;25: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="420.886871" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="420.886871" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-13"><title>TechCrunch • Aug &#x27;25: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="451.283758" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="451.283758" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-14"><title>TechCrunch • Sep &#x27;25: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="481.680645" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="481.680645" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-15"><title>TechCrunch • Oct &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="512.077532" y="331.234098" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="512.077532" y="331.234098" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-16"><title>TechCrunch • Nov &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="542.474419" y="353.995388" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="542.474419" y="353.995388" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-17"><title>TechCrunch • Dec &#x27;25: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="572.871307" y="365.376033" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="572.871307" y="365.376033" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-18"><title>TechCrunch • Jan &#x27;26: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="603.268194" y="319.853453" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="603.268194" y="319.853453" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-19"><title>TechCrunch • Feb &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="633.665081" y="342.614743" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="633.665081" y="342.614743" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-20"><title>TechCrunch • Mar &#x27;26: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="664.061968" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="664.061968" y="297.092162" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-21"><title>TechCrunch • Apr &#x27;26: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="694.458855" y="365.376033" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="694.458855" y="365.376033" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-TechCrunch-22"><title>TechCrunch • May &#x27;26: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="724.855742" y="308.472807" style="fill: #2aa198; stroke: #2aa198"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="724.855742" y="308.472807" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
-   <g id="dot-TechCrunch-23"><title>TechCrunch • Jun &#x27;26: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md82f53ef8d" x="755.252629" y="319.853453" style="fill: #2aa198; stroke: #2aa198"/>
+   <g id="dot-TechCrunch-23"><title>TechCrunch • Jun &#x27;26: 11</title>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m872c825cea" x="755.252629" y="285.711517" style="fill: #2aa198; stroke: #2aa198"/>
     </g>
    </g>
    <g id="dot-WSJ-0"><title>WSJ • Jul &#x27;24: 9</title>
     <defs>
-     <path id="mae26c19d89" d="M 0 2.5 
+     <path id="m8b074dbc48" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -1119,128 +1119,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #d33682"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="56.124225" y="308.472807" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="56.124225" y="308.472807" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-1"><title>WSJ • Aug &#x27;24: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="86.521112" y="319.853453" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="86.521112" y="319.853453" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-2"><title>WSJ • Sep &#x27;24: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="116.917999" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="116.917999" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-3"><title>WSJ • Oct &#x27;24: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="147.314886" y="353.995388" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="147.314886" y="353.995388" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-4"><title>WSJ • Nov &#x27;24: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="177.711773" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="177.711773" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-5"><title>WSJ • Dec &#x27;24: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="208.108661" y="342.614743" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="208.108661" y="342.614743" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-6"><title>WSJ • Jan &#x27;25: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="238.505548" y="319.853453" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="238.505548" y="319.853453" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-7"><title>WSJ • Feb &#x27;25: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="268.902435" y="251.569582" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="268.902435" y="251.569582" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-8"><title>WSJ • Mar &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="299.299322" y="353.995388" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="299.299322" y="353.995388" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-9"><title>WSJ • Apr &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="329.696209" y="331.234098" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="329.696209" y="331.234098" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-10"><title>WSJ • May &#x27;25: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="360.093096" y="319.853453" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="360.093096" y="319.853453" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-11"><title>WSJ • Jun &#x27;25: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="390.489984" y="308.472807" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="390.489984" y="308.472807" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-12"><title>WSJ • Jul &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="420.886871" y="353.995388" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="420.886871" y="353.995388" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-13"><title>WSJ • Aug &#x27;25: 13</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="451.283758" y="262.950227" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="451.283758" y="262.950227" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-14"><title>WSJ • Sep &#x27;25: 13</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="481.680645" y="262.950227" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="481.680645" y="262.950227" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-15"><title>WSJ • Oct &#x27;25: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="512.077532" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="512.077532" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-16"><title>WSJ • Nov &#x27;25: 13</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="542.474419" y="262.950227" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="542.474419" y="262.950227" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-17"><title>WSJ • Dec &#x27;25: 21</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="572.871307" y="171.905066" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="572.871307" y="171.905066" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-18"><title>WSJ • Jan &#x27;26: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="603.268194" y="297.092162" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="603.268194" y="297.092162" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-19"><title>WSJ • Feb &#x27;26: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="633.665081" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="633.665081" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-20"><title>WSJ • Mar &#x27;26: 16</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="664.061968" y="228.808291" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="664.061968" y="228.808291" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-21"><title>WSJ • Apr &#x27;26: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="694.458855" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="694.458855" y="285.711517" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-22"><title>WSJ • May &#x27;26: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="724.855742" y="297.092162" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="724.855742" y="297.092162" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-WSJ-23"><title>WSJ • Jun &#x27;26: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#mae26c19d89" x="755.252629" y="274.330872" style="fill: #d33682; stroke: #d33682"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m8b074dbc48" x="755.252629" y="274.330872" style="fill: #d33682; stroke: #d33682"/>
     </g>
    </g>
    <g id="dot-FT-0"><title>FT • Jul &#x27;24: 5</title>
     <defs>
-     <path id="m29284bc420" d="M 0 2.5 
+     <path id="me71c18c08f" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -1252,128 +1252,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #859900"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="56.124225" y="353.995388" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="56.124225" y="353.995388" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-1"><title>FT • Aug &#x27;24: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="86.521112" y="297.092162" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="86.521112" y="297.092162" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-2"><title>FT • Sep &#x27;24: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="116.917999" y="353.995388" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="116.917999" y="353.995388" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-3"><title>FT • Oct &#x27;24: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="147.314886" y="297.092162" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="147.314886" y="297.092162" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-4"><title>FT • Nov &#x27;24: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="177.711773" y="342.614743" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="177.711773" y="342.614743" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-5"><title>FT • Dec &#x27;24: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="208.108661" y="274.330872" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="208.108661" y="274.330872" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-6"><title>FT • Jan &#x27;25: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="238.505548" y="308.472807" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="238.505548" y="308.472807" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-7"><title>FT • Feb &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="268.902435" y="342.614743" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="268.902435" y="342.614743" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-8"><title>FT • Mar &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="299.299322" y="331.234098" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="299.299322" y="331.234098" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-9"><title>FT • Apr &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="329.696209" y="331.234098" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="329.696209" y="331.234098" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-10"><title>FT • May &#x27;25: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="360.093096" y="274.330872" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="360.093096" y="274.330872" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-11"><title>FT • Jun &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="390.489984" y="331.234098" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="390.489984" y="331.234098" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-12"><title>FT • Jul &#x27;25: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="420.886871" y="274.330872" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="420.886871" y="274.330872" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-13"><title>FT • Aug &#x27;25: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="451.283758" y="308.472807" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="451.283758" y="308.472807" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-14"><title>FT • Sep &#x27;25: 16</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="481.680645" y="228.808291" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="481.680645" y="228.808291" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-15"><title>FT • Oct &#x27;25: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="512.077532" y="285.711517" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="512.077532" y="285.711517" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-16"><title>FT • Nov &#x27;25: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="542.474419" y="308.472807" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="542.474419" y="308.472807" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-17"><title>FT • Dec &#x27;25: 12</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="572.871307" y="274.330872" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="572.871307" y="274.330872" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-18"><title>FT • Jan &#x27;26: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="603.268194" y="251.569582" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="603.268194" y="251.569582" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-19"><title>FT • Feb &#x27;26: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="633.665081" y="353.995388" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="633.665081" y="353.995388" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-20"><title>FT • Mar &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="664.061968" y="342.614743" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="664.061968" y="342.614743" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-21"><title>FT • Apr &#x27;26: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="694.458855" y="251.569582" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="694.458855" y="251.569582" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-FT-22"><title>FT • May &#x27;26: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="724.855742" y="353.995388" style="fill: #859900; stroke: #859900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="724.855742" y="353.995388" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
-   <g id="dot-FT-23"><title>FT • Jun &#x27;26: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m29284bc420" x="755.252629" y="285.711517" style="fill: #859900; stroke: #859900"/>
+   <g id="dot-FT-23"><title>FT • Jun &#x27;26: 12</title>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#me71c18c08f" x="755.252629" y="274.330872" style="fill: #859900; stroke: #859900"/>
     </g>
    </g>
    <g id="dot-CNBC-0"><title>CNBC • Jul &#x27;24: 3</title>
     <defs>
-     <path id="md7bb0dcae1" d="M 0 2.5 
+     <path id="m7af64efa51" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -1385,128 +1385,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #b58900"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="56.124225" y="376.756678" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="56.124225" y="376.756678" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-1"><title>CNBC • Aug &#x27;24: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="86.521112" y="376.756678" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="86.521112" y="376.756678" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-2"><title>CNBC • Sep &#x27;24: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="116.917999" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="116.917999" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-3"><title>CNBC • Oct &#x27;24: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="147.314886" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="147.314886" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-4"><title>CNBC • Nov &#x27;24: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="177.711773" y="376.756678" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="177.711773" y="376.756678" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-5"><title>CNBC • Dec &#x27;24: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="208.108661" y="365.376033" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="208.108661" y="365.376033" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-6"><title>CNBC • Jan &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="238.505548" y="353.995388" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="238.505548" y="353.995388" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-7"><title>CNBC • Feb &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="268.902435" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="268.902435" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-8"><title>CNBC • Mar &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="299.299322" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="299.299322" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-9"><title>CNBC • Apr &#x27;25: 14</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="329.696209" y="251.569582" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="329.696209" y="251.569582" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-10"><title>CNBC • May &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="360.093096" y="353.995388" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="360.093096" y="353.995388" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-11"><title>CNBC • Jun &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="390.489984" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="390.489984" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-12"><title>CNBC • Jul &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="420.886871" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="420.886871" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-13"><title>CNBC • Aug &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="451.283758" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="451.283758" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-14"><title>CNBC • Sep &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="481.680645" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="481.680645" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-15"><title>CNBC • Oct &#x27;25: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="512.077532" y="297.092162" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="512.077532" y="297.092162" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-16"><title>CNBC • Nov &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="542.474419" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="542.474419" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-17"><title>CNBC • Dec &#x27;25: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="572.871307" y="297.092162" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="572.871307" y="297.092162" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-18"><title>CNBC • Jan &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="603.268194" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="603.268194" y="342.614743" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-19"><title>CNBC • Feb &#x27;26: 9</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="633.665081" y="308.472807" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="633.665081" y="308.472807" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-20"><title>CNBC • Mar &#x27;26: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="664.061968" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="664.061968" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-21"><title>CNBC • Apr &#x27;26: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="694.458855" y="319.853453" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="694.458855" y="319.853453" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-22"><title>CNBC • May &#x27;26: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="724.855742" y="285.711517" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="724.855742" y="285.711517" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-CNBC-23"><title>CNBC • Jun &#x27;26: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#md7bb0dcae1" x="755.252629" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m7af64efa51" x="755.252629" y="331.234098" style="fill: #b58900; stroke: #b58900"/>
     </g>
    </g>
    <g id="dot-NYTimes-0"><title>NYTimes • Jul &#x27;24: 7</title>
     <defs>
-     <path id="m3d780b62a7" d="M 0 2.5 
+     <path id="m272fb0abca" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -1518,128 +1518,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #6c71c4"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="56.124225" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="56.124225" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-1"><title>NYTimes • Aug &#x27;24: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="86.521112" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="86.521112" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-2"><title>NYTimes • Sep &#x27;24: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="116.917999" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="116.917999" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-3"><title>NYTimes • Oct &#x27;24: 1</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="147.314886" y="399.517969" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="147.314886" y="399.517969" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-4"><title>NYTimes • Nov &#x27;24: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="177.711773" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="177.711773" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-5"><title>NYTimes • Dec &#x27;24: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="208.108661" y="319.853453" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="208.108661" y="319.853453" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-6"><title>NYTimes • Jan &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="238.505548" y="353.995388" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="238.505548" y="353.995388" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-7"><title>NYTimes • Feb &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="268.902435" y="353.995388" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="268.902435" y="353.995388" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-8"><title>NYTimes • Mar &#x27;25: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="299.299322" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="299.299322" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-9"><title>NYTimes • Apr &#x27;25: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="329.696209" y="319.853453" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="329.696209" y="319.853453" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-10"><title>NYTimes • May &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="360.093096" y="342.614743" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="360.093096" y="342.614743" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-11"><title>NYTimes • Jun &#x27;25: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="390.489984" y="319.853453" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="390.489984" y="319.853453" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-12"><title>NYTimes • Jul &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="420.886871" y="353.995388" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="420.886871" y="353.995388" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-13"><title>NYTimes • Aug &#x27;25: 10</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="451.283758" y="297.092162" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="451.283758" y="297.092162" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-14"><title>NYTimes • Sep &#x27;25: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="481.680645" y="388.137324" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="481.680645" y="388.137324" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-15"><title>NYTimes • Oct &#x27;25: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="512.077532" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="512.077532" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-16"><title>NYTimes • Nov &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="542.474419" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="542.474419" y="331.234098" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-17"><title>NYTimes • Dec &#x27;25: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="572.871307" y="285.711517" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="572.871307" y="285.711517" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-18"><title>NYTimes • Jan &#x27;26: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="603.268194" y="376.756678" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="603.268194" y="376.756678" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-19"><title>NYTimes • Feb &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="633.665081" y="342.614743" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="633.665081" y="342.614743" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-20"><title>NYTimes • Mar &#x27;26: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="664.061968" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="664.061968" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-21"><title>NYTimes • Apr &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="694.458855" y="342.614743" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="694.458855" y="342.614743" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-22"><title>NYTimes • May &#x27;26: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="724.855742" y="285.711517" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="724.855742" y="285.711517" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-NYTimes-23"><title>NYTimes • Jun &#x27;26: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m3d780b62a7" x="755.252629" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m272fb0abca" x="755.252629" y="365.376033" style="fill: #6c71c4; stroke: #6c71c4"/>
     </g>
    </g>
    <g id="dot-Reuters-0"><title>Reuters • Jul &#x27;24: 7</title>
     <defs>
-     <path id="m4a5da641eb" d="M 0 2.5 
+     <path id="mab177bdbf7" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -1651,128 +1651,128 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #cb4b16"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="56.124225" y="331.234098" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="56.124225" y="331.234098" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-1"><title>Reuters • Aug &#x27;24: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="86.521112" y="342.614743" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="86.521112" y="342.614743" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-2"><title>Reuters • Sep &#x27;24: 11</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="116.917999" y="285.711517" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="116.917999" y="285.711517" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-3"><title>Reuters • Oct &#x27;24: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="147.314886" y="388.137324" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="147.314886" y="388.137324" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-4"><title>Reuters • Nov &#x27;24: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="177.711773" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="177.711773" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-5"><title>Reuters • Dec &#x27;24: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="208.108661" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="208.108661" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-6"><title>Reuters • Jan &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="238.505548" y="342.614743" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="238.505548" y="342.614743" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-7"><title>Reuters • Feb &#x27;25: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="268.902435" y="365.376033" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="268.902435" y="365.376033" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-8"><title>Reuters • Mar &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="299.299322" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="299.299322" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-9"><title>Reuters • Apr &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="329.696209" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="329.696209" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-10"><title>Reuters • May &#x27;25: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="360.093096" y="388.137324" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="360.093096" y="388.137324" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-11"><title>Reuters • Jun &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="390.489984" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="390.489984" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-12"><title>Reuters • Jul &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="420.886871" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="420.886871" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-13"><title>Reuters • Aug &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="451.283758" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="451.283758" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-14"><title>Reuters • Sep &#x27;25: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="481.680645" y="376.756678" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="481.680645" y="376.756678" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-15"><title>Reuters • Oct &#x27;25: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="512.077532" y="376.756678" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="512.077532" y="376.756678" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-16"><title>Reuters • Nov &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="542.474419" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="542.474419" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-17"><title>Reuters • Dec &#x27;25: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="572.871307" y="365.376033" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="572.871307" y="365.376033" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-18"><title>Reuters • Jan &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="603.268194" y="342.614743" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="603.268194" y="342.614743" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-19"><title>Reuters • Feb &#x27;26: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="633.665081" y="331.234098" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="633.665081" y="331.234098" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-20"><title>Reuters • Mar &#x27;26: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="664.061968" y="319.853453" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="664.061968" y="319.853453" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-21"><title>Reuters • Apr &#x27;26: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="694.458855" y="365.376033" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="694.458855" y="365.376033" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-22"><title>Reuters • May &#x27;26: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="724.855742" y="376.756678" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="724.855742" y="376.756678" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-Reuters-23"><title>Reuters • Jun &#x27;26: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4a5da641eb" x="755.252629" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#mab177bdbf7" x="755.252629" y="353.995388" style="fill: #cb4b16; stroke: #cb4b16"/>
     </g>
    </g>
    <g id="dot-The_Information-0"><title>The Information • Jul &#x27;24: 5</title>
     <defs>
-     <path id="m4844d524f6" d="M 0 2.5 
+     <path id="m9ba4d81986" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -1784,123 +1784,123 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #586e75"/>
     </defs>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="56.124225" y="353.995388" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="56.124225" y="353.995388" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-1"><title>The Information • Aug &#x27;24: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="86.521112" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="86.521112" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-2"><title>The Information • Sep &#x27;24: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="116.917999" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="116.917999" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-3"><title>The Information • Oct &#x27;24: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="147.314886" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="147.314886" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-4"><title>The Information • Nov &#x27;24: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="177.711773" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="177.711773" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-5"><title>The Information • Dec &#x27;24: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="208.108661" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="208.108661" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-6"><title>The Information • Jan &#x27;25: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="238.505548" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="238.505548" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-7"><title>The Information • Feb &#x27;25: 1</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="268.902435" y="399.517969" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="268.902435" y="399.517969" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-8"><title>The Information • Mar &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="299.299322" y="353.995388" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="299.299322" y="353.995388" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-9"><title>The Information • Apr &#x27;25: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="329.696209" y="365.376033" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="329.696209" y="365.376033" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-10"><title>The Information • May &#x27;25: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="360.093096" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="360.093096" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-11"><title>The Information • Jun &#x27;25: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="390.489984" y="319.853453" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="390.489984" y="319.853453" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-12"><title>The Information • Jul &#x27;25: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="420.886871" y="319.853453" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="420.886871" y="319.853453" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-13"><title>The Information • Aug &#x27;25: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="451.283758" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="451.283758" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-14"><title>The Information • Sep &#x27;25: 3</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="481.680645" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="481.680645" y="376.756678" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-15"><title>The Information • Oct &#x27;25: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="512.077532" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="512.077532" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-16"><title>The Information • Nov &#x27;25: 5</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="542.474419" y="353.995388" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="542.474419" y="353.995388" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-17"><title>The Information • Dec &#x27;25: 7</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="572.871307" y="331.234098" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="572.871307" y="331.234098" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-18"><title>The Information • Jan &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="603.268194" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="603.268194" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-19"><title>The Information • Feb &#x27;26: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="633.665081" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="633.665081" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-20"><title>The Information • Mar &#x27;26: 4</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="664.061968" y="365.376033" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="664.061968" y="365.376033" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-21"><title>The Information • Apr &#x27;26: 8</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="694.458855" y="319.853453" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="694.458855" y="319.853453" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-22"><title>The Information • May &#x27;26: 2</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="724.855742" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="724.855742" y="388.137324" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="dot-The_Information-23"><title>The Information • Jun &#x27;26: 6</title>
-    <g clip-path="url(#pa8b0908d0e)">
-     <use xlink:href="#m4844d524f6" x="755.252629" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
+    <g clip-path="url(#p694cdd7f3d)">
+     <use xlink:href="#m9ba4d81986" x="755.252629" y="342.614743" style="fill: #586e75; stroke: #586e75"/>
     </g>
    </g>
    <g id="text_35">
@@ -1957,7 +1957,7 @@ L 853.137781 51.557344
 " style="fill: none; stroke: #268bd2; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_46">
-     <text style="font-size: 8px; font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #556873" x="859.537781" y="54.357344" transform="rotate(-0 859.537781 54.357344)">Bloomberg (520)</text>
+     <text style="font-size: 8px; font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #556873" x="859.537781" y="54.357344" transform="rotate(-0 859.537781 54.357344)">Bloomberg (522)</text>
     </g>
     <g id="line2d_53">
      <path d="M 837.137781 63.557969 
@@ -1975,7 +1975,7 @@ L 853.137781 75.558594
 " style="fill: none; stroke: #2aa198; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_48">
-     <text style="font-size: 8px; font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #556873" x="859.537781" y="78.358594" transform="rotate(-0 859.537781 78.358594)">TechCrunch (258)</text>
+     <text style="font-size: 8px; font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #556873" x="859.537781" y="78.358594" transform="rotate(-0 859.537781 78.358594)">TechCrunch (261)</text>
     </g>
     <g id="line2d_55">
      <path d="M 837.137781 87.559219 
@@ -1993,7 +1993,7 @@ L 853.137781 99.559844
 " style="fill: none; stroke: #859900; stroke-opacity: 0.9; stroke-width: 2; stroke-linecap: square"/>
     </g>
     <g id="text_50">
-     <text style="font-size: 8px; font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #556873" x="859.537781" y="102.359844" transform="rotate(-0 859.537781 102.359844)">FT (220)</text>
+     <text style="font-size: 8px; font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; text-anchor: start; fill: #556873" x="859.537781" y="102.359844" transform="rotate(-0 859.537781 102.359844)">FT (221)</text>
     </g>
     <g id="line2d_57">
      <path d="M 837.137781 111.560469 
@@ -2035,7 +2035,7 @@ L 853.137781 147.562344
   </g>
  </g>
  <defs>
-  <clipPath id="pa8b0908d0e">
+  <clipPath id="p694cdd7f3d">
    <rect x="40.925781" y="29.077969" width="781.2" height="388.08"/>
   </clipPath>
  </defs>

@@ -9,6 +9,7 @@ layout: category
 
 ### June
 
+- [Australia's ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them](https://www.bloomberg.com/news/articles/2026-06-29/amazon-sued-by-australian-consumer-watchdog-over-prime-video-ads) (Bloomberg)
 - [Letter: the US lifts its block on Mythos 5, allowing Anthropic to release it to more than 100 US institutions; sources: talks about Fable 5 are ongoing](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) (Semafor)
 - [President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present](https://www.wsj.com/politics/policy/trump-seeks-to-boost-quantum-computing-with-new-executive-orders-b2200634) (WSJ)
 - [A speculative scenario titled "Europe 2031" projects economic and political instability in the EU if it fails to keep pace with the US and China in the AI race](https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china) (The Guardian)
