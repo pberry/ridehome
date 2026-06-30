@@ -199,24 +199,6 @@ def _add_svg_tooltips(svg_path, tooltips_by_gid):
         f.write(content)
 
 
-def _nudge_labels(positions, min_gap=1.5):
-    """
-    Iteratively spread y-positions apart so no two are closer than min_gap.
-    Returns a new list preserving the original order.
-    """
-    pos = list(positions)
-    for _ in range(50):
-        changed = False
-        for i in range(1, len(pos)):
-            if pos[i] - pos[i - 1] < min_gap:
-                mid = (pos[i] + pos[i - 1]) / 2
-                pos[i - 1] = mid - min_gap / 2
-                pos[i] = mid + min_gap / 2
-                changed = True
-        if not changed:
-            break
-    return pos
-
 
 def generate_race_plot(
     db_path=DEFAULT_DB,
@@ -271,14 +253,12 @@ def generate_race_plot(
     # Dots are separate scatter calls (one per data point) so each gets a
     # unique SVG gid that we can target in post-processing to add <title>
     # tooltip text.
-    lines = []
     tooltips_by_gid = {}
 
     for i, src in enumerate(source_names):
         y = [monthly[src].get(m, 0) for m in all_months]
         src_id = src.replace(' ', '_').replace('/', '_')
 
-        # Line without markers
         ax.plot(
             x_pos, y,
             color=colors[i],
@@ -288,41 +268,12 @@ def generate_race_plot(
             zorder=2,
         )
 
-        # One scatter point per month — unique gid per dot for tooltip injection
         for j, (xi, value) in enumerate(zip(x_pos, y)):
             gid = f'dot-{src_id}-{j}'
             month_label = datetime.strptime(all_months[j], '%Y-%m').strftime("%b '%y")
             ax.scatter([xi], [value], color=colors[i], s=25, zorder=3,
                        gid=gid, label='_nolegend_')
             tooltips_by_gid[gid] = f'{src} • {month_label}: {value:,}'
-
-        lines.append((src, y, colors[i]))
-
-    # Right-edge annotations anchored to the last COMPLETE month so a partial
-    # current month doesn't collapse all labels to near zero.
-    ref_idx = -2 if len(all_months) >= 2 else -1
-    y_max = max(v for src in source_names for v in monthly[src].values()) or 30
-    min_gap = max(1.5, y_max * 0.05)
-
-    annot_data = [(src, y[x_last], y[ref_idx], color) for src, y, color in lines]
-    sorted_annot = sorted(annot_data, key=lambda t: t[2])
-    nudged_y = _nudge_labels([ref_y for _, _, ref_y, _ in sorted_annot], min_gap=min_gap)
-
-    # Extend x-axis to leave a margin for the labels
-    ax.set_xlim(-0.5, x_last + 2.2)
-
-    for (src, last_y, ref_y, color), ny in zip(sorted_annot, nudged_y):
-        ax.annotate(
-            src,
-            xy=(x_last, last_y),
-            xytext=(x_last + 0.35, ny),
-            textcoords='data',
-            color=color,
-            fontsize=8,
-            va='center',
-            fontweight='bold',
-            annotation_clip=False,
-        )
 
     ax.set_xticks(x_pos)
     ax.set_xticklabels(x_labels, fontsize=8, color=_TEXT_PRIMARY)

@@ -16,7 +16,6 @@ from source_race_plot import (
     should_regenerate,
     mark_as_run,
     _all_months_in_range,
-    _nudge_labels,
     _add_svg_tooltips,
 )
 
@@ -189,22 +188,6 @@ class TestShouldRegenerate(unittest.TestCase):
         self.assertTrue(os.path.exists(self.state_file))
         self.assertFalse(should_regenerate(self.state_file))
 
-
-class TestNudgeLabels(unittest.TestCase):
-
-    def test_no_change_when_spaced(self):
-        result = _nudge_labels([0.0, 5.0, 10.0], min_gap=1.5)
-        for expected, actual in zip([0.0, 5.0, 10.0], result):
-            self.assertAlmostEqual(actual, expected, places=3)
-
-    def test_nudges_apart_when_too_close(self):
-        result = _nudge_labels([5.0, 5.1, 5.2], min_gap=1.5)
-        for i in range(1, len(result)):
-            self.assertGreaterEqual(result[i] - result[i - 1], 1.4)
-
-    def test_preserves_order(self):
-        result = _nudge_labels([1.0, 1.2, 8.0], min_gap=1.5)
-        self.assertEqual(result, sorted(result))
 
 
 class TestGetEverTopNSources(unittest.TestCase):
