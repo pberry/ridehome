@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Sony says all new PlayStation games from both first- and third-party developers will be sold in digital formats from January 2028, ending physical game discs](https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing) (Game File)
+
 ### June
 
 - [Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025](https://kotaku.com/xbox-price-increase-2026-tariffs-buy-now-pay-later-2000710565) (Kotaku)

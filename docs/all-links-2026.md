@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, July 01 2026 - NOW Fable's Back?**
+
+  * [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday](https://x.com/anthropicai/status/2072106151890809341) (X)
+  * [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/) (BleepingComputer)
+  * [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://www.anthropic.com/news/claude-sonnet-5) (Anthropic)
+  * [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://thenewstack.io/claude-sonnet-5-launch/) (The New Stack)
+  * [Sony says all new PlayStation games from both first- and third-party developers will be sold in digital formats from January 2028, ending physical game discs](https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing) (Game File)
+  * [Visa, Mastercard, Stripe, BlackRock, Coinbase, and 140+ companies join Open Standard to launch Open USD, a stablecoin that shares earnings from its reserves](https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue) (The Block)
+  * [Sources: Meta is developing plans for a cloud infrastructure business that will sell access to AI computing power and models, to compete with AWS and Azure](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute) (Bloomberg)
+  * [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers](https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback) (Bloomberg)
+
+
+
 **Tuesday, June 30 2026 - Comcast Spins Out**
 
   * [Comcast plans to spin off its media and entertainment assets, including NBCUniversal and Sky, into a new publicly traded entity, set to close by mid-2027](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) (Variety)
