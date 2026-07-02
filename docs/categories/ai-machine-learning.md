@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Z.ai launches ZCode, an "Agentic Development Environment" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month](https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding) (VentureBeat)
 - [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://www.anthropic.com/news/claude-sonnet-5) (Anthropic)
 - [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://thenewstack.io/claude-sonnet-5-launch/) (The New Stack)
 

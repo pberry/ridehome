@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Nvidia promises to financially backstop young cloud providers like Firmus that rent out its AI chips, in exchange for a revenue share through a new program](https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues) (The Information)
 - [Sources: Meta is developing plans for a cloud infrastructure business that will sell access to AI computing power and models, to compete with AWS and Azure](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute) (Bloomberg)
 
 ### June
