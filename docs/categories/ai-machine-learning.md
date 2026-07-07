@@ -9,6 +9,9 @@ layout: category
 
 ### July
 
+- [xAI rebrands to SpaceXAI and unveils a new logo; Elon Musk said in May that xAI would be dissolved as a separate company and become the AI products from SpaceX](https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7) (Business Insider)
+- [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://www.anthropic.com/research/global-workspace) (Anthropic)
+- [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness) (VentureBeat)
 - [Z.ai launches ZCode, an "Agentic Development Environment" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month](https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding) (VentureBeat)
 - [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://www.anthropic.com/news/claude-sonnet-5) (Anthropic)
 - [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://thenewstack.io/claude-sonnet-5-launch/) (The New Stack)

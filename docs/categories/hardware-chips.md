@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/) (Reuters)
+- [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.wsj.com/tech/samsung-forecasts-record-second-quarter-operating-profit-8b95a398) (WSJ)
 - [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b) (WSJ)
 - [Sources: Apple has told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from 7M to 8M previously, and 80M iPhones in total across new models](https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch) (Nikkei Asia)
 - [Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500](https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/) (9to5Mac)

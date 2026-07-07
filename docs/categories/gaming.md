@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Microsoft's Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul](https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul) (Bloomberg)
 - [Sony says all new PlayStation games from both first- and third-party developers will be sold in digital formats from January 2028, ending physical game discs](https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing) (Game File)
 
 ### June

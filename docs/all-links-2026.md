@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, July 07 2026 - Xbox Decimated By Layoffs**
+
+  * [Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) (The Verge)
+  * [Microsoft's Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul](https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul) (Bloomberg)
+  * [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/) (Reuters)
+  * [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.wsj.com/tech/samsung-forecasts-record-second-quarter-operating-profit-8b95a398) (WSJ)
+  * [Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T](https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/) (Reuters)
+  * [xAI rebrands to SpaceXAI and unveils a new logo; Elon Musk said in May that xAI would be dissolved as a separate company and become the AI products from SpaceX](https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7) (Business Insider)
+  * [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://www.anthropic.com/research/global-workspace) (Anthropic)
+  * [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness) (VentureBeat)
+
+
+
 **Thursday, July 02 2026 - OpenAI To Give It Away?**
 
   * [Sources: OpenAI has discussed giving a 5% stake to the US government, seeking to clear political obstacles by securing buy-in from the Trump administration](https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b) (FT)

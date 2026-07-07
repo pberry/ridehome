@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T](https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/) (Reuters)
 - [Sources: OpenAI has discussed giving a 5% stake to the US government, seeking to clear political obstacles by securing buy-in from the Trump administration](https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b) (FT)
 - [Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China](https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push) (Bloomberg)
 - [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday](https://x.com/anthropicai/status/2072106151890809341) (X)
