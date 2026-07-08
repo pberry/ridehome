@@ -3,16 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, July 07, 2026 - Xbox Decimated By Layoffs</h3>
+  <h3>Wednesday, July 08, 2026 - China (AI) Rising</h3>
   <ul>
-    <li><a href="https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox">Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul">Microsoft's Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/">Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B</a> (Reuters) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.wsj.com/tech/samsung-forecasts-record-second-quarter-operating-profit-8b95a398">Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B</a> (WSJ) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/">Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7">xAI rebrands to SpaceXAI and unveils a new logo; Elon Musk said in May that xAI would be dissolved as a separate company and become the AI products from SpaceX</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.anthropic.com/research/global-workspace">Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness">Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html">OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/">Chinese authorities have held meetings with top tech firms about potentially restricting overseas access to China's most advanced AI models, sources say</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/">Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online</a> (9to5Mac) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/">Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online</a> (ZDNet) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/">Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs</a> (Meta) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html">Meta's new Muse Image tool lets users generate AI photos similar to what they'd normally post, including vacation selfies and photo-booth style shots</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/">Public Instagram profiles are automatically opted into being used as material for others' AI image generations via Meta AI, unless users adjust their settings</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed">Xbox spent nearly $80B over a decade on content deals betting gamers would flock to Game Pass, but most gamers prefer sticking to a handful of favorite games</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
   </ul>
 </section>
 
@@ -38,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-07T12:53:30-07:00">July 07, 2026 at 12:53 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-08T12:23:50-07:00">July 08, 2026 at 12:23 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,833</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,841</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,783</span></li>
       </ul>
     </div>
@@ -52,9 +52,9 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(116 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(115 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(68 links)</span></li>
       </ol>
     </div>
 
@@ -62,8 +62,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(101 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(102 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>
   </div>

@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, July 08 2026 - China (AI) Rising**
+
+  * [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html) (CNBC)
+  * [Chinese authorities have held meetings with top tech firms about potentially restricting overseas access to China's most advanced AI models, sources say](https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/) (Reuters)
+  * [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/) (9to5Mac)
+  * [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/) (ZDNet)
+  * [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) (Meta)
+  * [Meta's new Muse Image tool lets users generate AI photos similar to what they'd normally post, including vacation selfies and photo-booth style shots](https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html) (NYTimes)
+  * [Public Instagram profiles are automatically opted into being used as material for others' AI image generations via Meta AI, unless users adjust their settings](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/) (Wired)
+  * [Xbox spent nearly $80B over a decade on content deals betting gamers would flock to Game Pass, but most gamers prefer sticking to a handful of favorite games](https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed) (Bloomberg)
+
+
+
 **Tuesday, July 07 2026 - Xbox Decimated By Layoffs**
 
   * [Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) (The Verge)

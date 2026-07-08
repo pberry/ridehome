@@ -9,6 +9,9 @@ layout: category
 
 ### July
 
+- [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html) (CNBC)
+- [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) (Meta)
+- [Meta's new Muse Image tool lets users generate AI photos similar to what they'd normally post, including vacation selfies and photo-booth style shots](https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html) (NYTimes)
 - [xAI rebrands to SpaceXAI and unveils a new logo; Elon Musk said in May that xAI would be dissolved as a separate company and become the AI products from SpaceX](https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7) (Business Insider)
 - [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://www.anthropic.com/research/global-workspace) (Anthropic)
 - [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness) (VentureBeat)
