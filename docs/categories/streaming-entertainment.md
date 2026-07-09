@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/) (TechCrunch)
+
 ### June
 
 - [Comcast plans to spin off its media and entertainment assets, including NBCUniversal and Sky, into a new publicly traded entity, set to close by mid-2027](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) (Variety)

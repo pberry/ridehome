@@ -9,6 +9,10 @@ layout: category
 
 ### July
 
+- [SpaceXAI debuts Grok 4.5, its first model built in partnership with Cursor, designed to "handle difficult, long-running tasks" across finance, legal, and coding](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks) (Bloomberg)
+- [Meta releases Muse Spark 1.1, capable of more advanced coding and a "step-change" from the first generation, available to US developers via a public API preview](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api) (The Verge)
+- [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://openai.com/index/introducing-gpt-live) (OpenAI)
+- [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person) (VentureBeat)
 - [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html) (CNBC)
 - [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) (Meta)
 - [Meta's new Muse Image tool lets users generate AI photos similar to what they'd normally post, including vacation selfies and photo-booth style shots](https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html) (NYTimes)

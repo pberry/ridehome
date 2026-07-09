@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple held talks with PrismML about it](https://www.theinformation.com/articles/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone) (The Information)
 - [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/) (Reuters)
 - [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.wsj.com/tech/samsung-forecasts-record-second-quarter-operating-profit-8b95a398) (WSJ)
 - [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b) (WSJ)
