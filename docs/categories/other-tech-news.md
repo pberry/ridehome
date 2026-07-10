@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Fidji Simo, OpenAI's CEO of AGI Deployment, says she will step down and become a part-time adviser after her medical condition worsened; Simo joined in August](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47) (WSJ)
 - [Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) (The Verge)
 
 ### June

@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### July
+
+- [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z) (Bloomberg)
+- [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html) (CNBC)
+
 ### June
 
 - [Sources: OpenAI leans toward holding off its IPO until 2027 after warnings that Sam Altman's desired $1T valuation may not be met in current market conditions](https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html) (The New York Times)

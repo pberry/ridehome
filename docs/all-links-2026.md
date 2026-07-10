@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 10 2026 - The New GPT**
+
+  * [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://www.axios.com/2026/07/09/ai-openai-gpt-release) (Axios)
+  * [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (TechCrunch)
+  * [Fidji Simo, OpenAI's CEO of AGI Deployment, says she will step down and become a part-time adviser after her medical condition worsened; Simo joined in August](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47) (WSJ)
+  * [In preliminary findings, the EU Commission said Facebook's and Instagram's "addictive design" violates the DSA, telling Meta to make changes or risk hefty fines](https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html) (NYTimes)
+  * [Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront](https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us) (Bloomberg)
+  * [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z) (Bloomberg)
+  * [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html) (CNBC)
+  * [Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on) (The Verge)
+
+
+
 **Thursday, July 09 2026 - The Day Of All The Models**
 
   * [SpaceXAI debuts Grok 4.5, its first model built in partnership with Cursor, designed to "handle difficult, long-running tasks" across finance, legal, and coding](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks) (Bloomberg)

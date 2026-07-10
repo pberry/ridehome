@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://www.axios.com/2026/07/09/ai-openai-gpt-release) (Axios)
+- [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (TechCrunch)
 - [SpaceXAI debuts Grok 4.5, its first model built in partnership with Cursor, designed to "handle difficult, long-running tasks" across finance, legal, and coding](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks) (Bloomberg)
 - [Meta releases Muse Spark 1.1, capable of more advanced coding and a "step-change" from the first generation, available to US developers via a public API preview](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api) (The Verge)
 - [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://openai.com/index/introducing-gpt-live) (OpenAI)
