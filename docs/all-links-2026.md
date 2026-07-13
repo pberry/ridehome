@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, July 13 2026 - Apple Sues OpenAI**
+
+  * [Apple sues OpenAI, alleging that ex-Apple employees stole "Apple's trade secrets for the benefit of OpenAI", and says OpenAI never responded to its concerns](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (9to5Mac)
+  * [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets](https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/) (Variety)
+  * [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms) (Economic Times)
+  * [OpenAI, Meta, and SpaceXAI are racing to offer more cost-efficient AI models as enterprise customers, stung by "tokenmaxxing" bills, scrutinize their AI spending](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models) (Bloomberg)
+  * [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism](https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/) (Variety)
+
+
+
 **Friday, July 10 2026 - The New GPT**
 
   * [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://www.axios.com/2026/07/09/ai-openai-gpt-release) (Axios)

@@ -3,16 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, July 10, 2026 - The New GPT</h3>
+  <h3>Monday, July 13, 2026 - Apple Sues OpenAI</h3>
   <ul>
-    <li><a href="https://www.axios.com/2026/07/09/ai-openai-gpt-release">OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/">OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47">Fidji Simo, OpenAI's CEO of AGI Deployment, says she will step down and become a part-time adviser after her medical condition worsened; Simo joined in August</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html">In preliminary findings, the EU Commission said Facebook's and Instagram's "addictive design" violates the DSA, telling Meta to make changes or risk hefty fines</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us">Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront</a> (Bloomberg) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z">SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html">SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on">Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/">Apple sues OpenAI, alleging that ex-Apple employees stole "Apple's trade secrets for the benefit of OpenAI", and says OpenAI never responded to its concerns</a> (9to5Mac) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/">A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets</a> (Variety) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms">Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19</a> (Economic Times) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models">OpenAI, Meta, and SpaceXAI are racing to offer more cost-efficient AI models as enterprise customers, stung by "tokenmaxxing" bills, scrutinize their AI spending</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/">Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism</a> (Variety) &mdash; 🤖 <a href="categories/social-media.html" class="ai-category">Social Media</a></li>
   </ul>
 </section>
 
@@ -38,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-10T12:25:34-07:00">July 10, 2026 at 12:25 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-13T13:59:56-07:00">July 13, 2026 at 01:59 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,855</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,860</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,783</span></li>
       </ul>
     </div>
@@ -52,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(116 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(117 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
       </ol>
@@ -61,8 +58,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(100 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(102 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>

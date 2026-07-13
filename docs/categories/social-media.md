@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism](https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/) (Variety)
+
 ### June
 
 - [Facebook brings back Facebook Creator Studio as a stand-alone app with a built-in AI chatbot to help creators grow their audiences through personalized guidance](https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/) (TechCrunch)

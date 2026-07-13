@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms) (Economic Times)
+- [OpenAI, Meta, and SpaceXAI are racing to offer more cost-efficient AI models as enterprise customers, stung by "tokenmaxxing" bills, scrutinize their AI spending](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models) (Bloomberg)
 - [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://www.axios.com/2026/07/09/ai-openai-gpt-release) (Axios)
 - [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (TechCrunch)
 - [SpaceXAI debuts Grok 4.5, its first model built in partnership with Cursor, designed to "handle difficult, long-running tasks" across finance, legal, and coding](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks) (Bloomberg)
