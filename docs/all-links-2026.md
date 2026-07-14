@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, July 14 2026 - Let's Regulate This AI Stuff?**
+
+  * [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://x.com/demishassabis/status/2076957440109625718) (X)
+  * [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) (The Verge)
+  * [IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+](https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back) (Bloomberg)
+  * [Spotify launches a Talk to Spotify feature that lets users create playlists and more, rolling out in beta to Premium users 18+ in the US, Ireland, and Sweden](https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/) (Engadget)
+  * [Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory](https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power) (Bloomberg)
+  * [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/) (Ars Technica)
+
+
+
 **Monday, July 13 2026 - Apple Sues OpenAI**
 
   * [Apple sues OpenAI, alleging that ex-Apple employees stole "Apple's trade secrets for the benefit of OpenAI", and says OpenAI never responded to its concerns](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (9to5Mac)

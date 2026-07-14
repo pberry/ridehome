@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://x.com/demishassabis/status/2076957440109625718) (X)
+- [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) (The Verge)
 - [Apple sues OpenAI, alleging that ex-Apple employees stole "Apple's trade secrets for the benefit of OpenAI", and says OpenAI never responded to its concerns](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (9to5Mac)
 - [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets](https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/) (Variety)
 - [In preliminary findings, the EU Commission said Facebook's and Instagram's "addictive design" violates the DSA, telling Meta to make changes or risk hefty fines](https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html) (NYTimes)

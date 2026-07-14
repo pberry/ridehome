@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Spotify launches a Talk to Spotify feature that lets users create playlists and more, rolling out in beta to Premium users 18+ in the US, Ireland, and Sweden](https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/) (Engadget)
 - [Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/) (TechCrunch)
 
 ### June
