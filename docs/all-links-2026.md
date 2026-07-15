@@ -5,6 +5,102 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, July 14 2026 - Let's Regulate This AI Stuff?**
+
+  * [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://x.com/demishassabis/status/2076957440109625718) (X)
+  * [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) (The Verge)
+  * [IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+](https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back) (Bloomberg)
+  * [Spotify launches a Talk to Spotify feature that lets users create playlists and more, rolling out in beta to Premium users 18+ in the US, Ireland, and Sweden](https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/) (Engadget)
+  * [Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory](https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power) (Bloomberg)
+  * [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/) (Ars Technica)
+
+
+
+**Monday, July 13 2026 - Apple Sues OpenAI**
+
+  * [Apple sues OpenAI, alleging that ex-Apple employees stole "Apple's trade secrets for the benefit of OpenAI", and says OpenAI never responded to its concerns](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (9to5Mac)
+  * [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount's WBD merger, alleging it lessens competition in three markets](https://variety.com/2026/film/news/paramount-warner-bros-merger-states-lawsuit-1236806824/) (Variety)
+  * [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms) (Economic Times)
+  * [OpenAI, Meta, and SpaceXAI are racing to offer more cost-efficient AI models as enterprise customers, stung by "tokenmaxxing" bills, scrutinize their AI spending](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models) (Bloomberg)
+  * [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism](https://variety.com/2026/biz/news/meta-suspends-ai-image-instagram-feature-backlash-1236806989/) (Variety)
+
+
+
+**Friday, July 10 2026 - The New GPT**
+
+  * [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://www.axios.com/2026/07/09/ai-openai-gpt-release) (Axios)
+  * [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (TechCrunch)
+  * [Fidji Simo, OpenAI's CEO of AGI Deployment, says she will step down and become a part-time adviser after her medical condition worsened; Simo joined in August](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47) (WSJ)
+  * [In preliminary findings, the EU Commission said Facebook's and Instagram's "addictive design" violates the DSA, telling Meta to make changes or risk hefty fines](https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html) (NYTimes)
+  * [Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront](https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us) (Bloomberg)
+  * [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z) (Bloomberg)
+  * [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html) (CNBC)
+  * [Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on) (The Verge)
+
+
+
+**Thursday, July 09 2026 - The Day Of All The Models**
+
+  * [SpaceXAI debuts Grok 4.5, its first model built in partnership with Cursor, designed to "handle difficult, long-running tasks" across finance, legal, and coding](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks) (Bloomberg)
+  * [Meta releases Muse Spark 1.1, capable of more advanced coding and a "step-change" from the first generation, available to US developers via a public API preview](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api) (The Verge)
+  * [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://openai.com/index/introducing-gpt-live) (OpenAI)
+  * [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person) (VentureBeat)
+  * [PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple held talks with PrismML about it](https://www.theinformation.com/articles/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone) (The Information)
+  * [Character.AI launches three human-written, AI-generated microdramas, whose characters users can chat with, and aims to eventually let users make their own shows](https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/) (TechCrunch)
+
+
+
+**Wednesday, July 08 2026 - China (AI) Rising**
+
+  * [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html) (CNBC)
+  * [Chinese authorities have held meetings with top tech firms about potentially restricting overseas access to China's most advanced AI models, sources say](https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/) (Reuters)
+  * [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/) (9to5Mac)
+  * [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/) (ZDNet)
+  * [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) (Meta)
+  * [Meta's new Muse Image tool lets users generate AI photos similar to what they'd normally post, including vacation selfies and photo-booth style shots](https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html) (NYTimes)
+  * [Public Instagram profiles are automatically opted into being used as material for others' AI image generations via Meta AI, unless users adjust their settings](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/) (Wired)
+  * [Xbox spent nearly $80B over a decade on content deals betting gamers would flock to Game Pass, but most gamers prefer sticking to a handful of favorite games](https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed) (Bloomberg)
+
+
+
+**Tuesday, July 07 2026 - Xbox Decimated By Layoffs**
+
+  * [Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) (The Verge)
+  * [Microsoft's Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul](https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul) (Bloomberg)
+  * [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/) (Reuters)
+  * [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.wsj.com/tech/samsung-forecasts-record-second-quarter-operating-profit-8b95a398) (WSJ)
+  * [Court filing: Meta says four US states seek $1.4T over claims it designed Facebook and Instagram to addict youth and misled the public; its market cap is ~$1.5T](https://www.reuters.com/business/meta-says-us-states-are-seeking-14-trillion-penalties-august-youth-safety-trial-2026-07-07/) (Reuters)
+  * [xAI rebrands to SpaceXAI and unveils a new logo; Elon Musk said in May that xAI would be dissolved as a separate company and become the AI products from SpaceX](https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7) (Business Insider)
+  * [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://www.anthropic.com/research/global-workspace) (Anthropic)
+  * [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness) (VentureBeat)
+
+
+
+**Thursday, July 02 2026 - OpenAI To Give It Away?**
+
+  * [Sources: OpenAI has discussed giving a 5% stake to the US government, seeking to clear political obstacles by securing buy-in from the Trump administration](https://www.ft.com/content/7c803eab-8e80-4431-9a87-e943bf00e00b) (FT)
+  * [Nvidia promises to financially backstop young cloud providers like Firmus that rent out its AI chips, in exchange for a revenue share through a new program](https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues) (The Information)
+  * [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b) (WSJ)
+  * [Sources: Apple has told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from 7M to 8M previously, and 80M iPhones in total across new models](https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch) (Nikkei Asia)
+  * [Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500](https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/) (9to5Mac)
+  * [Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China](https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push) (Bloomberg)
+  * [Z.ai launches ZCode, an "Agentic Development Environment" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month](https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding) (VentureBeat)
+
+
+
+**Wednesday, July 01 2026 - NOW Fable's Back?**
+
+  * [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday](https://x.com/anthropicai/status/2072106151890809341) (X)
+  * [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/) (BleepingComputer)
+  * [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://www.anthropic.com/news/claude-sonnet-5) (Anthropic)
+  * [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://thenewstack.io/claude-sonnet-5-launch/) (The New Stack)
+  * [Sony says all new PlayStation games from both first- and third-party developers will be sold in digital formats from January 2028, ending physical game discs](https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing) (Game File)
+  * [Visa, Mastercard, Stripe, BlackRock, Coinbase, and 140+ companies join Open Standard to launch Open USD, a stablecoin that shares earnings from its reserves](https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue) (The Block)
+  * [Sources: Meta is developing plans for a cloud infrastructure business that will sell access to AI computing power and models, to compete with AWS and Azure](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute) (Bloomberg)
+  * [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers](https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback) (Bloomberg)
+
+
+
 **Tuesday, June 30 2026 - Comcast Spins Out**
 
   * [Comcast plans to spin off its media and entertainment assets, including NBCUniversal and Sky, into a new publicly traded entity, set to close by mid-2027](https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/) (Variety)

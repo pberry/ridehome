@@ -7,6 +7,13 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/) (9to5Mac)
+- [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/) (ZDNet)
+- [Nvidia promises to financially backstop young cloud providers like Firmus that rent out its AI chips, in exchange for a revenue share through a new program](https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues) (The Information)
+- [Sources: Meta is developing plans for a cloud infrastructure business that will sell access to AI computing power and models, to compete with AWS and Azure](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute) (Bloomberg)
+
 ### June
 
 - [Filing: Google has agreed to pay SpaceX $920M per month for access to Nvidia chips as part of a cloud-services deal that runs through mid-2029](https://www.bloomberg.com/news/articles/2026-06-05/google-buying-computing-from-spacex-in-920-million-a-month-deal) (Bloomberg)

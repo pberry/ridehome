@@ -7,6 +7,17 @@ layout: category
 
 ## 2026
 
+### July
+
+- [IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+](https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back) (Bloomberg)
+- [Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on) (The Verge)
+- [PrismML says it ran a 27B-parameter Qwen 3.6 model on an iPhone 17 Pro, bigger than any prior on-device model; sources: Apple held talks with PrismML about it](https://www.theinformation.com/articles/khosla-backed-startup-claims-breakthrough-largest-ever-ai-model-iphone) (The Information)
+- [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.reuters.com/world/asia-pacific/samsung-estimates-19-fold-rise-q2-operating-profit-beating-expectations-2026-07-06/) (Reuters)
+- [Samsung estimates Q2 operating profit of ~$58.44B, a 19-fold jump from a year earlier and above a ~$57.02B estimate, and revenue up 129% YoY to ~$111.7B](https://www.wsj.com/tech/samsung-forecasts-record-second-quarter-operating-profit-8b95a398) (WSJ)
+- [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone](https://www.wsj.com/tech/ai/spacex-showed-investors-prototype-of-elon-musks-new-ai-device-b445c57b) (WSJ)
+- [Sources: Apple has told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from 7M to 8M previously, and 80M iPhones in total across new models](https://asia.nikkei.com/business/technology/apple-to-launch-5-new-iphone-models-to-gain-market-share-amid-memory-crunch) (Nikkei Asia)
+- [Apple reportedly orders 10M foldable iPhone Ultra models, which could sell for around $2500](https://9to5mac.com/2026/07/01/apple-reportedly-orders-10m-foldable-iphone-ultra-models-which-could-sell-for-around-2500/) (9to5Mac)
+
 ### June
 
 - [South Korea, Samsung, and SK Hynix say they plan to invest ~$590B to build a new chip complex, including four chipmaking plants and a chip packaging cluster](https://www.ft.com/content/86013b7e-41da-445a-981c-075a701dccf6) (FT)

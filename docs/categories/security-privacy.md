@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Public Instagram profiles are automatically opted into being used as material for others' AI image generations via Meta AI, unless users adjust their settings](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/) (Wired)
+
 ### June
 
 - [SCOTUS limits the law enforcement use of "geofence" warrants, saying people have "a reasonable expectation of privacy" in their cell-phone location data](https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/) (TechCrunch)

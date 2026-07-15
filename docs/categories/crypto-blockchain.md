@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront](https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us) (Bloomberg)
+- [Visa, Mastercard, Stripe, BlackRock, Coinbase, and 140+ companies join Open Standard to launch Open USD, a stablecoin that shares earnings from its reserves](https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue) (The Block)
+
 ### May
 
 - [Morgan Stanley rolls out a crypto trading pilot on E*Trade, charging less than Coinbase, Robinhood, and Charles Schwab, ahead of a wider launch later in 2026](https://www.bloomberg.com/news/articles/2026-05-06/morgan-stanley-debuts-crypto-trading-undercuts-rivals-on-price) (Bloomberg)

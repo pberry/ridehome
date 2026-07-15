@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory](https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power) (Bloomberg)
+
 ### June
 
 - [Sources: Kalshi is in talks to raise funding at a ~$40B valuation in a round that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May 2026](https://www.ft.com/content/b6ef5e8a-4288-4223-a017-c97b89cac2fa) (FT)

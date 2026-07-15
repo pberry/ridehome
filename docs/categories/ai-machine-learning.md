@@ -7,6 +7,27 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/) (Ars Technica)
+- [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms) (Economic Times)
+- [OpenAI, Meta, and SpaceXAI are racing to offer more cost-efficient AI models as enterprise customers, stung by "tokenmaxxing" bills, scrutinize their AI spending](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models) (Bloomberg)
+- [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://www.axios.com/2026/07/09/ai-openai-gpt-release) (Axios)
+- [OpenAI broadly releases GPT-5.6, and launches ChatGPT Work, an AI agent that can gather context across apps and files to create documents, on macOS and Windows](https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/) (TechCrunch)
+- [SpaceXAI debuts Grok 4.5, its first model built in partnership with Cursor, designed to "handle difficult, long-running tasks" across finance, legal, and coding](https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks) (Bloomberg)
+- [Meta releases Muse Spark 1.1, capable of more advanced coding and a "step-change" from the first generation, available to US developers via a public API preview](https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api) (The Verge)
+- [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://openai.com/index/introducing-gpt-live) (OpenAI)
+- [OpenAI launches GPT-Live, new voice models powering ChatGPT Voice and built on a full-duplex architecture, meaning they can listen and speak at the same time](https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person) (VentureBeat)
+- [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months](https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html) (CNBC)
+- [Meta launches Muse Image in Meta AI, Instagram, and WhatsApp, and previews Muse Video, the first media generation models from its Superintelligence Labs](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/) (Meta)
+- [Meta's new Muse Image tool lets users generate AI photos similar to what they'd normally post, including vacation selfies and photo-booth style shots](https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html) (NYTimes)
+- [xAI rebrands to SpaceXAI and unveils a new logo; Elon Musk said in May that xAI would be dissolved as a separate company and become the AI products from SpaceX](https://www.businessinsider.com/xai-rebrand-spacexai-new-logo-x-handle-spacex-2026-7) (Business Insider)
+- [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://www.anthropic.com/research/global-workspace) (Anthropic)
+- [Anthropic researchers detail J-space, a small set of neural patterns in Claude that reveals internal thoughts that don't appear in the model's output](https://venturebeat.com/ai/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness) (VentureBeat)
+- [Z.ai launches ZCode, an "Agentic Development Environment" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month](https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding) (VentureBeat)
+- [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://www.anthropic.com/news/claude-sonnet-5) (Anthropic)
+- [Anthropic launches Claude Sonnet 5, saying it nears Opus 4.8 performance at lower prices and is substantially better than Sonnet 4.6 for agentic work](https://thenewstack.io/claude-sonnet-5-launch/) (The New Stack)
+
 ### June
 
 - [AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO](https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/) (TechCrunch)

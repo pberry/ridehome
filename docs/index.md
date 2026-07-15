@@ -3,15 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, June 30, 2026 - Comcast Spins Out</h3>
+  <h3>Tuesday, July 14, 2026 - Let's Regulate This AI Stuff?</h3>
   <ul>
-    <li><a href="https://variety.com/2026/tv/news/comcast-split-nbcuniversal-cable-two-companies-1236798205/">Comcast plans to spin off its media and entertainment assets, including NBCUniversal and Sky, into a new publicly traded entity, set to close by mid-2027</a> (Variety) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/">SCOTUS limits the law enforcement use of "geofence" warrants, saying people have "a reasonable expectation of privacy" in their cell-phone location data</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-29/amazon-sued-by-australian-consumer-watchdog-over-prime-video-ads">Australia's ACCC sues Amazon for allegedly introducing ads to Prime Video under unfair contract terms and forcing existing subscribers to pay more to avoid them</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/">AI coding startup 8090 raised a $135M Series A led by Salesforce Ventures; founder Chamath Palihapitiya announces that he will lead the company as CEO</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-06-30/us-seeking-tech-force-engineers-to-embed-across-armed-forces">The DOD seeks to recruit engineers experienced in frontier AI, machine learning and automation, and data systems, to embed them "down to the unit level"</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/">Google says the Gemini app now offers personalized Nano Banana image generation, previously limited to Plus, Pro, and Ultra users, to eligible US users for free</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ft.com/content/befb7f34-9357-492b-a40b-2132d3256bcc">Hotels, tour operators, and travel agencies rush to launch proprietary online tools and loyalty schemes to fend off future competition from AI travel agents</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://x.com/demishassabis/status/2076957440109625718">Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release</a> (X) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog">Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back">IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/">Spotify launches a Talk to Spotify feature that lets users create playlists and more, rolling out in beta to Premium users 18+ in the US, Ireland, and Sweden</a> (Engadget) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power">Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/">Simulating everything, sort of: The promise and limits of world models</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -37,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-06-30T12:55:57-07:00">June 30, 2026 at 12:55 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-14T12:17:55-07:00">July 14, 2026 at 12:17 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,810</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,866</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,783</span></li>
       </ul>
     </div>
@@ -51,8 +50,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(113 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(75 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(117 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
       </ol>
     </div>
@@ -61,8 +60,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(96 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
       </ol>
     </div>
   </div>

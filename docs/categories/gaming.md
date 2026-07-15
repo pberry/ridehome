@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Xbox spent nearly $80B over a decade on content deals betting gamers would flock to Game Pass, but most gamers prefer sticking to a handful of favorite games](https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed) (Bloomberg)
+- [Microsoft's Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul](https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul) (Bloomberg)
+- [Sony says all new PlayStation games from both first- and third-party developers will be sold in digital formats from January 2028, ending physical game discs](https://www.gamefile.news/p/sony-drops-playstation-discs-2028-ps3-vita-stores-closing) (Game File)
+
 ### June
 
 - [Microsoft says the price of Xbox consoles will increase on August 1 by $100 for 512GB models and $150 for 1TB models, the third price increase since 2025](https://kotaku.com/xbox-price-increase-2026-tariffs-buy-now-pay-later-2000710565) (Kotaku)
