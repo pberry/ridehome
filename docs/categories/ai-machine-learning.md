@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech](https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html) (CNBC)
 - [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/) (Ars Technica)
 - [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms) (Economic Times)
 - [OpenAI, Meta, and SpaceXAI are racing to offer more cost-efficient AI models as enterprise customers, stung by "tokenmaxxing" bills, scrutinize their AI spending](https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models) (Bloomberg)

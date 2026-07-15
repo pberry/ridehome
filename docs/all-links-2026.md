@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, July 15 2026 - PayPal On The Block?**
+
+  * [AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms](https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127) (Politico)
+  * [Sources: Stripe and PE firm Advent have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday's close, valuing it at $53B+; PYPL jumps 15%+](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) (Reuters)
+  * [Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as an AI companion that taps into ChatGPT](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion) (Bloomberg)
+  * [OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach](https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376) (NBC News)
+  * [OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach](https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/) (9to5Mac)
+  * [PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech](https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html) (CNBC)
+
+
+
 **Tuesday, July 14 2026 - Let's Regulate This AI Stuff?**
 
   * [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://x.com/demishassabis/status/2076957440109625718) (X)

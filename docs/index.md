@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, July 14, 2026 - Let's Regulate This AI Stuff?</h3>
+  <h3>Wednesday, July 15, 2026 - PayPal On The Block?</h3>
   <ul>
-    <li><a href="https://x.com/demishassabis/status/2076957440109625718">Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release</a> (X) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog">Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back">IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.engadget.com/2214520/talk-to-spotify-curate-playlists-with-voice/">Spotify launches a Talk to Spotify feature that lets users create playlists and more, rolling out in beta to Premium users 18+ in the US, Ireland, and Sweden</a> (Engadget) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power">Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/">Simulating everything, sort of: The promise and limits of world models</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127">AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms</a> (Politico) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/">Sources: Stripe and PE firm Advent have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday's close, valuing it at $53B+; PYPL jumps 15%+</a> (Reuters) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion">Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as an AI companion that taps into ChatGPT</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376">OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach</a> (NBC News) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/">OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach</a> (9to5Mac) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html">PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-14T12:17:55-07:00">July 14, 2026 at 12:17 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-15T12:08:58-07:00">July 15, 2026 at 12:08 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,866</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,872</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,783</span></li>
       </ul>
     </div>
@@ -50,7 +50,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(117 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(118 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
       </ol>
@@ -59,9 +59,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(92 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(105 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(93 links)</span></li>
       </ol>
     </div>
   </div>

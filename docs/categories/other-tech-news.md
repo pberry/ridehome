@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach](https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376) (NBC News)
+- [OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach](https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/) (9to5Mac)
 - [Fidji Simo, OpenAI's CEO of AGI Deployment, says she will step down and become a part-time adviser after her medical condition worsened; Simo joined in August](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47) (WSJ)
 - [Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most are in sales or Xbox, where ~20% of jobs are set to be cut by the end of FY 2027](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox) (The Verge)
 

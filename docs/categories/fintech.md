@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Sources: Stripe and PE firm Advent have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday's close, valuing it at $53B+; PYPL jumps 15%+](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) (Reuters)
 - [Kalshi launches a forward curve tool for AI compute, using event contracts to track the future rental costs of GPUs, storage, and memory](https://www.bloomberg.com/news/articles/2026-07-14/kalshi-ramps-up-effort-to-build-markets-for-ai-computing-power) (Bloomberg)
 
 ### June

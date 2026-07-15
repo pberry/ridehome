@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms](https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127) (Politico)
 - [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://x.com/demishassabis/status/2076957440109625718) (X)
 - [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog) (The Verge)
 - [Apple sues OpenAI, alleging that ex-Apple employees stole "Apple's trade secrets for the benefit of OpenAI", and says OpenAI never responded to its concerns](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) (9to5Mac)
