@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash](https://simonwillison.net/2026/Jul/15/grok-build/) (Simon Willison)
+- [SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash](https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/) (The Decoder)
 - [Public Instagram profiles are automatically opted into being used as material for others' AI image generations via Meta AI, unless users adjust their settings](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/) (Wired)
 
 ### June

@@ -3,14 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, July 15, 2026 - PayPal On The Block?</h3>
+  <h3>Thursday, July 16, 2026 - The Delivery Space Consolidates</h3>
   <ul>
-    <li><a href="https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127">AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms</a> (Politico) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/">Sources: Stripe and PE firm Advent have jointly offered $60.50/share to acquire PayPal, a 28% premium to Tuesday's close, valuing it at $53B+; PYPL jumps 15%+</a> (Reuters) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion">Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as an AI companion that taps into ChatGPT</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376">OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach</a> (NBC News) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/">OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach</a> (9to5Mac) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html">PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates">Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake</a> (Bloomberg) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://thinkingmachines.ai/news/introducing-inkling/">Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area</a> (Thinking Machines Lab) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b">Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://simonwillison.net/2026/Jul/15/grok-build/">SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash</a> (Simon Willison) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/">SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash</a> (The Decoder) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company">Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027">Sources: Apple is preparing new iPads, including an iPad mini with an OLED screen by October and refreshed entry-level iPads and iPad Airs for 2027</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -36,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-15T12:08:58-07:00">July 15, 2026 at 12:08 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-16T12:08:19-07:00">July 16, 2026 at 12:08 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,872</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,879</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,783</span></li>
       </ul>
     </div>
@@ -50,18 +51,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(118 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(71 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(290 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(105 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(93 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
       </ol>
     </div>
   </div>

@@ -9,6 +9,9 @@ layout: category
 
 ### July
 
+- [Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area](https://thinkingmachines.ai/news/introducing-inkling/) (Thinking Machines Lab)
+- [Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) (WSJ)
+- [Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls](https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company) (Bloomberg)
 - [PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech](https://www.cnbc.com/2026/07/14/apple-prismml-ai-compression-iphone.html) (CNBC)
 - [Simulating everything, sort of: The promise and limits of world models](https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/) (Ars Technica)
 - [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code's weekly rate limits 50% higher, through July 19](https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms) (Economic Times)

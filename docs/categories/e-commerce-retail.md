@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### July
+
+- [Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake](https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates) (Bloomberg)
+
 ### June
 
 - [DoorDash launches an in-app AI chatbot to let users order food and groceries and make reservations with photos and prompts](https://www.cnbc.com/2026/06/11/doordash-ai-ordering-automation.html) (CNBC)

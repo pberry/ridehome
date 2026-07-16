@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, July 16 2026 - The Delivery Space Consolidates**
+
+  * [Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake](https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates) (Bloomberg)
+  * [Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area](https://thinkingmachines.ai/news/introducing-inkling/) (Thinking Machines Lab)
+  * [Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) (WSJ)
+  * [SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash](https://simonwillison.net/2026/Jul/15/grok-build/) (Simon Willison)
+  * [SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash](https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/) (The Decoder)
+  * [Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls](https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company) (Bloomberg)
+  * [Sources: Apple is preparing new iPads, including an iPad mini with an OLED screen by October and refreshed entry-level iPads and iPad Airs for 2027](https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027) (Bloomberg)
+
+
+
 **Wednesday, July 15 2026 - PayPal On The Block?**
 
   * [AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms](https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127) (Politico)

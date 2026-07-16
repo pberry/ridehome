@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Sources: Apple is preparing new iPads, including an iPad mini with an OLED screen by October and refreshed entry-level iPads and iPad Airs for 2027](https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027) (Bloomberg)
 - [Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as an AI companion that taps into ChatGPT](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion) (Bloomberg)
 - [IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+](https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back) (Bloomberg)
 - [Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view](https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on) (The Verge)
