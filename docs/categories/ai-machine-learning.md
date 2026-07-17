@@ -9,6 +9,9 @@ layout: category
 
 ### July
 
+- [Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Claude Opus 4.8 and GPT-5.5, and plans to release its full model weights by July 27](https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems) (VentureBeat)
+- [Sources: Google is months behind schedule on delivering Gemini 3.5 Pro as it tries to improve its capabilities, particularly in coding; GOOG closes down 4.43%](https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals) (Bloomberg)
+- [The Verge spends a month testing Siri AI in the iOS 27 public beta, finding it's already reshaping how people use their iPhone, though it can't yet reach non-Apple apps](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on) (The Verge)
 - [Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area](https://thinkingmachines.ai/news/introducing-inkling/) (Thinking Machines Lab)
 - [Thinking Machines Lab debuts Inkling, an open-weight MoE model with 975B total and 41B active parameters, trained to be broad rather than optimized for one area](https://www.wsj.com/tech/ai/mira-muratis-ai-startup-releases-first-model-in-bid-to-loosen-ai-giants-grip-e042bb2b) (WSJ)
 - [Sources detail how xAI has been slowed down by internal chaos as Musk pushed for Grok to match Claude, amid signs it is turning a corner under Michael Nicolls](https://www.bloomberg.com/news/articles/2026-07-16/spacexai-identity-crisis-at-elon-musk-s-chatbot-company) (Bloomberg)

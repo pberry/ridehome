@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 17 2026**
+
+  * [The Verge spends a month testing Siri AI in the iOS 27 public beta, finding it's already reshaping how people use their iPhone, though it can't yet reach non-Apple apps](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on) (The Verge)
+
+
+
 **Friday, June 26 2026**
 
   * [How Chicago is betting on quantum computing, including turning the site of its former US Steel mill into a campus, after largely missing the digital revolution](https://www.wsj.com/tech/chicago-missed-the-tech-boom-quantum-computing-gives-it-a-second-chance-0b34d116) (WSJ)

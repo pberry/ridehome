@@ -5,6 +5,14 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 17 2026 - Kimi K3**
+
+  * [Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Claude Opus 4.8 and GPT-5.5, and plans to release its full model weights by July 27](https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems) (VentureBeat)
+  * [Sources: Google is months behind schedule on delivering Gemini 3.5 Pro as it tries to improve its capabilities, particularly in coding; GOOG closes down 4.43%](https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals) (Bloomberg)
+  * [Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way](https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/) (The Athletic)
+
+
+
 **Thursday, July 16 2026 - The Delivery Space Consolidates**
 
   * [Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake](https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates) (Bloomberg)
