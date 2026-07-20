@@ -3,11 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, July 17, 2026 - Kimi K3</h3>
+  <h3>Monday, July 20, 2026 - It's All China AI All The Time</h3>
   <ul>
-    <li><a href="https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems">Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Claude Opus 4.8 and GPT-5.5, and plans to release its full model weights by July 27</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals">Sources: Google is months behind schedule on delivering Gemini 3.5 Pro as it tries to improve its capabilities, particularly in coding; GOOG closes down 4.43%</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/">Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way</a> (The Athletic) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model">Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it "open-weight soon"</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/">The Trump administration has reportedly explored sanctions, security warnings, and executive-order requirements since 2025 to build a slow, durable squeeze on Chinese AI models instead of pursuing an outright ban</a> (The Decoder) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://stratechery.com/2026/whos-afraid-of-chinese-models/">Ben Thompson argues the market reaction to Kimi and other Chinese models is overblown, since it's compute scarcity — not a real Chinese cost advantage — that's keeping frontier-model prices high</a> (Stratechery) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.thestack.technology/hugging-face-hacked-turned-to-chinese-llm-for-help-after-us-models-blocked-blue-team/">Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests</a> (The Stack) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently">Sources: Google is developing a specialized server chip, informally dubbed "Frozen v2", that integrates its Gemini AI model blueprint into the silicon, for 2028</a> (The Information) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -33,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-17T12:06:20-07:00">July 17, 2026 at 12:06 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-20T12:42:17-07:00">July 20, 2026 at 12:42 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,882</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,887</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,784</span></li>
       </ul>
     </div>
@@ -47,16 +49,16 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(122 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(71 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(68 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(285 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(94 links)</span></li>
       </ol>

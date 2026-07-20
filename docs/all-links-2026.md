@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, July 20 2026 - It's All China AI All The Time**
+
+  * [Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it "open-weight soon"](https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model) (Bloomberg)
+  * [The Trump administration has reportedly explored sanctions, security warnings, and executive-order requirements since 2025 to build a slow, durable squeeze on Chinese AI models instead of pursuing an outright ban](https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/) (The Decoder)
+  * [Ben Thompson argues the market reaction to Kimi and other Chinese models is overblown, since it's compute scarcity — not a real Chinese cost advantage — that's keeping frontier-model prices high](https://stratechery.com/2026/whos-afraid-of-chinese-models/) (Stratechery)
+  * [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests](https://www.thestack.technology/hugging-face-hacked-turned-to-chinese-llm-for-help-after-us-models-blocked-blue-team/) (The Stack)
+  * [Sources: Google is developing a specialized server chip, informally dubbed "Frozen v2", that integrates its Gemini AI model blueprint into the silicon, for 2028](https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently) (The Information)
+
+
+
 **Friday, July 17 2026 - Kimi K3**
 
   * [Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Claude Opus 4.8 and GPT-5.5, and plans to release its full model weights by July 27](https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems) (VentureBeat)

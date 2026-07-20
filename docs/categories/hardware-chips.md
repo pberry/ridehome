@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Sources: Google is developing a specialized server chip, informally dubbed "Frozen v2", that integrates its Gemini AI model blueprint into the silicon, for 2028](https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently) (The Information)
 - [Sources: Apple is preparing new iPads, including an iPad mini with an OLED screen by October and refreshed entry-level iPads and iPad Airs for 2027](https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027) (Bloomberg)
 - [Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as an AI companion that taps into ChatGPT](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion) (Bloomberg)
 - [IBM reports preliminary Q2 revenue up 1% YoY to $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are shifting spending to chips; IBM falls 20%+](https://www.bloomberg.com/news/articles/2026-07-14/ibm-says-second-quarter-sales-missed-as-customers-pulled-back) (Bloomberg)

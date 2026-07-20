@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [The Trump administration has reportedly explored sanctions, security warnings, and executive-order requirements since 2025 to build a slow, durable squeeze on Chinese AI models instead of pursuing an outright ban](https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/) (The Decoder)
 - [Memo: MLB bans the use of league-provided dugout iPads to access GenAI for in-game strategy calls; sources say at least a third of teams used AI this way](https://www.nytimes.com/athletic/7448900/2026/07/16/mlb-bans-ai-dugout-ipads/) (The Athletic)
 - [AI advocates fear New York's moratorium on new data centers could embolden Democrats to enact more state restrictions and seize on the issue in the midterms](https://www.politico.com/news/2026/07/15/i-wouldnt-call-it-panic-industry-quails-at-hochuls-data-center-pause-00998127) (Politico)
 - [Demis Hassabis proposes a US-based Standards Body for "Frontier-class" AI, modeled after FINRA; labs would share models for review up to 30 days before release](https://x.com/demishassabis/status/2076957440109625718) (X)
