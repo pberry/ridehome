@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, July 21 2026 - New Gemini**
+
+  * [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/) (9to5Google)
+  * [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its "most ambitious pre-training run yet" for Gemini 4](https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html) (CNBC)
+  * [Sources: China is weighing tightening AI and chip export controls and is consulting leading domestic AI companies, in a bid to slow advanced tech acquisitions](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a) (FT)
+  * [US Treasury Secretary Scott Bessent says the Trump administration will investigate whether Chinese AI models were illegally distilled from American models, and raises the possibility of sanctions](https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html) (CNBC)
+  * [Sources: Apple plans to launch Apple Upgrade, a leasing program for iPhone, iPad, Mac, and Apple Watch, in partnership with Klarna in the US next week](https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales) (Bloomberg)
+  * [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work](https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut) (Bloomberg)
+  * [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work](https://www.implicator.ai/openais-work-agents-reach-10-million-users-nearly-doubling-in-july/) (Implicator AI)
+  * [Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop](https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop) (Bloomberg)
+  * [Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop](https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables) (The Verge)
+
+
+
 **Monday, July 20 2026 - It's All China AI All The Time**
 
   * [Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it "open-weight soon"](https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model) (Bloomberg)

@@ -9,6 +9,10 @@ layout: category
 
 ### July
 
+- [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/) (9to5Google)
+- [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its "most ambitious pre-training run yet" for Gemini 4](https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html) (CNBC)
+- [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work](https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut) (Bloomberg)
+- [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work](https://www.implicator.ai/openais-work-agents-reach-10-million-users-nearly-doubling-in-july/) (Implicator AI)
 - [Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it "open-weight soon"](https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model) (Bloomberg)
 - [Ben Thompson argues the market reaction to Kimi and other Chinese models is overblown, since it's compute scarcity — not a real Chinese cost advantage — that's keeping frontier-model prices high](https://stratechery.com/2026/whos-afraid-of-chinese-models/) (Stratechery)
 - [Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Claude Opus 4.8 and GPT-5.5, and plans to release its full model weights by July 27](https://venturebeat.com/ai/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems) (VentureBeat)
