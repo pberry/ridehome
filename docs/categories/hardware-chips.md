@@ -9,6 +9,9 @@ layout: category
 
 ### July
 
+- [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/) (9to5Google)
+- [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos) (The Verge)
+- [The Verge's hands-on with the wider, shorter $1,899.99 Galaxy Z Fold 8 finds the unusual shape surprisingly comfortable, positioning it as a media-consumption device rather than a multitasker](https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on) (The Verge)
 - [Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop](https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop) (Bloomberg)
 - [Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop](https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables) (The Verge)
 - [Sources: Google is developing a specialized server chip, informally dubbed "Frozen v2", that integrates its Gemini AI model blueprint into the silicon, for 2028](https://www.theinformation.com/articles/google-plans-new-frozen-chip-run-ai-models-efficiently) (The Information)

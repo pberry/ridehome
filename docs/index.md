@@ -3,17 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, July 21, 2026 - New Gemini</h3>
+  <h3>Wednesday, July 22, 2026 - The AI Has Escaped Containment</h3>
   <ul>
-    <li><a href="https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/">Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html">Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its "most ambitious pre-training run yet" for Gemini 4</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a">Sources: China is weighing tightening AI and chip export controls and is consulting leading domestic AI companies, in a bid to slow advanced tech acquisitions</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html">US Treasury Secretary Scott Bessent says the Trump administration will investigate whether Chinese AI models were illegally distilled from American models, and raises the possibility of sanctions</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales">Sources: Apple plans to launch Apple Upgrade, a leasing program for iPhone, iPad, Mac, and Apple Watch, in partnership with Klarna in the US next week</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut">OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.implicator.ai/openais-work-agents-reach-10-million-users-nearly-doubling-in-july/">OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work</a> (Implicator AI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop">Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/tech/968551/garmin-cirqa-smart-band-fitness-tracker-wearables">Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models">OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities</a> (Axios) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/">OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities</a> (Cybersecurity Dive) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://ia.acs.org.au/article/2026/openai-agent-goes-rogue-in-unprecedented-hack.html">OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities</a> (Information Age) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://x.com/mkratsios47/status/2079933645888880708">White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"</a> (X) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7">White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"</a> (Business Insider) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/">Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17</a> (9to5Google) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos">Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on">The Verge's hands-on with the wider, shorter $1,899.99 Galaxy Z Fold 8 finds the unusual shape surprisingly comfortable, positioning it as a media-consumption device rather than a multitasker</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -39,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-21T13:16:06-07:00">July 21, 2026 at 01:16 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-22T14:12:37-07:00">July 22, 2026 at 02:12 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,896</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,904</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,784</span></li>
       </ul>
     </div>
@@ -54,7 +53,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(66 links)</span></li>
       </ol>
     </div>
@@ -63,8 +62,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(95 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
       </ol>
     </div>
   </div>

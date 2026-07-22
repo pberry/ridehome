@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://x.com/mkratsios47/status/2079933645888880708) (X)
+- [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7) (Business Insider)
 - [Sources: China is weighing tightening AI and chip export controls and is consulting leading domestic AI companies, in a bid to slow advanced tech acquisitions](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a) (FT)
 - [US Treasury Secretary Scott Bessent says the Trump administration will investigate whether Chinese AI models were illegally distilled from American models, and raises the possibility of sanctions](https://www.cnbc.com/2026/07/21/bessent-china-ai-sanctions.html) (CNBC)
 - [The Trump administration has reportedly explored sanctions, security warnings, and executive-order requirements since 2025 to build a slow, durable squeeze on Chinese AI models instead of pursuing an outright ban](https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/) (The Decoder)

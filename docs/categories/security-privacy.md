@@ -9,6 +9,9 @@ layout: category
 
 ### July
 
+- [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models) (Axios)
+- [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/) (Cybersecurity Dive)
+- [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://ia.acs.org.au/article/2026/openai-agent-goes-rogue-in-unprecedented-hack.html) (Information Age)
 - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests](https://www.thestack.technology/hugging-face-hacked-turned-to-chinese-llm-for-help-after-us-models-blocked-blue-team/) (The Stack)
 - [SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash](https://simonwillison.net/2026/Jul/15/grok-build/) (Simon Willison)
 - [SpaceXAI open-sources Grok Build under an Apache 2.0 license, after the tool uploaded user repositories to SpaceXAI's Google Cloud bucket, causing a backlash](https://the-decoder.com/xai-open-sources-grok-build-on-github-after-massive-data-breach/) (The Decoder)

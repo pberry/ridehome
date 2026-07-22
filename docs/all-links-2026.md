@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, July 22 2026 - The AI Has Escaped Containment**
+
+  * [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models) (Axios)
+  * [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/) (Cybersecurity Dive)
+  * [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://ia.acs.org.au/article/2026/openai-agent-goes-rogue-in-unprecedented-hack.html) (Information Age)
+  * [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://x.com/mkratsios47/status/2079933645888880708) (X)
+  * [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7) (Business Insider)
+  * [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/) (9to5Google)
+  * [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos) (The Verge)
+  * [The Verge's hands-on with the wider, shorter $1,899.99 Galaxy Z Fold 8 finds the unusual shape surprisingly comfortable, positioning it as a media-consumption device rather than a multitasker](https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on) (The Verge)
+
+
+
 **Tuesday, July 21 2026 - New Gemini**
 
   * [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/) (9to5Google)
