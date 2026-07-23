@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [The Light Flip is a minimalist flip phone with a point to prove](https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs) (The Verge)
 - [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/) (9to5Google)
 - [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://www.theverge.com/gadgets/968200/samsung-galaxy-z-fold-8-ultra-announced-hands-on-photos) (The Verge)
 - [The Verge's hands-on with the wider, shorter $1,899.99 Galaxy Z Fold 8 finds the unusual shape surprisingly comfortable, positioning it as a media-consumption device rather than a multitasker](https://www.theverge.com/tech/968663/samsung-galaxy-z-fold-8-wide-hands-on) (The Verge)

@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, July 23 2026 - Even OpenAI Folks Are Freaked Out**
+
+  * [Sources: OpenAI's staff were "freaked out" when its AI models breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic](https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d) (FT)
+  * [Sources: Three OpenAI models, GPT-5.6 Sol and two unreleased ones, pulled off the Hugging Face hack in hours, work a skilled human would need weeks for; OpenAI has briefed the US government](https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected) (Bloomberg)
+  * [Google reports Q2 free cash flow at negative $5.9B amid increased AI infrastructure spending, marking its first cash burn since going public in August 2004](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530) (FT)
+  * [Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally](https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/) (Wired)
+  * [The Light Flip is a minimalist flip phone with a point to prove](https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs) (The Verge)
+
+
+
 **Wednesday, July 22 2026 - The AI Has Escaped Containment**
 
   * [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models) (Axios)

@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Sources: OpenAI's staff were "freaked out" when its AI models breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic](https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d) (FT)
 - [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/) (9to5Google)
 - [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its "most ambitious pre-training run yet" for Gemini 4](https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html) (CNBC)
 - [OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work](https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut) (Bloomberg)

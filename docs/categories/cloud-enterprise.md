@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Google reports Q2 free cash flow at negative $5.9B amid increased AI infrastructure spending, marking its first cash burn since going public in August 2004](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530) (FT)
 - [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://9to5mac.com/2026/07/07/anthropic-expanding-claude-cowork-to-mobile-and-web-details-here/) (9to5Mac)
 - [Anthropic is bringing Claude Cowork to mobile and web, letting tasks run in the cloud and continue working even when no device is online](https://www.zdnet.com/article/anthropic-claude-cowork-comes-to-phone-web-cloud/) (ZDNet)
 - [Nvidia promises to financially backstop young cloud providers like Firmus that rent out its AI chips, in exchange for a revenue share through a new program](https://www.theinformation.com/articles/nvidia-says-will-take-cut-customers-cloud-revenues) (The Information)
