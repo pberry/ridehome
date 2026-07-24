@@ -9,6 +9,10 @@ layout: category
 
 ### July
 
+- [Sources: Stripe is in talks to acquire OpenRouter, which helps developers use AI models and could fetch ~$10B; PitchBook: OpenRouter was valued at $1.3B in May](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74) (WSJ)
+- [Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app](https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps) (Bloomberg)
+- [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity](https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai) (The Information)
+- [Meet All The Middle Aged Women Who Don't Exist: AI-generated wellness influencers, all gorgeous and all "57", are selling NMN supplements to women over 40](https://www.charlottesbook.com/p/meet-all-the-middle-aged-women-who) (Charlotte's Book)
 - [Sources: OpenAI's staff were "freaked out" when its AI models breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic](https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d) (FT)
 - [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/) (9to5Google)
 - [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its "most ambitious pre-training run yet" for Gemini 4](https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html) (CNBC)

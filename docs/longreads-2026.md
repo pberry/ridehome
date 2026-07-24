@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 24 2026**
+
+  * [Meet All The Middle Aged Women Who Don't Exist: AI-generated wellness influencers, all gorgeous and all "57", are selling NMN supplements to women over 40](https://www.charlottesbook.com/p/meet-all-the-middle-aged-women-who) (Charlotte's Book)
+  * [Big US pizza delivery chains are struggling as DoorDash and Uber Eats give independent pizzerias greater market access, erasing the tech moat chains once had](https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75) (FT)
+
+
+
 **Friday, July 17 2026**
 
   * [The Verge spends a month testing Siri AI in the iOS 27 public beta, finding it's already reshaping how people use their iPhone, though it can't yet reach non-Apple apps](https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on) (The Verge)

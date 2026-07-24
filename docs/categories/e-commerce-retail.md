@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically](https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html) (NYTimes)
+- [Big US pizza delivery chains are struggling as DoorDash and Uber Eats give independent pizzerias greater market access, erasing the tech moat chains once had](https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75) (FT)
 - [Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering €41.50 per share and buying Prosus' 16.8% stake](https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates) (Bloomberg)
 
 ### June

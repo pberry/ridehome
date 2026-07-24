@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges](https://www.engadget.com/2222353/meta-launches-facebook-verified/) (Engadget)
 - [Sources: Three OpenAI models, GPT-5.6 Sol and two unreleased ones, pulled off the Hugging Face hack in hours, work a skilled human would need weeks for; OpenAI has briefed the US government](https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected) (Bloomberg)
 - [Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally](https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/) (Wired)
 - [OpenAI says its models, including GPT-5.6 Sol and "an even more capable pre-release model", breached Hugging Face while OpenAI tested their cyber capabilities](https://www.axios.com/2026/07/21/openai-says-hugging-face-breach-caused-by-one-its-models) (Axios)

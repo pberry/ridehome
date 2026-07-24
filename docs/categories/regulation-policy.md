@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Signatories including Palantir avoid naming China or Moonshot in the open-weight letter, framing it instead around US AI leadership being judged by a strong open ecosystem, not one frontier model](https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi) (Bloomberg)
 - [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://x.com/mkratsios47/status/2079933645888880708) (X)
 - [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7) (Business Insider)
 - [Sources: China is weighing tightening AI and chip export controls and is consulting leading domestic AI companies, in a bid to slow advanced tech acquisitions](https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a) (FT)

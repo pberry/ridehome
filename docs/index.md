@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, July 23, 2026 - Even OpenAI Folks Are Freaked Out</h3>
+  <h3>Friday, July 24, 2026 - Stripe Wants To Buy Everything</h3>
   <ul>
-    <li><a href="https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d">Sources: OpenAI's staff were "freaked out" when its AI models breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected">Sources: Three OpenAI models, GPT-5.6 Sol and two unreleased ones, pulled off the Hugging Face hack in hours, work a skilled human would need weeks for; OpenAI has briefed the US government</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530">Google reports Q2 free cash flow at negative $5.9B amid increased AI infrastructure spending, marking its first cash burn since going public in August 2004</a> (FT) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/">Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs">The Light Flip is a minimalist flip phone with a point to prove</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74">Sources: Stripe is in talks to acquire OpenRouter, which helps developers use AI models and could fetch ~$10B; PitchBook: OpenRouter was valued at $1.3B in May</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/">Sources: Stripe and Advent's unsolicited $53B PayPal offer, backed by ~$50B in committed bank financing, would create a payments giant processing ~$3.7T annually; PayPal has not responded</a> (Reuters) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps">Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.engadget.com/2222353/meta-launches-facebook-verified/">Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges</a> (Engadget) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html">Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically</a> (NYTimes) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai">Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi">Signatories including Palantir avoid naming China or Moonshot in the open-weight letter, framing it instead around US AI leadership being judged by a strong open ecosystem, not one frontier model</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -35,31 +37,31 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-23T12:15:19-07:00">July 23, 2026 at 12:15 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-24T12:23:26-07:00">July 24, 2026 at 12:23 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,909</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,784</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,916</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,786</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(66 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(291 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(109 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(99 links)</span></li>
       </ol>
     </div>

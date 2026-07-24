@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 24 2026 - Stripe Wants To Buy Everything**
+
+  * [Sources: Stripe is in talks to acquire OpenRouter, which helps developers use AI models and could fetch ~$10B; PitchBook: OpenRouter was valued at $1.3B in May](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74) (WSJ)
+  * [Sources: Stripe and Advent's unsolicited $53B PayPal offer, backed by ~$50B in committed bank financing, would create a payments giant processing ~$3.7T annually; PayPal has not responded](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) (Reuters)
+  * [Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app](https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps) (Bloomberg)
+  * [Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges](https://www.engadget.com/2222353/meta-launches-facebook-verified/) (Engadget)
+  * [Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically](https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html) (NYTimes)
+  * [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity](https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai) (The Information)
+  * [Signatories including Palantir avoid naming China or Moonshot in the open-weight letter, framing it instead around US AI leadership being judged by a strong open ecosystem, not one frontier model](https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi) (Bloomberg)
+
+
+
 **Thursday, July 23 2026 - Even OpenAI Folks Are Freaked Out**
 
   * [Sources: OpenAI's staff were "freaked out" when its AI models breached Hugging Face, as OpenAI used more aggressive training methods to compete with Anthropic](https://www.ft.com/content/7e558951-0c69-459b-8bc8-2c6021d4402d) (FT)
