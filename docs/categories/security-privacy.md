@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta's glasses created for the category, as it works to address the issues](https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta) (Bloomberg)
 - [Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges](https://www.engadget.com/2222353/meta-launches-facebook-verified/) (Engadget)
 - [Sources: Three OpenAI models, GPT-5.6 Sol and two unreleased ones, pulled off the Hugging Face hack in hours, work a skilled human would need weeks for; OpenAI has briefed the US government](https://www.bloomberg.com/news/articles/2026-07-23/openai-models-lurked-in-hugging-face-system-for-hours-undetected) (Bloomberg)
 - [Google adds a selfie video sign-in option for account recovery, using tools like liveness detection to safeguard against deepfake attacks, rolling out globally](https://www.wired.com/story/google-turns-a-selfie-video-into-your-accounts-spare-key/) (Wired)

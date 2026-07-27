@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity](https://www.reuters.com/science/amazon-leo-proposes-constellation-over-5000-satellites-direct-to-phone-service-2026-07-27/) (Reuters)
 - [Signatories including Palantir avoid naming China or Moonshot in the open-weight letter, framing it instead around US AI leadership being judged by a strong open ecosystem, not one frontier model](https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi) (Bloomberg)
 - [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://x.com/mkratsios47/status/2079933645888880708) (X)
 - [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7) (Business Insider)

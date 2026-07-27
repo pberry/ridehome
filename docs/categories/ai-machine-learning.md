@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Sources: Nvidia has committed to invest $5B in Ilya Sutskever's SSI; the startup has previously raised about $3B in funding and was valued at $32B last year](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup) (Bloomberg)
 - [Sources: Stripe is in talks to acquire OpenRouter, which helps developers use AI models and could fetch ~$10B; PitchBook: OpenRouter was valued at $1.3B in May](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74) (WSJ)
 - [Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app](https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps) (Bloomberg)
 - [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity](https://www.theinformation.com/briefings/meta-microsoft-nvidia-others-sign-letter-defending-open-source-ai) (The Information)

@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, July 27 2026 - Nvidia On The March**
+
+  * [Sources: Nvidia has committed to invest $5B in Ilya Sutskever's SSI; the startup has previously raised about $3B in funding and was valued at $32B last year](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup) (Bloomberg)
+  * [Sources: Nvidia is in talks to guarantee ~$250B in financing for a 10 GW SoftBank data center project in southern Ohio that OpenAI is in advanced talks to lease; the site could cost $500B+](https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3) (WSJ)
+  * [CXMT's stock closed up 466% in its Shanghai debut, giving the Hefei-based memory chipmaker a ~$487B market cap, making it the most valuable China-listed company](https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html) (CNBC)
+  * [Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity](https://www.reuters.com/science/amazon-leo-proposes-constellation-over-5000-satellites-direct-to-phone-service-2026-07-27/) (Reuters)
+  * [Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta's glasses created for the category, as it works to address the issues](https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta) (Bloomberg)
+  * [NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027](https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html) (CNBC)
+
+
+
 **Friday, July 24 2026 - Stripe Wants To Buy Everything**
 
   * [Sources: Stripe is in talks to acquire OpenRouter, which helps developers use AI models and could fetch ~$10B; PitchBook: OpenRouter was valued at $1.3B in May](https://www.wsj.com/tech/ai/stripe-in-talks-to-buy-buzzy-ai-model-marketplace-openrouter-decc6a74) (WSJ)
