@@ -52,14 +52,14 @@
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(68 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(285 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(109 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
       </ol>
