@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [South Korea's KOSPI drops 11%+, led by chip stocks, amid concerns over China's chipmaking progress and the AI spending boom; Samsung falls 11%+ and SK Hynix 12%](https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue) (Bloomberg)
 - [CXMT's stock closed up 466% in its Shanghai debut, giving the Hefei-based memory chipmaker a ~$487B market cap, making it the most valuable China-listed company](https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html) (CNBC)
 - [The Light Flip is a minimalist flip phone with a point to prove](https://www.theverge.com/gadgets/968563/light-flip-phone-price-specs) (The Verge)
 - [Samsung unveils the $2,100+ Galaxy Z Fold 8 Ultra, featuring its "most advanced foldable design", a Flex Titanium display, a 5,000mAH battery, and Android 17](https://9to5google.com/2026/07/22/galaxy-z-fold-8-ultra-goes-official/) (9to5Google)

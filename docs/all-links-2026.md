@@ -5,6 +5,27 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, July 29 2026 - Is Everybody Racing RSI?**
+
+  * [AI's finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) (The Verge)
+  * [Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to "pace" AI development](https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress) (Bloomberg)
+  * [Signatories to the "Pacing the Frontier" statement include OpenAI's Mark Chen and Wojciech Zaremba and Anthropic's Jack Clark, Chris Olah, and Jared Kaplan, who say the world may need the option to buy time](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta) (The Verge)
+  * [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models](https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80) (WSJ)
+  * [The Actual Reason Why Google "Fell Out" of the AI Race Changes Everything](https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell) (The Algorithmic Bridge)
+
+
+
+**Tuesday, July 28 2026 - Anthropic Doesn't Hate Open Weights, Says Anthropic.**
+
+  * [Anthropic wants tests, not bans, as OpenAI and Google back open weights](https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights/) (The New Stack)
+  * [Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI's upcoming family of AI models](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html) (CNBC)
+  * [South Korea's KOSPI drops 11%+, led by chip stocks, amid concerns over China's chipmaking progress and the AI spending boom; Samsung falls 11%+ and SK Hynix 12%](https://www.bloomberg.com/news/articles/2026-07-28/korean-stocks-sink-as-chipmakers-plung-on-deepening-ai-fatigue) (Bloomberg)
+  * [Credit default swap prices tied to Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom, and Nvidia hit record highs as investors turn jittery over Big Tech's data center debt; Oracle's five-year CDS reached 215bps](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099) (FT)
+  * [Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones](https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/) (MacRumors)
+  * [Apple releases 26.6 updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs](https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/) (9to5Mac)
+
+
+
 **Monday, July 27 2026 - Nvidia On The March**
 
   * [Sources: Nvidia has committed to invest $5B in Ilya Sutskever's SSI; the startup has previously raised about $3B in funding and was valued at $32B last year](https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup) (Bloomberg)

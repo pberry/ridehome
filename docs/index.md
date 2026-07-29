@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, July 27, 2026 - Nvidia On The March</h3>
+  <h3>Wednesday, July 29, 2026 - Is Everybody Racing RSI?</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-27/nvidia-makes-substantial-investment-in-sutskever-s-ai-startup">Sources: Nvidia has committed to invest $5B in Ilya Sutskever's SSI; the startup has previously raised about $3B in funding and was valued at $32B last year</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3">Sources: Nvidia is in talks to guarantee ~$250B in financing for a 10 GW SoftBank data center project in southern Ohio that OpenAI is in advanced talks to lease; the site could cost $500B+</a> (WSJ) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html">CXMT's stock closed up 466% in its Shanghai debut, giving the Hefei-based memory chipmaker a ~$487B market cap, making it the most valuable China-listed company</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.reuters.com/science/amazon-leo-proposes-constellation-over-5000-satellites-direct-to-phone-service-2026-07-27/">Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta">Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta's glasses created for the category, as it works to address the issues</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html">NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027</a> (CNBC) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex">AI's finally expensive enough to make Wall Street nervous</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress">Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to "pace" AI development</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta">Signatories to the "Pacing the Frontier" statement include OpenAI's Mark Chen and Wojciech Zaremba and Anthropic's Jack Clark, Chris Olah, and Jared Kaplan, who say the world may need the option to buy time</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80">Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell">The Actual Reason Why Google "Fell Out" of the AI Race Changes Everything</a> (The Algorithmic Bridge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-27T14:14:39-07:00">July 27, 2026 at 02:14 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-29T12:13:38-07:00">July 29, 2026 at 12:13 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,922</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,933</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,786</span></li>
       </ul>
     </div>
@@ -50,8 +49,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(127 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
@@ -59,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(109 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(113 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(99 links)</span></li>
       </ol>
     </div>
   </div>

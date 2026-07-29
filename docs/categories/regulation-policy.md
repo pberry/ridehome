@@ -9,6 +9,10 @@ layout: category
 
 ### July
 
+- [Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to "pace" AI development](https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress) (Bloomberg)
+- [Signatories to the "Pacing the Frontier" statement include OpenAI's Mark Chen and Wojciech Zaremba and Anthropic's Jack Clark, Chris Olah, and Jared Kaplan, who say the world may need the option to buy time](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta) (The Verge)
+- [Anthropic wants tests, not bans, as OpenAI and Google back open weights](https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights/) (The New Stack)
+- [Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI's upcoming family of AI models](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html) (CNBC)
 - [Amazon files an FCC application to deploy a constellation of up to 5,105 satellites starting in 2028 to provide direct-to-device voice and data connectivity](https://www.reuters.com/science/amazon-leo-proposes-constellation-over-5000-satellites-direct-to-phone-service-2026-07-27/) (Reuters)
 - [Signatories including Palantir avoid naming China or Moonshot in the open-weight letter, framing it instead around US AI leadership being judged by a strong open ecosystem, not one frontier model](https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi) (Bloomberg)
 - [White House OSTP Director Michael Kratsios says "we have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model"](https://x.com/mkratsios47/status/2079933645888880708) (X)
