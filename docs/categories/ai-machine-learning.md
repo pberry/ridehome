@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [Meta Falls After Defending AI Bets to Skeptical Investors](https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast) (Bloomberg)
+- [Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares](https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains) (Bloomberg)
 - [AI's finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) (The Verge)
 - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models](https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80) (WSJ)
 - [The Actual Reason Why Google "Fell Out" of the AI Race Changes Everything](https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell) (The Algorithmic Bridge)

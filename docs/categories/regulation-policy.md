@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as "very large online platforms" under the DSA as soon as August](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms) (Bloomberg)
 - [Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to "pace" AI development](https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress) (Bloomberg)
 - [Signatories to the "Pacing the Frontier" statement include OpenAI's Mark Chen and Wojciech Zaremba and Anthropic's Jack Clark, Chris Olah, and Jared Kaplan, who say the world may need the option to buy time](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta) (The Verge)
 - [Anthropic wants tests, not bans, as OpenAI and Google back open weights](https://thenewstack.io/anthropic-wants-tests-not-bans-as-openai-and-google-back-open-weights/) (The New Stack)

@@ -3,13 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, July 29, 2026 - Is Everybody Racing RSI?</h3>
+  <h3>Thursday, July 30, 2026 - The AI Trade</h3>
   <ul>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex">AI's finally expensive enough to make Wall Street nervous</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress">Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to "pace" AI development</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta">Signatories to the "Pacing the Frontier" statement include OpenAI's Mark Chen and Wojciech Zaremba and Anthropic's Jack Clark, Chris Olah, and Jared Kaplan, who say the world may need the option to buy time</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/a-backlash-against-anthropic-is-brewing-in-silicon-valley-3b3ddc80">Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell">The Actual Reason Why Google "Fell Out" of the AI Race Changes Everything</a> (The Algorithmic Bridge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates">Microsoft's Shares Surge on Fastest Cloud Growth Since 2022</a> (Bloomberg) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast">Meta Falls After Defending AI Bets to Skeptical Investors</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html">AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms">Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as "very large online platforms" under the DSA as soon as August</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains">Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-07-29T12:13:38-07:00">July 29, 2026 at 12:13 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-07-30T12:24:04-07:00">July 30, 2026 at 12:24 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,933</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,938</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,786</span></li>
       </ul>
     </div>
@@ -49,7 +49,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(127 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
       </ol>
@@ -58,8 +58,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(113 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(114 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(99 links)</span></li>
       </ol>
     </div>

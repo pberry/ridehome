@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, July 30 2026 - The AI Trade**
+
+  * [Microsoft's Shares Surge on Fastest Cloud Growth Since 2022](https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates) (Bloomberg)
+  * [Meta Falls After Defending AI Bets to Skeptical Investors](https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast) (Bloomberg)
+  * [AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html) (CNBC)
+  * [Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as "very large online platforms" under the DSA as soon as August](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms) (Bloomberg)
+  * [Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares](https://www.bloomberg.com/news/articles/2026-07-29/higher-airfares-loom-on-busy-routes-as-ai-squeezes-out-bargains) (Bloomberg)
+
+
+
 **Wednesday, July 29 2026 - Is Everybody Racing RSI?**
 
   * [AI's finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex) (The Verge)

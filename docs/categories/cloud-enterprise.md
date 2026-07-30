@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Microsoft's Shares Surge on Fastest Cloud Growth Since 2022](https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates) (Bloomberg)
 - [Credit default swap prices tied to Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom, and Nvidia hit record highs as investors turn jittery over Big Tech's data center debt; Oracle's five-year CDS reached 215bps](https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099) (FT)
 - [Sources: Nvidia is in talks to guarantee ~$250B in financing for a 10 GW SoftBank data center project in southern Ohio that OpenAI is in advanced talks to lease; the site could cost $500B+](https://www.wsj.com/tech/ai/nvidia-in-talks-with-openai-to-guarantee-250-billion-financing-for-data-center-3dd6eae3) (WSJ)
 - [Google reports Q2 free cash flow at negative $5.9B amid increased AI infrastructure spending, marking its first cash burn since going public in August 2004](https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530) (FT)
