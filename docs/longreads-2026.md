@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 31 2026**
+
+  * [How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals](https://www.bloomberg.com/news/articles/2026-07-24/how-tiktok-creators-earn-midlevel-salaries-with-small-audiences-brand-deals) (Bloomberg)
+  * [What happiness researchers say about enjoying your time off: anticipation is a free source of pleasure, company beats going solo, and build in some physical challenge](https://www.washingtonpost.com/lifestyle/2026/07/24/5-surprisingly-simple-ways-enjoy-your-vacation-more/) (Washington Post)
+
+
+
 **Friday, July 24 2026**
 
   * [Meet All The Middle Aged Women Who Don't Exist: AI-generated wellness influencers, all gorgeous and all "57", are selling NMN supplements to women over 40](https://www.charlottesbook.com/p/meet-all-the-middle-aged-women-who) (Charlotte's Book)

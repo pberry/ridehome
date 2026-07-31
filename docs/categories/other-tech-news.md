@@ -9,6 +9,8 @@ layout: category
 
 ### July
 
+- [Letter: Situational Awareness is down ~67% in July, but remains up ~80% in 2026; sources say it planned to sell $3.5B of its Anthropic stake but backed out](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) (WSJ)
+- [What happiness researchers say about enjoying your time off: anticipation is a free source of pleasure, company beats going solo, and build in some physical challenge](https://www.washingtonpost.com/lifestyle/2026/07/24/5-surprisingly-simple-ways-enjoy-your-vacation-more/) (Washington Post)
 - [AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html) (CNBC)
 - [OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach](https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376) (NBC News)
 - [OpenAI says Apple's claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple's initial outreach](https://9to5mac.com/2026/07/15/report-how-an-email-mistake-derailed-talks-between-apple-and-openai-ahead-of-the-lawsuit/) (9to5Mac)

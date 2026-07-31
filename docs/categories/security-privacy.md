@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests](https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/) (Wired)
 - [Apple releases 26.6 updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs](https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/) (9to5Mac)
 - [Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta's glasses created for the category, as it works to address the issues](https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta) (Bloomberg)
 - [Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges](https://www.engadget.com/2222353/meta-launches-facebook-verified/) (Engadget)

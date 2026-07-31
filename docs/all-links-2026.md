@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, July 31 2026 - I Don’t Think You Understand What “Sandboxed” Means**
+
+  * [Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests](https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/) (Wired)
+  * [Apple Slides Most Since 2025 After Supply Shortages Hurt Outlook](https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business) (Bloomberg)
+  * [Amazon Shares Jump as Cloud Sales—and Spending—Accelerate](https://www.wsj.com/tech/ai/amazon-earnings-q2-2026-amzn-stock-3daf95f7) (WSJ)
+  * [Letter: Situational Awareness is down ~67% in July, but remains up ~80% in 2026; sources say it planned to sell $3.5B of its Anthropic stake but backed out](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) (WSJ)
+
+
+
 **Thursday, July 30 2026 - The AI Trade**
 
   * [Microsoft's Shares Surge on Fastest Cloud Growth Since 2022](https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates) (Bloomberg)

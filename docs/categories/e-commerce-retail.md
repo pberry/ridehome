@@ -9,6 +9,7 @@ layout: category
 
 ### July
 
+- [How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals](https://www.bloomberg.com/news/articles/2026-07-24/how-tiktok-creators-earn-midlevel-salaries-with-small-audiences-brand-deals) (Bloomberg)
 - [Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones](https://www.macrumors.com/2026/07/28/apple-upgrade-program-klarna/) (MacRumors)
 - [Meta launches Seller, a free standalone app version of Facebook Marketplace; Seller includes AI features that scan photos to fill out listings automatically](https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html) (NYTimes)
 - [Big US pizza delivery chains are struggling as DoorDash and Uber Eats give independent pizzerias greater market access, erasing the tech moat chains once had](https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75) (FT)
