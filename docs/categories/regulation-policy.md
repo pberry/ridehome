@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Legal experts say US courts haven't settled who's liable when an AI agent goes rogue, with agency law, tort law, and the CFAA's intent requirements all an awkward fit](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/) (Wired)
+
 ### July
 
 - [Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as "very large online platforms" under the DSA as soon as August](https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms) (Bloomberg)

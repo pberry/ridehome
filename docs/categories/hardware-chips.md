@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html) (NYTimes)
+
 ### July
 
 - [Apple Slides Most Since 2025 After Supply Shortages Hurt Outlook](https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business) (Bloomberg)

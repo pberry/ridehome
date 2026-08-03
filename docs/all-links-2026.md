@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, August 03 2026 - DO You Understand Sandboxing Or No?**
+
+  * [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/) (Reuters)
+  * [Anthropic's breaches dated back to April but went undiscovered until last week; former UK cyber chief Ciaran Martin calls the lapses "sloppy" as experts warn of national security risks](https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks) (Bloomberg)
+  * [Legal experts say US courts haven't settled who's liable when an AI agent goes rogue, with agency law, tort law, and the CFAA's intent requirements all an awkward fit](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/) (Wired)
+  * [OpenAI Says Astra Solved 10 Open Math Problems With Lean Proofs](https://www.implicator.ai/openai-astra-10-math-problems-lean-proofs/) (Implicator AI)
+  * [Google rolls back an image generation tool in Google Earth to add "stronger guardrails" after concerns arose it can be used to create deepfake satellite imagery](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky) (NPR)
+  * [A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html) (NYTimes)
+
+
+
 **Friday, July 31 2026 - I Don’t Think You Understand What “Sandboxed” Means**
 
   * [Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests](https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/) (Wired)

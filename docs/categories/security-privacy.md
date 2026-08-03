@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/) (Reuters)
+- [Anthropic's breaches dated back to April but went undiscovered until last week; former UK cyber chief Ciaran Martin calls the lapses "sloppy" as experts warn of national security risks](https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks) (Bloomberg)
+- [Google rolls back an image generation tool in Google Earth to add "stronger guardrails" after concerns arose it can be used to create deepfake satellite imagery](https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky) (NPR)
+
 ### July
 
 - [Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests](https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/) (Wired)

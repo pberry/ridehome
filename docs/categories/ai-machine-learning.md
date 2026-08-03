@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [OpenAI Says Astra Solved 10 Open Math Problems With Lean Proofs](https://www.implicator.ai/openai-astra-10-math-problems-lean-proofs/) (Implicator AI)
+
 ### July
 
 - [Meta Falls After Defending AI Bets to Skeptical Investors](https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast) (Bloomberg)
