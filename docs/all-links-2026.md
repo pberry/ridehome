@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, August 04 2026 - OpenAI Has Receipts**
+
+  * [OpenAI drags Apple's lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages) (The Verge)
+  * [Bending Spoons agrees to acquire Airtable in an all-cash deal valuing the US software company at $1.285B, set to close by 2026's end, its first post-IPO deal](https://www.reuters.com/legal/transactional/bending-spoons-makes-first-post-ipo-acquisition-with-13-billion-airtable-deal-2026-08-04/) (Reuters)
+  * [Bending Spoons buys Airtable at an implied equity value of ~$2.25B, five years after a $735M round valued the no-code company at $11.7B; Airtable's ARR is now ~$480M](https://www.siliconrepublic.com/business/bending-spoons-buys-airtable-for-1-2bn-after-ipo-listing) (Silicon Republic)
+  * [Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years](https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup) (Bloomberg)
+  * [Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China](https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/) (Reuters)
+  * [Sources: Beijing is growing concerned about the cyber capabilities of Mythos and other US-developed frontier AI models and their potential as offensive weapons](https://www.bloomberg.com/news/articles/2026-08-03/china-is-getting-more-anxious-about-mythos-before-trump-meets-xi) (Bloomberg)
+  * [White House to host AI companies Tuesday to review new model-testing framework](https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html) (CNBC)
+  * [Internal email: Microsoft introduces token budget limits for employees' AI use, saying "tokenmaxxing is not what we are optimizing for"](https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/) (404 Media)
+
+
+
 **Monday, August 03 2026 - DO You Understand Sandboxing Or No?**
 
   * [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/) (Reuters)

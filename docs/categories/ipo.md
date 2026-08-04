@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Bending Spoons agrees to acquire Airtable in an all-cash deal valuing the US software company at $1.285B, set to close by 2026's end, its first post-IPO deal](https://www.reuters.com/legal/transactional/bending-spoons-makes-first-post-ipo-acquisition-with-13-billion-airtable-deal-2026-08-04/) (Reuters)
+- [Bending Spoons buys Airtable at an implied equity value of ~$2.25B, five years after a $735M round valued the no-code company at $11.7B; Airtable's ARR is now ~$480M](https://www.siliconrepublic.com/business/bending-spoons-buys-airtable-for-1-2bn-after-ipo-listing) (Silicon Republic)
+
 ### July
 
 - [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed](https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z) (Bloomberg)

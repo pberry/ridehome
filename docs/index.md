@@ -3,14 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, August 03, 2026 - DO You Understand Sandboxing Or No?</h3>
+  <h3>Tuesday, August 04, 2026 - OpenAI Has Receipts</h3>
   <ul>
-    <li><a href="https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/">Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network</a> (Reuters) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks">Anthropic's breaches dated back to April but went undiscovered until last week; former UK cyber chief Ciaran Martin calls the lapses "sloppy" as experts warn of national security risks</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/">Legal experts say US courts haven't settled who's liable when an AI agent goes rogue, with agency law, tort law, and the CFAA's intent requirements all an awkward fit</a> (Wired) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.implicator.ai/openai-astra-10-math-problems-lean-proofs/">OpenAI Says Astra Solved 10 Open Math Problems With Lean Proofs</a> (Implicator AI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky">Google rolls back an image generation tool in Google Earth to add "stronger guardrails" after concerns arose it can be used to create deepfake satellite imagery</a> (NPR) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html">A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months</a> (NYTimes) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages">OpenAI drags Apple's lawsuit into the court of public opinion</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.reuters.com/legal/transactional/bending-spoons-makes-first-post-ipo-acquisition-with-13-billion-airtable-deal-2026-08-04/">Bending Spoons agrees to acquire Airtable in an all-cash deal valuing the US software company at $1.285B, set to close by 2026's end, its first post-IPO deal</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.siliconrepublic.com/business/bending-spoons-buys-airtable-for-1-2bn-after-ipo-listing">Bending Spoons buys Airtable at an implied equity value of ~$2.25B, five years after a $735M round valued the no-code company at $11.7B; Airtable's ARR is now ~$480M</a> (Silicon Republic) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup">Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/">Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-03/china-is-getting-more-anxious-about-mythos-before-trump-meets-xi">Sources: Beijing is growing concerned about the cyber capabilities of Mythos and other US-developed frontier AI models and their potential as offensive weapons</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html">White House to host AI companies Tuesday to review new model-testing framework</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/">Internal email: Microsoft introduces token budget limits for employees' AI use, saying "tokenmaxxing is not what we are optimizing for"</a> (404 Media) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-03T12:28:34-07:00">August 03, 2026 at 12:28 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-04T13:20:23-07:00">August 04, 2026 at 01:20 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,948</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,956</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,788</span></li>
       </ul>
     </div>
@@ -50,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(130 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(132 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(65 links)</span></li>
       </ol>
     </div>
@@ -59,8 +61,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(271 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(114 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(118 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(100 links)</span></li>
       </ol>
     </div>

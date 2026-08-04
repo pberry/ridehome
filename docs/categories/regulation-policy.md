@@ -9,6 +9,10 @@ layout: category
 
 ### August
 
+- [OpenAI drags Apple's lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages) (The Verge)
+- [Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China](https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/) (Reuters)
+- [Sources: Beijing is growing concerned about the cyber capabilities of Mythos and other US-developed frontier AI models and their potential as offensive weapons](https://www.bloomberg.com/news/articles/2026-08-03/china-is-getting-more-anxious-about-mythos-before-trump-meets-xi) (Bloomberg)
+- [White House to host AI companies Tuesday to review new model-testing framework](https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html) (CNBC)
 - [Legal experts say US courts haven't settled who's liable when an AI agent goes rogue, with agency law, tort law, and the CFAA's intent requirements all an awkward fit](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/) (Wired)
 
 ### July
