@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Disney announces a global deal with TikTok to bring "thoughtfully curated" fan-created short-form videos based on Disney's IP to Disney+'s vertical Verts feed](https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html?unlocked_article_code=1.3FA.rsJI.2O7LbBbDPszQ) (The New York Times)
+
 ### July
 
 - [NBCU and YouTube reach a multiyear deal to include all Peacock content in YouTube Premium subscriptions in the US starting in early 2027](https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html) (CNBC)

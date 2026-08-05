@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, August 05 2026 - Big Google AI Shakeup**
+
+  * [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup) (The Verge)
+  * [SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., AI operating loss of $1.26B, vs. $2.39B est., says capex in Q3 and Q4 will remain similar to Q2](https://www.bloomberg.com/news/articles/2026-08-04/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo) (Bloomberg)
+  * [An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted](https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/) (The Decoder)
+  * [Disney announces a global deal with TikTok to bring "thoughtfully curated" fan-created short-form videos based on Disney's IP to Disney+'s vertical Verts feed](https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html?unlocked_article_code=1.3FA.rsJI.2O7LbBbDPszQ) (The New York Times)
+
+
+
 **Tuesday, August 04 2026 - OpenAI Has Receipts**
 
   * [OpenAI drags Apple's lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages) (The Verge)

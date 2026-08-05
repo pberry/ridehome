@@ -3,16 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, August 04, 2026 - OpenAI Has Receipts</h3>
+  <h3>Wednesday, August 05, 2026 - Big Google AI Shakeup</h3>
   <ul>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages">OpenAI drags Apple's lawsuit into the court of public opinion</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.reuters.com/legal/transactional/bending-spoons-makes-first-post-ipo-acquisition-with-13-billion-airtable-deal-2026-08-04/">Bending Spoons agrees to acquire Airtable in an all-cash deal valuing the US software company at $1.285B, set to close by 2026's end, its first post-IPO deal</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.siliconrepublic.com/business/bending-spoons-buys-airtable-for-1-2bn-after-ipo-listing">Bending Spoons buys Airtable at an implied equity value of ~$2.25B, five years after a $735M round valued the no-code company at $11.7B; Airtable's ARR is now ~$480M</a> (Silicon Republic) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup">Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/">Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-03/china-is-getting-more-anxious-about-mythos-before-trump-meets-xi">Sources: Beijing is growing concerned about the cyber capabilities of Mythos and other US-developed frontier AI models and their potential as offensive weapons</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html">White House to host AI companies Tuesday to review new model-testing framework</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/">Internal email: Microsoft introduces token budget limits for employees' AI use, saying "tokenmaxxing is not what we are optimizing for"</a> (404 Media) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup">Google just announced a major shakeup of its top AI leadership</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-04/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo">SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., AI operating loss of $1.26B, vs. $2.39B est., says capex in Q3 and Q4 will remain similar to Q2</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/">An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted</a> (The Decoder) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html?unlocked_article_code=1.3FA.rsJI.2O7LbBbDPszQ">Disney announces a global deal with TikTok to bring "thoughtfully curated" fan-created short-form videos based on Disney's IP to Disney+'s vertical Verts feed</a> (The New York Times) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -38,13 +34,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-04T13:20:23-07:00">August 04, 2026 at 01:20 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-05T13:21:22-07:00">August 05, 2026 at 01:21 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,956</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,960</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,788</span></li>
       </ul>
     </div>
@@ -52,8 +48,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(129 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(130 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
       </ol>
     </div>
@@ -61,7 +57,7 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(269 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(270 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(117 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(100 links)</span></li>
       </ol>

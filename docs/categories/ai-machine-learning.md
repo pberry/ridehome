@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup) (The Verge)
 - [Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years](https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup) (Bloomberg)
 - [Internal email: Microsoft introduces token budget limits for employees' AI use, saying "tokenmaxxing is not what we are optimizing for"](https://www.404media.co/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for/) (404 Media)
 - [OpenAI Says Astra Solved 10 Open Math Problems With Lean Proofs](https://www.implicator.ai/openai-astra-10-math-problems-lean-proofs/) (Implicator AI)

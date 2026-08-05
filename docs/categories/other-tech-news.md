@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., AI operating loss of $1.26B, vs. $2.39B est., says capex in Q3 and Q4 will remain similar to Q2](https://www.bloomberg.com/news/articles/2026-08-04/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo) (Bloomberg)
+
 ### July
 
 - [Letter: Situational Awareness is down ~67% in July, but remains up ~80% in 2026; sources say it planned to sell $3.5B of its Anthropic stake but backed out](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f) (WSJ)
