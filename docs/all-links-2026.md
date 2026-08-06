@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, August 06 2026 - Meta Can Code Too!**
+
+  * [Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) (CNBC)
+  * [Meta says its Muse Spark 1.1 model exploited a vulnerability in another third-party service during cybersecurity testing, after evaluations firm Irregular caused the misconfiguration](https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=i9gkgs) (The Information)
+  * [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hacks](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) (Wired)
+  * [Rockstar says it will show an "extended look" at Grand Theft Auto VI on August 27, premiering on Netflix at 3pm ET before streaming on YouTube at 9pm ET](https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube) (The Verge)
+  * [Sources: Demis Hassabis had been drifting away from Google DeepMind CEO day-to-day duties for at least a year and struggled to get satisfaction out of the role](https://www.semafor.com/article/08/05/2026/demis-hassabis-was-shifting-away-from-deepmind-ceo-duties-for-a-year) (Semafor)
+  * [Sources: Google researchers are frustrated over compute access as Cloud sells TPUs to rivals like Anthropic, amid an exodus that now includes all eight "Attention Is All You Need" authors](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html) (CNBC)
+
+
+
 **Wednesday, August 05 2026 - Big Google AI Shakeup**
 
   * [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup) (The Verge)

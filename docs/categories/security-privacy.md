@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Meta says its Muse Spark 1.1 model exploited a vulnerability in another third-party service during cybersecurity testing, after evaluations firm Irregular caused the misconfiguration](https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=i9gkgs) (The Information)
+- [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hacks](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) (Wired)
 - [An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted](https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/) (The Decoder)
 - [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network](https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/) (Reuters)
 - [Anthropic's breaches dated back to April but went undiscovered until last week; former UK cyber chief Ciaran Martin calls the lapses "sloppy" as experts warn of national security risks](https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks) (Bloomberg)

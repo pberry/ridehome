@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Sources: Google researchers are frustrated over compute access as Cloud sells TPUs to rivals like Anthropic, amid an exodus that now includes all eight "Attention Is All You Need" authors](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html) (CNBC)
+
 ### July
 
 - [Amazon Shares Jump as Cloud Sales—and Spending—Accelerate](https://www.wsj.com/tech/ai/amazon-earnings-q2-2026-amzn-stock-3daf95f7) (WSJ)

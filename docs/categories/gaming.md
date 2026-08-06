@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Rockstar says it will show an "extended look" at Grand Theft Auto VI on August 27, premiering on Netflix at 3pm ET before streaming on YouTube at 9pm ET](https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube) (The Verge)
+
 ### July
 
 - [Xbox spent nearly $80B over a decade on content deals betting gamers would flock to Game Pass, but most gamers prefer sticking to a handful of favorite games](https://www.bloomberg.com/news/articles/2026-07-07/behind-xbox-s-big-layoffs-a-streaming-strategy-that-failed) (Bloomberg)
