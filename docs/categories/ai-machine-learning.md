@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5](https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef) (FT)
+- [Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html?unlocked_article_code=1.3VA.u8aT.vCeLPF02XbEp) (The New York Times)
 - [Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) (CNBC)
 - [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup) (The Verge)
 - [Sources: Anthropic agreed to a $10B deal for computing capacity in Norway from Nvidia-backed AI cloud startup Volta Infra, which says the deal is for six years](https://www.bloomberg.com/news/articles/2026-08-04/anthropic-inks-10-billion-computing-deal-with-new-cloud-startup) (Bloomberg)

@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [AMD acquires Toronto-based Taalas, which integrates model weights directly into silicon with the promise to boost inference performance, for an undisclosed sum](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) (The Register)
+- [Sources: OpenAI's new device, slated for 2027, is a hockey puck-sized smart speaker with moving parts that help give it personality and will likely cost $300+](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg) (Bloomberg)
+- [David Imel: you could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos) (The Verge)
 - [A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months](https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html) (NYTimes)
 
 ### July

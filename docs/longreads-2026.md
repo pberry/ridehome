@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, August 07 2026**
+
+  * [Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html?unlocked_article_code=1.3VA.u8aT.vCeLPF02XbEp) (The New York Times)
+  * [David Imel: you could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos) (The Verge)
+
+
+
 **Friday, July 31 2026**
 
   * [How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals](https://www.bloomberg.com/news/articles/2026-07-24/how-tiktok-creators-earn-midlevel-salaries-with-small-audiences-brand-deals) (Bloomberg)
