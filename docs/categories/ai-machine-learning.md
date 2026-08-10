@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [OpenAI puts the brakes on a new model because it's supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (The Verge)
+- [Meta releases Muse Glimmer, an open-weight model, and plans to launch an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks](https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56?st=cAnRi8) (WSJ)
+- [Online course cheating has accelerated from chatbot-written essays to agents executing commands like "log in and complete my quiz"; major AI tools didn't refuse](https://www.nytimes.com/2026/08/10/us/ai-cheating-threatens-the-value-of-online-degrees.html?unlocked_article_code=1.4VA.HRYd.ZobdZ73IWxnT) (The New York Times)
 - [Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5](https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef) (FT)
 - [Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html?unlocked_article_code=1.3VA.u8aT.vCeLPF02XbEp) (The New York Times)
 - [Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens](https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html) (CNBC)

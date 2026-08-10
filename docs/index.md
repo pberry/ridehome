@@ -3,12 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, August 07, 2026 - A Different Kind Of AI Virus</h3>
+  <h3>Monday, August 10, 2026 - Open AI Needs To Pause?</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?st=RZoDse">Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef">Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344">AMD acquires Toronto-based Taalas, which integrates model weights directly into silicon with the promise to boost inference performance, for an undisclosed sum</a> (The Register) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg">Sources: OpenAI's new device, slated for 2027, is a hockey puck-sized smart speaker with moving parts that help give it personality and will likely cost $300+</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities">OpenAI puts the brakes on a new model because it's supposedly too powerful</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://thezvi.substack.com/p/what-happened-openai-and-huggingface">Zvi Mowshowitz walks the timeline: OpenAI's agents found an Artifactory zero-day on June 26 that went unnoticed until a July 4 outage, and training continued from there</a> (Don't Worry About The Vase) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56?st=cAnRi8">Meta releases Muse Glimmer, an open-weight model, and plans to launch an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/">The iPhone 18 Pro will cost Apple 38% more in parts – but there's some good news</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.nytimes.com/2026/08/10/us/ai-cheating-threatens-the-value-of-online-degrees.html?unlocked_article_code=1.4VA.HRYd.ZobdZ73IWxnT">Online course cheating has accelerated from chatbot-written essays to agents executing commands like "log in and complete my quiz"; major AI tools didn't refuse</a> (The New York Times) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -34,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-07T11:54:27-07:00">August 07, 2026 at 11:54 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-10T11:55:16-07:00">August 10, 2026 at 11:55 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,970</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,975</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,790</span></li>
       </ul>
     </div>
@@ -48,17 +49,17 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(65 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(129 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(66 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(118 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(269 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(117 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(103 links)</span></li>
       </ol>
     </div>

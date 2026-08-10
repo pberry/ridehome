@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, August 10 2026 - Open AI Needs To Pause?**
+
+  * [OpenAI puts the brakes on a new model because it's supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (The Verge)
+  * [Zvi Mowshowitz walks the timeline: OpenAI's agents found an Artifactory zero-day on June 26 that went unnoticed until a July 4 outage, and training continued from there](https://thezvi.substack.com/p/what-happened-openai-and-huggingface) (Don't Worry About The Vase)
+  * [Meta releases Muse Glimmer, an open-weight model, and plans to launch an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks](https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56?st=cAnRi8) (WSJ)
+  * [The iPhone 18 Pro will cost Apple 38% more in parts – but there's some good news](https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/) (9to5Mac)
+  * [Online course cheating has accelerated from chatbot-written essays to agents executing commands like "log in and complete my quiz"; major AI tools didn't refuse](https://www.nytimes.com/2026/08/10/us/ai-cheating-threatens-the-value-of-online-degrees.html?unlocked_article_code=1.4VA.HRYd.ZobdZ73IWxnT) (The New York Times)
+
+
+
 **Friday, August 07 2026 - A Different Kind Of AI Virus**
 
   * [Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?st=RZoDse) (WSJ)
