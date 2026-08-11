@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Anthropic says new Claude models will embed watermarks in generated text and C2PA metadata in files to comply with the EU AI Act, and it will update past models](https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792) (The Register)
+- [Flight tracking platform FlightAware sues Kalshi in New York, alleging Kalshi is using its data without permission to let users bet on flight cancellations](https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?st=UgQU13) (WSJ)
 - [Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?st=RZoDse) (WSJ)
 - [OpenAI drags Apple's lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages) (The Verge)
 - [Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China](https://www.reuters.com/world/china/us-weighs-polysilicon-price-floor-tariffs-counter-china-solar-chips-2026-08-04/) (Reuters)

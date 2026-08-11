@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Zuckerberg's long essay returns to his "open" AI arguments at an opportune time, as Chinese open-weight models are "close enough" to frontier at much less cost](https://spyglass.org/meta-open-ai-muse-glimmer/) (Spyglass)
 - [OpenAI puts the brakes on a new model because it's supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (The Verge)
 - [Meta releases Muse Glimmer, an open-weight model, and plans to launch an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks](https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56?st=cAnRi8) (WSJ)
 - [Online course cheating has accelerated from chatbot-written essays to agents executing commands like "log in and complete my quiz"; major AI tools didn't refuse](https://www.nytimes.com/2026/08/10/us/ai-cheating-threatens-the-value-of-online-degrees.html?unlocked_article_code=1.4VA.HRYd.ZobdZ73IWxnT) (The New York Times)

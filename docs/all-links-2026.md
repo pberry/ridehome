@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, August 11 2026 - Watermarking AI**
+
+  * [Anthropic says new Claude models will embed watermarks in generated text and C2PA metadata in files to comply with the EU AI Act, and it will update past models](https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792) (The Register)
+  * [Sources: Anthropic is courting investors for what could be the biggest IPO yet, touting rapid growth and plans to address mounting public backlash against AI](https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad?st=whk1xw) (WSJ)
+  * [Sources: Apple remains on track to launch a glass-centric design overhaul of the iPhone Pro line in 2027, countering rumors that led Jefferies to downgrade AAPL](https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjQxMjEyOSwiZXhwIjoxNzg3MDE2OTI5LCJhcnRpY2xlSWQiOiJUSktIUzJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.XJjKKAyt833SdTS4pkRxlt1AjGWea1_HY8ykX4Y_V7s) (Bloomberg)
+  * [YouTube says that from February 1, new creators will need double, or 8,000, watch hours over the past year or 20M Shorts views in the past 90 days to earn money](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/) (TechCrunch)
+  * [Zuckerberg's long essay returns to his "open" AI arguments at an opportune time, as Chinese open-weight models are "close enough" to frontier at much less cost](https://spyglass.org/meta-open-ai-muse-glimmer/) (Spyglass)
+  * [Flight tracking platform FlightAware sues Kalshi in New York, alleging Kalshi is using its data without permission to let users bet on flight cancellations](https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?st=UgQU13) (WSJ)
+
+
+
 **Monday, August 10 2026 - Open AI Needs To Pause?**
 
   * [OpenAI puts the brakes on a new model because it's supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (The Verge)
