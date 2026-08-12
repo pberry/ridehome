@@ -3,14 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, August 11, 2026 - Watermarking AI</h3>
+  <h3>Wednesday, August 12, 2026 - New Pixels</h3>
   <ul>
-    <li><a href="https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792">Anthropic says new Claude models will embed watermarks in generated text and C2PA metadata in files to comply with the EU AI Act, and it will update past models</a> (The Register) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad?st=whk1xw">Sources: Anthropic is courting investors for what could be the biggest IPO yet, touting rapid growth and plans to address mounting public backlash against AI</a> (WSJ) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjQxMjEyOSwiZXhwIjoxNzg3MDE2OTI5LCJhcnRpY2xlSWQiOiJUSktIUzJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.XJjKKAyt833SdTS4pkRxlt1AjGWea1_HY8ykX4Y_V7s">Sources: Apple remains on track to launch a glass-centric design overhaul of the iPhone Pro line in 2027, countering rumors that led Jefferies to downgrade AAPL</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/">YouTube says that from February 1, new creators will need double, or 8,000, watch hours over the past year or 20M Shorts views in the past 90 days to earn money</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://spyglass.org/meta-open-ai-muse-glimmer/">Zuckerberg's long essay returns to his "open" AI arguments at an opportune time, as Chinese open-weight models are "close enough" to frontier at much less cost</a> (Spyglass) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?st=UgQU13">Flight tracking platform FlightAware sues Kalshi in New York, alleging Kalshi is using its data without permission to let users bet on flight cancellations</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/">Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/">Google unveils the $1,899+ Pixel 11 Pro Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch">Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://x.ai/news/grok-4-6">SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens</a> (SpaceXAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/">Grok 4.6 is built for long-running agents, coding, and knowledge work, beating Grok 4.5 on CursorBench, FrontierCode, APEX-Agents, and Terminal-Bench, out today via Cursor, OpenRouter, and Vercel</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-11T13:50:07-07:00">August 11, 2026 at 01:50 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-12T11:59:45-07:00">August 12, 2026 at 11:59 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,981</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,986</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,790</span></li>
       </ul>
     </div>
@@ -51,7 +50,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(130 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
@@ -59,9 +58,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(266 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(268 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(119 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
       </ol>
     </div>
   </div>

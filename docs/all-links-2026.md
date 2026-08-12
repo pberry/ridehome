@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, August 12 2026 - New Pixels**
+
+  * [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) (TechCrunch)
+  * [Google unveils the $1,899+ Pixel 11 Pro Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera](https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/) (Engadget)
+  * [Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends](https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch) (The Verge)
+  * [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens](https://x.ai/news/grok-4-6) (SpaceXAI)
+  * [Grok 4.6 is built for long-running agents, coding, and knowledge work, beating Grok 4.5 on CursorBench, FrontierCode, APEX-Agents, and Terminal-Bench, out today via Cursor, OpenRouter, and Vercel](https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/) (9to5Mac)
+
+
+
 **Tuesday, August 11 2026 - Watermarking AI**
 
   * [Anthropic says new Claude models will embed watermarks in generated text and C2PA metadata in files to comply with the EU AI Act, and it will update past models](https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792) (The Register)

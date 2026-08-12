@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) (TechCrunch)
+- [Google unveils the $1,899+ Pixel 11 Pro Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera](https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/) (Engadget)
+- [Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends](https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch) (The Verge)
 - [Sources: Apple remains on track to launch a glass-centric design overhaul of the iPhone Pro line in 2027, countering rumors that led Jefferies to downgrade AAPL](https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjQxMjEyOSwiZXhwIjoxNzg3MDE2OTI5LCJhcnRpY2xlSWQiOiJUSktIUzJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.XJjKKAyt833SdTS4pkRxlt1AjGWea1_HY8ykX4Y_V7s) (Bloomberg)
 - [The iPhone 18 Pro will cost Apple 38% more in parts – but there's some good news](https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/) (9to5Mac)
 - [AMD acquires Toronto-based Taalas, which integrates model weights directly into silicon with the promise to boost inference performance, for an undisclosed sum](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) (The Register)

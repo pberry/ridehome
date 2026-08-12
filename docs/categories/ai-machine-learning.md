@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens](https://x.ai/news/grok-4-6) (SpaceXAI)
+- [Grok 4.6 is built for long-running agents, coding, and knowledge work, beating Grok 4.5 on CursorBench, FrontierCode, APEX-Agents, and Terminal-Bench, out today via Cursor, OpenRouter, and Vercel](https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/) (9to5Mac)
 - [Zuckerberg's long essay returns to his "open" AI arguments at an opportune time, as Chinese open-weight models are "close enough" to frontier at much less cost](https://spyglass.org/meta-open-ai-muse-glimmer/) (Spyglass)
 - [OpenAI puts the brakes on a new model because it's supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities) (The Verge)
 - [Meta releases Muse Glimmer, an open-weight model, and plans to launch an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks](https://www.wsj.com/tech/ai/mark-zuckerberg-lays-out-new-ai-vision-in-6-500-word-essay-966e9a56?st=cAnRi8) (WSJ)
