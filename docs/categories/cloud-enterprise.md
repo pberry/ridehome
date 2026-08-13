@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate](https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html) (CNBC)
 - [Sources: Google researchers are frustrated over compute access as Cloud sells TPUs to rivals like Anthropic, amid an exodus that now includes all eight "Attention Is All You Need" authors](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html) (CNBC)
 
 ### July

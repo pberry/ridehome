@@ -3,13 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, August 12, 2026 - New Pixels</h3>
+  <h3>Thursday, August 13, 2026 - AI 50% Off!</h3>
   <ul>
-    <li><a href="https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/">Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/">Google unveils the $1,899+ Pixel 11 Pro Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch">Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://x.ai/news/grok-4-6">SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens</a> (SpaceXAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/">Grok 4.6 is built for long-running agents, coding, and knowledge work, beating Grok 4.5 on CursorBench, FrontierCode, APEX-Agents, and Terminal-Bench, out today via Cursor, OpenRouter, and Vercel</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut">Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/">OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYwMjQzMywiZXhwIjoxNzg3MjA3MjMzLCJhcnRpY2xlSWQiOiJUSk9QM0hLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJGNDJDMzlEM0JBNjY0NkQ0ODdDNTI0NzM1QjQ2OTExMyJ9.numdJnKP-sXa3qzd_-fCDfuNsY61ZpPAV_crbprM4Ek">President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?accessToken=zwAAAZ_6yHO9kdOECsFWrxxKgtOyYK55EHL8-g.MEUCIQDUzeMiGW6UboFtYr2F_Llwge2IB8ubdmWZVqeD-dEI2gIgQmlsOPTronqbAHY24gjsyrrdmBKBLz0uGHiKPRMhYdU&sharetype=gift&token=fa2b9bb8-393a-4cee-8a73-6a5864cb21fd">Sources: Anthropic's investors expect it to float at a $2T+ valuation in an October IPO and to hit $100B to $120B in annualized revenue by the end of 2026</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/">Ramp data: Fable 5 drew just 6% of Anthropic's API tokens in its first month and 75% of GPT-5.6 Sol's model revenue, suggesting corporate willingness to pay for frontier AI has hit a ceiling</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html">Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate</a> (CNBC) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/">Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI content models and adds a setting for creators to opt out</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -35,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-12T11:59:45-07:00">August 12, 2026 at 11:59 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-13T13:48:19-07:00">August 13, 2026 at 01:48 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,986</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,993</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,790</span></li>
       </ul>
     </div>
@@ -49,7 +51,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(130 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(66 links)</span></li>
       </ol>
@@ -58,8 +60,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(265 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(119 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(269 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(120 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
       </ol>
     </div>

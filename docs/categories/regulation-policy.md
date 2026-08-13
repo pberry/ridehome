@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans](https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYwMjQzMywiZXhwIjoxNzg3MjA3MjMzLCJhcnRpY2xlSWQiOiJUSk9QM0hLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJGNDJDMzlEM0JBNjY0NkQ0ODdDNTI0NzM1QjQ2OTExMyJ9.numdJnKP-sXa3qzd_-fCDfuNsY61ZpPAV_crbprM4Ek) (Bloomberg)
 - [Anthropic says new Claude models will embed watermarks in generated text and C2PA metadata in files to comply with the EU AI Act, and it will update past models](https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792) (The Register)
 - [Flight tracking platform FlightAware sues Kalshi in New York, alleging Kalshi is using its data without permission to let users bet on flight cancellations](https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?st=UgQU13) (WSJ)
 - [Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media](https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?st=RZoDse) (WSJ)

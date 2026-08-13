@@ -9,6 +9,10 @@ layout: category
 
 ### August
 
+- [Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut) (VentureBeat)
+- [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second](https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/) (9to5Mac)
+- [Ramp data: Fable 5 drew just 6% of Anthropic's API tokens in its first month and 75% of GPT-5.6 Sol's model revenue, suggesting corporate willingness to pay for frontier AI has hit a ceiling](https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/) (The Decoder)
+- [Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI content models and adds a setting for creators to opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/) (TechCrunch)
 - [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens](https://x.ai/news/grok-4-6) (SpaceXAI)
 - [Grok 4.6 is built for long-running agents, coding, and knowledge work, beating Grok 4.5 on CursorBench, FrontierCode, APEX-Agents, and Terminal-Bench, out today via Cursor, OpenRouter, and Vercel](https://9to5mac.com/2026/08/12/spacexai-releases-grok-4-6/) (9to5Mac)
 - [Zuckerberg's long essay returns to his "open" AI arguments at an opportune time, as Chinese open-weight models are "close enough" to frontier at much less cost](https://spyglass.org/meta-open-ai-muse-glimmer/) (Spyglass)

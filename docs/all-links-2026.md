@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, August 13 2026 - AI 50% Off!**
+
+  * [Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut) (VentureBeat)
+  * [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second](https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/) (9to5Mac)
+  * [President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans](https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYwMjQzMywiZXhwIjoxNzg3MjA3MjMzLCJhcnRpY2xlSWQiOiJUSk9QM0hLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJGNDJDMzlEM0JBNjY0NkQ0ODdDNTI0NzM1QjQ2OTExMyJ9.numdJnKP-sXa3qzd_-fCDfuNsY61ZpPAV_crbprM4Ek) (Bloomberg)
+  * [Sources: Anthropic's investors expect it to float at a $2T+ valuation in an October IPO and to hit $100B to $120B in annualized revenue by the end of 2026](https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?accessToken=zwAAAZ_6yHO9kdOECsFWrxxKgtOyYK55EHL8-g.MEUCIQDUzeMiGW6UboFtYr2F_Llwge2IB8ubdmWZVqeD-dEI2gIgQmlsOPTronqbAHY24gjsyrrdmBKBLz0uGHiKPRMhYdU&sharetype=gift&token=fa2b9bb8-393a-4cee-8a73-6a5864cb21fd) (FT)
+  * [Ramp data: Fable 5 drew just 6% of Anthropic's API tokens in its first month and 75% of GPT-5.6 Sol's model revenue, suggesting corporate willingness to pay for frontier AI has hit a ceiling](https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/) (The Decoder)
+  * [Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate](https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html) (CNBC)
+  * [Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI content models and adds a setting for creators to opt out](https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/) (TechCrunch)
+
+
+
 **Wednesday, August 12 2026 - New Pixels**
 
   * [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) (TechCrunch)
