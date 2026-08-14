@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [In Q2, "other income", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits](https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da) (WSJ)
 - [Sources: Demis Hassabis had been drifting away from Google DeepMind CEO day-to-day duties for at least a year and struggled to get satisfaction out of the role](https://www.semafor.com/article/08/05/2026/demis-hassabis-was-shifting-away-from-deepmind-ceo-duties-for-a-year) (Semafor)
 - [SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., AI operating loss of $1.26B, vs. $2.39B est., says capex in Q3 and Q4 will remain similar to Q2](https://www.bloomberg.com/news/articles/2026-08-04/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo) (Bloomberg)
 

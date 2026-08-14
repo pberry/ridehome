@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, August 14 2026 - The Model A Day Podcast**
+
+  * [China's Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool](https://www.theinformation.com/briefings/chinas-z-ai-touts-new-glm-5-3-model-cyber-defense-tool?rc=i9gkgs) (The Information)
+  * [DeepSeek releases its flagship V4-Pro model to mixed reviews, ranking second among open-source models behind Kimi K3, priced at just $0.435/1M input and $0.87/1M output tokens](https://www.theinformation.com/briefings/deepseek-releases-flagship-v4-pro-model-challenge-kimi-k3?rc=i9gkgs) (The Information)
+  * [OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use](https://thenewstack.io/openai-chatgpt-computer-history/) (The New Stack)
+  * [In Q2, "other income", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits](https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da) (WSJ)
+
+
+
 **Thursday, August 13 2026 - AI 50% Off!**
 
   * [Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut) (VentureBeat)

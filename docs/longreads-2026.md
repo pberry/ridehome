@@ -10,6 +10,14 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, August 14 2026**
+
+  * [Anthropic details multiagent experiments showing Claude agents can wage a "turf war" over incompatible goals, fail to coordinate, collude on prices, and more](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/) (TechCrunch)
+  * [The AI takeover of mathematics has begun: excitement and despair as OpenAI's Astra cracks problems that would once have earned a mathematician a job in academia](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun) (The Verge)
+  * [Picking winners in an AI industrial revolution is near impossible, but one bet looks safe: land, which AI can't create or replace, and the workers who turn it into housing](https://thedispatch.com/newsletter/dispatch-markets/artificial-intelligence-winners-losers-land-housing/) (The Dispatch)
+
+
+
 **Friday, August 07 2026**
 
   * [Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans](https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html?unlocked_article_code=1.3VA.u8aT.vCeLPF02XbEp) (The New York Times)

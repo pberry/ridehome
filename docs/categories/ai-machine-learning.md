@@ -9,6 +9,12 @@ layout: category
 
 ### August
 
+- [China's Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool](https://www.theinformation.com/briefings/chinas-z-ai-touts-new-glm-5-3-model-cyber-defense-tool?rc=i9gkgs) (The Information)
+- [DeepSeek releases its flagship V4-Pro model to mixed reviews, ranking second among open-source models behind Kimi K3, priced at just $0.435/1M input and $0.87/1M output tokens](https://www.theinformation.com/briefings/deepseek-releases-flagship-v4-pro-model-challenge-kimi-k3?rc=i9gkgs) (The Information)
+- [OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use](https://thenewstack.io/openai-chatgpt-computer-history/) (The New Stack)
+- [Anthropic details multiagent experiments showing Claude agents can wage a "turf war" over incompatible goals, fail to coordinate, collude on prices, and more](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/) (TechCrunch)
+- [The AI takeover of mathematics has begun: excitement and despair as OpenAI's Astra cracks problems that would once have earned a mathematician a job in academia](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun) (The Verge)
+- [Picking winners in an AI industrial revolution is near impossible, but one bet looks safe: land, which AI can't create or replace, and the workers who turn it into housing](https://thedispatch.com/newsletter/dispatch-markets/artificial-intelligence-winners-losers-land-housing/) (The Dispatch)
 - [Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut](https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut) (VentureBeat)
 - [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second](https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/) (9to5Mac)
 - [Ramp data: Fable 5 drew just 6% of Anthropic's API tokens in its first month and 75% of GPT-5.6 Sol's model revenue, suggesting corporate willingness to pay for frontier AI has hit a ceiling](https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/) (The Decoder)

@@ -3,15 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, August 13, 2026 - AI 50% Off!</h3>
+  <h3>Friday, August 14, 2026 - The Model A Day Podcast</h3>
   <ul>
-    <li><a href="https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut">Google's Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/">OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYwMjQzMywiZXhwIjoxNzg3MjA3MjMzLCJhcnRpY2xlSWQiOiJUSk9QM0hLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJGNDJDMzlEM0JBNjY0NkQ0ODdDNTI0NzM1QjQ2OTExMyJ9.numdJnKP-sXa3qzd_-fCDfuNsY61ZpPAV_crbprM4Ek">President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?accessToken=zwAAAZ_6yHO9kdOECsFWrxxKgtOyYK55EHL8-g.MEUCIQDUzeMiGW6UboFtYr2F_Llwge2IB8ubdmWZVqeD-dEI2gIgQmlsOPTronqbAHY24gjsyrrdmBKBLz0uGHiKPRMhYdU&sharetype=gift&token=fa2b9bb8-393a-4cee-8a73-6a5864cb21fd">Sources: Anthropic's investors expect it to float at a $2T+ valuation in an October IPO and to hit $100B to $120B in annualized revenue by the end of 2026</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/">Ramp data: Fable 5 drew just 6% of Anthropic's API tokens in its first month and 75% of GPT-5.6 Sol's model revenue, suggesting corporate willingness to pay for frontier AI has hit a ceiling</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html">Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate</a> (CNBC) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/">Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI content models and adds a setting for creators to opt out</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/briefings/chinas-z-ai-touts-new-glm-5-3-model-cyber-defense-tool?rc=i9gkgs">China's Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/briefings/deepseek-releases-flagship-v4-pro-model-challenge-kimi-k3?rc=i9gkgs">DeepSeek releases its flagship V4-Pro model to mixed reviews, ranking second among open-source models behind Kimi K3, priced at just $0.435/1M input and $0.87/1M output tokens</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://thenewstack.io/openai-chatgpt-computer-history/">OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use</a> (The New Stack) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da">In Q2, "other income", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -37,14 +34,14 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-13T13:48:19-07:00">August 13, 2026 at 01:48 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-14T11:52:10-07:00">August 14, 2026 at 11:52 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,993</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,790</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,997</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,793</span></li>
       </ul>
     </div>
 
@@ -52,15 +49,15 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(66 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(269 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(120 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
       </ol>
