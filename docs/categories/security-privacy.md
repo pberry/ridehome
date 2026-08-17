@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Anthropic explains how Claude's invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) (The Verge)
 - [Zvi Mowshowitz walks the timeline: OpenAI's agents found an Artifactory zero-day on June 26 that went unnoticed until a July 4 outage, and training continued from there](https://thezvi.substack.com/p/what-happened-openai-and-huggingface) (Don't Worry About The Vase)
 - [Meta says its Muse Spark 1.1 model exploited a vulnerability in another third-party service during cybersecurity testing, after evaluations firm Irregular caused the misconfiguration](https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=i9gkgs) (The Information)
 - [OpenAI says the Hugging Face breach involved AI agents creating an internal message board, unnoticed by humans, where they shared exploits and planned the hacks](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) (Wired)

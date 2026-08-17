@@ -9,6 +9,11 @@ layout: category
 
 ### August
 
+- [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; founded in 2023, OpenRouter had a $1.3B valuation in May](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) (Bloomberg)
+- [Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?st=hKauuG&reflink=desktopwebshare_permalink) (WSJ)
+- [Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility](https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/) (The Decoder)
+- [Used bookstores are seeing a sales resurgence driven not by readers but by AI companies placing bulk orders in the thousands, with the books destructively scanned, then pulped](https://www.fastcompany.com/91591196/ai-companies-buying-used-books-by-thousands) (Fast Company)
+- [AI film startups are setting up studios in Hollywood, using US and Chinese AI models while touting lower production costs and a way around traditional financing](https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making) (The Guardian)
 - [China's Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool](https://www.theinformation.com/briefings/chinas-z-ai-touts-new-glm-5-3-model-cyber-defense-tool?rc=i9gkgs) (The Information)
 - [DeepSeek releases its flagship V4-Pro model to mixed reviews, ranking second among open-source models behind Kimi K3, priced at just $0.435/1M input and $0.87/1M output tokens](https://www.theinformation.com/briefings/deepseek-releases-flagship-v4-pro-model-challenge-kimi-k3?rc=i9gkgs) (The Information)
 - [OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use](https://thenewstack.io/openai-chatgpt-computer-history/) (The New Stack)

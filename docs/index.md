@@ -3,12 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, August 14, 2026 - The Model A Day Podcast</h3>
+  <h3>Monday, August 17, 2026 - Is It Ironic If Amazon Is Shredding Books?</h3>
   <ul>
-    <li><a href="https://www.theinformation.com/briefings/chinas-z-ai-touts-new-glm-5-3-model-cyber-defense-tool?rc=i9gkgs">China's Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/briefings/deepseek-releases-flagship-v4-pro-model-challenge-kimi-k3?rc=i9gkgs">DeepSeek releases its flagship V4-Pro model to mixed reviews, ranking second among open-source models behind Kimi K3, priced at just $0.435/1M input and $0.87/1M output tokens</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://thenewstack.io/openai-chatgpt-computer-history/">OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use</a> (The New Stack) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da">In Q2, "other income", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion">Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; founded in 2023, OpenRouter had a $1.3B valuation in May</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c?st=KE3CJC&reflink=desktopwebshare_permalink">OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center</a> (WSJ) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?st=hKauuG&reflink=desktopwebshare_permalink">Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system">Anthropic explains how Claude's invisible text watermarks will work</a> (The Verge) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/">Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.fastcompany.com/91591196/ai-companies-buying-used-books-by-thousands">Used bookstores are seeing a sales resurgence driven not by readers but by AI companies placing bulk orders in the thousands, with the books destructively scanned, then pulped</a> (Fast Company) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making">AI film startups are setting up studios in Hollywood, using US and Chinese AI models while touting lower production costs and a way around traditional financing</a> (The Guardian) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -34,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-14T11:52:10-07:00">August 14, 2026 at 11:52 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-17T11:36:38-07:00">August 17, 2026 at 11:36 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">12,997</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,004</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,793</span></li>
       </ul>
     </div>
@@ -49,8 +52,8 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
 
@@ -58,8 +61,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(120 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(118 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(102 links)</span></li>
       </ol>
     </div>
   </div>

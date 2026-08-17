@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, August 17 2026 - Is It Ironic If Amazon Is Shredding Books?**
+
+  * [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; founded in 2023, OpenRouter had a $1.3B valuation in May](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) (Bloomberg)
+  * [OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center](https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c?st=KE3CJC&reflink=desktopwebshare_permalink) (WSJ)
+  * [Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?st=hKauuG&reflink=desktopwebshare_permalink) (WSJ)
+  * [Anthropic explains how Claude's invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) (The Verge)
+  * [Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility](https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/) (The Decoder)
+  * [Used bookstores are seeing a sales resurgence driven not by readers but by AI companies placing bulk orders in the thousands, with the books destructively scanned, then pulped](https://www.fastcompany.com/91591196/ai-companies-buying-used-books-by-thousands) (Fast Company)
+  * [AI film startups are setting up studios in Hollywood, using US and Chinese AI models while touting lower production costs and a way around traditional financing](https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making) (The Guardian)
+
+
+
 **Friday, August 14 2026 - The Model A Day Podcast**
 
   * [China's Z.ai Touts New GLM-5.3 Model as Cyber Defense Tool](https://www.theinformation.com/briefings/chinas-z-ai-touts-new-glm-5-3-model-cyber-defense-tool?rc=i9gkgs) (The Information)
