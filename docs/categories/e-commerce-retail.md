@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including Chicago and Atlanta by 2026's end](https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta) (Bloomberg)
+
 ### July
 
 - [How TikTok, Reels, and Amazon storefronts enabled microinfluencers with less than 100K followers to earn middle-class salaries via brand and affiliate deals](https://www.bloomberg.com/news/articles/2026-07-24/how-tiktok-creators-earn-midlevel-salaries-with-small-audiences-brand-deals) (Bloomberg)

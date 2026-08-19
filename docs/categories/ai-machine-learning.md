@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [OpenAI debuts ChatGPT for Teens, a mode that limits high-risk chats about self-harm, eating disorders, violence, and more, and has studying tools and guardrails](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html?unlocked_article_code=1.6VA.GaVj.3sd9HfSfzbpl) (The New York Times)
+- [Alibaba says its new open-source multimodal model, Qwen3.8-27B, passed 1M+ downloads within a few days of release, making it one of its fastest-growing models](https://www.theinformation.com/briefings/alibabas-small-device-model-gains-traction?rc=i9gkgs) (The Information)
+- [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3](https://www.businessinsider.com/harvey-builds-tenet-ai-model-for-legal-work-2026-8) (Business Insider)
 - [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; founded in 2023, OpenRouter had a $1.3B valuation in May](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) (Bloomberg)
 - [Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex](https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?st=hKauuG&reflink=desktopwebshare_permalink) (WSJ)
 - [Investigation: Amazon is buying huge quantities of rare books, scanning them for AI, and destroying them; a tracked Biblio order went to its Las Vegas facility](https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/) (The Decoder)

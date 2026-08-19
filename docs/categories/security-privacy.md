@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold](https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework) (Axios)
+- [AirPods Ultra with cameras just leaked in video — and the privacy debate has already started](https://www.tomsguide.com/audio/airpods/airpods-ultra-with-cameras-just-appeared-in-leaked-video-and-the-privacy-debate-has-already-started) (Tom's Guide)
+- [Comcast is rolling out Wi-Fi motion sensing to its Xfinity XB7 and newer gateways, a free opt-in feature that enables its routers to detect movement at home](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing) (The Verge)
 - [Anthropic explains how Claude's invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) (The Verge)
 - [Zvi Mowshowitz walks the timeline: OpenAI's agents found an Artifactory zero-day on June 26 that went unnoticed until a July 4 outage, and training continued from there](https://thezvi.substack.com/p/what-happened-openai-and-huggingface) (Don't Worry About The Vase)
 - [Meta says its Muse Spark 1.1 model exploited a vulnerability in another third-party service during cybersecurity testing, after evaluations firm Irregular caused the misconfiguration](https://www.theinformation.com/articles/meta-ai-model-hacked-another-company-cybersecurity-testing?rc=i9gkgs) (The Information)

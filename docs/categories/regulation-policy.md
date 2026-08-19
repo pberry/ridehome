@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [In opening arguments, US state AGs say that Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejects the claims](https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/) (Reuters)
+- [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission) (The Verge)
 - [President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans](https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYwMjQzMywiZXhwIjoxNzg3MjA3MjMzLCJhcnRpY2xlSWQiOiJUSk9QM0hLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJGNDJDMzlEM0JBNjY0NkQ0ODdDNTI0NzM1QjQ2OTExMyJ9.numdJnKP-sXa3qzd_-fCDfuNsY61ZpPAV_crbprM4Ek) (Bloomberg)
 - [Anthropic says new Claude models will embed watermarks in generated text and C2PA metadata in files to comply with the EU AI Act, and it will update past models](https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792) (The Register)
 - [Flight tracking platform FlightAware sues Kalshi in New York, alleging Kalshi is using its data without permission to let users bet on flight cancellations](https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?st=UgQU13) (WSJ)

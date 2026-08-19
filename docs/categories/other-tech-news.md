@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [Sources: OpenAI's Q2 sales grew 18% QoQ to $6.7B as its losses widened from $9.3B to $12.3B; Anthropic's sales grew 2x+ to $11.6B, with a small operating profit](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998?st=6RaD3h&reflink=desktopwebshare_permalink) (WSJ)
+- [Sources: Anthropic's revenue run rate reached $65B by the end of July, up from $47B in May 2026, $19B in March 2026, $9B in December 2025, and $4B in July 2025](https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo) (Bloomberg)
+- [Sources: Anthropic prepares to give its co-founders shares with extra voting power to help insulate them from outside pressure; Amodei owns ~2% of Anthropic](https://www.theinformation.com/articles/anthropic-prepares-supervoting-power-founders-readies-mega-ipo?rc=i9gkgs) (The Information)
 - [In Q2, "other income", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits](https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da) (WSJ)
 - [Sources: Demis Hassabis had been drifting away from Google DeepMind CEO day-to-day duties for at least a year and struggled to get satisfaction out of the role](https://www.semafor.com/article/08/05/2026/demis-hassabis-was-shifting-away-from-deepmind-ceo-duties-for-a-year) (Semafor)
 - [SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., AI operating loss of $1.26B, vs. $2.39B est., says capex in Q3 and Q4 will remain similar to Q2](https://www.bloomberg.com/news/articles/2026-08-04/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo) (Bloomberg)

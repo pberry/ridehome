@@ -5,6 +5,28 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, August 19 2026 - Anthropic Doing 2x OpenAI?**
+
+  * [OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold](https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework) (Axios)
+  * [Sources: OpenAI's Q2 sales grew 18% QoQ to $6.7B as its losses widened from $9.3B to $12.3B; Anthropic's sales grew 2x+ to $11.6B, with a small operating profit](https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998?st=6RaD3h&reflink=desktopwebshare_permalink) (WSJ)
+  * [Sources: Anthropic's revenue run rate reached $65B by the end of July, up from $47B in May 2026, $19B in March 2026, $9B in December 2025, and $4B in July 2025](https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo) (Bloomberg)
+  * [Sources: Anthropic prepares to give its co-founders shares with extra voting power to help insulate them from outside pressure; Amodei owns ~2% of Anthropic](https://www.theinformation.com/articles/anthropic-prepares-supervoting-power-founders-readies-mega-ipo?rc=i9gkgs) (The Information)
+  * [Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including Chicago and Atlanta by 2026's end](https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta) (Bloomberg)
+  * [In opening arguments, US state AGs say that Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejects the claims](https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/) (Reuters)
+
+
+
+**Tuesday, August 18 2026 - Video AirPods**
+
+  * [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission) (The Verge)
+  * [AirPods Ultra with cameras just leaked in video — and the privacy debate has already started](https://www.tomsguide.com/audio/airpods/airpods-ultra-with-cameras-just-appeared-in-leaked-video-and-the-privacy-debate-has-already-started) (Tom's Guide)
+  * [OpenAI debuts ChatGPT for Teens, a mode that limits high-risk chats about self-harm, eating disorders, violence, and more, and has studying tools and guardrails](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html?unlocked_article_code=1.6VA.GaVj.3sd9HfSfzbpl) (The New York Times)
+  * [Comcast is rolling out Wi-Fi motion sensing to its Xfinity XB7 and newer gateways, a free opt-in feature that enables its routers to detect movement at home](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing) (The Verge)
+  * [Alibaba says its new open-source multimodal model, Qwen3.8-27B, passed 1M+ downloads within a few days of release, making it one of its fastest-growing models](https://www.theinformation.com/briefings/alibabas-small-device-model-gains-traction?rc=i9gkgs) (The Information)
+  * [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3](https://www.businessinsider.com/harvey-builds-tenet-ai-model-for-legal-work-2026-8) (Business Insider)
+
+
+
 **Monday, August 17 2026 - Is It Ironic If Amazon Is Shredding Books?**
 
   * [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; founded in 2023, OpenRouter had a $1.3B valuation in May](https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion) (Bloomberg)
