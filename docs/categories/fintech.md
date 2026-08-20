@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Stripe agrees to acquire NYC-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup's founders and $6B to its investors](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html?unlocked_article_code=1.6lA.2MXh.NnXWDY7Ni-ki) (The New York Times)
+
 ### July
 
 - [Sources: Stripe and Advent's unsolicited $53B PayPal offer, backed by ~$50B in committed bank financing, would create a payments giant processing ~$3.7T annually; PayPal has not responded](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) (Reuters)

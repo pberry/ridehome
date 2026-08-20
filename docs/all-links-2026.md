@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, August 20 2026 - Tokens As The New Currency?**
+
+  * [Stripe agrees to acquire NYC-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup's founders and $6B to its investors](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html?unlocked_article_code=1.6lA.2MXh.NnXWDY7Ni-ki) (The New York Times)
+  * [Collison frames tokens as the central currency for companies building with AI, capping two years of Stripe buying the plumbing under AI spending, from Metronome to Bridge](https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/) (SiliconANGLE)
+  * [Hangzhou-based humanoid robot maker Unitree's stock surges 460% in its Shanghai trading debut, giving it a $50B+ market cap, after it raised ~$904M in its IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo) (Bloomberg)
+  * [Unitree says its new "Superman" humanoid can hit 12.66 meters per second, faster than Usain Bolt's top speed, and leap two meters, ahead of the World Humanoid Robot Games](https://futurism.com/robots-and-machines/unitrees-new-robot-can-sprint-faster-than-usain-bolt) (Futurism)
+  * [The 30-second video of Unitree's "Superman" robot jumping and sprinting down a track](https://x.com/UnitreeRobotics/status/2089240553682809175) (Unitree Robotics on X)
+  * [Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently](https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj) (Bloomberg)
+  * [Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents "like teammates" across all Slack plans](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch) (The Verge)
+  * [Binance launches Agent OS, a platform that lets AI agents analyze markets and execute trades on users' behalf; users set limits on AI agents' access and trades](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) (TechCrunch)
+
+
+
 **Wednesday, August 19 2026 - Anthropic Doing 2x OpenAI?**
 
   * [OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold](https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework) (Axios)

@@ -3,14 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, August 19, 2026 - Anthropic Doing 2x OpenAI?</h3>
+  <h3>Thursday, August 20, 2026 - Tokens As The New Currency?</h3>
   <ul>
-    <li><a href="https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework">OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold</a> (Axios) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998?st=6RaD3h&reflink=desktopwebshare_permalink">Sources: OpenAI's Q2 sales grew 18% QoQ to $6.7B as its losses widened from $9.3B to $12.3B; Anthropic's sales grew 2x+ to $11.6B, with a small operating profit</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo">Sources: Anthropic's revenue run rate reached $65B by the end of July, up from $47B in May 2026, $19B in March 2026, $9B in December 2025, and $4B in July 2025</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.theinformation.com/articles/anthropic-prepares-supervoting-power-founders-readies-mega-ipo?rc=i9gkgs">Sources: Anthropic prepares to give its co-founders shares with extra voting power to help insulate them from outside pressure; Amodei owns ~2% of Anthropic</a> (The Information) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta">Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including Chicago and Atlanta by 2026's end</a> (Bloomberg) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/">In opening arguments, US state AGs say that Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejects the claims</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html?unlocked_article_code=1.6lA.2MXh.NnXWDY7Ni-ki">Stripe agrees to acquire NYC-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup's founders and $6B to its investors</a> (The New York Times) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/">Collison frames tokens as the central currency for companies building with AI, capping two years of Stripe buying the plumbing under AI spending, from Metronome to Bridge</a> (SiliconANGLE) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo">Hangzhou-based humanoid robot maker Unitree's stock surges 460% in its Shanghai trading debut, giving it a $50B+ market cap, after it raised ~$904M in its IPO</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://futurism.com/robots-and-machines/unitrees-new-robot-can-sprint-faster-than-usain-bolt">Unitree says its new "Superman" humanoid can hit 12.66 meters per second, faster than Usain Bolt's top speed, and leap two meters, ahead of the World Humanoid Robot Games</a> (Futurism) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://x.com/UnitreeRobotics/status/2089240553682809175">The 30-second video of Unitree's "Superman" robot jumping and sprinting down a track</a> (Unitree Robotics on X) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj">Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently</a> (Bloomberg) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch">Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents "like teammates" across all Slack plans</a> (The Verge) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/">Binance launches Agent OS, a platform that lets AI agents analyze markets and execute trades on users' behalf; users set limits on AI agents' access and trades</a> (TechCrunch) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
   </ul>
 </section>
 
@@ -36,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-19T11:32:57-07:00">August 19, 2026 at 11:32 AM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-20T11:36:32-07:00">August 20, 2026 at 11:36 AM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,016</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,024</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,793</span></li>
       </ul>
     </div>
@@ -50,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(129 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
@@ -59,9 +61,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(120 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(100 links)</span></li>
       </ol>
     </div>
   </div>

@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Unitree says its new "Superman" humanoid can hit 12.66 meters per second, faster than Usain Bolt's top speed, and leap two meters, ahead of the World Humanoid Robot Games](https://futurism.com/robots-and-machines/unitrees-new-robot-can-sprint-faster-than-usain-bolt) (Futurism)
+- [The 30-second video of Unitree's "Superman" robot jumping and sprinting down a track](https://x.com/UnitreeRobotics/status/2089240553682809175) (Unitree Robotics on X)
 - [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) (TechCrunch)
 - [Google unveils the $1,899+ Pixel 11 Pro Fold, with a stronger hinge, inner and outer displays that are 20% brighter, Tensor G6 chip, and an updated 48MP camera](https://www.engadget.com/2235151/this-is-the-1900-google-pixel-11-pro-fold/) (Engadget)
 - [Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends](https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch) (The Verge)

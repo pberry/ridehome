@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Collison frames tokens as the central currency for companies building with AI, capping two years of Stripe buying the plumbing under AI spending, from Metronome to Bridge](https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/) (SiliconANGLE)
 - [OpenAI debuts ChatGPT for Teens, a mode that limits high-risk chats about self-harm, eating disorders, violence, and more, and has studying tools and guardrails](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html?unlocked_article_code=1.6VA.GaVj.3sd9HfSfzbpl) (The New York Times)
 - [Alibaba says its new open-source multimodal model, Qwen3.8-27B, passed 1M+ downloads within a few days of release, making it one of its fastest-growing models](https://www.theinformation.com/briefings/alibabas-small-device-model-gains-traction?rc=i9gkgs) (The Information)
 - [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3](https://www.businessinsider.com/harvey-builds-tenet-ai-model-for-legal-work-2026-8) (Business Insider)

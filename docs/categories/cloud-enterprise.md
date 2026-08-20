@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents "like teammates" across all Slack plans](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch) (The Verge)
 - [OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center](https://www.wsj.com/articles/openai-locks-in-lease-for-huge-data-center-in-ohio-with-backing-from-nvidia-7474bb9c?st=KE3CJC&reflink=desktopwebshare_permalink) (WSJ)
 - [Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate](https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html) (CNBC)
 - [Sources: Google researchers are frustrated over compute access as Cloud sells TPUs to rivals like Anthropic, amid an exodus that now includes all eight "Attention Is All You Need" authors](https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html) (CNBC)

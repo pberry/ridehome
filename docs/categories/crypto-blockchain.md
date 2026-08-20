@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Binance launches Agent OS, a platform that lets AI agents analyze markets and execute trades on users' behalf; users set limits on AI agents' access and trades](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) (TechCrunch)
+
 ### July
 
 - [Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront](https://www.bloomberg.com/news/articles/2026-07-09/polymarket-seeks-license-to-offer-margin-trading-legally-in-us) (Bloomberg)
