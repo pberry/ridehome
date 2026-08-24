@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [President Trump says communities that oppose data centers are "making a mistake" as they create "tremendous amounts of jobs and money", amid bipartisan backlash](https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview) (Axios)
+- [Texas Gov. Greg Abbott says data center companies "dug their own grave" and deserve the backlash, after ordering an audit that has stalled roughly 1,800 projects](https://fortune.com/2026/08/24/greg-abbott-data-center-booster-skeptic-trump-mistake-economy/) (Fortune)
 - [In opening arguments, US state AGs say that Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejects the claims](https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/) (Reuters)
 - [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission) (The Verge)
 - [President Trump signs a memo letting the US government partner with private companies to conduct cyberattacks abroad against criminal groups targeting Americans](https://www.bloomberg.com/news/articles/2026-08-13/trump-enlists-private-sector-to-boost-cyber-offensive-arsenal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjYwMjQzMywiZXhwIjoxNzg3MjA3MjMzLCJhcnRpY2xlSWQiOiJUSk9QM0hLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJGNDJDMzlEM0JBNjY0NkQ0ODdDNTI0NzM1QjQ2OTExMyJ9.numdJnKP-sXa3qzd_-fCDfuNsY61ZpPAV_crbprM4Ek) (Bloomberg)

@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) (FT)
+- [Nvidia plans to use its $6B licensing deal with Poolside to build one of the world's most powerful open-weight models, to compete with DeepSeek and Kimi K3](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?st=2n7vVW&reflink=desktopwebshare_permalink) (WSJ)
 - [Collison frames tokens as the central currency for companies building with AI, capping two years of Stripe buying the plumbing under AI spending, from Metronome to Bridge](https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/) (SiliconANGLE)
 - [OpenAI debuts ChatGPT for Teens, a mode that limits high-risk chats about self-harm, eating disorders, violence, and more, and has studying tools and guardrails](https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html?unlocked_article_code=1.6VA.GaVj.3sd9HfSfzbpl) (The New York Times)
 - [Alibaba says its new open-source multimodal model, Qwen3.8-27B, passed 1M+ downloads within a few days of release, making it one of its fastest-growing models](https://www.theinformation.com/briefings/alibabas-small-device-model-gains-traction?rc=i9gkgs) (The Information)

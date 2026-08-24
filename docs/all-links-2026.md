@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, August 24 2026 - Hugging Face Next?**
+
+  * [Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders' interest](https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8) (Business Insider)
+  * [Delangue has said Hugging Face is close to profitability and barely touched its 2023 round, and it turned down a $500M Nvidia investment at a $7B valuation earlier this year](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/) (TechCrunch)
+  * [President Trump says communities that oppose data centers are "making a mistake" as they create "tremendous amounts of jobs and money", amid bipartisan backlash](https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview) (Axios)
+  * [Texas Gov. Greg Abbott says data center companies "dug their own grave" and deserve the backlash, after ordering an audit that has stalled roughly 1,800 projects](https://fortune.com/2026/08/24/greg-abbott-data-center-booster-skeptic-trump-mistake-economy/) (Fortune)
+  * [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) (FT)
+  * [Nvidia plans to use its $6B licensing deal with Poolside to build one of the world's most powerful open-weight models, to compete with DeepSeek and Kimi K3](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?st=2n7vVW&reflink=desktopwebshare_permalink) (WSJ)
+  * [Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI](https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzMzODY2MSwiZXhwIjoxNzg3OTQzNDYxLCJhcnRpY2xlSWQiOiJUSzROTENSS1YyVzAwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.ohN1U8Z8cP-hZz4AxobhyjvzgO2X1-Fp16j4LQHlAL8) (Bloomberg)
+
+
+
 **Thursday, August 20 2026 - Tokens As The New Currency?**
 
   * [Stripe agrees to acquire NYC-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup's founders and $6B to its investors](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html?unlocked_article_code=1.6lA.2MXh.NnXWDY7Ni-ki) (The New York Times)
