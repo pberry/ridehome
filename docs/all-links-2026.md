@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, August 25 2026 - New Macs**
+
+  * [Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (Apple Newsroom)
+  * [Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and 2x faster graphics, for $899+ and $1,699+, with preorders today and shipping September 22](https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs) (The Verge)
+  * [Apple's M6 is its first 2nm chip with a 12-core CPU and GPU, while the M5 Ultra fuses two dual-die M5 Max chips into a 36-core CPU, 80-core GPU "most powerful chip ever"](https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio) (The Verge)
+  * [OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency than Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks) (The Verge)
+  * [WhatsApp upgrades its two-step verification, letting users replace the six-digit PIN with a longer alphanumeric password, and adds support for multiple passkeys](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/) (TechCrunch)
+  * [Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs](https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs) (VentureBeat)
+  * [Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen's ride via the driver's front-facing phone camera](https://www.bloomberg.com/news/articles/2026-08-25/uber-to-offer-optional-livestreams-of-teen-rides-to-parents-and-guardians) (Bloomberg)
+
+
+
 **Monday, August 24 2026 - Hugging Face Next?**
 
   * [Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders' interest](https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8) (Business Insider)

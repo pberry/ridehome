@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### August
+
+- [Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen's ride via the driver's front-facing phone camera](https://www.bloomberg.com/news/articles/2026-08-25/uber-to-offer-optional-livestreams-of-teen-rides-to-parents-and-guardians) (Bloomberg)
+
 ### June
 
 - [JD.com founder Richard Liu says robots will replace the company's 700K delivery workers "sooner or later", and it will help retrain them in robot maintenance](https://www.ft.com/content/465635e2-633b-4311-afe5-9b3bff8c9240) (FT)

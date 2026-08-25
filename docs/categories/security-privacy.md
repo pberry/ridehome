@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [WhatsApp upgrades its two-step verification, letting users replace the six-digit PIN with a longer alphanumeric password, and adds support for multiple passkeys](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/) (TechCrunch)
 - [OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold](https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework) (Axios)
 - [AirPods Ultra with cameras just leaked in video — and the privacy debate has already started](https://www.tomsguide.com/audio/airpods/airpods-ultra-with-cameras-just-appeared-in-leaked-video-and-the-privacy-debate-has-already-started) (Tom's Guide)
 - [Comcast is rolling out Wi-Fi motion sensing to its Xfinity XB7 and newer gateways, a free opt-in feature that enables its routers to detect movement at home](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing) (The Verge)

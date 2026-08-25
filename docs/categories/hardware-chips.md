@@ -9,6 +9,10 @@ layout: category
 
 ### August
 
+- [Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (Apple Newsroom)
+- [Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and 2x faster graphics, for $899+ and $1,699+, with preorders today and shipping September 22](https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs) (The Verge)
+- [Apple's M6 is its first 2nm chip with a 12-core CPU and GPU, while the M5 Ultra fuses two dual-die M5 Max chips into a 36-core CPU, 80-core GPU "most powerful chip ever"](https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio) (The Verge)
+- [OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency than Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks) (The Verge)
 - [Unitree says its new "Superman" humanoid can hit 12.66 meters per second, faster than Usain Bolt's top speed, and leap two meters, ahead of the World Humanoid Robot Games](https://futurism.com/robots-and-machines/unitrees-new-robot-can-sprint-faster-than-usain-bolt) (Futurism)
 - [The 30-second video of Unitree's "Superman" robot jumping and sprinting down a track](https://x.com/UnitreeRobotics/status/2089240553682809175) (Unitree Robotics on X)
 - [Google unveils the $899+ Pixel 11, $1,099+ 11 Pro, and $1,299+ 11 Pro XL, with a Tensor G6, new Gemini features, Magic Capture to pick the best frames, and more](https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/) (TechCrunch)
