@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, August 26 2026 - Meta Settles**
+
+  * [Filing: Meta agrees to pay up to $16.68B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) (Reuters)
+  * [The deal ends the bellwether Oakland federal trial where four states sought roughly $200B; Meta pays ~$12B upfront and $5B more only if Snap, TikTok, and YouTube also settle](https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html?unlocked_article_code=1.8VA.kXHt.Hj0ytF9e77nn) (The New York Times)
+  * [The remedies include age assurance with linked-account checks, push notifications disabled during school hours, productive pauses at 60 and 90 minutes, and no cosmetic filters or likes for teens](https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement) (The Verge)
+  * [Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) (Bloomberg)
+  * [AWS says it plans to shut down Mechanical Turk on September 30, "following an assessment"; the service, launched in 2005, outsourced tasks to 500K+ humans](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html) (CNBC)
+  * [Investigation: Meta explored slashing many teams by ~60% to become "AI native", but pulled back after staff revolted and data showed AI agents were ineffective](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/) (Reuters)
+
+
+
 **Tuesday, August 25 2026 - New Macs**
 
   * [Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (Apple Newsroom)

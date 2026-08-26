@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [Filing: Meta agrees to pay up to $16.68B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) (Reuters)
+- [The deal ends the bellwether Oakland federal trial where four states sought roughly $200B; Meta pays ~$12B upfront and $5B more only if Snap, TikTok, and YouTube also settle](https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html?unlocked_article_code=1.8VA.kXHt.Hj0ytF9e77nn) (The New York Times)
+- [The remedies include age assurance with linked-account checks, push notifications disabled during school hours, productive pauses at 60 and 90 minutes, and no cosmetic filters or likes for teens](https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement) (The Verge)
 - [President Trump says communities that oppose data centers are "making a mistake" as they create "tremendous amounts of jobs and money", amid bipartisan backlash](https://www.axios.com/2026/08/23/trump-data-centers-michael-cohen-interview) (Axios)
 - [Texas Gov. Greg Abbott says data center companies "dug their own grave" and deserve the backlash, after ordering an audit that has stalled roughly 1,800 projects](https://fortune.com/2026/08/24/greg-abbott-data-center-booster-skeptic-trump-mistake-economy/) (Fortune)
 - [In opening arguments, US state AGs say that Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejects the claims](https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/) (Reuters)

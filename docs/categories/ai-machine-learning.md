@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) (Bloomberg)
+- [Investigation: Meta explored slashing many teams by ~60% to become "AI native", but pulled back after staff revolted and data showed AI agents were ineffective](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/) (Reuters)
 - [Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs](https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs) (VentureBeat)
 - [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) (FT)
 - [Nvidia plans to use its $6B licensing deal with Poolside to build one of the world's most powerful open-weight models, to compete with DeepSeek and Kimi K3](https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc?st=2n7vVW&reflink=desktopwebshare_permalink) (WSJ)
