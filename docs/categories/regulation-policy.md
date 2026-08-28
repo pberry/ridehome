@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Sources: the Trump administration is weighing sweeping new tariffs on chips and other products like laptops and consoles, despite warnings from tech companies](https://www.politico.com/news/2026/08/27/data-centers-chips-tariffs-threat-01050957) (Politico)
 - [Filing: Meta agrees to pay up to $16.68B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) (Reuters)
 - [The deal ends the bellwether Oakland federal trial where four states sought roughly $200B; Meta pays ~$12B upfront and $5B more only if Snap, TikTok, and YouTube also settle](https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html?unlocked_article_code=1.8VA.kXHt.Hj0ytF9e77nn) (The New York Times)
 - [The remedies include age assurance with linked-account checks, push notifications disabled during school hours, productive pauses at 60 and 90 minutes, and no cosmetic filters or likes for teens](https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement) (The Verge)

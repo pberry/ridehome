@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools](https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html) (CNBC)
 - [WhatsApp upgrades its two-step verification, letting users replace the six-digit PIN with a longer alphanumeric password, and adds support for multiple passkeys](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/) (TechCrunch)
 - [OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold](https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework) (Axios)
 - [AirPods Ultra with cameras just leaked in video — and the privacy debate has already started](https://www.tomsguide.com/audio/airpods/airpods-ultra-with-cameras-just-appeared-in-leaked-video-and-the-privacy-debate-has-already-started) (Tom's Guide)

@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Source: Nvidia has agreed to acquire Hugging Face for $12.9B; the AI repository has had several potential suitors among its investors, including Salesforce](https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?rc=i9gkgs) (The Information)
+- [AI assistant Instinct is raising a $250M Series B co-led by Index and Benchmark at a $2.5B valuation, taking its total funding to $350M since its 2025 founding](https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276?st=oM8H7B&reflink=desktopwebshare_permalink) (WSJ)
 - [Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) (Bloomberg)
 - [Investigation: Meta explored slashing many teams by ~60% to become "AI native", but pulled back after staff revolted and data showed AI agents were ineffective](https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/) (Reuters)
 - [Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs](https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs) (VentureBeat)

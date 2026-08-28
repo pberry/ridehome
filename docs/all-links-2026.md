@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, August 27 2026 - The Agentic Era**
+
+  * [Nvidia reports Q2 revenue up 106% YoY to $96.22B, above $92.17B est., Data Center revenue up 117% to $89B, above $85.08B est., and net income up 126% to $59.7B](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027) (Nvidia)
+  * [Nvidia guides to ~70% revenue growth next fiscal year, well above the 45% analysts expected, sending shares up as much as 7.6%, though margins will bottom at 71%-72% on memory costs](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors) (Bloomberg)
+  * [Source: Nvidia has agreed to acquire Hugging Face for $12.9B; the AI repository has had several potential suitors among its investors, including Salesforce](https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?rc=i9gkgs) (The Information)
+  * [Sources: the Trump administration is weighing sweeping new tariffs on chips and other products like laptops and consoles, despite warnings from tech companies](https://www.politico.com/news/2026/08/27/data-centers-chips-tariffs-threat-01050957) (Politico)
+  * [Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools](https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html) (CNBC)
+  * [AI assistant Instinct is raising a $250M Series B co-led by Index and Benchmark at a $2.5B valuation, taking its total funding to $350M since its 2025 founding](https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276?st=oM8H7B&reflink=desktopwebshare_permalink) (WSJ)
+
+
+
 **Wednesday, August 26 2026 - Meta Settles**
 
   * [Filing: Meta agrees to pay up to $16.68B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) (Reuters)

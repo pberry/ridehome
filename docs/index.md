@@ -3,14 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, August 26, 2026 - Meta Settles</h3>
+  <h3>Thursday, August 27, 2026 - The Agentic Era</h3>
   <ul>
-    <li><a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/">Filing: Meta agrees to pay up to $16.68B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html?unlocked_article_code=1.8VA.kXHt.Hj0ytF9e77nn">The deal ends the bellwether Oakland federal trial where four states sought roughly $200B; Meta pays ~$12B upfront and $5B more only if Snap, TikTok, and YouTube also settle</a> (The New York Times) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement">The remedies include age assurance with linked-account checks, push notifications disabled during school hours, productive pauses at 60 and 90 minutes, and no cosmetic filters or likes for teens</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek">Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html">AWS says it plans to shut down Mechanical Turk on September 30, "following an assessment"; the service, launched in 2005, outsourced tasks to 500K+ humans</a> (CNBC) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26/">Investigation: Meta explored slashing many teams by ~60% to become "AI native", but pulled back after staff revolted and data showed AI agents were ineffective</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027">Nvidia reports Q2 revenue up 106% YoY to $96.22B, above $92.17B est., Data Center revenue up 117% to $89B, above $85.08B est., and net income up 126% to $59.7B</a> (Nvidia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors">Nvidia guides to ~70% revenue growth next fiscal year, well above the 45% analysts expected, sending shares up as much as 7.6%, though margins will bottom at 71%-72% on memory costs</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?rc=i9gkgs">Source: Nvidia has agreed to acquire Hugging Face for $12.9B; the AI repository has had several potential suitors among its investors, including Salesforce</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.politico.com/news/2026/08/27/data-centers-chips-tariffs-threat-01050957">Sources: the Trump administration is weighing sweeping new tariffs on chips and other products like laptops and consoles, despite warnings from tech companies</a> (Politico) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html">Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools</a> (CNBC) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276?st=oM8H7B&reflink=desktopwebshare_permalink">AI assistant Instinct is raising a $250M Series B co-led by Index and Benchmark at a $2.5B valuation, taking its total funding to $350M since its 2025 founding</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-26T12:45:35-07:00">August 26, 2026 at 12:45 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-27T19:02:31-07:00">August 27, 2026 at 07:02 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,044</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,050</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,793</span></li>
       </ul>
     </div>
@@ -50,18 +50,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(131 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(132 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(67 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(68 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(271 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(120 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(99 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(121 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(101 links)</span></li>
       </ol>
     </div>
   </div>

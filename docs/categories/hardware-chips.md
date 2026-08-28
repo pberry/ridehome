@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Nvidia reports Q2 revenue up 106% YoY to $96.22B, above $92.17B est., Data Center revenue up 117% to $89B, above $85.08B est., and net income up 126% to $59.7B](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027) (Nvidia)
+- [Nvidia guides to ~70% revenue growth next fiscal year, well above the 45% analysts expected, sending shares up as much as 7.6%, though margins will bottom at 71%-72% on memory costs](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors) (Bloomberg)
 - [Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (Apple Newsroom)
 - [Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and 2x faster graphics, for $899+ and $1,699+, with preorders today and shipping September 22](https://www.theverge.com/tech/984190/apple-mac-mini-m6-m5-pro-price-specs) (The Verge)
 - [Apple's M6 is its first 2nm chip with a 12-core CPU and GPU, while the M5 Ultra fuses two dual-die M5 Max chips into a 36-core CPU, 80-core GPU "most powerful chip ever"](https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio) (The Verge)
