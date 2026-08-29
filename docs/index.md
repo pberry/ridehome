@@ -3,14 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, August 27, 2026 - The Agentic Era</h3>
+  <h3>Friday, August 28, 2026 - Anthropic Is Street Legal Again</h3>
   <ul>
-    <li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027">Nvidia reports Q2 revenue up 106% YoY to $96.22B, above $92.17B est., Data Center revenue up 117% to $89B, above $85.08B est., and net income up 126% to $59.7B</a> (Nvidia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors">Nvidia guides to ~70% revenue growth next fiscal year, well above the 45% analysts expected, sending shares up as much as 7.6%, though margins will bottom at 71%-72% on memory costs</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?rc=i9gkgs">Source: Nvidia has agreed to acquire Hugging Face for $12.9B; the AI repository has had several potential suitors among its investors, including Salesforce</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.politico.com/news/2026/08/27/data-centers-chips-tariffs-threat-01050957">Sources: the Trump administration is weighing sweeping new tariffs on chips and other products like laptops and consoles, despite warnings from tech companies</a> (Politico) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html">Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools</a> (CNBC) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276?st=oM8H7B&reflink=desktopwebshare_permalink">AI assistant Instinct is raising a $250M Series B co-led by Index and Benchmark at a $2.5B valuation, taking its total funding to $350M since its 2025 founding</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/">A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was "illegal and baseless"</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/us-news/law/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-0c20c442">Judge Rita Lin finds the administration violated Anthropic's First Amendment rights, acting in "unlawful retaliation" for its criticism, and orders the blacklisting guidance rescinded</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning">OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is "a limited window" to prepare for AI-enabled cyberattacks and call for "collective action"</a> (Axios) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html?unlocked_article_code=1.8lA.rZLk.-sabgVeFOe8z">The open letter asks AI labs to hand their best models to hospitals and infrastructure providers and governments to coordinate and fund cyberdefense; signatories include Google, CrowdStrike, Visa, and Mastercard</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/">Apple TV raises prices in the US, with the monthly price up by $2 to $14.99, its fourth increase in four years; the individual Apple One tier rises $2 to $21.95</a> (Variety) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal">Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/">a16z creates a $1.1B Machine Age fund focusing on hardware to "open the throttle and accelerate the physical buildout of AI"</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/">Anthropic details Model Hardware Standard, a framework governing how AI agents interact with microscopes, liquid handlers, quantum hardware, and robot arms, going to trusted partners first</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,32 +38,32 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-27T19:02:31-07:00">August 27, 2026 at 07:02 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-28T18:28:42-07:00">August 28, 2026 at 06:28 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,050</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,793</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,058</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,794</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(132 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(133 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(68 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(121 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(101 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(123 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(103 links)</span></li>
       </ol>
     </div>
   </div>

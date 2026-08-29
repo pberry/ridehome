@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was "illegal and baseless"](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) (Reuters)
+- [Judge Rita Lin finds the administration violated Anthropic's First Amendment rights, acting in "unlawful retaliation" for its criticism, and orders the blacklisting guidance rescinded](https://www.wsj.com/us-news/law/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-0c20c442) (WSJ)
 - [Sources: the Trump administration is weighing sweeping new tariffs on chips and other products like laptops and consoles, despite warnings from tech companies](https://www.politico.com/news/2026/08/27/data-centers-chips-tariffs-threat-01050957) (Politico)
 - [Filing: Meta agrees to pay up to $16.68B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more](https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/) (Reuters)
 - [The deal ends the bellwether Oakland federal trial where four states sought roughly $200B; Meta pays ~$12B upfront and $5B more only if Snap, TikTok, and YouTube also settle](https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html?unlocked_article_code=1.8VA.kXHt.Hj0ytF9e77nn) (The New York Times)

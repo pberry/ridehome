@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, August 28 2026**
+
+  * [Home batteries are suddenly cheap and everywhere. Here's why.](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/) (TechCrunch)
+
+
+
 **Friday, August 14 2026**
 
   * [Anthropic details multiagent experiments showing Claude agents can wage a "turf war" over incompatible goals, fail to coordinate, collude on prices, and more](https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/) (TechCrunch)

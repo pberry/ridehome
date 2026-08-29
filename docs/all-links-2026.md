@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, August 28 2026 - Anthropic Is Street Legal Again**
+
+  * [A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was "illegal and baseless"](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) (Reuters)
+  * [Judge Rita Lin finds the administration violated Anthropic's First Amendment rights, acting in "unlawful retaliation" for its criticism, and orders the blacklisting guidance rescinded](https://www.wsj.com/us-news/law/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-0c20c442) (WSJ)
+  * [OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is "a limited window" to prepare for AI-enabled cyberattacks and call for "collective action"](https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning) (Axios)
+  * [The open letter asks AI labs to hand their best models to hospitals and infrastructure providers and governments to coordinate and fund cyberdefense; signatories include Google, CrowdStrike, Visa, and Mastercard](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html?unlocked_article_code=1.8lA.rZLk.-sabgVeFOe8z) (The New York Times)
+  * [Apple TV raises prices in the US, with the monthly price up by $2 to $14.99, its fourth increase in four years; the individual Apple One tier rises $2 to $21.95](https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/) (Variety)
+  * [Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal) (Bloomberg)
+  * [a16z creates a $1.1B Machine Age fund focusing on hardware to "open the throttle and accelerate the physical buildout of AI"](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/) (TechCrunch)
+  * [Anthropic details Model Hardware Standard, a framework governing how AI agents interact with microscopes, liquid handlers, quantum hardware, and robot arms, going to trusted partners first](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/) (Wired)
+
+
+
 **Thursday, August 27 2026 - The Agentic Era**
 
   * [Nvidia reports Q2 revenue up 106% YoY to $96.22B, above $92.17B est., Data Center revenue up 117% to $89B, above $85.08B est., and net income up 126% to $59.7B](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027) (Nvidia)

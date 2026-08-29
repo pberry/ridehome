@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Anthropic details Model Hardware Standard, a framework governing how AI agents interact with microscopes, liquid handlers, quantum hardware, and robot arms, going to trusted partners first](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/) (Wired)
 - [Source: Nvidia has agreed to acquire Hugging Face for $12.9B; the AI repository has had several potential suitors among its investors, including Salesforce](https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?rc=i9gkgs) (The Information)
 - [AI assistant Instinct is raising a $250M Series B co-led by Index and Benchmark at a $2.5B valuation, taking its total funding to $350M since its 2025 founding](https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276?st=oM8H7B&reflink=desktopwebshare_permalink) (WSJ)
 - [Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek) (Bloomberg)

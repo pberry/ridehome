@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Apple TV raises prices in the US, with the monthly price up by $2 to $14.99, its fourth increase in four years; the individual Apple One tier rises $2 to $21.95](https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/) (Variety)
 - [Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently](https://www.bloomberg.com/news/articles/2026-08-19/youtube-offers-creators-millions-to-not-work-with-netflix-mt0lbfaj) (Bloomberg)
 - [YouTube says that from February 1, new creators will need double, or 8,000, watch hours over the past year or 20M Shorts views in the past 90 days to earn money](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/) (TechCrunch)
 - [Disney announces a global deal with TikTok to bring "thoughtfully curated" fan-created short-form videos based on Disney's IP to Disney+'s vertical Verts feed](https://www.nytimes.com/2026/08/05/business/media/disney-tiktok-videos.html?unlocked_article_code=1.3FA.rsJI.2O7LbBbDPszQ) (The New York Times)

@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is "a limited window" to prepare for AI-enabled cyberattacks and call for "collective action"](https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning) (Axios)
+- [The open letter asks AI labs to hand their best models to hospitals and infrastructure providers and governments to coordinate and fund cyberdefense; signatories include Google, CrowdStrike, Visa, and Mastercard](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html?unlocked_article_code=1.8lA.rZLk.-sabgVeFOe8z) (The New York Times)
 - [Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools](https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html) (CNBC)
 - [WhatsApp upgrades its two-step verification, letting users replace the six-digit PIN with a longer alphanumeric password, and adds support for multiple passkeys](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/) (TechCrunch)
 - [OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold](https://www.axios.com/2026/08/18/openai-pause-astra-preparedness-framework) (Axios)

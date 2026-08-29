@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [a16z creates a $1.1B Machine Age fund focusing on hardware to "open the throttle and accelerate the physical buildout of AI"](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/) (TechCrunch)
+- [Home batteries are suddenly cheap and everywhere. Here's why.](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/) (TechCrunch)
 - [Nvidia reports Q2 revenue up 106% YoY to $96.22B, above $92.17B est., Data Center revenue up 117% to $89B, above $85.08B est., and net income up 126% to $59.7B](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027) (Nvidia)
 - [Nvidia guides to ~70% revenue growth next fiscal year, well above the 45% analysts expected, sending shares up as much as 7.6%, though margins will bottom at 71%-72% on memory costs](https://www.bloomberg.com/news/articles/2026-08-26/nvidia-estimate-topping-forecast-fails-to-wow-investors) (Bloomberg)
 - [Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) (Apple Newsroom)
