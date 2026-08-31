@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its "diversified business model" ahead of an IPO](https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html) (CNBC)
 - [Hangzhou-based humanoid robot maker Unitree's stock surges 460% in its Shanghai trading debut, giving it a $50B+ market cap, after it raised ~$904M in its IPO](https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo) (Bloomberg)
 - [Sources: Anthropic's investors expect it to float at a $2T+ valuation in an October IPO and to hit $100B to $120B in annualized revenue by the end of 2026](https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?accessToken=zwAAAZ_6yHO9kdOECsFWrxxKgtOyYK55EHL8-g.MEUCIQDUzeMiGW6UboFtYr2F_Llwge2IB8ubdmWZVqeD-dEI2gIgQmlsOPTronqbAHY24gjsyrrdmBKBLz0uGHiKPRMhYdU&sharetype=gift&token=fa2b9bb8-393a-4cee-8a73-6a5864cb21fd) (FT)
 - [Sources: Anthropic is courting investors for what could be the biggest IPO yet, touting rapid growth and plans to address mounting public backlash against AI](https://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad?st=whk1xw) (WSJ)

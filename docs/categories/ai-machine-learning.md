@@ -9,6 +9,8 @@ layout: category
 
 ### August
 
+- [Ajeya Cotra: over 1,000 agents cooperating across multiple agent "lifetimes" makes this more than 50% of the way to full-blown AI takeover, and the next jump could mean a covert, persistent rogue deployment inside an AI company](https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised) (Planned Obsolescence)
+- [Ethan Mollick: agents should reach out to humans for approval, expertise, variance, and interest, and the 700 that broke into Hugging Face were never set up to ask a person for anything](https://www.oneusefulthing.org/p/agency-and-agents) (One Useful Thing)
 - [Anthropic details Model Hardware Standard, a framework governing how AI agents interact with microscopes, liquid handlers, quantum hardware, and robot arms, going to trusted partners first](https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/) (Wired)
 - [Source: Nvidia has agreed to acquire Hugging Face for $12.9B; the AI repository has had several potential suitors among its investors, including Salesforce](https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?rc=i9gkgs) (The Information)
 - [AI assistant Instinct is raising a $250M Series B co-led by Index and Benchmark at a $2.5B valuation, taking its total funding to $350M since its 2025 founding](https://www.wsj.com/tech/ai/the-latest-viral-ai-assistant-rocketing-across-silicon-valley-abb46276?st=oM8H7B&reflink=desktopwebshare_permalink) (WSJ)

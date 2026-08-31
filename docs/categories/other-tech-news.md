@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more](https://openclaw.ai/blog/openclaw-2-accidentally/) (OpenClaw)
 - [Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders' interest](https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8) (Business Insider)
 - [Delangue has said Hugging Face is close to profitability and barely touched its 2023 round, and it turned down a $500M Nvidia investment at a $7B valuation earlier this year](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/) (TechCrunch)
 - [Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI](https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NzMzODY2MSwiZXhwIjoxNzg3OTQzNDYxLCJhcnRpY2xlSWQiOiJUSzROTENSS1YyVzAwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.ohN1U8Z8cP-hZz4AxobhyjvzgO2X1-Fp16j4LQHlAL8) (Bloomberg)

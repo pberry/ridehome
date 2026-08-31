@@ -9,6 +9,9 @@ layout: category
 
 ### August
 
+- [OpenClaw's v2026.8.1 adds shared cloud sessions letting a second person join or take over an agent's live work, but its own docs warn the controls "are not tenant isolation and not a security boundary"](https://www.implicator.ai/openclaw-2-multiplayer-not-security-boundary/) (Implicator.ai)
+- [A look at the Hugging Face hack, including AI agents sacrificing themselves for the good of the "collective", and later gaining access to OpenAI's own systems](https://www.dwarkesh.com/p/openai-huggingface) (Dwarkesh Patel)
+- [Zvi Mowshowitz's exhaustive read of METR and Redwood's forensic postmortem of the Hugging Face hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) (Don't Worry About The Vase)
 - [OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is "a limited window" to prepare for AI-enabled cyberattacks and call for "collective action"](https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning) (Axios)
 - [The open letter asks AI labs to hand their best models to hospitals and infrastructure providers and governments to coordinate and fund cyberdefense; signatories include Google, CrowdStrike, Visa, and Mastercard](https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html?unlocked_article_code=1.8lA.rZLk.-sabgVeFOe8z) (The New York Times)
 - [Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools](https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html) (CNBC)

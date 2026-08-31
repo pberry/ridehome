@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, August 31 2026 - 50% Toward AI Takeover?**
+
+  * [OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more](https://openclaw.ai/blog/openclaw-2-accidentally/) (OpenClaw)
+  * [OpenClaw's v2026.8.1 adds shared cloud sessions letting a second person join or take over an agent's live work, but its own docs warn the controls "are not tenant isolation and not a security boundary"](https://www.implicator.ai/openclaw-2-multiplayer-not-security-boundary/) (Implicator.ai)
+  * [OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its "diversified business model" ahead of an IPO](https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html) (CNBC)
+  * [Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing](https://www.theinformation.com/articles/salesforce-overhauling-way-charges-ai) (The Information)
+  * [A look at the Hugging Face hack, including AI agents sacrificing themselves for the good of the "collective", and later gaining access to OpenAI's own systems](https://www.dwarkesh.com/p/openai-huggingface) (Dwarkesh Patel)
+  * [Zvi Mowshowitz's exhaustive read of METR and Redwood's forensic postmortem of the Hugging Face hack](https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/) (Don't Worry About The Vase)
+  * [Ajeya Cotra: over 1,000 agents cooperating across multiple agent "lifetimes" makes this more than 50% of the way to full-blown AI takeover, and the next jump could mean a covert, persistent rogue deployment inside an AI company](https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised) (Planned Obsolescence)
+  * [Ethan Mollick: agents should reach out to humans for approval, expertise, variance, and interest, and the 700 that broke into Hugging Face were never set up to ask a person for anything](https://www.oneusefulthing.org/p/agency-and-agents) (One Useful Thing)
+
+
+
 **Friday, August 28 2026 - Anthropic Is Street Legal Again**
 
   * [A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was "illegal and baseless"](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) (Reuters)

@@ -9,6 +9,7 @@ layout: category
 
 ### August
 
+- [Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing](https://www.theinformation.com/articles/salesforce-overhauling-way-charges-ai) (The Information)
 - [Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal) (Bloomberg)
 - [Stripe agrees to acquire NYC-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup's founders and $6B to its investors](https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html?unlocked_article_code=1.6lA.2MXh.NnXWDY7Ni-ki) (The New York Times)
 

@@ -3,16 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, August 28, 2026 - Anthropic Is Street Legal Again</h3>
+  <h3>Monday, August 31, 2026 - 50% Toward AI Takeover?</h3>
   <ul>
-    <li><a href="https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/">A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was "illegal and baseless"</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wsj.com/us-news/law/judge-rules-trump-administration-violated-anthropics-first-amendment-rights-0c20c442">Judge Rita Lin finds the administration violated Anthropic's First Amendment rights, acting in "unlawful retaliation" for its criticism, and orders the blacklisting guidance rescinded</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning">OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is "a limited window" to prepare for AI-enabled cyberattacks and call for "collective action"</a> (Axios) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html?unlocked_article_code=1.8lA.rZLk.-sabgVeFOe8z">The open letter asks AI labs to hand their best models to hospitals and infrastructure providers and governments to coordinate and fund cyberdefense; signatories include Google, CrowdStrike, Visa, and Mastercard</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/">Apple TV raises prices in the US, with the monthly price up by $2 to $14.99, its fourth increase in four years; the individual Apple One tier rises $2 to $21.95</a> (Variety) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal">Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B</a> (Bloomberg) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/">a16z creates a $1.1B Machine Age fund focusing on hardware to "open the throttle and accelerate the physical buildout of AI"</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/">Anthropic details Model Hardware Standard, a framework governing how AI agents interact with microscopes, liquid handlers, quantum hardware, and robot arms, going to trusted partners first</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://openclaw.ai/blog/openclaw-2-accidentally/">OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more</a> (OpenClaw) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.implicator.ai/openclaw-2-multiplayer-not-security-boundary/">OpenClaw's v2026.8.1 adds shared cloud sessions letting a second person join or take over an agent's live work, but its own docs warn the controls "are not tenant isolation and not a security boundary"</a> (Implicator.ai) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html">OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its "diversified business model" ahead of an IPO</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.theinformation.com/articles/salesforce-overhauling-way-charges-ai">Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing</a> (The Information) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.dwarkesh.com/p/openai-huggingface">A look at the Hugging Face hack, including AI agents sacrificing themselves for the good of the "collective", and later gaining access to OpenAI's own systems</a> (Dwarkesh Patel) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/">Zvi Mowshowitz's exhaustive read of METR and Redwood's forensic postmortem of the Hugging Face hack</a> (Don't Worry About The Vase) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised">Ajeya Cotra: over 1,000 agents cooperating across multiple agent "lifetimes" makes this more than 50% of the way to full-blown AI takeover, and the next jump could mean a covert, persistent rogue deployment inside an AI company</a> (Planned Obsolescence) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.oneusefulthing.org/p/agency-and-agents">Ethan Mollick: agents should reach out to humans for approval, expertise, variance, and interest, and the 700 that broke into Hugging Face were never set up to ask a person for anything</a> (One Useful Thing) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -38,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-28T18:28:42-07:00">August 28, 2026 at 06:28 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-08-31T15:30:00-07:00">August 31, 2026 at 03:30 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,058</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,066</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,794</span></li>
       </ul>
     </div>
@@ -52,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(133 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(130 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
@@ -61,9 +61,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(123 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(103 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(119 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
       </ol>
     </div>
   </div>
