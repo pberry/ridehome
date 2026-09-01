@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [PSI, which aims to use AI "to industrialize the discovery of new physics" including cracking interstellar travel, emerges from stealth with a $58M seed](https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel) (The Deep View)
+
 ### August
 
 - [Ajeya Cotra: over 1,000 agents cooperating across multiple agent "lifetimes" makes this more than 50% of the way to full-blown AI takeover, and the next jump could mean a covert, persistent rogue deployment inside an AI company](https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised) (Planned Obsolescence)

@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, September 01 2026 - An... AI Toothbrush??!!**
+
+  * [On his last day as CEO, Tim Cook sends a memo to Apple employees reflecting on his time and says he takes "enormous comfort in handing the helm" to John Ternus](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/) (9to5Mac)
+  * [John Ternus became Apple's CEO on Tuesday, succeeding Tim Cook after 15 years; he'll have to navigate leadership churn, stem a talent exodus to OpenAI, and unveil a foldable iPhone this month](https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html?unlocked_article_code=1.91A.zvk4.5VKlX8mXE83t) (The New York Times)
+  * [The US FTC and 22 state AGs sue Amazon, alleging it overcharged advertisers by $20B+ since 2019 via hidden surcharges, with costs largely passed on to consumers](https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html) (CNBC)
+  * [Starman Optical agrees to acquire GoPro in an all-cash deal valued at $285M, a premium of 29.5% to GPRO's last close; GoPro hit a market cap of $4B in 2014](https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/) (Reuters)
+  * [Starman Optical will pay GoPro shareholders $1.14 per share and leave them with ~10% of the combined company, which stays public; the deal wipes out GoPro's $92M debt and is expected to close by year end](https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/) (TechCrunch)
+  * [Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego](https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html) (CNBC)
+  * [PSI, which aims to use AI "to industrialize the discovery of new physics" including cracking interstellar travel, emerges from stealth with a $58M seed](https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel) (The Deep View)
+  * [Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images](https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera) (Bloomberg)
+
+
+
 **Monday, August 31 2026 - 50% Toward AI Takeover?**
 
   * [OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more](https://openclaw.ai/blog/openclaw-2-accidentally/) (OpenClaw)

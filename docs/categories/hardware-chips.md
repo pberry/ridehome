@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### September
+
+- [John Ternus became Apple's CEO on Tuesday, succeeding Tim Cook after 15 years; he'll have to navigate leadership churn, stem a talent exodus to OpenAI, and unveil a foldable iPhone this month](https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html?unlocked_article_code=1.91A.zvk4.5VKlX8mXE83t) (The New York Times)
+- [Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images](https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera) (Bloomberg)
+
 ### August
 
 - [a16z creates a $1.1B Machine Age fund focusing on hardware to "open the throttle and accelerate the physical buildout of AI"](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/) (TechCrunch)

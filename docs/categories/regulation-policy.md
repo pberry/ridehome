@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [The US FTC and 22 state AGs sue Amazon, alleging it overcharged advertisers by $20B+ since 2019 via hidden surcharges, with costs largely passed on to consumers](https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html) (CNBC)
+
 ### August
 
 - [A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was "illegal and baseless"](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) (Reuters)

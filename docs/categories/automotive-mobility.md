@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego](https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html) (CNBC)
+
 ### August
 
 - [Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen's ride via the driver's front-facing phone camera](https://www.bloomberg.com/news/articles/2026-08-25/uber-to-offer-optional-livestreams-of-teen-rides-to-parents-and-guardians) (Bloomberg)

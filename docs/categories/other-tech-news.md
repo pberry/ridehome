@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### September
+
+- [On his last day as CEO, Tim Cook sends a memo to Apple employees reflecting on his time and says he takes "enormous comfort in handing the helm" to John Ternus](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/) (9to5Mac)
+- [Starman Optical agrees to acquire GoPro in an all-cash deal valued at $285M, a premium of 29.5% to GPRO's last close; GoPro hit a market cap of $4B in 2014](https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/) (Reuters)
+- [Starman Optical will pay GoPro shareholders $1.14 per share and leave them with ~10% of the combined company, which stays public; the deal wipes out GoPro's $92M debt and is expected to close by year end](https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/) (TechCrunch)
+
 ### August
 
 - [OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more](https://openclaw.ai/blog/openclaw-2-accidentally/) (OpenClaw)

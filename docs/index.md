@@ -3,16 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, August 31, 2026 - 50% Toward AI Takeover?</h3>
+  <h3>Tuesday, September 01, 2026 - An... AI Toothbrush??!!</h3>
   <ul>
-    <li><a href="https://openclaw.ai/blog/openclaw-2-accidentally/">OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more</a> (OpenClaw) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.implicator.ai/openclaw-2-multiplayer-not-security-boundary/">OpenClaw's v2026.8.1 adds shared cloud sessions letting a second person join or take over an agent's live work, but its own docs warn the controls "are not tenant isolation and not a security boundary"</a> (Implicator.ai) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html">OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its "diversified business model" ahead of an IPO</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.theinformation.com/articles/salesforce-overhauling-way-charges-ai">Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing</a> (The Information) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
-    <li><a href="https://www.dwarkesh.com/p/openai-huggingface">A look at the Hugging Face hack, including AI agents sacrificing themselves for the good of the "collective", and later gaining access to OpenAI's own systems</a> (Dwarkesh Patel) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack/">Zvi Mowshowitz's exhaustive read of METR and Redwood's forensic postmortem of the Hugging Face hack</a> (Don't Worry About The Vase) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.planned-obsolescence.org/p/the-hugging-face-attack-surprised">Ajeya Cotra: over 1,000 agents cooperating across multiple agent "lifetimes" makes this more than 50% of the way to full-blown AI takeover, and the next jump could mean a covert, persistent rogue deployment inside an AI company</a> (Planned Obsolescence) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.oneusefulthing.org/p/agency-and-agents">Ethan Mollick: agents should reach out to humans for approval, expertise, variance, and interest, and the 700 that broke into Hugging Face were never set up to ask a person for anything</a> (One Useful Thing) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/">On his last day as CEO, Tim Cook sends a memo to Apple employees reflecting on his time and says he takes "enormous comfort in handing the helm" to John Ternus</a> (9to5Mac) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html?unlocked_article_code=1.91A.zvk4.5VKlX8mXE83t">John Ternus became Apple's CEO on Tuesday, succeeding Tim Cook after 15 years; he'll have to navigate leadership churn, stem a talent exodus to OpenAI, and unveil a foldable iPhone this month</a> (The New York Times) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html">The US FTC and 22 state AGs sue Amazon, alleging it overcharged advertisers by $20B+ since 2019 via hidden surcharges, with costs largely passed on to consumers</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/">Starman Optical agrees to acquire GoPro in an all-cash deal valued at $285M, a premium of 29.5% to GPRO's last close; GoPro hit a market cap of $4B in 2014</a> (Reuters) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/">Starman Optical will pay GoPro shareholders $1.14 per share and leave them with ~10% of the combined company, which stays public; the deal wipes out GoPro's $92M debt and is expected to close by year end</a> (TechCrunch) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html">Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego</a> (CNBC) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel">PSI, which aims to use AI "to industrialize the discovery of new physics" including cracking interstellar travel, emerges from stealth with a $58M seed</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera">Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -38,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-08-31T15:30:00-07:00">August 31, 2026 at 03:30 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-01T13:35:59-07:00">September 01, 2026 at 01:35 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,066</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,074</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,794</span></li>
       </ul>
     </div>
@@ -52,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(130 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(71 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(129 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
@@ -61,8 +61,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(119 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(118 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
       </ol>
     </div>
