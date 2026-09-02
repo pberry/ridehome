@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, September 02 2026 - Hey, Want Some Models?**
+
+  * [Anthropic releases Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards](https://www.anthropic.com/claude-fable-and-mythos-5-1) (Anthropic)
+  * [Fable 5.1 cuts cache-read pricing 75% to $0.25/1M tokens, lowering effective costs ~25% for typical workloads and up to ~45% for agentic ones, and debuts Enterprise Frontier Safeguards](https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads) (VentureBeat)
+  * [Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31](https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/) (9to5Google)
+  * [OpenAI says it plans to publicly release a version of Astra "soon", but will give access to "its most advanced cyber capabilities" only to testers and partners](https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/) (Wired)
+  * [Sources: Astra's "recurrent depth" technique obscures chain-of-thought reasoning, sparking concerns inside OpenAI and across the industry, though OpenAI limited its use so Astra's thinking stays legible and monitorable](https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns) (The Information)
+  * [A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals](https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration) (Bloomberg)
+  * [The FBI is investigating Nexus, a new ID theft service on the dark web claiming to sell digital scans of 153M+ drivers licenses from people in the US and Canada](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) (Krebs on Security)
+  * [The leaked licenses, including SecDef Pete Hegseth's, trace back to ID-verification provider IDScan, used by Hertz and Planet13; the FBI's New Orleans office has opened an investigation](https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider) (Tom's Hardware)
+  * [Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December](https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs) (The Verge)
+
+
+
 **Tuesday, September 01 2026 - An... AI Toothbrush??!!**
 
   * [On his last day as CEO, Tim Cook sends a memo to Apple employees reflecting on his time and says he takes "enormous comfort in handing the helm" to John Ternus](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/) (9to5Mac)

@@ -3,16 +3,17 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, September 01, 2026 - An... AI Toothbrush??!!</h3>
+  <h3>Wednesday, September 02, 2026 - Hey, Want Some Models?</h3>
   <ul>
-    <li><a href="https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/">On his last day as CEO, Tim Cook sends a memo to Apple employees reflecting on his time and says he takes "enormous comfort in handing the helm" to John Ternus</a> (9to5Mac) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html?unlocked_article_code=1.91A.zvk4.5VKlX8mXE83t">John Ternus became Apple's CEO on Tuesday, succeeding Tim Cook after 15 years; he'll have to navigate leadership churn, stem a talent exodus to OpenAI, and unveil a foldable iPhone this month</a> (The New York Times) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html">The US FTC and 22 state AGs sue Amazon, alleging it overcharged advertisers by $20B+ since 2019 via hidden surcharges, with costs largely passed on to consumers</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/">Starman Optical agrees to acquire GoPro in an all-cash deal valued at $285M, a premium of 29.5% to GPRO's last close; GoPro hit a market cap of $4B in 2014</a> (Reuters) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/">Starman Optical will pay GoPro shareholders $1.14 per share and leave them with ~10% of the combined company, which stays public; the deal wipes out GoPro's $92M debt and is expected to close by year end</a> (TechCrunch) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html">Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego</a> (CNBC) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
-    <li><a href="https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel">PSI, which aims to use AI "to industrialize the discovery of new physics" including cracking interstellar travel, emerges from stealth with a $58M seed</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera">Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Anthropic releases Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads">Fable 5.1 cuts cache-read pricing 75% to $0.25/1M tokens, lowering effective costs ~25% for typical workloads and up to ~45% for agentic ones, and debuts Enterprise Frontier Safeguards</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/">Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/">OpenAI says it plans to publicly release a version of Astra "soon", but will give access to "its most advanced cyber capabilities" only to testers and partners</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns">Sources: Astra's "recurrent depth" technique obscures chain-of-thought reasoning, sparking concerns inside OpenAI and across the industry, though OpenAI limited its use so Astra's thinking stays legible and monitorable</a> (The Information) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration">A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/">The FBI is investigating Nexus, a new ID theft service on the dark web claiming to sell digital scans of 153M+ drivers licenses from people in the US and Canada</a> (Krebs on Security) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider">The leaked licenses, including SecDef Pete Hegseth's, trace back to ID-verification provider IDScan, used by Hertz and Planet13; the FBI's New Orleans office has opened an investigation</a> (Tom's Hardware) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs">Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -38,13 +39,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-01T13:35:59-07:00">September 01, 2026 at 01:35 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-02T13:32:14-07:00">September 02, 2026 at 01:32 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,074</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,083</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,794</span></li>
       </ul>
     </div>
@@ -52,7 +53,7 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(129 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(128 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
@@ -61,9 +62,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(272 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(118 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(96 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(117 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(97 links)</span></li>
       </ol>
     </div>
   </div>

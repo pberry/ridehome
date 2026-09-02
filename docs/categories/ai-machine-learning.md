@@ -9,6 +9,10 @@ layout: category
 
 ### September
 
+- [Anthropic releases Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards](https://www.anthropic.com/claude-fable-and-mythos-5-1) (Anthropic)
+- [Fable 5.1 cuts cache-read pricing 75% to $0.25/1M tokens, lowering effective costs ~25% for typical workloads and up to ~45% for agentic ones, and debuts Enterprise Frontier Safeguards](https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads) (VentureBeat)
+- [Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31](https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/) (9to5Google)
+- [OpenAI says it plans to publicly release a version of Astra "soon", but will give access to "its most advanced cyber capabilities" only to testers and partners](https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/) (Wired)
 - [PSI, which aims to use AI "to industrialize the discovery of new physics" including cracking interstellar travel, emerges from stealth with a $58M seed](https://www.thedeepview.com/articles/can-ai-crack-interstellar-travel) (The Deep View)
 
 ### August

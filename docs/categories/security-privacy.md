@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### September
+
+- [Sources: Astra's "recurrent depth" technique obscures chain-of-thought reasoning, sparking concerns inside OpenAI and across the industry, though OpenAI limited its use so Astra's thinking stays legible and monitorable](https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns) (The Information)
+- [The FBI is investigating Nexus, a new ID theft service on the dark web claiming to sell digital scans of 153M+ drivers licenses from people in the US and Canada](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) (Krebs on Security)
+- [The leaked licenses, including SecDef Pete Hegseth's, trace back to ID-verification provider IDScan, used by Hertz and Planet13; the FBI's New Orleans office has opened an investigation](https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider) (Tom's Hardware)
+
 ### August
 
 - [OpenClaw's v2026.8.1 adds shared cloud sessions letting a second person join or take over an agent's live work, but its own docs warn the controls "are not tenant isolation and not a security boundary"](https://www.implicator.ai/openclaw-2-multiplayer-not-security-boundary/) (Implicator.ai)
