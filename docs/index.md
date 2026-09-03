@@ -3,17 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, September 02, 2026 - Hey, Want Some Models?</h3>
+  <h3>Thursday, September 03, 2026 - Nvidia Buys Hugging Face For A Rabbit?</h3>
   <ul>
-    <li><a href="https://www.anthropic.com/claude-fable-and-mythos-5-1">Anthropic releases Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads">Fable 5.1 cuts cache-read pricing 75% to $0.25/1M tokens, lowering effective costs ~25% for typical workloads and up to ~45% for agentic ones, and debuts Enterprise Frontier Safeguards</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/">Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/">OpenAI says it plans to publicly release a version of Astra "soon", but will give access to "its most advanced cyber capabilities" only to testers and partners</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns">Sources: Astra's "recurrent depth" technique obscures chain-of-thought reasoning, sparking concerns inside OpenAI and across the industry, though OpenAI limited its use so Astra's thinking stays legible and monitorable</a> (The Information) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration">A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/">The FBI is investigating Nexus, a new ID theft service on the dark web claiming to sell digital scans of 153M+ drivers licenses from people in the US and Canada</a> (Krebs on Security) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider">The leaked licenses, including SecDef Pete Hegseth's, trace back to ID-verification provider IDScan, used by Hertz and Planet13; the FBI's New Orleans office has opened an investigation</a> (Tom's Hardware) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs">Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html">Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.decodingdiscontinuity.com/p/nvidia-hugging-face-microduck">Sources: Decoding Discontinuity's Raphaelle D'Ornano argues Nvidia's bid is really an option on physical AI's data commons, with Hugging Face's $399 Microduck robot converting real-world robot use into open training data</a> (Decoding Discontinuity) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues">Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it improves performance across agentic and coding tasks, at the same pricing as Spark 1.2</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/">Muse Spark 1.3 holds a 52% lead on TAU³-Banking's tool-use benchmark and climbs to 85-86% on Terminal-Bench 2.1 coding tests, though Fable 5.1 still tops coding at 91.4%, all at unchanged $1.25/$4.25 pricing</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/">Meta's Alexandr Wang tells Bloomberg Muse Spark 1.3 is competitive with Fable 5.1 and beats GPT-5.6 Sol at coding, uses 25% fewer tokens than 1.2, and previews a larger future model called Watermelon</a> (SiliconANGLE) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d">Microsoft shifts from three reporting segments to two: Agents and Infra, which has Microsoft 365 and Azure, and Devices and Consumer, which has Windows and Xbox</a> (WSJ) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
   </ul>
 </section>
 
@@ -39,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-02T13:32:14-07:00">September 02, 2026 at 01:32 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-03T13:32:28-07:00">September 03, 2026 at 01:32 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,083</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,089</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,794</span></li>
       </ul>
     </div>
@@ -54,15 +51,15 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(128 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(117 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(97 links)</span></li>
       </ol>

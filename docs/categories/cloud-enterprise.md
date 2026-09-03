@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [Microsoft shifts from three reporting segments to two: Agents and Infra, which has Microsoft 365 and Azure, and Devices and Consumer, which has Windows and Xbox](https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d) (WSJ)
+
 ### August
 
 - [AWS says it plans to shut down Mechanical Turk on September 30, "following an assessment"; the service, launched in 2005, outsourced tasks to 500K+ humans](https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html) (CNBC)

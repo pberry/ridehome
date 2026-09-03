@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, September 03 2026 - Nvidia Buys Hugging Face For A Rabbit?**
+
+  * [Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) (CNBC)
+  * [Sources: Decoding Discontinuity's Raphaelle D'Ornano argues Nvidia's bid is really an option on physical AI's data commons, with Hugging Face's $399 Microduck robot converting real-world robot use into open training data](https://www.decodingdiscontinuity.com/p/nvidia-hugging-face-microduck) (Decoding Discontinuity)
+  * [Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it improves performance across agentic and coding tasks, at the same pricing as Spark 1.2](https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues) (Axios)
+  * [Muse Spark 1.3 holds a 52% lead on TAU³-Banking's tool-use benchmark and climbs to 85-86% on Terminal-Bench 2.1 coding tests, though Fable 5.1 still tops coding at 91.4%, all at unchanged $1.25/$4.25 pricing](https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/) (The Decoder)
+  * [Meta's Alexandr Wang tells Bloomberg Muse Spark 1.3 is competitive with Fable 5.1 and beats GPT-5.6 Sol at coding, uses 25% fewer tokens than 1.2, and previews a larger future model called Watermelon](https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/) (SiliconANGLE)
+  * [Microsoft shifts from three reporting segments to two: Agents and Infra, which has Microsoft 365 and Azure, and Devices and Consumer, which has Windows and Xbox](https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d) (WSJ)
+
+
+
 **Wednesday, September 02 2026 - Hey, Want Some Models?**
 
   * [Anthropic releases Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards](https://www.anthropic.com/claude-fable-and-mythos-5-1) (Anthropic)

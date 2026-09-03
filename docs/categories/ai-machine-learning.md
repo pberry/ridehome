@@ -9,6 +9,11 @@ layout: category
 
 ### September
 
+- [Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) (CNBC)
+- [Sources: Decoding Discontinuity's Raphaelle D'Ornano argues Nvidia's bid is really an option on physical AI's data commons, with Hugging Face's $399 Microduck robot converting real-world robot use into open training data](https://www.decodingdiscontinuity.com/p/nvidia-hugging-face-microduck) (Decoding Discontinuity)
+- [Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it improves performance across agentic and coding tasks, at the same pricing as Spark 1.2](https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues) (Axios)
+- [Muse Spark 1.3 holds a 52% lead on TAU³-Banking's tool-use benchmark and climbs to 85-86% on Terminal-Bench 2.1 coding tests, though Fable 5.1 still tops coding at 91.4%, all at unchanged $1.25/$4.25 pricing](https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/) (The Decoder)
+- [Meta's Alexandr Wang tells Bloomberg Muse Spark 1.3 is competitive with Fable 5.1 and beats GPT-5.6 Sol at coding, uses 25% fewer tokens than 1.2, and previews a larger future model called Watermelon](https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/) (SiliconANGLE)
 - [Anthropic releases Claude Fable 5.1, which is generally available, and Mythos 5.1, for trusted partners and with cybersecurity and life sciences safeguards](https://www.anthropic.com/claude-fable-and-mythos-5-1) (Anthropic)
 - [Fable 5.1 cuts cache-read pricing 75% to $0.25/1M tokens, lowering effective costs ~25% for typical workloads and up to ~45% for agentic ones, and debuts Enterprise Frontier Safeguards](https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads) (VentureBeat)
 - [Google launches Gemini 3.8 Flash, three weeks after 3.7 Flash launch, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31](https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/) (9to5Google)
