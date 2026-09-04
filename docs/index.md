@@ -3,14 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, September 03, 2026 - Nvidia Buys Hugging Face For A Rabbit?</h3>
+  <h3>Friday, September 04, 2026 - Is Astra AGI?</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html">Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.decodingdiscontinuity.com/p/nvidia-hugging-face-microduck">Sources: Decoding Discontinuity's Raphaelle D'Ornano argues Nvidia's bid is really an option on physical AI's data commons, with Hugging Face's $399 Microduck robot converting real-world robot use into open training data</a> (Decoding Discontinuity) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues">Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it improves performance across agentic and coding tasks, at the same pricing as Spark 1.2</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/">Muse Spark 1.3 holds a 52% lead on TAU³-Banking's tool-use benchmark and climbs to 85-86% on Terminal-Bench 2.1 coding tests, though Fable 5.1 still tops coding at 91.4%, all at unchanged $1.25/$4.25 pricing</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/">Meta's Alexandr Wang tells Bloomberg Muse Spark 1.3 is competitive with Fable 5.1 and beats GPT-5.6 Sol at coding, uses 25% fewer tokens than 1.2, and previews a larger future model called Watermelon</a> (SiliconANGLE) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d">Microsoft shifts from three reporting segments to two: Agents and Infra, which has Microsoft 365 and Azure, and Devices and Consumer, which has Windows and Xbox</a> (WSJ) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release">OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says Astra is a "generational leap" and "we are now in the AGI era"</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.latent.space/p/astra">Astra proved more token-efficient than Sol and Fable in Latent Space's testing across 20B+ tokens, emerging as a fully capable AI Engineer that trains models, labels data, and debugs systems autonomously</a> (Latent Space) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/">Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more</a> (Reuters) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers">Microsoft unveils Project Zenith, a "distraction-free Windows experience" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/">Tesla says Cybercab rides are available in limited areas of Austin; Cybercab is a two-seater with no steering wheel or pedals, and 45 are registered in Texas</a> (Reuters) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk">Tesla holds a muted, invite-only Cybercab event under NDA with pro-Tesla creators; the two-seat robotaxi lacks steering wheel, pedals, and lidar, and its purchase price and sale date remain unannounced</a> (The Verge) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-cybercab-finally-hits-the-roads-after-two-year-wait-but-im-not-convinced-its-driverless-cars-will-catch-waymo-whatever-the-robotaxi-data-says">Tesla says it's logged one million unsupervised Robotaxi miles, up from 380,000 in late July, though Waymo has already passed 200 million rider-only miles</a> (TechRadar) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/">The NHTSA opens an investigation into Tesla's Cybercab hours after its Austin launch, questioning how Tesla self-certified the car's compliance with federal safety standards despite lacking manual controls</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -36,32 +38,32 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-03T13:32:28-07:00">September 03, 2026 at 01:32 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-04T13:19:11-07:00">September 04, 2026 at 01:19 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,089</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,794</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,097</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,796</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(128 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(129 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(72 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(70 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(117 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(97 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(118 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(98 links)</span></li>
       </ol>
     </div>
   </div>

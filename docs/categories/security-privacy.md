@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/) (Reuters)
 - [Sources: Astra's "recurrent depth" technique obscures chain-of-thought reasoning, sparking concerns inside OpenAI and across the industry, though OpenAI limited its use so Astra's thinking stays legible and monitorable](https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns) (The Information)
 - [The FBI is investigating Nexus, a new ID theft service on the dark web claiming to sell digital scans of 153M+ drivers licenses from people in the US and Canada](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) (Krebs on Security)
 - [The leaked licenses, including SecDef Pete Hegseth's, trace back to ID-verification provider IDScan, used by Hertz and Planet13; the FBI's New Orleans office has opened an investigation](https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on-russian-cybercrime-forum-including-that-of-us-secdef-pete-hegseth-data-is-suspected-to-have-come-from-an-id-authentication-service-provider) (Tom's Hardware)

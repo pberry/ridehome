@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 04 2026 - Is Astra AGI?**
+
+  * [OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says Astra is a "generational leap" and "we are now in the AGI era"](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) (The Verge)
+  * [Astra proved more token-efficient than Sol and Fable in Latent Space's testing across 20B+ tokens, emerging as a fully capable AI Engineer that trains models, labels data, and debugs systems autonomously](https://www.latent.space/p/astra) (Latent Space)
+  * [Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/) (Reuters)
+  * [Microsoft unveils Project Zenith, a "distraction-free Windows experience" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers) (The Verge)
+  * [Tesla says Cybercab rides are available in limited areas of Austin; Cybercab is a two-seater with no steering wheel or pedals, and 45 are registered in Texas](https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/) (Reuters)
+  * [Tesla holds a muted, invite-only Cybercab event under NDA with pro-Tesla creators; the two-seat robotaxi lacks steering wheel, pedals, and lidar, and its purchase price and sale date remain unannounced](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk) (The Verge)
+  * [Tesla says it's logged one million unsupervised Robotaxi miles, up from 380,000 in late July, though Waymo has already passed 200 million rider-only miles](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/tesla-cybercab-finally-hits-the-roads-after-two-year-wait-but-im-not-convinced-its-driverless-cars-will-catch-waymo-whatever-the-robotaxi-data-says) (TechRadar)
+  * [The NHTSA opens an investigation into Tesla's Cybercab hours after its Austin launch, questioning how Tesla self-certified the car's compliance with federal safety standards despite lacking manual controls](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/) (TechCrunch)
+
+
+
 **Thursday, September 03 2026 - Nvidia Buys Hugging Face For A Rabbit?**
 
   * [Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) (CNBC)

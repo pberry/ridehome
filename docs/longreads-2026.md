@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 04 2026**
+
+  * [Bloomberg takes a deep look at the race to build quantum computers as the technology becomes a geopolitical battleground that could transform cybersecurity, finance, and more](https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis) (Bloomberg)
+  * [The FT profiles Pangram, the AI detector at the center of disputed AI-plagiarism accusations against high-profile writers, including a pulled novel and a Commonwealth Prize-winning short story](https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?accessToken=zwAAAaBMm1--kdPxAMkLwThBJdOqp4U7d2kNuQ.MEUCIQD9qTbanNcy4aFsIB63aMwpEWmKhiwKwei0K8iINe9fVAIgaV8LFEZp0Bew8dpQtvf4yTiM1UNRU7vKNYGwHUvRD08&sharetype=gift&token=0062664e-51e4-4d79-9f3f-55c018fd91f2&syn-25a6b1a6=1) (FT)
+
+
+
 **Friday, August 28 2026**
 
   * [Home batteries are suddenly cheap and everywhere. Here's why.](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/) (TechCrunch)

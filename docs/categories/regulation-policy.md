@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [The NHTSA opens an investigation into Tesla's Cybercab hours after its Austin launch, questioning how Tesla self-certified the car's compliance with federal safety standards despite lacking manual controls](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/) (TechCrunch)
 - [A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals](https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration) (Bloomberg)
 - [The US FTC and 22 state AGs sue Amazon, alleging it overcharged advertisers by $20B+ since 2019 via hidden surcharges, with costs largely passed on to consumers](https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html) (CNBC)
 

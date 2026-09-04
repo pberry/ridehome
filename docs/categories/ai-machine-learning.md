@@ -9,6 +9,10 @@ layout: category
 
 ### September
 
+- [OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says Astra is a "generational leap" and "we are now in the AGI era"](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) (The Verge)
+- [Astra proved more token-efficient than Sol and Fable in Latent Space's testing across 20B+ tokens, emerging as a fully capable AI Engineer that trains models, labels data, and debugs systems autonomously](https://www.latent.space/p/astra) (Latent Space)
+- [Microsoft unveils Project Zenith, a "distraction-free Windows experience" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers) (The Verge)
+- [The FT profiles Pangram, the AI detector at the center of disputed AI-plagiarism accusations against high-profile writers, including a pulled novel and a Commonwealth Prize-winning short story](https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?accessToken=zwAAAaBMm1--kdPxAMkLwThBJdOqp4U7d2kNuQ.MEUCIQD9qTbanNcy4aFsIB63aMwpEWmKhiwKwei0K8iINe9fVAIgaV8LFEZp0Bew8dpQtvf4yTiM1UNRU7vKNYGwHUvRD08&sharetype=gift&token=0062664e-51e4-4d79-9f3f-55c018fd91f2&syn-25a6b1a6=1) (FT)
 - [Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) (CNBC)
 - [Sources: Decoding Discontinuity's Raphaelle D'Ornano argues Nvidia's bid is really an option on physical AI's data commons, with Hugging Face's $399 Microduck robot converting real-world robot use into open training data](https://www.decodingdiscontinuity.com/p/nvidia-hugging-face-microduck) (Decoding Discontinuity)
 - [Meta rolls out Muse Spark 1.3 in Muse Code and Meta Model API, saying it improves performance across agentic and coding tasks, at the same pricing as Spark 1.2](https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues) (Axios)
