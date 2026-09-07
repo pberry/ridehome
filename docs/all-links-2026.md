@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, September 07 2026 - Tim Cook Ain't Goin Anywhere**
+
+  * [Tim Cook's pay package indicates he will remain very active at Apple; sources: Apple's plans to squeeze more App Store profits prompted Phil Schiller to leave](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU) (Bloomberg)
+  * [Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms](https://www.ft.com/content/8a708224-3a37-4d23-9f5c-158a73216018) (FT)
+  * [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace](https://openai.com/index/an-alien-mind/) (OpenAI)
+  * [Pachocki warns AI agents are becoming "superhuman" at breaching protected systems and calls for mandated safety bars enforced by third-party auditors or government agencies, as models grow better at hiding their reasoning](https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9) (Business Insider)
+  * [How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h) (The New York Times)
+
+
+
 **Friday, September 04 2026 - Is Astra AGI?**
 
   * [OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says Astra is a "generational leap" and "we are now in the AGI era"](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) (The Verge)

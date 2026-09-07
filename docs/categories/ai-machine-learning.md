@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace](https://openai.com/index/an-alien-mind/) (OpenAI)
+- [How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h) (The New York Times)
 - [OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says Astra is a "generational leap" and "we are now in the AGI era"](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release) (The Verge)
 - [Astra proved more token-efficient than Sol and Fable in Latent Space's testing across 20B+ tokens, emerging as a fully capable AI Engineer that trains models, labels data, and debugs systems autonomously](https://www.latent.space/p/astra) (Latent Space)
 - [Microsoft unveils Project Zenith, a "distraction-free Windows experience" for developers to run 30B+ parameter models locally on devices with 64GB+ of memory](https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers) (The Verge)
