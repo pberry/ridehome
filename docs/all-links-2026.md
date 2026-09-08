@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, September 08 2026 - Did AI Just Solve Math?**
+
+  * [A look at Apple's path to a foldable device, the biggest change in iPhone history; sources: memory shortages led Apple to blow past an early $1,999 price goal](https://www.bloomberg.com/news/articles/2026-09-08/apple-s-2-000-plus-foldable-iphone-was-a-decade-in-the-making) (Bloomberg)
+  * [Analysis of LG's smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via the built-in microphone, and more](https://www.youtube.com/watch?v=6IFVTcM28KA) (YouTube)
+  * [The Register reports LG's TVs generated audio transcripts even in standby, collected Wi-Fi network data and unpaired nearby devices, and fed it to LG's ad unit, which claims reach across 363 million addressable devices](https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956) (The Register)
+  * [Mathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and used an internal model to solve it](https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/) (Scientific American)
+
+
+
 **Monday, September 07 2026 - Tim Cook Ain't Goin Anywhere**
 
   * [Tim Cook's pay package indicates he will remain very active at Apple; sources: Apple's plans to squeeze more App Store profits prompted Phil Schiller to leave](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU) (Bloomberg)

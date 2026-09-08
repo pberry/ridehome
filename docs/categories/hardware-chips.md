@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [A look at Apple's path to a foldable device, the biggest change in iPhone history; sources: memory shortages led Apple to blow past an early $1,999 price goal](https://www.bloomberg.com/news/articles/2026-09-08/apple-s-2-000-plus-foldable-iphone-was-a-decade-in-the-making) (Bloomberg)
 - [Bloomberg takes a deep look at the race to build quantum computers as the technology becomes a geopolitical battleground that could transform cybersecurity, finance, and more](https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis) (Bloomberg)
 - [Acer unveils the Swift Blade 14, an ultralight laptop weighing 1.76lbs with Intel Wildcat Lake processors, and the Swift Air 16, set to launch in December](https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs) (The Verge)
 - [John Ternus became Apple's CEO on Tuesday, succeeding Tim Cook after 15 years; he'll have to navigate leadership churn, stem a talent exodus to OpenAI, and unveil a foldable iPhone this month](https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html?unlocked_article_code=1.91A.zvk4.5VKlX8mXE83t) (The New York Times)

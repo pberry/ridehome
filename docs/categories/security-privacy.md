@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Analysis of LG's smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via the built-in microphone, and more](https://www.youtube.com/watch?v=6IFVTcM28KA) (YouTube)
+- [The Register reports LG's TVs generated audio transcripts even in standby, collected Wi-Fi network data and unpaired nearby devices, and fed it to LG's ad unit, which claims reach across 363 million addressable devices](https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956) (The Register)
 - [Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/) (Reuters)
 - [Sources: Astra's "recurrent depth" technique obscures chain-of-thought reasoning, sparking concerns inside OpenAI and across the industry, though OpenAI limited its use so Astra's thinking stays legible and monitorable](https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns) (The Information)
 - [The FBI is investigating Nexus, a new ID theft service on the dark web claiming to sell digital scans of 153M+ drivers licenses from people in the US and Canada](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) (Krebs on Security)
