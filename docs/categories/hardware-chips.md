@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, "readiness" and Health Age metrics, and more, rolling out later in 2026](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/) (TechCrunch)
 - [Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event) (The Verge)
 - [Apple keeps the iPhone 18 Pro line deliberately understated to spotlight its foldable, but its 40% faster A20 Pro, f/1.8 variable aperture camera, and new Reference Image authenticity mode make a compelling upgrade case anyway](https://www.engadget.com/2253951/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/) (Engadget)
 - [Apple announces two AirPods 5 models with 50% more noise cancellation than AirPods 4, both now including Active Noise Cancellation, priced at $129 or $149 with a wireless charging case](https://9to5mac.com/2026/09/09/apple-unveils-airpods-5-with-upgraded-noise-cancellation-more/) (9to5Mac)

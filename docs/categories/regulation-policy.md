@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies "conspired" with board members and was voted interim CEO](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/) (404 Media)
+- [TechCrunch reports Mullenweg's Slack message named board members Ann Dunwoody, Toni Schneider, and Sue Decker as voting Mark Davies interim CEO, while WordPress.org's Mary Hubbard says the open-source project itself is unaffected](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (TechCrunch)
 - [Pachocki warns AI agents are becoming "superhuman" at breaching protected systems and calls for mandated safety bars enforced by third-party auditors or government agencies, as models grow better at hiding their reasoning](https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9) (Business Insider)
 - [The NHTSA opens an investigation into Tesla's Cybercab hours after its Austin launch, questioning how Tesla self-certified the car's compliance with federal safety standards despite lacking manual controls](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/) (TechCrunch)
 - [A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals](https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration) (Bloomberg)

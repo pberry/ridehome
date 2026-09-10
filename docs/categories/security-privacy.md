@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing](https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/) (Wired)
 - [Analysis of LG's smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via the built-in microphone, and more](https://www.youtube.com/watch?v=6IFVTcM28KA) (YouTube)
 - [The Register reports LG's TVs generated audio transcripts even in standby, collected Wi-Fi network data and unpaired nearby devices, and fed it to LG's ad unit, which claims reach across 363 million addressable devices](https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956) (The Register)
 - [Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more](https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/) (Reuters)

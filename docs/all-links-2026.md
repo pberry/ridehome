@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, September 10 2026 - The Man Who Quit The AI Industry**
+
+  * [AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI](https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview) (Axios)
+  * [Business Insider reports Coxon says neither OpenAI nor Anthropic is acting responsibly, and Anthropic alignment lead Evan Hubinger agrees, estimating AI could kill everyone within the next decade at greater than 10% odds](https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9) (Business Insider)
+  * [Coxon tells Wired the next year or two is "crunch time for humanity," pointing to OpenAI's agent swarm hacking Hugging Face on its own volition as evidence no one has solved AI alignment](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/) (Wired)
+  * [Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies "conspired" with board members and was voted interim CEO](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/) (404 Media)
+  * [TechCrunch reports Mullenweg's Slack message named board members Ann Dunwoody, Toni Schneider, and Sue Decker as voting Mark Davies interim CEO, while WordPress.org's Mary Hubbard says the open-source project itself is unaffected](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (TechCrunch)
+  * [Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, "readiness" and Health Age metrics, and more, rolling out later in 2026](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/) (TechCrunch)
+  * [New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing](https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/) (Wired)
+
+
+
 **Wednesday, September 09 2026 - The iPhone Duo**
 
   * [Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event) (The Verge)

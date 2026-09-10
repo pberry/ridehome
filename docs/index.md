@@ -3,17 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, September 09, 2026 - The iPhone Duo</h3>
+  <h3>Thursday, September 10, 2026 - The Man Who Quit The AI Industry</h3>
   <ul>
-    <li><a href="https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event">Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.engadget.com/2253951/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/">Apple keeps the iPhone 18 Pro line deliberately understated to spotlight its foldable, but its 40% faster A20 Pro, f/1.8 variable aperture camera, and new Reference Image authenticity mode make a compelling upgrade case anyway</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://9to5mac.com/2026/09/09/apple-unveils-airpods-5-with-upgraded-noise-cancellation-more/">Apple announces two AirPods 5 models with 50% more noise cancellation than AirPods 4, both now including Active Noise Cancellation, priced at $129 or $149 with a wireless charging case</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/">Apple announces Apple Watch Series 12 and Ultra 4 with a new S11 chip, a heart-rate sensor that measures every five seconds, a new readiness feature, and an Audio Intelligence live-rewind tool</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://9to5mac.com/2026/09/09/apple-unveils-foldable-iphone-duo/">Apple announces its first foldable, the iPhone Duo, with a 5.4-inch outer display, a 7.6-inch inner display, A20 Pro with a new display engine, and Touch ID</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios">The Verge details how iOS 27 shifts controls to the thumb-friendly side, shows dual homescreens when the Duo is open, and adds a standby mode that turns the folded phone into a smart display</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/">TechCrunch reports the iPhone Duo skips Face ID for Touch ID only, runs eSIM-only, gets 31 hours of inner-display video playback or 44 hours outer, and starts at $1,999 with preorders opening October 16</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions">In hands-on impressions, The Verge finds the Duo's matte inner screen resists glare, its crease is nearly undetectable by touch, and opening the phone triggers a gradual screen transition rather than an abrupt switch</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.macrumors.com/2026/09/09/apple-announces-foldable-iphone-duo/">MacRumors reports the iPhone Duo is Apple's thinnest iPhone ever, with a polished titanium frame in Star White or Night Sky, Touch ID built into the side button, and a 100+ component hinge using multi-layer lamination</a> (MacRumors) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview">AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9">Business Insider reports Coxon says neither OpenAI nor Anthropic is acting responsibly, and Anthropic alignment lead Evan Hubinger agrees, estimating AI could kill everyone within the next decade at greater than 10% odds</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/">Coxon tells Wired the next year or two is "crunch time for humanity," pointing to OpenAI's agent swarm hacking Hugging Face on its own volition as evidence no one has solved AI alignment</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/">Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies "conspired" with board members and was voted interim CEO</a> (404 Media) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/">TechCrunch reports Mullenweg's Slack message named board members Ann Dunwoody, Toni Schneider, and Sue Decker as voting Mark Davies interim CEO, while WordPress.org's Mary Hubbard says the open-source project itself is unaffected</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/">Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, "readiness" and Health Age metrics, and more, rolling out later in 2026</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/">New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -39,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-09T14:28:06-07:00">September 09, 2026 at 02:28 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-10T13:27:13-07:00">September 10, 2026 at 01:27 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,115</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,122</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,796</span></li>
       </ul>
     </div>
@@ -62,9 +60,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(113 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(106 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(115 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
       </ol>
     </div>
   </div>

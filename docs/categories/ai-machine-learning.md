@@ -9,6 +9,9 @@ layout: category
 
 ### September
 
+- [AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI](https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview) (Axios)
+- [Business Insider reports Coxon says neither OpenAI nor Anthropic is acting responsibly, and Anthropic alignment lead Evan Hubinger agrees, estimating AI could kill everyone within the next decade at greater than 10% odds](https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9) (Business Insider)
+- [Coxon tells Wired the next year or two is "crunch time for humanity," pointing to OpenAI's agent swarm hacking Hugging Face on its own volition as evidence no one has solved AI alignment](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/) (Wired)
 - [Mathematician Tristan Buckmaster alleges OpenAI learned of his work with Anthropic's Levent Alpöge on Navier-Stokes and used an internal model to solve it](https://www.scientificamerican.com/article/ai-may-have-just-solved-a-million-dollar-math-problem-the-field-will-never-be-the-same/) (Scientific American)
 - [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace](https://openai.com/index/an-alien-mind/) (OpenAI)
 - [How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work](https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html?unlocked_article_code=1.-1A.dcLn.JHW0dAE69g6h) (The New York Times)
