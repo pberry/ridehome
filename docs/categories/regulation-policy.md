@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Wired reports OpenAI has asked Congress whether an industry-wide AI slowdown would violate antitrust law, as a bipartisan bill to let AI labs coordinate on safety sits stalled in the House Judiciary Committee](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/) (Wired)
 - [Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies "conspired" with board members and was voted interim CEO](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/) (404 Media)
 - [TechCrunch reports Mullenweg's Slack message named board members Ann Dunwoody, Toni Schneider, and Sue Decker as voting Mark Davies interim CEO, while WordPress.org's Mary Hubbard says the open-source project itself is unaffected](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (TechCrunch)
 - [Pachocki warns AI agents are becoming "superhuman" at breaching protected systems and calls for mandated safety bars enforced by third-party auditors or government agencies, as models grow better at hiding their reasoning](https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9) (Business Insider)

@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 11 2026 - It's A Doozy**
+
+  * [Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more](https://www.anthropic.com/threat-intelligence-report-september-2026) (Anthropic)
+  * [TechCrunch details Anthropic's five distillation campaigns, including a 151 million-exchange effort tied to Alibaba's Qwen models and a Moonshot AI campaign that routed Chinese military surveillance requests through Claude via 5,000 accounts](https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/) (TechCrunch)
+  * [The New York Times reports Anthropic blocked a scientist's grant request to engineer a more harmful chikungunya virus strain at a military research institute, one of several disrupted plots it says could have aided biological weapons development](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html?unlocked_article_code=1.AFE.vqLg.utU6-8AVkIUw) (The New York Times)
+  * [OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid "unprecedented" Astra demand; existing accounts, other plans, and API are unaffected](https://x.com/thsottiaux/status/2098113585683808624) (X)
+  * [Wired reports OpenAI has asked Congress whether an industry-wide AI slowdown would violate antitrust law, as a bipartisan bill to let AI labs coordinate on safety sits stalled in the House Judiciary Committee](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/) (Wired)
+  * [Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints](https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding) (The Information)
+  * [ID verification service IDScan confirms that a data breach involved the theft of driver's licenses from its systems after hackers tried to sell 153M+ licenses](https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/) (TechCrunch)
+
+
+
 **Thursday, September 10 2026 - The Man Who Quit The AI Industry**
 
   * [AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI](https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview) (Axios)

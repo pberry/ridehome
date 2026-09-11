@@ -3,15 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, September 10, 2026 - The Man Who Quit The AI Industry</h3>
+  <h3>Friday, September 11, 2026 - It's A Doozy</h3>
   <ul>
-    <li><a href="https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview">AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9">Business Insider reports Coxon says neither OpenAI nor Anthropic is acting responsibly, and Anthropic alignment lead Evan Hubinger agrees, estimating AI could kill everyone within the next decade at greater than 10% odds</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/">Coxon tells Wired the next year or two is "crunch time for humanity," pointing to OpenAI's agent swarm hacking Hugging Face on its own volition as evidence no one has solved AI alignment</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/">Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies "conspired" with board members and was voted interim CEO</a> (404 Media) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/">TechCrunch reports Mullenweg's Slack message named board members Ann Dunwoody, Toni Schneider, and Sue Decker as voting Mark Davies interim CEO, while WordPress.org's Mary Hubbard says the open-source project itself is unaffected</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/">Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, "readiness" and Health Age metrics, and more, rolling out later in 2026</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/">New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more</a> (Anthropic) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/">TechCrunch details Anthropic's five distillation campaigns, including a 151 million-exchange effort tied to Alibaba's Qwen models and a Moonshot AI campaign that routed Chinese military surveillance requests through Claude via 5,000 accounts</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html?unlocked_article_code=1.AFE.vqLg.utU6-8AVkIUw">The New York Times reports Anthropic blocked a scientist's grant request to engineer a more harmful chikungunya virus strain at a military research institute, one of several disrupted plots it says could have aided biological weapons development</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://x.com/thsottiaux/status/2098113585683808624">OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid "unprecedented" Astra demand; existing accounts, other plans, and API are unaffected</a> (X) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/">Wired reports OpenAI has asked Congress whether an industry-wide AI slowdown would violate antitrust law, as a bipartisan bill to let AI labs coordinate on safety sits stalled in the House Judiciary Committee</a> (Wired) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.theinformation.com/articles/personal-ai-app-instinct-faces-compute-crunch-lead-new-funding">Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints</a> (The Information) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/">ID verification service IDScan confirms that a data breach involved the theft of driver's licenses from its systems after hackers tried to sell 153M+ licenses</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -37,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-10T13:27:13-07:00">September 10, 2026 at 01:27 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-11T13:30:14-07:00">September 11, 2026 at 01:30 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,122</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,129</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,796</span></li>
       </ul>
     </div>
@@ -61,7 +61,7 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(115 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(116 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
       </ol>
     </div>
