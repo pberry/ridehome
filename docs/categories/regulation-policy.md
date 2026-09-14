@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments](https://darioamodei.com/post/we-must-pace-the-frontier) (Dario Amodei)
+- [The Hollywood Reporter says streamers have lacked DC representation compared to Big Tech and Hollywood, with sports emerging as SACA's top fight as broadcasters push to keep exclusive NFL games free over the air](https://www.hollywoodreporter.com/business/digital/netflix-youtube-amazon-launch-streaming-public-policy-saca-1236700459/) (The Hollywood Reporter)
 - [Wired reports OpenAI has asked Congress whether an industry-wide AI slowdown would violate antitrust law, as a bipartisan bill to let AI labs coordinate on safety sits stalled in the House Judiciary Committee](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/) (Wired)
 - [Slack messages: Automattic CEO Matt Mullenweg says he has been put on paid leave after CFO Mark Davies "conspired" with board members and was voted interim CEO](https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/) (404 Media)
 - [TechCrunch reports Mullenweg's Slack message named board members Ann Dunwoody, Toni Schneider, and Sue Decker as voting Mark Davies interim CEO, while WordPress.org's Mary Hubbard says the open-source project itself is unaffected](https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/) (TechCrunch)

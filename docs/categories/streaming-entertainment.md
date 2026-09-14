@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for "technology-neutral policies"](https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition) (Axios)
+
 ### August
 
 - [Apple TV raises prices in the US, with the monthly price up by $2 to $14.99, its fourth increase in four years; the individual Apple One tier rises $2 to $21.95](https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/) (Variety)

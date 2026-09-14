@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [The Times notes Hugging Face's Clément DeLangue argues AI safety can't be solved behind closed lab doors, just as Nvidia agreed to buy his company for $12.9B, while Nvidia's Jensen Huang accuses Anthropic and OpenAI of stoking fear to entrench their market lead](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html?unlocked_article_code=1.AlE.0NxN.pK2XJvOwEj1y) (The New York Times)
 - [Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, "readiness" and Health Age metrics, and more, rolling out later in 2026](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/) (TechCrunch)
 - [Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event) (The Verge)
 - [Apple keeps the iPhone 18 Pro line deliberately understated to spotlight its foldable, but its 40% faster A20 Pro, f/1.8 variable aperture camera, and new Reference Image authenticity mode make a compelling upgrade case anyway](https://www.engadget.com/2253951/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/) (Engadget)

@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, September 14 2026 - The Great AI Slowdown?**
+
+  * [Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments](https://darioamodei.com/post/we-must-pace-the-frontier) (Dario Amodei)
+  * [The Journal reports Musk, Altman, and Amodei rare display of unity on slowing AI development, with Altman weighing a delay to OpenAI's IPO and investor Brad Gerstner calling it the right balance between speed and safety](https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56?st=15C6gA) (WSJ)
+  * [The Times notes Hugging Face's Clément DeLangue argues AI safety can't be solved behind closed lab doors, just as Nvidia agreed to buy his company for $12.9B, while Nvidia's Jensen Huang accuses Anthropic and OpenAI of stoking fear to entrench their market lead](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html?unlocked_article_code=1.AlE.0NxN.pK2XJvOwEj1y) (The New York Times)
+  * [Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for "technology-neutral policies"](https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition) (Axios)
+  * [The Hollywood Reporter says streamers have lacked DC representation compared to Big Tech and Hollywood, with sports emerging as SACA's top fight as broadcasters push to keep exclusive NFL games free over the air](https://www.hollywoodreporter.com/business/digital/netflix-youtube-amazon-launch-streaming-public-policy-saca-1236700459/) (The Hollywood Reporter)
+  * [Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs](https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002) (FT)
+  * [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections](https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0) (Bloomberg)
+  * [Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago](https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9) (Business Insider)
+
+
+
 **Friday, September 11 2026 - It's A Doozy**
 
   * [Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more](https://www.anthropic.com/threat-intelligence-report-september-2026) (Anthropic)

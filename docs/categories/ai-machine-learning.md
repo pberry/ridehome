@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [The Journal reports Musk, Altman, and Amodei rare display of unity on slowing AI development, with Altman weighing a delay to OpenAI's IPO and investor Brad Gerstner calling it the right balance between speed and safety](https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56?st=15C6gA) (WSJ)
+- [Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs](https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002) (FT)
 - [AI researcher Jacob Coxon says he quit Anthropic after four months, two months before his equity would have vested; he still has equity in prior employer OpenAI](https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview) (Axios)
 - [Business Insider reports Coxon says neither OpenAI nor Anthropic is acting responsibly, and Anthropic alignment lead Evan Hubinger agrees, estimating AI could kill everyone within the next decade at greater than 10% odds](https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9) (Business Insider)
 - [Coxon tells Wired the next year or two is "crunch time for humanity," pointing to OpenAI's agent swarm hacking Hugging Face on its own volition as evidence no one has solved AI alignment](https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/) (Wired)
