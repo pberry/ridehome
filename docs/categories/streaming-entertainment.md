@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets](https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/) (9to5Mac)
 - [Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for "technology-neutral policies"](https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition) (Axios)
 
 ### August

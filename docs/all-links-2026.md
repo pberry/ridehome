@@ -5,6 +5,21 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, September 15 2026 - Trump Says: No Slowdown!**
+
+  * [Jensen Huang took a surprise call from Trump onstage at the All-In Summit on Monday in Los Angeles, where the two agreed that AI safety worries are overblown](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4) (The New York Times)
+  * [Bloomberg quotes Trump calling AI-safety fears a "SICK conspiracy" benefiting only China, and dismissing warnings that AI could destroy humanity as a "HOAX" that his administration won't let stop development](https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei) (Bloomberg)
+  * [MS NOW reports Trump met privately with Sam Altman backstage at the Republican midterm convention days after ex-researcher Jacob Coxon's public warning, as Altman posted that no competitive pressure justifies letting AI capabilities outrun alignment](https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations) (MS NOW)
+  * [Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying "I earnestly believe that AI has the potential to kill us all"](https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTQ3MzgyMywiZXhwIjoxNzkwMDc4NjIzLCJhcnRpY2xlSWQiOiJUTERUOUlUOTZPU0wwMCIsImJjb25uZWN0SWQiOiI2Mzg4Qjk1MjFBRjM0QjRFODdDQTZBM0JGMkM4NTdCMiJ9.PNTfZ06tHToYch_hraL_bIO6_k9fDEh71gI-JrUkWdI) (Bloomberg)
+  * [Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%](https://www.morningstar.com/news/marketwatch/20260914261/crowdstrike-and-palo-alto-networks-lead-software-stocks-to-a-never-before-seen-feat) (Morningstar)
+  * [Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues) (The Verge)
+  * [The Verge reports iOS 27 rolls out today with Siri AI as its headline feature, live in English-only beta with more languages coming in October, alongside a new Liquid Glass opacity slider and refreshed watchOS 27 Workout Buddy tools](https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update) (The Verge)
+  * [Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets](https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/) (9to5Mac)
+  * [9to5Mac details iOS 27's new parental control suite, including a simplified Child Account setup, an Ask to Browse feature for requesting blocked sites, and a redesigned Screen Time with faster cross-device syncing and weekly usage summaries](https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/) (9to5Mac)
+  * [OpenAI researcher: top models are becoming so situationally aware humans "are losing the ability to evaluate them" while humans rely more on AI to lead research](https://x.com/dkokotajlo/status/2099600298855829616) (X)
+
+
+
 **Monday, September 14 2026 - The Great AI Slowdown?**
 
   * [Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments](https://darioamodei.com/post/we-must-pace-the-frontier) (Dario Amodei)

@@ -3,16 +3,18 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, September 14, 2026 - The Great AI Slowdown?</h3>
+  <h3>Tuesday, September 15, 2026 - Trump Says: No Slowdown!</h3>
   <ul>
-    <li><a href="https://darioamodei.com/post/we-must-pace-the-frontier">Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments</a> (Dario Amodei) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/anthropic-boss-warns-ai-industry-must-slow-the-pace-a4267b56?st=15C6gA">The Journal reports Musk, Altman, and Amodei rare display of unity on slowing AI development, with Altman weighing a delay to OpenAI's IPO and investor Brad Gerstner calling it the right balance between speed and safety</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html?unlocked_article_code=1.AlE.0NxN.pK2XJvOwEj1y">The Times notes Hugging Face's Clément DeLangue argues AI safety can't be solved behind closed lab doors, just as Nvidia agreed to buy his company for $12.9B, while Nvidia's Jensen Huang accuses Anthropic and OpenAI of stoking fear to entrench their market lead</a> (The New York Times) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition">Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for "technology-neutral policies"</a> (Axios) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.hollywoodreporter.com/business/digital/netflix-youtube-amazon-launch-streaming-public-policy-saca-1236700459/">The Hollywood Reporter says streamers have lacked DC representation compared to Big Tech and Hollywood, with sports emerging as SACA's top fight as broadcasters push to keep exclusive NFL games free over the air</a> (The Hollywood Reporter) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002">Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0">Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9">Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago</a> (Business Insider) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4">Jensen Huang took a surprise call from Trump onstage at the All-In Summit on Monday in Los Angeles, where the two agreed that AI safety worries are overblown</a> (The New York Times) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei">Bloomberg quotes Trump calling AI-safety fears a "SICK conspiracy" benefiting only China, and dismissing warnings that AI could destroy humanity as a "HOAX" that his administration won't let stop development</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations">MS NOW reports Trump met privately with Sam Altman backstage at the Republican midterm convention days after ex-researcher Jacob Coxon's public warning, as Altman posted that no competitive pressure justifies letting AI capabilities outrun alignment</a> (MS NOW) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTQ3MzgyMywiZXhwIjoxNzkwMDc4NjIzLCJhcnRpY2xlSWQiOiJUTERUOUlUOTZPU0wwMCIsImJjb25uZWN0SWQiOiI2Mzg4Qjk1MjFBRjM0QjRFODdDQTZBM0JGMkM4NTdCMiJ9.PNTfZ06tHToYch_hraL_bIO6_k9fDEh71gI-JrUkWdI">Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying "I earnestly believe that AI has the potential to kill us all"</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.morningstar.com/news/marketwatch/20260914261/crowdstrike-and-palo-alto-networks-lead-software-stocks-to-a-never-before-seen-feat">Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%</a> (Morningstar) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues">Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs</a> (The Verge) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update">The Verge reports iOS 27 rolls out today with Siri AI as its headline feature, live in English-only beta with more languages coming in October, alongside a new Liquid Glass opacity slider and refreshed watchOS 27 Workout Buddy tools</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/">Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets</a> (9to5Mac) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/">9to5Mac details iOS 27's new parental control suite, including a simplified Child Account setup, an Ask to Browse feature for requesting blocked sites, and a redesigned Screen Time with faster cross-device syncing and weekly usage summaries</a> (9to5Mac) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://x.com/dkokotajlo/status/2099600298855829616">OpenAI researcher: top models are becoming so situationally aware humans "are losing the ability to evaluate them" while humans rely more on AI to lead research</a> (X) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -38,13 +40,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-14T14:31:37-07:00">September 14, 2026 at 02:31 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-15T13:53:35-07:00">September 15, 2026 at 01:53 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,137</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,147</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,796</span></li>
       </ul>
     </div>
@@ -52,16 +54,16 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(125 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(277 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(115 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
       </ol>
