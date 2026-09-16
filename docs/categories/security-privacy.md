@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Sources: OpenAI and Anthropic staff felt blindsided by Dario Amodei's and Sam Altman's calls to slow the frontier; some fear evaluators may compromise security](https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3) (FT)
 - [Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%](https://www.morningstar.com/news/marketwatch/20260914261/crowdstrike-and-palo-alto-networks-lead-software-stocks-to-a-never-before-seen-feat) (Morningstar)
 - [Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues) (The Verge)
 - [9to5Mac details iOS 27's new parental control suite, including a simplified Child Account setup, an Ask to Browse feature for requesting blocked sites, and a redesigned Screen Time with faster cross-device syncing and weekly usage summaries](https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/) (9to5Mac)

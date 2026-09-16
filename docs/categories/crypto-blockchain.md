@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [The US Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework; crypto falls](https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html) (CNBC)
+
 ### August
 
 - [Binance launches Agent OS, a platform that lets AI agents analyze markets and execute trades on users' behalf; users set limits on AI agents' access and trades](https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/) (TechCrunch)

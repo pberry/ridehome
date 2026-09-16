@@ -3,18 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, September 15, 2026 - Trump Says: No Slowdown!</h3>
+  <h3>Wednesday, September 16, 2026 - Crypto Takes An "L" In The Senate</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4">Jensen Huang took a surprise call from Trump onstage at the All-In Summit on Monday in Los Angeles, where the two agreed that AI safety worries are overblown</a> (The New York Times) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei">Bloomberg quotes Trump calling AI-safety fears a "SICK conspiracy" benefiting only China, and dismissing warnings that AI could destroy humanity as a "HOAX" that his administration won't let stop development</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations">MS NOW reports Trump met privately with Sam Altman backstage at the Republican midterm convention days after ex-researcher Jacob Coxon's public warning, as Altman posted that no competitive pressure justifies letting AI capabilities outrun alignment</a> (MS NOW) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-15/google-deepmind-staffer-says-ai-may-kill-us-all-in-exit-post?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTQ3MzgyMywiZXhwIjoxNzkwMDc4NjIzLCJhcnRpY2xlSWQiOiJUTERUOUlUOTZPU0wwMCIsImJjb25uZWN0SWQiOiI2Mzg4Qjk1MjFBRjM0QjRFODdDQTZBM0JGMkM4NTdCMiJ9.PNTfZ06tHToYch_hraL_bIO6_k9fDEh71gI-JrUkWdI">Google DeepMind AI Safety and Alignment researcher Bilal Chughtai publicly resigns, saying "I earnestly believe that AI has the potential to kill us all"</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.morningstar.com/news/marketwatch/20260914261/crowdstrike-and-palo-alto-networks-lead-software-stocks-to-a-never-before-seen-feat">Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%</a> (Morningstar) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues">Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs</a> (The Verge) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update">The Verge reports iOS 27 rolls out today with Siri AI as its headline feature, live in English-only beta with more languages coming in October, alongside a new Liquid Glass opacity slider and refreshed watchOS 27 Workout Buddy tools</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/">Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets</a> (9to5Mac) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/">9to5Mac details iOS 27's new parental control suite, including a simplified Child Account setup, an Ask to Browse feature for requesting blocked sites, and a redesigned Screen Time with faster cross-device syncing and weekly usage summaries</a> (9to5Mac) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://x.com/dkokotajlo/status/2099600298855829616">OpenAI researcher: top models are becoming so situationally aware humans "are losing the ability to evaluate them" while humans rely more on AI to lead research</a> (X) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html">The US Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework; crypto falls</a> (CNBC) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns">Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse</a> (The Information) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3">Sources: OpenAI and Anthropic staff felt blindsided by Dario Amodei's and Sam Altman's calls to slow the frontier; some fear evaluators may compromise security</a> (FT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711">TypeSafe AI debuts Jev, a model using "Reinforcement Learning for Calibrated Decisions" to produce typed probabilistic decisions that software can use directly</a> (The Register) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture">iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -40,13 +35,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-15T13:53:35-07:00">September 15, 2026 at 01:53 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-16T13:54:25-07:00">September 16, 2026 at 01:54 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,147</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,152</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,796</span></li>
       </ul>
     </div>
@@ -55,17 +50,17 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(125 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(69 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(60 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(115 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(276 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(113 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(105 links)</span></li>
       </ol>
     </div>
   </div>

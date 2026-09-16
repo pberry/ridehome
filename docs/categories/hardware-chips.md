@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse](https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns) (The Information)
+- [iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers](https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture) (The Verge)
 - [The Times notes Hugging Face's Clément DeLangue argues AI safety can't be solved behind closed lab doors, just as Nvidia agreed to buy his company for $12.9B, while Nvidia's Jensen Huang accuses Anthropic and OpenAI of stoking fear to entrench their market lead](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html?unlocked_article_code=1.AlE.0NxN.pK2XJvOwEj1y) (The New York Times)
 - [Apple unveils a new Health app with Apple Intelligence, featuring an Insights tab, "readiness" and Health Age metrics, and more, rolling out later in 2026](https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/) (TechCrunch)
 - [Apple announces the iPhone 18 Pro and iPhone 18 Pro Max, with a similar design to 17 Pro and a new A20 Pro chip, in deep black, silver, glacier, and burgundy](https://www.theverge.com/tech/986331/apple-iphone-18-pro-max-september-2026-event) (The Verge)

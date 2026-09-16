@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, September 16 2026 - Crypto Takes An "L" In The Senate**
+
+  * [The US Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework; crypto falls](https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html) (CNBC)
+  * [Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse](https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns) (The Information)
+  * [Sources: OpenAI and Anthropic staff felt blindsided by Dario Amodei's and Sam Altman's calls to slow the frontier; some fear evaluators may compromise security](https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3) (FT)
+  * [TypeSafe AI debuts Jev, a model using "Reinforcement Learning for Calibrated Decisions" to produce typed probabilistic decisions that software can use directly](https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711) (The Register)
+  * [iPhone 18 Pro and 18 Pro Max review: manual camera exposure controls and image quality improvements, but $100 more than the 17 Pro and expensive storage tiers](https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture) (The Verge)
+
+
+
 **Tuesday, September 15 2026 - Trump Says: No Slowdown!**
 
   * [Jensen Huang took a surprise call from Trump onstage at the All-In Summit on Monday in Los Angeles, where the two agreed that AI safety worries are overblown](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4) (The New York Times)

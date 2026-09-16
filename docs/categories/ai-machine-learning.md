@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [TypeSafe AI debuts Jev, a model using "Reinforcement Learning for Calibrated Decisions" to produce typed probabilistic decisions that software can use directly](https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711) (The Register)
 - [Jensen Huang took a surprise call from Trump onstage at the All-In Summit on Monday in Los Angeles, where the two agreed that AI safety worries are overblown](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4) (The New York Times)
 - [Bloomberg quotes Trump calling AI-safety fears a "SICK conspiracy" benefiting only China, and dismissing warnings that AI could destroy humanity as a "HOAX" that his administration won't let stop development](https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei) (Bloomberg)
 - [MS NOW reports Trump met privately with Sam Altman backstage at the Republican midterm convention days after ex-researcher Jacob Coxon's public warning, as Altman posted that no competitive pressure justifies letting AI capabilities outrun alignment](https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations) (MS NOW)
