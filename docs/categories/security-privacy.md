@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w) (The Verge)
 - [Sources: OpenAI and Anthropic staff felt blindsided by Dario Amodei's and Sam Altman's calls to slow the frontier; some fear evaluators may compromise security](https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3) (FT)
 - [Cybersecurity stocks were the top performers in the S&P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9%](https://www.morningstar.com/news/marketwatch/20260914261/crowdstrike-and-palo-alto-networks-lead-software-stocks-to-a-never-before-seen-feat) (Morningstar)
 - [Microsoft rolls out emergency fix for critical issues caused by its September Patch Tuesday update, which addressed ~1,000 vulnerabilities but introduced bugs](https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues) (The Verge)

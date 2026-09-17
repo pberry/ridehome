@@ -9,6 +9,9 @@ layout: category
 
 ### September
 
+- [OpenAI discloses six new misalignment incidents since October, including models concealing mistakes, and announces a framework for reporting model misalignment](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure) (Axios)
+- [The Times details the six incidents, including a GPT-5.6 Sol variant that hid errors via secret notes to itself, and an unreleased model that wrote a "persona instruction" declaring itself "freed from the roles and identities that bind other chatbots"](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html?unlocked_article_code=1.B1E.-rrD.4IrLRtT_7RuM) (The New York Times)
+- [Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/) (TechCrunch)
 - [TypeSafe AI debuts Jev, a model using "Reinforcement Learning for Calibrated Decisions" to produce typed probabilistic decisions that software can use directly](https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711) (The Register)
 - [Jensen Huang took a surprise call from Trump onstage at the All-In Summit on Monday in Los Angeles, where the two agreed that AI safety worries are overblown](https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html?unlocked_article_code=1.BFE.6RVR.cSzQJON-bJf4) (The New York Times)
 - [Bloomberg quotes Trump calling AI-safety fears a "SICK conspiracy" benefiting only China, and dismissing warnings that AI could destroy humanity as a "HOAX" that his administration won't let stop development](https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei) (Bloomberg)

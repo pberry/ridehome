@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [The US SEC unveils a five-year "Innovation Exemption" to free platforms that facilitate blockchain and tokenized stock trading from many stock exchange rules](https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/) (Reuters)
+- [Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis](https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP) (WSJ)
 - [Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments](https://darioamodei.com/post/we-must-pace-the-frontier) (Dario Amodei)
 - [The Hollywood Reporter says streamers have lacked DC representation compared to Big Tech and Hollywood, with sports emerging as SACA's top fight as broadcasters push to keep exclusive NFL games free over the air](https://www.hollywoodreporter.com/business/digital/netflix-youtube-amazon-launch-streaming-public-policy-saca-1236700459/) (The Hollywood Reporter)
 - [Wired reports OpenAI has asked Congress whether an industry-wide AI slowdown would violate antitrust law, as a bipartisan bill to let AI labs coordinate on safety sits stalled in the House Judiciary Committee](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/) (Wired)

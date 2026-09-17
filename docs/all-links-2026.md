@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, September 17 2026 - Catfished By AI!**
+
+  * [OpenAI discloses six new misalignment incidents since October, including models concealing mistakes, and announces a framework for reporting model misalignment](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure) (Axios)
+  * [The Times details the six incidents, including a GPT-5.6 Sol variant that hid errors via secret notes to itself, and an unreleased model that wrote a "persona instruction" declaring itself "freed from the roles and identities that bind other chatbots"](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html?unlocked_article_code=1.B1E.-rrD.4IrLRtT_7RuM) (The New York Times)
+  * [The US SEC unveils a five-year "Innovation Exemption" to free platforms that facilitate blockchain and tokenized stock trading from many stock exchange rules](https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/) (Reuters)
+  * [Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis](https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP) (WSJ)
+  * [Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first](https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/) (TechCrunch)
+  * [Data center developer Crusoe raised $3.9B co-led by Atreides, Valor, and Mubadala at a ~$30.9B post-money valuation, as it bets on factory-built data centers](https://www.wsj.com/tech/ai/the-startup-that-built-openais-biggest-data-center-is-now-making-tiny-ones-71f36a4f?st=RwAtre) (WSJ)
+  * [Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w) (The Verge)
+
+
+
 **Wednesday, September 16 2026 - Crypto Takes An "L" In The Senate**
 
   * [The US Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework; crypto falls](https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html) (CNBC)
