@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 18 2026**
+
+  * [Theoretical computer scientist Scott Aaronson says he's heard rumors that AI labs are sitting on major unpublished math solutions, and describes a mathematics community consumed by anxious conversation about the "AI tsunami" after the hostile response to a recent Navier-Stokes proof](https://scottaaronson.blog/?p=10062) (Shtetl)
+  * [The FT reports the AI boom is fueling a resurgence in VC bets on "moonshot" sectors like nuclear fusion and brain-computer interfaces, as Dealroom data shows non-AI deep-tech funding has topped $150B since the start of 2024](https://www.ft.com/content/0c440134-686f-4b55-ab35-2afe4e6a3f91?accessToken=zwAAAaCJ35XTkc8MRAE0aG9LVdOrNSr-Tmo_kQ.MEQCIER3H-O6mWRcAmNO3_yTDCjVmPf-Ca6Shrf6XTNkM3BQAiAUjNiTniaSHEjRydTLImC95ZyADy7FI3TYJz1a1lHjAQ&sharetype=gift&token=c46878b0-1d41-4b3c-9645-6e6e80bff9fd) (FT)
+
+
+
 **Friday, September 04 2026**
 
   * [Bloomberg takes a deep look at the race to build quantum computers as the technology becomes a geopolitical battleground that could transform cybersecurity, finance, and more](https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis) (Bloomberg)

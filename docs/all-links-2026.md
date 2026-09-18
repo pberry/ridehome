@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 18 2026 - OpenAI Got Hacked By... AI**
+
+  * [Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its "monorepo" on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5](https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1) (WSJ)
+  * [OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms](https://openai.com/index/astra-for-law) (OpenAI)
+  * [SiliconANGLE reports Astra for Law passed 54% of legal-research benchmark questions versus 38.7% for base GPT-6 Astra, launches with 26 partner-built plugins connecting Relativity, Clio, and iManage, and brings ChatGPT for Word to general availability](https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/) (SiliconANGLE)
+  * [Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code](https://claude.com/blog/projects-redesigned) (Anthropic)
+  * [The Verge reports each project thread runs as its own Claude Code cloud session on a separate repo branch, with a coordinator resolving overlapping work as merge conflicts, and beta access starting today for select Claude Pro and Max subscribers](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects) (The Verge)
+  * [Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research](https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/) (Reuters)
+
+
+
 **Thursday, September 17 2026 - Catfished By AI!**
 
   * [OpenAI discloses six new misalignment incidents since October, including models concealing mistakes, and announces a framework for reporting model misalignment](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure) (Axios)
