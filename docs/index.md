@@ -3,14 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, September 18, 2026 - OpenAI Got Hacked By... AI</h3>
+  <h3>Tuesday, September 22, 2026 - Meta Finally Has An AI Hit</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1">Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its "monorepo" on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://openai.com/index/astra-for-law">OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/">SiliconANGLE reports Astra for Law passed 54% of legal-research benchmark questions versus 38.7% for base GPT-6 Astra, launches with 26 partner-built plugins connecting Relativity, Clio, and iManage, and brings ChatGPT for Word to general availability</a> (SiliconANGLE) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://claude.com/blog/projects-redesigned">Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects">The Verge reports each project thread runs as its own Claude Code cloud session on a separate repo branch, with a coordinator resolving overlapping work as merge conflicts, and beta access starting today for select Claude Pro and Max subscribers</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/">Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX">Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay</a> (WSJ) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews">Bloomberg reports Muse hit No. 1 free app on iOS and Google Play with 902,000 downloads in six days, sending Meta shares up 11% to their highest close since October and lifting AMD past a $1 trillion market cap</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure">Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming "reset"; Activision will take over Halo and two other games</a> (The Verge) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://mimo.xiaomi.com/mimo-v2-6">Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks"</a> (Xiaomi) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash">VentureBeat reports MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index, topping Grok 4.6's 44 and Gemini 3.8 Flash's 41, while undercutting rivals at $0.435/$0.87 per million tokens under an MIT license</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/">Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios</a> (Forbes) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.bbc.com/news/articles/c607l2j2rj8ro">The BBC reports the 600-capacity venue opens amid pressure on London's live music scene, where 45 venues closed last year, with Apple Music VP Oliver Schusser saying it isn't trying to compete with independent venues</a> (BBC) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA">a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -36,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-18T13:26:45-07:00">September 18, 2026 at 01:26 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-22T13:55:17-07:00">September 22, 2026 at 01:55 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,165</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,173</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,798</span></li>
       </ul>
     </div>
@@ -50,9 +52,9 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(120 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(60 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
       </ol>
     </div>
 
@@ -60,7 +62,7 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
       </ol>
     </div>

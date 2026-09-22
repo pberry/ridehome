@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, September 22 2026 - Meta Finally Has An AI Hit**
+
+  * [Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX) (WSJ)
+  * [Bloomberg reports Muse hit No. 1 free app on iOS and Google Play with 902,000 downloads in six days, sending Meta shares up 11% to their highest close since October and lifting AMD past a $1 trillion market cap](https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews) (Bloomberg)
+  * [Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming "reset"; Activision will take over Halo and two other games](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure) (The Verge)
+  * [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks"](https://mimo.xiaomi.com/mimo-v2-6) (Xiaomi)
+  * [VentureBeat reports MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index, topping Grok 4.6's 44 and Gemini 3.8 Flash's 41, while undercutting rivals at $0.435/$0.87 per million tokens under an MIT license](https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash) (VentureBeat)
+  * [Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios](https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/) (Forbes)
+  * [The BBC reports the 600-capacity venue opens amid pressure on London's live music scene, where 45 venues closed last year, with Apple Music VP Oliver Schusser saying it isn't trying to compete with independent venues](https://www.bbc.com/news/articles/c607l2j2rj8ro) (BBC)
+  * [a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute](https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA) (WSJ)
+
+
+
 **Friday, September 18 2026 - OpenAI Got Hacked By... AI**
 
   * [Security researchers in an OpenAI bug bounty program hacked OpenAI, accessing its "monorepo" on GitHub, using a cybersecurity version of Opus 4.8 and Opus 5](https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1) (WSJ)

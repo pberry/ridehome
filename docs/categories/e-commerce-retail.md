@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX) (WSJ)
+
 ### August
 
 - [Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including Chicago and Atlanta by 2026's end](https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta) (Bloomberg)

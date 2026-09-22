@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks"](https://mimo.xiaomi.com/mimo-v2-6) (Xiaomi)
+- [VentureBeat reports MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index, topping Grok 4.6's 44 and Gemini 3.8 Flash's 41, while undercutting rivals at $0.435/$0.87 per million tokens under an MIT license](https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash) (VentureBeat)
 - [OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms](https://openai.com/index/astra-for-law) (OpenAI)
 - [SiliconANGLE reports Astra for Law passed 54% of legal-research benchmark questions versus 38.7% for base GPT-6 Astra, launches with 26 partner-built plugins connecting Relativity, Clio, and iManage, and brings ChatGPT for Word to general availability](https://siliconangle.com/2026/09/17/openai-launches-astra-for-law-a-gpt-6-configuration-for-legal-research/) (SiliconANGLE)
 - [Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code](https://claude.com/blog/projects-redesigned) (Anthropic)

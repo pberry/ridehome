@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### September
+
+- [Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming "reset"; Activision will take over Halo and two other games](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure) (The Verge)
+
 ### August
 
 - [Rockstar says it will show an "extended look" at Grand Theft Auto VI on August 27, premiering on Netflix at 3pm ET before streaming on YouTube at 9pm ET](https://www.theverge.com/entertainment/976073/gta-6-trailer-3-date-time-netflix-youtube) (The Verge)

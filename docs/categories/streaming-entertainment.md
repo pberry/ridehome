@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios](https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/) (Forbes)
+- [The BBC reports the 600-capacity venue opens amid pressure on London's live music scene, where 45 venues closed last year, with Apple Music VP Oliver Schusser saying it isn't trying to compete with independent venues](https://www.bbc.com/news/articles/c607l2j2rj8ro) (BBC)
 - [Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets](https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/) (9to5Mac)
 - [Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for "technology-neutral policies"](https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition) (Axios)
 
