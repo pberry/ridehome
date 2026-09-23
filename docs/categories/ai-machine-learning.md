@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's "pace the frontier" essay, and says it has enhanced safeguards to combat risky behavior](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) (The Verge)
+- [OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost](https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/) (ZDNet)
 - [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks"](https://mimo.xiaomi.com/mimo-v2-6) (Xiaomi)
 - [VentureBeat reports MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index, topping Grok 4.6's 44 and Gemini 3.8 Flash's 41, while undercutting rivals at $0.435/$0.87 per million tokens under an MIT license](https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash) (VentureBeat)
 - [OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms](https://openai.com/index/astra-for-law) (OpenAI)

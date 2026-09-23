@@ -9,6 +9,10 @@ layout: category
 
 ### September
 
+- [YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators](https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ) (WSJ)
+- [YouTube launches Shorts Series, letting creators organize their Shorts into TV-style seasons and episodes with custom thumbnails, so fans can watch a season as one continuous story](https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/) (TechCrunch)
+- [YouTube unveils an AI agent that mines creators' back catalogs for trending video ideas and lets them A/B-test three full video versions against real audience segments](https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests) (The Verge)
+- [At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users](https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/) (Wired)
 - [Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios](https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/) (Forbes)
 - [The BBC reports the 600-capacity venue opens amid pressure on London's live music scene, where 45 venues closed last year, with Apple Music VP Oliver Schusser saying it isn't trying to compete with independent venues](https://www.bbc.com/news/articles/c607l2j2rj8ro) (BBC)
 - [Apple says iCloud+ now includes Apple TV and Arcade for no extra fee in 100+ countries, and Apple Music Select, offering ad-free radio stations, in some markets](https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/) (9to5Mac)

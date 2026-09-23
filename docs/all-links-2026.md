@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, September 23 2026 - AI Models Just Got Cheaper?**
+
+  * [Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's "pace the frontier" essay, and says it has enhanced safeguards to combat risky behavior](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) (The Verge)
+  * [OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost](https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/) (ZDNet)
+  * [YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators](https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ) (WSJ)
+  * [YouTube launches Shorts Series, letting creators organize their Shorts into TV-style seasons and episodes with custom thumbnails, so fans can watch a season as one continuous story](https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/) (TechCrunch)
+  * [YouTube unveils an AI agent that mines creators' back catalogs for trending video ideas and lets them A/B-test three full video versions against real audience segments](https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests) (The Verge)
+  * [At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users](https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/) (Wired)
+
+
+
 **Tuesday, September 22 2026 - Meta Finally Has An AI Hit**
 
   * [Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX) (WSJ)

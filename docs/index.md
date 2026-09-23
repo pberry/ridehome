@@ -3,16 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, September 22, 2026 - Meta Finally Has An AI Hit</h3>
+  <h3>Wednesday, September 23, 2026 - AI Models Just Got Cheaper?</h3>
   <ul>
-    <li><a href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX">Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay</a> (WSJ) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews">Bloomberg reports Muse hit No. 1 free app on iOS and Google Play with 902,000 downloads in six days, sending Meta shares up 11% to their highest close since October and lifting AMD past a $1 trillion market cap</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure">Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming "reset"; Activision will take over Halo and two other games</a> (The Verge) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://mimo.xiaomi.com/mimo-v2-6">Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks"</a> (Xiaomi) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash">VentureBeat reports MiMo-V2.6-Pro scores 46 on the Artificial Analysis Intelligence Index, topping Grok 4.6's 44 and Gemini 3.8 Flash's 41, while undercutting rivals at $0.435/$0.87 per million tokens under an MIT license</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.forbes.com/sites/davidphelan/2026/09/22/apple-music-hall-revealed-1st-look-inside-apples-new-music-venue-at-london-hq/">Apple unveils Apple Music Hall, a 600-person live music venue built in its London headquarters at Battersea Power Station with two recording and mixing studios</a> (Forbes) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.bbc.com/news/articles/c607l2j2rj8ro">The BBC reports the 600-capacity venue opens amid pressure on London's live music scene, where 45 venues closed last year, with Apple Music VP Oliver Schusser saying it isn't trying to compete with independent venues</a> (BBC) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA">a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity">Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's "pace the frontier" essay, and says it has enhanced safeguards to combat risky behavior</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/">OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost</a> (ZDNet) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ">YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators</a> (WSJ) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/">YouTube launches Shorts Series, letting creators organize their Shorts into TV-style seasons and episodes with custom thumbnails, so fans can watch a season as one continuous story</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests">YouTube unveils an AI agent that mines creators' back catalogs for trending video ideas and lets them A/B-test three full video versions against real audience segments</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/">At its Made on YouTube event, YouTube unveils Custom Feeds, an LLM-powered feature that lets users generate and save tailored homepage video feeds, for US users</a> (Wired) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -38,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-22T13:55:17-07:00">September 22, 2026 at 01:55 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-23T14:07:27-07:00">September 23, 2026 at 02:07 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,173</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,179</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,798</span></li>
       </ul>
     </div>
@@ -52,17 +50,17 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(120 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(70 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(279 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(105 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(104 links)</span></li>
       </ol>
     </div>
