@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Meta's Muse Charm houses a cute digital avatar named Jolly and lets you start talking to Muse with a tap of the fingerprint sensor — no phone unlock required](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/) (TechCrunch)
+- [Muse agents are getting their own email addresses, a live video-call mode, and the ability to control your Mac](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026) (The Verge)
 - [Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's "pace the frontier" essay, and says it has enhanced safeguards to combat risky behavior](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) (The Verge)
 - [OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost](https://www.zdnet.com/innovation/openai-gpt-6-sol-luna-release/) (ZDNet)
 - [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs "on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks"](https://mimo.xiaomi.com/mimo-v2-6) (Xiaomi)

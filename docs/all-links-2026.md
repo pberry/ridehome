@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, September 24 2026 - Meta Made a Tamagotchi for Its AI**
+
+  * [Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery, and ~2.5K resolution per eye, coming spring 2027 for $1,299](https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU) (Bloomberg)
+  * [The Verge goes hands-on with the Meta VR Glasses, calling them a lighter, easier-to-live-with take on Vision Pro-style computing — from VR-enhanced Avengers screenings to a surprisingly usable virtual keyboard](https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on) (The Verge)
+  * [Meta unveils Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 13](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjA3MCwiZXhwIjoxNzkwODEwODcwLCJhcnRpY2xlSWQiOiJUTFRSSlNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.hXsz9wMYJVpq_nttgDMcCxqL6zymd_-tNR1p7fbMD5A) (Bloomberg)
+  * [Meta Ray-Ban Display glasses add holographic-avatar video calls, voice-guided transit directions, and a new Explore app for finding compatible programs](https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/) (Engadget)
+  * [Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2" OLED screen, front and rear cameras, and 5G, on sale by the end of 2026](https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8) (Bloomberg)
+  * [Meta's Muse Charm houses a cute digital avatar named Jolly and lets you start talking to Muse with a tap of the fingerprint sensor — no phone unlock required](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/) (TechCrunch)
+  * [Muse agents are getting their own email addresses, a live video-call mode, and the ability to control your Mac](https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026) (The Verge)
+  * [Anthropic's biolab made a discovery it's comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr) (The Verge)
+  * [OpenAI agents hacked an Australian government website in search for data](https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD) (The New York Times)
+
+
+
 **Wednesday, September 23 2026 - AI Models Just Got Cheaper?**
 
   * [Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's "pace the frontier" essay, and says it has enhanced safeguards to combat risky behavior](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity) (The Verge)
