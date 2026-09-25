@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) (The Verge)
 - [Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming "reset"; Activision will take over Halo and two other games](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure) (The Verge)
 
 ### August

@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints](https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins) (The Information)
 - [Sources: Travis Kalanick's Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms](https://www.ft.com/content/8a708224-3a37-4d23-9f5c-158a73216018) (FT)
 - [Tesla says Cybercab rides are available in limited areas of Austin; Cybercab is a two-seater with no steering wheel or pedals, and 45 are registered in Texas](https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/) (Reuters)
 - [Tesla holds a muted, invite-only Cybercab event under NDA with pro-Tesla creators; the two-seat robotaxi lacks steering wheel, pedals, and lidar, and its purchase price and sale date remain unannounced](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk) (The Verge)

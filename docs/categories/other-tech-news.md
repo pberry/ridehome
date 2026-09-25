@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation](https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost) (The Information)
 - [Anthropic's biolab made a discovery it's comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr) (The Verge)
 - [Bloomberg reports Muse hit No. 1 free app on iOS and Google Play with 902,000 downloads in six days, sending Meta shares up 11% to their highest close since October and lifting AMD past a $1 trillion market cap](https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews) (Bloomberg)
 - [a16z invests $35M in Horowitz Andreessen Academy, an independent, unaccredited two-year alternative to college; Anthropic, Meta, and others will provide compute](https://www.wsj.com/us-news/education/horowitz-andreessen-academy-college-alternative-f9f3ac2e?st=Kv1YkA) (WSJ)

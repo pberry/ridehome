@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 25 2026 - Is Copilot Microsoft's Everything App?**
+
+  * [Microsoft launches its Copilot "super app", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM) (The Verge)
+  * [Microsoft's new Copilot Code tab, built on GitHub Copilot tech, lets anyone describe a dashboard, workflow, or lightweight app in plain language and build it inside Microsoft 365, no coding required](https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-just-rethought-its-entire-ai-strategy-new-copilot) (Windows Central)
+  * [Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints](https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins) (The Information)
+  * [Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) (The Verge)
+  * [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation](https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost) (The Information)
+  * [Sources: OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself](https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9) (Business Insider)
+
+
+
 **Thursday, September 24 2026 - Meta Made a Tamagotchi for Its AI**
 
   * [Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery, and ~2.5K resolution per eye, coming spring 2027 for $1,299](https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU) (Bloomberg)

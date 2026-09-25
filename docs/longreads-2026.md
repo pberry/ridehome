@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, September 25 2026**
+
+  * [The AI build-out is on track to become the biggest economic bet in US history, with $10.3T in data center and AI infrastructure investment projected from 2025 to 2032](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd) (WSJ)
+
+
+
 **Friday, September 18 2026**
 
   * [Theoretical computer scientist Scott Aaronson says he's heard rumors that AI labs are sitting on major unpublished math solutions, and describes a mathematics community consumed by anxious conversation about the "AI tsunami" after the hostile response to a recent Navier-Stokes proof](https://scottaaronson.blog/?p=10062) (Shtetl)

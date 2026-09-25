@@ -3,17 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, September 24, 2026 - Meta Made a Tamagotchi for Its AI</h3>
+  <h3>Friday, September 25, 2026 - Is Copilot Microsoft's Everything App?</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU">Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery, and ~2.5K resolution per eye, coming spring 2027 for $1,299</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on">The Verge goes hands-on with the Meta VR Glasses, calling them a lighter, easier-to-live-with take on Vision Pro-style computing — from VR-enhanced Avengers screenings to a surprisingly usable virtual keyboard</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjA3MCwiZXhwIjoxNzkwODEwODcwLCJhcnRpY2xlSWQiOiJUTFRSSlNUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.hXsz9wMYJVpq_nttgDMcCxqL6zymd_-tNR1p7fbMD5A">Meta unveils Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 13</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/">Meta Ray-Ban Display glasses add holographic-avatar video calls, voice-guided transit directions, and a new Explore app for finding compatible programs</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8">Meta previews Muse Charm, a palm-sized Tamagotchi-like device for using Muse, with a ~2" OLED screen, front and rear cameras, and 5G, on sale by the end of 2026</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/">Meta's Muse Charm houses a cute digital avatar named Jolly and lets you start talking to Muse with a tap of the fingerprint sensor — no phone unlock required</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026">Muse agents are getting their own email addresses, a live video-call mode, and the ability to control your Mac</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr">Anthropic's biolab made a discovery it's comparing to Crispr</a> (The Verge) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD">OpenAI agents hacked an Australian government website in search for data</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM">Microsoft launches its Copilot "super app", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-just-rethought-its-entire-ai-strategy-new-copilot">Microsoft's new Copilot Code tab, built on GitHub Copilot tech, lets anyone describe a dashboard, workflow, or lightweight app in plain language and build it inside Microsoft 365, no coding required</a> (Windows Central) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins">Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints</a> (The Information) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games">Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon</a> (The Verge) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost">Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation</a> (The Information) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.businessinsider.com/chatgpt-for-medicine-openevidence-fielding-valuation-2026-9">Sources: OpenEvidence, an AI search engine for doctors, raised $250M at a $15B valuation, up from $12B in January; it could be open to selling itself</a> (Business Insider) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -39,14 +36,14 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-24T14:10:42-07:00">September 24, 2026 at 02:10 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-25T14:07:45-07:00">September 25, 2026 at 02:07 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,188</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,798</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,194</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,799</span></li>
       </ul>
     </div>
 
@@ -54,15 +51,15 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(75 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(285 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(109 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(105 links)</span></li>
       </ol>
