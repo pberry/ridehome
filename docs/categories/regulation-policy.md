@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Sources: President Trump hosted Dario Amodei at a private White House dinner on Sunday, their first one-on-one meeting and an indication of thawing relations](https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite) (Axios)
+- [Sources: Trump dined privately with Anthropic CEO Dario Amodei at the White House on Sunday, weeks after Amodei's call for a slowdown drew the president's ire, with a tech summit on AI set for Tuesday](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html?unlocked_article_code=1.ElE.ujRS.EDnD6tKlvFzN) (The New York Times)
 - [The US SEC unveils a five-year "Innovation Exemption" to free platforms that facilitate blockchain and tokenized stock trading from many stock exchange rules](https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/) (Reuters)
 - [Sources: Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Trump and successfully stalled an AI regulatory plan proposed by Demis Hassabis](https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP) (WSJ)
 - [Dario Amodei proposes steps for pacing the frontier: embedded evaluators, coordination among democracies, and global coordination with authoritarian governments](https://darioamodei.com/post/we-must-pace-the-frontier) (Dario Amodei)

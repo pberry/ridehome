@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service](https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8) (AP)
 - [Sources: Jev developer TypeSafe is in talks to raise $1B+ at a $10B+ valuation; last week the startup announced a $40M seed, PitchBook says at a $200M valuation](https://www.theinformation.com/articles/jev-fervor-leads-talk-big-valuation-boost) (The Information)
 - [Anthropic's biolab made a discovery it's comparing to Crispr](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr) (The Verge)
 - [Bloomberg reports Muse hit No. 1 free app on iOS and Google Play with 902,000 downloads in six days, sending Meta shares up 11% to their highest close since October and lifting AMD past a $1 trillion market cap](https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews) (Bloomberg)

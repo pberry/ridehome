@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, September 28 2026 - Starship Reaches Orbit For The First Time**
+
+  * [Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs](https://www.cnbc.com/2026/09/28/nvidia-releases.html) (CNBC)
+  * [SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service](https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8) (AP)
+  * [Mark Zuckerberg unveils Meta Enterprise Platform, its "next major pillar of our business" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it](https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc) (WSJ)
+  * [AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service](https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/) (Reuters)
+  * [AI agent startup Instinct, still in early access, is building a personal assistant that runs on its own virtual phone and computer, with a phone concierge service and a trust network linking friends' agents](https://siliconangle.com/2026/09/28/everyday-personal-ai-assistant-startup-instinct-raises-1b-at-10b-valuation/) (SiliconANGLE)
+  * [Sources: President Trump hosted Dario Amodei at a private White House dinner on Sunday, their first one-on-one meeting and an indication of thawing relations](https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite) (Axios)
+  * [Sources: Trump dined privately with Anthropic CEO Dario Amodei at the White House on Sunday, weeks after Amodei's call for a slowdown drew the president's ire, with a tech summit on AI set for Tuesday](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html?unlocked_article_code=1.ElE.ujRS.EDnD6tKlvFzN) (The New York Times)
+  * [AI agents are the ultimate aggregators; they reveal apps as a means, not an end, and offering them is tech's ultimate prize, with Meta and Microsoft well-poised](https://stratechery.com/2026/apps-agents-and-aggregation/) (Stratechery)
+
+
+
 **Friday, September 25 2026 - Is Copilot Microsoft's Everything App?**
 
   * [Microsoft launches its Copilot "super app", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM) (The Verge)
