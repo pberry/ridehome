@@ -7,6 +7,13 @@ layout: category
 
 ## 2026
 
+### September
+
+- [IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) (Reuters)
+- [Anthropic formally warns investors its technology may pose "existential risks to humanity," devoting almost a third of its S-1 to risk factors including AI manipulation and blackmail](https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1) (FT)
+- [Anthropic's IPO filing creates a "Founder LLC" of its seven co-founders, whose majority vote directs a single Class F share with 50.1% of voting power, while the company stays a PBC](https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/) (Reuters)
+- [Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite "strong demand" and a strengthening of its business since the process started](https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html) (CNBC)
+
 ### August
 
 - [OpenAI says its ad business has hit $1B in annualized revenue run rate and is expanding globally, as it touts its "diversified business model" ahead of an IPO](https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html) (CNBC)

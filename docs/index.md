@@ -3,16 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, September 28, 2026 - Starship Reaches Orbit For The First Time</h3>
+  <h3>Tuesday, September 29, 2026 - We Have The Anthropic IPO Numbers</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/09/28/nvidia-releases.html">Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs</a> (CNBC) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8">SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service</a> (AP) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc">Mark Zuckerberg unveils Meta Enterprise Platform, its "next major pillar of our business" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/">AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://siliconangle.com/2026/09/28/everyday-personal-ai-assistant-startup-instinct-raises-1b-at-10b-valuation/">AI agent startup Instinct, still in early access, is building a personal assistant that runs on its own virtual phone and computer, with a phone concierge service and a trust network linking friends' agents</a> (SiliconANGLE) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite">Sources: President Trump hosted Dario Amodei at a private White House dinner on Sunday, their first one-on-one meeting and an indication of thawing relations</a> (Axios) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html?unlocked_article_code=1.ElE.ujRS.EDnD6tKlvFzN">Sources: Trump dined privately with Anthropic CEO Dario Amodei at the White House on Sunday, weeks after Amodei's call for a slowdown drew the president's ire, with a tech summit on AI set for Tuesday</a> (The New York Times) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://stratechery.com/2026/apps-agents-and-aggregation/">AI agents are the ultimate aggregators; they reveal apps as a means, not an end, and offering them is tech's ultimate prize, with Meta and Microsoft well-poised</a> (Stratechery) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/">IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1">Anthropic formally warns investors its technology may pose "existential risks to humanity," devoting almost a third of its S-1 to risk factors including AI manipulation and blackmail</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/">Anthropic's IPO filing creates a "Founder LLC" of its seven co-founders, whose majority vote directs a single Class F share with 50.1% of voting power, while the company stays a PBC</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM">OpenAI scraps plans to publicly launch GPT-6.1 Astra, saying it didn't quite meet its safety bar during internal testing, after targeting an October release</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html">Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite "strong demand" and a strengthening of its business since the process started</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b">Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://blog.tickertrends.io/p/claude-code-vs-openai-codex-arr">Claude Code vs. OpenAI Codex ARR: Codex never slowed after Claude Code's crossover while Claude Code appears to have plateaued, and Opus mentions on GitHub spiked after Opus 5.5 as GPT-6 mentions dropped</a> (TickerTrends) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -38,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-28T15:57:23-07:00">September 28, 2026 at 03:57 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-29T14:54:25-07:00">September 29, 2026 at 02:54 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,202</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,209</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,799</span></li>
       </ul>
     </div>
@@ -52,16 +51,16 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(122 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(118 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
       </ol>

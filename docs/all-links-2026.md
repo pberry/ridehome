@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, September 29 2026 - We Have The Anthropic IPO Numbers**
+
+  * [IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) (Reuters)
+  * [Anthropic formally warns investors its technology may pose "existential risks to humanity," devoting almost a third of its S-1 to risk factors including AI manipulation and blackmail](https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1) (FT)
+  * [Anthropic's IPO filing creates a "Founder LLC" of its seven co-founders, whose majority vote directs a single Class F share with 50.1% of voting power, while the company stays a PBC](https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/) (Reuters)
+  * [OpenAI scraps plans to publicly launch GPT-6.1 Astra, saying it didn't quite meet its safety bar during internal testing, after targeting an October release](https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM) (WSJ)
+  * [Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite "strong demand" and a strengthening of its business since the process started](https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html) (CNBC)
+  * [Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025](https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b) (Axios)
+  * [Claude Code vs. OpenAI Codex ARR: Codex never slowed after Claude Code's crossover while Claude Code appears to have plateaued, and Opus mentions on GitHub spiked after Opus 5.5 as GPT-6 mentions dropped](https://blog.tickertrends.io/p/claude-code-vs-openai-codex-arr) (TickerTrends)
+
+
+
 **Monday, September 28 2026 - Starship Reaches Orbit For The First Time**
 
   * [Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs](https://www.cnbc.com/2026/09/28/nvidia-releases.html) (CNBC)

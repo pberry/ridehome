@@ -9,6 +9,9 @@ layout: category
 
 ### September
 
+- [OpenAI scraps plans to publicly launch GPT-6.1 Astra, saying it didn't quite meet its safety bar during internal testing, after targeting an October release](https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM) (WSJ)
+- [Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025](https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b) (Axios)
+- [Claude Code vs. OpenAI Codex ARR: Codex never slowed after Claude Code's crossover while Claude Code appears to have plateaued, and Opus mentions on GitHub spiked after Opus 5.5 as GPT-6 mentions dropped](https://blog.tickertrends.io/p/claude-code-vs-openai-codex-arr) (TickerTrends)
 - [Nvidia launches the Open Agent Safety Platform, a reference design to stop AI agents from escaping sandboxes, with OpenShell for CPUs and Sentry for Nvidia DPUs](https://www.cnbc.com/2026/09/28/nvidia-releases.html) (CNBC)
 - [Mark Zuckerberg unveils Meta Enterprise Platform, its "next major pillar of our business" to deploy AI tools, and appoints MongoDB CEO Chirantan Desai to run it](https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc) (WSJ)
 - [AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service](https://www.reuters.com/technology/ai-agent-firm-instinct-raises-1-billion-latest-funding-round-2026-09-28/) (Reuters)
