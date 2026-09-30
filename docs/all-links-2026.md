@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, September 30 2026 - Dippin Dots**
+
+  * [Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment](https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/) (Reuters)
+  * [Trump convened tech CEOs at the White House, where they signed a one-page voluntary pact instead of formal regulation, which he called "morally binding," leaving the companies to police each other](https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html?unlocked_article_code=1.FFE.0ygR.Yjx5KWm9u-VS) (NYTimes)
+  * [Amazon unveils a faster, slimmer $60 Fire TV Stick 4K, simplifies its Fire TV Stick lineup, and plans to roll out an upgraded Alexa+ living room hub in November](https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control) (Bloomberg)
+  * [OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users](https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier) (Bloomberg)
+  * [OpenAI's Dots, its answer to Meta's Muse, work in the background across 4,000+ apps, learn your preferences over time, and connect to Slack and Microsoft Teams](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) (The Verge)
+  * [OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex](https://openai.com/index/introducing-gpt-6-1-sol/) (OpenAI)
+  * [OpenAI unveils ChatGPT Spaces, shared team workspaces for files and AI output, plus a meeting-notes plugin, and brings ChatGPT to Slack and Microsoft Teams for Business and Enterprise users](https://www.engadget.com/2272248/chatgpt-space-for-work/) (Engadget)
+  * [OpenAI's DevDay announcements, from in-chat app suggestions to "Sign in with ChatGPT," turn ChatGPT into the place software gets discovered and used, taking direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) (TechCrunch)
+
+
+
 **Tuesday, September 29 2026 - We Have The Anthropic IPO Numbers**
 
   * [IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) (Reuters)

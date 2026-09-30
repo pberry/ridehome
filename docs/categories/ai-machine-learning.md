@@ -9,6 +9,10 @@ layout: category
 
 ### September
 
+- [OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users](https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier) (Bloomberg)
+- [OpenAI's Dots, its answer to Meta's Muse, work in the background across 4,000+ apps, learn your preferences over time, and connect to Slack and Microsoft Teams](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor) (The Verge)
+- [OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex](https://openai.com/index/introducing-gpt-6-1-sol/) (OpenAI)
+- [OpenAI's DevDay announcements, from in-chat app suggestions to "Sign in with ChatGPT," turn ChatGPT into the place software gets discovered and used, taking direct aim at the app store model](https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/) (TechCrunch)
 - [OpenAI scraps plans to publicly launch GPT-6.1 Astra, saying it didn't quite meet its safety bar during internal testing, after targeting an October release](https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM) (WSJ)
 - [Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025](https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b) (Axios)
 - [Claude Code vs. OpenAI Codex ARR: Codex never slowed after Claude Code's crossover while Claude Code appears to have plateaued, and Opus mentions on GitHub spiked after Opus 5.5 as GPT-6 mentions dropped](https://blog.tickertrends.io/p/claude-code-vs-openai-codex-arr) (TickerTrends)

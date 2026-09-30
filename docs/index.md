@@ -3,15 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, September 29, 2026 - We Have The Anthropic IPO Numbers</h3>
+  <h3>Wednesday, September 30, 2026 - Dippin Dots</h3>
   <ul>
-    <li><a href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/">IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?accessToken=zwAAAaDr2OW6kdPHaFp-d0VMvNOAU0lY0OpEmw.MEUCIQDri8jri2FtGIfJjPkxOZ5_1_ZIU_6mV2XSWAkmAyHGCQIgNTptc_pqS1KKFIP7hi0m8Qv5D4KIbxvhaHO4CGCedXQ&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareId=21e300e9-e2ac-440e-a832-3462c6e1ca1b&shareType=enterprise&syn-25a6b1a6=1">Anthropic formally warns investors its technology may pose "existential risks to humanity," devoting almost a third of its S-1 to risk factors including AI manipulation and blackmail</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.reuters.com/legal/transactional/anthropic-leaders-control-ai-lab-via-founder-llc-promote-public-good-over-market-2026-09-29/">Anthropic's IPO filing creates a "Founder LLC" of its seven co-founders, whose majority vote directs a single Class F share with 50.1% of voting power, while the company stays a PBC</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42?st=u6jQPM">OpenAI scraps plans to publicly launch GPT-6.1 Astra, saying it didn't quite meet its safety bar during internal testing, after targeting an October release</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.cnbc.com/2026/09/29/smart-ring-maker-oura-postpones-ipo-due-to-market-uncertainty.html">Oura says it is delaying its Nasdaq IPO due to uncertainty in the market, despite "strong demand" and a strengthening of its business since the process started</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b">Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://blog.tickertrends.io/p/claude-code-vs-openai-codex-arr">Claude Code vs. OpenAI Codex ARR: Codex never slowed after Claude Code's crossover while Claude Code appears to have plateaued, and Opus mentions on GitHub spiked after Opus 5.5 as GPT-6 mentions dropped</a> (TickerTrends) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/">Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment</a> (Reuters) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html?unlocked_article_code=1.FFE.0ygR.Yjx5KWm9u-VS">Trump convened tech CEOs at the White House, where they signed a one-page voluntary pact instead of formal regulation, which he called "morally binding," leaving the companies to police each other</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control">Amazon unveils a faster, slimmer $60 Fire TV Stick 4K, simplifies its Fire TV Stick lineup, and plans to roll out an upgraded Alexa+ living room hub in November</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier">OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor">OpenAI's Dots, its answer to Meta's Muse, work in the background across 4,000+ apps, learn your preferences over time, and connect to Slack and Microsoft Teams</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://openai.com/index/introducing-gpt-6-1-sol/">OpenAI releases GPT-6.1 Sol, saying it nearly matches Astra on agentic coding and professional work at one-fifth of Astra's standard prices, in Work and Codex</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.engadget.com/2272248/chatgpt-space-for-work/">OpenAI unveils ChatGPT Spaces, shared team workspaces for files and AI output, plus a meeting-notes plugin, and brings ChatGPT to Slack and Microsoft Teams for Business and Enterprise users</a> (Engadget) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/">OpenAI's DevDay announcements, from in-chat app suggestions to "Sign in with ChatGPT," turn ChatGPT into the place software gets discovered and used, taking direct aim at the app store model</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -37,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-09-29T14:54:25-07:00">September 29, 2026 at 02:54 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-09-30T14:54:46-07:00">September 30, 2026 at 02:54 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,209</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,217</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,799</span></li>
       </ul>
     </div>
@@ -51,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(118 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(73 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(120 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(74 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
       </ol>
     </div>
@@ -60,9 +61,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(107 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
       </ol>
     </div>
   </div>

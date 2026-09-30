@@ -9,6 +9,8 @@ layout: category
 
 ### September
 
+- [Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment](https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/) (Reuters)
+- [Trump convened tech CEOs at the White House, where they signed a one-page voluntary pact instead of formal regulation, which he called "morally binding," leaving the companies to police each other](https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html?unlocked_article_code=1.FFE.0ygR.Yjx5KWm9u-VS) (NYTimes)
 - [Sources: President Trump hosted Dario Amodei at a private White House dinner on Sunday, their first one-on-one meeting and an indication of thawing relations](https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite) (Axios)
 - [Sources: Trump dined privately with Anthropic CEO Dario Amodei at the White House on Sunday, weeks after Amodei's call for a slowdown drew the president's ire, with a tech summit on AI set for Tuesday](https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html?unlocked_article_code=1.ElE.ujRS.EDnD6tKlvFzN) (The New York Times)
 - [The US SEC unveils a five-year "Innovation Exemption" to free platforms that facilitate blockchain and tokenized stock trading from many stock exchange rules](https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/) (Reuters)

@@ -9,6 +9,7 @@ layout: category
 
 ### September
 
+- [OpenAI unveils ChatGPT Spaces, shared team workspaces for files and AI output, plus a meeting-notes plugin, and brings ChatGPT to Slack and Microsoft Teams for Business and Enterprise users](https://www.engadget.com/2272248/chatgpt-space-for-work/) (Engadget)
 - [Data center developer Crusoe raised $3.9B co-led by Atreides, Valor, and Mubadala at a ~$30.9B post-money valuation, as it bets on factory-built data centers](https://www.wsj.com/tech/ai/the-startup-that-built-openais-biggest-data-center-is-now-making-tiny-ones-71f36a4f?st=RwAtre) (WSJ)
 - [Microsoft shifts from three reporting segments to two: Agents and Infra, which has Microsoft 365 and Azure, and Devices and Consumer, which has Windows and Xbox](https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d) (WSJ)
 
