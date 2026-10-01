@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote](https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh) (The Verge)
+- [Hands-on with the new Kindles: the $34.99 Kindle Click Bluetooth remote, plus a $79.99 Page-Turn Cover that gives the Signature Editions of the Paperwhite and Colorsoft physical buttons](https://gizmodo.com/kindle-paperwhite-colorsoft-e-reader-2026-hands-on-2000819737) (Gizmodo)
+- [Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged](https://www.phonearena.com/news/samsung-galaxy-s26-plus-ultra-us-prices-officially-increased_id183747) (Phone Arena)
+
 ### September
 
 - [Amazon unveils a faster, slimmer $60 Fire TV Stick 4K, simplifies its Fire TV Stick lineup, and plans to roll out an upgraded Alexa+ living room hub in November](https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control) (Bloomberg)

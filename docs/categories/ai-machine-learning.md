@@ -7,6 +7,13 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process](https://www.axios.com/2026/09/30/google-gemini-4) (Axios)
+- [Google announces Gemini 4 Argon, claiming industry-leading coding, knowledge work, and cybersecurity performance, with 1 million token output and $2/$10 API pricing, but it's still limited to trusted testers](https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/) (Ars Technica)
+- [Google grapples with employee skepticism about Gemini 4: insiders say it shines on benchmarks but struggles with coding and front-end design, after Google abandoned Gemini 3.5 Pro](https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model) (Bloomberg)
+- [Investigation: McDonald's is utilizing an AI pricing engine across nearly 14,000 restaurants to generate location-specific “optimal prices” for menu items](https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/) (Reuters)
+
 ### September
 
 - [OpenAI launches Dots, always-on agents powered by GPT-6 Astra with their own cloud computer, in ChatGPT for Pro, Business Premium, and Enterprise users](https://www.bloomberg.com/news/articles/2026-09-29/openai-unveils-always-on-ai-agent-dots-new-500-paid-tier) (Bloomberg)

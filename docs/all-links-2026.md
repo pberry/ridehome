@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, October 01 2026 - Is Gemini 4 Argon Just Benchmaxxing?**
+
+  * [Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process](https://www.axios.com/2026/09/30/google-gemini-4) (Axios)
+  * [Google announces Gemini 4 Argon, claiming industry-leading coding, knowledge work, and cybersecurity performance, with 1 million token output and $2/$10 API pricing, but it's still limited to trusted testers](https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/) (Ars Technica)
+  * [Google grapples with employee skepticism about Gemini 4: insiders say it shines on benchmarks but struggles with coding and front-end design, after Google abandoned Gemini 3.5 Pro](https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model) (Bloomberg)
+  * [Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote](https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh) (The Verge)
+  * [Hands-on with the new Kindles: the $34.99 Kindle Click Bluetooth remote, plus a $79.99 Page-Turn Cover that gives the Signature Editions of the Paperwhite and Colorsoft physical buttons](https://gizmodo.com/kindle-paperwhite-colorsoft-e-reader-2026-hands-on-2000819737) (Gizmodo)
+  * [Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged](https://www.phonearena.com/news/samsung-galaxy-s26-plus-ultra-us-prices-officially-increased_id183747) (Phone Arena)
+  * [Investigation: McDonald's is utilizing an AI pricing engine across nearly 14,000 restaurants to generate location-specific “optimal prices” for menu items](https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/) (Reuters)
+
+
+
 **Wednesday, September 30 2026 - Dippin Dots**
 
   * [Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment](https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/) (Reuters)
