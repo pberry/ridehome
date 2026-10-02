@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 02 2026 - Did OpenAI Fire Its Whistleblowers?**
+
+  * [OpenAI says it "parted ways" with three researchers for violating its "handling sensitive" info policies; sources: they shared it with an AI safety organization](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu) (WSJ)
+  * [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B](https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649) (The Register)
+  * [Suno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) (The Verge)
+  * [Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns](https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/) (Reuters)
+  * [Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI "super intelligence"](https://www.bbc.com/news/articles/cqx2z23xj555o) (BBC)
+
+
+
 **Thursday, October 01 2026 - Is Gemini 4 Argon Just Benchmaxxing?**
 
   * [Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process](https://www.axios.com/2026/09/30/google-gemini-4) (Axios)

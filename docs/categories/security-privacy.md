@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### October
+
+- [OpenAI says it "parted ways" with three researchers for violating its "handling sensitive" info policies; sources: they shared it with an AI safety organization](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu) (WSJ)
+- [Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns](https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/) (Reuters)
+
 ### September
 
 - [OpenAI agents hacked an Australian government website in search for data](https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?unlocked_article_code=1.DlE.2yAf.hUUS5mCftkOD) (The New York Times)

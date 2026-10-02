@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 02 2026**
+
+  * [Mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls point to gaps in Nvidia's due diligence, as a California man is arrested over $300M+ in smuggled chips](https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases) (Bloomberg)
+  * [A huge, in-depth profile of Oracle's billionaire owner Larry Ellison, from self-taught programmer to bombastic media figure and yacht-racing obsessive](https://www.vanityfair.com/story/larry-ellison-profile) (Vanity Fair)
+
+
+
 **Friday, September 25 2026**
 
   * [The AI build-out is on track to become the biggest economic bet in US history, with $10.3T in data center and AI infrastructure investment projected from 2025 to 2032](https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd) (WSJ)

@@ -3,15 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, October 01, 2026 - Is Gemini 4 Argon Just Benchmaxxing?</h3>
+  <h3>Friday, October 02, 2026 - Did OpenAI Fire Its Whistleblowers?</h3>
   <ul>
-    <li><a href="https://www.axios.com/2026/09/30/google-gemini-4">Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/">Google announces Gemini 4 Argon, claiming industry-leading coding, knowledge work, and cybersecurity performance, with 1 million token output and $2/$10 API pricing, but it's still limited to trusted testers</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model">Google grapples with employee skepticism about Gemini 4: insiders say it shines on benchmarks but struggles with coding and front-end design, after Google abandoned Gemini 3.5 Pro</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh">Amazon updates the Kindle, Kindle Paperwhite, and Colorsoft with new colors and up to 32GB of storage, and unveils the $35 Kindle Click page-turning remote</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://gizmodo.com/kindle-paperwhite-colorsoft-e-reader-2026-hands-on-2000819737">Hands-on with the new Kindles: the $34.99 Kindle Click Bluetooth remote, plus a $79.99 Page-Turn Cover that gives the Signature Editions of the Paperwhite and Colorsoft physical buttons</a> (Gizmodo) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.phonearena.com/news/samsung-galaxy-s26-plus-ultra-us-prices-officially-increased_id183747">Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged</a> (Phone Arena) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.reuters.com/business/inside-mcdonalds-push-have-ai-price-your-big-mac-2026-09-29/">Investigation: McDonald's is utilizing an AI pricing engine across nearly 14,000 restaurants to generate location-specific “optimal prices” for menu items</a> (Reuters) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu">OpenAI says it "parted ways" with three researchers for violating its "handling sensitive" info policies; sources: they shared it with an AI safety organization</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649">Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B</a> (The Register) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability">Suno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/">Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns</a> (Reuters) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bbc.com/news/articles/cqx2z23xj555o">Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI "super intelligence"</a> (BBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
   </ul>
 </section>
 
@@ -37,32 +35,32 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-01T15:22:17-07:00">October 01, 2026 at 03:22 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-02T14:51:24-07:00">October 02, 2026 at 02:51 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,224</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,799</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,229</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,801</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(75 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(122 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(76 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(291 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(111 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(109 links)</span></li>
       </ol>
     </div>
   </div>

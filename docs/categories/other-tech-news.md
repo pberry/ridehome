@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI "super intelligence"](https://www.bbc.com/news/articles/cqx2z23xj555o) (BBC)
+- [A huge, in-depth profile of Oracle's billionaire owner Larry Ellison, from self-taught programmer to bombastic media figure and yacht-racing obsessive](https://www.vanityfair.com/story/larry-ellison-profile) (Vanity Fair)
+
 ### September
 
 - [SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service](https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8) (AP)

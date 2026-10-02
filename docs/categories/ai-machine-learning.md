@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B](https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649) (The Register)
+- [Suno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) (The Verge)
 - [Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process](https://www.axios.com/2026/09/30/google-gemini-4) (Axios)
 - [Google announces Gemini 4 Argon, claiming industry-leading coding, knowledge work, and cybersecurity performance, with 1 million token output and $2/$10 API pricing, but it's still limited to trusted testers](https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/) (Ars Technica)
 - [Google grapples with employee skepticism about Gemini 4: insiders say it shines on benchmarks but struggles with coding and front-end design, after Google abandoned Gemini 3.5 Pro](https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model) (Bloomberg)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls point to gaps in Nvidia's due diligence, as a California man is arrested over $300M+ in smuggled chips](https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases) (Bloomberg)
+
 ### September
 
 - [Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment](https://www.reuters.com/world/us/trump-releases-ai-accord-with-tech-executives-2026-09-29/) (Reuters)
