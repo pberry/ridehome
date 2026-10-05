@@ -9,6 +9,10 @@ layout: category
 
 ### October
 
+- [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo) (The Atlantic)
+- [OpenAI safety employee David Robinson quits, says AI firms should be run like nuclear power plants, with layers of redundancy; OpenAI says it is strengthening security in its testing environments](https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards) (Bloomberg)
+- [Extracted system prompts show Meta's Muse compiles "a page for every person in the user's life", with facts, history, tips to improve relationships, and more](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) (Wired)
+- [Apple says it is adding additional controls around "Full Disk Access" on macOS as AI agents have increased "the risks associated with this level of access"](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) (TechCrunch)
 - [OpenAI says it "parted ways" with three researchers for violating its "handling sensitive" info policies; sources: they shared it with an AI safety organization](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu) (WSJ)
 - [Hans Anders, one of the largest Dutch eyewear retail chains, suspends sales of Ray-Ban Meta Glasses in the Netherlands and Belgium amid growing privacy concerns](https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/) (Reuters)
 

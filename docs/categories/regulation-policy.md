@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Musk's SpaceXSI rebrand follows Trump's September 29 executive order directing federal agencies to use "super intelligence" and "SI" in place of "artificial intelligence" and "AI"](https://qz.com/spacex-spacexsi-ai-super-intelligence-musk-trump-100526) (Quartz)
 - [Mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls point to gaps in Nvidia's due diligence, as a California man is arrested over $300M+ in smuggled chips](https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases) (Bloomberg)
 
 ### September

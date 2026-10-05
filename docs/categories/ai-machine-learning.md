@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models](https://www.axios.com/2026/10/04/reflection-open-weight-ai) (Axios)
+- [Reflection AI's first open-weight model is a test of CEO Misha Laskin's plan to sell enterprises and governments "AI factories," backed by SpaceX and Nebius compute deals](https://runtimewire.com/article/reflection-ai-first-open-weight-model-enterprise-ai-factories) (RunTimeWire)
 - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B](https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649) (The Register)
 - [Suno debuts Speech, which generates spoken voices from scripts or prompts, with optional background music, in public beta, as its music generator faces lawsuits](https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability) (The Verge)
 - [Google rolls out Gemini 4 Argon to trusted cyber defenders through Fairwind and says it is participating in the US government's voluntary pre-release process](https://www.axios.com/2026/09/30/google-gemini-4) (Axios)

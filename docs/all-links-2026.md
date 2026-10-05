@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, October 05 2026 - Why Did Another OpenAI Safety Insider Quit?**
+
+  * [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo) (The Atlantic)
+  * [OpenAI safety employee David Robinson quits, says AI firms should be run like nuclear power plants, with layers of redundancy; OpenAI says it is strengthening security in its testing environments](https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards) (Bloomberg)
+  * [Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models](https://www.axios.com/2026/10/04/reflection-open-weight-ai) (Axios)
+  * [Reflection AI's first open-weight model is a test of CEO Misha Laskin's plan to sell enterprises and governments "AI factories," backed by SpaceX and Nebius compute deals](https://runtimewire.com/article/reflection-ai-first-open-weight-model-enterprise-ai-factories) (RunTimeWire)
+  * [Extracted system prompts show Meta's Muse compiles "a page for every person in the user's life", with facts, history, tips to improve relationships, and more](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) (Wired)
+  * [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace "artificial" intelligence with "super"](https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/) (Reuters)
+  * [Musk's SpaceXSI rebrand follows Trump's September 29 executive order directing federal agencies to use "super intelligence" and "SI" in place of "artificial intelligence" and "AI"](https://qz.com/spacex-spacexsi-ai-super-intelligence-musk-trump-100526) (Quartz)
+  * [Apple says it is adding additional controls around "Full Disk Access" on macOS as AI agents have increased "the risks associated with this level of access"](https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/) (TechCrunch)
+  * [Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total](https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year) (Bloomberg)
+
+
+
 **Friday, October 02 2026 - Did OpenAI Fire Its Whistleblowers?**
 
   * [OpenAI says it "parted ways" with three researchers for violating its "handling sensitive" info policies; sources: they shared it with an AI safety organization](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528?st=zxSNWu) (WSJ)

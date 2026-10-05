@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace "artificial" intelligence with "super"](https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/) (Reuters)
+- [Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total](https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year) (Bloomberg)
 - [Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI "super intelligence"](https://www.bbc.com/news/articles/cqx2z23xj555o) (BBC)
 - [A huge, in-depth profile of Oracle's billionaire owner Larry Ellison, from self-taught programmer to bombastic media figure and yacht-racing obsessive](https://www.vanityfair.com/story/larry-ellison-profile) (Vanity Fair)
 
