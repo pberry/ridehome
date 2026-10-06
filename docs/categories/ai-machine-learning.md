@@ -9,6 +9,11 @@ layout: category
 
 ### October
 
+- [NYC-based Reflection unveils Beam, an open model it says rivals GLM-5.2 on reasoning while using 3x-4x less compute and approaches Qwen3.8-Max on agentic tasks](https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs) (Semafor)
+- [Nvidia-backed Reflection pitches Beam to businesses and developers as a cheaper option for coding and agent tasks; the startup has held talks to raise $2.5B at a $25B valuation](https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china) (Bloomberg)
+- [Analysis: for agentic workloads, Anthropic's plans with Claude Opus 5.5 offer ~5x more API-equivalent value per month than OpenAI's plans with GPT-6.1 Sol](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) (SemiAnalysis)
+- [Sources: Meta and Microsoft are working to cut internal Claude use; Meta employees using Claude Code dropped to ~30,000 from ~60,000 earlier in 2026](https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude?rc=i9gkgs) (The Information)
+- [Mistral releases Mistral Large 4, dubbed “le Chonk”, a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Grace Blackwell GPUs](https://www.thedeepview.com/articles/why-mistral-s-1t-model-is-a-hedge-against-lock-in) (The Deep View)
 - [Sources: several Western open-weight models are set to launch this month, including Reflection AI's first model, which will rival top Chinese open-weight models](https://www.axios.com/2026/10/04/reflection-open-weight-ai) (Axios)
 - [Reflection AI's first open-weight model is a test of CEO Misha Laskin's plan to sell enterprises and governments "AI factories," backed by SpaceX and Nebius compute deals](https://runtimewire.com/article/reflection-ai-first-open-weight-model-enterprise-ai-factories) (RunTimeWire)
 - [Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B](https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649) (The Register)

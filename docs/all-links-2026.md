@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, October 06 2026 - Le Chonk**
+
+  * [NYC-based Reflection unveils Beam, an open model it says rivals GLM-5.2 on reasoning while using 3x-4x less compute and approaches Qwen3.8-Max on agentic tasks](https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs) (Semafor)
+  * [Nvidia-backed Reflection pitches Beam to businesses and developers as a cheaper option for coding and agent tasks; the startup has held talks to raise $2.5B at a $25B valuation](https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china) (Bloomberg)
+  * [Analysis: for agentic workloads, Anthropic's plans with Claude Opus 5.5 offer ~5x more API-equivalent value per month than OpenAI's plans with GPT-6.1 Sol](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) (SemiAnalysis)
+  * [Sources: Meta and Microsoft are working to cut internal Claude use; Meta employees using Claude Code dropped to ~30,000 from ~60,000 earlier in 2026](https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude?rc=i9gkgs) (The Information)
+  * [Mistral releases Mistral Large 4, dubbed “le Chonk”, a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Grace Blackwell GPUs](https://www.thedeepview.com/articles/why-mistral-s-1t-model-is-a-hedge-against-lock-in) (The Deep View)
+  * [ChatGPT is not only using New Yorker cartoonists' style but also adding their signatures to the fake cartoons it creates, which have gone viral on social media](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) (Nieman Lab)
+
+
+
 **Monday, October 05 2026 - Why Did Another OpenAI Safety Insider Quit?**
 
   * [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo) (The Atlantic)
