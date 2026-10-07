@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### October
+
+- [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance) (The Verge)
+
 ### September
 
 - [YouTube rolls out tools for microdramas, an AI storytelling assistant for script analysis, video A/B-testing, and more, as it battles Netflix over top creators](https://www.wsj.com/business/media/youtube-is-battling-netflix-over-top-talent-eebbf0cf?st=py6xAQ) (WSJ)

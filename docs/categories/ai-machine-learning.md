@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage](https://openai.com/index/sharing-ai-progress-in-mathematics/) (OpenAI)
+- [OpenAI reveals solutions to long-standing math problems from an unreleased frontier model in 722 manuscripts covering 372 result families, with the "average result" using about three hours of ChatGPT Pro thinking](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im9GZXNLejRLblQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDUwMDQvb3BlbmFpLW1hdGgtcmVsZWFzZS1naXRodWIiLCJleHAiOjE3OTE3NjE0NDksImlhdCI6MTc5MTMyOTQ0OX0.QivOZ6vKHdPVOVdUne_5Y7nAdhOfqDzQc5Jz0USof4c) (The Verge)
+- [OpenAI's new proofs, many checked in Lean, came from an unreleased model; some mathematicians question whether AI is finishing human researchers' work without due diligence](https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ToXx.SrRjbhiZHxbd) (NYTimes)
 - [NYC-based Reflection unveils Beam, an open model it says rivals GLM-5.2 on reasoning while using 3x-4x less compute and approaches Qwen3.8-Max on agentic tasks](https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs) (Semafor)
 - [Nvidia-backed Reflection pitches Beam to businesses and developers as a cheaper option for coding and agent tasks; the startup has held talks to raise $2.5B at a $25B valuation](https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china) (Bloomberg)
 - [Analysis: for agentic workloads, Anthropic's plans with Claude Opus 5.5 offer ~5x more API-equivalent value per month than OpenAI's plans with GPT-6.1 Sol](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x) (SemiAnalysis)

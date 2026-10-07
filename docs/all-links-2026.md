@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, October 07 2026 - Did OpenAI's Secret Model Just Crack Math?**
+
+  * [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage](https://openai.com/index/sharing-ai-progress-in-mathematics/) (OpenAI)
+  * [OpenAI reveals solutions to long-standing math problems from an unreleased frontier model in 722 manuscripts covering 372 result families, with the "average result" using about three hours of ChatGPT Pro thinking](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im9GZXNLejRLblQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDUwMDQvb3BlbmFpLW1hdGgtcmVsZWFzZS1naXRodWIiLCJleHAiOjE3OTE3NjE0NDksImlhdCI6MTc5MTMyOTQ0OX0.QivOZ6vKHdPVOVdUne_5Y7nAdhOfqDzQc5Jz0USof4c) (The Verge)
+  * [OpenAI's new proofs, many checked in Lean, came from an unreleased model; some mathematicians question whether AI is finishing human researchers' work without due diligence](https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ToXx.SrRjbhiZHxbd) (NYTimes)
+  * [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance) (The Verge)
+  * [Sources: Apple's smart home push includes a doorbell, a thermostat, a deadbolt, security cameras, and accessories developed with LG that will carry the LG brand](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ) (Bloomberg)
+  * [Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras](https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery) (Bloomberg)
+  * [Xreal opens preorders for its Android XR-powered Aura glasses with a compute puck, starting at $1,279 for 12GB/256GB, in the US, Canada, Japan, and South Korea](https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/) (Engadget)
+  * [Hands-on: Xreal's Aura and Meta's VR Glasses are direct competitors; Meta's feel more polished for sitting and typing, while the Aura's see-through lenses work better walking around](https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/) (Wired)
+
+
+
 **Tuesday, October 06 2026 - Le Chonk**
 
   * [NYC-based Reflection unveils Beam, an open model it says rivals GLM-5.2 on reasoning while using 3x-4x less compute and approaches Qwen3.8-Max on agentic tasks](https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs) (Semafor)
