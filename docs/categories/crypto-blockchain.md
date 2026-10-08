@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Vitalik Buterin backs Justin Drake’s “bunker mode” warning that AI-accelerated math could break the cryptography behind blockchain wallets, including lattice-based schemes, before quantum computers do](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months) (CoinTelegraph)
+
 ### September
 
 - [The US Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry's push for a comprehensive market structure framework; crypto falls](https://www.cnbc.com/2026/09/15/senate-cloture-vote-on-clarity-act-fails-dealing-regulatory-setback-to-crypto-industry.html) (CNBC)

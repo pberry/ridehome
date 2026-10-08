@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models](https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage) (VentureBeat)
+- [Google’s Gemini agent runs each job on the model that fits best, Gemini or Claude, with four kinds of memory and sub-agents that coordinate workflows running for hours or days](https://9to5google.com/2026/10/08/gemini-agent-google-cloud/) (9to5Google)
+
 ### September
 
 - [OpenAI unveils ChatGPT Spaces, shared team workspaces for files and AI output, plus a meeting-notes plugin, and brings ChatGPT to Slack and Microsoft Teams for Business and Enterprise users](https://www.engadget.com/2272248/chatgpt-space-for-work/) (Engadget)

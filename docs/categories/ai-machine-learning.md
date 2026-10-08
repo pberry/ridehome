@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests](https://www.anthropic.com/claude-haiku-5-5) (Anthropic)
+- [Haiku 5.5 is 90% cheaper than Haiku 4.5 at 10 cents and 50 cents per million tokens, matching OpenAI’s GPT-6 Luna on price while beating it on all six shared benchmarks; Sonnet 5.5 cache reads were also halved](https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/) (SiliconANGLE)
 - [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage](https://openai.com/index/sharing-ai-progress-in-mathematics/) (OpenAI)
 - [OpenAI reveals solutions to long-standing math problems from an unreleased frontier model in 722 manuscripts covering 372 result families, with the "average result" using about three hours of ChatGPT Pro thinking](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im9GZXNLejRLblQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDUwMDQvb3BlbmFpLW1hdGgtcmVsZWFzZS1naXRodWIiLCJleHAiOjE3OTE3NjE0NDksImlhdCI6MTc5MTMyOTQ0OX0.QivOZ6vKHdPVOVdUne_5Y7nAdhOfqDzQc5Jz0USof4c) (The Verge)
 - [OpenAI's new proofs, many checked in Lean, came from an unreleased model; some mathematicians question whether AI is finishing human researchers' work without due diligence](https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ToXx.SrRjbhiZHxbd) (NYTimes)

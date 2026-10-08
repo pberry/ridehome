@@ -3,16 +3,17 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, October 07, 2026 - Did OpenAI's Secret Model Just Crack Math?</h3>
+  <h3>Thursday, October 08, 2026 - Are AI Labs Trying to Break Encryption?</h3>
   <ul>
-    <li><a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Im9GZXNLejRLblQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMDUwMDQvb3BlbmFpLW1hdGgtcmVsZWFzZS1naXRodWIiLCJleHAiOjE3OTE3NjE0NDksImlhdCI6MTc5MTMyOTQ0OX0.QivOZ6vKHdPVOVdUne_5Y7nAdhOfqDzQc5Jz0USof4c">OpenAI reveals solutions to long-standing math problems from an unreleased frontier model in 722 manuscripts covering 372 result families, with the "average result" using about three hours of ChatGPT Pro thinking</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/10/06/science/openai-math-problems.html?unlocked_article_code=1.G1E.ToXx.SrRjbhiZHxbd">OpenAI's new proofs, many checked in Lean, came from an unreleased model; some mathematicians question whether AI is finishing human researchers' work without due diligence</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance">HBO Max and Paramount Plus will merge into a single streamer under Skydance</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ">Sources: Apple's smart home push includes a doorbell, a thermostat, a deadbolt, security cameras, and accessories developed with LG that will carry the LG brand</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery">Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/">Xreal opens preorders for its Android XR-powered Aura glasses with a compute puck, starting at $1,279 for 12GB/256GB, in the US, Canada, Japan, and South Korea</a> (Engadget) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/">Hands-on: Xreal's Aura and Meta's VR Glasses are direct competitors; Meta's feel more polished for sitting and typing, while the Aura's see-through lenses work better walking around</a> (Wired) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://scottaaronson.blog/?p=10169">A theoretical computer scientist, citing sources, says AI labs have started investigating whether their latest internal models can break cryptographic protocols</a> (Shtetl) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months">Vitalik Buterin backs Justin Drake’s “bunker mode” warning that AI-accelerated math could break the cryptography behind blockchain wallets, including lattice-based schemes, before quantum computers do</a> (CoinTelegraph) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.anthropic.com/claude-haiku-5-5">Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/">Haiku 5.5 is 90% cheaper than Haiku 4.5 at 10 cents and 50 cents per million tokens, matching OpenAI’s GPT-6 Luna on price while beating it on all six shared benchmarks; Sonnet 5.5 cache reads were also halved</a> (SiliconANGLE) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage">Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models</a> (VentureBeat) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://9to5google.com/2026/10/08/gemini-agent-google-cloud/">Google’s Gemini agent runs each job on the model that fits best, Gemini or Claude, with four kinds of memory and sub-agents that coordinate workflows running for hours or days</a> (9to5Google) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date">Microsoft opens preorders for the $2,599+ Surface Laptop Ultra, shipping from October 16, with an RTX Spark and three USB-C ports; one is magnetic like MagSafe</a> (Windows Central) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes">The Surface Laptop Ultra is a CNC-machined aluminum MacBook Pro rival built around Nvidia’s first RTX Spark chip, with a magnetic Surface Connect-style charger built around a USB-C port</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder">Microsoft’s $5,999 Surface RTX Spark Dev Box packs 128GB of unified memory to run local models exceeding 120B parameters, shipping in November</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -38,13 +39,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-07T15:45:55-07:00">October 07, 2026 at 03:45 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-08T15:56:52-07:00">October 08, 2026 at 03:56 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,252</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,261</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,801</span></li>
       </ul>
     </div>
@@ -53,7 +54,7 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(74 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(76 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
@@ -61,8 +62,8 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(288 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(114 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(290 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(117 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
       </ol>
     </div>

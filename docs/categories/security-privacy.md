@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [A theoretical computer scientist, citing sources, says AI labs have started investigating whether their latest internal models can break cryptographic protocols](https://scottaaronson.blog/?p=10169) (Shtetl)
 - [ChatGPT is not only using New Yorker cartoonists' style but also adding their signatures to the fake cartoons it creates, which have gone viral on social media](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) (Nieman Lab)
 - [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo) (The Atlantic)
 - [OpenAI safety employee David Robinson quits, says AI firms should be run like nuclear power plants, with layers of redundancy; OpenAI says it is strengthening security in its testing environments](https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards) (Bloomberg)

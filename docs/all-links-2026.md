@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, October 08 2026 - Are AI Labs Trying to Break Encryption?**
+
+  * [A theoretical computer scientist, citing sources, says AI labs have started investigating whether their latest internal models can break cryptographic protocols](https://scottaaronson.blog/?p=10169) (Shtetl)
+  * [Vitalik Buterin backs Justin Drake’s “bunker mode” warning that AI-accelerated math could break the cryptography behind blockchain wallets, including lattice-based schemes, before quantum computers do](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months) (CoinTelegraph)
+  * [Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests](https://www.anthropic.com/claude-haiku-5-5) (Anthropic)
+  * [Haiku 5.5 is 90% cheaper than Haiku 4.5 at 10 cents and 50 cents per million tokens, matching OpenAI’s GPT-6 Luna on price while beating it on all six shared benchmarks; Sonnet 5.5 cache reads were also halved](https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/) (SiliconANGLE)
+  * [Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models](https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage) (VentureBeat)
+  * [Google’s Gemini agent runs each job on the model that fits best, Gemini or Claude, with four kinds of memory and sub-agents that coordinate workflows running for hours or days](https://9to5google.com/2026/10/08/gemini-agent-google-cloud/) (9to5Google)
+  * [Microsoft opens preorders for the $2,599+ Surface Laptop Ultra, shipping from October 16, with an RTX Spark and three USB-C ports; one is magnetic like MagSafe](https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date) (Windows Central)
+  * [The Surface Laptop Ultra is a CNC-machined aluminum MacBook Pro rival built around Nvidia’s first RTX Spark chip, with a magnetic Surface Connect-style charger built around a USB-C port](https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes) (The Verge)
+  * [Microsoft’s $5,999 Surface RTX Spark Dev Box packs 128GB of unified memory to run local models exceeding 120B parameters, shipping in November](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder) (The Verge)
+
+
+
 **Wednesday, October 07 2026 - Did OpenAI's Secret Model Just Crack Math?**
 
   * [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage](https://openai.com/index/sharing-ai-progress-in-mathematics/) (OpenAI)
