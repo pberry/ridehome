@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) (Anthropic)
+- [Anthropic’s OSS Scanner gives open-source projects periodic scans by its strongest models, including Claude Mythos, at no cost, but the reports are fully model-generated with no human triage, so some may be wrong](https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/) (Engadget)
 - [A theoretical computer scientist, citing sources, says AI labs have started investigating whether their latest internal models can break cryptographic protocols](https://scottaaronson.blog/?p=10169) (Shtetl)
 - [ChatGPT is not only using New Yorker cartoonists' style but also adding their signatures to the fake cartoons it creates, which have gone viral on social media](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) (Nieman Lab)
 - [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields' safety approaches; time for trial and error's over](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo) (The Atlantic)

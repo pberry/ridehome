@@ -5,6 +5,21 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 09 2026 - Is Elon Musk Coming For Your Phone Plan?**
+
+  * [AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI”](https://x.com/balesni/status/2108262814003687745) (X)
+  * [Fired OpenAI safety researchers Jasmine Wang, Mikita Balesni and Tomek Korbak published an open letter warning the “very public” firings could have a “chilling” effect on employees, and urging OpenAI to keep its third-party safety auditors](https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/) (Engadget)
+  * [OpenAI is standing firm on firing Wang, Korbak and Balesni after an investigation found “a significant breach of trust,” insisting it wasn’t about their safety concerns](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) (The Verge)
+  * [Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14" MacBook Pro with M6, and an iMac with M6](https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4) (Bloomberg)
+  * [Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) (Anthropic)
+  * [Anthropic’s OSS Scanner gives open-source projects periodic scans by its strongest models, including Claude Mythos, at no cost, but the reports are fully model-generated with no human triage, so some may be wrong](https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/) (Engadget)
+  * [Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1) (FT)
+  * [SpaceX agrees to acquire a low-band spectrum portfolio to help Starlink “become a major mobile carrier in the US”; AT&T, T-Mobile, Verizon fall 6%+ after hours](https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service) (Bloomberg)
+  * [Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating](https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value) (Bloomberg)
+  * [Anthropic updates its usage policy to ban “sustained and needless abusive or cruel behavior” toward Claude; ending chats is “the primary enforcement mechanism”](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude) (The Verge)
+
+
+
 **Thursday, October 08 2026 - Are AI Labs Trying to Break Encryption?**
 
   * [A theoretical computer scientist, citing sources, says AI labs have started investigating whether their latest internal models can break cryptographic protocols](https://scottaaronson.blog/?p=10169) (Shtetl)

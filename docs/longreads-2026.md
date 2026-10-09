@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 09 2026**
+
+  * [“Software is over”: Bold AI developer takes aim at Adobe with open source clones](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/) (Ars Technica)
+
+
+
 **Friday, October 02 2026**
 
   * [Mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls point to gaps in Nvidia's due diligence, as a California man is arrested over $300M+ in smuggled chips](https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases) (Bloomberg)

@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### October
+
+- [SpaceX agrees to acquire a low-band spectrum portfolio to help Starlink “become a major mobile carrier in the US”; AT&T, T-Mobile, Verizon fall 6%+ after hours](https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service) (Bloomberg)
+
 ### September
 
 - [Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints](https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins) (The Information)

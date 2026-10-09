@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1) (FT)
+- [Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating](https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value) (Bloomberg)
 - [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace "artificial" intelligence with "super"](https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/) (Reuters)
 - [Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total](https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year) (Bloomberg)
 - [Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI "super intelligence"](https://www.bbc.com/news/articles/cqx2z23xj555o) (BBC)

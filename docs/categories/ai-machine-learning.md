@@ -9,6 +9,11 @@ layout: category
 
 ### October
 
+- [AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI”](https://x.com/balesni/status/2108262814003687745) (X)
+- [Fired OpenAI safety researchers Jasmine Wang, Mikita Balesni and Tomek Korbak published an open letter warning the “very public” firings could have a “chilling” effect on employees, and urging OpenAI to keep its third-party safety auditors](https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/) (Engadget)
+- [OpenAI is standing firm on firing Wang, Korbak and Balesni after an investigation found “a significant breach of trust,” insisting it wasn’t about their safety concerns](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) (The Verge)
+- [Anthropic updates its usage policy to ban “sustained and needless abusive or cruel behavior” toward Claude; ending chats is “the primary enforcement mechanism”](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude) (The Verge)
+- [“Software is over”: Bold AI developer takes aim at Adobe with open source clones](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/) (Ars Technica)
 - [Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests](https://www.anthropic.com/claude-haiku-5-5) (Anthropic)
 - [Haiku 5.5 is 90% cheaper than Haiku 4.5 at 10 cents and 50 cents per million tokens, matching OpenAI’s GPT-6 Luna on price while beating it on all six shared benchmarks; Sonnet 5.5 cache reads were also halved](https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/) (SiliconANGLE)
 - [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage](https://openai.com/index/sharing-ai-progress-in-mathematics/) (OpenAI)
