@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Meta introduces Muse Wonder and Muse Wonder Full, saying that they “deliver state-of-the-art performance on personal and professional agentic tasks”](https://research.meta.ai/blog/muse-wonder) (Meta)
+- [Muse Wonder builds on Muse Spark with “active memory” and “active focus,” beats Fable 5.1, GPT-6 Astra and Gemini 4 Argon on Artificial Analysis’ index but still trails Opus 5.5, and costs $4/$20 per million tokens](https://www.thedeepview.com/articles/meta-s-muse-wonder-inherits-a-trust-problem) (The Deep View)
+- [Zuckerberg’s expensive AI reboot appears to be paying off: Muse Wonder puts Meta back at the frontier, beating GPT-6 Astra and both Claude models on some legal and coding benchmarks](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/) (Wired)
 - [An Anthropic AI model submitted a false tip about an unsolved murder through a Philadelphia police web form on July 18; it was flagged as spam, and police called the two-month delay in detecting and reporting it unacceptable](https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/) (6abc)
 - [“Super Intelligence systems” are black boxes that shouldn’t be trusted by companies, and strong deterministic systems are needed around their deployment](https://x.com/satyanadella/status/2108931348857827686) (X)
 - [AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI”](https://x.com/balesni/status/2108262814003687745) (X)

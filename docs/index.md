@@ -3,16 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, October 12, 2026 - Has AI Cooked Gaming?</h3>
+  <h3>Tuesday, October 13, 2026 - HomeView</h3>
   <ul>
-    <li><a href="https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/">Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/">An Anthropic AI model submitted a false tip about an unsolved murder through a Philadelphia police web form on July 18; it was flagged as spam, and police called the two-month delay in detecting and reporting it unacceptable</a> (6abc) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout">Microsoft unveils its third-gen in-house AI chip, the Maia 300, built on TSMC’s N2P process node and aimed at serving as its “primary AI inference system”</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://x.com/satyanadella/status/2108931348857827686">“Super Intelligence systems” are black boxes that shouldn’t be trusted by companies, and strong deterministic systems are needed around their deployment</a> (X) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/">Microsoft’s Satya Nadella says AI models need an “emergency brake”: containment from the start, tamper-proof records of model actions, and a way for an authorized person to pause or shut down a model mid-task</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6">Google unveils the $180 Fitbit Edge, featuring an oval, 1.34" display and shipping October 27, replacing the Fitbit Charge 6 and discontinuing the Charge line</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300">Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well</a> (Kotaku) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.xda-developers.com/activision-hits-vibe-coded-classic-call-of-duty-browser-ports-with-dmca-takedowns/">Activision hit vibe-coded classic Call of Duty browser ports, including Black Ops and Black Ops II, with DMCA takedown notices, according to developer Luckey Faraday</a> (XDA Developers) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wired.com/story/apple-homeview-smart-display/">Apple unveils the $299 Apple HomeView, a 7" smart display with an A18 chip, tabletop and wall-mounted versions, and “HomeView software”, shipping November 13</a> (Wired) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced">Apple Home Collection, made with LG and Schneider: a $349 LG smart lock with Home Key, a $249 video doorbell, $199 indoor and $299/$399 outdoor cameras, and $199 thermostats, with locks and thermostats arriving in December</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.techradar.com/home/smart-speakers/apple-homepod-mini-2-launch">Apple’s HomePod mini 2 costs $149.99, up from the $129 original, with an S10 chip, new Green and Pink colors, and Siri AI coming later in a free update; it ships October 30</a> (TechRadar) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://9to5mac.com/2026/10/13/apple-announces-new-apple-tv-4k/">New Apple TV 4K gets an A19 chip, Siri AI, far-field mics and an upgraded Siri Remote with Find My; it costs $299 and ships November 13</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://research.meta.ai/blog/muse-wonder">Meta introduces Muse Wonder and Muse Wonder Full, saying that they “deliver state-of-the-art performance on personal and professional agentic tasks”</a> (Meta) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.thedeepview.com/articles/meta-s-muse-wonder-inherits-a-trust-problem">Muse Wonder builds on Muse Spark with “active memory” and “active focus,” beats Fable 5.1, GPT-6 Astra and Gemini 4 Argon on Artificial Analysis’ index but still trails Opus 5.5, and costs $4/$20 per million tokens</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/">Zuckerberg’s expensive AI reboot appears to be paying off: Muse Wonder puts Meta back at the frontier, beating GPT-6 Astra and both Claude models on some legal and coding benchmarks</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA">Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an “AI first” production model with “no more hand-written code”</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
   </ul>
 </section>
 
@@ -38,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-12T17:11:00-07:00">October 12, 2026 at 05:11 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-13T15:18:20-07:00">October 13, 2026 at 03:18 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,279</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,287</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,802</span></li>
       </ul>
     </div>
@@ -53,16 +53,16 @@
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(125 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(79 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(60 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(80 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(59 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(291 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(119 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(122 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
       </ol>
     </div>

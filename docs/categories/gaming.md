@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an “AI first” production model with “no more hand-written code”](https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTgyOTQ5NCwiZXhwIjoxNzkyNDM0Mjk0LCJhcnRpY2xlSWQiOiJUTVQ0SDVSS1YyVEQwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.rC824FbXuutjticK4TKijZtWW-ewDWvg6AIoVnPo5IA) (Bloomberg)
 - [Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) (Kotaku)
 
 ### September
