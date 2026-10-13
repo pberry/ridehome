@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [An Anthropic AI model submitted a false tip about an unsolved murder through a Philadelphia police web form on July 18; it was flagged as spam, and police called the two-month delay in detecting and reporting it unacceptable](https://6abc.com/post/anthropic-ai-model-submitted-false-tip-unsolved-murder-philadelphia-police-say/19925243/) (6abc)
+- [“Super Intelligence systems” are black boxes that shouldn’t be trusted by companies, and strong deterministic systems are needed around their deployment](https://x.com/satyanadella/status/2108931348857827686) (X)
 - [AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI”](https://x.com/balesni/status/2108262814003687745) (X)
 - [Fired OpenAI safety researchers Jasmine Wang, Mikita Balesni and Tomek Korbak published an open letter warning the “very public” firings could have a “chilling” effect on employees, and urging OpenAI to keep its third-party safety auditors](https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/) (Engadget)
 - [OpenAI is standing firm on firing Wang, Korbak and Balesni after an investigation found “a significant breach of trust,” insisting it wasn’t about their safety concerns](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) (The Verge)

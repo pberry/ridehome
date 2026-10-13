@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) (TechCrunch)
 - [Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) (Anthropic)
 - [Anthropic’s OSS Scanner gives open-source projects periodic scans by its strongest models, including Claude Mythos, at no cost, but the reports are fully model-generated with no human triage, so some may be wrong](https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/) (Engadget)
 - [A theoretical computer scientist, citing sources, says AI labs have started investigating whether their latest internal models can break cryptographic protocols](https://scottaaronson.blog/?p=10169) (Shtetl)

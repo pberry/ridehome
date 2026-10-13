@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Microsoft unveils its third-gen in-house AI chip, the Maia 300, built on TSMC’s N2P process node and aimed at serving as its “primary AI inference system”](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout) (The Verge)
+- [Google unveils the $180 Fitbit Edge, featuring an oval, 1.34" display and shipping October 27, replacing the Fitbit Charge 6 and discontinuing the Charge line](https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6) (Bloomberg)
 - [Sources: Apple is planning an event on or around October 27 for its first touchscreen MacBook, an OLED iPad mini, a 14" MacBook Pro with M6, and an iMac with M6](https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4) (Bloomberg)
 - [Microsoft opens preorders for the $2,599+ Surface Laptop Ultra, shipping from October 16, with an RTX Spark and three USB-C ports; one is magnetic like MagSafe](https://www.windowscentral.com/hardware/surface/microsoft-finally-confirms-surface-laptop-ultra-pricing-and-release-date) (Windows Central)
 - [The Surface Laptop Ultra is a CNC-machined aluminum MacBook Pro rival built around Nvidia’s first RTX Spark chip, with a magnetic Surface Connect-style charger built around a USB-C port](https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes) (The Verge)

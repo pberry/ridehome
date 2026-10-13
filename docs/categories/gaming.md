@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Hundreds of old games were decompiled and ported to run on browsers in recent weeks, driven by Claude Opus 5.5; titles like GTA: Vice City and Halo: CE run well](https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300) (Kotaku)
+
 ### September
 
 - [Meta unveils mobile app Horizon Create and web app Horizon Studio for building games with AI prompts; the games will run on Facebook, Instagram, and Horizon](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games) (The Verge)
