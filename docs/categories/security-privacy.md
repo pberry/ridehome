@@ -9,6 +9,12 @@ layout: category
 
 ### October
 
+- [OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device](https://x.com/openainewsroom/status/2110095403198849132) (X)
+- [Saudi national Abdulrahman Alfozan, on OpenAI’s product team for over a year, is charged with wrapping a thumb-sized recorder in toilet paper and plugging it into the USB port of a conference room TV](https://www.wsj.com/tech/ai/saudi-national-charged-with-bugging-openais-office-7e960aad) (WSJ)
+- [More on the alleged OpenAI spy: Alfozan, who cited Elon Musk as a role model, was a fixture between Silicon Valley and Saudi Arabia and was due to speak at Stanford last Friday](https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8) (FT)
+- [Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September’s record of 972, which was already ~10x the normal monthly patch load](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/) (Krebs on Security)
+- [October Patch Tuesday fixed 1,416 Microsoft vulnerabilities, 85 of them critical including 67 remote code execution flaws, one already exploited in the wild, with over 1,000 across Windows versions](https://www.pcworld.com/article/3260668) (PCWorld)
+- [The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities](https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html) (The New York Times)
 - [Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/) (TechCrunch)
 - [Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review](https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source) (Anthropic)
 - [Anthropic’s OSS Scanner gives open-source projects periodic scans by its strongest models, including Claude Mythos, at no cost, but the reports are fully model-generated with no human triage, so some may be wrong](https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/) (Engadget)

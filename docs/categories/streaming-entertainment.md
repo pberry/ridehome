@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3) (WSJ)
 - [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance) (The Verge)
 
 ### September

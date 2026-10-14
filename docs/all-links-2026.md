@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, October 14 2026 - OpenAI's Office Was Bugged**
+
+  * [OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device](https://x.com/openainewsroom/status/2110095403198849132) (X)
+  * [Saudi national Abdulrahman Alfozan, on OpenAI’s product team for over a year, is charged with wrapping a thumb-sized recorder in toilet paper and plugging it into the USB port of a conference room TV](https://www.wsj.com/tech/ai/saudi-national-charged-with-bugging-openais-office-7e960aad) (WSJ)
+  * [More on the alleged OpenAI spy: Alfozan, who cited Elon Musk as a role model, was a fixture between Silicon Valley and Saudi Arabia and was due to speak at Stanford last Friday](https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8) (FT)
+  * [Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3) (WSJ)
+  * [Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September’s record of 972, which was already ~10x the normal monthly patch load](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/) (Krebs on Security)
+  * [October Patch Tuesday fixed 1,416 Microsoft vulnerabilities, 85 of them critical including 67 remote code execution flaws, one already exploited in the wild, with over 1,000 across Windows versions](https://www.pcworld.com/article/3260668) (PCWorld)
+  * [The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities](https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html) (The New York Times)
+  * [A look at OpenAI’s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique](https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model) (The Information)
+
+
+
 **Tuesday, October 13 2026 - HomeView**
 
   * [Apple unveils the $299 Apple HomeView, a 7" smart display with an A18 chip, tabletop and wall-mounted versions, and “HomeView software”, shipping November 13](https://www.wired.com/story/apple-homeview-smart-display/) (Wired)

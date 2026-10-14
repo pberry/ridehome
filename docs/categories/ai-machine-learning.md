@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [A look at OpenAI’s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique](https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model) (The Information)
 - [Meta introduces Muse Wonder and Muse Wonder Full, saying that they “deliver state-of-the-art performance on personal and professional agentic tasks”](https://research.meta.ai/blog/muse-wonder) (Meta)
 - [Muse Wonder builds on Muse Spark with “active memory” and “active focus,” beats Fable 5.1, GPT-6 Astra and Gemini 4 Argon on Artificial Analysis’ index but still trails Opus 5.5, and costs $4/$20 per million tokens](https://www.thedeepview.com/articles/meta-s-muse-wonder-inherits-a-trust-problem) (The Deep View)
 - [Zuckerberg’s expensive AI reboot appears to be paying off: Muse Wonder puts Meta back at the frontier, beating GPT-6 Astra and both Claude models on some legal and coding benchmarks](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/) (Wired)
