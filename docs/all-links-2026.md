@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, October 15 2026 - Anthropic's Growth Is Slowing**
+
+  * [Sources: Anthropic told investors that its Q3 revenue hit $16.8B, up from $11.5B in Q2, and that it was profitable on an adjusted basis in Q3, ahead of its IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b) (FT)
+  * [Sources: Anthropic told investors that 5% to 7% of its revenue comes from distillation, and that distillation revenue will decline and keep weighing on its numbers this period](https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation?rc=i9gkgs) (The Information)
+  * [Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9](https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia) (Bloomberg)
+  * [OpenAI has trained employees to resist spies, including a stranger at a San Francisco playground who quizzed an employee about their work, before federal authorities arrested an employee for planting a listening device](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink) (WSJ)
+  * [Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription](https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan) (Bloomberg)
+  * [Amazon’s Bee debuts its first new devices since the acquisition, the $74.99 Frontier and $99.99 Eclipse, undercutting the $159 Plaud Note and $129 Pocket, with $11.99/month Bee Pro adding Amazon.com and Alexa+ integrations](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/) (TechCrunch)
+  * [Nvidia’s RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple’s M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models](https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit) (Tom’s Hardware)
+
+
+
 **Wednesday, October 14 2026 - OpenAI's Office Was Bugged**
 
   * [OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device](https://x.com/openainewsroom/status/2110095403198849132) (X)

@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription](https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan) (Bloomberg)
+- [Amazon’s Bee debuts its first new devices since the acquisition, the $74.99 Frontier and $99.99 Eclipse, undercutting the $159 Plaud Note and $129 Pocket, with $11.99/month Bee Pro adding Amazon.com and Alexa+ integrations](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/) (TechCrunch)
+- [Nvidia’s RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple’s M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models](https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit) (Tom’s Hardware)
 - [Apple unveils the $299 Apple HomeView, a 7" smart display with an A18 chip, tabletop and wall-mounted versions, and “HomeView software”, shipping November 13](https://www.wired.com/story/apple-homeview-smart-display/) (Wired)
 - [Apple Home Collection, made with LG and Schneider: a $349 LG smart lock with Home Key, a $249 video doorbell, $199 indoor and $299/$399 outdoor cameras, and $199 thermostats, with locks and thermostats arriving in December](https://www.theverge.com/tech/1009680/apple-home-collection-doorbell-lock-camera-smart-home-announced) (The Verge)
 - [Apple’s HomePod mini 2 costs $149.99, up from the $129 original, with an S10 chip, new Green and Pink colors, and Siri AI coming later in a free update; it ships October 30](https://www.techradar.com/home/smart-speakers/apple-homepod-mini-2-launch) (TechRadar)

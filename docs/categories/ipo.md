@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Sources: Anthropic told investors that its Q3 revenue hit $16.8B, up from $11.5B in Q2, and that it was profitable on an adjusted basis in Q3, ahead of its IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b) (FT)
+- [Sources: Anthropic told investors that 5% to 7% of its revenue comes from distillation, and that distillation revenue will decline and keep weighing on its numbers this period](https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation?rc=i9gkgs) (The Information)
+
 ### September
 
 - [IPO prospectus: Anthropic reports a net loss of $42B in 2025, with operating losses of $8B+; revenue grew 12x to ~$4.6B, ~25% of which came from two customers](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) (Reuters)

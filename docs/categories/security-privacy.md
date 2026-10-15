@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9](https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia) (Bloomberg)
+- [OpenAI has trained employees to resist spies, including a stranger at a San Francisco playground who quizzed an employee about their work, before federal authorities arrested an employee for planting a listening device](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink) (WSJ)
 - [OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device](https://x.com/openainewsroom/status/2110095403198849132) (X)
 - [Saudi national Abdulrahman Alfozan, on OpenAI’s product team for over a year, is charged with wrapping a thumb-sized recorder in toilet paper and plugging it into the USB port of a conference room TV](https://www.wsj.com/tech/ai/saudi-national-charged-with-bugging-openais-office-7e960aad) (WSJ)
 - [More on the alleged OpenAI spy: Alfozan, who cited Elon Musk as a role model, was a fixture between Silicon Valley and Saudi Arabia and was due to speak at Stanford last Friday](https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8) (FT)

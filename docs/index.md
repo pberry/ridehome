@@ -3,16 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, October 14, 2026 - OpenAI's Office Was Bugged</h3>
+  <h3>Thursday, October 15, 2026 - Anthropic's Growth Is Slowing</h3>
   <ul>
-    <li><a href="https://x.com/openainewsroom/status/2110095403198849132">OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device</a> (X) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/saudi-national-charged-with-bugging-openais-office-7e960aad">Saudi national Abdulrahman Alfozan, on OpenAI’s product team for over a year, is charged with wrapping a thumb-sized recorder in toilet paper and plugging it into the USB port of a conference room TV</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.ft.com/content/b71e0dc4-b190-49ec-b000-bd585054ddc8">More on the alleged OpenAI spy: Alfozan, who cited Elon Musk as a role model, was a fixture between Silicon Valley and Saudi Arabia and was due to speak at Stanford last Friday</a> (FT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3">Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth</a> (WSJ) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/">Microsoft releases updates fixing 1,400+ security vulnerabilities, surpassing September’s record of 972, which was already ~10x the normal monthly patch load</a> (Krebs on Security) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.pcworld.com/article/3260668">October Patch Tuesday fixed 1,416 Microsoft vulnerabilities, 85 of them critical including 67 remote code execution flaws, one already exploited in the wild, with over 1,000 across Windows versions</a> (PCWorld) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html">The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model">A look at OpenAI’s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique</a> (The Information) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b">Sources: Anthropic told investors that its Q3 revenue hit $16.8B, up from $11.5B in Q2, and that it was profitable on an adjusted basis in Q3, ahead of its IPO</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation?rc=i9gkgs">Sources: Anthropic told investors that 5% to 7% of its revenue comes from distillation, and that distillation revenue will decline and keep weighing on its numbers this period</a> (The Information) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia">Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink">OpenAI has trained employees to resist spies, including a stranger at a San Francisco playground who quizzed an employee about their work, before federal authorities arrested an employee for planting a listening device</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan">Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/">Amazon’s Bee debuts its first new devices since the acquisition, the $74.99 Frontier and $99.99 Eclipse, undercutting the $159 Plaud Note and $129 Pocket, with $11.99/month Bee Pro adding Amazon.com and Alexa+ integrations</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit">Nvidia’s RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple’s M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models</a> (Tom’s Hardware) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -38,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-14T14:18:20-07:00">October 14, 2026 at 02:18 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-15T13:57:33-07:00">October 15, 2026 at 01:57 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,295</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,302</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,802</span></li>
       </ul>
     </div>
@@ -52,9 +51,9 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(125 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(80 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
 
@@ -62,7 +61,7 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(290 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(122 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(125 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
       </ol>
     </div>
