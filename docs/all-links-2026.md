@@ -5,6 +5,16 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 16 2026 - What Is Meta's Muse Spark Open?**
+
+  * [Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window](https://research.meta.ai/blog/muse-spark-open) (Meta)
+  * [Meta released Muse Spark Open for coding and long-running agent work, billing it as the most capable open-weight model from a US lab, with only 42B of its 816B parameters active per token](https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/) (SiliconAngle)
+  * [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own) (CoinDesk)
+  * [Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude](https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/) (404 Media)
+  * [BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) (CNBC)
+
+
+
 **Thursday, October 15 2026 - Anthropic's Growth Is Slowing**
 
   * [Sources: Anthropic told investors that its Q3 revenue hit $16.8B, up from $11.5B in Q2, and that it was profitable on an adjusted basis in Q3, ahead of its IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b) (FT)

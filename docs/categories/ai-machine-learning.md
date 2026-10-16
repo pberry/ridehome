@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window](https://research.meta.ai/blog/muse-spark-open) (Meta)
+- [Meta released Muse Spark Open for coding and long-running agent work, billing it as the most capable open-weight model from a US lab, with only 42B of its 816B parameters active per token](https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/) (SiliconAngle)
+- [Nick Cammarata argues modern neural networks are far more interpretable than believed, with most neurons understandable in models up to trillions of parameters](https://already-clean.goodfire.com/) (Goodfire)
 - [A look at OpenAI’s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique](https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model) (The Information)
 - [Meta introduces Muse Wonder and Muse Wonder Full, saying that they “deliver state-of-the-art performance on personal and professional agentic tasks”](https://research.meta.ai/blog/muse-wonder) (Meta)
 - [Muse Wonder builds on Muse Spark with “active memory” and “active focus,” beats Fable 5.1, GPT-6 Astra and Gemini 4 Argon on Artificial Analysis’ index but still trails Opus 5.5, and costs $4/$20 per million tokens](https://www.thedeepview.com/articles/meta-s-muse-wonder-inherits-a-trust-problem) (The Deep View)

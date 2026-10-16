@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own) (CoinDesk)
 - [Vitalik Buterin backs Justin Drake’s “bunker mode” warning that AI-accelerated math could break the cryptography behind blockchain wallets, including lattice-based schemes, before quantum computers do](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months) (CoinTelegraph)
 
 ### September

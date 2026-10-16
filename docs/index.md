@@ -3,15 +3,13 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, October 15, 2026 - Anthropic's Growth Is Slowing</h3>
+  <h3>Friday, October 16, 2026 - What Is Meta's Muse Spark Open?</h3>
   <ul>
-    <li><a href="https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b">Sources: Anthropic told investors that its Q3 revenue hit $16.8B, up from $11.5B in Q2, and that it was profitable on an adjusted basis in Q3, ahead of its IPO</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation?rc=i9gkgs">Sources: Anthropic told investors that 5% to 7% of its revenue comes from distillation, and that distillation revenue will decline and keep weighing on its numbers this period</a> (The Information) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia">Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink">OpenAI has trained employees to resist spies, including a stranger at a San Francisco playground who quizzed an employee about their work, before federal authorities arrested an employee for planting a listening device</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan">Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/">Amazon’s Bee debuts its first new devices since the acquisition, the $74.99 Frontier and $99.99 Eclipse, undercutting the $159 Plaud Note and $129 Pocket, with $11.99/month Bee Pro adding Amazon.com and Alexa+ integrations</a> (TechCrunch) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit">Nvidia’s RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple’s M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models</a> (Tom’s Hardware) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://research.meta.ai/blog/muse-spark-open">Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window</a> (Meta) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/">Meta released Muse Spark Open for coding and long-running agent work, billing it as the most capable open-weight model from a US lab, with only 42B of its 816B parameters active per token</a> (SiliconAngle) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own">OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases</a> (CoinDesk) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/">Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude</a> (404 Media) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html">BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos</a> (CNBC) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -37,21 +35,21 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-15T13:57:33-07:00">October 15, 2026 at 01:57 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-16T13:32:27-07:00">October 16, 2026 at 01:32 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,302</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,802</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,307</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,804</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(125 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(80 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
@@ -60,7 +58,7 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(290 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(125 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
       </ol>

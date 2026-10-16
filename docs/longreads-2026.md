@@ -10,6 +10,13 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 16 2026**
+
+  * [Nick Cammarata argues modern neural networks are far more interpretable than believed, with most neurons understandable in models up to trillions of parameters](https://already-clean.goodfire.com/) (Goodfire)
+  * [The making of Rockstar’s GTA VI, which analysts expect to sell 40M copies and make $3B+ in revenue in its first four months; Rockstar now has 4,711 staff](https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of/) (Bloomberg)
+
+
+
 **Friday, October 09 2026**
 
   * [“Software is over”: Bold AI developer takes aim at Adobe with open source clones](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/) (Ars Technica)
