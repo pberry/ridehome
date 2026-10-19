@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, October 19 2026 - Everyone Wants To Give Back**
+
+  * [Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) (CNBC)
+  * [Anthropic says it is committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise](https://www.anthropic.com/news/public-benefit-fund) (Anthropic)
+  * [Anthropic’s Long-Term Benefit Trust can seat four of seven board members and dismiss them without cause, but its governing documents and shareholder override terms aren’t public](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg) (WSJ)
+  * [MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data](https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras) (Mashable)
+  * [MapQuest’s new Surveillance Layer maps plate readers from Flock, Vigilant, Axon, Verkada and others on Android and iOS; Flock alone has 120,000+ cameras in the US, so expect a lot of dots](https://www.techradar.com/phones/this-is-how-you-win-back-users-after-a-surge-in-popularity-mapquest-will-now-show-you-where-flock-cameras-are-on-the-map) (TechRadar)
+  * [Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer “direct-to-device” satellite service in Europe, challenging Starlink](https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c) (FT)
+  * [Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon’s planned 2027 price](https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/) (The Decoder)
+  * [Four Gemini 4 Argon agents beat Minecraft’s Ender Dragon by splitting roles and sharing tips; they wrote 2,783 programs, exchanged 229 messages, and died 605 times along the way](https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/) (Engadget)
+  * [Anthropic says Claude traced NIST’s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm](https://www.anthropic.com/research/ecdsa-curve-origins) (Anthropic)
+
+
+
 **Friday, October 16 2026 - What Is Meta's Muse Spark Open?**
 
   * [Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window](https://research.meta.ai/blog/muse-spark-open) (Meta)

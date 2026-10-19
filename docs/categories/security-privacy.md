@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data](https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras) (Mashable)
+- [MapQuest’s new Surveillance Layer maps plate readers from Flock, Vigilant, Axon, Verkada and others on Android and iOS; Flock alone has 120,000+ cameras in the US, so expect a lot of dots](https://www.techradar.com/phones/this-is-how-you-win-back-users-after-a-surge-in-popularity-mapquest-will-now-show-you-where-flock-cameras-are-on-the-map) (TechRadar)
+- [Anthropic says Claude traced NIST’s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm](https://www.anthropic.com/research/ecdsa-curve-origins) (Anthropic)
 - [BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos](https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html) (CNBC)
 - [Filing: Abdulrahman Alfozan, his wife, and a family member booked one-way tickets from the US to Saudi Arabia for October 12; the FBI arrested him on October 9](https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia) (Bloomberg)
 - [OpenAI has trained employees to resist spies, including a stranger at a San Francisco playground who quizzed an employee about their work, before federal authorities arrested an employee for planting a listening device](https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink) (WSJ)

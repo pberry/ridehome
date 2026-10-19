@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Anthropic’s Long-Term Benefit Trust can seat four of seven board members and dismiss them without cause, but its governing documents and shareholder override terms aren’t public](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg) (WSJ)
 - [Microsoft’s Satya Nadella says AI models need an “emergency brake”: containment from the start, tamper-proof records of model actions, and a way for an authorized person to pause or shut down a model mid-task](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) (TechCrunch)
 - [Activision hit vibe-coded classic Call of Duty browser ports, including Black Ops and Black Ops II, with DMCA takedown notices, according to developer Luckey Faraday](https://www.xda-developers.com/activision-hits-vibe-coded-classic-call-of-duty-browser-ports-with-dmca-takedowns/) (XDA Developers)
 - [Musk's SpaceXSI rebrand follows Trump's September 29 executive order directing federal agencies to use "super intelligence" and "SI" in place of "artificial intelligence" and "AI"](https://qz.com/spacex-spacexsi-ai-super-intelligence-musk-trump-100526) (Quartz)

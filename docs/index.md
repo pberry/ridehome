@@ -3,13 +3,17 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, October 16, 2026 - What Is Meta's Muse Spark Open?</h3>
+  <h3>Monday, October 19, 2026 - Everyone Wants To Give Back</h3>
   <ul>
-    <li><a href="https://research.meta.ai/blog/muse-spark-open">Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window</a> (Meta) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/">Meta released Muse Spark Open for coding and long-running agent work, billing it as the most capable open-weight model from a US lab, with only 42B of its 816B parameters active per token</a> (SiliconAngle) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own">OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases</a> (CoinDesk) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
-    <li><a href="https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/">Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude</a> (404 Media) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
-    <li><a href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html">BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos</a> (CNBC) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html">Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.anthropic.com/news/public-benefit-fund">Anthropic says it is committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise</a> (Anthropic) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg">Anthropic’s Long-Term Benefit Trust can seat four of seven board members and dismiss them without cause, but its governing documents and shareholder override terms aren’t public</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras">MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data</a> (Mashable) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.techradar.com/phones/this-is-how-you-win-back-users-after-a-surge-in-popularity-mapquest-will-now-show-you-where-flock-cameras-are-on-the-map">MapQuest’s new Surveillance Layer maps plate readers from Flock, Vigilant, Axon, Verkada and others on Android and iOS; Flock alone has 120,000+ cameras in the US, so expect a lot of dots</a> (TechRadar) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c">Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer “direct-to-device” satellite service in Europe, challenging Starlink</a> (FT) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/">Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon’s planned 2027 price</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/">Four Gemini 4 Argon agents beat Minecraft’s Ender Dragon by splitting roles and sharing tips; they wrote 2,783 programs, exchanged 229 messages, and died 605 times along the way</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Anthropic says Claude traced NIST’s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm</a> (Anthropic) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -35,13 +39,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-16T13:32:27-07:00">October 16, 2026 at 01:32 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-19T15:01:07-07:00">October 19, 2026 at 03:01 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,307</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,316</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,804</span></li>
       </ul>
     </div>
@@ -49,17 +53,17 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(80 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(125 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(291 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(123 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
       </ol>
     </div>

@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) (CNBC)
+- [Anthropic says it is committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise](https://www.anthropic.com/news/public-benefit-fund) (Anthropic)
+- [Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer “direct-to-device” satellite service in Europe, challenging Starlink](https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c) (FT)
 - [Docs: OpenAI told investors its annualized revenue was nearing $50B at the end of September, well below the $70B reported by the media based on investor docs](https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1) (FT)
 - [Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating](https://www.bloomberg.com/news/articles/2026-10-09/andreessen-horowitz-backs-jev-maker-at-7-5-billion-value) (Bloomberg)
 - [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump's push to replace "artificial" intelligence with "super"](https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/) (Reuters)

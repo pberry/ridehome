@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon’s planned 2027 price](https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/) (The Decoder)
+- [Four Gemini 4 Argon agents beat Minecraft’s Ender Dragon by splitting roles and sharing tips; they wrote 2,783 programs, exchanged 229 messages, and died 605 times along the way](https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/) (Engadget)
 - [Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window](https://research.meta.ai/blog/muse-spark-open) (Meta)
 - [Meta released Muse Spark Open for coding and long-running agent work, billing it as the most capable open-weight model from a US lab, with only 42B of its 816B parameters active per token](https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/) (SiliconAngle)
 - [Nick Cammarata argues modern neural networks are far more interpretable than believed, with most neurons understandable in models up to trillions of parameters](https://already-clean.goodfire.com/) (Goodfire)
