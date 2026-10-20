@@ -9,6 +9,11 @@ layout: category
 
 ### October
 
+- [DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs](https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs) (Bloomberg)
+- [Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster](https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics) (The Deep View)
+- [Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs](https://blog.cloudflare.com/clairic-extraction-model/) (Cloudflare)
+- [Cloudflare releases Clairic in preview on Workers AI, a model that returns every requested field with a confidence score in a single pass, with open weights to follow](https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/) (The Decoder)
+- [Cloudflare’s Clairic costs $0.10 per million input tokens with a 65,536-token context window, but its speed, accuracy, and cost claims are company claims, not a published head-to-head benchmark](https://runtimewire.com/article/cloudflare-clairic-extraction-model-alex-reneau) (RunTimeWire)
 - [Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon’s planned 2027 price](https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/) (The Decoder)
 - [Four Gemini 4 Argon agents beat Minecraft’s Ender Dragon by splitting roles and sharing tips; they wrote 2,783 programs, exchanged 229 messages, and died 605 times along the way](https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/) (Engadget)
 - [Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window](https://research.meta.ai/blog/muse-spark-open) (Meta)

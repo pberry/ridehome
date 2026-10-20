@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/) (TechCrunch)
 - [Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3) (WSJ)
 - [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance) (The Verge)
 

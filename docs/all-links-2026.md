@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, October 20 2026 - Eric Schmidt's $80 Billion Anthropic Bet**
+
+  * [DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs](https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs) (Bloomberg)
+  * [Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster](https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics) (The Deep View)
+  * [Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs](https://blog.cloudflare.com/clairic-extraction-model/) (Cloudflare)
+  * [Cloudflare releases Clairic in preview on Workers AI, a model that returns every requested field with a confidence score in a single pass, with open weights to follow](https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/) (The Decoder)
+  * [Cloudflare’s Clairic costs $0.10 per million input tokens with a 65,536-token context window, but its speed, accuracy, and cost claims are company claims, not a published head-to-head benchmark](https://runtimewire.com/article/cloudflare-clairic-extraction-model-alex-reneau) (RunTimeWire)
+  * [Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/) (TechCrunch)
+  * [Apple commits up to $100M over three years to Pennsylvania-based Perryman Company, a titanium supplier for the iPhone Duo, and expands its Qnity partnership](https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html) (CNBC)
+  * [Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO](https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall) (Bloomberg)
+
+
+
 **Monday, October 19 2026 - Everyone Wants To Give Back**
 
   * [Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) (CNBC)

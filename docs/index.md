@@ -3,17 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, October 19, 2026 - Everyone Wants To Give Back</h3>
+  <h3>Tuesday, October 20, 2026 - Eric Schmidt's $80 Billion Anthropic Bet</h3>
   <ul>
-    <li><a href="https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html">Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.anthropic.com/news/public-benefit-fund">Anthropic says it is committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise</a> (Anthropic) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg">Anthropic’s Long-Term Benefit Trust can seat four of seven board members and dismiss them without cause, but its governing documents and shareholder override terms aren’t public</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras">MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data</a> (Mashable) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.techradar.com/phones/this-is-how-you-win-back-users-after-a-surge-in-popularity-mapquest-will-now-show-you-where-flock-cameras-are-on-the-map">MapQuest’s new Surveillance Layer maps plate readers from Flock, Vigilant, Axon, Verkada and others on Android and iOS; Flock alone has 120,000+ cameras in the US, so expect a lot of dots</a> (TechRadar) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c">Deutsche Telekom, Orange, Telefónica, and Vodafone agree to explore a joint bid to offer “direct-to-device” satellite service in Europe, challenging Starlink</a> (FT) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/">Google DeepMind says four Gemini 4 Argon agents beat Minecraft without any human help in 27 hours and 14 minutes, costing $1,620 at Argon’s planned 2027 price</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/">Four Gemini 4 Argon agents beat Minecraft’s Ender Dragon by splitting roles and sharing tips; they wrote 2,783 programs, exchanged 229 messages, and died 605 times along the way</a> (Engadget) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.anthropic.com/research/ecdsa-curve-origins">Anthropic says Claude traced NIST’s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm</a> (Anthropic) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs">DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics">Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://blog.cloudflare.com/clairic-extraction-model/">Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs</a> (Cloudflare) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/">Cloudflare releases Clairic in preview on Workers AI, a model that returns every requested field with a confidence score in a single pass, with open weights to follow</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://runtimewire.com/article/cloudflare-clairic-extraction-model-alex-reneau">Cloudflare’s Clairic costs $0.10 per million input tokens with a 65,536-token context window, but its speed, accuracy, and cost claims are company claims, not a published head-to-head benchmark</a> (RunTimeWire) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/">Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html">Apple commits up to $100M over three years to Pennsylvania-based Perryman Company, a titanium supplier for the iPhone Duo, and expands its Qnity partnership</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall">Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
   </ul>
 </section>
 
@@ -39,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-19T15:01:07-07:00">October 19, 2026 at 03:01 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-20T14:16:57-07:00">October 20, 2026 at 02:16 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,316</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,324</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,804</span></li>
       </ul>
     </div>
@@ -53,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(79 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(78 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
       </ol>
     </div>
@@ -62,9 +61,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(291 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(123 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(102 links)</span></li>
       </ol>
     </div>
   </div>
