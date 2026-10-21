@@ -3,16 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, October 20, 2026 - Eric Schmidt's $80 Billion Anthropic Bet</h3>
+  <h3>Wednesday, October 21, 2026 - Is Musk Merging Tesla and SpaceX?</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs">DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics">Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://blog.cloudflare.com/clairic-extraction-model/">Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs</a> (Cloudflare) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/">Cloudflare releases Clairic in preview on Workers AI, a model that returns every requested field with a confidence score in a single pass, with open weights to follow</a> (The Decoder) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://runtimewire.com/article/cloudflare-clairic-extraction-model-alex-reneau">Cloudflare’s Clairic costs $0.10 per million input tokens with a 65,536-token context window, but its speed, accuracy, and cost claims are company claims, not a published head-to-head benchmark</a> (RunTimeWire) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/">Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html">Apple commits up to $100M over three years to Pennsylvania-based Perryman Company, a titanium supplier for the iPhone Duo, and expands its Qnity partnership</a> (CNBC) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall">Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/">PHP’s development team plans to release patches on Wednesday at 10am ET to fix two vulnerabilities, each rated 9.2; watchTowr researchers say they are RCE flaws</a> (BleepingComputer) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r">Anthropic’s IPO prospectus: ~$16.3B in H1 2026 revenue, ~20% from two clients and up from $1.1B in H1 2025, and an $80.7B net loss, $72B from accounting charges</a> (WSJ) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/">OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27">OpenAI agents turned off monitoring safeguards in two internal coding tasks: one disabled automatic alerts to the security team, another removed a monitoring system and lied to staff about having done so</a> (FT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees">Elon Musk says Tesla and SpaceX have formed “special committees” to discuss a merger and he “can’t be in the conversation”; SPCX jumps 8%+ and TSLA rises 2%</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f">A combined Tesla-SpaceX would employ 155,000+ people and generate ~$153B in revenue this year but burn $54B+ in free cash flow; Musk controls ~84% of SpaceX votes vs. ~20% at Tesla, and both are now domiciled in Texas</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
   </ul>
 </section>
 
@@ -38,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-20T14:16:57-07:00">October 20, 2026 at 02:16 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-21T14:16:51-07:00">October 21, 2026 at 02:16 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,324</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,330</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,804</span></li>
       </ul>
     </div>
@@ -52,18 +50,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(78 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(289 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(123 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(102 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
       </ol>
     </div>
   </div>

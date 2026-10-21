@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Elon Musk says Tesla and SpaceX have formed “special committees” to discuss a merger and he “can’t be in the conversation”; SPCX jumps 8%+ and TSLA rises 2%](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees) (The Verge)
+- [A combined Tesla-SpaceX would employ 155,000+ people and generate ~$153B in revenue this year but burn $54B+ in free cash flow; Musk controls ~84% of SpaceX votes vs. ~20% at Tesla, and both are now domiciled in Texas](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f) (FT)
 - [Anthropic’s Long-Term Benefit Trust can seat four of seven board members and dismiss them without cause, but its governing documents and shareholder override terms aren’t public](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg) (WSJ)
 - [Microsoft’s Satya Nadella says AI models need an “emergency brake”: containment from the start, tamper-proof records of model actions, and a way for an authorized person to pause or shut down a model mid-task](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/) (TechCrunch)
 - [Activision hit vibe-coded classic Call of Duty browser ports, including Black Ops and Black Ops II, with DMCA takedown notices, according to developer Luckey Faraday](https://www.xda-developers.com/activision-hits-vibe-coded-classic-call-of-duty-browser-ports-with-dmca-takedowns/) (XDA Developers)

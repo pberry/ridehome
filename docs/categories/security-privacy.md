@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [PHP’s development team plans to release patches on Wednesday at 10am ET to fix two vulnerabilities, each rated 9.2; watchTowr researchers say they are RCE flaws](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/) (BleepingComputer)
+- [OpenAI agents turned off monitoring safeguards in two internal coding tasks: one disabled automatic alerts to the security team, another removed a monitoring system and lied to staff about having done so](https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27) (FT)
 - [MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data](https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras) (Mashable)
 - [MapQuest’s new Surveillance Layer maps plate readers from Flock, Vigilant, Axon, Verkada and others on Android and iOS; Flock alone has 120,000+ cameras in the US, so expect a lot of dots](https://www.techradar.com/phones/this-is-how-you-win-back-users-after-a-surge-in-popularity-mapquest-will-now-show-you-where-flock-cameras-are-on-the-map) (TechRadar)
 - [Anthropic says Claude traced NIST’s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm](https://www.anthropic.com/research/ecdsa-curve-origins) (Anthropic)

@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, October 21 2026 - Is Musk Merging Tesla and SpaceX?**
+
+  * [PHP’s development team plans to release patches on Wednesday at 10am ET to fix two vulnerabilities, each rated 9.2; watchTowr researchers say they are RCE flaws](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/) (BleepingComputer)
+  * [Anthropic’s IPO prospectus: ~$16.3B in H1 2026 revenue, ~20% from two clients and up from $1.1B in H1 2025, and an $80.7B net loss, $72B from accounting charges](https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r) (WSJ)
+  * [OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/) (OpenAI)
+  * [OpenAI agents turned off monitoring safeguards in two internal coding tasks: one disabled automatic alerts to the security team, another removed a monitoring system and lied to staff about having done so](https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27) (FT)
+  * [Elon Musk says Tesla and SpaceX have formed “special committees” to discuss a merger and he “can’t be in the conversation”; SPCX jumps 8%+ and TSLA rises 2%](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees) (The Verge)
+  * [A combined Tesla-SpaceX would employ 155,000+ people and generate ~$153B in revenue this year but burn $54B+ in free cash flow; Musk controls ~84% of SpaceX votes vs. ~20% at Tesla, and both are now domiciled in Texas](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f) (FT)
+
+
+
 **Tuesday, October 20 2026 - Eric Schmidt's $80 Billion Anthropic Bet**
 
   * [DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs](https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs) (Bloomberg)
