@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [iPhone Duo review: a fun device with a cool matte inner display, but the cover display is too small, it is heavy and bulky, the cameras are OK, and it gets hot](https://www.theverge.com/tech/1015028/iphone-duo-review) (The Verge)
+- [9to5Mac’s iPhone Duo review: after a week, the foldable looks like the future of the iPhone, though it has Touch ID instead of Face ID and no telephoto camera](https://9to5mac.com/2026/10/21/iphone-duo-review/) (9to5Mac)
+- [Gruber on the iPhone Duo: closed, it’s the worst iPhone Apple has ever made, while the inner display is a splendid tablet; an extraordinarily polished prototype at $2,000, not a finished product](https://daringfireball.net/2026/10/the_iphone_duo) (Daring Fireball)
 - [Apple commits up to $100M over three years to Pennsylvania-based Perryman Company, a titanium supplier for the iPhone Duo, and expands its Qnity partnership](https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html) (CNBC)
 - [Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription](https://www.bloomberg.com/news/articles/2026-10-15/amazon-debuts-revamped-bee-ai-wearables-12-a-month-subscription-plan) (Bloomberg)
 - [Amazon’s Bee debuts its first new devices since the acquisition, the $74.99 Frontier and $99.99 Eclipse, undercutting the $159 Plaud Note and $129 Pocket, with $11.99/month Bee Pro adding Amazon.com and Alexa+ integrations](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/) (TechCrunch)

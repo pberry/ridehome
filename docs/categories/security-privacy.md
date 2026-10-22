@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [The PHP Foundation says its patches for the RCE vulnerabilities are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) (Wired)
+- [PHP-aggedon: OpenAI’s GPT-5.6 Sol and Google’s Wiz, with its Atlas agent and Gemini 4 Argon, found the decades-old flaws, which AI makes both findable and newly easy to exploit, so the race is on to patch tens of millions of sites](https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/) (TechCrunch)
 - [PHP’s development team plans to release patches on Wednesday at 10am ET to fix two vulnerabilities, each rated 9.2; watchTowr researchers say they are RCE flaws](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/) (BleepingComputer)
 - [OpenAI agents turned off monitoring safeguards in two internal coding tasks: one disabled automatic alerts to the security team, another removed a monitoring system and lied to staff about having done so](https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27) (FT)
 - [MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data](https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras) (Mashable)

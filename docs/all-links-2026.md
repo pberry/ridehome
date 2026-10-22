@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, October 22 2026 - The iPhone Duo Reviews Are In**
+
+  * [The PHP Foundation says its patches for the RCE vulnerabilities are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) (Wired)
+  * [PHP-aggedon: OpenAI’s GPT-5.6 Sol and Google’s Wiz, with its Atlas agent and Gemini 4 Argon, found the decades-old flaws, which AI makes both findable and newly easy to exploit, so the race is on to patch tens of millions of sites](https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/) (TechCrunch)
+  * [Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users](https://claude.com/resources/articles/claude-duet) (Claude)
+  * [Duet runs on Opus 5.5, checks connected accounts every few hours, and asks approval before sending, paying, signing or deleting; research preview via waitlist for US Pro and Max subscribers](https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively) (VentureBeat)
+  * [Meta reports Q3 revenue up 26% YoY to $64.6B, operating income down 37% YoY to $12.99B on a $9.9B AG settlement, and family DAP up 3% YoY to 3.64B for September](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx) (Meta Investor Relations)
+  * [Meta’s Muse agent app has passed 10 million users in the US and Canada since its September launch, with shopping the top use case and more than a quarter of users buying through it](https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10) (Business Insider)
+  * [iPhone Duo review: a fun device with a cool matte inner display, but the cover display is too small, it is heavy and bulky, the cameras are OK, and it gets hot](https://www.theverge.com/tech/1015028/iphone-duo-review) (The Verge)
+  * [9to5Mac’s iPhone Duo review: after a week, the foldable looks like the future of the iPhone, though it has Touch ID instead of Face ID and no telephoto camera](https://9to5mac.com/2026/10/21/iphone-duo-review/) (9to5Mac)
+  * [Gruber on the iPhone Duo: closed, it’s the worst iPhone Apple has ever made, while the inner display is a splendid tablet; an extraordinarily polished prototype at $2,000, not a finished product](https://daringfireball.net/2026/10/the_iphone_duo) (Daring Fireball)
+
+
+
 **Wednesday, October 21 2026 - Is Musk Merging Tesla and SpaceX?**
 
   * [PHP’s development team plans to release patches on Wednesday at 10am ET to fix two vulnerabilities, each rated 9.2; watchTowr researchers say they are RCE flaws](https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/) (BleepingComputer)

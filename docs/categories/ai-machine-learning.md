@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users](https://claude.com/resources/articles/claude-duet) (Claude)
+- [Duet runs on Opus 5.5, checks connected accounts every few hours, and asks approval before sending, paying, signing or deleting; research preview via waitlist for US Pro and Max subscribers](https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively) (VentureBeat)
 - [OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/) (OpenAI)
 - [DeepSeek open-sources DeepInfer, its internal production stack designed to accelerate inference, optimize chip performance, and reduce energy and compute costs](https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs) (Bloomberg)
 - [Inception debuts Mercury 3, a diffusion LLM that it says tops GPT-6 Luna, Claude Haiku 5.5, and GLM-5.3 Flash on agentic benchmarks while being 4x to 8x faster](https://www.thedeepview.com/articles/why-inception-s-mercury-3-upends-ai-economics) (The Deep View)

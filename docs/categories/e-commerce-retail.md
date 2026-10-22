@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### October
+
+- [Meta’s Muse agent app has passed 10 million users in the US and Canada since its September launch, with shopping the top use case and more than a quarter of users buying through it](https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10) (Business Insider)
+
 ### September
 
 - [Shopify plans to allow Meta's Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay](https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX) (WSJ)
