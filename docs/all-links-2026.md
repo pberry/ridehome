@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 23 2026 - OpenAI Takes a $150B Haircut**
+
+  * [Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an “opportunistic” bridge ahead of an IPO](https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html) (CNBC)
+  * [The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other “countries of concern”](https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9) (AP)
+  * [DeepSeek and MiniMax have won approval to deploy their models overseas, as Beijing says much of Chinese AI will remain free for export despite its draft export-control proposal](https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says) (Bloomberg)
+  * [OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/) (TechCrunch)
+  * [Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users’ instructions](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access) (Axios)
+  * [Sources: Major US banks, Morgan Stanley among them, have been blocking third-party AI agents from operating inside customer accounts and making transactions, as Jamie Dimon and Schwab’s Richard Wurster say outside agents aren’t getting in](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/) (Reuters)
+
+
+
 **Thursday, October 22 2026 - The iPhone Duo Reviews Are In**
 
   * [The PHP Foundation says its patches for the RCE vulnerabilities are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) (Wired)

@@ -3,17 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, October 22, 2026 - The iPhone Duo Reviews Are In</h3>
+  <h3>Friday, October 23, 2026 - OpenAI Takes a $150B Haircut</h3>
   <ul>
-    <li><a href="https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/">The PHP Foundation says its patches for the RCE vulnerabilities are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/">PHP-aggedon: OpenAI’s GPT-5.6 Sol and Google’s Wiz, with its Atlas agent and Gemini 4 Argon, found the decades-old flaws, which AI makes both findable and newly easy to exploit, so the race is on to patch tens of millions of sites</a> (TechCrunch) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://claude.com/resources/articles/claude-duet">Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users</a> (Claude) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively">Duet runs on Opus 5.5, checks connected accounts every few hours, and asks approval before sending, paying, signing or deleting; research preview via waitlist for US Pro and Max subscribers</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx">Meta reports Q3 revenue up 26% YoY to $64.6B, operating income down 37% YoY to $12.99B on a $9.9B AG settlement, and family DAP up 3% YoY to 3.64B for September</a> (Meta Investor Relations) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10">Meta’s Muse agent app has passed 10 million users in the US and Canada since its September launch, with shopping the top use case and more than a quarter of users buying through it</a> (Business Insider) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://www.theverge.com/tech/1015028/iphone-duo-review">iPhone Duo review: a fun device with a cool matte inner display, but the cover display is too small, it is heavy and bulky, the cameras are OK, and it gets hot</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://9to5mac.com/2026/10/21/iphone-duo-review/">9to5Mac’s iPhone Duo review: after a week, the foldable looks like the future of the iPhone, though it has Touch ID instead of Face ID and no telephoto camera</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://daringfireball.net/2026/10/the_iphone_duo">Gruber on the iPhone Duo: closed, it’s the worst iPhone Apple has ever made, while the inner display is a splendid tablet; an extraordinarily polished prototype at $2,000, not a finished product</a> (Daring Fireball) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html">Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an “opportunistic” bridge ahead of an IPO</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9">The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other “countries of concern”</a> (AP) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says">DeepSeek and MiniMax have won approval to deploy their models overseas, as Beijing says much of Chinese AI will remain free for export despite its draft export-control proposal</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/">OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access">Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users’ instructions</a> (Axios) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/">Sources: Major US banks, Morgan Stanley among them, have been blocking third-party AI agents from operating inside customer accounts and making transactions, as Jamie Dimon and Schwab’s Richard Wurster say outside agents aren’t getting in</a> (Reuters) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -39,21 +36,21 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-22T14:13:14-07:00">October 22, 2026 at 02:13 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-23T14:01:39-07:00">October 23, 2026 at 02:01 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,339</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,804</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,345</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,805</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(79 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
@@ -62,9 +59,9 @@
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(291 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(293 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(126 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
       </ol>
     </div>
   </div>

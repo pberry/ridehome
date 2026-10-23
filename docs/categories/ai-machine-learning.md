@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/) (TechCrunch)
+- [Matt Cortland used an ElevenLabs voice AI agent to make more than 3,000 calls to pubs across Ireland about the price of a Guinness, then used Claude to build the “Guinndex,” a living consumer price index for a pint](https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/) (Fortune)
 - [Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users](https://claude.com/resources/articles/claude-duet) (Claude)
 - [Duet runs on Opus 5.5, checks connected accounts every few hours, and asks approval before sending, paying, signing or deleting; research preview via waitlist for US Pro and Max subscribers](https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively) (VentureBeat)
 - [OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks](https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/) (OpenAI)

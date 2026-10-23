@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an “opportunistic” bridge ahead of an IPO](https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html) (CNBC)
 - [Anthropic’s IPO prospectus: ~$16.3B in H1 2026 revenue, ~20% from two clients and up from $1.1B in H1 2025, and an $80.7B net loss, $72B from accounting charges](https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r) (WSJ)
 - [Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO](https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall) (Bloomberg)
 - [Sources: Anthropic told investors that its Q3 revenue hit $16.8B, up from $11.5B in Q2, and that it was profitable on an adjusted basis in Q3, ahead of its IPO](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b) (FT)

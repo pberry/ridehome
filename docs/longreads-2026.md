@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 23 2026**
+
+  * [Matt Cortland used an ElevenLabs voice AI agent to make more than 3,000 calls to pubs across Ireland about the price of a Guinness, then used Claude to build the “Guinndex,” a living consumer price index for a pint](https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/) (Fortune)
+
+
+
 **Friday, October 16 2026**
 
   * [Nick Cammarata argues modern neural networks are far more interpretable than believed, with most neurons understandable in models up to trillions of parameters](https://already-clean.goodfire.com/) (Goodfire)

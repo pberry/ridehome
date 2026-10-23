@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other “countries of concern”](https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9) (AP)
+- [DeepSeek and MiniMax have won approval to deploy their models overseas, as Beijing says much of Chinese AI will remain free for export despite its draft export-control proposal](https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says) (Bloomberg)
 - [Elon Musk says Tesla and SpaceX have formed “special committees” to discuss a merger and he “can’t be in the conversation”; SPCX jumps 8%+ and TSLA rises 2%](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees) (The Verge)
 - [A combined Tesla-SpaceX would employ 155,000+ people and generate ~$153B in revenue this year but burn $54B+ in free cash flow; Musk controls ~84% of SpaceX votes vs. ~20% at Tesla, and both are now domiciled in Texas](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f) (FT)
 - [Anthropic’s Long-Term Benefit Trust can seat four of seven board members and dismiss them without cause, but its governing documents and shareholder override terms aren’t public](https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg) (WSJ)
