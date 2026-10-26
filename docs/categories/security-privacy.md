@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [AI-powered hacks are overwhelming incident-response firms in “Black October,” with nation-state and criminal groups using the Chinese open-source tool Artex to speed up attacks on hundreds of companies](https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c) (WSJ)
 - [Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users’ instructions](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access) (Axios)
 - [Sources: Major US banks, Morgan Stanley among them, have been blocking third-party AI agents from operating inside customer accounts and making transactions, as Jamie Dimon and Schwab’s Richard Wurster say outside agents aren’t getting in](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/) (Reuters)
 - [The PHP Foundation says its patches for the RCE vulnerabilities are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors](https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/) (Wired)

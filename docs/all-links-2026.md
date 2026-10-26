@@ -5,6 +5,21 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, October 26 2026 - Anthropic's S-1 Just Dropped!**
+
+  * [Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined](https://www.anthropic.com/news/s1-sec) (Anthropic)
+  * [Anthropic’s S-1 shows revenue up 14-fold to $16.3B in the first half, an $80.7B loss driven by a one-time $72.4B convertible note charge, and a possible $100B+ raise at a $2T valuation](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) (The New York Times)
+  * [Anthropic’s S-1 shows a real GAAP operating profit and 14x revenue growth, but also roughly $780-810B of mostly non-cancelable compute commitments, including Elon Musk as a supplier at $3.1B a month](https://www.zerohedge.com/ai/anthropics-s-1-out-974-million-operating-profit-800-billion-compute-bill-and-elon-musk-landlord) (ZeroHedge)
+  * [Apple unveils a redesigned iPad mini with an 8.5-inch OLED display, A20 Pro, 24% thinner bezels, and an optional nano-texture finish, for $699+ on November 6](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) (Apple)
+  * [The new iPad mini gets an “Acoustic Display” with woofers and hidden tweeters, a 12MP Center Stage camera on the landscape edge, and a $100 nano-texture glass option on the 256GB and 512GB models](https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/) (9to5Mac)
+  * [Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom](https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555) (FT)
+  * [Elvis Presley’s rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself](https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share) (The New York Times)
+  * [Block unveils Dessa, a “true speech-to-speech” AI model trained on “nothing but human conversation” that it says runs locally on a MacBook Pro M4 Max or newer](https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech) (The Verge)
+  * [The public internet model is effectively dead due to saturation, algorithmic aggregators, and AI security vulnerabilities, and that may open new possibilities](https://stratechery.com/2026/the-end-of-the-internet/) (Stratechery)
+  * [AI-powered hacks are overwhelming incident-response firms in “Black October,” with nation-state and criminal groups using the Chinese open-source tool Artex to speed up attacks on hundreds of companies](https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c) (WSJ)
+
+
+
 **Friday, October 23 2026 - OpenAI Takes a $150B Haircut**
 
   * [Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an “opportunistic” bridge ahead of an IPO](https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html) (CNBC)

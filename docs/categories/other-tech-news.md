@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [The public internet model is effectively dead due to saturation, algorithmic aggregators, and AI security vulnerabilities, and that may open new possibilities](https://stratechery.com/2026/the-end-of-the-internet/) (Stratechery)
 - [Meta reports Q3 revenue up 26% YoY to $64.6B, operating income down 37% YoY to $12.99B on a $9.9B AG settlement, and family DAP up 3% YoY to 3.64B for September](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx) (Meta Investor Relations)
 - [Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) (CNBC)
 - [Anthropic says it is committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise](https://www.anthropic.com/news/public-benefit-fund) (Anthropic)

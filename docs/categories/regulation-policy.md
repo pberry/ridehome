@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Elvis Presley’s rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself](https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share) (The New York Times)
 - [The US Treasury proposes a rule to crack down on US high-tech investments in areas like AI and supercomputing in China, Russia, and other “countries of concern”](https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9) (AP)
 - [DeepSeek and MiniMax have won approval to deploy their models overseas, as Beijing says much of Chinese AI will remain free for export despite its draft export-control proposal](https://www.bloomberg.com/news/articles/2026-10-23/deepseek-minimax-win-approval-for-global-use-state-media-says) (Bloomberg)
 - [Elon Musk says Tesla and SpaceX have formed “special committees” to discuss a merger and he “can’t be in the conversation”; SPCX jumps 8%+ and TSLA rises 2%](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees) (The Verge)

@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined](https://www.anthropic.com/news/s1-sec) (Anthropic)
+- [Anthropic’s S-1 shows revenue up 14-fold to $16.3B in the first half, an $80.7B loss driven by a one-time $72.4B convertible note charge, and a possible $100B+ raise at a $2T valuation](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) (The New York Times)
+- [Anthropic’s S-1 shows a real GAAP operating profit and 14x revenue growth, but also roughly $780-810B of mostly non-cancelable compute commitments, including Elon Musk as a supplier at $3.1B a month](https://www.zerohedge.com/ai/anthropics-s-1-out-974-million-operating-profit-800-billion-compute-bill-and-elon-musk-landlord) (ZeroHedge)
 - [Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an “opportunistic” bridge ahead of an IPO](https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html) (CNBC)
 - [Anthropic’s IPO prospectus: ~$16.3B in H1 2026 revenue, ~20% from two clients and up from $1.1B in H1 2025, and an $80.7B net loss, $72B from accounting charges](https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1?st=YKUo1r) (WSJ)
 - [Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO](https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall) (Bloomberg)

@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Apple unveils a redesigned iPad mini with an 8.5-inch OLED display, A20 Pro, 24% thinner bezels, and an optional nano-texture finish, for $699+ on November 6](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) (Apple)
+- [The new iPad mini gets an “Acoustic Display” with woofers and hidden tweeters, a 12MP Center Stage camera on the landscape edge, and a $100 nano-texture glass option on the 256GB and 512GB models](https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/) (9to5Mac)
 - [iPhone Duo review: a fun device with a cool matte inner display, but the cover display is too small, it is heavy and bulky, the cameras are OK, and it gets hot](https://www.theverge.com/tech/1015028/iphone-duo-review) (The Verge)
 - [9to5Mac’s iPhone Duo review: after a week, the foldable looks like the future of the iPhone, though it has Touch ID instead of Face ID and no telephoto camera](https://9to5mac.com/2026/10/21/iphone-duo-review/) (9to5Mac)
 - [Gruber on the iPhone Duo: closed, it’s the worst iPhone Apple has ever made, while the inner display is a splendid tablet; an extraordinarily polished prototype at $2,000, not a finished product](https://daringfireball.net/2026/10/the_iphone_duo) (Daring Fireball)
