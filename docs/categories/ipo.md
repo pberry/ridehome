@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/) (TechCrunch)
+- [Anthropic’s IPO filing contains an unusual succession plan: each co-founder can name a confidential ranked list of up to 10 successors to their voting power, subject to approval from five of the other six co-founders](https://www.forbes.com/sites/annatong/2026/10/26/anthropic-founders-can-name-secret-successors/) (Forbes)
+- [Anthropic’s 85% gross margin on serving existing models and $3.5B in free cash flow on $16.3B of first-half revenue is a reality check for skeptics of pay-as-you-go AI economics](https://www.theinformation.com/newsletters/ai-agenda/anthropics-85-margin-reality-check-skeptics?rc=i9gkgs) (The Information)
 - [Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined](https://www.anthropic.com/news/s1-sec) (Anthropic)
 - [Anthropic’s S-1 shows revenue up 14-fold to $16.3B in the first half, an $80.7B loss driven by a one-time $72.4B convertible note charge, and a possible $100B+ raise at a $2T valuation](https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html) (The New York Times)
 - [Anthropic’s S-1 shows a real GAAP operating profit and 14x revenue growth, but also roughly $780-810B of mostly non-cancelable compute commitments, including Elon Musk as a supplier at $3.1B a month](https://www.zerohedge.com/ai/anthropics-s-1-out-974-million-operating-profit-800-billion-compute-bill-and-elon-musk-landlord) (ZeroHedge)

@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) (Apple)
+- [The M6 MacBook Pro, the new base model replacing the M5, charges to 50% in 30 minutes, adds Bluetooth 6, and opens for pre-order tomorrow, October 28, in silver and space black](https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/) (9to5Mac)
 - [Apple unveils a redesigned iPad mini with an 8.5-inch OLED display, A20 Pro, 24% thinner bezels, and an optional nano-texture finish, for $699+ on November 6](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) (Apple)
 - [The new iPad mini gets an “Acoustic Display” with woofers and hidden tweeters, a 12MP Center Stage camera on the landscape edge, and a $100 nano-texture glass option on the 256GB and 512GB models](https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/) (9to5Mac)
 - [iPhone Duo review: a fun device with a cool matte inner display, but the cover display is too small, it is heavy and bulky, the cameras are OK, and it gets hot](https://www.theverge.com/tech/1015028/iphone-duo-review) (The Verge)

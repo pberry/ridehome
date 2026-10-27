@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, October 27 2026 - Who Inherits Anthropic?**
+
+  * [OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (OpenAI)
+  * [OpenAI used external “shepherd” experts to guide its computer science and physics results, while its AGMAI panel of math advisers recommends AI companies drop the practice, citing unequal access, borrowed reputation, and biased selection](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics) (The Verge)
+  * [Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) (Apple)
+  * [The M6 MacBook Pro, the new base model replacing the M5, charges to 50% in 30 minutes, adds Bluetooth 6, and opens for pre-order tomorrow, October 28, in silver and space black](https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/) (9to5Mac)
+  * [Microsoft offers buyouts to ~60K workers, including at a VP level and below across the US, Canada, India, and the UK; its headcount at the end of June was 223K](https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzAzNjg1NCwiZXhwIjoxNzkzNjQxNjU0LCJhcnRpY2xlSWQiOiJUTklLUk9UOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNkUyNTg5MjVFMjg0RjZGQjc2MDVENjNDODM0NTE0OCJ9.vGFXd2hvgKpakxLQWkhL-XMNoVIdXlGHqPqfClmjpdQ) (Bloomberg)
+  * [S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/) (TechCrunch)
+  * [Anthropic’s IPO filing contains an unusual succession plan: each co-founder can name a confidential ranked list of up to 10 successors to their voting power, subject to approval from five of the other six co-founders](https://www.forbes.com/sites/annatong/2026/10/26/anthropic-founders-can-name-secret-successors/) (Forbes)
+  * [Anthropic’s 85% gross margin on serving existing models and $3.5B in free cash flow on $16.3B of first-half revenue is a reality check for skeptics of pay-as-you-go AI economics](https://www.theinformation.com/newsletters/ai-agenda/anthropics-85-margin-reality-check-skeptics?rc=i9gkgs) (The Information)
+
+
+
 **Monday, October 26 2026 - Anthropic's S-1 Just Dropped!**
 
   * [Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined](https://www.anthropic.com/news/s1-sec) (Anthropic)

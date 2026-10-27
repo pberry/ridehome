@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Microsoft offers buyouts to ~60K workers, including at a VP level and below across the US, Canada, India, and the UK; its headcount at the end of June was 223K](https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzAzNjg1NCwiZXhwIjoxNzkzNjQxNjU0LCJhcnRpY2xlSWQiOiJUTklLUk9UOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNkUyNTg5MjVFMjg0RjZGQjc2MDVENjNDODM0NTE0OCJ9.vGFXd2hvgKpakxLQWkhL-XMNoVIdXlGHqPqfClmjpdQ) (Bloomberg)
 - [Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude](https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/) (404 Media)
 - [Google Cloud unveils a universal Gemini agent to handle multi-day enterprise workflows in Workspace, Microsoft 365, and Slack that supports several AI models](https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage) (VentureBeat)
 - [Google’s Gemini agent runs each job on the model that fits best, Gemini or Claude, with four kinds of memory and sub-agents that coordinate workflows running for hours or days](https://9to5google.com/2026/10/08/gemini-agent-google-cloud/) (9to5Google)

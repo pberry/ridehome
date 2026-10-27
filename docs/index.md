@@ -3,18 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, October 26, 2026 - Anthropic's S-1 Just Dropped!</h3>
+  <h3>Tuesday, October 27, 2026 - Who Inherits Anthropic?</h3>
   <ul>
-    <li><a href="https://www.anthropic.com/news/s1-sec">Anthropic files for an IPO on the Nasdaq under the symbol ANT; the number of Class A shares to be offered and the price range is yet to be determined</a> (Anthropic) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html">Anthropic’s S-1 shows revenue up 14-fold to $16.3B in the first half, an $80.7B loss driven by a one-time $72.4B convertible note charge, and a possible $100B+ raise at a $2T valuation</a> (The New York Times) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.zerohedge.com/ai/anthropics-s-1-out-974-million-operating-profit-800-billion-compute-bill-and-elon-musk-landlord">Anthropic’s S-1 shows a real GAAP operating profit and 14x revenue growth, but also roughly $780-810B of mostly non-cancelable compute commitments, including Elon Musk as a supplier at $3.1B a month</a> (ZeroHedge) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">Apple unveils a redesigned iPad mini with an 8.5-inch OLED display, A20 Pro, 24% thinner bezels, and an optional nano-texture finish, for $699+ on November 6</a> (Apple) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price/">The new iPad mini gets an “Acoustic Display” with woofers and hidden tweeters, a 12MP Center Stage camera on the landscape edge, and a $100 nano-texture glass option on the 256GB and 512GB models</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555">Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom</a> (FT) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share">Elvis Presley’s rightsholders sue Anthropic over 274 songs allegedly used to train its models, seeking $41M+; Anthropic says it disagrees and will defend itself</a> (The New York Times) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech">Block unveils Dessa, a “true speech-to-speech” AI model trained on “nothing but human conversation” that it says runs locally on a MacBook Pro M4 Max or newer</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://stratechery.com/2026/the-end-of-the-internet/">The public internet model is effectively dead due to saturation, algorithmic aggregators, and AI security vulnerabilities, and that may open new possibilities</a> (Stratechery) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c">AI-powered hacks are overwhelming incident-response firms in “Black October,” with nation-state and criminal groups using the Chinese open-source tool Artex to speed up attacks on hundreds of companies</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics">OpenAI used external “shepherd” experts to guide its computer science and physics results, while its AGMAI panel of math advisers recommends AI companies drop the practice, citing unequal access, borrowed reputation, and biased selection</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6</a> (Apple) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/">The M6 MacBook Pro, the new base model replacing the M5, charges to 50% in 30 minutes, adds Bluetooth 6, and opens for pre-order tomorrow, October 28, in silver and space black</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-26/microsoft-to-offer-buyouts-to-60-000-workers-in-latest-cost-cut?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzAzNjg1NCwiZXhwIjoxNzkzNjQxNjU0LCJhcnRpY2xlSWQiOiJUTklLUk9UOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNkUyNTg5MjVFMjg0RjZGQjc2MDVENjNDODM0NTE0OCJ9.vGFXd2hvgKpakxLQWkhL-XMNoVIdXlGHqPqfClmjpdQ">Microsoft offers buyouts to ~60K workers, including at a VP level and below across the US, Canada, India, and the UK; its headcount at the end of June was 223K</a> (Bloomberg) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/">S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+</a> (TechCrunch) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.forbes.com/sites/annatong/2026/10/26/anthropic-founders-can-name-secret-successors/">Anthropic’s IPO filing contains an unusual succession plan: each co-founder can name a confidential ranked list of up to 10 successors to their voting power, subject to approval from five of the other six co-founders</a> (Forbes) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.theinformation.com/newsletters/ai-agenda/anthropics-85-margin-reality-check-skeptics?rc=i9gkgs">Anthropic’s 85% gross margin on serving existing models and $3.5B in free cash flow on $16.3B of first-half revenue is a reality check for skeptics of pay-as-you-go AI economics</a> (The Information) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
   </ul>
 </section>
 
@@ -40,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-26T15:19:33-07:00">October 26, 2026 at 03:19 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-27T14:50:47-07:00">October 27, 2026 at 02:50 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,355</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,363</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,805</span></li>
       </ul>
     </div>
@@ -54,18 +52,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(120 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(78 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(60 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(288 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(127 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(129 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
       </ol>
     </div>
   </div>
