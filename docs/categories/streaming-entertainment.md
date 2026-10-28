@@ -9,6 +9,13 @@ layout: category
 
 ### October
 
+- [Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map](https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame) (Bloomberg)
+- [Panos Panay spent about 45 minutes introducing five new Echo speakers and displays, plus a “new brain” for Alexa Plus that can do “deeper research” and a Card interface that collects each chat](https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event) (The Verge)
+- [Hands-on with the Echo Show 16: customizable Screen Styles could make it the versatile family hub Alexa users have wanted, but at double the price of the Echo Show 11 it may be too expensive](https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles) (The Verge)
+- [Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices](https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/) (TechCrunch)
+- [The $199.99 Echo Time smart alarm has a 3.2-inch round touchscreen, a screen that dims below 0.3 nits, and opt-in sleep sensing that wakes you up to an hour early at the optimal point in your sleep cycle](https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on) (The Verge)
+- [Amazon’s new Echo Studio speaker has a camera](https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub) (The Verge)
+- [The $249.99 Echo Studio with Home Camera lets you ask Alexa about objects in the room, doubles as a home video feed, and handles video calls, though visual information is processed in the cloud](https://gizmodo.com/echo-studio-with-home-camera-hands-on-2000831291) (Gizmodo)
 - [Spotify launches paid podcast memberships in 34 markets, including the US; creators can offer perks like bonus content or fewer ads and keep 90% of revenue](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/) (TechCrunch)
 - [Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3) (WSJ)
 - [HBO Max and Paramount Plus will merge into a single streamer under Skydance](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance) (The Verge)

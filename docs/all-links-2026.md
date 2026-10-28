@@ -5,6 +5,21 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, October 28 2026 - Apple Caves: A Touchscreen Mac**
+
+  * [Apple unveils a touchscreen MacBook Pro with a 14" or 16" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) (Apple)
+  * [The new touchscreen MacBook Pro has a tandem OLED “PROLED XDR” display with up to 2,000 nits and 120Hz, a Dynamic Island, a glowing Apple logo on the lid, M5 Pro and M5 Max chips, and up to 24 hours of battery](https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell) (The Verge)
+  * [New CEO John Ternus introduced the touchscreen MacBook Pro on stage, reversing Steve Jobs’ long-held opposition to touch Macs, which Tim Cook once compared to merging a fridge and a toaster](https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance) (Bloomberg)
+  * [Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map](https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame) (Bloomberg)
+  * [Panos Panay spent about 45 minutes introducing five new Echo speakers and displays, plus a “new brain” for Alexa Plus that can do “deeper research” and a Card interface that collects each chat](https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event) (The Verge)
+  * [Hands-on with the Echo Show 16: customizable Screen Styles could make it the versatile family hub Alexa users have wanted, but at double the price of the Echo Show 11 it may be too expensive](https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles) (The Verge)
+  * [Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices](https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/) (TechCrunch)
+  * [The $199.99 Echo Time smart alarm has a 3.2-inch round touchscreen, a screen that dims below 0.3 nits, and opt-in sleep sensing that wakes you up to an hour early at the optimal point in your sleep cycle](https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on) (The Verge)
+  * [Amazon’s new Echo Studio speaker has a camera](https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub) (The Verge)
+  * [The $249.99 Echo Studio with Home Camera lets you ask Alexa about objects in the room, doubles as a home video feed, and handles video calls, though visual information is processed in the cloud](https://gizmodo.com/echo-studio-with-home-camera-hands-on-2000831291) (Gizmodo)
+
+
+
 **Tuesday, October 27 2026 - Who Inherits Anthropic?**
 
   * [OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (OpenAI)

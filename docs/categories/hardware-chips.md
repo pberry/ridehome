@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Apple unveils a touchscreen MacBook Pro with a 14" or 16" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) (Apple)
+- [The new touchscreen MacBook Pro has a tandem OLED “PROLED XDR” display with up to 2,000 nits and 120Hz, a Dynamic Island, a glowing Apple logo on the lid, M5 Pro and M5 Max chips, and up to 24 hours of battery](https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell) (The Verge)
+- [New CEO John Ternus introduced the touchscreen MacBook Pro on stage, reversing Steve Jobs’ long-held opposition to touch Macs, which Tim Cook once compared to merging a fridge and a toaster](https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance) (Bloomberg)
 - [Apple unveils the 14-inch MacBook Pro with M6, with a 12-core CPU and a 12-core GPU, up to 32GB of unified memory, and Wi-Fi 7, from $1,999 on November 6](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) (Apple)
 - [The M6 MacBook Pro, the new base model replacing the M5, charges to 50% in 30 minutes, adds Bluetooth 6, and opens for pre-order tomorrow, October 28, in silver and space black](https://9to5mac.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-powered-by-m6/) (9to5Mac)
 - [Apple unveils a redesigned iPad mini with an 8.5-inch OLED display, A20 Pro, 24% thinner bezels, and an optional nano-texture finish, for $699+ on November 6](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/) (Apple)
