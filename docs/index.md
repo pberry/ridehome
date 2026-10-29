@@ -3,18 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, October 28, 2026 - Apple Caves: A Touchscreen Mac</h3>
+  <h3>Thursday, October 29, 2026 - A Chinese Spy Inside Nvidia?</h3>
   <ul>
-    <li><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">Apple unveils a touchscreen MacBook Pro with a 14" or 16" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+</a> (Apple) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/gadgets/1019554/apple-touchscreen-macbook-pro-and-tell">The new touchscreen MacBook Pro has a tandem OLED “PROLED XDR” display with up to 2,000 nits and 120Hz, a Dynamic Island, a glowing Apple logo on the lid, M5 Pro and M5 Max chips, and up to 24 hours of battery</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-28/apple-unveils-touch-screen-macbook-pro-reversing-longheld-jobs-stance">New CEO John Ternus introduced the touchscreen MacBook Pro on stage, reversing Steve Jobs’ long-held opposition to touch Macs, which Tim Cook once compared to merging a fridge and a toaster</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame">Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map</a> (Bloomberg) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event">Panos Panay spent about 45 minutes introducing five new Echo speakers and displays, plus a “new brain” for Alexa Plus that can do “deeper research” and a Card interface that collects each chat</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles">Hands-on with the Echo Show 16: customizable Screen Styles could make it the versatile family hub Alexa users have wanted, but at double the price of the Echo Show 11 it may be too expensive</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/">Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices</a> (TechCrunch) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on">The $199.99 Echo Time smart alarm has a 3.2-inch round touchscreen, a screen that dims below 0.3 nits, and opt-in sleep sensing that wakes you up to an hour early at the optimal point in your sleep cycle</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub">Amazon’s new Echo Studio speaker has a camera</a> (The Verge) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
-    <li><a href="https://gizmodo.com/echo-studio-with-home-camera-hands-on-2000831291">The $249.99 Echo Studio with Home Camera lets you ask Alexa about objects in the room, doubles as a home video feed, and handles video calls, though visual information is processed in the cloud</a> (Gizmodo) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
+    <li><a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj">US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">Hackers leak the personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents; DDoSecrets says the data came from DHS’ Okta login system</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/">DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates</a> (Reuters) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/">DoorDash agrees to buy Instacart for $17B with both boards signing off; it plans to keep Instacart’s brand, enterprise tech, and app, and says grocers could build their own ordering and ad businesses</a> (TechCrunch) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
+    <li><a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html">Alphabet reports Q3 negative free cash flow of $9.07B, worse than expected, capex of $51.36B, below $55.09B est., and keeps its FY capex forecast at $195B-$205B</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=baEVSk">Alphabet’s ad machine misses Q3 estimates as search revenue growth slows to 12% from 17%, even with cloud beating at $30.7B; shares fall about 10% after hours</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">Google expands ads in AI Mode to international markets, adding multi-turn ads in the US, betting generative AI can open new revenue as core search ad growth slows</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -40,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-28T15:12:58-07:00">October 28, 2026 at 03:12 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-29T15:27:50-07:00">October 29, 2026 at 03:27 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,373</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,380</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,805</span></li>
       </ul>
     </div>
@@ -56,14 +53,14 @@
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(60 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(285 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(131 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
       </ol>

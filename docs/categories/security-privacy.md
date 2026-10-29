@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj) (The New York Times)
+- [Hackers leak the personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents; DDoSecrets says the data came from DHS’ Okta login system](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) (Wired)
 - [AI-powered hacks are overwhelming incident-response firms in “Black October,” with nation-state and criminal groups using the Chinese open-source tool Artex to speed up attacks on hundreds of companies](https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c) (WSJ)
 - [Sources: US banks are restricting third-party AI agents from accessing customer accounts, after some agents appeared to act independently of users’ instructions](https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access) (Axios)
 - [Sources: Major US banks, Morgan Stanley among them, have been blocking third-party AI agents from operating inside customer accounts and making transactions, as Jamie Dimon and Schwab’s Richard Wurster say outside agents aren’t getting in](https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/) (Reuters)

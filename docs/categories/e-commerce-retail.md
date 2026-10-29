@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates](https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/) (Reuters)
+- [DoorDash agrees to buy Instacart for $17B with both boards signing off; it plans to keep Instacart’s brand, enterprise tech, and app, and says grocers could build their own ordering and ad businesses](https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/) (TechCrunch)
 - [Meta’s Muse agent app has passed 10 million users in the US and Canada since its September launch, with shopping the top use case and more than a quarter of users buying through it](https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10) (Business Insider)
 
 ### September

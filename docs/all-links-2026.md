@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, October 29 2026 - A Chinese Spy Inside Nvidia?**
+
+  * [US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj) (The New York Times)
+  * [Hackers leak the personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents; DDoSecrets says the data came from DHS’ Okta login system](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/) (Wired)
+  * [DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates](https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/) (Reuters)
+  * [DoorDash agrees to buy Instacart for $17B with both boards signing off; it plans to keep Instacart’s brand, enterprise tech, and app, and says grocers could build their own ordering and ad businesses](https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/) (TechCrunch)
+  * [Alphabet reports Q3 negative free cash flow of $9.07B, worse than expected, capex of $51.36B, below $55.09B est., and keeps its FY capex forecast at $195B-$205B](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html) (CNBC)
+  * [Alphabet’s ad machine misses Q3 estimates as search revenue growth slows to 12% from 17%, even with cloud beating at $30.7B; shares fall about 10% after hours](https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=baEVSk) (WSJ)
+  * [Google expands ads in AI Mode to international markets, adding multi-turn ads in the US, betting generative AI can open new revenue as core search ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) (TechCrunch)
+
+
+
 **Wednesday, October 28 2026 - Apple Caves: A Touchscreen Mac**
 
   * [Apple unveils a touchscreen MacBook Pro with a 14" or 16" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) (Apple)

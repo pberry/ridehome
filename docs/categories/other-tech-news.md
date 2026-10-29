@@ -9,6 +9,8 @@ layout: category
 
 ### October
 
+- [Alphabet reports Q3 negative free cash flow of $9.07B, worse than expected, capex of $51.36B, below $55.09B est., and keeps its FY capex forecast at $195B-$205B](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html) (CNBC)
+- [Alphabet’s ad machine misses Q3 estimates as search revenue growth slows to 12% from 17%, even with cloud beating at $30.7B; shares fall about 10% after hours](https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=baEVSk) (WSJ)
 - [The public internet model is effectively dead due to saturation, algorithmic aggregators, and AI security vulnerabilities, and that may open new possibilities](https://stratechery.com/2026/the-end-of-the-internet/) (Stratechery)
 - [Meta reports Q3 revenue up 26% YoY to $64.6B, operating income down 37% YoY to $12.99B on a $9.9B AG settlement, and family DAP up 3% YoY to 3.64B for September](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx) (Meta Investor Relations)
 - [Elon Musk says “I will give one of my SpaceX shares to every kid in America” in 2027; at SpaceX’s $146.03 Friday close, the gift would be valued at ~$10.5B](https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html) (CNBC)
