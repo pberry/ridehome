@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals](https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b) (FT)
 - [Amazon unveils the $500 Echo Show 16, the $200 Echo Time alarm, and the $200+ Alexa Photo Frame, raises smart speaker prices, and previews Alexa Home Map](https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame) (Bloomberg)
 - [Panos Panay spent about 45 minutes introducing five new Echo speakers and displays, plus a “new brain” for Alexa Plus that can do “deeper research” and a Card interface that collects each chat](https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event) (The Verge)
 - [Hands-on with the Echo Show 16: customizable Screen Styles could make it the versatile family hub Alexa users have wanted, but at double the price of the Echo Show 11 it may be too expensive](https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles) (The Verge)

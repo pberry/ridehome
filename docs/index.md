@@ -3,15 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Thursday, October 29, 2026 - A Chinese Spy Inside Nvidia?</h3>
+  <h3>Friday, October 30, 2026 - How Hackers Drained $6.3B From Binance</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj">US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">Hackers leak the personal data of 41,000+ DHS employees and contractors, including CBP and ICE agents; DDoSecrets says the data came from DHS’ Okta login system</a> (Wired) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.reuters.com/legal/transactional/doordash-strikes-17-billion-deal-us-rival-instacart-bets-grocery-delivery-2026-10-29/">DoorDash agrees to acquire Instacart in a ~$17B deal, paying $65 per share, a 26% premium to its October 22 close, as the platform delivery market consolidates</a> (Reuters) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/">DoorDash agrees to buy Instacart for $17B with both boards signing off; it plans to keep Instacart’s brand, enterprise tech, and app, and says grocers could build their own ordering and ad businesses</a> (TechCrunch) &mdash; 🤖 <a href="categories/e-commerce-retail.html" class="ai-category">E-commerce/Retail</a></li>
-    <li><a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html">Alphabet reports Q3 negative free cash flow of $9.07B, worse than expected, capex of $51.36B, below $55.09B est., and keeps its FY capex forecast at $195B-$205B</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.wsj.com/tech/ai/alphabet-googl-q3-earnings-report-2026-stock-fa41392d?st=baEVSk">Alphabet’s ad machine misses Q3 estimates as search revenue growth slows to 12% from 17%, even with cloud beating at $30.7B; shares fall about 10% after hours</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/">Google expands ads in AI Mode to international markets, adding multi-turn ads in the US, betting generative AI can open new revenue as core search ad growth slows</a> (TechCrunch) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171">Binance says initial investigation suggests a compromised DevOps laptop may have enabled a ~$6.3B hack; Tether froze 1.5B+ USDT and Circle froze 800M+ USDC</a> (The Block) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90">Binance raced to cover losses from the biggest crypto heist ever; freezes recovered ~$3B, leaving hackers — attributed to North Korea’s TraderTraitor group — with ~$3.3B, against a $1.23B SAFU reserve plus company funds</a> (WSJ) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance">An EIP-7702 permission let the attacker point Binance’s busy “Binance 14” hot wallet at a sweeper contract via 50 signed authorizations, draining $2.5B on Ethereum alone</a> (CoinDesk) &mdash; 🤖 <a href="categories/crypto-blockchain.html" class="ai-category">Crypto/Blockchain</a></li>
+    <li><a href="https://www.businesswire.com/news/home/20261028373648/en/">Amazon reports Q3 revenue up 12% YoY to $201.94B, vs. $202.31B est., net income down 2% to $20.7B, forecasts Q4 revenue below est.</a> (Business Wire) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services">Amazon spent $77B+ on property and equipment in Q3 to meet AI demand, while online sales grew just 2%, the slowest since early 2023, and shares fell on the results</a> (Bloomberg) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b">Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals</a> (FT) &mdash; 🤖 <a href="categories/streaming-entertainment.html" class="ai-category">Streaming/Entertainment</a></li>
   </ul>
 </section>
 
@@ -37,30 +36,30 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-10-29T15:27:50-07:00">October 29, 2026 at 03:27 PM PDT</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-10-30T14:57:13-07:00">October 30, 2026 at 02:57 PM PDT</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,380</span></li>
-        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,805</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,386</span></li>
+        <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,807</span></li>
       </ul>
     </div>
 
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(121 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(122 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(287 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(131 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
       </ol>

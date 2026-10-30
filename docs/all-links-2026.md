@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, October 30 2026 - How Hackers Drained $6.3B From Binance**
+
+  * [Binance says initial investigation suggests a compromised DevOps laptop may have enabled a ~$6.3B hack; Tether froze 1.5B+ USDT and Circle froze 800M+ USDC](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171) (The Block)
+  * [Binance raced to cover losses from the biggest crypto heist ever; freezes recovered ~$3B, leaving hackers — attributed to North Korea’s TraderTraitor group — with ~$3.3B, against a $1.23B SAFU reserve plus company funds](https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90) (WSJ)
+  * [An EIP-7702 permission let the attacker point Binance’s busy “Binance 14” hot wallet at a sweeper contract via 50 signed authorizations, draining $2.5B on Ethereum alone](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance) (CoinDesk)
+  * [Amazon reports Q3 revenue up 12% YoY to $201.94B, vs. $202.31B est., net income down 2% to $20.7B, forecasts Q4 revenue below est.](https://www.businesswire.com/news/home/20261028373648/en/) (Business Wire)
+  * [Amazon spent $77B+ on property and equipment in Q3 to meet AI demand, while online sales grew just 2%, the slowest since early 2023, and shares fell on the results](https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services) (Bloomberg)
+  * [Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals](https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b) (FT)
+
+
+
 **Thursday, October 29 2026 - A Chinese Spy Inside Nvidia?**
 
   * [US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj) (The New York Times)

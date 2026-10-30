@@ -9,6 +9,9 @@ layout: category
 
 ### October
 
+- [Binance says initial investigation suggests a compromised DevOps laptop may have enabled a ~$6.3B hack; Tether froze 1.5B+ USDT and Circle froze 800M+ USDC](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171) (The Block)
+- [Binance raced to cover losses from the biggest crypto heist ever; freezes recovered ~$3B, leaving hackers — attributed to North Korea’s TraderTraitor group — with ~$3.3B, against a $1.23B SAFU reserve plus company funds](https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90) (WSJ)
+- [An EIP-7702 permission let the attacker point Binance’s busy “Binance 14” hot wallet at a sweeper contract via 50 signed authorizations, draining $2.5B on Ethereum alone](https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance) (CoinDesk)
 - [OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases](https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own) (CoinDesk)
 - [Vitalik Buterin backs Justin Drake’s “bunker mode” warning that AI-accelerated math could break the cryptography behind blockchain wallets, including lattice-based schemes, before quantum computers do](https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months) (CoinTelegraph)
 

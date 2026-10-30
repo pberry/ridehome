@@ -9,6 +9,7 @@ layout: category
 
 ### October
 
+- [AI’s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the tech’s accuracy](https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&sharetype=gift&token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f) (FT)
 - [Google expands ads in AI Mode to international markets, adding multi-turn ads in the US, betting generative AI can open new revenue as core search ad growth slows](https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/) (TechCrunch)
 - [OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false](https://openai.com/index/building-scientific-understanding-with-academic-communities/) (OpenAI)
 - [Meta plans to raise $95B to finance its AI infrastructure, including $35B in public equity offerings, backed by cornerstone investors Nvidia, AMD, and Broadcom](https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555) (FT)
