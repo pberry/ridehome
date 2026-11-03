@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### November
+
+- [The cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021, as investors and tech executives turn to options and credit-default swaps for protection](https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG) (WSJ)
+
 ### August
 
 - [Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing](https://www.theinformation.com/articles/salesforce-overhauling-way-charges-ai) (The Information)

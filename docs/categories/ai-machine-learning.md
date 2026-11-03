@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f) (FT)
+- [Anthropic’s updated S-1 shows Q3 revenue of nearly $17B, up from $1.4B a year ago, and a $23.3B net loss, as it plans to spend more than $895B in the years ahead](https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo) (Bloomberg)
+- [Anthropic confirms new Claude Code limits “to steer it away from recreating someone else’s specific game”, saying IP infringement violates its usage policy](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks) (Tom’s Hardware)
+
 ### October
 
 - [AI’s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the tech’s accuracy](https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&sharetype=gift&token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f) (FT)

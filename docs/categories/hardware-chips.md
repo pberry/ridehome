@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/) (Reuters)
+- [Marvell shareholders get 67% of the combined company in the all-stock deal, which isn’t expected to close until the first half of 2028, and shares of both companies slid on the news](https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings) (Bloomberg)
+
 ### October
 
 - [Apple unveils a touchscreen MacBook Pro with a 14" or 16" PROLED XDR display, a light-up Apple logo, Dynamic Island, M5 Pro and M5 Max, for $2,899+ and $3,399+](https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/) (Apple)

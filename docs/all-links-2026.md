@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, November 02 2026 - OpenAI Can't Hit Its Target**
+
+  * [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f) (FT)
+  * [Anthropic’s updated S-1 shows Q3 revenue of nearly $17B, up from $1.4B a year ago, and a $23.3B net loss, as it plans to spend more than $895B in the years ahead](https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo) (Bloomberg)
+  * [Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms](https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX) (WSJ)
+  * [The cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021, as investors and tech executives turn to options and credit-default swaps for protection](https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG) (WSJ)
+  * [Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/) (Reuters)
+  * [Marvell shareholders get 67% of the combined company in the all-stock deal, which isn’t expected to close until the first half of 2028, and shares of both companies slid on the news](https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings) (Bloomberg)
+  * [Anthropic confirms new Claude Code limits “to steer it away from recreating someone else’s specific game”, saying IP infringement violates its usage policy](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks) (Tom’s Hardware)
+
+
+
 **Friday, October 30 2026 - How Hackers Drained $6.3B From Binance**
 
   * [Binance says initial investigation suggests a compromised DevOps laptop may have enabled a ~$6.3B hack; Tether froze 1.5B+ USDT and Circle froze 800M+ USDC](https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171) (The Block)

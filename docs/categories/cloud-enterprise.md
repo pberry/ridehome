@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms](https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX) (WSJ)
+
 ### October
 
 - [Amazon reports Q3 revenue up 12% YoY to $201.94B, vs. $202.31B est., net income down 2% to $20.7B, forecasts Q4 revenue below est.](https://www.businesswire.com/news/home/20261028373648/en/) (Business Wire)
