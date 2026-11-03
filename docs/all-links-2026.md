@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, November 03 2026 - Did Apple's New CEO Fumble His Debut?**
+
+  * [Apple reports Q4 revenue up 12% YoY to $114.48B, above $113.39B est., China revenue up 21% to $17.5B, below $18.9B est., in John Ternus’ first earnings report](https://www.businesswire.com/news/home/20261102433950/en/) (Business Wire)
+  * [Apple guided Q1 sales up 7–10% YoY, above the 6% Wall Street expected, but shares slipped ~3% after-hours on a 45–46% margin forecast and Ternus calling memory pricing “unprecedented”](https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16) (FT)
+  * [Opinion: Ternus’s tight-lipped first earnings call missed a chance to talk up the iPhone Duo, Apple’s AI-agent moat, and capex at just 6.5% of Meta’s](https://www.bloomberg.com/opinion/articles/2026-11-03/apple-earnings-tight-lipped-ceo-john-ternus-fails-to-inspire) (Bloomberg)
+  * [Sources: institutional investors told Anthropic that its IPO valuation should be ~$1.5T to $1.6T, below the $2T range, citing factors like a tech stock selloff](https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9) (WSJ)
+  * [Google severs ties with and bans Android TV box maker Videostrong after finding it intentionally preloaded malware to open a backdoor to control the XCPE botnet](https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/) (9to5Google)
+  * [Binance says North Korean hackers stole $6.3B through a months-long scheme with fake LinkedIn job interviews and an ad campaign to deliver malicious software](https://fortune.com/2026/11/03/binance-hack-details-linkedin/) (Fortune)
+  * [S-1: Anthropic says it may “imminently meet” its RSI threshold and may not identify “a significant acceleration” in its development until after it has occurred](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) (TechCrunch)
+  * [Anthropic’s internal data shows Claude went from leading 1% of its AI R&D work in March to 26% by August; co-founder Jack Clark now thinks RSI arrives in 2027, not 2028](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815?st=C63WEu) (WSJ)
+
+
+
 **Monday, November 02 2026 - OpenAI Can't Hit Its Target**
 
   * [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f) (FT)

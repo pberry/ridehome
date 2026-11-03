@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Google severs ties with and bans Android TV box maker Videostrong after finding it intentionally preloaded malware to open a backdoor to control the XCPE botnet](https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/) (9to5Google)
+- [Binance says North Korean hackers stole $6.3B through a months-long scheme with fake LinkedIn job interviews and an ad campaign to deliver malicious software](https://fortune.com/2026/11/03/binance-hack-details-linkedin/) (Fortune)
+
 ### October
 
 - [US officials believe Megaspeed executive Alice Huang is a Chinese asset who maintained a close relationship with Jensen Huang to pass intelligence to Beijing](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html?unlocked_article_code=1.MVE.7xnb.7zggwb6DaNFj) (The New York Times)

@@ -7,6 +7,11 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Sources: institutional investors told Anthropic that its IPO valuation should be ~$1.5T to $1.6T, below the $2T range, citing factors like a tech stock selloff](https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9) (WSJ)
+- [S-1: Anthropic says it may “imminently meet” its RSI threshold and may not identify “a significant acceleration” in its development until after it has occurred](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) (TechCrunch)
+
 ### October
 
 - [S-1: as of September 30, Anthropic had 11,900+ customers spending $100,000+ annually, 1,900+ customers spending $1M+, and ~250 customers spending $10M+](https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/) (TechCrunch)

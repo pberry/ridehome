@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Anthropic’s internal data shows Claude went from leading 1% of its AI R&D work in March to 26% by August; co-founder Jack Clark now thinks RSI arrives in 2027, not 2028](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815?st=C63WEu) (WSJ)
 - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f) (FT)
 - [Anthropic’s updated S-1 shows Q3 revenue of nearly $17B, up from $1.4B a year ago, and a $23.3B net loss, as it plans to spend more than $895B in the years ahead](https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo) (Bloomberg)
 - [Anthropic confirms new Claude Code limits “to steer it away from recreating someone else’s specific game”, saying IP infringement violates its usage policy](https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks) (Tom’s Hardware)

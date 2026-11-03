@@ -7,6 +7,12 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Apple reports Q4 revenue up 12% YoY to $114.48B, above $113.39B est., China revenue up 21% to $17.5B, below $18.9B est., in John Ternus’ first earnings report](https://www.businesswire.com/news/home/20261102433950/en/) (Business Wire)
+- [Apple guided Q1 sales up 7–10% YoY, above the 6% Wall Street expected, but shares slipped ~3% after-hours on a 45–46% margin forecast and Ternus calling memory pricing “unprecedented”](https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16) (FT)
+- [Opinion: Ternus’s tight-lipped first earnings call missed a chance to talk up the iPhone Duo, Apple’s AI-agent moat, and capex at just 6.5% of Meta’s](https://www.bloomberg.com/opinion/articles/2026-11-03/apple-earnings-tight-lipped-ceo-john-ternus-fails-to-inspire) (Bloomberg)
+
 ### October
 
 - [In a southwest Virginia fairground, thousands of musicians gather every August to keep the centuries-old tradition of fiddling from flickering out](https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/) (Longreads)
