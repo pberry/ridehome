@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [The Texas results could be awkward for Elon Musk, who reportedly gave nearly $450 million to Republican midterm candidates and has bet big on the state with SpaceX, Tesla and the planned Terafab chip complex](https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk) (The Information)
 - [Marvell agrees to acquire optical components maker Lumentum in a $115B all-stock deal, as it aims to rival Broadcom; Nvidia invested $2B in each company in 2026](https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02/) (Reuters)
 - [Marvell shareholders get 67% of the combined company in the all-stock deal, which isn’t expected to close until the first half of 2028, and shares of both companies slid on the news](https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings) (Bloomberg)
 

@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, November 04 2026 - Did the Election Just Stall the AI Build-Out?**
+
+  * [Democratic gubernatorial wins from Texas and Georgia to Ohio and Pennsylvania are set to expose 50% of AI data center proposals to more scrutiny and pushback](https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout) (Bloomberg)
+  * [Democratic gubernatorial candidates who pledged to halt data center development swept Texas, Georgia and Ohio, threatening billions in planned AI investment and rebuking Trump’s endorsement of the AI building spree](https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5) (FT)
+  * [The Texas results could be awkward for Elon Musk, who reportedly gave nearly $450 million to Republican midterm candidates and has bet big on the state with SpaceX, Tesla and the planned Terafab chip complex](https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk) (The Information)
+  * [Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents](https://developer.apple.com/news/?id=gdk2umrf) (Apple Developer)
+  * [Apple’s new “app skills” let any app build Siri AI integrations for the first time, and teach Siri to coordinate complicated multi-step actions, testable now in the iOS 27.3 betas](https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai) (9to5Mac)
+  * [Google says AI tools for K-12 students will be off by default in 2027; schools that block AI entirely will lose Search, as “Search and AI are deeply integrated”](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.NlE.VMKr.Cr-g-C6phyfH) (The New York Times)
+  * [Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345) (The Register)
+
+
+
 **Tuesday, November 03 2026 - Did Apple's New CEO Fumble His Debut?**
 
   * [Apple reports Q4 revenue up 12% YoY to $114.48B, above $113.39B est., China revenue up 21% to $17.5B, below $18.9B est., in John Ternus’ first earnings report](https://www.businesswire.com/news/home/20261102433950/en/) (Business Wire)

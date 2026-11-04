@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents](https://developer.apple.com/news/?id=gdk2umrf) (Apple Developer)
+- [Apple’s new “app skills” let any app build Siri AI integrations for the first time, and teach Siri to coordinate complicated multi-step actions, testable now in the iOS 27.3 betas](https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai) (9to5Mac)
+- [Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345) (The Register)
 - [Anthropic’s internal data shows Claude went from leading 1% of its AI R&D work in March to 26% by August; co-founder Jack Clark now thinks RSI arrives in 2027, not 2028](https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815?st=C63WEu) (WSJ)
 - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f) (FT)
 - [Anthropic’s updated S-1 shows Q3 revenue of nearly $17B, up from $1.4B a year ago, and a $23.3B net loss, as it plans to spend more than $895B in the years ahead](https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo) (Bloomberg)
