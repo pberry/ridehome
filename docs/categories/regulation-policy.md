@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [OpenAI pledges to change how it handles data center deals, including avoiding NDAs and lowering power usage during peak times, after Democrats’ midterm wins](https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry) (Bloomberg)
 - [Democratic gubernatorial wins from Texas and Georgia to Ohio and Pennsylvania are set to expose 50% of AI data center proposals to more scrutiny and pushback](https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout) (Bloomberg)
 - [Democratic gubernatorial candidates who pledged to halt data center development swept Texas, Georgia and Ohio, threatening billions in planned AI investment and rebuking Trump’s endorsement of the AI building spree](https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5) (FT)
 - [Google says AI tools for K-12 students will be off by default in 2027; schools that block AI entirely will lose Search, as “Search and AI are deeply integrated”](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.NlE.VMKr.Cr-g-C6phyfH) (The New York Times)

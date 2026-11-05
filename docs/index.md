@@ -3,15 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, November 04, 2026 - Did the Election Just Stall the AI Build-Out?</h3>
+  <h3>Thursday, November 05, 2026 - OpenAI's Most Dangerous Model Yet?</h3>
   <ul>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout">Democratic gubernatorial wins from Texas and Georgia to Ohio and Pennsylvania are set to expose 50% of AI data center proposals to more scrutiny and pushback</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5">Democratic gubernatorial candidates who pledged to halt data center development swept Texas, Georgia and Ohio, threatening billions in planned AI investment and rebuking Trump’s endorsement of the AI building spree</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk">The Texas results could be awkward for Elon Musk, who reportedly gave nearly $450 million to Republican midterm candidates and has bet big on the state with SpaceX, Tesla and the planned Terafab chip complex</a> (The Information) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://developer.apple.com/news/?id=gdk2umrf">Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents</a> (Apple Developer) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai">Apple’s new “app skills” let any app build Siri AI integrations for the first time, and teach Siri to coordinate complicated multi-step actions, testable now in the iOS 27.3 betas</a> (9to5Mac) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?unlocked_article_code=1.NlE.VMKr.Cr-g-C6phyfH">Google says AI tools for K-12 students will be off by default in 2027; schools that block AI entirely will lose Search, as “Search and AI are deeply integrated”</a> (The New York Times) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345">Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code</a> (The Register) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry">OpenAI pledges to change how it handles data center deals, including avoiding NDAs and lowering power usage during peak times, after Democrats’ midterm wins</a> (Bloomberg) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw">AI’s biggest names watched Figaro at the San Francisco Opera on election night as results turned against the data center build-out; OpenAI leaders weighed resetting next year’s capacity expectations, CoreWeave fell nearly 10%, and Brad Gerstner says 25% to 35% of next year’s US build-out could be at risk</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/">Motorola launches the $1,599+ Signature 27, featuring a Snapdragon 8 Elite Extreme Gen 6 chipset, a 6.8-inch Tandem OLED display, and seven years of OS updates</a> (9to5Google) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability">Motorola’s Signature 27 is its first all-out slab flagship, matching the Galaxy S26 Ultra at $1,599 with 512GB and 12GB of RAM and adding GrapheneOS support, but it lacks built-in Qi2 magnets and $1,600 is a steep hill to climb</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch">OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue</a> (The Verge) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review">MacBook Pro with PROLED XDR Display review: gorgeous screen, touch is useful, strong performance and speakers, and a Dynamic Island, but pricey and no Face ID</a> (Tom’s Hardware) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review">The Verge gives the PROLED MacBook Pro a 9 out of 10: touch is nearly unusable as a touch-first experience, with no onscreen keyboard and no Apple Pencil support, so it’s a laptop that happens to have a touchscreen, but it’s the one to get if you’re coming from an M1-era Mac</a> (The Verge) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
+    <li><a href="https://petapixel.com/2026/11/05/apple-m5-max-macbook-pro-with-proled-xdr-review-dont-touch-it/">The PROLED display is the best you can buy, but touch adds little and there’s no Apple Pencil support; the $400-cheaper M5 Max MacBook Pro performs identically, and the OLED premium may become the only option with the M6 Max</a> (PetaPixel) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
   </ul>
 </section>
 
@@ -37,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-04T15:14:27-08:00">November 04, 2026 at 03:14 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-05T15:17:06-08:00">November 05, 2026 at 03:17 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,408</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,416</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,807</span></li>
       </ul>
     </div>
@@ -51,18 +52,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(122 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(82 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(85 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(129 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(104 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(286 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(134 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(105 links)</span></li>
       </ol>
     </div>
   </div>

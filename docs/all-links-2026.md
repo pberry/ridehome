@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, November 05 2026 - OpenAI's Most Dangerous Model Yet?**
+
+  * [OpenAI pledges to change how it handles data center deals, including avoiding NDAs and lowering power usage during peak times, after Democrats’ midterm wins](https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry) (Bloomberg)
+  * [AI’s biggest names watched Figaro at the San Francisco Opera on election night as results turned against the data center build-out; OpenAI leaders weighed resetting next year’s capacity expectations, CoreWeave fell nearly 10%, and Brad Gerstner says 25% to 35% of next year’s US build-out could be at risk](https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw) (WSJ)
+  * [Motorola launches the $1,599+ Signature 27, featuring a Snapdragon 8 Elite Extreme Gen 6 chipset, a 6.8-inch Tandem OLED display, and seven years of OS updates](https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/) (9to5Google)
+  * [Motorola’s Signature 27 is its first all-out slab flagship, matching the Galaxy S26 Ultra at $1,599 with 512GB and 12GB of RAM and adding GrapheneOS support, but it lacks built-in Qi2 magnets and $1,600 is a steep hill to climb](https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability) (The Verge)
+  * [OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch) (The Verge)
+  * [MacBook Pro with PROLED XDR Display review: gorgeous screen, touch is useful, strong performance and speakers, and a Dynamic Island, but pricey and no Face ID](https://www.tomshardware.com/laptops/macbooks/apple-macbook-pro-with-proled-xdr-display-review) (Tom’s Hardware)
+  * [The Verge gives the PROLED MacBook Pro a 9 out of 10: touch is nearly unusable as a touch-first experience, with no onscreen keyboard and no Apple Pencil support, so it’s a laptop that happens to have a touchscreen, but it’s the one to get if you’re coming from an M1-era Mac](https://www.theverge.com/tech/1026570/apple-macbook-pro-proled-xdr-display-review) (The Verge)
+  * [The PROLED display is the best you can buy, but touch adds little and there’s no Apple Pencil support; the $400-cheaper M5 Max MacBook Pro performs identically, and the OLED premium may become the only option with the M6 Max](https://petapixel.com/2026/11/05/apple-m5-max-macbook-pro-with-proled-xdr-review-dont-touch-it/) (PetaPixel)
+
+
+
 **Wednesday, November 04 2026 - Did the Election Just Stall the AI Build-Out?**
 
   * [Democratic gubernatorial wins from Texas and Georgia to Ohio and Pennsylvania are set to expose 50% of AI data center proposals to more scrutiny and pushback](https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout) (Bloomberg)

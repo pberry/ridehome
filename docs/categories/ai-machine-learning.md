@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [AI’s biggest names watched Figaro at the San Francisco Opera on election night as results turned against the data center build-out; OpenAI leaders weighed resetting next year’s capacity expectations, CoreWeave fell nearly 10%, and Brad Gerstner says 25% to 35% of next year’s US build-out could be at risk](https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw) (WSJ)
+- [OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch) (The Verge)
 - [Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents](https://developer.apple.com/news/?id=gdk2umrf) (Apple Developer)
 - [Apple’s new “app skills” let any app build Siri AI integrations for the first time, and teach Siri to coordinate complicated multi-step actions, testable now in the iOS 27.3 betas](https://9to5mac.com/2026/11/03/developers-can-now-create-advanced-app-skills-for-siri-ai) (9to5Mac)
 - [Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345) (The Register)
