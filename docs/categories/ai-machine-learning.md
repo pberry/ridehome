@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Thinking Machines Lab debuts Inkling 2 Small, a MoE model with 594B total and 17B active parameters, and plans to release weights next week after safety testing](https://thinkingmachines.ai/news/inkling-2-small/) (Thinking Machines)
+- [Inkling 2 Small scored 31 on Artificial Analysis’ Intelligence Index, an 18-point jump, but used roughly four times as many output tokens per task; Thinking Machines is reportedly nearing a $5B round led by Accel](https://techstrong.ai/articles/thinking-machines-launches-inkling-2-small/) (TechStrong.ai)
+- [How employees at Microsoft, long known for its stability in the tech industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows](https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html) (The New York Times)
 - [AI’s biggest names watched Figaro at the San Francisco Opera on election night as results turned against the data center build-out; OpenAI leaders weighed resetting next year’s capacity expectations, CoreWeave fell nearly 10%, and Brad Gerstner says 25% to 35% of next year’s US build-out could be at risk](https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?st=F62maw) (WSJ)
 - [OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue](https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch) (The Verge)
 - [Apple opens Siri AI to all developers, letting any app on iOS 27.3 beta and other 27.3 OS betas bring its content and actions into Siri AI by using App Intents](https://developer.apple.com/news/?id=gdk2umrf) (Apple Developer)

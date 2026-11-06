@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### November
+
+- [Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 “to make room for increased Cybercab production”](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98) (FT)
+
 ### October
 
 - [SpaceX agrees to acquire a low-band spectrum portfolio to help Starlink “become a major mobile carrier in the US”; AT&T, T-Mobile, Verizon fall 6%+ after hours](https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service) (Bloomberg)

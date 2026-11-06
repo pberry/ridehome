@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, November 06 2026 - Is Anthropic’s $1.5T IPO Cracking?**
+
+  * [Sources: major investors are increasingly skeptical Anthropic’s IPO can proceed at a $1.5T valuation after a market selloff; one says it could be closer to $1T](https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=kUhvLS) (WSJ)
+  * [The Nasdaq 100 fell 6% on Thursday, losing a record $2.3T in value, as the Philadelphia chip index fell 12% and vol control funds were expected to sell about $135B of US equity futures](https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day) (Bloomberg)
+  * [Thinking Machines Lab debuts Inkling 2 Small, a MoE model with 594B total and 17B active parameters, and plans to release weights next week after safety testing](https://thinkingmachines.ai/news/inkling-2-small/) (Thinking Machines)
+  * [Inkling 2 Small scored 31 on Artificial Analysis’ Intelligence Index, an 18-point jump, but used roughly four times as many output tokens per task; Thinking Machines is reportedly nearing a $5B round led by Accel](https://techstrong.ai/articles/thinking-machines-launches-inkling-2-small/) (TechStrong.ai)
+  * [Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 “to make room for increased Cybercab production”](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98) (FT)
+  * [Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends](https://www.zdnet.com/innovation/personal-finance-claude-anthropic/) (ZDNet)
+
+
+
 **Thursday, November 05 2026 - OpenAI's Most Dangerous Model Yet?**
 
   * [OpenAI pledges to change how it handles data center deals, including avoiding NDAs and lowering power usage during peak times, after Democrats’ midterm wins](https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry) (Bloomberg)

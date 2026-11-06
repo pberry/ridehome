@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, November 06 2026**
+
+  * [How employees at Microsoft, long known for its stability in the tech industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows](https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html) (The New York Times)
+
+
+
 **Friday, October 30 2026**
 
   * [AI’s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the tech’s accuracy](https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&sharetype=gift&token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f) (FT)

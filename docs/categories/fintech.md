@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends](https://www.zdnet.com/innovation/personal-finance-claude-anthropic/) (ZDNet)
 - [The cost of insuring against debt defaults at hyperscalers Amazon, Alphabet, Microsoft, Meta, and Oracle has hit its highest level since 2021, as investors and tech executives turn to options and credit-default swaps for protection](https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?st=AXJFTG) (WSJ)
 
 ### August
