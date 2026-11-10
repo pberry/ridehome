@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China’s top spy agency, MSS](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?accessToken=zwAAAaG0GO1zkdOlWioiRHlPk9OkRWFHpcbXkA.MEYCIQD8tFSp3cRj0J5I30Q9RKgUzsTJxyEgT-Dwn1kE4QrvnwIhAPfAlYzUdcV9Q_kHHTf-UsaGXHM8kf4-86XcXPSpT3HD&sharetype=gift&token=44a48365-ecb3-4a02-8bb8-9eba3deab5e1) (FT)
+- [Nvidia’s board launched a probe into whether Jensen Huang was targeted by a foreign spy plot, after he admitted to the board he’d been intimate with an executive US intelligence determined to be a Chinese spy; Huang apologized and will keep leading Nvidia during the inquiry](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.v7I2.Y_-KmY5qUPKi) (The New York Times)
 - [Google severs ties with and bans Android TV box maker Videostrong after finding it intentionally preloaded malware to open a backdoor to control the XCPE botnet](https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/) (9to5Google)
 - [Binance says North Korean hackers stole $6.3B through a months-long scheme with fake LinkedIn job interviews and an ad campaign to deliver malicious software](https://fortune.com/2026/11/03/binance-hack-details-linkedin/) (Fortune)
 

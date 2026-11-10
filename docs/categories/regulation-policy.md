@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Jensen Huang’s scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race](https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity) (Semafor)
 - [OpenAI pledges to change how it handles data center deals, including avoiding NDAs and lowering power usage during peak times, after Democrats’ midterm wins](https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry) (Bloomberg)
 - [Democratic gubernatorial wins from Texas and Georgia to Ohio and Pennsylvania are set to expose 50% of AI data center proposals to more scrutiny and pushback](https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout) (Bloomberg)
 - [Democratic gubernatorial candidates who pledged to halt data center development swept Texas, Georgia and Ohio, threatening billions in planned AI investment and rebuking Trump’s endorsement of the AI building spree](https://www.ft.com/content/badd6af9-88b7-47b7-b1c2-067814e70fb5) (FT)

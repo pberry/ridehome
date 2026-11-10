@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Sources: John Ternus wants more urgency in Apple’s AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms) (Bloomberg)
 - [Thinking Machines Lab debuts Inkling 2 Small, a MoE model with 594B total and 17B active parameters, and plans to release weights next week after safety testing](https://thinkingmachines.ai/news/inkling-2-small/) (Thinking Machines)
 - [Inkling 2 Small scored 31 on Artificial Analysis’ Intelligence Index, an 18-point jump, but used roughly four times as many output tokens per task; Thinking Machines is reportedly nearing a $5B round led by Accel](https://techstrong.ai/articles/thinking-machines-launches-inkling-2-small/) (TechStrong.ai)
 - [How employees at Microsoft, long known for its stability in the tech industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows](https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html) (The New York Times)

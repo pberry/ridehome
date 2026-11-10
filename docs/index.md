@@ -3,14 +3,12 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, November 06, 2026 - Is Anthropic’s $1.5T IPO Cracking?</h3>
+  <h3>Monday, November 09, 2026 - Jensen's Honeytrap Problem</h3>
   <ul>
-    <li><a href="https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=kUhvLS">Sources: major investors are increasingly skeptical Anthropic’s IPO can proceed at a $1.5T valuation after a market selloff; one says it could be closer to $1T</a> (WSJ) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day">The Nasdaq 100 fell 6% on Thursday, losing a record $2.3T in value, as the Philadelphia chip index fell 12% and vol control funds were expected to sell about $135B of US equity futures</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://thinkingmachines.ai/news/inkling-2-small/">Thinking Machines Lab debuts Inkling 2 Small, a MoE model with 594B total and 17B active parameters, and plans to release weights next week after safety testing</a> (Thinking Machines) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techstrong.ai/articles/thinking-machines-launches-inkling-2-small/">Inkling 2 Small scored 31 on Artificial Analysis’ Intelligence Index, an 18-point jump, but used roughly four times as many output tokens per task; Thinking Machines is reportedly nearing a $5B round led by Accel</a> (TechStrong.ai) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98">Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 “to make room for increased Cybercab production”</a> (FT) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
-    <li><a href="https://www.zdnet.com/innovation/personal-finance-claude-anthropic/">Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends</a> (ZDNet) &mdash; 🤖 <a href="categories/fintech.html" class="ai-category">FinTech</a></li>
+    <li><a href="https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?accessToken=zwAAAaG0GO1zkdOlWioiRHlPk9OkRWFHpcbXkA.MEYCIQD8tFSp3cRj0J5I30Q9RKgUzsTJxyEgT-Dwn1kE4QrvnwIhAPfAlYzUdcV9Q_kHHTf-UsaGXHM8kf4-86XcXPSpT3HD&sharetype=gift&token=44a48365-ecb3-4a02-8bb8-9eba3deab5e1">Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China’s top spy agency, MSS</a> (FT) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.v7I2.Y_-KmY5qUPKi">Nvidia’s board launched a probe into whether Jensen Huang was targeted by a foreign spy plot, after he admitted to the board he’d been intimate with an executive US intelligence determined to be a Chinese spy; Huang apologized and will keep leading Nvidia during the inquiry</a> (The New York Times) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity">Jensen Huang’s scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race</a> (Semafor) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms">Sources: John Ternus wants more urgency in Apple’s AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +34,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-06T14:44:12-08:00">November 06, 2026 at 02:44 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-09T17:12:08-08:00">November 09, 2026 at 05:12 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,422</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,426</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,808</span></li>
       </ul>
     </div>
@@ -50,18 +48,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(124 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(85 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(65 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(289 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(135 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(105 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(283 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(133 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
       </ol>
     </div>
   </div>

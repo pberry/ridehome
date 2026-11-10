@@ -5,6 +5,15 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, November 09 2026 - Jensen's Honeytrap Problem**
+
+  * [Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China’s top spy agency, MSS](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?accessToken=zwAAAaG0GO1zkdOlWioiRHlPk9OkRWFHpcbXkA.MEYCIQD8tFSp3cRj0J5I30Q9RKgUzsTJxyEgT-Dwn1kE4QrvnwIhAPfAlYzUdcV9Q_kHHTf-UsaGXHM8kf4-86XcXPSpT3HD&sharetype=gift&token=44a48365-ecb3-4a02-8bb8-9eba3deab5e1) (FT)
+  * [Nvidia’s board launched a probe into whether Jensen Huang was targeted by a foreign spy plot, after he admitted to the board he’d been intimate with an executive US intelligence determined to be a Chinese spy; Huang apologized and will keep leading Nvidia during the inquiry](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.v7I2.Y_-KmY5qUPKi) (The New York Times)
+  * [Jensen Huang’s scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race](https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity) (Semafor)
+  * [Sources: John Ternus wants more urgency in Apple’s AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms) (Bloomberg)
+
+
+
 **Friday, November 06 2026 - Is Anthropic’s $1.5T IPO Cracking?**
 
   * [Sources: major investors are increasingly skeptical Anthropic’s IPO can proceed at a $1.5T valuation after a market selloff; one says it could be closer to $1T](https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=kUhvLS) (WSJ)
