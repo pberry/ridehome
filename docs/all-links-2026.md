@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, November 10 2026 - Who Replaces Jensen Huang?**
+
+  * [rump says the FBI is “looking into” Jensen Huang’s affair, and the Nvidia CEO told him that he “had absolutely no idea that the person in question was a spy”](https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8) (AP)
+  * [A Commerce Department probe into Megaspeed for allegedly smuggling Nvidia chips to China was handed to the DOJ after Nvidia’s general counsel emailed investigators and invoked the name of a top Commerce official](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8) (NYTimes)
+  * [Sources: Jensen Huang has used Heller, a crisis PR firm known for handling sex scandals, since at least October 2025, well before his affair became public](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/) (Wired)
+  * [Huang’s fate now rests with a weak, long-tenured Nvidia board with no successor in sight and a CEO with 50+ direct reports, raising a governance crisis](https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis) (Semafor)
+  * [Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA) (The Verge)
+  * [Anthropic releases Mythos 5.2 and Fable 5.2, saying they are “best for the most ambitious, open-ended technical work”, with outputs up to 30% faster than 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-2) (Anthropic)
+  * [Fable 5.2 and Mythos 5.2 post new benchmark highs while API prices drop 20% to $8 per million input tokens and $40 per million output; Mythos stays reserved for vetted Project Glasswing users](https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction) (VentureBeat)
+  * [Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat’s Last Theorem and solved two open black hole physics problems](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZxTEU5c3dWWmMiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMzAwMDUvYW50aHJvcGljLWNsYXVkZS1mYWJsZS1teXRob3MtNS0yIiwiZXhwIjoxNzk0NjgzNDYyLCJpYXQiOjE3OTQyNTE0NjJ9.2LVCU8fAafdd4rkRbz6XCtLFvyK6Lugr0vpJRrELfpo) (The Verge)
+  * [About 1,000 Fable 5.2 agents turned the Fermat proof into a computer-verifiable one in 30 hours and coded a working OS in eight days, though the black hole papers haven’t been peer reviewed](https://gizmodo.com/anthropics-says-its-new-ai-model-can-solve-black-hole-mysteries-what-could-go-wrong-2000837274) (Gizmodo)
+
+
+
 **Monday, November 09 2026 - Jensen's Honeytrap Problem**
 
   * [Sources: US officials believe Jensen Huang had a romantic relationship with Alice Huang, who they allege was recruited to spy for China’s top spy agency, MSS](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?accessToken=zwAAAaG0GO1zkdOlWioiRHlPk9OkRWFHpcbXkA.MEYCIQD8tFSp3cRj0J5I30Q9RKgUzsTJxyEgT-Dwn1kE4QrvnwIhAPfAlYzUdcV9Q_kHHTf-UsaGXHM8kf4-86XcXPSpT3HD&sharetype=gift&token=44a48365-ecb3-4a02-8bb8-9eba3deab5e1) (FT)

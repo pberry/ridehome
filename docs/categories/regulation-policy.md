@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [rump says the FBI is “looking into” Jensen Huang’s affair, and the Nvidia CEO told him that he “had absolutely no idea that the person in question was a spy”](https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8) (AP)
+- [A Commerce Department probe into Megaspeed for allegedly smuggling Nvidia chips to China was handed to the DOJ after Nvidia’s general counsel emailed investigators and invoked the name of a top Commerce official](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8) (NYTimes)
 - [Jensen Huang’s scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race](https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity) (Semafor)
 - [OpenAI pledges to change how it handles data center deals, including avoiding NDAs and lowering power usage during peak times, after Democrats’ midterm wins](https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry) (Bloomberg)
 - [Democratic gubernatorial wins from Texas and Georgia to Ohio and Pennsylvania are set to expose 50% of AI data center proposals to more scrutiny and pushback](https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout) (Bloomberg)

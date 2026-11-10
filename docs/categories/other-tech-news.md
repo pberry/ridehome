@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Sources: Jensen Huang has used Heller, a crisis PR firm known for handling sex scandals, since at least October 2025, well before his affair became public](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/) (Wired)
+- [Huang’s fate now rests with a weak, long-tenured Nvidia board with no successor in sight and a CEO with 50+ direct reports, raising a governance crisis](https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis) (Semafor)
 - [Apple reports Q4 revenue up 12% YoY to $114.48B, above $113.39B est., China revenue up 21% to $17.5B, below $18.9B est., in John Ternus’ first earnings report](https://www.businesswire.com/news/home/20261102433950/en/) (Business Wire)
 - [Apple guided Q1 sales up 7–10% YoY, above the 6% Wall Street expected, but shares slipped ~3% after-hours on a 45–46% margin forecast and Ternus calling memory pricing “unprecedented”](https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16) (FT)
 - [Opinion: Ternus’s tight-lipped first earnings call missed a chance to talk up the iPhone Duo, Apple’s AI-agent moat, and capex at just 6.5% of Meta’s](https://www.bloomberg.com/opinion/articles/2026-11-03/apple-earnings-tight-lipped-ceo-john-ternus-fails-to-inspire) (Bloomberg)

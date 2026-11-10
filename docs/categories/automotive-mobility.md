@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Uber launches Uber Parking, an in-app parking reservation tool powered by its SpotHero acquisition, in 15 US cities, including Chicago, NYC, and San Francisco](https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFFQ1lZV0Qzb3giLCJwIjoiL3RyYW5zcG9ydGF0aW9uLzEwMjk3NzYvdWJlci1wYXJraW5nLWxhdW5jaC1zcG90aGVyby1yb2JvdGF4aXMiLCJleHAiOjE3OTQ2NzYzNTQsImlhdCI6MTc5NDI0NDM1NH0.JUsFbrRZz5ePB1fjQjTRmwfyAeJmvNtx7EBTJCcsBFA) (The Verge)
 - [Elon Musk says Tesla plans to wind down production of the Cybertruck at its Texas Gigafactory around mid-2027 “to make room for increased Cybercab production”](https://www.ft.com/content/8ec923a8-a581-4995-a92c-c08e16bf2e98) (FT)
 
 ### October
