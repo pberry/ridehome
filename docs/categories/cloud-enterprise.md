@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Forward-deployed engineers, the role Palantir made famous, are drawing $586,000 to $1.45 million a year as companies start hiring them in-house](https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a) (WSJ)
 - [Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms](https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?st=7gB5bX) (WSJ)
 
 ### October

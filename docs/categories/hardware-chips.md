@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Jensen Huang resigns as Nvidia CEO, president, and board member; CFO Colette Kress will serve as interim CEO as the board considers candidates; NVDA drops 5%+](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) (Nvidia)
+- [Trump says Tim Cook is the “only one man” to replace Jensen Huang as Nvidia CEO, adding “A Legend replaces a Legend!” and Huang “has done a fantastic job”](https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/) (9to5Mac)
+- [Nvidia’s difficult search for Huang’s successor: Apple’s Johny Srouji, Arm’s Rene Haas, AMD’s Lisa Su, AWS’s Matt Garman, Micron’s Sanjay Mehrotra, Google’s Amin Vahdat, and son-in-law Nico Caprez all in the mix](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor) (Bloomberg)
 - [The Nasdaq 100 fell 6% on Thursday, losing a record $2.3T in value, as the Philadelphia chip index fell 12% and vol control funds were expected to sell about $135B of US equity futures](https://www.bloomberg.com/news/articles/2026-11-05/us-stock-futures-diverge-as-chip-selloff-extends-into-second-day) (Bloomberg)
 - [Motorola launches the $1,599+ Signature 27, featuring a Snapdragon 8 Elite Extreme Gen 6 chipset, a 6.8-inch Tandem OLED display, and seven years of OS updates](https://9to5google.com/2026/11/05/motorola-signature-27-specs-price-release-date/) (9to5Google)
 - [Motorola’s Signature 27 is its first all-out slab flagship, matching the Galaxy S26 Ultra at $1,599 with 512GB and 12GB of RAM and adding GrapheneOS support, but it lacks built-in Qi2 magnets and $1,600 is a steep hill to climb](https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability) (The Verge)

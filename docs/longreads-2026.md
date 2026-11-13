@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, November 13 2026**
+
+  * [Forward-deployed engineers, the role Palantir made famous, are drawing $586,000 to $1.45 million a year as companies start hiring them in-house](https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a) (WSJ)
+
+
+
 **Friday, November 06 2026**
 
   * [How employees at Microsoft, long known for its stability in the tech industry, are grappling with its decision to offer buyouts to 60,000 people as AI spending grows](https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html) (The New York Times)

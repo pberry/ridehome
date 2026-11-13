@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) (Google)
+- [Gemini 4 Hydrogen replaces 3.8 Flash across Google’s products, running 2.5x faster in high mode, cutting “fabricated claims” 5x, and scoring 54 on the Artificial Analysis index vs. 50 for Argon](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/) (Ars Technica)
 - [Anthropic releases Mythos 5.2 and Fable 5.2, saying they are “best for the most ambitious, open-ended technical work”, with outputs up to 30% faster than 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-2) (Anthropic)
 - [Fable 5.2 and Mythos 5.2 post new benchmark highs while API prices drop 20% to $8 per million input tokens and $40 per million output; Mythos stays reserved for vetted Project Glasswing users](https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction) (VentureBeat)
 - [Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat’s Last Theorem and solved two open black hole physics problems](https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZxTEU5c3dWWmMiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMzAwMDUvYW50aHJvcGljLWNsYXVkZS1mYWJsZS1teXRob3MtNS0yIiwiZXhwIjoxNzk0NjgzNDYyLCJpYXQiOjE3OTQyNTE0NjJ9.2LVCU8fAafdd4rkRbz6XCtLFvyK6Lugr0vpJRrELfpo) (The Verge)

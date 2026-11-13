@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Trump called Jensen Huang on Tuesday and urged him to keep fighting for his job, viewing the spy scandal mainly through the lens of adultery and Nvidia as too big to fail](https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p) (NYTimes)
+- [Inside Jensen Huang’s final hours as Nvidia CEO: broken, saying “whatever” and “I don’t care” after weeks of denials, with a congressional testimony expected in the coming weeks](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc) (Bloomberg)
 - [Sources: Jensen Huang has used Heller, a crisis PR firm known for handling sex scandals, since at least October 2025, well before his affair became public](https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/) (Wired)
 - [Huang’s fate now rests with a weak, long-tenured Nvidia board with no successor in sight and a CEO with 50+ direct reports, raising a governance crisis](https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis) (Semafor)
 - [Apple reports Q4 revenue up 12% YoY to $114.48B, above $113.39B est., China revenue up 21% to $17.5B, below $18.9B est., in John Ternus’ first earnings report](https://www.businesswire.com/news/home/20261102433950/en/) (Business Wire)
