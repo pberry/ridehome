@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Wall Street’s 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades](https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32) (FT)
+- [Sources: Anthropic’s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement](https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom) (Bloomberg)
 - [Sources: major investors are increasingly skeptical Anthropic’s IPO can proceed at a $1.5T valuation after a market selloff; one says it could be closer to $1T](https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?st=kUhvLS) (WSJ)
 - [Sources: institutional investors told Anthropic that its IPO valuation should be ~$1.5T to $1.6T, below the $2T range, citing factors like a tech stock selloff](https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9) (WSJ)
 - [S-1: Anthropic says it may “imminently meet” its RSI threshold and may not identify “a significant acceleration” in its development until after it has occurred](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) (TechCrunch)

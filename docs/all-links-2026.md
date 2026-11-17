@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, November 16 2026 - Can Jensen Huang Pull a Sam Altman?**
+
+  * [Sources: Jensen Huang has discussed a comeback as Nvidia’s CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b) (FT)
+  * [A “Stand with Jensen” petition to reinstate Huang topped 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan, with organizers saying the board removed him without due process](https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11) (Business Insider)
+  * [Ben Thompson: Huang built Nvidia as an exoskeleton around himself with no checks on him, but the chip-ban rules that doomed him are a misguided turn toward control over innovation](https://stratechery.com/2026/obituaries/) (Stratechery)
+  * [Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas](https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29) (FT)
+  * [Wall Street’s 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades](https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32) (FT)
+  * [Sources: Anthropic’s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement](https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom) (Bloomberg)
+
+
+
 **Friday, November 13 2026 - Why Did Jensen Huang Quit Nvidia?**
 
   * [Jensen Huang resigns as Nvidia CEO, president, and board member; CFO Colette Kress will serve as interim CEO as the board considers candidates; NVDA drops 5%+](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) (Nvidia)

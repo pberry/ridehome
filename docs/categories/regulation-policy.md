@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Ben Thompson: Huang built Nvidia as an exoskeleton around himself with no checks on him, but the chip-ban rules that doomed him are a misguided turn toward control over innovation](https://stratechery.com/2026/obituaries/) (Stratechery)
+- [Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas](https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29) (FT)
 - [rump says the FBI is “looking into” Jensen Huang’s affair, and the Nvidia CEO told him that he “had absolutely no idea that the person in question was a spy”](https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8) (AP)
 - [A Commerce Department probe into Megaspeed for allegedly smuggling Nvidia chips to China was handed to the DOJ after Nvidia’s general counsel emailed investigators and invoked the name of a top Commerce official](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8) (NYTimes)
 - [Jensen Huang’s scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race](https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity) (Semafor)

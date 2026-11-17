@@ -3,15 +3,14 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, November 13, 2026 - Why Did Jensen Huang Quit Nvidia?</h3>
+  <h3>Monday, November 16, 2026 - Can Jensen Huang Pull a Sam Altman?</h3>
   <ul>
-    <li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition">Jensen Huang resigns as Nvidia CEO, president, and board member; CFO Colette Kress will serve as interim CEO as the board considers candidates; NVDA drops 5%+</a> (Nvidia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p">Trump called Jensen Huang on Tuesday and urged him to keep fighting for his job, viewing the spy scandal mainly through the lens of adultery and Nvidia as too big to fail</a> (NYTimes) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc">Inside Jensen Huang’s final hours as Nvidia CEO: broken, saying “whatever” and “I don’t care” after weeks of denials, with a congressional testimony expected in the coming weeks</a> (Bloomberg) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/">Trump says Tim Cook is the “only one man” to replace Jensen Huang as Nvidia CEO, adding “A Legend replaces a Legend!” and Huang “has done a fantastic job”</a> (9to5Mac) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor">Nvidia’s difficult search for Huang’s successor: Apple’s Johny Srouji, Arm’s Rene Haas, AMD’s Lisa Su, AWS’s Matt Garman, Micron’s Sanjay Mehrotra, Google’s Amin Vahdat, and son-in-law Nico Caprez all in the mix</a> (Bloomberg) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window</a> (Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/">Gemini 4 Hydrogen replaces 3.8 Flash across Google’s products, running 2.5x faster in high mode, cutting “fabricated claims” 5x, and scoring 54 on the Artificial Analysis index vs. 50 for Argon</a> (Ars Technica) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b">Sources: Jensen Huang has discussed a comeback as Nvidia’s CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support</a> (FT) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11">A “Stand with Jensen” petition to reinstate Huang topped 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan, with organizers saying the board removed him without due process</a> (Business Insider) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://stratechery.com/2026/obituaries/">Ben Thompson: Huang built Nvidia as an exoskeleton around himself with no checks on him, but the chip-ban rules that doomed him are a misguided turn toward control over innovation</a> (Stratechery) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29">Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">Wall Street’s 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom">Sources: Anthropic’s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
   </ul>
 </section>
 
@@ -37,13 +36,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-13T15:16:16-08:00">November 13, 2026 at 03:16 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-16T17:36:59-08:00">November 16, 2026 at 05:36 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,442</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,448</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,809</span></li>
       </ul>
     </div>
@@ -53,14 +52,14 @@
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(284 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(136 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
       </ol>
