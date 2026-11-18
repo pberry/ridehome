@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Nvidia’s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee) (Nvidia Newsroom)
+- [Nvidia’s new export control committee will be chaired by ex-Goldman vice-chair Suzanne Nora Johnson, as Trump calls it a “great idea” and lawmakers prep a crackdown on AI chips reaching China](https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb) (FT)
+- [Nvidia’s board is not considering bringing Jensen Huang back as CEO and is focused on a Wachtell Lipton-led probe into whether his conduct compromised national security](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html) (CNBC)
 - [Ben Thompson: Huang built Nvidia as an exoskeleton around himself with no checks on him, but the chip-ban rules that doomed him are a misguided turn toward control over innovation](https://stratechery.com/2026/obituaries/) (Stratechery)
 - [Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas](https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29) (FT)
 - [rump says the FBI is “looking into” Jensen Huang’s affair, and the Nvidia CEO told him that he “had absolutely no idea that the person in question was a spy”](https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8) (AP)

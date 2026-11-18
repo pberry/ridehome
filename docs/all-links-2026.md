@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, November 17 2026 - Jensen Wants Back In!**
+
+  * [Nvidia’s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee) (Nvidia Newsroom)
+  * [Nvidia’s new export control committee will be chaired by ex-Goldman vice-chair Suzanne Nora Johnson, as Trump calls it a “great idea” and lawmakers prep a crackdown on AI chips reaching China](https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb) (FT)
+  * [Nvidia’s board is not considering bringing Jensen Huang back as CEO and is focused on a Wachtell Lipton-led probe into whether his conduct compromised national security](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html) (CNBC)
+  * [Sources say: Jensen Huang’s daughter Madison remains in a senior Nvidia role, where she acted as his de facto chief of staff, raising questions for interim CEO Colette Kress](https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR) (The New York Times)
+  * [Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US](https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=1Tm7UU) (WSJ)
+  * [SEC filing: Amazon and Google are set to hold ~15% and ~14% of Anthropic’s outstanding capital stock, respectively, after its IPO and private placement](https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo) (Bloomberg)
+  * [Alphabet’s Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials](https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round) (Bloomberg)
+  * [A week with Apple Watch’s Siri Recap and Live Rewind in beta: they can be inaccurate, lag Amazon Bee, Granola, and Otter, and rarely justify the privacy costs](https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value) (Bloomberg)
+
+
+
 **Monday, November 16 2026 - Can Jensen Huang Pull a Sam Altman?**
 
   * [Sources: Jensen Huang has discussed a comeback as Nvidia’s CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b) (FT)

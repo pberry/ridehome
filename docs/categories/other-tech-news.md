@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Sources say: Jensen Huang’s daughter Madison remains in a senior Nvidia role, where she acted as his de facto chief of staff, raising questions for interim CEO Colette Kress](https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR) (The New York Times)
+- [Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US](https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=1Tm7UU) (WSJ)
 - [Sources: Jensen Huang has discussed a comeback as Nvidia’s CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support](https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b) (FT)
 - [A “Stand with Jensen” petition to reinstate Huang topped 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan, with organizers saying the board removed him without due process](https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11) (Business Insider)
 - [Trump called Jensen Huang on Tuesday and urged him to keep fighting for his job, viewing the spy scandal mainly through the lens of adultery and Nvidia as too big to fail](https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html?unlocked_article_code=1.QFE.mXJe.jjB9cqW6A20p) (NYTimes)

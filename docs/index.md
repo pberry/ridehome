@@ -3,14 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, November 16, 2026 - Can Jensen Huang Pull a Sam Altman?</h3>
+  <h3>Tuesday, November 17, 2026 - Jensen Wants Back In!</h3>
   <ul>
-    <li><a href="https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b">Sources: Jensen Huang has discussed a comeback as Nvidia’s CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support</a> (FT) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11">A “Stand with Jensen” petition to reinstate Huang topped 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan, with organizers saying the board removed him without due process</a> (Business Insider) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://stratechery.com/2026/obituaries/">Ben Thompson: Huang built Nvidia as an exoskeleton around himself with no checks on him, but the chip-ban rules that doomed him are a misguided turn toward control over innovation</a> (Stratechery) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29">Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32">Wall Street’s 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades</a> (FT) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom">Sources: Anthropic’s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee">Nvidia’s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more</a> (Nvidia Newsroom) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb">Nvidia’s new export control committee will be chaired by ex-Goldman vice-chair Suzanne Nora Johnson, as Trump calls it a “great idea” and lawmakers prep a crackdown on AI chips reaching China</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html">Nvidia’s board is not considering bringing Jensen Huang back as CEO and is focused on a Wachtell Lipton-led probe into whether his conduct compromised national security</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR">Sources say: Jensen Huang’s daughter Madison remains in a senior Nvidia role, where she acted as his de facto chief of staff, raising questions for interim CEO Colette Kress</a> (The New York Times) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=1Tm7UU">Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US</a> (WSJ) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo">SEC filing: Amazon and Google are set to hold ~15% and ~14% of Anthropic’s outstanding capital stock, respectively, after its IPO and private placement</a> (Bloomberg) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round">Alphabet’s Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value">A week with Apple Watch’s Siri Recap and Live Rewind in beta: they can be inaccurate, lag Amazon Bee, Granola, and Otter, and rarely justify the privacy costs</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
   </ul>
 </section>
 
@@ -36,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-16T17:36:59-08:00">November 16, 2026 at 05:36 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-17T16:34:14-08:00">November 17, 2026 at 04:34 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,448</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,456</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,809</span></li>
       </ul>
     </div>
@@ -50,18 +52,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(123 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(61 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(125 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(62 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(273 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(136 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(103 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(274 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(135 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(106 links)</span></li>
       </ol>
     </div>
   </div>
