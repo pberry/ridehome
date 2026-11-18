@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Nvidia’s board unanimously accepted Jensen Huang’s resignation and does not intend to reinstate him as CEO, and won’t take questions on the circumstances or the ongoing investigation](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo) (The Verge)
+- [Nvidia is abandoning China after Huang’s ouster, no longer selling even the lesser H200 chips, as new export rules bar advanced US chips from foreign data centers serving Chinese customers](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/) (TechCrunch)
+- [The SEC is investigating Nvidia, including whether its disclosures misled investors about Huang’s relationship with Megaspeed executive Alice Huang and its Singapore chip sales](https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd) (WSJ)
 - [Nvidia’s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee) (Nvidia Newsroom)
 - [Nvidia’s new export control committee will be chaired by ex-Goldman vice-chair Suzanne Nora Johnson, as Trump calls it a “great idea” and lawmakers prep a crackdown on AI chips reaching China](https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb) (FT)
 - [Nvidia’s board is not considering bringing Jensen Huang back as CEO and is focused on a Wachtell Lipton-led probe into whether his conduct compromised national security](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html) (CNBC)

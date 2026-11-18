@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra’s cost](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (OpenAI)
+- [OpenAI’s GPT-6.2 Astra gets a negative reception from power users, with Matt Shumer calling the models “essentially unusable” and Theo Browne calling Astra “the worst model OpenAI has ever released”](https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users) (VentureBeat)
 - [Alphabet’s Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials](https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round) (Bloomberg)
 - [Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) (Google)
 - [Gemini 4 Hydrogen replaces 3.8 Flash across Google’s products, running 2.5x faster in high mode, cutting “fabricated claims” 5x, and scoring 54 on the Artificial Analysis index vs. 50 for Argon](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/) (Ars Technica)

@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above est.; NVDA rises 3%](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027) (Nvidia)
 - [Jensen Huang resigns as Nvidia CEO, president, and board member; CFO Colette Kress will serve as interim CEO as the board considers candidates; NVDA drops 5%+](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) (Nvidia)
 - [Trump says Tim Cook is the “only one man” to replace Jensen Huang as Nvidia CEO, adding “A Legend replaces a Legend!” and Huang “has done a fantastic job”](https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/) (9to5Mac)
 - [Nvidia’s difficult search for Huang’s successor: Apple’s Johny Srouji, Arm’s Rene Haas, AMD’s Lisa Su, AWS’s Matt Garman, Micron’s Sanjay Mehrotra, Google’s Amin Vahdat, and son-in-law Nico Caprez all in the mix](https://www.bloomberg.com/news/articles/2026-11-12/nvidia-drama-triggers-difficult-search-for-huang-s-successor) (Bloomberg)

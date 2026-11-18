@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, November 18 2026 - Nvidia Walks Away From China**
+
+  * [Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above est.; NVDA rises 3%](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027) (Nvidia)
+  * [Nvidia’s board unanimously accepted Jensen Huang’s resignation and does not intend to reinstate him as CEO, and won’t take questions on the circumstances or the ongoing investigation](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo) (The Verge)
+  * [Nvidia is abandoning China after Huang’s ouster, no longer selling even the lesser H200 chips, as new export rules bar advanced US chips from foreign data centers serving Chinese customers](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/) (TechCrunch)
+  * [The SEC is investigating Nvidia, including whether its disclosures misled investors about Huang’s relationship with Megaspeed executive Alice Huang and its Singapore chip sales](https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd) (WSJ)
+  * [OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra’s cost](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (OpenAI)
+  * [OpenAI’s GPT-6.2 Astra gets a negative reception from power users, with Matt Shumer calling the models “essentially unusable” and Theo Browne calling Astra “the worst model OpenAI has ever released”](https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users) (VentureBeat)
+  * [Sources: Wall Street execs and the NSA told Congress this week’s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models](https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages) (Washington Sun)
+  * [AI-driven cyberattacks and an avalanche of patches created a pressure cooker; the outages at Microsoft, the FAA, Chase, the NSA, Workday, Apple and United were mostly upgrades gone wrong, not hacks](https://www.wsj.com/tech/cybersecurity/outages-bug-patches-microsoft-faa-apple-nsa-5a0b1ea5) (WSJ)
+  * [Outages roil public trust: panic-buying at Costco, Rubio saying there’s no evidence the breakdowns were related or hostile, and Sen. Warner blaming the speed of AI-driven vulnerability discovery](https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust) (Bloomberg)
+
+
+
 **Tuesday, November 17 2026 - Jensen Wants Back In!**
 
   * [Nvidia’s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more](https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee) (Nvidia Newsroom)
