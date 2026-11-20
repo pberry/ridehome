@@ -10,6 +10,12 @@ title: Weekend Longreads 2026
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, November 20 2026**
+
+  * [Current and former Nvidia staffers describe decades of abusive behavior and humiliation by Jensen Huang, who they say ruled through fear](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html?unlocked_article_code=1.R1E.IEmx.Gn88RJ0uVjFO) (The New York Times)
+
+
+
 **Friday, November 13 2026**
 
   * [Forward-deployed engineers, the role Palantir made famous, are drawing $586,000 to $1.45 million a year as companies start hiring them in-house](https://www.wsj.com/cio-journal/demand-for-forward-deployed-engineers-is-leading-to-1-5-million-paychecks-c1cd713a) (WSJ)

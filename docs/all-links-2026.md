@@ -5,6 +5,17 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Friday, November 20 2026 - Jensen Huang's Culture of Fear?**
+
+  * [Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) (Reuters)
+  * [Anthropic’s first day of trading brought investors relief and minted at least eight billionaires, with about $120B raised across the IPO and a parallel private placement](https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html) (The New York Times)
+  * [Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) (Search Engine Roundtable)
+  * [Google’s AI answers push traditional search ads lower, and advertisers are shifting dollars to Tubi, Bing, Reddit and Nextdoor as search ads fall below 50% of Google’s quarterly revenue](https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html) (The New York Times)
+  * [Google built a “Mirror Dimension”, an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents](https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/) (Wired)
+  * [Uber quietly launched Uber Kids as a pilot in three US cities for kids as young as 10, building on its teen ride-hailing service for those aged 13 to 17](https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/) (TechCrunch)
+
+
+
 **Thursday, November 19 2026 - Anthropic Hits a $2 Trillion Debut**
 
   * [Anthropic prices its upsized IPO at $83 per share, above the $70 to $78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (CNBC)

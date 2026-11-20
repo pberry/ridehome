@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) (Search Engine Roundtable)
+- [Google’s AI answers push traditional search ads lower, and advertisers are shifting dollars to Tubi, Bing, Reddit and Nextdoor as search ads fall below 50% of Google’s quarterly revenue](https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html) (The New York Times)
+- [Google built a “Mirror Dimension”, an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents](https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/) (Wired)
 - [Anthropic’s “Ants” shrug at the IPO payday, preoccupied with how to slow down AI after a spate of rogue agent episodes, as Jack Clark and AI Futures Project move superhuman AI researchers up to 2027](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph) (NYTimes)
 - [Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) (Google)
 - [Gemini 4 Neon matches or beats Carbon across coding, reasoning, and agentic tasks at Flash speeds and lower cost, priced at $3/1M input tokens and $15/1M output tokens](https://9to5google.com/2026/11/18/gemini-4-neon-announcement/) (9to5Google)

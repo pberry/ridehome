@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) (Reuters)
+- [Anthropic’s first day of trading brought investors relief and minted at least eight billionaires, with about $120B raised across the IPO and a parallel private placement](https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html) (The New York Times)
 - [Anthropic prices its upsized IPO at $83 per share, above the $70 to $78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (CNBC)
 - [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html) (CNBC)
 - [Investors exhale as Anthropic’s IPO, seen as a major test for the AI trade, draws strong demand, with Dario Amodei helping ring the Nasdaq opening bell](https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026) (WSJ)
