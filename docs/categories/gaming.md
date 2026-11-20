@@ -7,6 +7,10 @@ layout: category
 
 ## 2026
 
+### November
+
+- [GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design](https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk5OTYzNCwiZXhwIjoxNzk1NjA0NDM0LCJhcnRpY2xlSWQiOiJUT1AyS0hLR0lGUTgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.pks5MCyquJRoPSiA_59TfyguHaO8mfXluOkX8OZaVSY) (Bloomberg)
+
 ### October
 
 - [The making of Rockstar’s GTA VI, which analysts expect to sell 40M copies and make $3B+ in revenue in its first four months; Rockstar now has 4,711 staff](https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of/) (Bloomberg)

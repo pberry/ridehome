@@ -5,6 +5,18 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Thursday, November 19 2026 - Anthropic Hits a $2 Trillion Debut**
+
+  * [Anthropic prices its upsized IPO at $83 per share, above the $70 to $78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (CNBC)
+  * [Anthropic’s “Ants” shrug at the IPO payday, preoccupied with how to slow down AI after a spate of rogue agent episodes, as Jack Clark and AI Futures Project move superhuman AI researchers up to 2027](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph) (NYTimes)
+  * [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html) (CNBC)
+  * [Investors exhale as Anthropic’s IPO, seen as a major test for the AI trade, draws strong demand, with Dario Amodei helping ring the Nasdaq opening bell](https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026) (WSJ)
+  * [Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) (Google)
+  * [Gemini 4 Neon matches or beats Carbon across coding, reasoning, and agentic tasks at Flash speeds and lower cost, priced at $3/1M input tokens and $15/1M output tokens](https://9to5google.com/2026/11/18/gemini-4-neon-announcement/) (9to5Google)
+  * [GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design](https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk5OTYzNCwiZXhwIjoxNzk1NjA0NDM0LCJhcnRpY2xlSWQiOiJUT1AyS0hLR0lGUTgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.pks5MCyquJRoPSiA_59TfyguHaO8mfXluOkX8OZaVSY) (Bloomberg)
+
+
+
 **Wednesday, November 18 2026 - Nvidia Walks Away From China**
 
   * [Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above est.; NVDA rises 3%](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027) (Nvidia)

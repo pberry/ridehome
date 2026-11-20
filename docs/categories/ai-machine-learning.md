@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Anthropic’s “Ants” shrug at the IPO payday, preoccupied with how to slow down AI after a spate of rogue agent episodes, as Jack Clark and AI Futures Project move superhuman AI researchers up to 2027](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph) (NYTimes)
+- [Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) (Google)
+- [Gemini 4 Neon matches or beats Carbon across coding, reasoning, and agentic tasks at Flash speeds and lower cost, priced at $3/1M input tokens and $15/1M output tokens](https://9to5google.com/2026/11/18/gemini-4-neon-announcement/) (9to5Google)
 - [OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra’s cost](https://openai.com/index/introducing-gpt-6-2-astra-sol/) (OpenAI)
 - [OpenAI’s GPT-6.2 Astra gets a negative reception from power users, with Matt Shumer calling the models “essentially unusable” and Theo Browne calling Astra “the worst model OpenAI has ever released”](https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users) (VentureBeat)
 - [Alphabet’s Isomorphic Labs raised a $5B Series C led by Sequoia and Greenoaks, after raising $2.1B in May and $600M in March 2025, to accelerate clinical trials](https://www.bloomberg.com/news/articles/2026-11-17/sequoia-greenoaks-lead-isomorphic-lab-s-5-billion-funding-round) (Bloomberg)

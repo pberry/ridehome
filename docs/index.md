@@ -3,17 +3,15 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Wednesday, November 18, 2026 - Nvidia Walks Away From China</h3>
+  <h3>Thursday, November 19, 2026 - Anthropic Hits a $2 Trillion Debut</h3>
   <ul>
-    <li><a href="https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027">Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above est.; NVDA rises 3%</a> (Nvidia) &mdash; 🤖 <a href="categories/hardware-chips.html" class="ai-category">Hardware/Chips</a></li>
-    <li><a href="https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo">Nvidia’s board unanimously accepted Jensen Huang’s resignation and does not intend to reinstate him as CEO, and won’t take questions on the circumstances or the ongoing investigation</a> (The Verge) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/">Nvidia is abandoning China after Huang’s ouster, no longer selling even the lesser H200 chips, as new export rules bar advanced US chips from foreign data centers serving Chinese customers</a> (TechCrunch) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd">The SEC is investigating Nvidia, including whether its disclosures misled investors about Huang’s relationship with Megaspeed executive Alice Huang and its Singapore chip sales</a> (WSJ) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra’s cost</a> (OpenAI) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users">OpenAI’s GPT-6.2 Astra gets a negative reception from power users, with Matt Shumer calling the models “essentially unusable” and Theo Browne calling Astra “the worst model OpenAI has ever released”</a> (VentureBeat) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages">Sources: Wall Street execs and the NSA told Congress this week’s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models</a> (Washington Sun) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.wsj.com/tech/cybersecurity/outages-bug-patches-microsoft-faa-apple-nsa-5a0b1ea5">AI-driven cyberattacks and an avalanche of patches created a pressure cooker; the outages at Microsoft, the FAA, Chase, the NSA, Workday, Apple and United were mostly upgrades gone wrong, not hacks</a> (WSJ) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust">Outages roil public trust: panic-buying at Costco, Rubio saying there’s no evidence the breakdowns were related or hostile, and Sen. Warner blaming the speed of AI-driven vulnerability discovery</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html">Anthropic prices its upsized IPO at $83 per share, above the $70 to $78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html?unlocked_article_code=1.RVE.AUKz.AkiqfoAGG5ph">Anthropic’s “Ants” shrug at the IPO payday, preoccupied with how to slow down AI after a spate of rogue agent episodes, as Jack Clark and AI Futures Project move superhuman AI researchers up to 2027</a> (NYTimes) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html">Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry</a> (CNBC) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026">Investors exhale as Anthropic’s IPO, seen as a major test for the AI trade, draws strong demand, with Dario Amodei helping ring the Nasdaq opening bell</a> (WSJ) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
+    <li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app</a> (Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://9to5google.com/2026/11/18/gemini-4-neon-announcement/">Gemini 4 Neon matches or beats Carbon across coding, reasoning, and agentic tasks at Flash speeds and lower cost, priced at $3/1M input tokens and $15/1M output tokens</a> (9to5Google) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk5OTYzNCwiZXhwIjoxNzk1NjA0NDM0LCJhcnRpY2xlSWQiOiJUT1AyS0hLR0lGUTgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.pks5MCyquJRoPSiA_59TfyguHaO8mfXluOkX8OZaVSY">GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design</a> (Bloomberg) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
   </ul>
 </section>
 
@@ -39,13 +37,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-18T15:54:30-08:00">November 18, 2026 at 03:54 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-19T16:19:35-08:00">November 19, 2026 at 04:19 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,465</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,472</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,809</span></li>
       </ul>
     </div>
@@ -53,16 +51,16 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(127 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(275 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(278 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(135 links)</span></li>
         <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
       </ol>

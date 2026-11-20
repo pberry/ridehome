@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Anthropic prices its upsized IPO at $83 per share, above the $70 to $78 marketed range, raising $81.3B in the largest offering on record, topping SpaceX](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) (CNBC)
+- [Anthropic makes its Nasdaq debut at $111.50 per share after pricing at $83 each, giving it a ~$2T market cap, in a historic moment for the AI industry](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html) (CNBC)
+- [Investors exhale as Anthropic’s IPO, seen as a major test for the AI trade, draws strong demand, with Dario Amodei helping ring the Nasdaq opening bell](https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026) (WSJ)
 - [SEC filing: Amazon and Google are set to hold ~15% and ~14% of Anthropic’s outstanding capital stock, respectively, after its IPO and private placement](https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo) (Bloomberg)
 - [Wall Street’s 10 biggest IPOs of 2026, including SpaceX, SK, and Cerebras, have fallen by an average of 20.5% from their offer prices, as the AI frenzy fades](https://www.ft.com/content/7974acec-e378-4298-a1a7-2b16b00d8b32) (FT)
 - [Sources: Anthropic’s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement](https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom) (Bloomberg)
