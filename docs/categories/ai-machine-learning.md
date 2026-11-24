@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B](https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech) (Bloomberg)
+- [Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) (Scientific American)
+- [An Anthropic researcher says Claude proved both the standard and generalized Riemann hypothesis; the full proof runs to 250,000+ pages and hasn't been released, but the Lean version has millions of lines of code](https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/) (SiliconAngle)
 - [Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches](https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html) (Search Engine Roundtable)
 - [Google’s AI answers push traditional search ads lower, and advertisers are shifting dollars to Tubi, Bing, Reddit and Nextdoor as search ads fall below 50% of Google’s quarterly revenue](https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html) (The New York Times)
 - [Google built a “Mirror Dimension”, an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents](https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/) (Wired)

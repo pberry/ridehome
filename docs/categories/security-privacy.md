@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [CrowdStrike agrees to acquire Zscaler, which develops network security tools, for ~$43.9B in an all-stock deal, one of the largest-ever deals in the sector](https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler) (Bloomberg)
 - [Sources: Wall Street execs and the NSA told Congress this week’s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models](https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages) (Washington Sun)
 - [AI-driven cyberattacks and an avalanche of patches created a pressure cooker; the outages at Microsoft, the FAA, Chase, the NSA, Workday, Apple and United were mostly upgrades gone wrong, not hacks](https://www.wsj.com/tech/cybersecurity/outages-bug-patches-microsoft-faa-apple-nsa-5a0b1ea5) (WSJ)
 - [Outages roil public trust: panic-buying at Costco, Rubio saying there’s no evidence the breakdowns were related or hostile, and Sen. Warner blaming the speed of AI-driven vulnerability discovery](https://www.bloomberg.com/news/articles/2026-11-17/tech-paranoia-intensifies-after-outages-roil-public-trust) (Bloomberg)

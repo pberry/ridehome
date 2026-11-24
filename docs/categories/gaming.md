@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Take-Two says GTA VI generated $3.79B in day-one sales, surpassing the $2.9B lifetime box-office gross of the highest-grossing film Avengers: Endgame](https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198/) (Variety)
+- [Estimates: GTA VI sold through 44.9M copies and grossed $4B+ in four days, with ~40.8M daily players on Sunday, while Call of Duty's daily active users fell 42%](https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b) (Alinea Analytics)
 - [GTA VI review: an unparalleled technical and comedic masterpiece, with elaborate depictions of a heightened reality and an unpredictable environment by design](https://www.bloomberg.com/news/features/2026-11-18/gta-6-review-rockstar-games-latest-is-a-masterpiece?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDk5OTYzNCwiZXhwIjoxNzk1NjA0NDM0LCJhcnRpY2xlSWQiOiJUT1AyS0hLR0lGUTgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.pks5MCyquJRoPSiA_59TfyguHaO8mfXluOkX8OZaVSY) (Bloomberg)
 
 ### October

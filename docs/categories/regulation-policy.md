@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding “no national security risk”; NVDA jumps 30%+](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) (Nvidia)
+- [Huang returns weeks after resigning over reports of extramarital affairs, including one with an alleged Chinese spy; the board says input from senior US government officials convinced it he poses no national security risk](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (CNBC)
+- [Source: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he “was totally involved” and “we have to protect our geniuses”](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo) (Semafor)
 - [Nvidia’s board unanimously accepted Jensen Huang’s resignation and does not intend to reinstate him as CEO, and won’t take questions on the circumstances or the ongoing investigation](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo) (The Verge)
 - [Nvidia is abandoning China after Huang’s ouster, no longer selling even the lesser H200 chips, as new export rules bar advanced US chips from foreign data centers serving Chinese customers](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/) (TechCrunch)
 - [The SEC is investigating Nvidia, including whether its disclosures misled investors about Huang’s relationship with Megaspeed executive Alice Huang and its Singapore chip sales](https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?st=JDfemd) (WSJ)

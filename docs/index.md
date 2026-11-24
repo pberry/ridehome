@@ -3,14 +3,17 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Friday, November 20, 2026 - Jensen Huang's Culture of Fear?</h3>
+  <h3>Monday, November 23, 2026 - Jensen Huang Is Back. Did Trump Make the Call?</h3>
   <ul>
-    <li><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price</a> (Reuters) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html">Anthropic’s first day of trading brought investors relief and minted at least eight billionaires, with about $120B raised across the IPO and a parallel private placement</a> (The New York Times) &mdash; 🤖 <a href="categories/ipo.html" class="ai-category">IPO</a></li>
-    <li><a href="https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html">Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches</a> (Search Engine Roundtable) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html">Google’s AI answers push traditional search ads lower, and advertisers are shifting dollars to Tubi, Bing, Reddit and Nextdoor as search ads fall below 50% of Google’s quarterly revenue</a> (The New York Times) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/">Google built a “Mirror Dimension”, an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents</a> (Wired) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/">Uber quietly launched Uber Kids as a pilot in three US cities for kids as young as 10, building on its teen ride-hailing service for those aged 13 to 17</a> (TechCrunch) &mdash; 🤖 <a href="categories/automotive-mobility.html" class="ai-category">Automotive/Mobility</a></li>
+    <li><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding “no national security risk”; NVDA jumps 30%+</a> (Nvidia) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Huang returns weeks after resigning over reports of extramarital affairs, including one with an alleged Chinese spy; the board says input from senior US government officials convinced it he poses no national security risk</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo">Source: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he “was totally involved” and “we have to protect our geniuses”</a> (Semafor) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler">CrowdStrike agrees to acquire Zscaler, which develops network security tools, for ~$43.9B in an all-stock deal, one of the largest-ever deals in the sector</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech">Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198/">Take-Two says GTA VI generated $3.79B in day-one sales, surpassing the $2.9B lifetime box-office gross of the highest-grossing film Avengers: Endgame</a> (Variety) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b">Estimates: GTA VI sold through 44.9M copies and grossed $4B+ in four days, with ~40.8M daily players on Sunday, while Call of Duty's daily active users fell 42%</a> (Alinea Analytics) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language</a> (Scientific American) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/">An Anthropic researcher says Claude proved both the standard and generalized Riemann hypothesis; the full proof runs to 250,000+ pages and hasn't been released, but the Lean version has millions of lines of code</a> (SiliconAngle) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -36,13 +39,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-20T15:42:02-08:00">November 20, 2026 at 03:42 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-23T19:50:27-08:00">November 23, 2026 at 07:50 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,478</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,487</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,810</span></li>
       </ul>
     </div>
@@ -50,18 +53,18 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(127 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(128 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(281 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(135 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(108 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(132 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(109 links)</span></li>
       </ol>
     </div>
   </div>

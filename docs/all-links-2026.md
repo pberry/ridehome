@@ -5,6 +5,20 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Monday, November 23 2026 - Jensen Huang Is Back. Did Trump Make the Call?**
+
+  * [Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding “no national security risk”; NVDA jumps 30%+](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) (Nvidia)
+  * [Huang returns weeks after resigning over reports of extramarital affairs, including one with an alleged Chinese spy; the board says input from senior US government officials convinced it he poses no national security risk](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) (CNBC)
+  * [Source: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he “was totally involved” and “we have to protect our geniuses”](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo) (Semafor)
+  * [CrowdStrike agrees to acquire Zscaler, which develops network security tools, for ~$43.9B in an all-stock deal, one of the largest-ever deals in the sector](https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler) (Bloomberg)
+  * [Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B](https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech) (Bloomberg)
+  * [Take-Two says GTA VI generated $3.79B in day-one sales, surpassing the $2.9B lifetime box-office gross of the highest-grossing film Avengers: Endgame](https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198/) (Variety)
+  * [Estimates: GTA VI sold through 44.9M copies and grossed $4B+ in four days, with ~40.8M daily players on Sunday, while Call of Duty's daily active users fell 42%](https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b) (Alinea Analytics)
+  * [Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) (Scientific American)
+  * [An Anthropic researcher says Claude proved both the standard and generalized Riemann hypothesis; the full proof runs to 250,000+ pages and hasn't been released, but the Lean version has millions of lines of code](https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/) (SiliconAngle)
+
+
+
 **Friday, November 20 2026 - Jensen Huang's Culture of Fear?**
 
   * [Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) (Reuters)
