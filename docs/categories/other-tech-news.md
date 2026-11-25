@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Jensen Huang returned to Nvidia HQ to chants from employees, said "I'm terribly sorry for putting all of you through all of this," and promised to be "a better CEO the second time around"](https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11) (Business Insider)
 - [Current and former Nvidia staffers describe decades of abusive behavior and humiliation by Jensen Huang, who they say ruled through fear](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html?unlocked_article_code=1.R1E.IEmx.Gn88RJ0uVjFO) (The New York Times)
 - [Sources say: Jensen Huang’s daughter Madison remains in a senior Nvidia role, where she acted as his de facto chief of staff, raising questions for interim CEO Colette Kress](https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR) (The New York Times)
 - [Jensen Huang breaks silence, saying he is willing to return as Nvidia CEO if the board decides it is in the best interest of shareholders, employees, and the US](https://www.wsj.com/tech/jensen-huang-statement-nvidia-ceo-9dedca36?st=1Tm7UU) (WSJ)

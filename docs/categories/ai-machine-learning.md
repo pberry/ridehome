@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
+- [The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate](https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check) (The Deep View)
 - [Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B](https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech) (Bloomberg)
 - [Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language](https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/) (Scientific American)
 - [An Anthropic researcher says Claude proved both the standard and generalized Riemann hypothesis; the full proof runs to 250,000+ pages and hasn't been released, but the Lean version has millions of lines of code](https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/) (SiliconAngle)

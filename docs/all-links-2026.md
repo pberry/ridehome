@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Tuesday, November 24 2026 - How Jensen Got His Job Back**
+
+  * [Sources: Trump had JD Vance lead the push to reinstate Jensen Huang, including working to assure Nvidia's board that Huang was not facing criminal charges](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html?unlocked_article_code=1.SlE.plCA.zs7Mh9MXa5RG) (NYTimes)
+  * [Jensen Huang returned to Nvidia HQ to chants from employees, said "I'm terribly sorry for putting all of you through all of this," and promised to be "a better CEO the second time around"](https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11) (Business Insider)
+  * [Sources: A "war room" of Huang allies, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and Vance to get Huang reinstated as Nvidia CEO](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc) (FT)
+  * [Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
+  * [Sony says GTA VI is the biggest launch in PlayStation history across five generations, with 39M+ unique PS5 players logging 683M hours from November 19 to 22](https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/) (PlayStation Blog)
+  * [GTA VI set the PS5 record for concurrent players, averaged 17.4 hours per player over opening weekend, and was the first game booted on 70%+ of newly connected consoles](https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009) (Kotaku)
+  * [The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate](https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check) (The Deep View)
+  * [Internal memos: Microsoft declared a "Code Red" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage](https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/) (Reuters)
+
+
+
 **Monday, November 23 2026 - Jensen Huang Is Back. Did Trump Make the Call?**
 
   * [Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding “no national security risk”; NVDA jumps 30%+](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) (Nvidia)

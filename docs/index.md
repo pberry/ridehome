@@ -3,17 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Monday, November 23, 2026 - Jensen Huang Is Back. Did Trump Make the Call?</h3>
+  <h3>Tuesday, November 24, 2026 - How Jensen Got His Job Back</h3>
   <ul>
-    <li><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding “no national security risk”; NVDA jumps 30%+</a> (Nvidia) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Huang returns weeks after resigning over reports of extramarital affairs, including one with an alleged Chinese spy; the board says input from senior US government officials convinced it he poses no national security risk</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo">Source: Trump dialed into Nvidia's board meeting to argue for Huang's return; a US official says he “was totally involved” and “we have to protect our geniuses”</a> (Semafor) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler">CrowdStrike agrees to acquire Zscaler, which develops network security tools, for ~$43.9B in an all-stock deal, one of the largest-ever deals in the sector</a> (Bloomberg) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
-    <li><a href="https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech">Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B</a> (Bloomberg) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://variety.com/2026/gaming/news/gta-6-sales-3-79-billion-1236954198/">Take-Two says GTA VI generated $3.79B in day-one sales, surpassing the $2.9B lifetime box-office gross of the highest-grossing film Avengers: Endgame</a> (Variety) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://alineaanalytics.substack.com/p/gta-6-sells-449m-copies-makes-40b">Estimates: GTA VI sold through 44.9M copies and grossed $4B+ in four days, with ~40.8M daily players on Sunday, while Call of Duty's daily active users fell 42%</a> (Alinea Analytics) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/">Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language</a> (Scientific American) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://siliconangle.com/2026/11/20/anthropic-researcher-claims-to-have-proven-riemann-hypothesis-using-claude/">An Anthropic researcher says Claude proved both the standard and generalized Riemann hypothesis; the full proof runs to 250,000+ pages and hasn't been released, but the Lean version has millions of lines of code</a> (SiliconAngle) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html?unlocked_article_code=1.SlE.plCA.zs7Mh9MXa5RG">Sources: Trump had JD Vance lead the push to reinstate Jensen Huang, including working to assure Nvidia's board that Huang was not facing criminal charges</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11">Jensen Huang returned to Nvidia HQ to chants from employees, said "I'm terribly sorry for putting all of you through all of this," and promised to be "a better CEO the second time around"</a> (Business Insider) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc">Sources: A "war room" of Huang allies, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and Vance to get Huang reinstated as Nvidia CEO</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/">Sony says GTA VI is the biggest launch in PlayStation history across five generations, with 39M+ unique PS5 players logging 683M hours from November 19 to 22</a> (PlayStation Blog) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009">GTA VI set the PS5 record for concurrent players, averaged 17.4 hours per player over opening weekend, and was the first game booted on 70%+ of newly connected consoles</a> (Kotaku) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
+    <li><a href="https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check">The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/">Internal memos: Microsoft declared a "Code Red" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage</a> (Reuters) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
   </ul>
 </section>
 
@@ -39,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-23T19:50:27-08:00">November 23, 2026 at 07:50 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-24T17:55:49-08:00">November 24, 2026 at 05:55 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,487</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,495</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,810</span></li>
       </ul>
     </div>
@@ -53,8 +52,8 @@
     <div class="status-card">
       <h3>Top Sources <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(128 links)</span></li>
-        <li><span class="stat-label">The Verge</span> <span class="stat-value">(84 links)</span></li>
+        <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
+        <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
         <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
       </ol>
     </div>
@@ -63,8 +62,8 @@
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
         <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
-        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(132 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(109 links)</span></li>
+        <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(130 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(111 links)</span></li>
       </ol>
     </div>
   </div>
