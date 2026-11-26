@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [Anthropic rolls out "Install as app" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more](https://claude.com/resources/articles/install-as-app) (Anthropic)
+- [Anthropic says Claude users can now create, run, and share artifacts as desktop apps, capping a year that began with Claude stoking fears of software disruption](https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45) (WSJ)
 - [Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
 - [The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate](https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check) (The Deep View)
 - [Amazon agrees to acquire much of startup Decart, including the Decart Optimization Stack and its founding team and AI researchers, a source says for ~$7.5B](https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech) (Bloomberg)

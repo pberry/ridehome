@@ -9,6 +9,7 @@ layout: category
 
 ### November
 
+- [Sources: Jensen Huang tells employees Nvidia doesn't need a succession plan because of its unique business model, and that such a plan would create unnecessary hierarchy](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) (CNBC)
 - [Jensen Huang returned to Nvidia HQ to chants from employees, said "I'm terribly sorry for putting all of you through all of this," and promised to be "a better CEO the second time around"](https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11) (Business Insider)
 - [Current and former Nvidia staffers describe decades of abusive behavior and humiliation by Jensen Huang, who they say ruled through fear](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html?unlocked_article_code=1.R1E.IEmx.Gn88RJ0uVjFO) (The New York Times)
 - [Sources say: Jensen Huang’s daughter Madison remains in a senior Nvidia role, where she acted as his de facto chief of staff, raising questions for interim CEO Colette Kress](https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html?unlocked_article_code=1.RFE.d0Ui.v_uJvV3zdxPR) (The New York Times)

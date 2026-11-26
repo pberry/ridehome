@@ -9,6 +9,8 @@ layout: category
 
 ### November
 
+- [The US Treasury's FinCEN says it is investigating a cybersecurity incident that "resulted in unauthorized access to a limited subset of its systems"](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident) (The Verge)
+- [Sources: The CIA, NGA, and ODNI found a breach of an unclassified open-source intelligence system, believed to have been carried out with Artex, an AI hacking tool released by a Chinese engineer](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT) (NYTimes)
 - [CrowdStrike agrees to acquire Zscaler, which develops network security tools, for ~$43.9B in an all-stock deal, one of the largest-ever deals in the sector](https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler) (Bloomberg)
 - [Sources: Wall Street execs and the NSA told Congress this week’s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models](https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages) (Washington Sun)
 - [AI-driven cyberattacks and an avalanche of patches created a pressure cooker; the outages at Microsoft, the FAA, Chase, the NSA, Workday, Apple and United were mostly upgrades gone wrong, not hacks](https://www.wsj.com/tech/cybersecurity/outages-bug-patches-microsoft-faa-apple-nsa-5a0b1ea5) (WSJ)

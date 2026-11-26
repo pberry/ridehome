@@ -5,6 +5,19 @@
 <div class="page-with-sidebar" markdown="1">
 <div class="page-main-content" markdown="1">
 
+**Wednesday, November 25 2026 - Would Trump Pardon Jensen Huang?**
+
+  * [Trump says a pardon for Jensen Huang is "always an option" but likely unnecessary, and it's "probably not too late" for the US to take an equity stake in Nvidia](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
+  * [Trump says Huang shouldn't need to plead the Fifth at his House and Senate appearances next week; Rep. Jamie Raskin calls the whole thing "a money-making operation"](https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html) (CNBC)
+  * [Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny](https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html?unlocked_article_code=1.S1E.egnY.QfAUEI4qFyhS) (NYTimes)
+  * [Sources: Jensen Huang tells employees Nvidia doesn't need a succession plan because of its unique business model, and that such a plan would create unnecessary hierarchy](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) (CNBC)
+  * [The US Treasury's FinCEN says it is investigating a cybersecurity incident that "resulted in unauthorized access to a limited subset of its systems"](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident) (The Verge)
+  * [Sources: The CIA, NGA, and ODNI found a breach of an unclassified open-source intelligence system, believed to have been carried out with Artex, an AI hacking tool released by a Chinese engineer](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT) (NYTimes)
+  * [Anthropic rolls out "Install as app" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more](https://claude.com/resources/articles/install-as-app) (Anthropic)
+  * [Anthropic says Claude users can now create, run, and share artifacts as desktop apps, capping a year that began with Claude stoking fears of software disruption](https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45) (WSJ)
+
+
+
 **Tuesday, November 24 2026 - How Jensen Got His Job Back**
 
   * [Sources: Trump had JD Vance lead the push to reinstate Jensen Huang, including working to assure Nvidia's board that Huang was not facing criminal charges](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html?unlocked_article_code=1.SlE.plCA.zs7Mh9MXa5RG) (NYTimes)

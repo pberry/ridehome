@@ -3,16 +3,16 @@
 
 <section class="recent-shows">
   <h2>Most Recent Episode</h2>
-  <h3>Tuesday, November 24, 2026 - How Jensen Got His Job Back</h3>
+  <h3>Wednesday, November 25, 2026 - Would Trump Pardon Jensen Huang?</h3>
   <ul>
-    <li><a href="https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html?unlocked_article_code=1.SlE.plCA.zs7Mh9MXa5RG">Sources: Trump had JD Vance lead the push to reinstate Jensen Huang, including working to assure Nvidia's board that Huang was not facing criminal charges</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11">Jensen Huang returned to Nvidia HQ to chants from employees, said "I'm terribly sorry for putting all of you through all of this," and promised to be "a better CEO the second time around"</a> (Business Insider) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
-    <li><a href="https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc">Sources: A "war room" of Huang allies, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and Vance to get Huang reinstated as Nvidia CEO</a> (FT) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
-    <li><a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly</a> (Axios) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/">Sony says GTA VI is the biggest launch in PlayStation history across five generations, with 39M+ unique PS5 players logging 683M hours from November 19 to 22</a> (PlayStation Blog) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009">GTA VI set the PS5 record for concurrent players, averaged 17.4 hours per player over opening weekend, and was the first game booted on 70%+ of newly connected consoles</a> (Kotaku) &mdash; 🤖 <a href="categories/gaming.html" class="ai-category">Gaming</a></li>
-    <li><a href="https://www.thedeepview.com/articles/exclusive-openclaw-offers-an-agent-reality-check">The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate</a> (The Deep View) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
-    <li><a href="https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/">Internal memos: Microsoft declared a "Code Red" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage</a> (Reuters) &mdash; 🤖 <a href="categories/cloud-enterprise.html" class="ai-category">Cloud/Enterprise</a></li>
+    <li><a href="https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/">Trump says a pardon for Jensen Huang is "always an option" but likely unnecessary, and it's "probably not too late" for the US to take an equity stake in Nvidia</a> (New York Post) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html">Trump says Huang shouldn't need to plead the Fifth at his House and Senate appearances next week; Rep. Jamie Raskin calls the whole thing "a money-making operation"</a> (CNBC) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html?unlocked_article_code=1.S1E.egnY.QfAUEI4qFyhS">Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny</a> (NYTimes) &mdash; 🤖 <a href="categories/regulation-policy.html" class="ai-category">Regulation/Policy</a></li>
+    <li><a href="https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html">Sources: Jensen Huang tells employees Nvidia doesn't need a succession plan because of its unique business model, and that such a plan would create unnecessary hierarchy</a> (CNBC) &mdash; 🤖 <a href="categories/other-tech-news.html" class="ai-category">Other Tech News</a></li>
+    <li><a href="https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident">The US Treasury's FinCEN says it is investigating a cybersecurity incident that "resulted in unauthorized access to a limited subset of its systems"</a> (The Verge) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT">Sources: The CIA, NGA, and ODNI found a breach of an unclassified open-source intelligence system, believed to have been carried out with Artex, an AI hacking tool released by a Chinese engineer</a> (NYTimes) &mdash; 🤖 <a href="categories/security-privacy.html" class="ai-category">Security/Privacy</a></li>
+    <li><a href="https://claude.com/resources/articles/install-as-app">Anthropic rolls out "Install as app" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more</a> (Anthropic) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
+    <li><a href="https://www.wsj.com/cio-journal/anthropics-claude-output-can-be-installed-as-software-e840ac45">Anthropic says Claude users can now create, run, and share artifacts as desktop apps, capping a year that began with Claude stoking fears of software disruption</a> (WSJ) &mdash; 🤖 <a href="categories/ai-machine-learning.html" class="ai-category">AI/Machine Learning</a></li>
   </ul>
 </section>
 
@@ -38,13 +38,13 @@
 
 <section class="status-section" aria-labelledby="status-heading">
   <h2 id="status-heading">Current Status</h2>
-  <p class="status-updated">Last Updated: <time datetime="2026-11-24T17:55:49-08:00">November 24, 2026 at 05:55 PM PST</time></p>
+  <p class="status-updated">Last Updated: <time datetime="2026-11-25T17:35:40-08:00">November 25, 2026 at 05:35 PM PST</time></p>
 
   <div class="status-grid">
     <div class="status-card">
       <h3>Archive Size</h3>
       <ul class="status-list">
-        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,495</span></li>
+        <li><span class="stat-label">Show Links</span> <span class="stat-value stat-number">13,503</span></li>
         <li><span class="stat-label">Weekend Longreads</span> <span class="stat-value stat-number">1,810</span></li>
       </ul>
     </div>
@@ -54,16 +54,16 @@
       <ol class="status-list">
         <li><span class="stat-label">Bloomberg</span> <span class="stat-value">(126 links)</span></li>
         <li><span class="stat-label">The Verge</span> <span class="stat-value">(83 links)</span></li>
-        <li><span class="stat-label">WSJ</span> <span class="stat-value">(63 links)</span></li>
+        <li><span class="stat-label">WSJ</span> <span class="stat-value">(64 links)</span></li>
       </ol>
     </div>
 
     <div class="status-card">
       <h3>Top Topics <span class="stat-period">(Last 6 Months)</span></h3>
       <ol class="status-list">
-        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(282 links)</span></li>
+        <li><a href="categories/ai-machine-learning.html" class="stat-label">AI/Machine Learning</a> <span class="stat-value">(280 links)</span></li>
         <li><a href="categories/hardware-chips.html" class="stat-label">Hardware/Chips</a> <span class="stat-value">(130 links)</span></li>
-        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(111 links)</span></li>
+        <li><a href="categories/regulation-policy.html" class="stat-label">Regulation/Policy</a> <span class="stat-value">(114 links)</span></li>
       </ol>
     </div>
   </div>

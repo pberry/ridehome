@@ -9,6 +9,9 @@ layout: category
 
 ### November
 
+- [Trump says a pardon for Jensen Huang is "always an option" but likely unnecessary, and it's "probably not too late" for the US to take an equity stake in Nvidia](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
+- [Trump says Huang shouldn't need to plead the Fifth at his House and Senate appearances next week; Rep. Jamie Raskin calls the whole thing "a money-making operation"](https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html) (CNBC)
+- [Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny](https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html?unlocked_article_code=1.S1E.egnY.QfAUEI4qFyhS) (NYTimes)
 - [Sources: Trump had JD Vance lead the push to reinstate Jensen Huang, including working to assure Nvidia's board that Huang was not facing criminal charges](https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html?unlocked_article_code=1.SlE.plCA.zs7Mh9MXa5RG) (NYTimes)
 - [Sources: A "war room" of Huang allies, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and Vance to get Huang reinstated as Nvidia CEO](https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc) (FT)
 - [Nvidia's board unanimously votes to reinstate Jensen Huang as CEO, president, and board director, after finding “no national security risk”; NVDA jumps 30%+](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director) (Nvidia)
